@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -98,7 +99,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <hi rendition="#in">J</hi>N der Mittel-Classe dieser grossen General-Baß-Schule ist gegenwaͤrtiger
@@ -116,7 +117,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           Man hat zwar lange wol gemercket, daß in den so genannten halben Tonen
@@ -134,7 +135,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
           Allein so weit sind unsere Ausbesserer noch nicht gegangen, dß sie auch
@@ -150,7 +151,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           Unsere Vorfahren, wie sie ihre Anmerckungen uͤber den Mangel der Tone gemachet,
@@ -168,7 +169,7 @@
 
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           Eben so wenig als unser einer glauben mag, daß nach diesem aus dem <hi rendition="#b">♯E</hi>
@@ -188,7 +189,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           Mit wenigem ist sonst anzudeuten, daß vom
@@ -213,7 +214,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           Diese <hi rendition="#aq"><foreign xml:lang="ita">Aria</foreign></hi> habe ich bey einer vornehmen Person, welche
@@ -240,7 +241,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           Jch habe am Ende der vorhergehenden Erlaͤuterung gesagt, es sollte in dieser

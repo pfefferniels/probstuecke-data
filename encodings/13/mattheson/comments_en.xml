@@ -119,7 +119,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           Everything in nature desires for pleasant variation and never-ending diversion.
@@ -132,7 +132,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           Although one could have put everything neatly in a 9/8 signature and write
@@ -159,7 +159,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           The <ref target="#measure-0000001263987989">eleventh measure</ref>
@@ -176,7 +176,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           From the
@@ -188,7 +188,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
           Since in the
@@ -204,7 +204,7 @@
         </notatedMusic>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-2">
           <ref target="#measure-0000001692641009">The tenth</ref> and
@@ -229,7 +229,7 @@
         </notatedMusic>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1">
           When the bass has a clause like in the
@@ -243,7 +243,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1">
           From
@@ -257,7 +257,7 @@
         </notatedMusic>
       </div>
 
-      <div n="9" type="section">
+      <div n="9">
         <head>§. 9.</head>
         <p xml:id="p9-1">
           Although this arpeggio appears to be in two voice, is basically in four voice

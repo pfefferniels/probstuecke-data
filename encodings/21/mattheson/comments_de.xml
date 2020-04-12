@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -23,12 +24,12 @@
             <surname>Niels</surname>
             <forename>Pfeffer</forename>
           </persName>
-          <availability>
-            <licence target="https://creativecommons.org/licenses/by/4.0">
-              <p>Creative Commons Attribution 4.0 International License</p>
-            </licence>
-          </availability>
         </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl type="M">Mattheson, Johann: Grosse General-Baß-Schule. Hamburg, 1731.</bibl>
@@ -102,7 +103,7 @@
       <pb n="423" facs="#facs-p507"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           <lb/><hi rendition="#in">W</hi>eil der Ton an ſich ſelbst etwas hart faͤllt, ſo habe dieſes <hi rendition="#b">Prob-Stuͤck</hi> mit
@@ -113,7 +114,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           <lb/>Dis wenige iſt doch anzumercken, daß <ref target="#measure-0000000997653530">dem Anfange</ref> ein beſonderer Zierrath zu-
@@ -128,7 +129,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
           Der <ref target="#measure-0000000074112192">ſiebende</ref> und <ref target="#measure-0000001321575188">achte Tact</ref> enthalten wieder den Anfang, und werden
@@ -147,7 +148,7 @@
       <fw place="bottom" type="catch">Bey</fw>
       <pb n="424" facs="#facs-p508"/>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/><ref target="#measure-0000001256239430">Bey Anhebung des andern Theils</ref> wird ſich nun einer beſcheiden, daß, da
@@ -156,7 +157,7 @@
           <lb/>ſehen, daß die Jntervalle ſo weit von einander genommen werden, als muͤglich
           <lb/>iſt: weil, wie ſchon mehrmahlen beruͤhret worden, die Tertzen bey ſolcher Bre-
           <lb/>chung zu enge klingen. Doch hat Noth auch kein Gebot. Jch ſage nur, wenn es zu
-          <lb/>aͤndern ſteht. Als zum Exempel: man kann zum <hi rend="#b">h</hi>, im andern Theile, die Bre-
+          <lb/>aͤndern ſteht. Als zum Exempel: man kann zum <hi rendition="#b">h</hi>, im andern Theile, die Bre-
           <lb/>chung ſo machen. Es wird ſolches niemand wehren.
         </p>
         <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
@@ -170,11 +171,11 @@
         </notatedMusic>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/><ref target="#measure-0000000857212948">Bey dem fuͤnfften Tact des andern Theils</ref> hat der Baß wieder das obige
-          <lb/><hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>: deßwegen mag auch die rechte Hand ihre Tertzen abermahl dabey in die
+          <lb/><hi rendition="#aq">Harpeggio</hi>: deßwegen mag auch die rechte Hand ihre Tertzen abermahl dabey in die
           <lb/>Octaven ſpringen laſſen. <ref target="#measure-0000000616519514">Bey dem ſiebenden</ref> giebt es eine Abwechſelung hierinnen.
           <lb/><ref target="#measure-0000001228700054">Jm neunten</ref> iſt der anfangende Haupt-Satz angebracht, wobey die beliebten
           <lb/>Tertzen ſich bey jeder Note hoͤren laſſen koͤnnen. Der <ref target="#measure-0000001484317561">elffte Tact</ref> erfordert
@@ -188,12 +189,12 @@
         </notatedMusic>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          <lb/>Dieſer Ton, <hi rend="b">H dur</hi>, heiſſet, nach des <persName ref="http://d-nb.info/gnd/1050676637">Herrn von St. Lamberts</persName> rothwelſchen
-          <lb/>Mund-Art: <hi rend="#aq"><foreign xml:lang="fra">B Fa Si Becare majeure</foreign></hi>, und ſtehet abermahl (ich weiß in aller Welt nicht
-          <lb/>warum?) dabey geſchrieben: <hi rend="#aq"><foreign xml:lang="fra">rare</foreign></hi>. Wenn wir lauter Raritaͤten aus unſern To-
+          <lb/>Dieſer Ton, <hi rendition="#b">H dur</hi>, heiſſet, nach des <persName ref="http://d-nb.info/gnd/1050676637">Herrn von St. Lamberts</persName> rothwelſchen
+          <lb/>Mund-Art: <hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Becare majeure</foreign></hi>, und ſtehet abermahl (ich weiß in aller Welt nicht
+          <lb/>warum?) dabey geſchrieben: <hi rendition="#aq">rare</hi>. Wenn wir lauter Raritaͤten aus unſern To-
           <lb/>nen machen wollen, ſo wundert mich nicht, daß die Armuth der General-Baſſiſten
           <lb/>ſo groß iſt. Stuͤnde gleich in der Fibel, bey dem Q, X, Y, u.ſ.w, daß es rare Buch-
           <lb/>ſtaben waͤren, weil ſie nicht ſo oft, als A, E, J, O, U vorkommen; ſo koͤnnte

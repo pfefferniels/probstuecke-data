@@ -34,7 +34,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           Some alleged technician might stumble easily when sight-reading the piece. One wanted
@@ -64,7 +64,7 @@
         </notatedMusic>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           <ref target="#fb-001 #fb-002 #fb-003 #fb-004 #fb-005 #fb-006">The sevenths in the
@@ -77,7 +77,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           Although the <term>Discretamente</term> and its presented explanation
@@ -94,7 +94,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
           Everybody will see that it is the same thing that shows up
@@ -106,7 +106,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-2">
           But nobody must conclude that I wanted all nine keys to be

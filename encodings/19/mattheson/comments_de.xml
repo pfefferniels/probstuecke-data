@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -93,10 +94,10 @@
   </facsimile>
   <text>
     <body>
-      <pb n="412"/>
+      <pb n="412" facs="#facs-p496"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <lb/><hi rendition="#in">H</hi>ier moͤgte nun wohl ein wenig Tactirens noͤthig ſeyn, zumahl fuͤr einen, der
@@ -108,7 +109,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           <lb/>An den Orten dieſer Vorſchrift, wo die 6 ſo haͤuffig ſtehet, als wenns ihrer
@@ -121,7 +122,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
           <lb/>Jm <ref target="#measure-0000000533608303">andern</ref> und <ref target="#measure-0000001856501508">dritten</ref> Tact verrichten die Sexten das Werck, und bleibt das
@@ -135,7 +136,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
           <lb/>Wo der Satz mit einer Pauſe anfaͤngt, nemlich mit einem Achtel, da wird
@@ -161,13 +162,13 @@
           <lb/>die Urſach allda, daß zu der Note, welche auf die Pauſe folget, nichts muß geſchla-
           <lb/>gen werden: weil ſie nemlich durchgehet, wenig ſonderliches zu bedeuten hat, und
           <fw place="bottom" type="catch">nur</fw>
-          <pb n="412"/>
+          <pb n="412" facs="#facs-p497"/>
           <lb/>nur nach der Abreiſſung gleichſam an Statt eines Haackens dienet, wodurch
           <lb/>eines an das andere gehaͤnget wird.
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/>Jm <ref target="#measure-0000001060551138">funffzehnten Tact</ref> haben die Sexten wiederum die Schule, und liegen die
@@ -188,14 +189,14 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Jm <ref target="#measure-0000000452779095">vier-</ref> und <ref target="#measure-0000002077720718">fuͤnff und dreiſſigſten</ref> Tact moͤgte jemand Wunder dencken, wo-
           <lb/>her ſich die harten Bezieferungen ſchrieben; es iſt aber die Sexte und der Accord zu den
           <lb/>folgenden Noten, welche nur voraus genommen werden. Den auſſerordentlichen
-          <lb/>Durchgang<note place="foot" n="(*)" type="footnote">
-          <hi rendition="#aq"><foreign xml:lang="lat">Tranſitum irregularem.</foreign></hi></note>, oder die verwechſelten Noten<note place="foot" n="(**)" type="footnote">
+          <lb/>Durchgang<note place="foot" n="(*)">
+          <hi rendition="#aq"><foreign xml:lang="lat">Tranſitum irregularem.</foreign></hi></note>, oder die verwechſelten Noten<note place="foot" n="(**)">
           <hi rendition="#aq"><foreign xml:lang="ita">Note cambiate.</foreign></hi></note> kann ein jeder hier leicht erkennen.
           <lb/>Sie werden zwar manchem im Niederſchlage des Tacts etwas fremd vorkommen;
           <lb/>aber ſo lange es in der hohen Schule der muſicaliſchen Compoſition <hi rendition="#aq">p. 84.</hi> heiſſet: Auf
@@ -206,7 +207,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           <lb/>Kan einer im <ref target="#measure-0000001126576291">ein und viertzigſten Tact</ref> mit der rechten Hand ein paar Noten
@@ -216,7 +217,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/><persName ref="https://d-nb.info/gnd/1050676637">Mſr. <hi rendition="#aq">St. Lambert</hi></persName> nennet dieſen Ton <hi rendition="#aq">p. 29.<foreign xml:lang="fra">F ut Fa Dièze mineur</foreign></hi>, und ſchrei-

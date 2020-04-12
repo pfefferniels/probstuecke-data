@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -107,7 +108,7 @@
       <pb n="312" facs="#facs-p396"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head><lb/>
-        <div n="1" type="section">
+        <div n="1">
           <head>§. 1.</head><lb/>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">D</hi>Jeſes Prob-Stuͤck kann an Statt einer
@@ -133,7 +134,7 @@
             mit hoͤren laſſen will.
           </p>
         </div>
-        <div n="2" type="section">
+        <div n="2">
           <head>§. 2.</head><lb/>
             <p xml:id="p2-1" facs="#facsZone-p2-1">
               Wo ſolche Saͤtze kommen, als im <ref target="#m-192">vierten Tact</ref>,
@@ -158,7 +159,7 @@
             </p>
           </div>
 
-          <div n="3" type="section">
+          <div n="3">
             <head>§. 3.</head><lb/>
             <p xml:id="p3-1" facs="#facsZone-p3-1">
               Jm <ref target="#m-433">neunten Tact</ref> koͤmmt dergleichen
@@ -172,7 +173,7 @@
             </p>
           </div>
 
-          <div n="4" type="section">
+          <div n="4">
             <head>§. 4.</head><lb/>
             <p xml:id="p4-1" facs="#facsZone-p4-1">
               <ref target="#m-635">Jm Anfange des andern Theils dieſes Prob-Stuͤcks</ref>, nach dem
@@ -189,7 +190,7 @@
             <fw place="bottom" type="catch">Wie</fw>
           </div>
 
-          <div n="5" type="section">
+          <div n="5">
             <pb n="314" facs="#facs-p398"/>
             <head>§. 5.</head><lb/>
             <p xml:id="p5-1" facs="#facsZone-p5-1">
@@ -205,7 +206,7 @@
             </p>
           </div>
 
-          <div n="6" type="section">
+          <div n="6">
             <head>§. 6.</head><lb/>
             <p xml:id="p6-1" facs="#facsZone-p6-1">
               Was die Achtel im
@@ -228,7 +229,7 @@
             </notatedMusic>
           </div>
 
-          <div n="7" type="section">
+          <div n="7">
             <head>§. 7.</head><lb/>
             <p xml:id="p7-1" facs="#facsZone-p7-1 #facsZone-p7-1-2">
               Bey der <ref target="#m-1382">letzten Helffte des dreißigſten Tacts</ref>
@@ -269,7 +270,7 @@
               Muſter nehmen kann.
             </p>
           </div>
-          <div n="8" type="section">
+          <div n="8">
             <head>§. 8.</head>
             <p xml:id="p8-1" facs="#facsZone-p8-1">
               Jch hatte dieſes Exempel, mit aller Bequemlichkeiten, auf zwo kleine gegen ein-<lb/>

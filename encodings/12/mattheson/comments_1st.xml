@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -78,7 +79,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <lb /><p xml:id="p1-1">
           <hi rendition="#in">J</hi>ſt was ſchweres in dieſem gantzen Werk, ſo muß ich
@@ -95,7 +96,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
           Die beſte Warnung, ſo ich einigen guten Freunden hiebey
@@ -133,7 +134,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
           Wenn auch im
@@ -151,7 +152,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-2">
           Jm
@@ -172,7 +173,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
           Mag man sich auch ſchon §. 2. angefu&#x0364;hrter Ursachen halber, den
@@ -196,7 +197,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <lb /><head>§. 6.</head>
         <p xml:id="p6-1">
           Ob nun zwar aus diesem Ton ſo, daß er zum <hi rendition="#aq">Fundament</hi>

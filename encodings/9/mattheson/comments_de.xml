@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -97,7 +98,7 @@
       <pb n="349" facs="#facs-p433"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">E</hi>S wird allhier verſchiedenes zu erinnern ſeyn, falls man anders die Sache
@@ -132,7 +133,7 @@
             <lb/>meine Vertheidigung iſt ſchon fertig.
           </p>
         </div>
-        <div n="2" type="section">
+        <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
             <ref target="#m-1220">Der ſieben und dreißigſte Tact</ref> will,
@@ -149,7 +150,7 @@
           <fw place="bottom" type="catch">Nun</fw>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
             Nun koͤnnte zwar ſolches zur Anweiſung genug ſeyn, und waͤre das fol-
@@ -169,13 +170,13 @@
             <lb/>lich heraus bringen; sonst ſind ſie, ob wol eben keine Stuͤmper, doch nur gantz kleine Lichter. Es gefaͤllt
             <lb/>mir ſonderlich wol, daß der <persName ref="https://d-nb.info/gnd/1050676637">Herr von St. Lambert</persName> es auch ſo gar
             gut heiſſet, wenn man eine eintzige
-            <lb/>Stimme <hi rendition="#aq"><foreign rendition="#fra">accompagnirt</foreign></hi>,
+            <lb/>Stimme <hi rendition="#aq">accompagnirt</hi>,
             und den Haupt-Satz oder die Fugen der Arie mit allen Parteyen auf ſeinem
             <lb/>Clavier dabey nachahmet. Seine Worte lauten auf Teutsch alſo:
             <hi rendition="#b">
               <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
                 Wenn
-                <note place="foot" n="*)" type="footnote">
+                <note place="foot" n="*)">
                   <hi rendition="#aq">
                     <quote xml:id="lambert-quote" corresp="#lambert-quote-trans">
                       <foreign xml:lang="fra">
@@ -204,7 +205,7 @@
           </p>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
             Die drey folgenden Taͤcte fertiget man bloſſerdings mit Tertzen ab, welche bey dem

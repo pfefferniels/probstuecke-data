@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -109,7 +110,7 @@
 
       <div n="0" type="chapter">
         <head>Erla&#x0364;uterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <head>§. 1.</head>
           <p xml:id="p1-1">
             <hi rendition="#in">W</hi>Eil einmahl bey dem General-Baß ſpielen, ſo wie es <hi rendition="#aq">ordinair</hi> geſchieht, we-
@@ -140,12 +141,12 @@
           </p>
         </div>
 
-        <div n="2" type="section">
+        <div n="2">
           <lb /><head>§. 2.</head>
           <lb /><p xml:id="p2-1">
             Keiner wolle ſich indeſſen einbilden, man gebe dieſe <hi rendition="#aq">Aria</hi> fu&#x0364;r Hand-Sa-
             <lb />chen aus; denn die mu&#x0364;ſſen anders kommen: Ein Curieuſer beliebe auch nur et-
-            <fw bottom="place" type="catch">wann</fw>
+            <fw place="bottom" type="catch">wann</fw>
             <pb n="143" />
 
             auch nur eine <hi rendition="#aq"><foreign xml:lang="fra">Suite</foreign></hi> des

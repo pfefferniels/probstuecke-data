@@ -17,7 +17,7 @@
     <body>
       <div n="0" type="chapter">
         <head>Erla&#x0364;uterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <head>§. 1.</head>
           <p>
             One gets tired of noise. All music has to have its variety, and when one has thundered
@@ -25,7 +25,7 @@
             rustling and roaring.
           </p>
         </div>
-        <div n="2" type="section">
+        <div n="2">
           <head>§. 2.</head>
           <p>
             So that one does not feel a lack of it, the occasion to display
@@ -42,7 +42,7 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <head>§. 3.</head>
           <p>
             Where the <ref target="#m-61"><hi rendition="#aq"><foreign xml:lang="ita">Presto</foreign></hi></ref> appears, one plays the keyboard in the strongest way
@@ -50,7 +50,7 @@
           </p>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <head>§. 4.</head>
           <p>
             My remark about this very common key, (which is a trump for the tinkler) would else be,
@@ -61,7 +61,7 @@
           </p>
         </div>
 
-        <div n="5" type="section">
+        <div n="5">
           <head>§. 5.</head>
           <p>
             By the way, here the sentence is proven, that one who cannot sing does not know how to play.
@@ -77,7 +77,7 @@
           </p>
         </div>
 
-        <div n="6" type="section">
+        <div n="6">
           <head>§. 6.</head>
           <p>
             But this singing rule is not to be understood in a way, that one necessarily makes his craft and being out of it or indeed

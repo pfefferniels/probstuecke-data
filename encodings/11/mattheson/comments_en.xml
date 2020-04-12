@@ -17,7 +17,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           How does the organist feel? It appears somewhat colourful here again; but it does not
@@ -32,7 +32,7 @@
           to compose. Tomorrow we come together again.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           I, or someone else, would need to talk like that with an unmusical organist.
@@ -60,7 +60,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           The <ref target="#measure-0000001397371739">seventh</ref>,
@@ -89,7 +89,7 @@
         </notatedMusic>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-2">
           The <ref target="#measure-0000000233971040">tenth measure of the last section</ref>
@@ -107,7 +107,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
           One can see that in the

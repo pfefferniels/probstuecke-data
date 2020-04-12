@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -76,7 +77,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <lb /><hi rendition="#in">W</hi>Er hier feſt ſpringen kan, der ko&#x0364;mmt wol zu recht; ein anderer aber
@@ -93,26 +94,26 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
           <lb />Am Ende des <ref target="#measure-0000001926508584">achten Tacts</ref>, zu den zwey Achteln, ſpielet die
-          <lb />rechte Hand dieſe nebenſtehenden Noten, und <hi rendition="#qu"><foreign xml:lang="lat">alterni</foreign></hi>rt damit im
+          <lb />rechte Hand dieſe nebenſtehenden Noten, und <hi rendition="#aq">alterni</hi>rt damit im
           <lb /><ref target="#measure-0000000566982188">neunten</ref>, <ref target="#measure-0000000362882873">zehnten</ref> und <ref target="#measure-0000000785009598">elfften Tact</ref> nach Maßgebung des Baſſes;
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
           <pb n="212" />
-          <lb />wie auch im <ref target="#measure-0000001425906512">achtzehnten</ref> und <ref target="#measure-0000000763300727">neunzehnten</ref> dieſelbe <hi rendition="#qu"><foreign xml:lang="fra">Paſſage</foreign></hi> wieder vorko&#x0364;mmt; Wer
-          <lb />aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden <hi rendition="#qu"><foreign xml:lang="lat">Menſu</foreign></hi>ren nicht zu ſpa&#x0364;t erſcheinen will, der
-          <lb />muß nicht lange ſa&#x0364;umen, ſondern die Finger <hi rendition="#qu"><foreign xml:lang="lat">galoppi</foreign></hi>ren laſſen.
+          <lb />wie auch im <ref target="#measure-0000001425906512">achtzehnten</ref> und <ref target="#measure-0000000763300727">neunzehnten</ref> dieſelbe <hi rendition="#aq">Paſſage</hi> wieder vorko&#x0364;mmt; Wer
+          <lb />aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden <hi rendition="#aq">Menſu</hi>ren nicht zu ſpa&#x0364;t erſcheinen will, der
+          <lb />muß nicht lange ſa&#x0364;umen, ſondern die Finger <hi rendition="#aq">galoppi</hi>ren laſſen.
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb />Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> anfa&#x0364;nget,</ref> deutet
+          <lb />Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq">Harpeggio</hi> anfa&#x0364;nget,</ref> deutet
           <lb />ſolches allhie ſo viel an, daß die rechte Hand daher Gelegenheit ſuchen ſolle, es
           <lb />nachzuahmen. Solches kann auch ſofort <ref target="#measure-0000001923958404">im andern Tact</ref> geſchehen, etwa fol-
           <lb />gender Geſtalt:‚
@@ -122,18 +123,18 @@
         </notatedMusic>
         <p xml:id="p3-2" facs="#facsZone-p3-2">
           <lb />Wobey nicht zu vergeſſen, daß die Baß-Noten mit Octaven einhergehen, und ſo
-          <lb />dann dem Dinge eine <hi rendition="#qu"><foreign xml:lang="fra">Gravité</foreign></hi> geben ko&#x0364;nnen.
+          <lb />dann dem Dinge eine <hi rendition="#aq">Gravité</hi> geben ko&#x0364;nnen.
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb />Jm <ref target="#measure-0000001018439983">fu&#x0364;nfften</ref> und <ref target="#measure-0000001374019244">ſechſten Tact</ref> des andern Theils nimmt man die § 2 be-
           <lb />ſchriebene Abwechſelung wieder in acht, und will man im <ref target="#measure-0000001269146673">ſiebenden Tact</ref> die
-          <lb /><hi rendition="#aq"><foreign xml:lang="fra">Paſſage</foreign></hi> Tertien-weiſe im Discant mitlaufen laſſen, fu&#x0364;llt ſolches beſſer aus, als
+          <lb /><hi rendition="#aq">Paſſage</hi> Tertien-weiſe im Discant mitlaufen laſſen, fu&#x0364;llt ſolches beſſer aus, als
           <lb />die ſchlechten Griffe. So dann hat man im <ref target="#measure-0000001902655465">neunten</ref>, <ref target="#measure-0000000766995769">zehnten</ref> und <ref target="#measure-0000001822556232">elfften</ref> das
-          <lb />obige <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> abermahl anzubringen, zu den vier letzten Noten aber des
+          <lb />obige <hi rendition="#aq">Harpeggio</hi> abermahl anzubringen, zu den vier letzten Noten aber des
           <lb /><ref target="#measure-0000001822556232">elfften Tacts</ref> nur dieſes wenige zu ſchlagen:
         </p>
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
@@ -141,7 +142,7 @@
         </notatedMusic>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb />Auch kann es nicht u&#x0364;bel klingen, wenn mit dem Ende der <ref target="#measure-0000000216610351">vierten Menſur</ref>
@@ -153,14 +154,14 @@
           <ptr target="music-example5.xml"/>
         </notatedMusic>
         <p xml:id="p5-2" facs="#facsZone-p5-2">
-          <lb />Daß die letzten Noten mit dem Baß Octaven nehmen, gechiehet <hi rendition="#aq"><foreign xml:lang="lat">expreſs</foreign></hi>, um das
-          <lb /><hi rendition="#aq"><foreign xml:lang="lat">Subjectum</foreign></hi>, ſo daſelbſt wieder einfa&#x0364;llt, deſto deutlicher auszudru&#x0364;cken; da dieſel-
+          <lb />Daß die letzten Noten mit dem Baß Octaven nehmen, gechiehet <hi rendition="#aq">expreſs</hi>, um das
+          <lb /><hi rendition="#aq">Subjectum</hi>, ſo daſelbſt wieder einfa&#x0364;llt, deſto deutlicher auszudru&#x0364;cken; da dieſel-
           <lb />ben Noten aber noch einmahl vorkommen, darff man ſie nicht auch noch einmahl
-          <lb />mit Octaven, ſondern <hi rendition="#aq"><foreign xml:lang="fra">ordinair</foreign></hi>, wie das andre, ſpielen, damit abgewechſelt werde.
+          <lb />mit Octaven, ſondern <hi rendition="#aq">ordinair</hi>, wie das andre, ſpielen, damit abgewechſelt werde.
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb />Gleich darauf kann, bey dem ſtillhaltenden Baß, die rechte Hand ſich ho&#x0364;ren
@@ -172,11 +173,11 @@
         </notatedMusic>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           <lb />Gleichergeſtalt leidet der <ref target="#measure-0000002005099252">achtzehende Tact</ref> gar wohl, daß die rechte Hand
-          <lb />in der Harmonie mit der lincken auf eben vorbereitete Art <hi rendition="#aq"><foreign xml:lang="lat">produci</foreign></hi>re. <ref target="#clef-0000000962308835">Bey dem
+          <lb />in der Harmonie mit der lincken auf eben vorbereitete Art <hi rendition="#aq">produci</hi>re. <ref target="#clef-0000000962308835">Bey dem
           <lb />anhebenden niedrigen Baß-Schlu&#x0364;ſſel</ref> aber wird nur einmahl zu vier Noten geſchla-
           <lb />gen, und <ref target="#note-0000000045767801">wo der Baß durch Viertel geht</ref> dieſe Vera&#x0364;nderung im Diſcant gemacht:
         </p>
@@ -187,17 +188,17 @@
 
       <pb n="214" />
 
-      <div n="8" type="section">
+      <div n="8">
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb />§. 8. Daß dieſer Ton in Franckreich was ſeltenes ſeyn mu&#x0364;ſſe, erſehe aus <hi rendition="#aq"><persName ref="https://d-nb.info/gnd/1050676637">Mr. de
           <lb />St. <hi rendition="#i">Lambert</hi></persName></hi> seinem obangefu&#x0364;hrten Tractat vom General-Baß, da er <hi rendition="#aq">p. 27.</hi> ſetzet:
-          <hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre (H) etant un Ton, ſur lequel on compoſe rarement, <note place="foot" n="*)" type="footnote"><hi rendition="#fr">
+          <hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre (H) etant un Ton, ſur lequel on compoſe rarement, <note place="foot" n="*)"><hi rendition="#fr">
             Wir haben Sachen mit Trompeten und Paucken aus dieſem Ton, das iſt zu ſagen: Cammer-Ton. Ich habe
             <lb />den ſonſt betru&#x0364;bten Choral: <hi rendition="#b">Ach bleib bey uns, HErr JEſu Chriſt, &#xA75B;c.</hi> im verwichenen <hi rendition="#aq">Jubilæo</hi> aus
             <lb />dem <hi rendition="#aq">H</hi> Cammer-Ton geſetzet, und ihn mit Trompeten und Paucken Chor-Ton ſo <hi rendition="#aq">accompagni</hi>ret, daß es
             <lb />manchem ins Hertze gangen iſt.
           </hi></note> il n'a point de modulation qui lui ſoit particulierement affectée; s'il en avoit une ce
-          <lb />ieroit la mineure.</foreign></hi> Jch ſage, er habe natu&#x0364;rlicher weiſe <hi rendition="#aq"><foreign xml:lang="lat">tertiam minorem</foreign></hi>, und ha-
+          <lb />ieroit la mineure.</foreign></hi> Jch ſage, er habe natu&#x0364;rlicher weiſe <hi rendition="#aq">tertiam minorem</hi>, und ha-
           <lb />be die Gru&#x0364;nde von allen dieſen Sachen in der zweyten Ero&#x0364;ffnung des
           <hi rendition="#aq">
             <choice>
@@ -211,7 +212,7 @@
         </p>
       </div>
 
-      <div n="9" type="section">
+      <div n="9">
         <p xml:id="p9-1">
           <lb />§. 9. Ein Römer, mit Nahmen <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/132649241">Giovanni Moſſi</persName></hi>, ein Corelliner, der ſchon oben
           <lb />ein paar mal <hi rendition="#aq">citi</hi>ret worden, hat ohnla&#x0364;ngſt ein vortreffliches Werck von <hi rendition="#aq"><name type="musicalWork">12 Sona-

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -74,7 +75,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile decls="#secondEdition">
+  <facsimile>
     <surface ulx="0" uly="0" lrx="1998" lry="2417" xml:id="facs-p428">
       <graphic width="1998px" height="2417px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/428"/>
       <zone ulx="102" uly="320" lry="1909" lrx="1929" xml:id="facsZone-p1-1"/>
@@ -108,7 +109,7 @@
       <pb n="344" facs="#facs-p428"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <head>§. 1.</head>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">W</hi>Eil einmahl bey dem General-Baß ſpielen, ſo wie es gemeinglich ge-

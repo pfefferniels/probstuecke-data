@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -87,7 +88,7 @@
       <pb n="228" />
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <p xml:id="p1-1">
           <lb /><hi rendition="#in">J</hi>ener Soldat hatte das Leben verwircket, und wurde ihm ein Urtheil ab-
@@ -109,7 +110,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
           <lb />Nun mo&#x0364;chte aber mancher Organiſtens-Burſche ſagen: Du lieber GOtt! wie
@@ -125,7 +126,7 @@
       <fw type="catch" place="bottom">Erſt-</fw>
       <pb n="239" />
 
-      <div n="3" type="section">
+      <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
           <!-- no pagebreak after head -->
@@ -144,7 +145,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
           <!-- no pagebreak after head -->
@@ -165,7 +166,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <lb /><head>§. 5.</head>
         <p xml:id="p5-1">
           <!-- no pagebreak after head -->

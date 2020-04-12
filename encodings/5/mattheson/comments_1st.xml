@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -89,7 +90,7 @@
       <div n="0" type="chapter">
         <pb n="128" />
         <head>Erla&#x0364;uterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <lb /><head>§. 1.</head>
           <p>
             <lb /><hi rendition="#in">M</hi>an wird des Lermens mu&#x0364;de.
@@ -101,7 +102,7 @@
           </p>
         </div>
 
-        <div n="2" type="section">
+        <div n="2">
           <lb /><head><sic>§. 6.</sic></head>
           <p>
             <lb />Damit auch hierunter kein Mangel verſpu&#x0364;hret werde, ſo hat man in ge-
@@ -147,7 +148,7 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <lb /><head>§. 3.</head>
           <p>
             <lb />Wo das
@@ -161,7 +162,7 @@
           </p>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <pb n="129" />
           <lb /><head>§. 4.</head>
           <p>
@@ -180,7 +181,7 @@
           </p>
         </div>
 
-        <div n="5" type="section">
+        <div n="5">
           <lb /><head>§. 5.</head>
           <p>
             <lb />Ubrigens wird hierdurch der Satz bewieſen werden, daß, wer nicht
@@ -214,7 +215,7 @@
           </p>
         </div>
 
-        <div n="6" type="section">
+        <div n="6">
           <lb /><head>§. 6.</head>
           <p>
             <lb />Es iſt aber dieſe Sang-Regel nicht ſo zu verſtehen, daß einer nothwendig

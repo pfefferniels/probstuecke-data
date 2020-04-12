@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -107,7 +108,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <hi rendition="#in">E</hi>S bestrebet sich zwar alles, was in der Natur ist, nach angenehmen Veraͤnderungen
@@ -122,7 +123,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
           Ob man nun schon alles hierinn mit dem neun-achtel-Tact gantz wol haͤtte
@@ -142,7 +143,7 @@
           auch geschwinde Taͤcte und geschwinde Noten gebrauchen, damit Zeichen und Sachen
           uͤbereinstimmen. (2) Muß man der Mode in gewissen Stuͤcken nicht absagen,
           welches sonst heißt: <hi rendition="#b">wieder den Strom schwimmen.</hi> Und (3) werden
-          hier keine <note place="foot" n="*" type="footnote" xml:id="fn-01">Die Zeichen 2/4, 2/8 und 2 sind im geringsten
+          hier keine <note place="foot" n="*" xml:id="fn-01">Die Zeichen 2/4, 2/8 und 2 sind im geringsten
           nicht dunckel, sondern sehr einfach und natuͤrlich, die aber meynen, man koͤnne es,
           Statt derselben, mit dem gewoͤhnlichen C allein bestellen, irren sich, haben keine
           Erfahrung, und wissen keine Bewegung zu unterscheiden</note> dunckele Zeichen
@@ -153,7 +154,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
           Der <ref target="#measure-0000001263987989">elffte Tact</ref> muß doch was zu bedeuten haben, weil
@@ -170,7 +171,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           Vom
@@ -183,7 +184,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           Da nun im
@@ -200,7 +201,7 @@
         </notatedMusic>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-2">
           <ref target="#measure-0000001692641009">Der zehnte</ref> und
@@ -229,7 +230,7 @@
         </notatedMusic>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           Wenn, wie im
@@ -243,7 +244,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           Vom
@@ -257,7 +258,7 @@
         </notatedMusic>
       </div>
 
-      <div n="9" type="section">
+      <div n="9">
         <head>§. 9.</head>
         <p xml:id="p9-1" facs="#facsZone-p9-1">
           Dieses <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>, ob es gleich nur zweistimmig aussiehet,

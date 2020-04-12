@@ -78,7 +78,7 @@
 
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <p xml:id="p1-1">
           <lb /><hi rendition="#in">D</hi>Amit ja niemand ſich zu beſchweren haben möge, daß bey diesem <hi rendition="#b">Prob-
@@ -90,7 +90,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
           <!-- no new line beginning after title -->
@@ -127,7 +127,7 @@
 
       <pb n="224" />
 
-      <div n="3" type="section">
+      <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
           <lb />Jm neuenzehnten Tact ſtehet wiederum

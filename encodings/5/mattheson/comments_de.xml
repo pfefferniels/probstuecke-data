@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -95,7 +96,7 @@
       <pb n="329" facs="#facs-p412"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">M</hi>An wird des Lermens muͤde. Alle Muſic muß ihre Abwechſlung haben:
@@ -104,7 +105,7 @@
             <lb/>etwas rauſchendes und brauſendes, folgen.
           </p>
         </div>
-        <div n="2" type="section">
+        <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
             Damit auch hierunter kein Mangel verſpuͤhret werde, ſo hat man, in ge-
@@ -116,10 +117,13 @@
             <lb/>von nun, und wie gedachtes Spielen ſoll eingerichtet ſeyn, etwas gewiſſes oder
             <lb/>eigentliches zu ſagen, iſt die lautere Unmuͤgligkeit: maſſen ſolches aus freien Ein-
             <lb/>faͤllen herflieſſen muß, und gar nicht gezwungen ſeyn will. So viel ist uͤberhaupt
-            <lb/>zu melden, <sic>das</sic> der Baß <foreign xml:lang="fra">accompagnirt</foreign> oder voll-greifft, die rechte Hand aber
+            <lb/>zu melden, <sic>das</sic> der Baß accompagnirt oder voll-greifft, die rechte Hand aber
             <lb/>nur einſtimmig,
             <hi rendition="#aq">
-              <foreign xml:lang="lat"><abbr>i.e.</abbr> solo</foreign>
+              <choice resp="#pfeffer">
+                <abbr>i.e.</abbr>
+                <expan>id est</expan>
+              </choice> solo
             </hi>, auf das allerſingbarſte dabey einhergehet. Nun sind
             <lb/> gleichwol die Baß-Gaͤnge auch ſo leicht und natuͤrlich hier eingerichtet, daß einer ſehr
             <lb/>unerfahren ſeyn muͤſte, der nicht augenblicklich darzu eine geſchickte Ober-Stimme
@@ -130,10 +134,10 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
-            Wo das <ref target="#m-61"><hi rendition="#aq"><foreign xml:lang="ita">Presto</foreign></hi></ref>
+            Wo das <ref target="#m-61"><hi rendition="#aq">Presto</hi></ref>
             befindlich iſt, da greiffet man das Clavier aufs ſtaͤrckeſte, und
             <lb/>ſchlaͤgt zu jeder Note hurtig an. Die Abwechſelung kann hiebey nicht unangenehm
             <lb/>ſeyn, ſondern wird zugleich den Studirenden ermuntern, und den Zuhoͤrer be-
@@ -141,7 +145,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb/><head>§. 4.</head>
         <lb/><p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
           Meine Anmerckung uͤber den vorhabenden allergemeinſten Tone, (welcher
@@ -152,12 +156,16 @@
           <lb/>chen und betruͤbten Tonen was flieſſendes und munteres, mit Beifall, ſetzen und
           <lb/>ſpielen kann; alſo aus dieſem harten und Gaſſen-maͤßigen
           <hi rendition="#b">C dur</hi> etwas zaͤrtli-
-          <lb/>ches und bewegliches nicht uͤbel klinge. <abbr>Z.E.</abbr>
-          Ein <hi rendition="#aq"><foreign>Solo</foreign></hi> auf der <hi><foreign xml:lang="fra">Viole d'Amour &amp;c</foreign></hi>.
+          <lb/>ches und bewegliches nicht uͤbel klinge.
+          <choice>
+            <abbr>Z.E.</abbr>
+            <expan>Zum Exempel</expan>
+          </choice>
+          Ein <hi rendition="#aq">Solo</hi> auf der <hi rendition="#aq"><foreign xml:lang="fra">Viole d'Amour &amp;c</foreign></hi>.
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <lb/><head>§. 5.</head>
         <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
           Uebrigens wird hierdurch der Satz bewieſen werden, <hi rendition="#b">daß, wer nicht ſin-
@@ -170,7 +178,7 @@
           <lb/>Bieder-Maͤnnern nicht glauben will, der probire es bey den haͤuffigen Kirchen-
           <lb/>Sachen, die ein Sangloser Organiſt etwa geſchmadert hat, (denn es gibt frucht-
           <lb/>bare Naͤchte bey dieſen Leuten, in welchen die Piltze, ich meyne ihre ſo genannte
-          <lb/><hi foreign="#aq"><foreign xml:lang="lat">Compoſitiones</foreign></hi>,
+          <lb/><hi rendition="#aq">Compoſitiones</hi>,
           auf einmahl aus der Erden, Dutzent-Weiſe, hervordringen) und
           <lb/>hoͤre zu, wie ſchlecht die Melodien an einander haͤngen, wie armſelig es klinge.
           <lb/>Wer auch weiter gehen will, der laſſe einen ſolchen im Singen unerfahrenen Men-
@@ -179,7 +187,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <lb/><head>§. 6.</head>
         <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
           Es iſt aber unſre Sang-Regel nicht ſo zu verſtehen, daß einer nothwendig
@@ -193,7 +201,7 @@
           <lb/>ihren Befehl ertheilen; ſonſt ist alles hoͤltzern und todt. Es wuſſte dieſes schon
           <persName ref="http://d-nb.info/gnd/119396637">D.
           <lb/>Lippius</persName>
-          <note place="foot" n="*)" type="footnote">
+          <note place="foot" n="*)">
             <hi rendition="#aq">
               <foreign xml:lang="lat">Tanto perfectior organicus eſt muſicus, quanto plura in vocali confecit ſpatia.
                 <hi rendition="#i">

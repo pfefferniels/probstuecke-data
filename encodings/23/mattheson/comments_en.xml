@@ -33,7 +33,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p>
           A soldier deserved to die, and the verdict was pronounced that he
@@ -52,7 +52,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p>
           Now, some organists and their fellows may say: Dear God!
@@ -66,7 +66,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p>
           First of all, if the piece is to be played
@@ -83,7 +83,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p>
           Now do your best and let us hear you. I do not ask that the right hand
@@ -102,7 +102,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p>
           To the dear elderly who teach that the thorough-bass does not require

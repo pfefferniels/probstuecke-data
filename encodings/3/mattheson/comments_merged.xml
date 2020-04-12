@@ -85,7 +85,7 @@
             <div n="0" type="chapter">
                 <pb n="118" />
                 <head>Erla&#x0364;uterung.</head>
-                <div n="1" type="section">
+                <div n="1">
                     <lb source="#firstEdition" /><head>§. 1.</head>
                     <p xml:id="p1-1">
                         <lb source="#firstEdition" /><hi rendition="#in">D</hi>A iſt gut
@@ -163,7 +163,7 @@
                     </p>
                 </div>
 
-                <div n="2" type="section">
+                <div n="2">
                     <lb source="#firstEdition" /><head>§. 2.</head>
                     <p xml:id="p2-1">
                         <lb source="#firstEdition" />Sonst
@@ -398,7 +398,7 @@
                     </p>
                 </div>
 
-                <div n="3" type="section">
+                <div n="3">
                     <lb source="#firstEdition" /><head>§. 3.</head>
                     <p xml:id="p3-1">
                         <lb source="#firstEdition" />Jm <ref target="#m-420 #m-447">zehnten folgenden Tact</ref> ſchla&#x0364;gt die rechte Hand allemahl vor, wo

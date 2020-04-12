@@ -34,7 +34,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           <ref target="#m-35 #m-57 #m-80 #m-105 #m-128">
@@ -50,7 +50,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           In the <ref target="#m-478">21st measure</ref> the main subject comes again in the repercussion of the fifth,
@@ -62,7 +62,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           In the <ref target="#m-758">33rd measure</ref> a new invention begins, which requires that the right hand
@@ -74,7 +74,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           Four measures later the bass takes up again the previously mentioned
@@ -89,7 +89,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p>
           Afterwards, the often-mentioned scale appears in the right hand on the
@@ -98,7 +98,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1">
           In the end, the music of measure <ref target="#m-662">29</ref>–<ref target="#m-736">32</ref> and
@@ -110,7 +110,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <!--
         <head>ARIA del <hi rendition="#i">Signore Marcello</hi>, Nobile Veneto.</head>
         -->

@@ -17,7 +17,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p>
           The first <ref target="#m-35">four notes</ref> of this piece are to be played unbroken, with four full and short strokes, and on the
@@ -35,7 +35,7 @@
           </notatedMusic>
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p>
           In the last half of the mentioned <ref target="#m-101">fourth measure</ref> the right hand has to play six times per crotchet. This
@@ -47,7 +47,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p>
           The <ref target="#m-327">eighth bar</ref> develops the described interlude three times in ascending degrees in the right hand, while
@@ -61,7 +61,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p>
           The <ref target="#m-468">twelfth bar</ref> wants to be played full-voiced in the bass, while the right hand can make use of everything
@@ -76,7 +76,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p>
           Now it has been indicated in § 3. how to deal with notes as they show up again in <ref target="#m-928">m. 21</ref> and <ref target="#m-947">m. 22</ref>;
@@ -86,7 +86,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p>
           Now we turn around the motive in  <ref target="#m-962">m. 23</ref> a little and take it in the right hand as it can be seen in the next beats in the
@@ -95,7 +95,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p>
           In <ref target="#m-1078">m. 25</ref> the simple motive of the beginning occurs once more. Since it can be heard for the fourth time it fairly deserves
@@ -114,7 +114,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p>
           Was has been there in m. 23 comes in again in <ref target="#m-1117">m. 26</ref>, <ref target="#m-1191">m. 27</ref> and

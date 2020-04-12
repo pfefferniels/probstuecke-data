@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -99,10 +100,10 @@
   </facsimile>
   <text>
     <body>
-      <pb n="407"/>
+      <pb n="407" facs="#facs-p491"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <lb/><hi rendition="#in">J</hi>m <ref target="#measure-0000001647363724">erſten Tact</ref> wird zu den beiden erſten Noten angeſchlagen; zu den uͤbrigen
@@ -111,7 +112,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           <lb/>Jm <ref target="#measure-0000001605013106">fuͤnfften Tact</ref> wird nur zu der <ref target="#note-0000000316164270">erſten</ref> und <ref target="#note-0000000125245410">achten Note</ref> das Gehoͤrige und
@@ -126,7 +127,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
           <lb/>Mit folgenden <ref target="#measure-0000000404998919">ſechszehnten</ref>, <ref target="#measure-0000000797194466">ſiebenzehnten</ref> und <ref target="#measure-0000000971045622">achtzehnten Taͤcten</ref> verfaͤh-
@@ -137,14 +138,14 @@
           und dreiſſigſten</ref> und <ref target="#measure-0000000804701007">acht und dreiſſigſten Tact</ref> in acht nehmen, und dazu eben das
           <lb/>ſpielen, was der Baß in den beiden vorhergehenden Taͤcten gehabt hat; doch alſo,
           <fw place="bottom" type="catch">als</fw>
-          <pb n="408"/>
+          <pb n="408" facs="#facs-p492"/>
           <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
           <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
           <lb/>der Note, angegriffen, und vollſtimmig zu Ende gebracht.
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/>Es ſtehet wol zu beobachten, daß im <ref target="#measure-0000001612761976">andern Tact des andern Theils</ref> die
@@ -155,7 +156,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/>Bis an den <ref target="#measure-0000000931339172">ſieben und zwantzigſten Tact</ref> dieſes Theils faͤllt weiter nichts zu
@@ -166,7 +167,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Bey dem <ref target="#measure-0000000030851495">31ſten Tact des andern Theils</ref> kommt der Satz wieder, ob wol in
@@ -180,13 +181,13 @@
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1 #facsZone-music-example1-2">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
-          <pb n="409"/>
+          <pb n="409" facs="#facs-p493"/>
           <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte anſchla-
           <lb/>gen muß, welches je und allewege feſt geſetzet wird.
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           <lb/>Sonſt habe mit Fleiß den gantzen Vorfall hieher ſetzen wollen, damit, wenn
@@ -200,7 +201,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Es hat der beruͤhmte <hi rendition="#b"><persName ref="http://d-nb.info/gnd/11862119X">Herr Telemann</persName></hi> ehemals ſechs Concerte herauſge-

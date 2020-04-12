@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -77,10 +78,10 @@
       <pb n="136" />
       <div n="0" type="chapter">
         <head>Erla&#x0364;uterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1">
-            <hi rendition="#in">T</hi>a&#x0364;glich wird bemercket, daß den <hi rendition="aq">Clavicymbal</hi>ſten, nebſt dem <hi rendition="#aq">Semicant</hi>, kein
+            <hi rendition="#in">T</hi>a&#x0364;glich wird bemercket, daß den <hi rendition="#aq">Clavicymbal</hi>ſten, nebſt dem <hi rendition="#aq">Semicant</hi>, kein
             <lb /><hi rendition="#aq">Clavis</hi> ſo fremd vorkomme, als der Alt. Die Urſache ru&#x0364;hret daher, daß,
             <lb />wenn ja ein Knabe zum Singen <hi rendition="#aq">Diſpoſition</hi> und Anfu&#x0364;hrung im Singen hat, unter
             <lb />funffzig wol kaum zwey ſind, die einen Alt ſingen, beſondern es ſchreyet alles
@@ -88,7 +89,7 @@
             <lb />kennen, und beku&#x0364;m&#x0303;ert ſich dabey um keinen andern, als um den Baß; damit iſt ſeine gantze
             <lb />Clavier-Weißheit aufgeschloſſen. Ne&#x0364;chſt dieſem ſind wir hier in Teutschland gu-
             <lb />ten Theils ſehr eckel in Anſehung der Frantzo&#x0364;ſiſchen Hand-Sachen, ob wol ſonſt
-            <lb />alles andere, was Frantzo&#x0364;ſiſch iſt und heiſſet, <hi rendition="#aq"><foreign lang="fr">par Affectation</foreign></hi> auch ſo gar >das Tact-
+            <lb />alles andere, was Frantzo&#x0364;ſiſch iſt und heiſſet, <hi rendition="#aq"><foreign xml:lang="fr">par Affectation</foreign></hi> auch ſo gar >das Tact-
             <lb />Pru&#x0364;geln, bey uns willkommen. Jeder <hi rendition="#aq">Informator</hi> vermeynet, seine eigene Gebur-
             <lb />ten ſind die beſten zum Unterricht; ich aber halte dafu&#x0364;r, es mag einer noch ſo vor-
             <lb />trefflich <hi rendition="#aq">componi</hi>ren, und wenn ers auch, ich weiß nicht wem, gleich tha&#x0364;te, ſoll er
@@ -119,7 +120,7 @@
           </p>
         </div>
 
-        <div n="2" type="section">
+        <div n="2">
           <lb /><head>§. 2.</head>
           <lb /><p xml:id="p2-1">
             Solte einem das
@@ -132,7 +133,7 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <lb /><head>§. 3.</head>
           <lb /><p xml:id="p3-1">
             Hiebey kann ich nicht unberu&#x0364;hret laſſen, was
@@ -146,71 +147,16 @@
             <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
               <hi rendition="#aq">
                 Quand la meſure eſt ſi preſſée
-                <lb />(da er doch nur von dem drey-viertel-Tact handelt) que
-                <choice>
-                  <sic>l'accompagneur</sic>
-                  <corr source="#lambert-traite">l'Accompagnateur</corr>
-                </choice> n'a pas la
-                <lb />commodité de jouer toutes les Notes, il peut ſe
-                contenter de jouer &amp; d'accom-
-                <lb />pagner ſeulement la premiere
-                <choice>
-                  <sic>Note</sic>
-                  <corr source="#lambert-traite">note</corr>
-                </choice> de chaque meſure, laiſſant
-                <choice>
-                  <sic>aux</sic>
-                  <corr source="#lambert-traite">au</corr>
-                </choice> Basses de
-                <lb />Viole ou de Violon à jouer toutes les
-                <choice>
-                  <sic>Notes</sic>
-                  <corr source="#lambert-traite">notes</corr>
-                </choice>, ce qu'elles peuvent faire beau-
-                coup plus aiſement, n'ayant point
-                d'accompagnement à y joindre. Les
-                <lb />grandes viteſſes ne conviennent point aux
-                <choice>
-                  <sic>Inſtrumens</sic>
-                  <corr source="#lambert-traite">Inſtruments</corr>
-                </choice> qui accompagnent;
-                <lb />c'est
-                <choice>
-                  <sic>pourquoi</sic>
-                  <corr source="#lambert-traite">pourquoy</corr>
-                </choice> quand il ſe trouve des
-                <choice>
-                  <sic>Passages</sic>
-                  <corr source="#lambert-traite">passages</corr>
-                </choice> fort <choice>
-                  <sic>vites</sic>
-                  <corr source="#lambert-traite">vîtes</corr>
-                </choice>, <hi rendition="#i">même dans une meſu-
-                <lb />re lente</hi>,
-                <choice>
-                  <sic>l'accompagneur</sic>
-                  <corr source="#lambert-traite">l'Accompagnateur</corr>
-                </choice>
-                les peut laisſer jouer aux autres
-                <choice>
-                  <sic>Inſtrumens</sic>
-                  <corr source="#lambert-traite">Inſtruments</corr>
-                </choice>, ou, ſ'il
+                <lb />(da er doch nur von dem drey-viertel-Tact handelt) que l'accompagneur n'a pas la
+                <lb />commodité de jouer toutes les Notes, il peut ſe contenter de jouer &amp; d'accom-
+                <lb />pagner ſeulement la premiere Note de chaque meſure, laiſſant aux Basses de
+                <lb />Viole ou de Violon à jouer toutes les Notes, ce qu'elles peuvent faire beau-
+                <lb />coup plus aiſement, n'ayant point d'accompagnement à y joindre. Les
+                <lb />grandes viteſſes ne conviennent point aux Inſtrumens qui accompagnent;
+                <lb />c'est pourquoi quand il ſe trouve des Passages fort vites, <hi rendition="#i">même dans une meſu-
+                <lb />re lente</hi>, l'accompagneur les peut laisſer jouer aux autres Inſtrumens, ou, ſ'il
                 <lb />les joue, il peut reformer cette viteſſe, ne touchant
-                <lb/>que les <choice>
-                  <sic>Notes</sic>
-                  <corr source="#lambert-traite">notes</corr>
-                </choice> principales de ces <choice>
-                  <sic>Passages</sic>
-                  <corr source="#lambert-traite">passages</corr>
-                </choice>; c'eſt à dire, les <choice>
-                  <sic>Notes</sic>
-                  <corr source="#lambert-traite">notes</corr>
-                </choice> qui tombent ſur les principaux
-                <choice>
-                  <sic>tems</sic>
-                  <corr source="#lambert-traite">temps</corr>
-                </choice>
+                <lb/>que les Notes principales de ces Passages; c'eſt à dire, les Notes qui tombent ſur les principaux tems
                 <lb />de la meſure.
               </hi>
             </quote>
@@ -218,7 +164,7 @@
             Jch muß geſtehen, die <hi rendition="#aq">Invention</hi> gefa&#x0364;llt mir nicht u&#x0364;bel und ſie iſt ſehr ge-
             <lb />ma&#x0364;chlich; ich mag die Wotte aber nicht verteutschen, damit ſich meine Organiſten
             <lb />nicht bey dieſer <hi rendition="#aq">Pieçe</hi> derselben bedienen. Es ko&#x0364;mmt ſonſt bald ſo heraus, als wenn
-            <lb /><persName type="fictional">Signor Caraffa</persName> bey geſchwinden und flüchtigen Noten im Baſſe eine <hi rendition="#aq">priſe</hi> To-
+            <lb /><persName>Signor Caraffa</persName> bey geſchwinden und flüchtigen Noten im Baſſe eine <hi rendition="#aq">priſe</hi> To-
             <lb />back mit der lincken Hand nimmt, wie uns der
             <persName ref="http://d-nb.info/gnd/118567934">Herr <hi rendition="#b">Kuhnau</hi></persName>
             deſſen <hi rendition="#aq">pag. 23</hi>
@@ -226,7 +172,7 @@
           </p>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <lb /><head>§. 4.</head>
           <lb /><p xml:id="p4-1">
             Es ſtehet u&#x0364;brigens zu wissen, daß der gantze <hi rendition="#aq">Brillant</hi> darin beruhet, wenn man Note vor
@@ -269,7 +215,7 @@
           </p>
         </div>
 
-        <div n="5" type="section">
+        <div n="5">
           <lb /><head>§. 5.</head>
           <lb /><p xml:id="p5-1">
             Die Freyheit ſo ich mir ſonſt hier gegeben, aus dem <hi rendition="#aq">Ambitu</hi> zu weichen, und eine

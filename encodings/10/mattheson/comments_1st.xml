@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -76,7 +77,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <lb /><p xml:id="p1-1">
           <hi rendition="#in">D</hi>Je
@@ -95,7 +96,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <lb /><p xml:id="p2-1">
           Bey dem <ref target="#m-478">ein und zwantzigſten Tact</ref> fa&#x0364;llt das
@@ -118,7 +119,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           Der <ref target="#m-758">drey und dreyßigſte</ref> Tact hebt eine neue
@@ -136,7 +137,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <lb /><p xml:id="p4-1">
           Nach Verflieſſung vier Mensuren ergreifft der Baß abermahl den vorer-
@@ -159,7 +160,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <lb /><head>§. 5.</head>
         <lb /><p xml:id="p5-1">
           Nach dieſem Satz kommt der offtgemeldete Lauff mit der rechten Hand
@@ -169,7 +170,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1">
           Zum Beschluß folget was ſchon im <ref target="#m-662">neun und zwantzigſten</ref>
@@ -187,11 +188,11 @@
           <lb />angebracht werden, zumahl wo ein <hi rendition="#aq">forte</hi>
           <lb />und <hi rendition="#aq">tutti</hi> ſtehet; denn sonst wu&#x0364;rde
           alles dadurch gar leicht u&#x0364;berta&#x0364;ubet und verdor-
-          <lb />ben werden. <hi>Loco allegatorum</hi> kan folgende Arie dienen.
+          <lb />ben werden. <hi rendition="#aq">Loco allegatorum</hi> kan folgende Arie dienen.
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <!--
         <head>ARIA del <hi rendition="#i">Signore Marcello</hi>, Nobile Veneto.</head>
         -->
@@ -202,7 +203,7 @@
           Jch laſſe dieſe recht ſcho&#x0364;ne Arie hier
           aus verſchiedenen wichtigen Ursachen ein-
           <lb />flieſſen:
-          <list rendition="inline">
+          <list>
             <item>(1) damit einer ſich dru&#x0364;ber mache, und selbige
               <hi rendition="#aq">solmisi</hi>re;</item>
             <item>(2) weil ♭D,

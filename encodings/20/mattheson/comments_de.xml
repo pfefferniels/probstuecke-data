@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -109,9 +110,10 @@
   </facsimile>
   <text>
     <body>
+      <pb n="417" facs="#facs-p501"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <hi rendition="#in">W</hi>er hier feſt ſpringen kann, der koͤmmt wol zu recht; ein anderer aber wird
@@ -136,7 +138,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
           <lb/>Am Ende des <ref target="#measure-0000001926508584">achten Tacts</ref>, zu den zwey Achteln, ſpielet die
@@ -145,14 +147,14 @@
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
-          <pb n="418"/>
+          <pb n="418" facs="#facs-p502"/>
           <lb/>wie denn auch im <ref target="#measure-0000001425906512">achtzehnten</ref> und <ref target="#measure-0000000763300727">neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
           <lb/>aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden Menſuren nicht zu ſpaͤt erſcheinen will, der muſs
           <lb/>nicht lange ſaͤumen, ſondern die Finger galoppiren laſſen.
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
           <lb/>Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> anfaͤnget,</ref> deutet
@@ -169,7 +171,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/>Jm <ref target="#measure-0000001018439983">fuͤnfften</ref> und <ref target="#measure-0000001374019244">ſechſten Tact</ref> des andern Theils nimmt man die obbeſchrie-
@@ -184,14 +186,14 @@
         </notatedMusic>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/>Auch kann es nicht uͤbel klingen, wenn mit dem Ende der <ref target="#measure-0000000216610351">vierten Menſur</ref> die
           <lb/>rechte Hand ihre Accorde und Griffe eben ſo bricht, als der Baß die ſeine. Solches
           <lb/>muß aber nur auf dieſe drey Viertel geſchehen:
         </p>
-        <pb n="419"/>
+        <pb n="419" facs="#facs-p503"/>
         <notatedMusic xml:id="music-example5" facs="#facsZone-music-example5">
           <ptr target="music-example5.xml"/>
         </notatedMusic>
@@ -204,7 +206,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Gleich darauf kann, bey dem ſtillhaltenden Baß, die rechte Hand ſich hoͤren
@@ -216,7 +218,7 @@
         </notatedMusic>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           <lb/>Gleicher geſtalt leidet der <ref target="#measure-0000002005099252">achtzehende Tact</ref> gar wol, daß die rechte Hand
@@ -224,20 +226,21 @@
           <lb/>anhebenden niedrigen Baß-Schluͤſſel</ref> aber wird nur einmahl zu vier Noten angeſchla-
           <lb/>gen, und, <ref target="#note-0000000045767801">wo der Baß durch Viertel geht</ref>, dieſe Veraͤnderung im Diſcant gemacht:
         </p>
-        <pb n="420"/>
+        <pb n="420" facs="#facs-p504"/>
         <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">
           <ptr target="music-example7.xml"/>
         </notatedMusic>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Daß dieſer Ton in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
-          <lb/>bertiſchen<note place="foot" n="*)" type="footnote"><hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre
+          <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre
           etant un Ton, ſur lequel on compoſe rarement, il n'y a point
-          <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure. <bibl><hi rendition="#i">Mr. de St. Lambert, Traité de l'Accompagnement</hi>,
-          p.27.</bibl></foreign></hi></note> Buche vom General-Baß, da es ſo lautet: <quote>H iſt ein Ton, aus wel-
+          <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.</foreign>
+          <bibl><hi rendition="#i">Mr. de St. Lambert, Traité de l'Accompagnement</hi>,
+          p.27.</bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <quote>H iſt ein Ton, aus wel-
           <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
           <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine
           <lb/>ſeyn.</quote> Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben

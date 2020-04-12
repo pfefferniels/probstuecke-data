@@ -17,7 +17,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p>
           It has been said already, that everything, that one might want to add in these pieces to the right hand, is found in the bass
@@ -34,7 +34,7 @@
           It suffices if it sounds well.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p>
           If it did not happen for the delight of upright people who want to make use of this little opus,
@@ -50,7 +50,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           The common reasons for bass variations are, that the principal notes appear first and the ornamental ones thereafter. But in
@@ -72,7 +72,7 @@
       </div>
 
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           Now there are nine colourful measures in the bass; and although from time to time one or the other figure has been left away,
@@ -92,7 +92,7 @@
         </notatedMusic>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p>
           But on with the text. What do you play on the
@@ -105,7 +105,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <p xml:id="p6-1">
           Concerning the sixths and fourths, the necessary has been said already multiple times; but whomever they do not
           befit in the way I want them to be, might rather play a chord in the <ref target="#m-41">first</ref> and

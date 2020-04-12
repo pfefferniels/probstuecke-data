@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -74,7 +75,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile decls="#secondEdition">
+  <facsimile>
     <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p389">
       <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/389"/>
       <zone ulx="66" uly="1004" lry="1978" lrx="1899" xml:id="facsZone-p1-1"/>
@@ -99,7 +100,7 @@
     <body>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head><lb/>
-        <div n="1" type="section">
+        <div n="1">
           <lb/><head>§. 1.</head><lb/>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
             <lb/><hi rendition="#in">J</hi>Ener Geiſtliche wollte die truͤbſeligen Zeiten des menſchlichen Lebens gerne
@@ -124,7 +125,7 @@
             gen Geiſtes, und eines froͤhlichen Hertzens. Friſch daran, iſt hier das beſte Mittel.
           </p>
         </div>
-        <div n="2" type="section">
+        <div n="2">
           <lb/><head>§. 2.</head>
           <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZonep2-1-2">
             <lb/>Die
@@ -156,7 +157,7 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <pb n="307" facs="#facs-p391"/>
           <lb/><head>§. 3.</head><lb/>
           <p xml:id="p3-1" facs="#facsZone-p3-1">
@@ -176,7 +177,7 @@
           </p>
           <figure type="notatedMusic">
             <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
-              <ref type="editorial-note" xml:id="commented-extract" corresp="#extract-comment">
+              <ref type="editorialNote" xml:id="commented-extract" corresp="#extract-comment">
                 <ptr target="music-example2.xml"/>
               </ref>
             </notatedMusic>
@@ -186,7 +187,7 @@
           </note>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <lb/><head>§. 4.</head><lb/>
           <p xml:id="p4-1" facs="#facsZone-p4-1">
             <lb/>Jm <ref target="#m-1162">drey und dreißigſten Tact</ref> moͤgte es nicht uͤbel klingen, wenn mit den

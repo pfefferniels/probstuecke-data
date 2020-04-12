@@ -34,7 +34,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           Various things will need to be noted if one wants to play the thing according to the author's liking.
@@ -57,7 +57,7 @@
           But my defense is already done.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           <ref target="#m-1220">The 37th measure</ref> and <ref target="#m-1253 #m-1295 #m-1334">the following ones</ref>
@@ -70,7 +70,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           Now this might be enough of instruction, everything else can naturally be deduced from it.
@@ -99,7 +99,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           The three following bars are done simply with thirds, which sufficently fill in an Allegro,

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -74,7 +75,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <facsimile decls="#secondEdition">
+  <facsimile>
     <surface ulx="0" uly="0" lrx="1998" lry="2477" xml:id="facs-p422">
       <graphic width="1998px" height="2477px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/422"/>
       <zone ulx="99" uly="338" lry="1564" lrx="1956" xml:id="facsZone-p1-1"/>
@@ -93,7 +94,7 @@
       <pb n="318" facs="#facs-p422"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
-        <div n="1" type="section">
+        <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">T</hi>aͤglich wird bemercket, daß den General-Baßisten, naͤchst dem hohen Alt, kein Schluͤſ-
@@ -138,7 +139,7 @@
             <lb/>gel mich veranlaſſet hat, das beſagte gemeine Alt-Zeichen hier offt zu gebrauchen. </p>
         </div>
 
-        <div n="2" type="section">
+        <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
             Solte einem das
@@ -151,7 +152,7 @@
           </p>
         </div>
 
-        <div n="3" type="section">
+        <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
             Hiebey kann ich nicht unberuͤhret laſſen, was der
@@ -162,10 +163,8 @@
             <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
               <hi rendition="#b">
                 Wenn ein ſo geſchwinder Tact vorkoͤmmt,
-              </hi>
-              <gloss>(es wird
-                <lb/>aber nur von dem Drey-Viertel-Tact geredet)
-              </gloss>
+              </hi> (es wird
+              <lb/>aber nur von dem Drey-Viertel-Tact geredet)
               <hi rendition="#b">
                 daß der General-Baſſiſte die Bequemlichkeit nicht
                 <lb/>findet, alle und jede Noten zu ſpielen, kann er damit ſchon vergnuͤget ſeyn, wenn er
@@ -182,67 +181,16 @@
                 Aufſchlag des Tacts fallen.
               </hi>
             </quote>
-            <note place="foot" n="*)" type="footnote">
+            <note place="foot" n="*)">
               <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
                 <hi rendition="#aq">
-                  <lb/>Quand la meſure eſt ſi preſſée que
-                  <choice>
-                    <sic>l'accompagneur</sic>
-                    <corr source="#lambert-traite">l'Accompagnateur</corr>
-                  </choice> n'a pas la commodité de jouer toutes les Notes, il peut ſe
-                  <lb/>contenter de jouer &amp; d'accompagner ſeulement la premiere
-                  <choice>
-                    <sic>Note</sic>
-                    <corr source="#lambert-traite">note</corr>
-                  </choice> de chaque meſure, laiſſant
-                  <choice>
-                    <sic>aux</sic>
-                    <corr source="#lambert-traite">au</corr>
-                  </choice> Basses de
-                  <lb/>Viole ou de Violon à jouer toutes les
-                  <choice>
-                    <sic>Notes</sic>
-                    <corr source="#lambert-traite">notes</corr>
-                  </choice>, ce qu'elles peuvent faire beaucoup plus aiſement, n'ayant point
-                  <lb/>d'accompagnement à y joindre. Les grandes viteſſes ne conviennent point aux
-                  <choice>
-                    <sic>Inſtrumens</sic>
-                    <corr source="#lambert-traite">Inſtruments</corr>
-                  </choice> qui accompa-
-                  <lb/>gnent; c'est
-                  <choice>
-                    <sic>pourquoi</sic>
-                    <corr source="#lambert-traite">pourquoy</corr>
-                  </choice> quand il ſe trouve des
-                  <choice>
-                    <sic>Passages</sic>
-                    <corr source="#lambert-traite">passages</corr>
-                  </choice> fort <choice>
-                    <sic>vites</sic>
-                    <corr source="#lambert-traite">vîtes</corr>
-                  </choice>, <hi rendition="#i">même dans une meſure lente</hi>,
-                  <choice>
-                    <sic>l'accompagneur</sic>
-                    <corr source="#lambert-traite">l'Accompagnateur</corr>
-                  </choice>
-                  <lb/>les peut laisſer jouer aux autres <choice>
-                    <sic>Inſtrumens</sic>
-                    <corr source="#lambert-traite">Inſtruments</corr>
-                  </choice>, ou, ſ'il les joue, il peut reformer cette viteſſe, ne touchant
-                  <lb/>que les <choice>
-                    <sic>Notes</sic>
-                    <corr source="#lambert-traite">notes</corr>
-                  </choice> principales de ces <choice>
-                    <sic>Passages</sic>
-                    <corr source="#lambert-traite">passages</corr>
-                  </choice>; c'eſt à dire, les <choice>
-                    <sic>Notes</sic>
-                    <corr source="#lambert-traite">notes</corr>
-                  </choice> qui tombent ſur les principaux
-                  <choice>
-                    <sic>tems</sic>
-                    <corr source="#lambert-traite">temps</corr>
-                  </choice> de la
+                  <lb/>Quand la meſure eſt ſi preſſée que l'Accompagnateur n'a pas la commodité de jouer toutes les Notes, il peut ſe
+                  <lb/>contenter de jouer &amp; d'accompagner ſeulement la premiere Note de chaque meſure, laiſſant aux Basses de
+                  <lb/>Viole ou de Violon à jouer toutes les Notes, ce qu'elles peuvent faire beaucoup plus aiſement, n'ayant point
+                  <lb/>d'accompagnement à y joindre. Les grandes viteſſes ne conviennent point aux Inſtrumens qui accompa-
+                  <lb/>gnent; c'est pourquoi quand il ſe trouve des Passages fort vites, <hi rendition="#i">même dans une meſure lente</hi>, l'accompagneur
+                  <lb/>les peut laisſer jouer aux autres Inſtrumens, ou, ſ'il les joue, il peut reformer cette viteſſe, ne touchant
+                  <lb/>que les Notes principales de ces Passages; c'eſt à dire, les Notes qui tombent ſur les principaux tems de la
                   <lb/>meſure.
                 </hi>
               </quote>
@@ -253,13 +201,13 @@
             <lb/>ber <hi rendition="#aq">p. 23</hi>.</bibl>
             <note type="editorial">Johann Kuhnau, Der musicalische Quack-Salber, Dresden
               1700.</note>
-            <persName type="fictional">Signor Caraffa</persName>
+            <persName>Signor Caraffa</persName>
             mit der lincken Hand Schnuptoback nimmt, so offt geſchwinde oder
             <lb/>fluͤchtige Noten im Baſſe erſcheinen.
           </p>
         </div>
 
-        <div n="4" type="section">
+        <div n="4">
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
             Es ſtehet uͤbrigens zu wissen, daß der gantze Schmuck dieſer Vorſchrift darin beruhet, wenn
@@ -292,7 +240,7 @@
           </p>
         </div>
 
-        <div n="5" type="section">
+        <div n="5">
           <lb/><head>§. 5.</head>
           <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
             Die Freiheit ſo ich mir ſonſt hier gegeben, aus dem Sprengel zu weichen, und

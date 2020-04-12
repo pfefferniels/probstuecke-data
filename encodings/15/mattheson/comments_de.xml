@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -90,10 +91,10 @@
   </facsimile>
   <text>
     <body>
-      <pb n="384"/>
+      <pb n="384" facs="#facs-p468"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <hi rendition="#in">J</hi>M ersten Theil dieser Organisten-Probe ist, bey Gelegenheit des zwey und
@@ -105,7 +106,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           Fuͤrs erste verlange ich, daß sie mirs Danck wissen sollen, daß ich dieses
@@ -122,7 +123,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
           Es ist wunderlich! unsere Landes-Leute wollen von den Frantzosen ihren
@@ -151,7 +152,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           Wir brauchen des Tact-Schlagens bey unsern grossen Concerten und Choͤren, anders
@@ -162,10 +163,10 @@
           Weise, mit unserm <hi rendition="#b">Nohthelffer</hi> (dem <hi rendition="#b">Tact-schlagen</hi>) bruͤsten? da es ja weiter
           zu nichts dienet, als denjenigen, die unter dem Hauffen etwa hincken, eine
           Stuͤtze abzugeben, bey welcher sie sich wieder auffrichten, und in guter
-          Einigkeit mitfortschreiten koͤnnen. <persName ref="http://d-nb.info/gnd/119116383">Donius</persName> schreibet<note place="foot" n="*)" type="footnote"><hi rendition="#aq"><foreign xml:lang="lat">De
+          Einigkeit mitfortschreiten koͤnnen. <persName ref="http://d-nb.info/gnd/119116383">Donius</persName> schreibet<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="lat">De
           tibicinum romanorum sui temporis imperitia sic loquitur: <hi rendition="#i">Demiratus
           sum minus, iis in usu esse rhythmum pedibus moderari: sine quo vix numeros
-          exacte sequi unquam possunt.</hi> <bibl>Don. de Præst. Vet. Music, pag. III.</bibl></foreign></hi></note>
+          exacte sequi unquam possunt.</hi></foreign> <bibl>Don. de Præst. Vet. Music, pag. III.</bibl></hi></note>
           von den Roͤmischen Kunst-Pfeiffern und ihrer Unerfahrenheit, also:
           <hi rendition="#b">Jch habe mich desto weniger verwundert, daß es bey ihnen gebraͤuchlich sey, den
           Tact mit den Fuͤssen zu fuͤhren: denn, wenn solches nicht geschaͤhe, wuͤrden sie
@@ -173,7 +174,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           Dieses haͤtten wol bemercken moͤgen diejenigen Frantzoͤsischen Virtuosen, von
@@ -214,10 +215,10 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1">
-          Bißher haben wir wieder die uͤbermaͤssige Tactirungs-Lust <note place="foot" n="(*)" type="footnote"><persName ref="http://d-nb.info/gnd/13616059X">Lully</persName>
+          Bißher haben wir wieder die uͤbermaͤssige Tactirungs-Lust <note place="foot" n="(*)"><persName ref="http://d-nb.info/gnd/13616059X">Lully</persName>
           hatte die Gewohnheit, mittelst hefftiger Stossung seines Spanischen Rohrs wieder den
           Fuß-Boden, den Tact zu geben; nahm aber den Tod davon, wie seine Lebens-Beschreibung
           berichtet. <hi rendition="#i"><hi rendition="#aq">
@@ -232,12 +233,12 @@
             </choice> T. I. pag. 183.</bibl></hi></hi></note> und den dabey
           vermachten gottlosen Ehr-Geitz geredet. Wie waͤre es aber, wenn man
           Directores finde, die gar nicht einmahl den Tact selber fuͤhren koͤnnten? sondern einen
-          andern dazu brauchen muͤssten? Ein gelehrter Breslauer, <persName ref="http://d-nb.info/gnd/137571488" full="init">G.E.S.</persName>, schrieb den <date>28. Julii
+          andern dazu brauchen muͤssten? Ein gelehrter Breslauer, <persName ref="http://d-nb.info/gnd/137571488" full="abb">G.E.S.</persName>, schrieb den <date>28. Julii
           1728</date> davon also:
-          <pb n="387"/>
+          <pb n="387" facs="#facs-p469"/>
           <quote>
             Jch habe hier mit einem guten Freunde geredet, welcher den alten Fuchs und
-            Roman-Ritter, den Ertz– – – und Pasquillanten <persName full="init" ref="http://d-nb.info/gnd/118732595">D.M.</persName>
+            Roman-Ritter, den Ertz– – – und Pasquillanten <persName full="abb" ref="http://d-nb.info/gnd/118732595">D.M.</persName>
             <note type="editorial" resp="#pfeffer">
               Gemeint ist der Göttinger "Doctor musices" Joachim Maier, mit dem Mattheson seit 1726
               im Disput über rechtmäßige Kirchenmusik stand.
@@ -284,7 +285,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1">
           Die vielen Zierrathen, so in vorhabendem Exempel koͤnnen angebracht werden, sind
@@ -313,7 +314,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1">
           Hier erscheinet nun die versprochene Aria in aller Einfalt und Ehrbarkeit.
@@ -332,7 +333,7 @@
         </notatedMusic>
       </div>
 
-      <div n="9" type="section">
+      <div n="9">
         <head>§. 9.</head>
         <p xml:id="p9-1">
           Zu mercken ist hiebey, daß <hi rendition="#b">C mol</hi> und <hi rendition="#b">f mol <abbr>ꝛc.</abbr></hi> eben

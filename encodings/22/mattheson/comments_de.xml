@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -78,7 +79,7 @@
     <body>
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <p xml:id="p1-1">
           <lb /><hi rendition="#in">G</hi>leich Anfangs ſtehet, bey dem Fall aus
@@ -91,7 +92,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
           <lb />Wenn man hiernächſt alles fein reinlich, biß auf den
@@ -113,7 +114,7 @@
 
       <pb n="429" />
 
-      <div n="3" type="section">
+      <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
           <lb />Jm neuenzehnten Tact ſtehet wiederum:
@@ -130,7 +131,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
           <lb /><ref target="#measure-0000000387035804">Wenn das <hi rendition="#aq">Tutti</hi> vorbey</ref>, kann biß zum

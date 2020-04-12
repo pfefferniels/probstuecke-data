@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -76,7 +77,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <lb /><p>
           <hi rendition="#in">D</hi>A wirds wieder ſchneyen bey einem <hi rendition="#b">Treffer</hi>, wenn er das Ding ſo vor
@@ -92,7 +93,7 @@
           <lb />wirfft, und das hat er dann ſeiner <hi rendition="#aq">Indiscretion</hi> zu dancken.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p> <!-- sic, no line break after the title -->
           Vom <ref target="#staff-0000000131781318">achten Tact</ref> an kan manns fein (wenn man will) in der rechten
@@ -107,7 +108,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <lb /><head>§. 3.</head>
         <p><!-- sic, no line break after the title -->
           <ref target="#fb-001 #fb-002 #fb-003 #fb-004 #fb-005 #fb-006">Die <hi rendition="#aq">Septimen</hi> im elfften und zwölfften Tact</ref>
@@ -119,7 +120,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p> <!-- sic, no line break after the title -->
           Ob nun wohl das <hi rendition="#aq">Diſcretamente</hi>, nebſt vorangeführter Erklärung, auch bedeuten möchte, daß
@@ -134,7 +135,7 @@
           <fw place="bottom" type="catch">groſſe</fw>
           <pb n="177" />
           groſſe <hi rendition="#aq">Virtuoſe</hi> und nunmehrige <placeName>Darmſtädtiſcher</placeName>
-          <hi rendition="aq">Vice</hi>-Capellmeiſter, noch einmahl in <hi rendition="#aq"><placeName>Hamburg</placeName></hi>
+          <hi rendition="#aq">Vice</hi>-Capellmeiſter, noch einmahl in <hi rendition="#aq"><placeName>Hamburg</placeName></hi>
           <lb />kam. Niemand wuſte was an dem Dinge war, es wurde fein gerade weggeſungen, daß man über
           <lb />des <hi rendition="#aq">Componiſten</hi> vermeynte Einfalt lachen muſte, da er doch unſchuldig war. Wie aber
           <hi rendition="#aq"><abbr>Monſr.</abbr></hi>
@@ -147,7 +148,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <lb /><head>§. 5.</head>
         <p> <!-- sic, no line break after the title -->
           Jedermann wird ſehen, daß, was
@@ -160,7 +161,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <lb /><head>§. 5.</head>
         <p> <!-- sic, no line break after the title -->
           Daß ich aber eben verlangen ſolte, man möchte alle Tone ſo <hi rendition="#aq">transponi</hi>ren (nemlich alle

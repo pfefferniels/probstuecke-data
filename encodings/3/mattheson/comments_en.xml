@@ -16,7 +16,7 @@
   <text>
     <body>
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p>
           It is easy to play thorough bass well, when no more figures appear than in this example. Alas! How happy some will
@@ -27,7 +27,7 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p>
           Besides, I can say, that in the present piece one has to consider the useful training of a good application of the moving fingers.
@@ -49,7 +49,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p>
           In the <ref target="#m-407">tenth</ref> and <ref target="#m-438">11th measure</ref>
@@ -62,7 +62,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p>
           It is to be noted, that all arpeggiations of that kind sound way more pleasant, the more distant the intervals are from

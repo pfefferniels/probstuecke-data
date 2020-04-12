@@ -33,7 +33,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           This clergyman wished to compare the cheerless days of man's life with something and said
@@ -47,7 +47,7 @@
           that is the best advice.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           The quavers or plain notes in the <ref target="#m-503">sixteenth</ref>, <ref target="#m-550">seventeenth</ref>, and
@@ -67,7 +67,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           The same instance occurs in the <ref target="#m-781">23rd measure</ref>, so that the previous can be taken for advice.
@@ -82,7 +82,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           In the <ref target="#m-1123">33rd</ref> measure it might not sound bad, if the chords, including sixths and fifths,

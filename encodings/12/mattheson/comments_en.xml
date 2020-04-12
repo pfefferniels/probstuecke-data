@@ -17,7 +17,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Annotations</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
           If there is something difficult in this work of the <hi rendition="#i">Organisten-Probe</hi>,
@@ -25,7 +25,7 @@
           this twelfth of the upper class.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
           Most of the present example's difficulty lies without doubt in the unfamiliar or
@@ -35,7 +35,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1">
           The best warning that can be given to good friends in the present occasion is primarily
@@ -49,7 +49,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
           Secondly I point to the <ref target="#measure-0000001831952514">beginning of the second part</ref>
@@ -69,7 +69,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
           Even though <ref target="#fb-1">a sixth</ref> is written above the
@@ -84,7 +84,7 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-2">
           In the
@@ -100,7 +100,7 @@
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1">
           For the reasons already given in the fourth paragraph, one shall notice
@@ -120,7 +120,7 @@
         </p>
       </div>
 
-      <div n="8" type="section">
+      <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1">
           Although this key is seldomly the root of a piece or of an aria (yet there is no
@@ -133,7 +133,7 @@
         </p>
       </div>
 
-      <div n="9" type="section">
+      <div n="9">
         <head>§. 9.</head>
         <p xml:id="p9-1">
           Yet what do talk so much of F minor? The daily and common <hi rendition="#b">C minor</hi>
@@ -150,7 +150,7 @@
         </notatedMusic>
       </div>
 
-      <div n="10" type="section">
+      <div n="10">
         <head>§. 10.</head>
         <p xml:id="p10-1">
           Those few notes of an aria in <hi rendition="#b">C minor</hi> include the
@@ -161,7 +161,7 @@
         </p>
       </div>
 
-      <div n="11" type="section">
+      <div n="11">
         <head>§. 11.</head>
         <p xml:id="p11-1">
           We need to say a word about the use of the sixth and fourth, since for

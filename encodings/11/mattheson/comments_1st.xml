@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -93,7 +94,7 @@
 
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <lb /><head>§. 1.</head>
         <lb /><p>
           <hi rendition="#in">W</hi>Je wird dem Herrn Organiſten zu Muthe? Es ſieht hier ein bißgen bunt
@@ -108,7 +109,7 @@
           gedruckten Noten; es iſt wahr, man iſt es nicht gewohnt. Das Papier ſcheinet auch
           <lb />etwas durchzuſchlagen; er nehme es mit nach Hauſe und laſſe es rein, in <hi rendition="#b"><persName>Möhl-
           <lb />manns</persName></hi><note type="editorial" resp="#pfeffer">Conrad Möhlmann</note>
-          <note place="foot" n="✚" type="footnote">
+          <note place="foot" n="✚">
             Es war ein Organiſte an der Nicolai-Kirchen alhier, dem man einige Tage zuvor die Partie oder den Baß zur
             <lb />Muſic ins Hauß ſenden muſte, da er ſich denn jede Note zweymahl ſo groß mahlte, als ſie ſonſt war, nur damit
             <lb />er ſie deſto beſſer sehen könnte; aber es halff doch nichts.
@@ -118,7 +119,7 @@
           <lb />gen kommen wir wieder zusammen.
         </p>
       </div>
-      <div n="2" type="section">
+      <div n="2">
         <lb /><head>§. 2.</head>
         <p> <!-- sic, no line break after the title -->
           Also ungefehr würde ich, oder ein ander, mit einem unmuſicaliſchen Or-
@@ -141,7 +142,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <note type="editorial" resp="#pfeffer">ein §. 3. existiert nicht</note>
         <p><!-- sic, no line break after the title -->
@@ -168,7 +169,7 @@
         </notatedMusic>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p> <!-- sic, no line break after the title -->
           Der <ref target="#staff-0000001073410851">zehnte Tact des letzten Theils</ref> will in der rechten Hand mit der Sechste
@@ -183,7 +184,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <lb /><head>§. 5.</head>
         <p> <!-- sic, no line break after the title -->
           Man ſiehet nun ſolcher gestalt wohl, daß im

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -98,7 +99,7 @@
     <body>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
-      <div n="1" type="section">
+      <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
           <ref target="#m-35 #m-57 #m-80 #m-105 #m-128"><hi rendition="#in">D</hi>Je erste Zeile dieses
@@ -112,10 +113,10 @@
         </p>
       </div>
 
-      <div n="2" type="section">
+      <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          Bey dem <ref target="#m-478">ein und zwantzigsten Tact</ref> faͤllt der Haupt-Satz in die <hi rendition="#aq"><foreign xml:lang="lat">Repercussion</foreign></hi>
+          Bey dem <ref target="#m-478">ein und zwantzigsten Tact</ref> faͤllt der Haupt-Satz in die <hi rendition="#aq">Repercussion</hi>
           der Quint, wobey abermahl, wann es nur fein rein gespielet wird, nichts buntes noͤthig ist. So dann hat man im
           <ref target="#m-589">sechs und zwantzigstes Tact</ref> den oberwehnten Lauff in der rechten Hand, gleich mit dem Schlag
           der Septime in die Quint anzubringen, und damit drey Tacte, bey vollen Griffen des Basses, fort zu fahren. Vom
@@ -125,7 +126,7 @@
         </p>
       </div>
 
-      <div n="3" type="section">
+      <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
           Der <ref target="#m-758">drey und dreyßigste</ref> Tact hebt eine neue Erfindung an, und erfordert, daß die rechte der lincken
@@ -135,7 +136,7 @@
         </p>
       </div>
 
-      <div n="4" type="section">
+      <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           Nach Verfliessung vier Mensuren ergreifft der Bass abermahl den vorerwehnten Lauff in der Versetzung, welchen man sich
@@ -149,7 +150,7 @@
         </p>
       </div>
 
-      <div n="5" type="section">
+      <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           Nach diesem Satz kommt der offtgemeldete Lauff mit der rechten Hand gleich
@@ -160,20 +161,20 @@
         </p>
       </div>
 
-      <div n="6" type="section">
+      <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           Zum Beschluß folget was schon im <ref target="#m-662">neun und zwantzigsten</ref> biß <ref target="#m-736">zwey und dreyßigsten Tact</ref>
           gewesen, und wird mit allen Kraͤfften, so vollstimmig als muͤglich, auch wol durch die Brechung mit beiden Haͤnden, gespielet.
           Was dieser Brechung eigentlichen Gebrauch betrifft, angesehen dieselbe ein großes Geraͤusche mache, und die durchdringenste
           Art zu spielen auf dem Clavier ist, so muß dieselbe nirgend anderst, als in vielstimmigen Sachen, wie da sind, starcke Concerten,
-          Ouverturen, Symphonien und Choͤre, angebracht werden, zumahl wo ein <hi rendition="#aq"><foreign xml:lang="ita">forte</foreign></hi> und <hi rendition="#aq"><foreign xml:lang="ita">tutti</foreign></hi>
+          Ouverturen, Symphonien und Choͤre, angebracht werden, zumahl wo ein <hi rendition="#aq">forte</hi> und <hi rendition="#aq">tutti</hi>
           stehet; denn sonst wuͤrde alles dadurch gar leicht uͤbertaͤubet und verdorben werden. Statt anzufuͤhrender Sachen aus fremden
           Verfassern kan folgende Arie dienen.
         </p>
       </div>
 
-      <div n="7" type="section">
+      <div n="7">
         <!--
         <head>ARIA del <hi rendition="#i">Signore Marcello</hi>, Nobile Veneto.</head>
         -->
@@ -183,7 +184,7 @@
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           Jch lasse diese recht schoͤne Arie aus verschiedenen wichtigen Ursachen
           hier einfliessen: (1) damit sich einer druͤber mache, und selbige
-          <hi rendition="#aq"><foreign xml:lang="ita">solmisire</foreign></hi>; (2) weil ♭D, ♭G, ♭C und ♭F haͤuffig darinn
+          <hi rendition="#aq">solmisire</hi>; (2) weil ♭D, ♭G, ♭C und ♭F haͤuffig darinn
           vorkommen; (3) weil der letzte Theil beides im <hi rendition="#aq">Dis mol</hi>
           und <hi rendition="#aq">Gis mol</hi> theils moduliert, theils absetzet; (4) weil
           es einen grossen Meister erfordert, diese Arie, ohne Bezieferung, richtig
