@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe viertes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Klaus</surname>
+            <forename>Rettinghaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1731.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthsons Exemplarische Organisten-Probe im Artkel vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Johann</surname>
+                <forename>Mattheson</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lry="1877" lrx="1579" xml:id="facs-p287">
+      <graphic width="1579px" height="1877px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/287" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1884" lrx="1579" xml:id="facs-p288">
+      <graphic width="1579px" height="1884px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/288" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1885" lrx="1579" xml:id="facs-p289">
+      <graphic width="1579px" height="1885px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/289" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <lb /><head>Erlaͤuterung.</head>
+      <div n="1">
+        <lb/><head>§. 1.</head>
+        <p xml:id="p1-1">
+          <lb/><hi rendition="#in">D</hi>Je <ref target="#m-41 #m-42 #m-44 #m-45">4. erſten Noten</ref> dieſer <hi rendition="#aq">Pieçe</hi> ſpiele man ungebrochen, mit 4. vollen, kurtzen
+          <lb/>Schla&#x0364;gen, und <ref target="#m-50">auf der fu&#x0364;nfften</ref> ſchlage man in der unterſten Octav ein ſcharf-
+          <lb/>fes <hi rendition="#aq">Trillo</hi>. Den <ref target="#m-53">folgenden Tact</ref>, wie er ſteht. Die <ref target="#m-137 #m-142 #m-144 #m-146 #m-152 #m-154">ſechs erſten Noten aber 
+          <lb/>im vierdten Tact</ref> mit Octaven verdoppelt, und in der rechten Hand dieſe, im Baß
+          <lb/>gleich darauf <hi rendition="#aq">per repercuſſionem</hi> folgende, Clauſul dazu:
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+        
+      <div n="2">
+        <lb/><head>§. 2.</head>
+        <p xml:id="p2-1">
+          <lb/>Bey der <ref target="#m-156 #m-158 #m-168">letzten Helffte des beſagten vierten Tacts</ref> muß zu jedem Viertel
+          <lb/>ſechs mahl in der rechten Hand angeſchlagen werden, welches durchgehends bey glei-
+          <lb/>chen Vorfa&#x0364;llen zu <hi rendition="#aq">obſervi</hi>ren ſteht. Es ſind aber dieſe Viertel, wie zu erſehen, 
+          <lb/>aus <ref target="#m-156 #m-157 #m-159 #m-160 #m-162 #m-164 #m-165 #m-166">8. Noten</ref> zuſammengesetzt oder in ſo viele Theile <hi rendition="#aq">diminui</hi>ret, welches deswegen
+          <lb/>erinnere, weil es ſonſt dem Leſer wunderlich vorkommen mo&#x0364;chte, daß er auf einem 
+          <lb/>eintzigen Viertel, ſechs mahl mit der rechten Hand anſchlagen ſollte. Der <ref target="#m-176">fu&#x0364;nffte
+          <lb/>Tact</ref> will wieder Octaven, und im Diſcant obenſtehendes im e anfangendes Clau-
+          <lb/>sulgen haben; womit auch der <ref target="#m-229 #m-276">ſechste und ſiebende Tact</ref>, jeder in ſeinem Ton, ab-
+          <lb/>wechſelt.
+        </p>
+      </div>
+      <fw type="catch" place="bottom">Der</fw>
+      <pb n="124" facs="#facs-p288"/>
+      
+      <div n="3">
+        <lb/><head>§. 3.</head>
+        <p xml:id="p3-1">
+          <lb/>Der <ref target="#m-327">achte Tact</ref> nimmt das <ref target="#music-example1">ſchon beſchriebene kleine <hi rendition="#aq">Subject</hi></ref> dreymahl, <hi rendition="#aq">per 
+          <lb/>gradus</hi> ſteigend, in der rechten Hand durch, mit doppelten Baß, auf dieſe Weiſe:
+          <notatedMusic xml:id="music-example2">
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
+          <lb/>Bey dem <ref target="#m-405">neundten Tact</ref> fa&#x0364;llt das <ref target="#m-39 #m-48">allerſte <hi rendition="#aq">Subjectum</hi></ref> wieder ein; dabey der Di-
+          <lb/>ſcant leicht eine geſchickte Melodie in achteln finden, und den Baß vollſtimmig
+          <lb/>mitfu&#x0364;hren kan. Beym zehnten muß <ref target="#m-420">auf der erſten Note</ref> das <hi rendition="#aq">Trillo</hi> nicht vergeſ-
+          <lb/>ſen werden, beym <ref target="#m-426">elfften</ref> aber iſt nichts zu erinnern.
+        </p>
+      </div>
+      
+      <div n="4">
+        <lb/><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb/>Die
+          <ref target="#m-468">zwo&#x0364;lffte <hi rendition="#aq">Menſur</hi>
+            <note n="*" place="foot">
+              <hi rendition="#aq">Menſur</hi> und Tact-Abtheilung ſind hier <hi rendition="#aq">Synonyma</hi>.
+            </note>
+          </ref>
+          will im Baſſe vollſtimmig geſpielet ſeyn, dazu die 
+          <lb/>rechte Hand das <ref target="#m-426">vorhergehenden Tacte</ref> geweſene alles gebrauchen kan, wenn ſie 
+          <lb/>nur aus dem <ref target="#m-429">g</ref> ein d machet, und ſo fortfa&#x0364;hret. Der <ref target="#m-538">dreyzehnte Tact</ref> wird, wie er
+          <lb/>ſteht, geſchlagen, die <ref target="#m-615 #m-620">erſte Helffte des vierzehnten</ref> verlangt im Diſcant das kleine
+          <lb/><hi rendition="#aq">Subject</hi>, <ref target="#music-example1">oben im <hi rendition="#aq">h</hi></ref>, alſo anzufangen:
+          <notatedMusic xml:id="music-example3">
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
+          <lb/>daſſelbe wird auch in der <ref target="#m-680 #m-685">erſten Helffte des funffzehnten Tacts</ref> wiewohl um einen 
+          <lb/>Ton tieffer, ko&#x0364;nnen angebracht werden, und bey den <ref target="#m-765">ſiebenzehnten Tact</ref> beobachtet 
+          <lb/>man nur das <ref target="#p1-1">§. 1.</ref> <hi rendition="#aq">doci</hi>ret worden iſt.
+        </p>
+      </div>
+      
+      <div n="5">
+        <lb/><head>§. 5.</head>
+        <p xml:id="p5-1">
+          <lb/>Nun iſt zwar <ref target="#p3-1">§. 3.</ref> angedeutet worden, wie es mit dergleichen Noten, als 
+          <fw place="bottom" type="catch">im</fw>
+          <pb n="125" facs="#facs-p289"/>
+          <lb/>im <ref target="#m-932">ein und zwantzigſten Tact</ref> wieder vorkommen, gehalten werden ko&#x0364;nne, will je-
+          <lb/>mand aber hier eine Vera&#x0364;nderung machen, ſo iſt es um ſo viel angenehmer zu ho&#x0364;ren.
+          <lb/>Er laſſe ſich aber nochmals das <hi rendition="#aq">Trillo</hi> im <ref target="#m-952">zwey und zwantzigſten Tact</ref>, und zwar in 
+          <lb/>der tieffen Octave <hi rendition="#aq">recommendi</hi>ret ſeyn. Hat einer Luſt daſſelbige zu gleich mit
+          <lb/>der rechten Hand in die Sexte zu versuchen, ſo kann es nicht ſchaden.
+        </p>
+      </div>
+      
+      <div n="6">
+        <lb/><head>§. 6.</head>
+        <!-- no lb after head -->
+        <p>
+          Nun kehren wir das <hi rendition="#aq">Subject</hi> im <ref target="#m-1007">drey und zwantzigſten Tact</ref> ein wenig um,
+          <lb/> und nehmen es ſo in der rechten Hand, wie es in der <ref target="#m-1032">nechſten <hi rendition="#aq">Menſur</hi></ref> im Baß folget, 
+          <lb/>jedoch um eine Tertie ho&#x0364;her als jenes. Daß ſich beide <hi rendition="#aq">Subjecta</hi> ru&#x0364;ckwerts und vor-
+          <lb/>werts <hi rendition="#aq">evolvi</hi>ren oder umkehren laſſen, wird zugleich hiebey ein Liebhaber des <hi rendition="#aq">Con-
+          <lb/>tra-</hi>Puncts anzumercken Gelegenheit nehmen, wiewohl es ſo eigentlich auf dem
+          <lb/>Clavier heraus zu bringen weder unſers Vorhabens allhier iſt, noch auch in allen 
+          <lb/>Stu&#x0364;cken thunlich ſeyn mo&#x0364;chte.
+        </p>
+      </div>
+      
+      <div n="7">
+        <lb/><head>§. 7.</head>
+        <!-- no lb after head -->
+        <p>
+          So kom&#x0303;t denn auch im <ref target="#m-1090">fu&#x0364;nff und zwantzigſten Tact</ref> <ref target="#m-39 #m-48">das ſchlechte zu An-
+          <lb/>fangs geweſene <hi rendition="#aq">Subject</hi></ref> wieder, welches, da es nun zum vierdten mahl ſich ho&#x0364;ren 
+          <lb/>la&#x0364;ſt, billig eine <hi rendition="#aq">Variation</hi> mit der rechten Hand verdienet. Das ſich darauf ſonſt
+          <lb/>paſſende <hi rendition="#aq">Contra-thema</hi> wa&#x0364;re etwann, meiner Meinung nach, aus dem <ref target="#m-135">vierdten 
+          <lb/>Tact</ref> zu nehmen, und ſo wohl vorhin, als hier, alſo anzubringen.
+          <notatedMusic xml:id="music-example4">
+            <ptr target="music-example4.xml"/>
+          </notatedMusic>
+          <lb/>Daraus einer ſiehet, daß dieſe Sachen nicht etwan bloſſe Grillen, leere Sa&#x0364;tze und 
+          <lb/>wilde Einfa&#x0364;lle, oder auch trockene Ba&#x0364;ſſe ſind; ſondern, daß alles aneinander ha&#x0364;nget,
+          <lb/>und faſt keine Note befindlich ſey, die nicht ihren gewiſſen <hi rendition="#aq">Rapport</hi> mit den u&#x0364;brigen
+          <lb/>habe. Wenn man nun das <hi rendition="#aq">Contra-Subjectum</hi> etwan ein paar mahl hat ho&#x0364;ren laſ-
+          <lb/>ſen, ſo mag es gar gerne zum dritten und vierdten mahl <hi rendition="#aq">varii</hi>ret werden, etwan alſo.
+          <notatedMusic xml:id="music-example5">
+            <ptr target="music-example5.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+      
+      <div n="8">
+        <lb/><head>§. 8.</head>
+        <!-- no lb after head -->
+        <p>
+          Was im <ref target="#m-1007">drey und zwantzigſten Tact gewesen</ref>, fa&#x0364;llt hier, <hi rendition="#aq"><foreign xml:lang="lat">mutatis mutandis</foreign></hi>, im <ref target="#m-1177 #m-1218 #m-1284">ſechs-
+          <lb/>ſieben- und acht und zwantzigſten</ref> &#xA75B;c. wieder vor. Die <ref target="#m-1399 #m-1401 #m-1402 #m-1403 #m-1405 #m-1406">6 letzten Noten im dreyßigſten Tact</ref> wollen auch
+          <lb/>einen beſondern Diſcant haben; und denn kan man <ref target="#m-1411 #m-1454">den Schluß</ref> ſo starck ſpielen, als es eines jeden Fin-
+          <lb/>ger nur leiden wollen.
+        </p>
+        
+        <fw type="catch" place="bottom">Fu&#x0364;nff-</fw>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>

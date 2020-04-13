@@ -343,7 +343,7 @@
                     <note xml:id="m-154" dur="8" oct="2" pname="b" stem.dir="down"/>
                   </beam>
                   <rest xml:id="m-156" dur="16"/>
-                  <beam>
+                  <beam xml:id="m-158">
                     <note xml:id="m-157" dur="16" oct="4" pname="e" stem.dir="down"/>
                     <note xml:id="m-159" dur="16" oct="4" pname="e" stem.dir="down"/>
                     <note xml:id="m-160" breaksec="1" dur="16" oct="4" pname="d" stem.dir="down">
@@ -356,7 +356,7 @@
                     <note xml:id="m-165" dur="32" oct="3" pname="b" stem.dir="down"/>
                     <note xml:id="m-166" dur="32" oct="4" pname="d" stem.dir="down"/>
                   </beam>
-                  <beam>
+                  <beam xml:id="m-168">
                     <note xml:id="m-167" dur="16" oct="4" pname="c" stem.dir="down"/>
                     <note xml:id="m-169" dur="16" oct="4" pname="e" stem.dir="down"/>
                     <note xml:id="m-170" dur="16" oct="4" pname="e" stem.dir="down"/>
@@ -791,7 +791,6 @@
                 </fb>
               </harm>
             </measure>
-            <sb xml:id="m-424"/>
             <measure xml:id="m-423" n="11">
               <staff xml:id="m-425" n="1"/>
               <staff xml:id="m-426" n="2" facs="#facsZone-m-426">
@@ -1056,14 +1055,14 @@
               </staff>
               <staff xml:id="m-612" n="2" facs="#facsZone-m-612 #facsZone-m-612-2">
                 <layer xml:id="m-613" n="1">
-                  <beam>
+                  <beam xml:id="m-615">
                     <note xml:id="m-614" dur="8" oct="4" pname="d" stem.dir="down"/>
                     <note xml:id="m-616" dur="8" oct="3" pname="b" stem.dir="down"/>
                     <note xml:id="m-617" dur="8" oct="3" pname="d" stem.dir="down">
                       <accid accid="s"/>
                     </note>
                   </beam>
-                  <beam>
+                  <beam xml:id="m-620">
                     <note xml:id="m-619" dur="8" oct="3" pname="e" stem.dir="up"/>
                     <note xml:id="m-621" dur="8" oct="3" pname="d" stem.dir="up">
                       <accid accid="s" func="caution"/>
@@ -1151,7 +1150,6 @@
                 </fb>
               </harm>
             </measure>
-            <sb xml:id="m-652"/>
             <measure xml:id="m-651" n="15">
               <staff xml:id="m-653" n="1">
                 <layer xml:id="m-654" n="1">
@@ -1179,7 +1177,7 @@
               </staff>
               <staff xml:id="m-676" n="2" facs="#facsZone-m-676 #facsZone-m-676-2">
                 <layer xml:id="m-677" n="1">
-                  <beam>
+                  <beam xml:id="m-680">
                     <note xml:id="m-678" dur="8" oct="4" pname="c" stem.dir="down">
                       <accid accid="s"/>
                     </note>
@@ -1188,7 +1186,7 @@
                       <accid accid="s"/>
                     </note>
                   </beam>
-                  <beam>
+                  <beam xml:id="m-685">
                     <note xml:id="m-684" dur="8" oct="3" pname="d" stem.dir="up"/>
                     <note xml:id="m-687" dur="8" oct="3" pname="c" stem.dir="up">
                       <accid accid="s" func="caution"/>
