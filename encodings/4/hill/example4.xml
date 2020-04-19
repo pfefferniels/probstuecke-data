@@ -44,9 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <pb />
-                        <pb />
-                        <measure n="1">
+                        <measure n="3">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -183,8 +181,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <sb />
-                        <measure n="2">
+                        <measure n="4">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <rest dur="16" />

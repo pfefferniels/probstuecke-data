@@ -44,8 +44,6 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <pb />
-                        <pb />
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">
@@ -139,6 +137,8 @@
                                     <note dots="1" dur="2" oct="3" pname="b" />
                                 </layer>
                             </staff>
+                            <trill layer="1" staff="2" tstamp="1"/>
+                            <trill layer="1" staff="1" tstamp="7"/>
                         </measure>
                         <measure n="3">
                             <staff n="1">

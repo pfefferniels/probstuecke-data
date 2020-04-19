@@ -35,18 +35,16 @@
                 <score>
                     <scoreDef>
                         <staffGrp>
-                            <staffDef n="1" lines="5" ppq="256" clef.shape="G" clef.line="2" meter.count="12" meter.unit="8">
+                            <staffDef n="1" lines="5" clef.shape="G" clef.line="2" meter.count="12" meter.unit="8">
                                 <keySig mode="major" sig="1s" />
                             </staffDef>
-                            <staffDef n="2" lines="5" ppq="256" clef.shape="F" clef.line="4" meter.count="12" meter.unit="8">
+                            <staffDef n="2" lines="5" clef.shape="F" clef.line="4" meter.count="12" meter.unit="8">
                                 <keySig mode="major" sig="1s" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <pb />
-                        <pb />
-                        <measure n="1">
+                        <measure n="21">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="32" />
@@ -136,8 +134,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <sb />
-                        <measure right="end" n="2">
+                        <measure n="22">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <rest dots="1" dur="16" />
