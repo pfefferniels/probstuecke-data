@@ -359,11 +359,15 @@
 
       <u who="#rh">
         Ich habe überlegt, ob mittlerweile
-        bei <ref target="#m-1182">dieser Stelle</ref> die linke Hand nicht umgeschrieben
+        bei dieser Stelle die linke Hand nicht umgeschrieben
         werden könnte, weil es so häufig wiederholt wird.
       </u>
       <incident who="#rh">
-        <desc>spielt ab T. 26 Mitte mit Bassvariation:</desc>
+        <desc>spielt <ref target="#m26-000 #m26-001 #m27-000 #m27-001">ab T. 26 Mitte mit Bassvariation:
+        <note type="editorial" resp="#pfeffer">
+          Die folgende Figuration wurde in den Noten leicht angepasst,
+          um in den 12/8-Takt zu passen.
+        </note></ref></desc>
       </incident>
       <notatedMusic>
         <ptr target="example12.xml" />
