@@ -761,11 +761,22 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-373">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" startid="#m-373">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" startid="#m-373">
+                    <fb>
+                      <f>♭5</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" startid="#m-380">
                 <fb>
                   <f>6</f>

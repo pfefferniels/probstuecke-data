@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
   <meiHead>
     <fileDesc>
       <titleStmt>
@@ -9,7 +10,7 @@
         </composer>
         <respStmt>
           <resp>Edited by</resp>
-          <persName role="editor">Niels Pfeffer</persName>
+          <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
           <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
         </respStmt>
       </titleStmt>
@@ -19,11 +20,10 @@
         </respStmt>
         <date>2019</date>
         <availability>
-          <useRestrict>This encoding is licensed under GPL. You may copy, distribute and
-            modify the software as long as you track changes/dates in source files.
-            Any modifications to or software including (via compiler) GPL-licensed
-            code must also be made available under the GPL along with build &amp; install instructions.</useRestrict>
-        </availability>
+            <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+              <p>Creative Commons Attribution 4.0 International License</p>
+            </useRestrict>
+          </availability>
       </pubStmt>
       <sourceDesc>
         <source n="1" xml:id="firstEdition">
@@ -544,6 +544,16 @@
                   <f>6</f>
                 </fb>
               </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition"></lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="3">
+                    <fb>
+                      <f>♯</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4">
                 <fb>
                   <f>6</f>
@@ -1301,11 +1311,16 @@
                   <rest xml:id="m-518" dur="4"/>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-514">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <app>
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition"></rdg>
+              </app>
               <harm place="above" staff="2" startid="#m-515">
                 <fb>
                   <f>6⃥</f>
