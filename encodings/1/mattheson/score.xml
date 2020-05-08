@@ -288,7 +288,11 @@
                   <beam>
                     <note xml:id="m-105" dur="32" oct="3" pname="b" accid.ges="f"/>
                     <note xml:id="m-108" dur="32" oct="4" pname="c">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-110" dur="16" oct="4" pname="d"/>
                     <note xml:id="m-111" dur="32" oct="3" pname="b" accid.ges="f"/>
@@ -688,7 +692,11 @@
                   <beam>
                     <note xml:id="m-338" dur="32" oct="4" pname="e"/>
                     <note xml:id="m-340" dur="32" oct="4" pname="f">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-342" dur="16" oct="4" pname="g"/>
                     <note xml:id="m-343" dur="32" oct="4" pname="e"/>
@@ -732,14 +740,22 @@
                   </beam>
                   <beam>
                     <note xml:id="m-366" dur="16" oct="4" pname="d"/>
-                    <note xml:id="m-368" dur="16" oct="4" pname="b" accid.ges="f"/>
+                    <note xml:id="m-368" dur="16" oct="4" pname="b" accid.ges="f">
+                      <orig>
+                        <accid accid="f"/>
+                      </orig>
+                    </note>
                     <note xml:id="m-370" dur="16" oct="4" pname="f"/>
                     <note xml:id="m-371" dur="16" oct="4" pname="b" accid.ges="f"/>
                   </beam>
                   <beam>
                     <note xml:id="m-373" dur="32" oct="4" pname="g"/>
                     <note xml:id="m-375" dur="32" oct="4" pname="a"/>
-                    <note xml:id="m-376" dur="16" oct="4" pname="b" accid.ges="f"/>
+                    <note xml:id="m-376" dur="16" oct="4" pname="b" accid.ges="f">
+                      <orig>
+                        <accid accid="f"/>
+                      </orig>
+                    </note>
                     <note xml:id="m-378" dur="16" oct="4" pname="e"/>
                     <note xml:id="m-379" dur="16" oct="4" pname="d"/>
                   </beam>
@@ -916,12 +932,20 @@
                     <note xml:id="m-481" dur="16" oct="3" pname="f"/>
                     <note xml:id="m-483" dur="32" oct="3" pname="g"/>
                     <note xml:id="m-484" dur="32" oct="3" pname="a"/>
-                    <note xml:id="m-485" dur="16" oct="3" pname="b" accid.ges="f"/>
+                    <note xml:id="m-485" dur="16" oct="3" pname="b" accid.ges="f">
+                      <orig>
+                        <accid accid="f"/>
+                      </orig>
+                    </note>
                     <note xml:id="m-487" dur="16" oct="3" pname="b" accid.ges="f"/>
                   </beam>
                   <beam>
                     <note xml:id="m-489" dur="16" oct="3" pname="c"/>
-                    <note xml:id="m-491" dur="16" oct="3" pname="b" accid.ges="f"/>
+                    <note xml:id="m-491" dur="16" oct="3" pname="b" accid.ges="f">
+                      <orig>
+                        <accid accid="f"/>
+                      </orig>
+                    </note>
                     <note xml:id="m-493" dur="16" oct="3" pname="a"/>
                     <note xml:id="m-494" dur="16" oct="3" pname="f"/>
                   </beam>
@@ -1006,7 +1030,11 @@
                   </beam>
                   <beam>
                     <note xml:id="m-547" dur="8" oct="3" pname="c"/>
-                    <note xml:id="m-548" dur="8" oct="2" pname="b" accid.ges="n"/>
+                    <note xml:id="m-548" dur="8" oct="2" pname="b" accid.ges="n">
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
+                    </note>
                   </beam>
                 </layer>
               </staff>
@@ -1083,11 +1111,20 @@
                   </beam>
                   <beam>
                     <note xml:id="m-596" dur="8" oct="3" pname="d"/>
-                    <note xml:id="m-597" dur="8" oct="3" pname="c" accid.ges="s"/>
+                    <note xml:id="m-597" dur="8" oct="3" pname="c" accid.ges="s">
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
+                    </note>
                   </beam>
                   <beam>
                     <note xml:id="m-599" dur="8" oct="3" pname="d"/>
-                    <note xml:id="m-601" dur="8" oct="3" pname="c" accid.ges="s"/>
+                    <note xml:id="m-601" dur="8" oct="3" pname="c" accid.ges="s">
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
+                    </note>
+
                   </beam>
                   <note xml:id="m-603" dur="4" oct="3" pname="d"/>
                 </layer>
@@ -1152,7 +1189,9 @@
                   <beam>
                     <note xml:id="m-638" dur="8" oct="3" pname="c">
                       <supplied resp="#pfeffer">
-                        <accid accid="n"/>
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
                       </supplied>
                     </note>
                     <note xml:id="m-641" dur="8" oct="2" pname="b">
@@ -1168,7 +1207,9 @@
                   <beam>
                     <note xml:id="m-647" dur="8" oct="3" pname="c"/>
                     <note xml:id="m-648" dur="8" oct="2" pname="b">
-                      <accid accid.ges="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                   </beam>
                 </layer>
@@ -1420,7 +1461,9 @@
                     </note>
                     <note xml:id="m-773" dur="32" oct="3" pname="a"/>
                     <note xml:id="m-774" dur="16" oct="3" pname="b">
-                      <accid accid.ges="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                     <note xml:id="m-776" dur="32" oct="3" pname="g">
                       <accid accid.ges="s"/>
@@ -1460,7 +1503,9 @@
                   <beam>
                     <note xml:id="m-791" dur="8" oct="3" pname="a"/>
                     <note xml:id="m-792" dur="8" oct="3" pname="g">
-                      <accid accid.ges="s"/>
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                   </beam>
                   <beam>
@@ -1471,10 +1516,16 @@
                   </beam>
                   <beam>
                     <note xml:id="m-798" dur="8" oct="3" pname="g">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-800" dur="8" oct="3" pname="f">
-                      <accid accid.ges="s"/>
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                   </beam>
                 </layer>
@@ -1548,7 +1599,11 @@
                   </beam>
                   <beam>
                     <note xml:id="m-837" dur="32" oct="3" pname="f">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-840" dur="32" oct="3" pname="g"/>
                     <note xml:id="m-841" dur="16" oct="3" pname="a"/>
@@ -1623,13 +1678,17 @@
                   <beam>
                     <note xml:id="m-884" dur="8" oct="4" pname="c"/>
                     <note xml:id="m-886" dur="8" oct="3" pname="b">
-                      <accid accid.ges="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                   </beam>
                   <beam>
                     <note xml:id="m-888" dur="8" oct="4" pname="c"/>
                     <note xml:id="m-890" dur="8" oct="3" pname="b">
-                      <accid accid.ges="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                     <note xml:id="m-892" dur="8" oct="4" pname="c"/>
                     <note xml:id="m-893" dur="8" oct="4" pname="c">
@@ -1681,7 +1740,9 @@
                   </beam>
                   <beam>
                     <note xml:id="m-910" dur="32" oct="4" pname="c">
-                      <accid accid.ges="s"/>
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                     <note xml:id="m-913" dur="32" oct="4" pname="d"/>
                     <note xml:id="m-914" dur="16" oct="4" pname="e"/>
@@ -1732,7 +1793,11 @@
                   <beam>
                     <note xml:id="m-931" dur="32" oct="3" pname="b" accid.ges="f"/>
                     <note xml:id="m-934" dur="32" oct="4" pname="c">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-936" dur="16" oct="4" pname="d"/>
                     <note xml:id="m-937" dur="32" oct="3" pname="b" accid.ges="f"/>
@@ -1755,7 +1820,11 @@
                   </beam>
                   <beam>
                     <note xml:id="m-955" dur="16" oct="3" pname="d"/>
-                    <note xml:id="m-957" dur="16" oct="3" pname="b" accid.ges="f"/>
+                    <note xml:id="m-957" dur="16" oct="3" pname="b" accid.ges="f">
+                      <orig>
+                        <accid accid="f"/>
+                      </orig>
+                    </note>
                     <note xml:id="m-959" dur="16" oct="3" pname="f"/>
                     <note xml:id="m-960" dur="16" oct="3" pname="b" accid.ges="f"/>
                   </beam>
@@ -1817,7 +1886,9 @@
                   </beam>
                   <beam>
                     <note xml:id="m-990" dur="16" oct="3" pname="c">
-                      <accid accid.ges="s"/>
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                     <note xml:id="m-993" dur="16" oct="2" pname="a"/>
                     <note xml:id="m-994" dur="16" oct="3" pname="c">
@@ -1875,7 +1946,9 @@
                     <note xml:id="m-1020" dur="16" oct="3" pname="d"/>
                     <note xml:id="m-1022" dur="16" oct="4" pname="d"/>
                     <note xml:id="m-1023" dur="32" oct="4" pname="c">
-                      <accid accid.ges="s"/>
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                     <note xml:id="m-1025" dur="32" oct="4" pname="d"/>
                     <note xml:id="m-1026" dur="16" oct="4" pname="e"/>
@@ -1941,7 +2014,9 @@
                     </note>
                     <note xml:id="m-1057" dur="32" oct="4" pname="c">
                       <supplied resp="#pfeffer">
-                        <accid accid="n" func="caution" enclose="brack"/>
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
                       </supplied>
                     </note>
                     <note xml:id="m-1059" dur="16" oct="4" pname="d"/>
@@ -1951,7 +2026,9 @@
                     <note xml:id="m-1061" dur="16" oct="3" pname="c"/>
                     <note xml:id="m-1064" dur="16" oct="4" pname="c"/>
                     <note xml:id="m-1065" dur="32" oct="3" pname="b">
-                      <accid accid="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                     <note xml:id="m-1067" dur="32" oct="4" pname="c"/>
                     <note xml:id="m-1068" dur="16" oct="4" pname="d"/>
@@ -1999,9 +2076,7 @@
                   </beam>
                   <note xml:id="m-1083" dur="4" oct="3" pname="f"/>
                   <beam>
-                    <note xml:id="m-1084" dur="16" oct="2" pname="b">
-                      <accid accid="f"/>
-                    </note>
+                    <note xml:id="m-1084" dur="16" oct="2" pname="b" accid.ges="f"/>
                     <note xml:id="m-1087" dur="16" oct="3" pname="b" accid.ges="f"/>
                     <note xml:id="m-1089" dur="16" oct="3" pname="a"/>
                     <note xml:id="m-1090" dur="16" oct="3" pname="f"/>
@@ -2043,7 +2118,16 @@
                   <beam>
                     <note xml:id="m-1105" dur="16" oct="3" pname="c"/>
                     <note xml:id="m-1107" dur="16" oct="4" pname="c"/>
-                    <note xml:id="m-1108" dur="16" oct="3" pname="b" accid.ges="n"/>
+                    <note xml:id="m-1108" dur="16" oct="3" pname="b">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <!-- it probably remains a b natural, analogous to
+                            the second half of the measure. Following the strict
+                            accidental rules, it must a b-flat. -->
+                          <accid accid.ges="n"/>
+                        </reg>
+                      </supplied>
+                    </note>
                     <note xml:id="m-1110" dur="16" oct="3" pname="g"/>
                   </beam>
                   <beam>
@@ -2138,7 +2222,11 @@
                       <accid accid="n"/>
                     </note>
                     <note xml:id="m-1168" dur="32" oct="3" pname="b">
-                      <accid accid="f"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="f" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-1170" dur="32" oct="3" pname="a"/>
                     <note xml:id="m-1171" dur="16" oct="3" pname="g"/>
@@ -2285,7 +2373,11 @@
                   <pb source="#firstEdition" n="105" facs="#facs-p269"/>
                   <beam>
                     <note xml:id="m-1247" dur="16" oct="3" pname="c">
-                      <accid accid="n"/>
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution"/>
+                        </reg>
+                      </supplied>
                     </note>
                     <note xml:id="m-1250" dur="32" oct="3" pname="d"/>
                     <note xml:id="m-1251" dur="32" oct="3" pname="e"/>
@@ -2352,8 +2444,18 @@
                   <beam>
                     <note xml:id="m-1279" dur="16" oct="2" pname="g"/>
                     <note xml:id="m-1281" dur="32" oct="2" pname="a"/>
-                    <note xml:id="m-1282" dur="32" oct="2" pname="b" accid.ges="n"/>
-                    <note xml:id="m-1284" dur="16" oct="3" pname="c" accid.ges="n"/>
+                    <note xml:id="m-1282" dur="32" oct="2" pname="b" accid.ges="n">
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
+                    </note>
+                    <note xml:id="m-1284" dur="16" oct="3" pname="c" accid.ges="n">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n"/>
+                        </reg>
+                      </supplied>
+                    </note>
                     <note xml:id="m-1286" dur="32" oct="3" pname="d"/>
                     <note xml:id="m-1287" dur="32" oct="3" pname="e"/>
                   </beam>
@@ -2361,10 +2463,14 @@
                     <note xml:id="m-1288" dur="16" oct="2" pname="f"/>
                     <note xml:id="m-1290" dur="32" oct="2" pname="g"/>
                     <note xml:id="m-1291" dur="32" oct="2" pname="a"/>
-                    <note xml:id="m-1292" dur="16" oct="2" pname="b" accid.ges="n"/>
-                    <note xml:id="m-1294" dur="32" oct="3" pname="c">
-                      <accid accid="n"/>
+                    <note xml:id="m-1292" dur="16" oct="2" pname="b">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="f"/>
+                        </reg>
+                      </supplied>
                     </note>
+                    <note xml:id="m-1294" dur="32" oct="3" pname="c"/>
                     <note xml:id="m-1296" dur="32" oct="3" pname="d"/>
                   </beam>
                   <beam>
@@ -2373,7 +2479,9 @@
                     <note xml:id="m-1300" dur="32" oct="2" pname="g"/>
                     <note xml:id="m-1301" dur="16" oct="2" pname="a"/>
                     <note xml:id="m-1302" dur="32" oct="2" pname="b">
-                      <accid accid="n"/>
+                      <orig>
+                        <accid accid="n"/>
+                      </orig>
                     </note>
                     <note xml:id="m-1304" dur="32" oct="3" pname="c">
                       <accid accid="s"/>
@@ -2433,7 +2541,13 @@
                     <note xml:id="m-1315" dur="32" oct="2" pname="f"/>
                     <note xml:id="m-1316" dur="16" oct="2" pname="g"/>
                     <note xml:id="m-1317" dur="32" oct="2" pname="a"/>
-                    <note xml:id="m-1318" dur="32" oct="2" pname="b" accid.ges="f"/>
+                    <note xml:id="m-1318" dur="32" oct="2" pname="b" accid.ges="f">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="f"/>
+                        </reg>
+                      </supplied>
+                    </note>
                   </beam>
                   <beam>
                     <note xml:id="m-1320" dur="8" oct="2" pname="a"/>
