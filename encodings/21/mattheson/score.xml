@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
   <meiHead>
     <fileDesc>
       <titleStmt>
@@ -731,7 +732,7 @@
                 </fb>
               </harm>
             </measure>
-            <measure xml:id="measure-0000001788414150" n="16">
+            <measure xml:id="measure-0000001788414150" n="16" right="dbl">
               <staff xml:id="staff-0000000614333623" n="1">
                 <layer n="1">
                   <mSpace/>
@@ -753,7 +754,7 @@
                   <f>♯</f>
                 </fb>
               </harm>
-              <fermata staff="2" startid="#note-0000001590512729" shape="curved"/>
+              <fermata staff="2" startid="#note-0000001590512729" shape="curved" place="below"/>
             </measure>
           </section>
           <section>
@@ -1191,12 +1192,16 @@
                       <accid accid="s"/>
                     </note>
                     <note xml:id="note-0000000283812238" dur="16" oct="3" pname="b"/>
-                    <note xml:id="note-0000000343142467" dur="16" oct="4" pname="d">
-                      <accid accid="s"/>
+                    <note xml:id="note-0000000343142467" dur="16" oct="4" pname="d" accid.ges="s">
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                     <note xml:id="note-0000001524644270" dur="16" oct="3" pname="b"/>
-                    <note xml:id="note-0000001106000517" dur="16" oct="4" pname="d">
-                      <accid accid="s"/>
+                    <note xml:id="note-0000001106000517" dur="16" oct="4" pname="d" accid.ges="s">
+                      <orig>
+                        <accid accid="s"/>
+                      </orig>
                     </note>
                   </beam>
                 </layer>
