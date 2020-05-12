@@ -1,4 +1,3 @@
-<?xml-model href="http://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -32,31 +31,27 @@
     <body>
       <div>
         <head><hi rendition="#b">Preamble</hi></head>
-
         <p>
-          <hi rendition="#i">Probstuecke Digital</hi> is a digital edition.
-          All musical and textual parts are encoded in XML. This encoding follows
-          the standards of the Music Encoding Initiative (MEI) and of the
-          Text Encoding Initiative (TEI) and builds the core of the edition,
-          which then can be visualised with appropriate software.
-          Due to its nature of a digital edition, these edition guidelines
-          are partially encoding guidelines as well.
+          <hi rendition="#i">Probstuecke Digital</hi> is a digital edition. All musical and textual parts are encoded in XML. This
+          encoding follows the standards of the Music Encoding Initiative (MEI) and of the Text Encoding Initiative (TEI) and builds
+          the core of the edition, which then can be visualised with appropriate software. Due to its nature of a digital edition,
+          these edition guidelines are partially encoding guidelines as well.
         </p>
       </div>
       <div>
         <head><hi rendition="#b">Music</hi></head>
-
         <p>
-          All the original clefs are encoded.
+          The original clefs as well as clef changes are preserved in the encodings.
         </p>
 
         <p>
-          Accidentals are adapted to modern practice.
+          Accidentals in the source that may be omitted in modern scores are enclosed in an <code>&lt;orig&gt;</code> element.
+          Accidentals that are missing for a modern score are enclosed in a <code>&lt;reg&gt;</code> element, which itself is
+          contained within a <code>&lt;supplied&gt;</code>.
         </p>
 
         <p>
-          Original double bar lines at the end of a piece are adapted to the
-          modern practice.
+          Original double bar lines at the end of a piece are adapted to the modern practice.
         </p>
 
         <p>
@@ -64,36 +59,51 @@
         </p>
 
         <p>
-          Editorial additions are marked as <code>&lt;supplied&gt;</code>.
+          In general, editorial additions are marked as <code>&lt;supplied&gt;</code>, where the <code>@resp</code> attribute
+          should be used to indicate the responsible editor.
         </p>
       </div>
-
       <div>
         <head><hi rendition="#b">Text</hi></head>
         <p>
-          All textes are provided as a diplomatic transcription, preserving
-          original linebreaks, orthography, mistakes and other idiosyncrasies.
-          Text portions of this edition follow the guidelines of the
-          <ref target="http://www.deutschestextarchiv.de/doku/basisformat/introduction_en.html">
-          DTA ›Base Format‹ (DTABf)</ref>.
-        </p>
-        <p>
-          For the sake of easier
-          readability all slashes (<hi rendition="#b">/</hi>) are replaced by
-          commata (<hi rendition="#b">,</hi>).
-        </p>
-        <p>
-          All line breaks and page breaks are preserved
-          (this is not yet encoded in all documents).
-
-          Following the TEI Guidelines, <code>&lt;lb&gt;</code> elements encode
-          the beginning of a line. Here, <hi rendition="#i">Probstuecke Digital</hi>
-          deviates from the DTABf specification.
+          All textes are provided as a diplomatic transcription, preserving original linebreaks, orthography,
+          mistakes and other idiosyncrasies. Text portions of this edition follow the guidelines of the
+          <ref target="http://www.deutschestextarchiv.de/doku/basisformat/introduction_en.html"> DTA ›Base Format‹ (DTABf)</ref>.
+          Thus, only deviations from the <hi rend="italic">DTABf</hi> are specified here.
         </p>
 
         <p>
-          Musical meters and thorough-bass figures in the text are encoded
-          using a <hi rendition="#b">/</hi>.
+          All <hi rendition="#b">/</hi> of the original textes are reproduced as normal commata (<hi rendition="#b">,</hi>).
+        </p>
+
+        <p>
+          All line breaks and page breaks are preserved (this is not yet encoded in all documents). Following the
+          TEI Guidelines, <code>&lt;lb&gt;</code> elements encode the beginning of a line, not line breaks, as specified by
+          the <hi rend="italic">DTABf</hi>.
+        </p>
+
+        <p>
+          Musical meters and thorough-bass figures in the text are encoded using a <hi rendition="#b">/</hi>.
+        </p>
+
+        <p>
+          Editorial notes (<code>&lt;note&gt;</code>) should indicate the responsible editor using the <code>@resp</code> attribute.
+        </p>
+
+        <p>
+          To encode musical examples in the the text, the element <code>&lt;notatedMusic&gt;</code> is allowed within paragraphs (<code>&lt;p&gt;</code>).
+          <code>&lt;notatedMusic&gt;</code> must contain a <code>&lt;ptr&gt;</code> linking to the corresponding MEI encoding.
+          
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <notatedMusic xml:id="music-example1" facs="#[corresponding zone in the facsimile]">
+              <ptr target="music-example1.xml"/>
+            </notatedMusic>
+          </egXML>
+        </p>
+
+        <p>
+          When the text is referencing a particular measure, note, clef etc. of the score, a <code>&lt;ref&gt;</code>
+          element should be used, with the <code>@target</code> attribute pointing to the corresponding element(s) of the score.
         </p>
       </div>
     </body>
