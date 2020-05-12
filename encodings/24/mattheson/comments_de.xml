@@ -372,9 +372,10 @@
           lächerliches, vergrößerndes oder ausschweif-
           <lb />fendes an sich; ohne daß sich jemahls ein vernünfftiger Mensch hat gelüsten lassen,
           <lb />selbige mathematisch zu untersuchen. Ich mag nicht erwehnen, was andere grosse
-          <lb />Leute, als die Herren: <persName ref="http://d-nb.info/gnd/118515586">Brockes</persName>, <persName>Fabricius</persName>, <persName>Kichey</persName>,
+          <lb />Leute, als die Herren: <persName ref="http://d-nb.info/gnd/118515586">Brockes</persName>,
+          <persName ref="http://d-nb.info/gnd/100099459">Fabricius</persName>, <persName>Kichey</persName>,
           etc. aus eigener Er-
-          <lb />fahrnng von meiner Wenigkeit zu rühmen beliebet, und mir dadurch mehr Ehre,
+          <lb />fahrung von meiner Wenigkeit zu rühmen beliebet, und mir dadurch mehr Ehre,
           <lb />als ich verdiene, angethan haben: das alles aber nehmen wir nicht mit Stricken, son-
           <lb />dern mit Latten, wie der <persName>Staar-Stecher</persName> redet. Und da ein eintziger von diesen in
           <lb />der gelehrten und geschliffenen Welt wol zehn mahl so viel gilt, als funfzig <persName>Hancken</persName>,
@@ -490,20 +491,23 @@
         <head>§. 9.</head>
         <lb /><p>
           Ja, wenn wir noch weiter, und durch <hi rendition="#aq">commata</hi> einhergehen wollten, so kä-
-          <lb />men gar 53. Grade in einer eintzigen Octave zum Vorschein. <hi rendition="#b"><persName>Sauveur</persName></hi>
+          <lb />men gar 53. Grade in einer eintzigen Octave zum Vorschein.
+          <hi rendition="#b"><persName ref="http://d-nb.info/gnd/11879471X">Sauveur</persName></hi>
           <note n="b)" place="foot">
-            <abbr>voy.</abbr> <orgName><abbr>Acad. Roy.</abbr> des Sciences</orgName>.
+            <abbr>voy.</abbr> <orgName ref="http://d-nb.info/gnd/35019-9"><abbr>Acad. Roy.</abbr> des Sciences</orgName>.
           </note>
           will deren 43. haben; <hi rendition="#b"><persName ref="http://d-nb.info/gnd/118581201">Mersennus</persName></hi> 32. Ein ungenannter Durlacher mag es diesem
           <lb />abgesehen haben, indem er ein so genanntes fünff-faches Transponier-Clavier im
           <lb />Druck vorschlagen wollen, welches in geometrischer Fortschreitung 32. Tangenten
           <lb />in einer Octave begreiffen soll. Man kann bald sehen, wo dieser in die Schule ge-
-          <lb />gangen sey, wenn er den <persName>Aristoxenum</persName> für einen Nachfolger des <persName>Pythagoras</persName> angibt,
+          <lb />gangen sey, wenn er den <persName ref="http://d-nb.info/gnd/118650149">Aristoxenum</persName>
+          für einen Nachfolger des <persName>Pythagoras</persName> angibt,
           <lb />und <persName ref="http://d-nb.info/gnd/118581201">Mersennum</persName> mit unter diejenigen fetzt, die es nicht nach seinem Sinn getroffen
-          <lb />haben. Hierher gehört dasjenige Clavicimbel, welches <persName>Carl <hi rendition="#b">Luyton</hi></persName> ehmahls von
+          <lb />haben. Hierher gehört dasjenige Clavicimbel, welches
+          <persName ref="http://d-nb.info/gnd/120917068">Carl <hi rendition="#b">Luyton</hi></persName> ehmahls von
           <lb />77. Tangenten verfertiget hat, und dessen
           <note n="c)" place="foot">
-            <persName>Mich. Praetor.</persName> <bibl>Syntagm. Mus. P. II.</bibl> c. 40.
+            <persName ref="http://d-nb.info/gnd/118741713">Mich. Praetor.</persName> <bibl>Syntagm. Mus. P. II.</bibl> c. 40.
           </note>
           Prätorius mit grossen Ruhm geden-
           <lb />cket. <hi rendition="#b"><persName ref="http://d-nb.info/gnd/118549103">Henfling</persName></hi> wollte 50 Stuffen in der Octave wissen, und hatte eine Erfindung
@@ -618,7 +622,7 @@
         <p>
           Nun habe ich zwar, in der <bibl>ersten Auflage dieses Wercks</bibl>, um den Nachkommen
           <lb />die Notirung einiger Tone desto leichter zu machen, das Mittel zur Befriedigung
-          <lb />derAugen, mit dem nicht unbekannten einfachen Kreutzlein (x), Statt des zwey-
+          <lb />der Augen, mit dem nicht unbekannten einfachen Kreutzlein (x), Statt des zwey-
           <lb />fachen Doppel-Kreutzes (##), dessen man sich hier bedienet hat, wolmeynend vor-
           <lb />schlagen, und der Unförmlichkeit dieser letzten Bezeichnung dadurch abhelffen wol-
           <lb />len: nicht, als ob solches was neues sey, sondern, weil es noch beyweitem nicht
@@ -637,7 +641,7 @@
           <fw place="bottom" type="catch">um</fw>
           <pb n="451" />
 
-          um das einfache Kreutz (x) besser seyn würde / nemlich: weil man es so dann mit
+          <lb />um das einfache Kreutz (x) besser seyn würde / nemlich: weil man es so dann mit
           <lb />einem Zeichen bestellen könnte, und weil dabey auch ein jedes Ding sein eignes Zei-
           <lb />chen bekäme.
         </p>
@@ -646,10 +650,10 @@
       <div n="14">
         <head>§. 14.</head>
         <p>
-          Nachdem mir aber das <persName>Marcellifche</persName> <bibl>Psalm-Werck</bibl> unter die Hände gerathen ist,
+          Nachdem mir aber das <persName ref="http://d-nb.info/gnd/118951122">Marcellifche</persName> <bibl>Psalm-Werck</bibl> unter die Hände gerathen ist,
           <lb />und in dessen dritten Bande sich eine gelehrte Vorrede befindet, welche über den vorhabenden
           <lb />Punct gantz besondere Gedancken darleget, davon auch bereits in der
-          <lb /><bibl>Musicalischen Critick p. 126. T. II.</bibl> mit Absicht auf die Organisten-Probe, auf-
+          <lb /><bibl>Musicalischen Critick p. 126. T. II.</bibl> mit Absicht auf die <bibl>Organisten-Probe</bibl>, auf-
           <lb />richtige Erwehnung geschehen ist; so will ich das nothwendigste davon allhier anfüh-
           <lb />ren und verteutschen, damit der scharffsinnige Leser die darinn enthaltene Gründe
           <lb />selbst erwege, und hernach urtheile, was von beiden Vorschlägen eigentlich zu halten,
@@ -790,7 +794,7 @@
           <lb />wircklich Verwirrung, wie ich solches insonderheit bey unparteyischen Schülern selbst
           <lb />offt mit Verdruß erfahren habe. Alles demnach, was einen Irrthum und Ver-
           <lb />druß verursachen kann, das soll und muß abgeschaffet werden. So lautet
-          <lb />in <persName>Printzens</persName> <bibl>Satyr. Componisten</bibl>, Part. II. Cap. VI, das zweite Axioma; und das
+          <lb />in <persName ref="http://d-nb.info/gnd/118939599">Printzens</persName> <bibl>Satyr. Componisten</bibl>, Part. II. Cap. VI, das zweite Axioma; und das
           <lb />vierte, welches auch hieher gehöret, ist so eingerichtet: Ein jedes Zeichen soll
           <lb />von dem andern unterschieden seyn; das ist, es soll nicht zwey oder mehr
           <lb />Dinge, sondern nur ein Ding andeuten.
