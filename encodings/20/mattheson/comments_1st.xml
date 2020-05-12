@@ -190,7 +190,7 @@
 
       <div n="8">
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb />§. 8. Daß dieſer Ton in Franckreich was ſeltenes ſeyn mu&#x0364;ſſe, erſehe aus <hi rendition="#aq"><persName ref="https://d-nb.info/gnd/1050676637">Mr. de
+          <lb />§. 8. Daß dieſer Ton in Franckreich was ſeltenes ſeyn mu&#x0364;ſſe, erſehe aus <hi rendition="#aq"><persName ref="#ed_dwf_j5x_qlb">Mr. de
           <lb />St. <hi rendition="#i">Lambert</hi></persName></hi> seinem obangefu&#x0364;hrten Tractat vom General-Baß, da er <hi rendition="#aq">p. 27.</hi> ſetzet:
           <hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre (H) etant un Ton, ſur lequel on compoſe rarement, <note place="foot" n="*)"><hi rendition="#fr">
             Wir haben Sachen mit Trompeten und Paucken aus dieſem Ton, das iſt zu ſagen: Cammer-Ton. Ich habe
@@ -207,20 +207,21 @@
             </choice> p. 486.
           </hi>
           <lb />ſchon gewieſen. Daß aber dieſer Ton gar nichts rares bey uns ſey, zeiget, nebſt un-
-          <lb />zehlich andern ta&#x0364;glich vorfallenden Exempeln, auch des <persName ref="http://d-nb.info/gnd/11862119X">Herrn Capellmeiſter <hi rendition="#b">Tele-
+          <lb />zehlich andern ta&#x0364;glich vorfallenden Exempeln, auch des <persName ref="#ed_uyt_trx_qlb">Herrn Capellmeiſter <hi rendition="#b">Tele-
           <lb />manns</hi></persName> <hi rendition="#aq"><name type="musicalWork">III Sonata</name></hi> aus den zu <placeName ref="https://www.geonames.org/2925533">Franckfurt</placeName> <hi rendition="#aq">gravir</hi>ten <hi rendition="#aq">Solis</hi>.
         </p>
       </div>
 
       <div n="9">
         <p xml:id="p9-1">
-          <lb />§. 9. Ein Römer, mit Nahmen <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/132649241">Giovanni Moſſi</persName></hi>, ein Corelliner, der ſchon oben
+          <lb />§. 9. Ein Römer, mit Nahmen <hi rendition="#aq"><persName ref="#ed_khq_sfy_qlb">Giovanni Moſſi</persName></hi>, ein Corelliner, der ſchon oben
           <lb />ein paar mal <hi rendition="#aq">citi</hi>ret worden, hat ohnla&#x0364;ngſt ein vortreffliches Werck von <hi rendition="#aq"><name type="musicalWork">12 Sona-
           <lb />ten à Violino ſolo</name></hi> herausgegeben, darinnen ſuche man die <hi rendition="#aq">Sonata V</hi> aus dem <hi rendition="#aq">H mol</hi>,
           <lb />und ſpiele ſie wohl, ich will Bu&#x0364;rge ſeyn, ſie ſoll Vergnu&#x0364;gen bringen. Das Werck
-          <lb />iſt zu <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName>, bey <hi rendition="#aq"><persName ref="http://d-nb.info/gnd/103764770X">Jeanne Roger</persName></hi>, in Kupffer geſtochen, und dem <persName ref="http://d-nb.info/gnd/117033405">Cardinal von
-          <lb /><hi rendition="#b">Schrottenbach</hi></persName> <hi rendition="#aq">dedicirt. C duro caret. Vid. <persName ref="http://d-nb.info/gnd/104198273">dell Abaco</persName> <name type="musicalWork" ref="http://d-nb.info/gnd/300199090">Opera IV. Sonata
-          <lb />XI.</name> <persName ref="http://d-nb.info/gnd/118627287">Ant. Vivaldi</persName> <name type="musicalWork">Opera V. Sonata XVI.</name> <persName ref="http://d-nb.info/gnd/12307651X">Giacomo Sherard</persName> <name type="musicalWork">Opera I. Sonata XI.</name>
+          <lb />iſt zu <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName>, bey <hi rendition="#aq"><persName ref="#ed_tqx_dfy_qlb">Jeanne Roger</persName></hi>, in Kupffer geſtochen, und dem
+          <persName ref="#ed_lvf_bhy_qlb">Cardinal von
+          <lb /><hi rendition="#b">Schrottenbach</hi></persName> <hi rendition="#aq">dedicirt. C duro caret. Vid. <persName ref="#ed_svr_zhy_qlb">dell Abaco</persName> <name type="musicalWork" ref="http://d-nb.info/gnd/300199090">Opera IV. Sonata
+          <lb />XI.</name> <persName ref="#ed_ntr_ghy_qlb">Ant. Vivaldi</persName> <name type="musicalWork">Opera V. Sonata XVI.</name> <persName ref="#ed_mzk_n5x_qlb">Giacomo Sherard</persName> <name type="musicalWork">Opera I. Sonata XI.</name>
           <lb />e <name type="musicalWork">Opera II. Sonata II.</name> &amp;c.</hi>
         </p>
       </div>

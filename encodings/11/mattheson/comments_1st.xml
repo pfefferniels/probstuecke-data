@@ -90,13 +90,13 @@
         <p>
           <hi rendition="#aq">
             <abbr>Vid.</abbr>
-            <persName ref="http://d-nb.info/gnd/129200395">Guiſeppe Valentini</persName>
+            <persName ref="#ed_whl_5gy_qlb">Guiſeppe Valentini</persName>
             <name type="musicalWork">Opera V. Sonata VII. chiamata: la <hi rendition="#i">Corelli</hi></name>.
 
-            <persName ref="http://d-nb.info/gnd/118560999">Keiſers</persName>
+            <persName ref="#ed_fy5_r5x_qlb">Keiſers</persName>
             <name type="musicalWork">Soliloquia</name> pag. 5. 6. 7. 8. 9.
 
-            <persName ref="http://d-nb.info/gnd/134976436">Elias <hi rendition="#i">Brunmüller</hi></persName>
+            <persName ref="#ed_jdg_wsx_qlb">Elias <hi rendition="#i">Brunmüller</hi></persName>
             <name type="musicalWork">Sonata III.</name> in
             <placeName ref="https://www.geonames.org/2759794">Amſterdam</placeName> gravirt.
           </hi>
@@ -121,7 +121,7 @@
           <lb/>etwas durchzuſchlagen; er nehme es mit nach Hauſe und laſſe es rein, in <hi rendition="#b"><persName>Möhl-
           <lb/>manns</persName></hi><note type="editorial" resp="#pfeffer">Conrad Möhlmann</note>
           <note place="foot" n="✚">
-            Es war ein Organiſte an der Nicolai-Kirchen alhier, dem man einige Tage zuvor die Partie oder den Baß zur
+            Es war ein Organiſte an der <placeName>Nicolai-Kirchen</placeName> alhier, dem man einige Tage zuvor die Partie oder den Baß zur
             <lb/>Muſic ins Hauß ſenden muſte, da er ſich denn jede Note zweymahl ſo groß mahlte, als ſie ſonſt war, nur damit
             <lb/>er ſie deſto beſſer sehen könnte; aber es halff doch nichts.
           </note>

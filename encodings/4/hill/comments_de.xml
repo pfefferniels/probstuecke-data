@@ -81,7 +81,7 @@
       </listPerson>
 
       <incident who="#np" rend="hidden"><desc>spielt</desc></incident>
-      
+
       <u who="#rh">
         Das Problem ist, dass er dieses Probstück so homogen schreibt.
         Es gibt nicht so viele Möglichkeiten, etwas anderes zu tun, als er vorschreibt.
@@ -113,7 +113,7 @@
       <incident who="#rh">
         <desc>spielt die <ref target="#m1-001 #m1-002 #m1-003 #m1-004">ersten zwei Akkorde mit etwas übergehaltenen Außenstimmen.</ref></desc>
       </incident>
-      
+
       <u who="#rh">
         <media mimeType="audio/ogg" url="example2.ogg" ></media>
 
@@ -142,7 +142,7 @@
       </u>
 
       <u who="#rh">
-        Ich finde das Problem liegt darin, wie man den Akkorden und dem Akkordsatz 
+        Ich finde das Problem liegt darin, wie man den Akkorden und dem Akkordsatz
         einen besonderen Charakter geben kann.
         <q type="written">Verlangt einen besonderen Diskant</q>. Was will er damit sagen?
         Ich gehe davon aus, dass das
@@ -179,11 +179,11 @@
           und agogischer Verkürzung der <ref target="#m3-007 #m3-008 #m3-009 #m3-010">32stel-Noten</ref>.
         </desc>
       </incident>
-      
+
       <u who="#rh">
         <media mimeType="audio/ogg" url="example3.ogg"/>
       </u>
-      
+
       <incident who="#rh">
         <desc>
           spielt mit gleicher agogischer Gestalt nur linke Hand.
@@ -210,9 +210,9 @@
       </notatedMusic>
 
       <incident who="#rh"><desc>spielt erneut T. 3, nur rechte Hand, arpeggiando.</desc></incident>
-      
+
       <u who="#rh">Es klingt noch zu laut.</u>
-      
+
       <incident who="#rh"><desc>spielt T. 3 nur rechte Hand mit mehr Bindungen:</desc></incident>
       <notatedMusic>
         <ptr target="example6.xml" />
@@ -269,7 +269,7 @@
 
       <u who="#rh">
         Kennst du das Prelude der aus B-Dur-Suite von
-          <persName ref="http://d-nb.info/gnd/121343510">Händel</persName>?
+          <persName ref="#ed_lhv_3sx_qlb">Händel</persName>?
       </u>
 
       <incident who="#rh">
@@ -375,7 +375,7 @@
 
       <u who="#rh">
         <foreign xml:lang="eng">Something that seems to have another variation character on the bass and
-        also sustains this basic idea of a singing. 
+        also sustains this basic idea of a singing.
         It is actually quite</foreign> lieblich.
         Nicht so grob und schroff, sondern freundlicher.
       </u>
