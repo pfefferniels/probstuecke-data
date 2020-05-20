@@ -162,9 +162,9 @@
 
             auch nur eine <hi rendition="#aq"><foreign xml:lang="fra">Suite</foreign></hi> des
             <persName ref="http://d-nb.info/gnd/118718517">Herrn Capell-Meister <hi rendition="#b"><persName ref="#ed_md2_fmx_qlb">Graupners</persName></hi>
-            </persName> Clavier-Sachen, oder
+          </persName> <name type="musicalWork" ref="#ed_bj1_myc_tlb">Clavier-Sachen</name>, oder
             <lb/>aus meinem
-            <hi rendition="#b"><name type="musicalWork" ref="http://d-nb.info/gnd/300794509">Harmonischen Denckmahl</name></hi>
+            <hi rendition="#b"><name type="musicalWork" ref="#ed_cx1_yqx_slb">Harmonischen Denckmahl</name></hi>
             dagegen zu halten, ſo wird er den
             <lb/>Unterscheid leicht finden. Jene Arbeit will <hi rendition="#aq">exerci</hi>ret ſeyn, und wer ſich unter-
             <lb/>ſtehet, dieſelbe <hi rendition="#aq">ex tempore</hi> zu treffen, handelt ſehr vermeſſen, und gedencket den

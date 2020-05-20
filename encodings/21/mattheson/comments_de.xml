@@ -121,7 +121,11 @@
           <lb/>waͤchſt, wenn  die Tertzen Note vor Note mitſpielen, dabey aber die Zieffern nicht
           <lb/>vergeſſen werden muͤſſen, und der Baß in Octaven einhergehen kann. Weiter, da
           <lb/>ohne dem die Harmonie ſchon vollkommen in dem <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> befindlich iſt, ſo haͤt-
-          <lb/>te ich gerne, daß man vom <ref target="#measure-0000000735490332">dritten</ref> bis <ref target="#measure-0000000927409295">ſechſten</ref> Tact nur die bloſſe Tertz oben im Diſ-
+          <lb/>te ich gerne, daß man vom
+          <ref target="#measure-0000000735490332 #measure-0000001402480291 #measure-0000001795560838 #measure-0000000927409295">
+            dritten bis ſechſten
+          </ref>
+          Tact nur die bloſſe Tertz oben im Diſ-
           <lb/>cante Octavenweiſe ſpringen, und hernach eine kleine Pauſe folgen lieſſe: ſo wie die
           <lb/>Figur weiter unten im Baß vorkoͤmmt. Mich deucht, ſolches macht mehr Auf-
           <lb/>merckſamkeit bey dem Zuhoͤrer, als wenn man da immer und ewig mit lauter vol-
@@ -132,8 +136,15 @@
       <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          Der <ref target="#measure-0000000074112192">ſiebende</ref> und <ref target="#measure-0000001321575188">achte Tact</ref> enthalten wieder den Anfang, und werden
-          <lb/>auch alſo mit Tertzen abgefertiget. Bey dem <ref target="#measure-0000001447102304">neunten</ref> und <ref target="#measure-0000000437350706">folgenden</ref> hat nun die
+          Der
+          <ref target="#measure-0000000074112192 #measure-0000001321575188">
+            ſiebende und achte Tact
+          </ref>
+          enthalten wieder den Anfang, und werden
+          <lb/>auch alſo mit Tertzen abgefertiget. Bey dem
+          <ref target="#measure-0000001447102304 #measure-0000000437350706">
+            neunten und folgenden
+          </ref> hat nun die
           <lb/>obenberuͤhrte Art abermahl Statt, und gehet bloß mit Tertzen, die in die Octave
           <lb/>herunter fallen, nur ſo:
         </p>
@@ -192,7 +203,11 @@
       <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          <lb/>Dieſer Ton, <hi rendition="#b">H dur</hi>, heiſſet, nach des <persName ref="#ed_dwf_j5x_qlb">Herrn von St. Lamberts</persName> rothwelſchen
+          <lb/>Dieſer Ton, <hi rendition="#b">H dur</hi>, heiſſet, nach des
+          <persName ref="#ed_dwf_j5x_qlb">Herrn von St. Lamberts</persName> rothwelſchen
+          <note type="editorial" resp="#pfeffer">
+            hier im Sinne von "unverständlich" gebraucht.
+          </note>
           <lb/>Mund-Art: <hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Becare majeure</foreign></hi>, und ſtehet abermahl (ich weiß in aller Welt nicht
           <lb/>warum?) dabey geſchrieben: <hi rendition="#aq">rare</hi>. Wenn wir lauter Raritaͤten aus unſern To-
           <lb/>nen machen wollen, ſo wundert mich nicht, daß die Armuth der General-Baſſiſten
