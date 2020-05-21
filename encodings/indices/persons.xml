@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="ah_personenregister">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register">
     <teiHeader>
         <fileDesc>
@@ -338,6 +337,15 @@
                     </persName>
                     <birth>1686</birth>
                     <death>1739</death>
+                </person>
+                <person xml:id="ed_olp_fgl_tlb">
+                    <idno type="uri">http://d-nb.info/gnd/118732595</idno>
+                    <persName type="reg">
+                        <surname>Meier</surname>
+                        <forename>Joachim</forename>
+                    </persName>
+                    <birth>1661</birth>
+                    <death>1732</death>
                 </person>
                 <person xml:id="ed_kyg_jgy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118581201</idno>
