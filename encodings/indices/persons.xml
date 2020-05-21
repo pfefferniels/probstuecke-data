@@ -304,12 +304,13 @@
                     <death>1743</death>
                 </person>
                 <person xml:id="ed_lvw_2xx_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/118575449</idno>
                     <persName type="reg">
                         <surname>Luther</surname>
                         <forename>Martin</forename>
                     </persName>
                     <birth>1483</birth>
-                    <death>http://d-nb.info/gnd/118575449</death>
+                    <death>1546</death>
                 </person>
                 <person xml:id="ed_d42_qxx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/120917068</idno>
@@ -337,6 +338,15 @@
                     </persName>
                     <birth>1686</birth>
                     <death>1739</death>
+                </person>
+                <person xml:id="ed_vfy_c2m_tlb">
+                    <idno type="uri">http://d-nb.info/gnd/11857826X</idno>
+                    <persName type="reg">
+                        <surname>Martialis</surname>
+                        <forename>Marcus Valerius</forename>
+                    </persName>
+                    <birth>38</birth>
+                    <death>102</death>
                 </person>
                 <person xml:id="ed_olp_fgl_tlb">
                     <idno type="uri">http://d-nb.info/gnd/118732595</idno>

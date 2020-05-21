@@ -100,7 +100,7 @@
       <epigraph>
         <cit>
           <quote><lb/><hi rendition="#aq"><foreign xml:lang="lat"><orig>Diuiſum ſic breue fiet opus.</orig></foreign></hi></quote>
-          <bibl><hi rendition="#aq #i"><persName ref="http://d-nb.info/gnd/11857826X"><abbr>Mart.</abbr></persName></hi></bibl>
+          <bibl><hi rendition="#aq #i"><persName ref="#ed_vfy_c2m_tlb"><abbr>Mart.</abbr></persName></hi></bibl>
         </cit>
       </epigraph>
     </front>
