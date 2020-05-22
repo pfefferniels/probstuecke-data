@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Achtes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <forename>Niels</forename>
+            <surname>Pfeffer</surname>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <surname>Klaus</surname>
-            <forename>Rettinghaus</forename>
+            <forename>Klaus</forename>
+            <surname>Rettinghaus</surname>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <forename>Niels</forename>
+            <surname>Pfeffer</surname>
           </persName>
         </publisher>
         <availability>
