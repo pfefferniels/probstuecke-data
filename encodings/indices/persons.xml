@@ -231,6 +231,15 @@
                     <birth>1648</birth>
                     <death>1716</death>
                 </person>
+                <person xml:id="ed_mnv_cks_tlb">
+                    <idno type="uri">http://d-nb.info/gnd/118553569</idno>
+                    <persName type="reg">
+                        <surname>Horatius Flaccus</surname>
+                        <forename>Quintus</forename>
+                    </persName>
+                    <birth>65 BC</birth>
+                    <death>AD 8</death>
+                </person>
                 <person xml:id="ed_c22_mgy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118639749</idno>
                     <persName type="reg">
