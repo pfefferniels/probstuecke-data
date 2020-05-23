@@ -4,8 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>
-                </title>
+                <title>Prob-Stück 2, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -43,7 +42,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-269" n="6" corresp="#m-269">
+                        <measure corresp="#m-269">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -117,7 +116,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure>
+                        <measure right="invis">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="4" pname="d" />
@@ -128,6 +127,7 @@
                                     <custos oct="2" pname="b" />
                                 </layer>
                             </staff>
+                            <dir place="below" staff="1" tstamp="2"><rend fontstyle="normal">&amp;c.</rend></dir>
                         </measure>
                     </section>
                 </score>
