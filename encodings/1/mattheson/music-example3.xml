@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 1, Example 3</title>
                 <composer>Johann Mattheson</composer>
                 <respStmt>
                     <resp>Edited by</resp>
@@ -38,16 +38,14 @@
                     <scoreDef key.pname="d" key.mode="minor" meter.unit="4" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5">
-                                <keySig sig="1f" type="supplied" />
                             </staffDef>
                             <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5">
-                                <keySig sig="1f" type="supplied" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
                         <sb />
-                        <measure xml:id="ex-1123" n="33" corresp="#m-1123">
+                        <measure corresp="#m-1123">
                             <staff n="1">
                                 <layer n="1">
                                     <beam xml:id="ex-1127">
@@ -106,7 +104,9 @@
                                     <beam xml:id="ex-1173">
                                         <note xml:id="ex-1172" dur="16" oct="4" pname="c" />
                                         <note xml:id="ex-1174" dur="16" oct="3" pname="b">
-                                            <accid xml:id="ex-1175" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1175" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1176" dur="16" oct="3" pname="a" />
                                         <note xml:id="ex-1177" dur="32" oct="3" pname="g" />
@@ -114,7 +114,9 @@
                                     </beam>
                                     <beam xml:id="ex-1181">
                                         <note xml:id="ex-1179" dur="16" oct="3" pname="b">
-                                            <accid xml:id="ex-1180" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1180" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1182" dur="16" oct="3" pname="a" />
                                         <note xml:id="ex-1183" dur="16" oct="3" pname="g" />
@@ -128,6 +130,18 @@
                                         <note xml:id="ex-1190" dur="32" oct="3" pname="e" />
                                         <note xml:id="ex-1191" dur="32" oct="3" pname="d" />
                                     </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure right="invis">
+                            <staff n="1">
+                                <layer>
+                                    <custos oct="4" pname="b" />
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer>
+                                    <custos oct="3" pname="g" />
                                 </layer>
                             </staff>
                         </measure>
