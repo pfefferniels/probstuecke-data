@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 6, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -35,7 +35,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure>
+                        <measure corresp="#m-282">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="a" stem.dir="up" />
@@ -48,7 +48,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-310">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="g" stem.dir="up" />
@@ -60,7 +60,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-340">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="g" stem.dir="up" />
@@ -73,7 +73,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-369">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="f" stem.dir="up" />
@@ -85,7 +85,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-399">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="f" stem.dir="up" />
@@ -98,7 +98,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-427" right="invis">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="e" stem.dir="up" />
