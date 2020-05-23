@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 3, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -37,8 +37,8 @@
                             <staffDef xml:id="bass" clef.shape="F" clef.line="4" n="2" lines="5" />
                         </staffGrp>
                     </scoreDef>
-                    <section xml:id="ex-34">
-                        <measure xml:id="ex-269" n="17" corresp="#m-603">
+                    <section>
+                        <measure corresp="#m-603">
                             <staff n="1">
                                 <layer>
                                     <rest dur="16" />
