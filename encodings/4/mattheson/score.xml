@@ -153,11 +153,13 @@
             <pb n="310" source="#secondEdition" facs="#facs-p404"/>
             <pb n="120" source="#firstEdition" facs="#facs-p284"/>
             <measure xml:id="m-35" n="1">
-              <staff xml:id="m-37" n="1">
-                <layer xml:id="m-38" n="1"/>
+              <staff n="1">
+                <layer n="1">
+                  <mSpace/>
+                </layer>
               </staff>
               <staff xml:id="m-39" n="2" facs="#facsZone-m-39">
-                <layer xml:id="m-40" n="1">
+                <layer n="1">
                   <note xml:id="m-41" dots="1" dur="4" oct="4" pname="e"/>
                   <note xml:id="m-42" dots="1" dur="4" oct="4" pname="d">
                     <accid accid="s"/>
@@ -178,9 +180,13 @@
               </harm>
             </measure>
             <measure xml:id="m-46" n="2">
-              <staff xml:id="m-47" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-48" n="2" facs="#facsZone-m-48">
-                <layer xml:id="m-49" n="1">
+                <layer n="1">
                   <note xml:id="m-50" dots="1" dur="2" oct="4" pname="c"/>
                   <note xml:id="m-51" dots="1" dur="2" oct="3" pname="b"/>
                 </layer>
@@ -202,11 +208,13 @@
               </harm>
             </measure>
             <measure xml:id="m-53" n="3">
-              <staff xml:id="m-54" n="1">
-                <layer xml:id="m-55" n="1"/>
+              <staff n="1">
+                <layer n="1">
+                  <mSpace/>
+                </layer>
               </staff>
               <staff xml:id="m-56" n="2" facs="#facsZone-m-56 #facsZone-m-56-2">
-                <layer xml:id="m-57" n="1">
+                <layer n="1">
                   <rest xml:id="m-58" dur="16"/>
                   <beam>
                     <note xml:id="m-59" dur="16" oct="3" pname="e"/>
@@ -291,8 +299,8 @@
               </harm>
             </measure>
             <measure xml:id="m-101" n="4">
-              <staff xml:id="m-103" n="1">
-                <layer xml:id="m-104" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-105" dur="16"/>
                   <beam>
                     <note xml:id="m-106" dur="16" oct="4" pname="b"/>
@@ -314,7 +322,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-135" n="2" facs="#facsZone-m-135 #facsZone-m-135-2">
-                <layer xml:id="m-136" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-137" dur="8" oct="3" pname="g"/>
                     <note xml:id="m-142" dur="8" oct="3" pname="e"/>
@@ -406,8 +414,8 @@
               </harm>
             </measure>
             <measure xml:id="m-176" n="5">
-              <staff xml:id="m-177" n="1">
-                <layer xml:id="m-178" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-179" dur="16"/>
                   <beam>
                     <note xml:id="m-180" dur="16" oct="5" pname="e"/>
@@ -430,7 +438,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-194" n="2" facs="#facsZone-m-194">
-                <layer xml:id="m-195" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-196" dur="8" oct="4" pname="c"/>
                     <note xml:id="m-201" dur="8" oct="3" pname="a"/>
@@ -475,8 +483,8 @@
               </harm>
             </measure>
             <measure xml:id="m-229" n="6">
-              <staff xml:id="m-231" n="1">
-                <layer xml:id="m-232" n="1">
+              <staff n="1">
+                <layer n="1">
                   <space xml:id="m-233" dots="1" dur="2"/>
                   <rest xml:id="m-234" dur="16"/>
                   <beam>
@@ -496,7 +504,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-248" n="2" facs="#facsZone-m-248">
-                <layer xml:id="m-249" n="1">
+                <layer n="1">
                   <rest xml:id="m-250" dur="16"/>
                   <beam>
                     <note xml:id="m-251" dur="16" oct="4" pname="d"/>
@@ -556,8 +564,8 @@
               </harm>
             </measure>
             <measure xml:id="m-276" n="7">
-              <staff xml:id="m-277" n="1">
-                <layer xml:id="m-278" n="1">
+              <staff n="1">
+                <layer n="1">
                   <space xml:id="m-279" dots="1" dur="2"/>
                   <rest xml:id="m-280" dur="16"/>
                   <beam>
@@ -579,7 +587,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-296" n="2" facs="#facsZone-m-296 #facsZone-m-296-2">
-                <layer xml:id="m-297" n="1">
+                <layer n="1">
                   <rest xml:id="m-298" dur="16"/>
                   <beam>
                     <note xml:id="m-299" dur="16" oct="3" pname="b"/>
@@ -659,8 +667,8 @@
               </harm>
             </measure>
             <measure xml:id="m-327" n="8">
-              <staff xml:id="m-329" n="1">
-                <layer xml:id="m-330" n="1">
+              <staff n="1">
+                <layer n="1">
                   <space xml:id="m-331" dots="1" dur="4"/>
                   <note xml:id="m-344" dur="8" oct="4" pname="b"/>
                   <space xml:id="m-349" dur="8"/>
@@ -669,7 +677,7 @@
                   <space xml:id="m-362" dur="8"/>
                   <space xml:id="m-365" dur="8"/>
                 </layer>
-                <layer xml:id="m-332" n="2">
+                <layer n="2">
                   <rest xml:id="m-333" dur="16"/>
                   <beam>
                     <note xml:id="m-334" dur="16" oct="4" pname="b"/>
@@ -703,7 +711,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-370" n="2" facs="#facsZone-m-370">
-                <layer xml:id="m-371" n="1">
+                <layer n="1">
                   <rest xml:id="m-372" dur="8"/>
                   <beam>
                     <note xml:id="m-375" dur="8" oct="3" pname="g"/>
@@ -751,9 +759,13 @@
               <slur xml:id="m-348" layer="2" staff="1" tstamp="5" tstamp2="0m+6.75"/>
             </measure>
             <measure xml:id="m-405" n="9">
-              <staff xml:id="m-406" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-407" n="2" facs="#facsZone-m-407">
-                <layer xml:id="m-408" n="1">
+                <layer n="1">
                   <note xml:id="m-409" dots="1" dur="4" oct="3" pname="g"/>
                   <note xml:id="m-411" dots="1" dur="4" oct="3" pname="f" accid.ges="s"/>
                   <note xml:id="m-413" dots="1" dur="4" oct="3" pname="g"/>
@@ -768,10 +780,14 @@
               </harm>
             </measure>
             <measure xml:id="m-415" n="10">
-              <staff xml:id="m-416" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-417" n="2" facs="#facsZone-m-417">
                 <layer xml:id="m-418" n="2"/>
-                <layer xml:id="m-419" n="1">
+                <layer n="1">
                   <note xml:id="m-420" dots="1" dur="2" oct="3" pname="e"/>
                   <note xml:id="m-421" dots="1" dur="2" oct="3" pname="d"/>
                 </layer>
@@ -788,9 +804,13 @@
               </harm>
             </measure>
             <measure xml:id="m-423" n="11">
-              <staff xml:id="m-425" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-426" n="2" facs="#facsZone-m-426">
-                <layer xml:id="m-427" n="1">
+                <layer n="1">
                   <rest xml:id="m-428" dur="16"/>
                   <beam>
                     <note xml:id="m-429" dur="16" oct="3" pname="g"/>
@@ -860,8 +880,8 @@
               </harm>
             </measure>
             <measure xml:id="m-468" n="12">
-              <staff xml:id="m-470" n="1">
-                <layer xml:id="m-471" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-472" dur="16"/>
                   <beam>
                     <note xml:id="m-473" dur="16" oct="4" pname="g"/>
@@ -905,7 +925,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-512" n="2" facs="#facsZone-m-512 #facsZone-m-512-2">
-                <layer xml:id="m-513" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-514" dur="8" oct="3" pname="b"/>
                     <note xml:id="m-516" dur="8" oct="3" pname="b"/>
@@ -950,11 +970,13 @@
               </harm>
             </measure>
             <measure xml:id="m-533" n="13">
-              <staff xml:id="m-536" n="1">
-                <layer xml:id="m-537" n="1"/>
+              <staff n="1">
+                <layer n="1">
+                  <mSpace/>
+                </layer>
               </staff>
               <staff xml:id="m-538" n="2" facs="#facsZone-m-538 #facsZone-m-538-2">
-                <layer xml:id="m-539" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-540" dur="16" oct="3" pname="d"/>
                     <note xml:id="m-542" dur="32" oct="4" pname="d"/>
@@ -1071,8 +1093,8 @@
               </harm>
             </measure>
             <measure xml:id="m-588" n="14">
-              <staff xml:id="m-590" n="1">
-                <layer xml:id="m-591" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-592" dur="16"/>
                   <beam>
                     <note xml:id="m-593" dur="16" oct="5" pname="b"/>
@@ -1096,7 +1118,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-612" n="2" facs="#facsZone-m-612 #facsZone-m-612-2">
-                <layer xml:id="m-613" n="1">
+                <layer n="1">
                   <clef line="4" shape="F"/>
                   <beam xml:id="m-615">
                     <note xml:id="m-614" dur="8" oct="4" pname="d"/>
@@ -1205,8 +1227,8 @@
               </harm>
             </measure>
             <measure xml:id="m-651" n="15">
-              <staff xml:id="m-653" n="1">
-                <layer xml:id="m-654" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-655" dur="16"/>
                   <beam>
                     <note xml:id="m-656" dur="16" oct="5" pname="a"/>
@@ -1230,7 +1252,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-676" n="2" facs="#facsZone-m-676 #facsZone-m-676-2">
-                <layer xml:id="m-677" n="1">
+                <layer n="1">
                   <beam xml:id="m-680">
                     <note xml:id="m-678" dur="8" oct="4" pname="c">
                       <accid accid="s"/>
@@ -1320,9 +1342,13 @@
               </harm>
             </measure>
             <measure xml:id="m-714" n="16">
-              <staff xml:id="m-716" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-717" n="2" facs="#facsZone-m-717 #facsZone-m-717-2">
-                <layer xml:id="m-718" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-719" dur="16" oct="3" pname="b"/>
                     <note xml:id="m-721" dur="16" oct="3" pname="d"/>
@@ -1415,9 +1441,13 @@
               </harm>
             </measure>
             <measure xml:id="m-763" n="17">
-              <staff xml:id="m-764" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-765" n="2" facs="#facsZone-m-765">
-                <layer xml:id="m-766" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-767" dur="8" oct="3" pname="f" accid.ges="s"/>
                     <note xml:id="m-770" dur="8" oct="3" pname="d"/>
@@ -1459,9 +1489,13 @@
               </harm>
             </measure>
             <measure xml:id="m-787" n="18">
-              <staff xml:id="m-789" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-790" n="2" facs="#facsZone-m-790">
-                <layer xml:id="m-791" n="1">
+                <layer n="1">
                   <rest xml:id="m-792" dur="16"/>
                   <beam>
                     <note xml:id="m-793" dur="16" oct="3" pname="f" accid.ges="s"/>
@@ -1581,9 +1615,13 @@
               </harm>
             </measure>
             <measure xml:id="m-836" n="19">
-              <staff xml:id="m-838" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-839" n="2" facs="#facsZone-m-839">
-                <layer xml:id="m-840" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-841" dur="16" oct="3" pname="e"/>
                     <note xml:id="m-843" dur="16" oct="4" pname="e"/>
@@ -1676,9 +1714,13 @@
               </harm>
             </measure>
             <measure xml:id="m-886" n="20">
-              <staff xml:id="m-887" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-888" n="2" facs="#facsZone-m-888">
-                <layer xml:id="m-889" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-890" dur="16" oct="3" pname="f" accid.ges="s"/>
                     <note xml:id="m-893" dur="16" oct="2" pname="b"/>
@@ -1771,11 +1813,13 @@
               </harm>
             </measure>
             <measure xml:id="m-928" n="21">
-              <staff xml:id="m-930" n="1">
-                <layer xml:id="m-931" n="1"/>
+              <staff n="1">
+                <layer n="1">
+                  <mSpace/>
+                </layer>
               </staff>
               <staff xml:id="m-932" n="2" facs="#facsZone-m-932">
-                <layer xml:id="m-933" n="1">
+                <layer n="1">
                   <note xml:id="m-934" dots="1" dur="4" oct="3" pname="b"/>
                   <note xml:id="m-937" dots="1" dur="4" oct="3" pname="a">
                     <accid accid="s"/>
@@ -1796,13 +1840,13 @@
               </harm>
             </measure>
             <measure xml:id="m-947" n="22">
-              <staff xml:id="m-948" n="1">
-                <layer xml:id="m-949" n="1">
+              <staff n="1">
+                <layer n="1">
                   <note xml:id="m-950" dots="1" dur="2" oct="5" pname="e"/>
                 </layer>
               </staff>
               <staff xml:id="m-952" n="2" facs="#facsZone-m-952">
-                <layer xml:id="m-953" n="1">
+                <layer n="1">
                   <note xml:id="m-954" dots="1" dur="2" oct="3" pname="g"/>
                   <note xml:id="m-957" dots="1" dur="2" oct="3" pname="f" accid.ges="s"/>
                 </layer>
@@ -1828,8 +1872,8 @@
             <pb n="322" source="#secondEdition" facs="#facs-p406"/>
             <pb n="122" source="#firstEdition" facs="#facs-p286"/>
             <measure xml:id="m-962" n="23">
-              <staff xml:id="m-963" n="1">
-                <layer xml:id="m-964" n="1">
+              <staff n="1">
+                <layer n="1">
                   <rest xml:id="m-965" dur="16"/>
                   <beam>
                     <note xml:id="m-966" dur="16" oct="5" pname="d"/>
@@ -1879,7 +1923,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1007" n="2" facs="#facsZone-m-1007">
-                <layer xml:id="m-1008" n="1">
+                <layer n="1">
                   <rest xml:id="m-1009" dur="8"/>
                   <beam>
                     <note xml:id="m-1010" dur="8" oct="2" pname="b"/>
@@ -1947,9 +1991,13 @@
               </harm>
             </measure>
             <measure xml:id="m-1028" n="24">
-              <staff xml:id="m-1031" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-1032" n="2" facs="#facsZone-m-1032 #facsZone-m-1032-2">
-                <layer xml:id="m-1033" n="1">
+                <layer n="1">
                   <rest xml:id="m-1034" dur="16"/>
                   <beam>
                     <note xml:id="m-1035" dur="16" oct="3" pname="b"/>
@@ -2056,8 +2104,8 @@
               </app>
             </measure>
             <measure xml:id="m-1078" n="25">
-              <staff xml:id="m-1079" n="1">
-                <layer xml:id="m-1080" n="1">
+              <staff n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1081" dur="8" oct="5" pname="f" accid.ges="s"/>
                     <note xml:id="m-1084" dur="8" oct="5" pname="d"/>
@@ -2071,7 +2119,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1090" n="2" facs="#facsZone-m-1090 #facsZone-m-1090-2">
-                <layer xml:id="m-1091" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1092" dur="16" oct="3" pname="b"/>
                     <note xml:id="m-1094" dur="16" oct="3" pname="e"/>
@@ -2131,8 +2179,8 @@
               </harm>
             </measure>
             <measure xml:id="m-1117" n="26">
-              <staff xml:id="m-1119" n="1">
-                <layer xml:id="m-1120" n="1">
+              <staff n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1121" dur="32" oct="5" pname="f" accid.ges="s"/>
                     <note xml:id="m-1124" dur="32" oct="5" pname="d"/>
@@ -2183,7 +2231,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1177" n="2" facs="#facsZone-m-1177">
-                <layer xml:id="m-1178" n="1">
+                <layer n="1">
                   <note xml:id="m-1179" dots="1" dur="4" oct="3" pname="d"/>
                   <note xml:id="m-1180" dots="1" dur="4" oct="2" pname="a"/>
                   <rest xml:id="m-1181" dur="8"/>
@@ -2222,8 +2270,8 @@
               </app>
             </measure>
             <measure xml:id="m-1191" n="27">
-              <staff xml:id="m-1193" n="1">
-                <layer xml:id="m-1194" n="1">
+              <staff n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1195" dur="16" oct="5" pname="a"/>
                     <note xml:id="m-1197" dur="16" oct="5" pname="d"/>
@@ -2249,7 +2297,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1218" n="2" facs="#facsZone-m-1218">
-                <layer xml:id="m-1219" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1220" dur="8" oct="3" pname="f" accid.ges="s"/>
                     <note xml:id="m-1223" dur="8" oct="3" pname="b"/>
@@ -2328,8 +2376,8 @@
               </harm>
             </measure>
             <measure xml:id="m-1247" n="28">
-              <staff xml:id="m-1249" n="1">
-                <layer xml:id="m-1250" n="1">
+              <staff n="1">
+                <layer n="1">
                   <space xml:id="m-1251" dots="1" dur="4"/>
                   <rest xml:id="m-1252" dur="16"/>
                   <beam>
@@ -2364,7 +2412,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1284" n="2" facs="#facsZone-m-1284">
-                <layer xml:id="m-1285" n="1">
+                <layer n="1">
                   <rest xml:id="m-1286" dur="16"/>
                   <beam>
                     <note xml:id="m-1287" dur="16" oct="2" pname="b"/>
@@ -2450,8 +2498,8 @@
               </harm>
             </measure>
             <measure xml:id="m-1315" n="29">
-              <staff xml:id="m-1317" n="1">
-                <layer xml:id="m-1318" n="1">
+              <staff n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1319" dur="16" oct="5" pname="a"/>
                     <note xml:id="m-1321" dur="16" oct="5" pname="d">
@@ -2467,7 +2515,7 @@
                 </layer>
               </staff>
               <staff xml:id="m-1333" n="2" facs="#facsZone-m-1333 #facsZone-m-1333-2">
-                <layer xml:id="m-1334" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1335" dur="8" oct="2" pname="f" accid.ges="s"/>
                     <note xml:id="m-1338" dur="8" oct="2" pname="b"/>
@@ -2543,9 +2591,13 @@
               </harm>
             </measure>
             <measure xml:id="m-1373" n="30">
-              <staff xml:id="m-1374" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-1375" n="2">
-                <layer xml:id="m-1376" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1377" dur="16" oct="3" pname="b"/>
                     <note xml:id="m-1379" dur="16" oct="3" pname="e"/>
@@ -2615,9 +2667,13 @@
               </harm>
             </measure>
             <measure xml:id="m-1408" n="31">
-              <staff xml:id="m-1410" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-1411" n="2" facs="#facsZone-m-1411">
-                <layer xml:id="m-1412" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1413" dur="16" oct="3" pname="b"/>
                     <note xml:id="m-1415" dur="16" oct="4" pname="e"/>
@@ -2694,9 +2750,13 @@
             <pb n="323" source="#secondEdition" facs="#facs-p407"/>
             <pb n="287" source="#firstEdition" facs="#facs-p287"/>
             <measure xml:id="m-1451" n="32">
-              <staff xml:id="m-1453" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-1454" n="2" facs="#facsZone-m-1454 #facsZone-m-1454-2">
-                <layer xml:id="m-1455" n="1">
+                <layer n="1">
                   <beam>
                     <note xml:id="m-1456" dur="32" oct="3" pname="e"/>
                     <note xml:id="m-1458" dur="32" oct="3" pname="f" accid.ges="s"/>
@@ -2782,9 +2842,13 @@
               </harm>
             </measure>
             <measure xml:id="m-1509" n="33" right="end">
-              <staff xml:id="m-1510" n="1"/>
+              <staff n="1">
+                <layer>
+                  <mSpace/>
+                </layer>
+              </staff>
               <staff xml:id="m-1511" n="2" facs="#facsZone-m-1511">
-                <layer xml:id="m-1512" n="1">
+                <layer n="1">
                   <note xml:id="m-1513" dots="1" dur="1" oct="3" pname="e"/>
                 </layer>
               </staff>
