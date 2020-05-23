@@ -54,7 +54,14 @@
                                         <note xml:id="ex-1003" dur="16" oct="5" pname="a" />
                                         <note xml:id="ex-1005" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-1006" dur="32" oct="5" pname="f" />
-                                        <note xml:id="ex-1007" dur="16" oct="5" pname="g" />
+                                        <app>
+                                            <lem source="#secondEdition">
+                                                <note xml:id="ex-1007" dur="16" oct="5" pname="g" />
+                                            </lem>
+                                            <rdg source="#firstEdition">
+                                                <note xml:id="ex-1007-err" dur="16" oct="5" pname="a" />
+                                            </rdg>
+                                        </app>
                                     </beam>
                                     <note xml:id="ex-1008" dur="4" oct="5" pname="f" />
                                     <rest xml:id="ex-1002a" dur="16" />
@@ -64,7 +71,14 @@
                                         <note xml:id="ex-1006a" dur="32" oct="5" pname="f">
                                             <accid xml:id="ex-1035" accid="s" />
                                         </note>
-                                        <note xml:id="ex-1007a" dur="16" oct="5" pname="g" />
+                                        <app>
+                                            <lem source="#secondEdition">
+                                                <note xml:id="ex-1007a" dur="16" oct="5" pname="g" />
+                                            </lem>
+                                            <rdg source="#firstEdition">
+                                                <note xml:id="ex-1007a-err" dur="16" oct="5" pname="b" />
+                                            </rdg>
+                                        </app>
                                     </beam>
                                 </layer>
                             </staff>
