@@ -42,7 +42,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure right="dbl" corresp="#m-1108">
+                        <measure corresp="#m-1108" right="dbl" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -104,7 +104,7 @@
                                 <rdg source="#firstEdition"></rdg>
                             </app>
                         </measure>
-                        <measure right="invis" corresp="#m-1108">
+                        <measure corresp="#m-1108" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
