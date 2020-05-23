@@ -999,7 +999,7 @@
                   <beam xml:id="m-389">
                     <note xml:id="m-388" dur="32" oct="3" pname="d"/>
                     <note xml:id="m-390" dur="32" oct="3" pname="e"/>
-                    <note xml:id="m-391" breaksec="1" dur="32" oct="3" pname="f"/>
+                    <note xml:id="m-391" dur="32" oct="3" pname="f"/>
                     <note xml:id="m-392" dur="32" oct="3" pname="g"/>
                     <note xml:id="m-393" dur="32" oct="3" pname="a"/>
                     <note xml:id="m-394" dur="32" oct="3" pname="b"/>
@@ -1017,7 +1017,7 @@
                     <note xml:id="m-404" dur="32" oct="3" pname="f">
                       <accid accid="s"/>
                     </note>
-                    <note xml:id="m-406" breaksec="1" dur="32" oct="3" pname="g">
+                    <note xml:id="m-406" dur="32" oct="3" pname="g">
                       <supplied resp="#pfeffer">
                         <accid accid="s"/>
                       </supplied>
@@ -1059,7 +1059,7 @@
                   <beam xml:id="m-422">
                     <note xml:id="m-421" dur="32" oct="3" pname="a"/>
                     <note xml:id="m-423" dur="32" oct="3" pname="b"/>
-                    <note xml:id="m-424" breaksec="1" dur="32" oct="4" pname="c"/>
+                    <note xml:id="m-424" dur="32" oct="4" pname="c"/>
                     <note xml:id="m-425" dur="32" oct="4" pname="d"/>
                     <note xml:id="m-426" dur="32" oct="4" pname="e"/>
                     <note xml:id="m-427" dur="32" oct="4" pname="f">
