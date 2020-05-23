@@ -4,8 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>
-                </title>
+                <title>Prob-Stück 2, Example 3</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -43,21 +42,24 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure right="dbl">
+                        <measure corresp="#m-1108" right="dbl" metcon="false">
                             <staff n="1">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <beam>
                                         <note xml:id="ex-1139" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1141" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1142" dur="32" oct="4" pname="b">
                                             <accid xml:id="ex-1143" accid="n" />
                                         </note>
-                                        <note xml:id="ex-1144" breaksec="1" dur="32" oct="4" pname="g" />
+                                        <note xml:id="ex-1144" dur="32" oct="4" pname="g" />
+                                    </beam>
+                                    <beam>
                                         <note xml:id="ex-1145" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1146" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1147" dur="32" oct="4" pname="b">
-                                            <accid xml:id="ex-1148" accid="n" />
+                                            <orig>
+                                                <accid xml:id="ex-1148" accid="n" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1149" dur="32" oct="4" pname="g" />
                                     </beam>
@@ -67,8 +69,14 @@
                                         </note>
                                         <note xml:id="ex-1153" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1154" dur="32" oct="5" pname="c" />
-                                        <note xml:id="ex-1155" breaksec="1" dur="32" oct="4" pname="g" />
-                                        <note xml:id="ex-1156" dur="32" oct="5" pname="e" accid.ges="f" />
+                                        <note xml:id="ex-1155" dur="32" oct="4" pname="g" />
+                                      </beam>
+                                      <beam>
+                                        <note xml:id="ex-1156" dur="32" oct="5" pname="e" accid.ges="f">
+                                            <orig>
+                                                <accid xml:id="ex-1157" accid="f" />
+                                            </orig>
+                                        </note>
                                         <note xml:id="ex-1158" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1159" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-1160" dur="32" oct="4" pname="g" />
@@ -77,7 +85,6 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <beam>
                                         <note xml:id="ex-1167" dur="8" oct="3" pname="g" />
                                         <note xml:id="ex-1169" dur="8" oct="3" pname="b">
@@ -90,22 +97,29 @@
                                     </beam>
                                 </layer>
                             </staff>
+                            <app resp="#rettinghaus">
+                                <lem source="#secondEdition">
+                                    <dir place="below" staff="1" tstamp="2.9"><rend fontstyle="normal">&amp;c.</rend></dir>
+                                </lem>
+                                <rdg source="#firstEdition"></rdg>
+                            </app>
                         </measure>
-                        <measure>
+                        <measure corresp="#m-1108" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <beam>
                                         <note xml:id="ex-1112" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1114" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1115" dur="32" oct="4" pname="b">
                                             <accid xml:id="ex-1116" accid="n" />
                                         </note>
-                                        <note xml:id="ex-1117" breaksec="1" dur="32" oct="5" pname="d" />
+                                        <note xml:id="ex-1117" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1118" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1119" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1120" dur="32" oct="4" pname="b">
-                                            <accid xml:id="ex-1121" accid="n" />
+                                            <orig>
+                                                <accid xml:id="ex-1121" accid="n" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1122" dur="32" oct="5" pname="d" />
                                     </beam>
@@ -115,17 +129,21 @@
                                             <accid xml:id="ex-1126" accid="f" />
                                         </note>
                                         <note xml:id="ex-1127" dur="32" oct="5" pname="c" />
-                                        <note xml:id="ex-1128" breaksec="1" dur="32" oct="5" pname="e" accid.ges="f" />
+                                        <note xml:id="ex-1128" dur="32" oct="5" pname="e" accid.ges="f" />
                                         <note xml:id="ex-1130" dur="32" oct="4" pname="g" />
-                                        <note xml:id="ex-1131" dur="32" oct="5" pname="e" accid.ges="f" />
+                                        <note xml:id="ex-1131" dur="32" oct="5" pname="e" accid.ges="f">
+                                            <orig>
+                                                <accid xml:id="ex-1132" accid="f" />
+                                            </orig>
+                                        </note>
                                         <note xml:id="ex-1133" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-1134" dur="32" oct="5" pname="e" accid.ges="f" />
                                     </beam>
+                                    <custos oct="4" pname="f" />
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <beam>
                                         <note xml:id="ex-1187" dur="8" oct="3" pname="g" />
                                         <note xml:id="ex-1189" dur="8" oct="3" pname="b">
@@ -136,8 +154,11 @@
                                         <note xml:id="ex-1191" dur="8" oct="4" pname="c" />
                                         <note xml:id="ex-1192" dur="8" oct="3" pname="c" />
                                     </beam>
+                                    <custos oct="3" pname="a" />
                                 </layer>
                             </staff>
+                            <dir place="below" staff="1" tstamp="3"><rend fontstyle="normal">&amp;c.</rend></dir>
+                            <dir place="below" staff="2" tstamp="3"><rend fontstyle="normal">&amp;c.</rend></dir>
                         </measure>
                     </section>
                 </score>
