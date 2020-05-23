@@ -97,7 +97,12 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <dir place="below" staff="1" tstamp="2.9"><rend fontstyle="normal">&amp;c.</rend></dir>
+                            <app resp="#rettinghaus">
+                                <lem source="#secondEdition">
+                                    <dir place="below" staff="1" tstamp="2.9"><rend fontstyle="normal">&amp;c.</rend></dir>
+                                </lem>
+                                <rdg source="#firstEdition"></rdg>
+                            </app>
                         </measure>
                         <measure right="invis" corresp="#m-1108">
                             <staff n="1">
