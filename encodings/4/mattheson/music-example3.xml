@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 4, Example 3</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -35,11 +35,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-101" metcon="false" right="invis">
+                        <measure corresp="#m-588" metcon="false" right="invis">
                             <staff n="1">
                                 <layer>
-                                    <rest dur="16" />
-                                    <beam>
+                                    <app>
+                                        <lem source="#secondEdition">
+                                            <rest dur="16" oloc="5" ploc="b" />
+                                        </lem>
+                                        <rdg source="#firstEdition">
+                                            <space dur="16" />
+                                        </rdg>
+                                    </app>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="b" />
                                         <note dur="16" oct="5" pname="b" />
                                         <note dur="16" oct="5" pname="a" />
@@ -48,7 +55,7 @@
                                         <note dur="32" oct="5" pname="f" accid.ges="s" />
                                         <note dur="32" oct="5" pname="a" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="b" />
                                         <note dur="16" oct="5" pname="b" />

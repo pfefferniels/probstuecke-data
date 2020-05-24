@@ -4,8 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>
-                </title>
+                <title>Prob-Stück 2, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -43,14 +42,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-269" n="6" corresp="#m-269">
+                        <measure corresp="#m-269">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
                                         <note xml:id="ex-275" dur="32" oct="4" pname="a" />
                                         <note xml:id="ex-277" dur="32" oct="5" pname="f" />
                                         <note xml:id="ex-278" dur="32" oct="4" pname="a" />
-                                        <note xml:id="ex-279" breaksec="1" dur="32" oct="5" pname="f" />
+                                        <note xml:id="ex-279" dur="32" oct="5" pname="f" />
                                         <note xml:id="ex-280" dur="32" oct="4" pname="a" />
                                         <note xml:id="ex-281" dur="32" oct="5" pname="f" />
                                         <note xml:id="ex-282" dur="32" oct="4" pname="a" />
@@ -60,7 +59,7 @@
                                         <note xml:id="ex-284" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-286" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-287" dur="32" oct="4" pname="g" />
-                                        <note xml:id="ex-288" breaksec="1" dur="32" oct="5" pname="e" />
+                                        <note xml:id="ex-288" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-289" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-290" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-291" dur="32" oct="4" pname="g" />
@@ -70,7 +69,7 @@
                                         <note xml:id="ex-293" dur="32" oct="4" pname="f" />
                                         <note xml:id="ex-295" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-296" dur="32" oct="4" pname="f" />
-                                        <note xml:id="ex-297" breaksec="1" dur="32" oct="5" pname="d" />
+                                        <note xml:id="ex-297" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-298" dur="32" oct="4" pname="f" />
                                         <note xml:id="ex-299" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-300" dur="32" oct="4" pname="f" />
@@ -80,7 +79,7 @@
                                         <note xml:id="ex-302" dur="32" oct="4" pname="e" />
                                         <note xml:id="ex-304" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-305" dur="32" oct="4" pname="e" />
-                                        <note xml:id="ex-306" breaksec="1" dur="32" oct="5" pname="c" />
+                                        <note xml:id="ex-306" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-307" dur="32" oct="4" pname="e" />
                                         <note xml:id="ex-308" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-309" dur="32" oct="4" pname="e" />
@@ -117,7 +116,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure>
+                        <measure right="invis">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="4" pname="d" />
@@ -128,6 +127,7 @@
                                     <custos oct="2" pname="b" />
                                 </layer>
                             </staff>
+                            <dir place="below" staff="1" tstamp="2"><rend fontstyle="normal">&amp;c.</rend></dir>
                         </measure>
                     </section>
                 </score>

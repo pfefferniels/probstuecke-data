@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 4, Example 2</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -31,11 +31,13 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="n" key.mode="minor" meter.unit="8" midi.bpm="85" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="1s" n="1" lines="5" meter.unit="8" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="1s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-101" metcon="false" right="invis">
+                        <measure corresp="#m-327" metcon="false" right="invis">
                             <staff n="1">
                                 <layer n="1">
                                     <space xml:id="ex-331" dots="1" dur="4" />
@@ -47,8 +49,15 @@
                                     <space xml:id="ex-365" dur="8" />
                                 </layer>
                                 <layer n="2">
-                                    <rest xml:id="ex-333" dur="16" />
-                                    <beam>
+                                    <app>
+                                        <lem source="#secondEdition">
+                                            <rest dur="16" oloc="5" ploc="d" />
+                                        </lem>
+                                        <rdg source="#firstEdition">
+                                            <space dur="16" />
+                                        </rdg>
+                                    </app>
+                                    <beam place="below">
                                         <note xml:id="ex-334" dur="16" oct="4" pname="b" />
                                         <note xml:id="ex-337" dur="16" oct="4" pname="b" />
                                         <note xml:id="ex-338" dur="16" oct="4" pname="a" />
@@ -57,7 +66,7 @@
                                         <note xml:id="ex-341" dur="32" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="ex-343" dur="32" oct="4" pname="g" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note xml:id="ex-345" dur="16" oct="4" pname="e" />
                                         <note xml:id="ex-347" dur="16" oct="5" pname="c" />
                                         <note xml:id="ex-350" dur="16" oct="5" pname="c" />
@@ -67,7 +76,7 @@
                                         <note xml:id="ex-355" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-356" dur="32" oct="4" pname="a" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note xml:id="ex-358" dur="16" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="ex-361" dur="16" oct="5" pname="d" />
                                         <note xml:id="ex-363" dur="16" oct="5" pname="d" />
@@ -80,6 +89,17 @@
                                     <custos oct="4" pname="g" />
                                 </layer>
                             </staff>
+                            <app>
+                                <lem source="#secondEdition">
+                                    <bracketSpan func="analytical" startid="#ex-337" endid="#ex-343" lform="solid" />
+                                    <bracketSpan func="analytical" startid="#ex-350" endid="#ex-356" lform="solid" />
+                                    <supplied resp="#rettinghaus" cert="medium">
+                                        <bracketSpan func="analytical" startid="#ex-363" endid="#ex-369" lform="solid" />
+                                    </supplied>
+                                </lem>
+                                <rdg source="#firstEdition">
+                                </rdg>
+                            </app>
                         </measure>
                     </section>
                 </score>
