@@ -21,6 +21,7 @@
         <body>
             <listPerson>
                 <person xml:id="ed_wpd_2lx_qlb" role="mythological">
+                    <idno type="uri">http://d-nb.info/gnd/118503642</idno>
                     <persName type="reg">
                         <name>Apollo</name>
                     </persName>
@@ -40,8 +41,8 @@
                         <surname>Aristoxenus</surname>
                         <forename>Tarentinus</forename>
                     </persName>
-                    <birth>v360</birth>
-                    <death>v300</death>
+                    <birth>360 BC</birth>
+                    <death>300 BC</death>
                 </person>
                 <person xml:id="ed_mj2_qx2_5lb">
                     <persName type="reg">
@@ -80,6 +81,13 @@
                     </persName>
                     <birth>480</birth>
                     <death>524</death>
+                </person>
+                <person>
+                    <persName type="reg">
+                        <surname>Bottari</surname>
+                        <forename>Domenico Filippo</forename>
+                    </persName>
+                    <floruit notAfter="1703" notBefore="1703" />
                 </person>
                 <person xml:id="ed_y4p_gvx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118515586</idno>
@@ -147,11 +155,10 @@
                 <person xml:id="ed_dwf_j5x_qlb">
                     <idno type="uri">http://d-nb.info/gnd/1050676637</idno>
                     <persName type="reg">
-                        <surname>de Saint-Lambert</surname>
-                        <forename>Michel</forename>
+                        <surname>de Saint Lambert</surname>
+                        <forename></forename>
                     </persName>
-                    <birth/>
-                    <death/>
+                    <floruit notAfter="1710" notBefore="1700" />
                 </person>
                 <person xml:id="ed_ghv_kvx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/119116383</idno>
