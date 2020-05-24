@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 9, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -29,6 +29,7 @@
                     <scoreDef key.pname="c" key.mode="minor" meter.unit="4" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
                             <staffDef clef.shape="C" clef.line="1" key.sig="2f" n="1" lines="5">
+                                <!-- second edition only shows e flat -->
                                 <keySig sig="2f" />
                             </staffDef>
                             <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
@@ -37,7 +38,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="37">
+                        <measure corresp="#m-1220">
                             <staff n="1">
                                 <layer n="1">
                                     <supplied resp="#rettinghaus">
@@ -46,7 +47,7 @@
                                     </supplied>
                                     <beam>
                                         <note dur="16" oct="5" pname="f" />
-                                        <note dur="16" oct="5" pname="e" />
+                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>
                                     <beam>
                                         <note dur="16" oct="5" pname="d" />
@@ -55,9 +56,11 @@
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
                                     <beam>
-                                        <note dur="16" oct="4" pname="b" />
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="f" />
-                                        <note dur="16" oct="4" pname="a" accid="f" />
+                                        <note dur="16" oct="4" pname="a">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
                                 </layer>
@@ -68,15 +71,39 @@
                                         <note dur="4" oct="3" pname="d" />
                                         <rest dur="8" />
                                     </supplied>
-                                    <note dur="8" oct="4" pname="d" />
-                                    <beam>
-                                        <note dur="8" oct="4" pname="d" />
-                                        <note dur="8" oct="4" pname="d" />
-                                        <note dur="8" oct="4" pname="d" />
-                                        <note dur="8" oct="4" pname="d" />
-                                    </beam>
+                                    <app>
+                                        <lem source="#secondEdition">
+                                            <note dur="8" oct="4" pname="d" />
+                                            <beam>
+                                                <note dur="8" oct="4" pname="d" />
+                                                <note dur="8" oct="4" pname="d" />
+                                                <note dur="8" oct="4" pname="d" />
+                                                <note dur="8" oct="4" pname="d" />
+                                            </beam>
+                                        </lem>
+                                        <rdg source="#firstEdition">
+                                            <note dur="8" oct="3" pname="b" accid.ges="f" />
+                                            <beam>
+                                                <note dur="8" oct="3" pname="b" accid.ges="f" />
+                                                <note dur="8" oct="3" pname="b" accid.ges="f" />
+                                                <note dur="8" oct="3" pname="b" accid.ges="f" />
+                                                <note dur="8" oct="3" pname="b" accid.ges="f" />
+                                            </beam>
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
+                            <app>
+                                <lem source="#secondEdtion">
+                                </lem>
+                                <rdg source="#firstEdition">
+                                    <harm place="above" staff="2" tstamp="2.5">
+                                        <fb>
+                                            <f>♮</f>
+                                        </fb>
+                                    </harm>
+                                </rdg>
+                            </app>
                             <harm place="above" staff="2" tstamp="3">
                                 <fb>
                                     <f>8</f>
@@ -98,21 +125,19 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="38">
+                        <measure corresp="#m-1253">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="e">
-                                            <accid accid.ges="f" />
+                                            <accid accid="f" />
                                         </note>
                                         <note dur="16" oct="5" pname="d" />
                                     </beam>
                                     <beam>
-                                        <note dur="8" oct="5" pname="e">
-                                            <accid accid.ges="f" />
-                                        </note>
+                                        <note dur="8" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
@@ -127,9 +152,7 @@
                                     <beam>
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="g" />
-                                        <note dur="16" oct="4" pname="b">
-                                            <accid accid.ges="f" />
-                                        </note>
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="g" />
                                     </beam>
                                 </layer>
@@ -140,7 +163,7 @@
                                     <note dur="4" oct="4" pname="e">
                                         <accid accid="f" />
                                     </note>
-                                    <rest dur="8" />
+                                    <rest dur="8" oloc="4" ploc="e" />
                                     <note dur="8" oct="4" pname="e" accid.ges="f" />
                                     <beam>
                                         <note dur="8" oct="4" pname="e">
@@ -183,7 +206,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="39">
+                        <measure corresp="#m-1295">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -196,7 +219,9 @@
                                     </beam>
                                     <beam>
                                         <note dur="8" oct="5" pname="f" />
-                                        <note dur="16" oct="5" pname="a" />
+                                        <note dur="16" oct="5" pname="a">
+                                            <accid accid="n" oloc="5" ploc="g"/>
+                                        </note>
                                         <note dur="16" oct="5" pname="g" />
                                     </beam>
                                     <beam>
@@ -220,7 +245,7 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note dur="4" oct="4" pname="f" />
-                                    <rest dur="8" />
+                                    <rest dur="8" oloc="4" ploc="e" />
                                     <note dur="8" oct="4" pname="f" />
                                     <beam>
                                         <note dur="8" oct="4" pname="f">
@@ -259,23 +284,23 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
                                 <fb>
-                                    <f>6♭</f>
+                                    <f>6</f>
                                 </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4.5">
                                 <fb>
-                                    <f>5</f>
+                                    <f>♭5</f>
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="40" right="invis" metcon="false">
+                        <measure corresp="#m-1334" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note dur="16" oct="4" pname="b">
-                                            <accid accid.ges="f" />
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="a">
+                                            <accid accid="n" oloc="5" ploc="g"/>
                                         </note>
-                                        <note dur="16" oct="5" pname="a" />
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="f">
                                             <accid accid="s" />
@@ -287,7 +312,7 @@
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="d" />
                                     </beam>
-                                    <custos oct="4" pname="e" />
+                                    <custos oct="5" pname="e" />
                                 </layer>
                             </staff>
                             <staff n="2">
@@ -307,6 +332,13 @@
                                     <f>8</f>
                                 </fb>
                             </harm>
+                            <supplied resp="#rettinghaus">
+                                <harm place="above" staff="2" tstamp="2.5">
+                                    <fb>
+                                        <f>6</f>
+                                    </fb>
+                                </harm>
+                            </supplied>
                         </measure>
                     </section>
                 </score>
