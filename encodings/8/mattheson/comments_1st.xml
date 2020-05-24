@@ -88,9 +88,9 @@
     <body>
       <div>
         <p>
-          <lb/><abbr>Vid.</abbr> <hi rendition="#i"><persName ref="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
+          <lb/><abbr>Vid.</abbr> <hi rendition="#i"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
           <name type="musicalWork" ref="#ed_sbs_x2c_tlb"><abbr>Erl. Sätze</abbr> etc.</name> pag. 30 &amp; 36.
-          <lb/><hi rendition="#aq"><persName ref="#ed_dwf_j5x_qlb">Monſr. de St. Lambert</persName></hi>
+          <lb/><hi rendition="#aq"><persName corresp="#ed_dwf_j5x_qlb">Monſr. de St. Lambert</persName></hi>
           ſagt <hi rendition="#aq">pag. 27.</hi> ſeines Tractats, von diesem Ton:
 
           <quote xml:id="lambert-quote" corresp="#lambert-quote-trans">
@@ -161,7 +161,7 @@
             <pb n="143"/>
 
             auch nur eine <hi rendition="#aq"><foreign xml:lang="fra">Suite</foreign></hi> des
-            <persName ref="http://d-nb.info/gnd/118718517">Herrn Capell-Meister <hi rendition="#b"><persName ref="#ed_md2_fmx_qlb">Graupners</persName></hi>
+            <persName ref="http://d-nb.info/gnd/118718517">Herrn Capell-Meister <hi rendition="#b"><persName corresp="#ed_md2_fmx_qlb">Graupners</persName></hi>
           </persName> <name type="musicalWork" ref="#ed_bj1_myc_tlb">Clavier-Sachen</name>, oder
             <lb/>aus meinem
             <hi rendition="#b"><name type="musicalWork" ref="#ed_cx1_yqx_slb">Harmonischen Denckmahl</name></hi>

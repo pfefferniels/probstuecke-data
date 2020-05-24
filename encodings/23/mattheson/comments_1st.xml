@@ -79,7 +79,7 @@
         <p>
           <hi rendition="#aq">
             <abbr>Conf.</abbr>
-            <persName ref="#ed_khq_sfy_qlb">Giov. Moſſi</persName>
+            <persName corresp="#ed_khq_sfy_qlb">Giov. Moſſi</persName>
             <name type="musicalWork" ref="#ed_llx_3gc_tlb">Opera I<hi rendition="#sup">ma</hi></name> pag. 59.
           </hi>
         </p>
@@ -173,14 +173,14 @@
           Wie dieſer Ton, <hi rendition="#aq">Cis moll</hi>, gar offt <hi rendition="#aq">affinaliter</hi> (des <hi rendition="#aq">Recitativi</hi> zu geſchwei-
           <lb />gen) in den kleineſten <hi rendition="#aq">Ariet</hi>ten vorkomme, kan man inſonderheit aus <persName ref="http://d-nb.info/gnd/118560999">Herrn <hi rendition="#b">Kei-
           <lb />ſers</hi></persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſenen Sa&#x0364;tzen</name> <hi rendition="#aq">p. 67. f.</hi> ingleichen aus deſſelben <name type="musicalWork" ref="#ed_qdl_mrc_tlb"><hi rendition="#b">Erlo&#x0364;sungs-Gedan-
-          <lb />cken</hi></name> <hi rendition="#aq">pag. 25. f.</hi> erſehen. In Jnſtrumental-Sachen dienen zum Exempel des <persName ref="#ed_uyt_trx_qlb">Herrn
+          <lb />cken</hi></name> <hi rendition="#aq">pag. 25. f.</hi> erſehen. In Jnſtrumental-Sachen dienen zum Exempel des <persName corresp="#ed_uyt_trx_qlb">Herrn
           <lb /><hi rendition="#b">Telemann</hi>s</persName> <name type="musicalWork" ref="#ed_ymb_fsc_tlb"><hi rendition="#aq">Sonatine</hi></name>, allwo im Baſſe <hi rendition="#aq">pag. 9.&amp;10.</hi> Cadenzen und <hi rendition="#aq">Modulationes</hi>
           <lb />nicht nur ins <hi rendition="#aq">Cis moll</hi>, ſondern auch ins <hi rendition="#aq">Gis moll</hi> vorkommen. Sonſten finden wir
           <lb />gantze <hi rendition="#aq">Paragraphos (<foreign xml:lang="lat">ut ita loquar</foreign>)</hi> welche in dieſem Ton <hi rendition="#aq">fundamentaliter</hi> anfan-
           <lb />gen und endigen. Ich ko&#x0364;nte vom <hi rendition="#aq">Cis dur</hi> und <hi rendition="#aq">Fis dur</hi> auch viele Proben beybringen;
           <lb />aber ſie ſind eben nicht gedrucckt; und wenn ich ſie hier alle ſolte einrücken laſſen,
-          <lb />würde das Buch dreymahl ſo groß werden. Man ſuche nur in <persName ref="#ed_wrh_w5x_qlb"><hi rendition="#aq">Conti</hi></persName>, <persName ref="#ed_lhv_3sx_qlb"><hi rendition="#b">Hendels</hi></persName>
-          <lb />und <persName ref="#ed_qr2_hxx_qlb"><hi rendition="#b">Heinichens</hi></persName> Sing-Sachen, ſo wird ſich genug von dieſer Art hervorthun.
+          <lb />würde das Buch dreymahl ſo groß werden. Man ſuche nur in <persName corresp="#ed_wrh_w5x_qlb"><hi rendition="#aq">Conti</hi></persName>, <persName corresp="#ed_lhv_3sx_qlb"><hi rendition="#b">Hendels</hi></persName>
+          <lb />und <persName corresp="#ed_qr2_hxx_qlb"><hi rendition="#b">Heinichens</hi></persName> Sing-Sachen, ſo wird ſich genug von dieſer Art hervorthun.
         </p>
       </div>
 

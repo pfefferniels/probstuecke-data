@@ -88,7 +88,7 @@
     <body>
       <div>
         <p>
-          <abbr>vid.</abbr> <persName ref="#ed_fy5_r5x_qlb">Keiſers</persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſene
+          <abbr>vid.</abbr> <persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſene
           <lb/> Sätze</name> <hi rendition="#aq">p. 50</hi>.
         </p>
       </div>
