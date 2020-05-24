@@ -28,12 +28,16 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="3f" n="1" lines="5" />
-                            <staffDef clef.shape="F" clef.line="4" key.sig="3f" n="2" lines="5" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="23" corresp="#measure-0000002078803044">
+                        <measure corresp="#measure-0000002078803044">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="16" staff="2" loc="6" />
@@ -103,7 +107,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure n="24" corresp="#measure-0000001071915657">
+                        <measure corresp="#measure-0000001071915657">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -170,7 +174,7 @@
                             </staff>
                             <staff n="2">
                                 <layer n="2">
-                                    <custos oct="5" pname="c" />
+                                    <custos oct="4" pname="c" />
                                 </layer>
                             </staff>
                             <!-- dir should be placed between staves -->

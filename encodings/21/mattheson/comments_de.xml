@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Einundzwanzigstes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -204,7 +204,7 @@
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Dieſer Ton, <hi rendition="#b">H dur</hi>, heiſſet, nach des
-          <persName ref="#ed_dwf_j5x_qlb">Herrn von St. Lamberts</persName> rothwelſchen
+          <persName corresp="#ed_dwf_j5x_qlb">Herrn von St. Lamberts</persName> rothwelſchen
           <note type="editorial" resp="#pfeffer">
             hier im Sinne von "unverständlich" gebraucht.
           </note>

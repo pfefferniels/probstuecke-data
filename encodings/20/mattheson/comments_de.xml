@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Zwanzigstes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -239,7 +239,7 @@
           <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre
           etant un Ton, ſur lequel on compoſe rarement, il n'y a point
           <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.</foreign>
-          <bibl><hi rendition="#i"><persName ref="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>, Traité de l'Accompagnement</hi>,
+          <bibl><hi rendition="#i"><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>, Traité de l'Accompagnement</hi>,
           p.27.</bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <quote>H iſt ein Ton, aus wel-
           <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
           <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine

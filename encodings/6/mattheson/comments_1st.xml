@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Sechstes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -95,7 +95,7 @@
           die Probe anstellen will, der lasse diese Erlaͤuterung so lange zuruͤck bleiben, bis er mercket, ob sein <hi rendition="#aq">Candidat</hi>
           das rechte Fleckgen getroffen habe oder, nicht. Hat ers; <hi rendition="#aq">plaudite</hi>! Verfehlt ers; so wird ers muͤssen
           geben lassen, und sich nach eingenommenem Unterricht weidloch wundern, daß er den Lunten nicht selber riechen koͤnnen.
-          Mancher wird eben so eine Nase auffwerffen, als <hi rendition="#aq"><persName ref="#ed_lvw_2xx_qlb">Lutheri</persName></hi> Gesellschaft, wie er ihr das Ey stehend
+          Mancher wird eben so eine Nase auffwerffen, als <hi rendition="#aq"><persName corresp="#ed_lvw_2xx_qlb">Lutheri</persName></hi> Gesellschaft, wie er ihr das Ey stehend
           machte, und sagten: O! ist es nichts anders als das? ich dachte Wunder, was es seyn wuͤrde. Mit solchen Anweisungen gemahnet
           michs fast eben, wie mit Artzneyen, die mansehnlich verlanget, und wenn sie geholffen, gerne wissen
           wolte, woraus sie besanden. Erfaͤhret man denn, daß es lauter <hi rendition="#aq">ordinaire Ingredientien</hi> gewesen, so verliehret man
@@ -134,7 +134,7 @@
           dessen zweyen Viertel-Pausen?</ref> Ja, was zu den <ref target="#m-1265">folgenden</ref>
           fuͤnff oder sechs Taͤcten? Nimm dirs aus den vorhergehenden, jedoch
           dißmahl nicht Note vor Note; stolpere auch nicht, ich rathe dirs.
-          Du siehest wohl, daß in den neun Taͤcten, die ich (<hi rendition="#aq"><persName ref="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih's
+          Du siehest wohl, daß in den neun Taͤcten, die ich (<hi rendition="#aq"><persName corresp="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih's
           mir) bunt genennet, <ref target="#m-1110">nach dem sechsten Tact</ref> die <hi rendition="#aq"><foreign xml:lang="fra">Passage</foreign></hi> sich etwas
           weniges umkehret; solches wird <hi rendition="#aq"><foreign xml:lang="fra">mon Maitre</foreign></hi>
           auch belieben zu <hi rendition="#aq"><foreign xml:lang="lat">imitir</foreign></hi>en, wenn er an

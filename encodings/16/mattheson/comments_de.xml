@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Sechzehntes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -158,8 +158,8 @@
           u. vermeynet haben, daß dem Clavier bey den halben Stuffen noch sieben Tangenten
           in jeder Octave fehlten, sind wol schwerlich auf die Gedancken gerathen, daß
           man nach ihrer Zeit aus solchen halben Stuffen, (geschweige aus ihren Bruͤchen)
-          jemahls ein Stuͤck setzen wuͤrde, zumahl da <persName ref="#ed_dvy_pvy_qlb">Capricornus</persName>
-          und <persName ref="#ed_jlh_wvy_qlb">Bernhardi</persName> sich in diesem Werck schon wacker
+          jemahls ein Stuͤck setzen wuͤrde, zumahl da <persName corresp="#ed_dvy_pvy_qlb">Capricornus</persName>
+          und <persName corresp="#ed_jlh_wvy_qlb">Bernhardi</persName> sich in diesem Werck schon wacker
           umgesehen, und fast fuͤr unmoͤglich gehalten haben, daß es weiter koͤnne
           getrieben werden; wie doch zu Tage lieget: sie haben nur die Folgen
           oder Ausweichungen der andern gewoͤhnlichen Tone betrachtet, und nach
@@ -230,14 +230,14 @@
           Tertz wesentlich, das andere nur zufaͤlliger Weise fuͤhret; allein, es ist doch
           einerley im Spielen, nur laͤsset sich das letztere reiner auffschreiben, darum
           hat mans hier im Prob-Stuͤcke gewehlet. Einen schoͤnen Satz aber, aus dem
-          <hi rendition="#aq">b</hi><hi rendition="#b">A dur</hi>, finde ich in <hi rendition="#aq"><persName ref="#ed_khq_sfy_qlb">Mossi</persName></hi> seinem
+          <hi rendition="#aq">b</hi><hi rendition="#b">A dur</hi>, finde ich in <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Mossi</persName></hi> seinem
           Wercke, <hi rendition="#aq">pag. 34</hi>, welches zu mercken bitte, weil es mir bey dem Zwoͤlfften
           Prob-Stuͤcke dieser Classe nicht beigefallen ist. Einen andern Satz aber, aus
           dem <hi rendition="#b">♯G dur</hi> trifft man bey eben selbigem Componisten <hi rendition="#aq">pag. 59</hi> an,
           wodurch meine obige Anmerckungen bewiesen sind. Besagtes Werck, das hier
           angefuͤhret, und als ein Exempel vorgestellet wird, bestehet in zwoͤlff Sonaten mit
           einer Violin und dem Basse, zu <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName> in Kupffer gestochen, und der Verfasser
-          heisset: <hi rendition="#aq"><persName ref="#ed_khq_sfy_qlb">Giovanni Mossi</persName></hi>.
+          heisset: <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Giovanni Mossi</persName></hi>.
         </p>
       </div>
 

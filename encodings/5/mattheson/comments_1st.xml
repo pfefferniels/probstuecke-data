@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Fünftes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -89,7 +89,7 @@
       <div>
         <p>
           <hi rendition="#aq"><abbr>Vid.</abbr></hi>
-          <hi rendition="#b"><persName ref="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
+          <hi rendition="#b"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
           <name type="musicalWork" ref="#ed_vsj_4rx_slb">Land-Luſt</name>
           p. 21. wenn jemand etwann ſonſt um ein Stück aus dem
           <lb/><hi rendition="#aq">C dur</hi> verlegen wäre, das ich doch nicht

@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Fünftes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -199,7 +199,7 @@
           <lb/>dern jeder General-Baſſiſt, ja jeder Jnstrumentaliſt, inne haben, und wenn ſein
           <lb/>Hals gleich nichts nutzet, ſo muͤſſen doch ſeine ſingenden Gedancken den Fingern
           <lb/>ihren Befehl ertheilen; ſonſt ist alles hoͤltzern und todt. Es wuſſte dieſes schon
-          <persName ref="#ed_u2g_xgy_qlb">D.
+          <persName corresp="#ed_u2g_xgy_qlb">D.
           <lb/>Lippius</persName>
           <note place="foot" n="*)">
             <hi rendition="#aq">

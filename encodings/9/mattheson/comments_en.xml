@@ -15,8 +15,8 @@
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -85,7 +85,7 @@
           Those who want to stand for something and want to be of significance, must ex tempore
           bring out such things even finer
           and more elaborate than instructed here; otherwise they are, though not particularly bunglers, yet quite
-          mediocre. I very much like that <persName ref="#ed_dwf_j5x_qlb">St. Lambert</persName>
+          mediocre. I very much like that <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName>
           even approves to imitate the subjects or entrances
           of the arias in all parts on the keyboard when accompanying a single voice. His words are:
           <quote type="translation">
@@ -113,7 +113,7 @@
           prevales and since one easily gets weary of the sweetness, it is not bad to enliven it
           a little with a somewhat cheerful and straight movement, otherwise one gets drowsy of its softness easily.
           But if it shall be a piece that needs to promote the sleep, one can spare this remark and
-          can naturally reach the intention soon. <persName ref="#ed_knv_rsx_qlb">Kircher</persName>
+          can naturally reach the intention soon. <persName corresp="#ed_knv_rsx_qlb">Kircher</persName>
           calls this key: <foreign>accidentaliter mollem</foreign>,
           soft by chance, which is rather ridiculous. Concerning its characteristics he does not say a word.
           It would not be a bad curiosity to research, if by crass error or profound ignorance this <hi rendition="#b">tender key</hi>

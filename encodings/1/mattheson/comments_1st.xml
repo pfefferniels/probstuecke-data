@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Erstes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -88,7 +88,7 @@
     <body>
       <div>
         <p>
-          <abbr>vid.</abbr> <persName ref="#ed_fy5_r5x_qlb">Keiſers</persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſene
+          <abbr>vid.</abbr> <persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſene
           <lb/> Sätze</name> <hi rendition="#aq">p. 50</hi>.
         </p>
       </div>

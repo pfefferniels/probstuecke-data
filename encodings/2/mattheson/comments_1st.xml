@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Zweites Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -95,7 +95,7 @@
       <div>
         <p>
           <hi rendition="#aq">
-            <abbr>Vid.</abbr> <hi rendition="#i"><persName ref="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
+            <abbr>Vid.</abbr> <hi rendition="#i"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
             <name type="musicalWork" ref="#ed_zqv_vrx_slb">Solil.</name>
             p. 6 &amp; 21.
             <foreign xml:lang="lat">ejusdem</foreign>

@@ -6,16 +6,16 @@
         <title type="part">Lesson by R. Hill on Probstück 16</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -86,7 +86,7 @@
         a-Moll, transponierst und dir die ganze Ausarbeitung in a-Moll ausdenkst
         und das wieder nach as-Moll transponierst?
 
-        Die Wahrscheinlichkeit ist sehr hoch, dass bei <persName ref="#ed_ngx_5lx_qlb">Bach</persName>
+        Die Wahrscheinlichkeit ist sehr hoch, dass bei <persName corresp="#ed_ngx_5lx_qlb">Bach</persName>
         zumindest sehr viel von
         seinen Präludien und Fugen, die in abgelegenen Tonarten sind, ursprünglich
         einen halben Ton höher oder tiefer komponiert wurden.

@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Zwölftes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -239,7 +239,7 @@
           derowegen denn ein General-Bassist nothwendig auch in dieser Ton-Art, wenn
           sie gleich nicht zum Grunde stehen, sondern nur, als eine Anverwandtinn,
           herbeigefuͤhret werden sollte, wol beschlagen seyn muß. Man besehe und untersuche
-          nur noch einmahl die vorhin, auf der 356sten Seite, angefuͤhrte <persName ref="#ed_tj3_cwx_qlb">Marcellische</persName>
+          nur noch einmahl die vorhin, auf der 356sten Seite, angefuͤhrte <persName corresp="#ed_tj3_cwx_qlb">Marcellische</persName>
           Arie, so wird sich die Wahrheit des gesagten von selbst erweisen.
         </p>
       </div>
@@ -290,7 +290,7 @@
           Schule; alleine die Legalitaͤt des Emerepes gilt lange so viel nicht, als des
           Justitiani seine: welche doch auch ihre Abfaͤlle und Zusaͤtze leidet. Jn
           dem Punct der Sext und Quart bin ich also bey nahe der
-          <persName ref="#ed_rc3_fgy_qlb">Aristoxenischen</persName> Meynung
+          <persName corresp="#ed_rc3_fgy_qlb">Aristoxenischen</persName> Meynung
           zugethan, die noch diesen Tag bey allen Griechen so wol angenommen als auch
           ausgeuͤbet wird, und habe, wegen der Gesellschaft der Sext, eine besondre
           Hochachtung fuͤr die arme Quart, daß ich sie, in solchem Fall, den uͤbrigen
