@@ -28,8 +28,12 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="3f" n="1" lines="5" />
-                            <staffDef clef.shape="F" clef.line="4" key.sig="3f" n="2" lines="5" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
@@ -39,7 +43,7 @@
                                     <supplied resp="#pfeffer">
                                         <space dur="4" />
                                     </supplied>
-                                    <rest dur="8" />
+                                    <rest dur="8" oloc="5" ploc="d" />
                                     <note dur="8" oct="5" pname="f" />
                                     <beam>
                                         <note dur="16" oct="5" pname="f" />
@@ -88,9 +92,14 @@
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="4" pname="a">
-                                            <supplied resp="#rettinghaus">
-                                                <accid accid="n" />
-                                            </supplied>
+                                            <app>
+                                                <lem source="#secondEdition">
+                                                    <accid accid="n" />
+                                                </lem>
+                                                <rdg source="#firstEdition">
+                                                    <accid accid.ges="f" />
+                                                </rdg>
+                                            </app>
                                         </note>
                                     </beam>
                                 </layer>
@@ -99,9 +108,11 @@
                                 <layer n="1">
                                     <beam>
                                         <note dur="8" oct="3" pname="a">
-                                            <reg resp="#rettinghaus">
-                                                <accid accid="n" enclose="brack" />
-                                            </reg>
+                                            <supplied resp="#rettinghaus">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
                                         </note>
                                         <note dur="8" oct="3" pname="g" />
                                         <note dur="8" oct="3" pname="g" />
@@ -127,7 +138,9 @@
                                 <layer n="1">
                                     <note dur="8" oct="4" pname="a">
                                         <supplied resp="#rettinghaus">
-                                            <accid accid="n" />
+                                            <reg>
+                                                <accid accid="n" />
+                                            </reg>
                                         </supplied>
                                     </note>
                                     <note dur="4" oct="5" pname="d" />
