@@ -146,7 +146,7 @@
           <lb/><p xml:id="p3-1">
             Hiebey kann ich nicht unberuͤhret laſſen, was
             <persName ref="#ed_dwf_j5x_qlb">Monſr. von St. Lambert</persName> in ſei-
-            <lb/>nem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
+            <lb/>nem <bibl xml:id="lambert-traite" xml:lang="fra" ref="#ed_hfr_2cl_tlb"><hi rendition="#aq">Traité
             <lb/>d'accompagnement</hi></bibl>, von der Geſchwindigkeit fuͤr beſonders traͤge
             <fw place="bottom" type="catch">Ge-</fw>
 
@@ -176,7 +176,7 @@
             <lb/>back mit der lincken Hand nimmt, wie uns der
             <persName ref="#ed_zzr_hfy_qlb">Herr <hi rendition="#b">Kuhnau</hi></persName>
             deſſen <hi rendition="#aq">pag. 23</hi>
-            <lb/>ſeines <bibl>Musſicaliſchen Quacksalbers</bibl> berichtet.
+            <lb/>ſeines <bibl ref="#ed_wxz_jhl_tlb">Musſicaliſchen Quacksalbers</bibl> berichtet.
           </p>
         </div>
 

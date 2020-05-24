@@ -29,6 +29,23 @@
                     <pubPlace>Leipzig</pubPlace>
                     <date>1731</date>
                 </bibl>
+                <bibl xml:id="ed_xlx_gfb_5lb">
+                    <author>
+                        <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
+                    </author>
+                    <title>Sonate pour le Clavecin</title>
+                    <pubPlace>Hamburg</pubPlace>
+                    <date>1713</date>
+                </bibl>
+                <bibl xml:id="ed_zgj_2cb_5lb">
+                    <author>
+                        <persName><surname>Benedetto</surname><forename>Marcello</forename></persName>
+                    </author>
+                    <title>L'estro poetico-armonico</title>
+                    <publisher>Lovisa</publisher>
+                    <pubPlace>Venezia</pubPlace>
+                    <date>17XX</date>
+                </bibl>
                 <bibl xml:id="ed_xbz_fjc_tlb">
                     <author>
                         <persName><surname>Brönnemüller</surname><forename>Elias</forename></persName>
@@ -128,6 +145,15 @@
                     <publisher>I.D. Fletcher</publisher>
                     <pubPlace>London</pubPlace>
                     <date>1714</date>
+                </bibl>
+                <bibl xml:id="ed_rzg_cx1_5lb">
+                    <author>
+                        <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
+                    </author>
+                    <title>XII Sonates à 2 &amp; 3 flutes sans basse</title>
+                    <publisher>Mortier</publisher>
+                    <pubPlace>Amsterdam</pubPlace>
+                    <date>1708</date>
                 </bibl>
                 <bibl xml:id="ed_llx_3gc_tlb">
                     <author>
