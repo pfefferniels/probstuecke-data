@@ -91,13 +91,13 @@
           <hi rendition="#aq">
             <abbr>Vid.</abbr>
             <persName corresp="#ed_whl_5gy_qlb">Guiſeppe Valentini</persName>
-            <name type="musicalWork" ref="#ed_xz2_khc_tlb">Opera V. Sonata VII. chiamata: la <hi rendition="#i">Corelli</hi></name>.
+            <name type="musicalWork" corresp="#ed_xz2_khc_tlb">Opera V. Sonata VII. chiamata: la <hi rendition="#i">Corelli</hi></name>.
 
             <persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName>
-            <name type="musicalWork" ref="#ed_zqv_vrx_slb">Soliloquia</name> pag. 5. 6. 7. 8. 9.
+            <name type="musicalWork" corresp="#ed_zqv_vrx_slb">Soliloquia</name> pag. 5. 6. 7. 8. 9.
 
             <persName corresp="#ed_jdg_wsx_qlb">Elias <hi rendition="#i">Brunmüller</hi></persName>
-            <name type="musicalWork" ref="#ed_xbz_fjc_tlb">Sonata III.</name> in
+            <name type="musicalWork" corresp="#ed_xbz_fjc_tlb">Sonata III.</name> in
             <placeName ref="https://www.geonames.org/2759794">Amſterdam</placeName> gravirt.
           </hi>
         </p>

@@ -80,7 +80,7 @@
           <hi rendition="#aq">
             <abbr>Conf.</abbr>
             <persName corresp="#ed_khq_sfy_qlb">Giov. Moſſi</persName>
-            <name type="musicalWork" ref="#ed_llx_3gc_tlb">Opera I<hi rendition="#sup">ma</hi></name> pag. 59.
+            <name type="musicalWork" corresp="#ed_llx_3gc_tlb">Opera I<hi rendition="#sup">ma</hi></name> pag. 59.
           </hi>
         </p>
       </div>
@@ -172,9 +172,9 @@
           <!-- no pagebreak after head -->
           Wie dieſer Ton, <hi rendition="#aq">Cis moll</hi>, gar offt <hi rendition="#aq">affinaliter</hi> (des <hi rendition="#aq">Recitativi</hi> zu geſchwei-
           <lb />gen) in den kleineſten <hi rendition="#aq">Ariet</hi>ten vorkomme, kan man inſonderheit aus <persName ref="http://d-nb.info/gnd/118560999">Herrn <hi rendition="#b">Kei-
-          <lb />ſers</hi></persName> <name type="musicalWork" ref="#ed_sbs_x2c_tlb">Erleſenen Sa&#x0364;tzen</name> <hi rendition="#aq">p. 67. f.</hi> ingleichen aus deſſelben <name type="musicalWork" ref="#ed_qdl_mrc_tlb"><hi rendition="#b">Erlo&#x0364;sungs-Gedan-
+          <lb />ſers</hi></persName> <name type="musicalWork" corresp="#ed_sbs_x2c_tlb">Erleſenen Sa&#x0364;tzen</name> <hi rendition="#aq">p. 67. f.</hi> ingleichen aus deſſelben <name type="musicalWork" corresp="#ed_qdl_mrc_tlb"><hi rendition="#b">Erlo&#x0364;sungs-Gedan-
           <lb />cken</hi></name> <hi rendition="#aq">pag. 25. f.</hi> erſehen. In Jnſtrumental-Sachen dienen zum Exempel des <persName corresp="#ed_uyt_trx_qlb">Herrn
-          <lb /><hi rendition="#b">Telemann</hi>s</persName> <name type="musicalWork" ref="#ed_ymb_fsc_tlb"><hi rendition="#aq">Sonatine</hi></name>, allwo im Baſſe <hi rendition="#aq">pag. 9.&amp;10.</hi> Cadenzen und <hi rendition="#aq">Modulationes</hi>
+          <lb /><hi rendition="#b">Telemann</hi>s</persName> <name type="musicalWork" corresp="#ed_ymb_fsc_tlb"><hi rendition="#aq">Sonatine</hi></name>, allwo im Baſſe <hi rendition="#aq">pag. 9.&amp;10.</hi> Cadenzen und <hi rendition="#aq">Modulationes</hi>
           <lb />nicht nur ins <hi rendition="#aq">Cis moll</hi>, ſondern auch ins <hi rendition="#aq">Gis moll</hi> vorkommen. Sonſten finden wir
           <lb />gantze <hi rendition="#aq">Paragraphos (<foreign xml:lang="lat">ut ita loquar</foreign>)</hi> welche in dieſem Ton <hi rendition="#aq">fundamentaliter</hi> anfan-
           <lb />gen und endigen. Ich ko&#x0364;nte vom <hi rendition="#aq">Cis dur</hi> und <hi rendition="#aq">Fis dur</hi> auch viele Proben beybringen;

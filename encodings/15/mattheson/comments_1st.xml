@@ -99,7 +99,7 @@
         <p>
           <lb/><hi rendition="#aq"><abbr>Vid.</abbr>
             <foreign xml:lang="fra">
-              <name type="musicalWork" ref="#ed_xbz_fjc_tlb">Sonates</name>
+              <name type="musicalWork" corresp="#ed_xbz_fjc_tlb">Sonates</name>
               d'<hi rendition="#i"><persName corresp="#ed_jdg_wsx_qlb">Elias Brunmuller</persName></hi>,
               graveés à <placeName>Amſterdam</placeName> chés <persName corresp="#ed_kf5_clf_5lb">Etienne Roger</persName>, Sonata I.
               <lb/>B mol.
