@@ -483,6 +483,15 @@
                     <birth>1701</birth>
                     <death>1722</death>
                 </person>
+                <person xml:id="ed_kf5_clf_5lb">
+                    <idno type="uri">http://d-nb.info/gnd/131867482</idno>
+                    <persName type="reg">
+                        <surname>Roger</surname>
+                        <forename>Estienne</forename>
+                    </persName>
+                    <birth>1665</birth>
+                    <death>1722</death>
+                </person>
                 <person xml:id="ed_xbw_55b_5lb">
                     <idno type="uri">http://d-nb.info/gnd/118136437</idno>
                     <persName type="reg">
