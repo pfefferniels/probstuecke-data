@@ -100,8 +100,8 @@
           <lb/><hi rendition="#aq"><abbr>Vid.</abbr>
             <foreign xml:lang="fra">
               <name type="musicalWork" ref="#ed_xbz_fjc_tlb">Sonates</name>
-              d'<hi rendition="#i"><persName ref="#ed_jdg_wsx_qlb">Elias Brunmuller</persName></hi>,
-              graveés à <placeName>Amſterdam</placeName> chés <persName ref="#ed_kf5_clf_5lb">Etienne Roger</persName>, Sonata I.
+              d'<hi rendition="#i"><persName corresp="#ed_jdg_wsx_qlb">Elias Brunmuller</persName></hi>,
+              graveés à <placeName>Amſterdam</placeName> chés <persName corresp="#ed_kf5_clf_5lb">Etienne Roger</persName>, Sonata I.
               <lb/>B mol.
             </foreign>
           </hi>
@@ -237,7 +237,7 @@
           <lb/>Zu mercken iſt hiebey, daß <hi rendition="#aq">C mol</hi> und <hi rendition="#aq">F mol &amp;c.</hi> eben den <hi rendition="#aq">Ambitum</hi>
           <lb/>haben, und dannenhero gleiche unerwartete Vorfa&#x0364;lle, mit dem <hi rendition="#aq">Dis mol</hi> und <hi rendition="#aq">Gis
           <lb/>mol</hi>, an die Hand geben. Da es denn ſcho&#x0364;n la&#x0364;ſt, wenn ein Organiſte darin ſtol-
-          <lb/>pert. Zum Exempel kann ihm abermahl dienen <hi rendition="#aq">pag. 55</hi> aus <persName ref="#ed_khq_sfy_qlb">Giovanni Moſſi</persName> <bibl>be-
+          <lb/>pert. Zum Exempel kann ihm abermahl dienen <hi rendition="#aq">pag. 55</hi> aus <persName corresp="#ed_khq_sfy_qlb">Giovanni Moſſi</persName> <bibl>be-
           <lb/>reits <hi rendition="#aq">citir</hi>ten <hi rendition="#aq">Sonaten</hi></bibl>, wo ein Satz vorko&#x0364;mmt, der juſt mit obiger <hi rendition="#aq">Aria quadriret</hi>.
           <lb/>Wer ſonſten das <hi rendition="#aq">Dis mol</hi>, wie es <hi rendition="#aq">pag. 174.</hi> vorgekommen, nimmer in <hi rendition="#aq">Praxi</hi> ge-
           <lb/>ſehen hat, der kan es auch in obiger <hi rendition="#aq">Aria</hi>, mit ſeinem gantzen <hi rendition="#aq">Ambitu</hi>, antreffen.
