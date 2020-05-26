@@ -92,8 +92,8 @@
       </titlePage>
       <lb/><milestone unit="section" rendition="#hr"/>
       <epigraph>
-        <quote><lb/><hi rendition="#aq"><foreign xml:lang="lat">Dies diem docet.
-        Et poſteriores cogitationes plerumque <lb/>sunt perfectiores prioribus.</foreign></hi></quote>
+        <quote xml:lang="lat"><lb/><hi rendition="#aq">Dies diem docet.
+        Et poſteriores cogitationes plerumque <lb/>sunt perfectiores prioribus.</hi></quote>
       </epigraph>
       <note type="editorial" resp="#pfeffer">
           "Der Tag lehrt den Tag. Und spätere Gedanken sind meistens vollkommener als die vorhergehenden."
