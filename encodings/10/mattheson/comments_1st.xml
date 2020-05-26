@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Zehntes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -236,16 +236,16 @@
               <lb/>ſen Meister erfordert, diese Aria ohne Bezieferung
               <hi rendition="#aq">accurat</hi> zu <hi rendition="#aq">accompagni</hi>ren:
               <lb/>maſſen dem
-              <ref target="#measure-0000001827916444">ſiebendem</ref>,
-              <ref target="#measure-0000001219466359">achten</ref>,
-              <ref target="#measure-0000001708734092">neunten</ref>
-              und <ref target="#measure-0000000917306217">zehnten Tact</ref>
+              <ref target="#measure-1827916444">ſiebendem</ref>,
+              <ref target="#measure-1219466359">achten</ref>,
+              <ref target="#measure-1708734092">neunten</ref>
+              und <ref target="#measure-0917306217">zehnten Tact</ref>
               keiner ihr Recht thun
               <lb/>wird, der nicht aus dem
-              <ref target="#measure-0000000173914305">drey ſechtzigſten</ref>
+              <ref target="#measure-0173914305">drey ſechtzigſten</ref>
               und folgenden ersehe, wie jene muͤſſen
               <lb/><hi rendition="#aq">tracti</hi>ret werden; und</item>
-            <item>(5) weil <ref target="#staff-0000000093433268"><hi rendition="#aq">pag.
+            <item>(5) weil <ref target="#staff-0093433268"><hi rendition="#aq">pag.
               156. lin. 2. Tactu ſecondo</hi> in der Sing-
               <lb/>Stimme</ref>, und denn im neundten und zwölfften Tact des
               letzten Theils, <hi rendition="#aq">Tactu ante-
@@ -260,15 +260,15 @@
               <lb/>auch <hi rendition="#aq">practicable</hi> geglaubet habe.</item>
           </list>
 
-          So ist auch die <ref target="#measure-0000001424025321">Cadentz des ersten Theils</ref> in
-          <lb/>in <ref target="#note-0000000527129810"><hi rendition="#aq">Septimam</hi></ref>
+          So ist auch die <ref target="#measure-1424025321">Cadentz des ersten Theils</ref> in
+          <lb/>in <ref target="#note-0527129810"><hi rendition="#aq">Septimam</hi></ref>
           etwas merckwuͤrdiges und nichts <hi rendition="#aq">quotidia</hi>nes.
           Daß ſie mich aber deß-
           <lb/>wegen ſonderlich <hi rendition="#aq">charm</hi>iren ſolte,
           zumahl, wann ich die <hi rendition="#aq">Repriſe</hi> betrachte, kan ich
           <lb/>eben nicht sagen: doch jeder hat seinen <hi rendition="#aq">Gout</hi>.
-          <abbr>Vid.</abbr> <persName ref="#ed_mzk_n5x_qlb">Giacomo Sherard</persName>, <name type="musicalWork" ref="#ed_fp3_txc_tlb">Opera II.
-          <lb/>Sonata VIII</name>. <abbr>it.</abbr> <persName ref="#ed_khq_sfy_qlb">Giovanni Moſſi</persName>,
+          <abbr>Vid.</abbr> <persName corresp="#ed_mzk_n5x_qlb">Giacomo Sherard</persName>, <name type="musicalWork" ref="#ed_fp3_txc_tlb">Opera II.
+          <lb/>Sonata VIII</name>. <abbr>it.</abbr> <persName corresp="#ed_khq_sfy_qlb">Giovanni Moſſi</persName>,
           <name type="musicalWork" ref="#ed_llx_3gc_tlb">Sonata VI.</name>, beyde in <placeName>Holland</placeName>
           <hi rendition="#aq">gravirt</hi>.
         </p>

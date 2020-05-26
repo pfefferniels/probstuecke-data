@@ -6,16 +6,16 @@
         <title type="part">Lesson by R. Hill on Probstück 4</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -269,7 +269,7 @@
 
       <u who="#rh">
         Kennst du das Prelude der aus B-Dur-Suite von
-          <persName ref="#ed_lhv_3sx_qlb">Händel</persName>?
+          <persName corresp="#ed_lhv_3sx_qlb">Händel</persName>?
       </u>
 
       <incident who="#rh">

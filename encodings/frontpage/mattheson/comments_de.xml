@@ -7,22 +7,22 @@
         <title type="part">Der Ober-Classe 24 Probstücke</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -100,7 +100,7 @@
       <epigraph>
         <cit>
           <quote><lb/><hi rendition="#aq"><foreign xml:lang="lat"><orig>Diuiſum ſic breue fiet opus.</orig></foreign></hi></quote>
-          <bibl><hi rendition="#aq #i"><persName ref="#ed_vfy_c2m_tlb"><abbr>Mart.</abbr></persName></hi></bibl>
+          <bibl><hi rendition="#aq #i"><persName corresp="#ed_vfy_c2m_tlb"><abbr>Mart.</abbr></persName></hi></bibl>
         </cit>
       </epigraph>
     </front>

@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Achtes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -90,7 +90,7 @@
     <body>
       <div>
         <p>
-          Der oberwehnte <hi rendition="#b"><persName ref="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
+          Der oberwehnte <hi rendition="#b"><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
           ſagt, auf der 27ſten Seite ſeines Buchs, von
           <lb/>dieſem Ton, <hi rendition="#b">G</hi>, uͤberhaupt:
           <quote type="translation">

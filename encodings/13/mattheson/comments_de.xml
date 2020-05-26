@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Dreizehntes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -137,7 +137,7 @@
           haben: <hi rendition="#b">Es sey eine grosse Thorheit, diejenige Melodie, welche mit
           schlechten, deutlichen Noten geschrieben werden kann, durch dunckle
           Zeichen zweifelhafft zu machen</hi>; wie solches Schwaͤbisch-Hallische
-          <hi rendition="#aq"><foreign xml:lang="ita">Cantor</foreign></hi>, <persName ref="#ed_esw_kxx_qlb">Herr <hi rendition="#i">Majer</hi></persName>,
+          <hi rendition="#aq"><foreign xml:lang="ita">Cantor</foreign></hi>, <persName corresp="#ed_esw_kxx_qlb">Herr <hi rendition="#i">Majer</hi></persName>,
           in seinem <hi rendition="#aq"><bibl ref="#ed_tyg_hdl_tlb">Hodego Musico, p. 28.</bibl></hi>
           kluͤglich anfuͤhret. Allein, erstlich muß man, um geschwinde Sachen recht auszudruͤcken,
           auch geschwinde Taͤcte und geschwinde Noten gebrauchen, damit Zeichen und Sachen

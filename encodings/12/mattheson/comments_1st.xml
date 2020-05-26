@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Zwölftes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -214,7 +214,7 @@
           weichet gar offt ins <hi rendition="#b">bA</hi>, als ſeine <hi rendition="#aq">Sex-
           <lb />tam</hi>, aus. Zum Beweiß deſſen kan eine
           <hi rendition="#aq">Cantate</hi> von dem
-          <persName ref="#ed_lhv_3sx_qlb">Mſr. <hi rendition="#b">Ha&#x0364;ndeln</hi></persName>,
+          <persName corresp="#ed_lhv_3sx_qlb">Mſr. <hi rendition="#b">Ha&#x0364;ndeln</hi></persName>,
           die mir eben zur Hand lieget,
           <lb />dienen. Sie iſt zwar nicht gedruckt, (wie ich denn nicht weiß,
           daß von dieſem ſo beru&#x0364;hmten <hi rendition="#aq">Autore</hi> was

@@ -28,25 +28,29 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="G" clef.line="1" key.sig="3f" n="1" lines="5" />
-                            <staffDef clef.shape="C" clef.line="3" key.sig="3f" n="2" lines="5" />
+                            <staffDef clef.shape="G" clef.line="1" n="1" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
+                            <staffDef clef.shape="C" clef.line="3" n="2" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="4" corresp="#measure-0000000448770319">
+                        <measure corresp="#measure-0000000448770319">
                             <staff n="1">
                                 <layer n="1">
-                                    <rest dur="4" />
-                                    <rest dur="16" />
+                                    <rest dur="4" oloc="5" ploc="a" />
+                                    <rest dur="16" oloc="5" ploc="a" />
                                     <beam>
-                                        <note dur="16" oct="5" pname="a" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="a" stem.dir="down" />
+                                        <note dur="16" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="a" stem.dir="down" accid.ges="f" />
                                     </beam>
                                     <beam>
-                                        <note dur="8" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                                        <note dur="8" oct="5" pname="g" stem.dir="down" />
                                         <note dur="16" oct="5" pname="f" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="e" stem.dir="down" />
+                                        <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
                                     </beam>
                                 </layer>
                             </staff>
@@ -111,20 +115,20 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure n="5" corresp="#measure-0000001465389423">
+                        <measure corresp="#measure-0000001465389423">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="4" oct="5" pname="f" stem.dir="down" xml:id="ex-1769775861" />
                                     <beam>
                                         <note dur="16" oct="5" pname="f" stem.dir="down" xml:id="ex-1881082125" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="a" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" stem.dir="down" />
+                                        <note dur="16" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" stem.dir="down" />
                                     </beam>
                                     <beam>
                                         <note dur="8" oct="5" pname="f" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="e" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="d" stem.dir="down" />
                                     </beam>
                                 </layer>
                             </staff>
@@ -190,19 +194,19 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure n="6" corresp="#measure-0000001029700479">
+                        <measure corresp="#measure-0000001029700479">
                             <staff n="1">
                                 <layer n="1">
-                                    <note dur="4" oct="5" pname="e" stem.dir="down" xml:id="ex-1193092165" />
+                                    <note dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f" xml:id="ex-1193092165" />
                                     <beam>
-                                        <note dur="16" oct="5" pname="e" stem.dir="down" xml:id="ex-0802666718" />
+                                        <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" xml:id="ex-0802666718" />
                                         <note dur="16" oct="5" pname="f" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" stem.dir="down" />
                                         <note dur="16" oct="5" pname="f" stem.dir="down" />
                                     </beam>
                                     <beam>
-                                        <note dur="8" oct="5" pname="e" stem.dir="down" />
-                                        <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                                        <note dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="d" stem.dir="down" />
                                         <note dur="16" oct="5" pname="c" stem.dir="up"/>
                                     </beam>
                                 </layer>
@@ -228,17 +232,17 @@
                                         </chord>
                                         <chord dur="8" stem.dir="up">
                                             <note oct="4" pname="e" accid.ges="f" />
-                                            <note oct="4" pname="a" />
+                                            <note oct="4" pname="a" accid.ges="n" />
                                         </chord>
                                     </beam>
                                     <beam>
                                         <chord dur="8" stem.dir="up">
                                             <note oct="4" pname="e" accid.ges="f" />
-                                            <note oct="4" pname="a" />
+                                            <note oct="4" pname="a" accid.ges="n" />
                                         </chord>
                                         <chord dur="8" stem.dir="up">
                                             <note oct="4" pname="e" accid.ges="f" />
-                                            <note oct="4" pname="a" />
+                                            <note oct="4" pname="a" accid.ges="n" />
                                         </chord>
                                     </beam>
                                 </layer>
@@ -274,7 +278,7 @@
                         <measure n="7" right="invis">
                             <staff n="1">
                                 <layer n="1">
-                                    <custos oct="4" pname="b" />
+                                    <custos oct="5" pname="d" />
                                 </layer>
                             </staff>
                             <staff n="2">

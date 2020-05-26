@@ -28,11 +28,13 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="3f" n="1" lines="5" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="3f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="33" corresp="#measure-0000000874590211">
+                        <measure corresp="#measure-0000000874590211">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -70,8 +72,10 @@
                                     <beam>
                                         <note dur="32" oct="4" pname="g" />
                                         <note dur="32" oct="4" pname="b" accid.ges="f" />
-                                        <note dur="32" oct="5" pname="e">
-                                            <accid accid="n" />
+                                        <note dur="32" oct="5" pname="e" accid.ges="n">
+                                            <orig>
+                                                <accid accid="n" />
+                                            </orig>
                                         </note>
                                         <note dur="32" oct="4" pname="b" accid.ges="f" />
                                     </beam>

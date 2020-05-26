@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Siebentes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <forename>Klaus</forename>
             <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <forename>Niels</forename>
             <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -156,7 +156,7 @@
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
             Hiebey kann ich nicht unberuͤhret laſſen, was der
-            <persName ref="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
+            <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
             ſeinem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
             <lb/>d'accompagnement p. 58.</hi></bibl>, von der Geſchwindigkeit fuͤr beſonders traͤge Gedancken fuͤhret. Jch
             <lb/>will die Worte immer verteutschen:
@@ -197,7 +197,7 @@
             </note>
             Jch muß geſtehen, die Erfindung gefaͤllt mir nicht uͤbel, und ſie iſt
             <lb/>ſehr gemaͤchlich. Es koͤmmt ſonſt bald eben ſo damit heraus, als wenn,
-            im <persName ref="#ed_zzr_hfy_qlb">Kuhnau</persName>iſchen <bibl ref="#ed_wxz_jhl_tlb">Quackſal-
+            im <persName corresp="#ed_zzr_hfy_qlb">Kuhnau</persName>iſchen <bibl ref="#ed_wxz_jhl_tlb">Quackſal-
             <lb/>ber</bibl> <hi rendition="#aq">p. 23</hi>.
             <persName>Signor Caraffa</persName>
             mit der lincken Hand Schnuptoback nimmt, so offt geſchwinde oder
