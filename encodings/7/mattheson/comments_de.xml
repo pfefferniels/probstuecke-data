@@ -118,15 +118,15 @@
                 <persName ref="http://d-nb.info/gnd/118553569">Horaz</persName> epist. 1, 18, 39
               </bibl>
             </note>
-            <abbr>d.i.</abbr>
+            <abbr>d. i.</abbr>
             <quote type="translation" xml:id="horaz-quote-trans" corresp="#horaz-quote">
               <lg>
-                <lb/><l rendition="#et">Verachte nicht, was andre machen,</l>
+                <lb/><l rendition="#et">Verachte nicht was andre machen,</l>
                 <lb/><l rendition="#et">Und lobe nicht dein' eigne Sachen.</l>
               </lg>
             </quote>
           </p>
-          <lb/><p>
+          <lb/><p xml:id="p1-2">
             Wer nun in Frantzoͤſiſchen Hand-Stuͤcken etwas bewandert iſt, der wird ſchwerlich bey
             <lb/>den Schluͤſſeln Schwierigkeit finden: maſſen die Veraͤnderung derſelben nirgend haͤuffiger vor-
             <lb/>kommt, ob ſich gleich ſonſt die Sachen wol halten laſſen. Drittens schaͤmet ſich ein Knabe oder Bursche, der
@@ -136,7 +136,8 @@
             <hi rendition="#aq"><foreign xml:lang="ita">Braccio</foreign></hi>
             mitſpielen, ſo werden ihm die Schluͤſſel beſſer einge-
             <lb/>druckt und bekannt werden. Doch hievon fuͤr dißmahl genug; nur muß ich ſagen, daß dieſer Man-
-            <lb/>gel mich veranlaſſet hat, das beſagte gemeine Alt-Zeichen hier offt zu gebrauchen. </p>
+            <lb/>gel mich veranlaſſet hat, das beſagte gemeine Alt-Zeichen hier offt zu gebrauchen.
+          </p>
         </div>
 
         <div n="2">
