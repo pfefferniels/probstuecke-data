@@ -433,7 +433,10 @@
             <measure xml:id="measure-0000002110347575" n="8">
               <staff xml:id="staff-0000001801070812" n="1">
                 <layer xml:id="layer-0000001800056424" n="1">
-                  <space xml:id="space-0000001828046208" dur="2" dots="1"/>
+                  <supplied resp="#pfeffer">
+                      <space dur="4" dots="1" />
+                      <space dur="4" dots="1" />
+                  </supplied>
                   <beam>
                     <note xml:id="note-0000001879358786" dur="16" oct="4" pname="b" accid.ges="f"/>
                     <note xml:id="note-0000001341139309" dur="16" oct="5" pname="g">
@@ -483,16 +486,22 @@
             <measure xml:id="measure-0000000003979548" n="9">
               <staff xml:id="staff-0000000355872925" n="1">
                 <layer xml:id="layer-0000000890207321" n="1">
-                  <beam>
-                    <note xml:id="note-0000001464456062" dur="16" oct="4" pname="a" accid.ges="f"/>
-                    <note xml:id="note-0000000006209161" dur="16" oct="5" pname="f"/>
-                    <note xml:id="note-0000000772412964" dur="16" oct="4" pname="a" accid.ges="f"/>
-                    <note xml:id="note-0000001564104788" dur="16" oct="5" pname="f"/>
-                    <note xml:id="note-0000002064315460" dur="16" oct="4" pname="a" accid.ges="f"/>
-                    <note xml:id="note-0000000185923118" dur="16" oct="5" pname="f"/>
+                  <beam place="below">
+                      <note xml:id="ex-2" dur="16" oct="4" pname="a" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="4" pname="a" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="4" pname="a" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
                   </beam>
-                  <space xml:id="space-0000001935035009" dur="2"/>
-                  <space xml:id="space-0000000131276027" dur="4"/>
+                  <beam place="below">
+                      <note dur="16" oct="4" pname="g" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="4" pname="g" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="4" pname="g" accid.ges="f" />
+                      <note dur="16" oct="5" pname="f" />
+                  </beam>
                 </layer>
               </staff>
               <staff xml:id="staff-0000001092734230" n="2" facs="#facsZone-staff-0000001092734230">
