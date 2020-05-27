@@ -14,14 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -130,22 +132,22 @@
                                     <note dur="8" oct="3" pname="b" accid.ges="f" />
                                 </layer>
                             </staff>
-                            <app>
-                              <lem source="#secondEdition">
-                                  <harm place="above" staff="2" tstamp="1">
-                                      <fb>
-                                          <f>♭</f>
-                                      </fb>
-                                  </harm>
-                              </lem>
-                              <rdg source="#firstEdition">
-                                  <harm place="above" staff="2" tstamp="1">
-                                      <fb>
-                                          <f>7</f>
-                                          <f>♭</f>
-                                      </fb>
-                                  </harm>
-                              </rdg>
+                            <app resp="#rettinghaus">
+                                <lem source="#secondEdition">
+                                    <harm place="above" staff="2" tstamp="1">
+                                        <fb>
+                                            <f>♭</f>
+                                        </fb>
+                                    </harm>
+                                </lem>
+                                <rdg source="#firstEdition">
+                                    <harm place="above" staff="2" tstamp="1">
+                                        <fb>
+                                            <f>7</f>
+                                            <f>♭</f>
+                                        </fb>
+                                    </harm>
+                                </rdg>
                             </app>
                             <harm place="above" staff="2" tstamp="3">
                                 <fb>

@@ -14,12 +14,6 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
                 <respStmt>
                     <persName role="publisher">Niels Pfeffer</persName>
