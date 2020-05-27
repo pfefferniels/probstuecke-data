@@ -174,6 +174,8 @@
               </staffGrp>
             </scoreDef>
             <section xml:id="m-34">
+              <pb n="352" source="#secondEdition" facs="#facs-p436"/>
+              <pb n="150" source="#firstEdition" facs="#facs-p320"/>
               <measure xml:id="m-35" label="1" n="1">
                 <staff xml:id="m-37" n="1">
                   <layer xml:id="m-38" n="1">
@@ -1002,7 +1004,8 @@
                   </fb>
                 </harm>
               </measure>
-              <pb n="353"/>
+              <pb n="353" source="#secondEdition" facs="#facs-p437"/>
+              <pb n="151" source="#firstEdition" facs="#facs-p321"/>
               <measure xml:id="m-568" n="25">
                 <staff xml:id="m-569" n="1">
                   <layer xml:id="m-570" n="1">
@@ -2235,6 +2238,8 @@
                       <note xml:id="m-1399" dur="8" oct="3" pname="a" accid.ges="f"/>
                       <note xml:id="m-1401" dur="8" oct="4" pname="c"/>
                     </beam>
+                    <pb n="354" source="#secondEdition" facs="#facs-p438"/>
+                    <pb n="152" source="#firstEdition" facs="#facs-p322"/>
                     <beam xml:id="m-1403">
                       <note xml:id="m-1402" dur="16" oct="4" pname="f"/>
                       <note xml:id="m-1404" dur="16" oct="4" pname="f"/>

@@ -169,6 +169,8 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="372" source="#secondEdition" facs="#facs-p456"/>
+            <pb n="168" source="#firstEdition" facs="#facs-p346"/>
             <measure xml:id="measure-0000001329733354" n="1">
               <staff xml:id="staff-0000001029842644" n="1">
                 <layer xml:id="layer-0000001218265116" n="1">
@@ -841,6 +843,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000001125131244" n="23">
+              <pb n="373" source="#secondEdition" facs="#facs-p457"/>
+              <pb n="169" source="#firstEdition" facs="#facs-p347"/>
               <staff xml:id="staff-0000000421142581" n="1">
                 <layer xml:id="layer-0000001911423132" n="1">
                   <mSpace/>
@@ -870,8 +874,8 @@
               <staff xml:id="staff-0000001493249073" n="2" facs="#facsZone-staff-0000001493249073">
                 <layer xml:id="layer-0000000003440798" n="1">
                   <beam>
-                    <note xml:id="note-0000002010232986" dots="1" dur="8" oct="3" pname="g"/>
                     <note xml:id="note-0000000197200429" dots="1" dur="8" oct="3" pname="b" accid.ges="f"/>
+                    <note xml:id="note-0000002010232986" dots="1" dur="8" oct="3" pname="g"/>
                     <note xml:id="note-0000000358839287" dots="1" dur="8" oct="3" pname="b" accid.ges="f"/>
                   </beam>
                 </layer>
@@ -1757,6 +1761,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000001263331462" n="55">
+              <pb n="374" source="#secondEdition" facs="#facs-p458"/>
+              <pb n="170" source="#firstEdition" facs="#facs-p348"/>
               <staff xml:id="staff-0000000219517113" n="1">
                 <layer xml:id="layer-0000000092859128" n="1">
                   <mSpace/>

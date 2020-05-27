@@ -132,6 +132,8 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="421" source="#secondEdition" facs="#facs-p505"/>
+            <pb n="215" source="#firstEdition" facs="#facs-p399"/>
             <measure xml:id="measure-0000000997653530" n="1">
               <staff xml:id="staff-0000000592899678" n="1">
                 <layer n="1">
@@ -759,6 +761,8 @@
           </section>
           <section>
             <measure xml:id="measure-0000001256239430" n="17">
+              <pb n="422" source="#secondEdition" facs="#facs-p506"/>
+              <pb n="216" source="#firstEdition" facs="#facs-p400"/>
               <staff xml:id="staff-0000001581326581" n="1">
                 <layer n="1">
                   <beam>

@@ -169,6 +169,8 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="360" source="#secondEdition" facs="#facs-p444"/>
+            <pb n="150" source="#firstEdition" facs="#facs-p328"/>
             <measure xml:id="measure-0000002086967554" n="1">
               <staff xml:id="staff-0000000794094521" n="1">
                 <layer n="1">
@@ -873,6 +875,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000000842310713" n="16">
+              <pb n="361" source="#secondEdition" facs="#facs-p445"/>
+              <pb n="159" source="#firstEdition" facs="#facs-p329"/>
               <staff xml:id="staff-0000002032167242" n="1">
                 <layer n="1">
                   <mSpace/>
@@ -1732,6 +1736,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000000874590211" n="33">
+              <pb n="362" source="#secondEdition" facs="#facs-p446"/>
+              <pb n="160" source="#firstEdition" facs="#facs-p330"/>
               <staff xml:id="staff-0000001657735557" n="1">
                 <layer n="1">
                   <beam>
@@ -2513,6 +2519,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000000860603968" n="49">
+              <pb n="363" source="#secondEdition" facs="#facs-p447"/>
+              <pb n="161" source="#firstEdition" facs="#facs-p331"/>
               <staff xml:id="staff-0000000538868756" n="1">
                 <layer n="1">
                   <mSpace/>

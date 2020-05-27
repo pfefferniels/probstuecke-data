@@ -153,6 +153,8 @@
               </staffGrp>
             </scoreDef>
             <section>
+              <pb n="410" source="#secondEdition" facs="#facs-p494"/>
+              <pb n="204" source="#firstEdition" facs="#facs-p384"/>
               <measure xml:id="measure-0000000706010246" n="1">
                 <staff xml:id="staff-0000001152028572" n="1" facs="#facsZone-staff-0000001152028572">
                   <layer xml:id="layer-0000001967887744" n="1">
@@ -212,7 +214,7 @@
                     <f>6⃥</f>
                   </fb>
                 </harm>
-                <dir place="above" staff="2" tstamp="1">
+                <dir place="above" staff="1" tstamp="1">
                     <rend fontstyle="normal">.§.</rend>
                 </dir>
               </measure>
@@ -1270,6 +1272,8 @@
                 </harm>
               </measure>
               <measure xml:id="measure-0000001803695547" n="32">
+                <pb n="411" source="#secondEdition" facs="#facs-p495"/>
+                <pb n="205" source="#firstEdition" facs="#facs-p385"/>
                 <staff xml:id="staff-0000001638460942" n="1" facs="#facsZone-staff-0000001638460942">
                   <layer xml:id="layer-0000001619350936" n="1">
                     <note xml:id="note-0000000635212608" dur="4" oct="3" pname="b"/>
@@ -2329,12 +2333,9 @@
               </measure>
               <measure right="invis">
                 <staff n="1">
-                  <staff n="1">
-                      <layer n="1">
-                          <custos oct="4" pname="c" />
-                      </layer>
-                  </staff>
-
+                  <layer n="1">
+                     <custos oct="4" pname="c" />
+                  </layer>
                 </staff>
                 <dir place="above" staff="1" tstamp="1">
                   <rend fontstyle="normal">.§.</rend>

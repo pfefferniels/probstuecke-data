@@ -9,7 +9,7 @@
         </composer>
         <respStmt>
           <resp>Edited by</resp>
-          <persName role="editor">Niels Pfeffer</persName>
+          <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
           <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
         </respStmt>
       </titleStmt>
@@ -148,6 +148,8 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="366" source="#secondEdition" facs="#facs-p450"/>
+            <pb n="164" source="#firstEdition" facs="#facs-p342"/>
             <measure xml:id="measure-0000002132490626" n="1" right="dashed">
               <staff xml:id="staff-0000000140196629" n="1">
                 <layer n="1">
@@ -1000,7 +1002,6 @@
                 </fb>
               </harm>
             </measure>
-            <sb xml:id="sb-0000001857577057"/>
             <measure xml:id="measure-0000000904640872" n="17">
               <staff xml:id="staff-0000000483709662" n="1">
                 <layer n="1">
@@ -1023,6 +1024,8 @@
                     <note xml:id="note-0000002025387147" dur="16" oct="2" pname="b" accid.ges="f"/>
                     <note xml:id="note-0000000168127005" dur="16" oct="2" pname="b" accid.ges="f"/>
                   </beam>
+                  <pb n="367" source="#secondEdition" facs="#facs-p451"/>
+                  <pb n="165" source="#firstEdition" facs="#facs-p343"/>
                   <beam>
                     <note xml:id="note-0000002122538271" dur="16" oct="2" pname="b" accid.ges="f"/>
                     <note xml:id="note-0000000241879948" dur="16" oct="3" pname="g"/>
@@ -1815,6 +1818,8 @@
               <fermata staff="2" startid="#note-0000000626519199" place="below" shape="curved"/>
             </measure>
             <measure xml:id="measure-0000001984106098" n="32">
+              <pb n="368" source="#secondEdition" facs="#facs-p452"/>
+              <pb n="166" source="#firstEdition" facs="#facs-p344"/>
               <staff xml:id="staff-0000000732709973" n="1">
                 <layer n="1">
                   <mSpace/>

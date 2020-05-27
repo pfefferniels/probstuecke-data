@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
   <meiHead>
     <fileDesc>
       <titleStmt>
@@ -162,6 +163,8 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="414" source="#secondEdition" facs="#facs-p498"/>
+            <pb n="208" source="#firstEdition" facs="#facs-p388"/>
             <measure xml:id="measure-0000001017587021" n="1">
               <staff xml:id="staff-0000000497456602" n="1">
                 <layer n="1">
@@ -973,6 +976,8 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000000567414890" n="15">
+              <pb n="415" source="#secondEdition" facs="#facs-p499"/>
+              <pb n="209" source="#firstEdition" facs="#facs-p389"/>
               <staff xml:id="staff-0000001102596487" n="1">
                 <layer n="1">
                   <mSpace/>
@@ -1501,6 +1506,8 @@
           </section>
           <section>
             <measure xml:id="measure-0000000091997873" n="24">
+              <pb n="416" source="#secondEdition" facs="#facs-p500"/>
+              <pb n="210" source="#firstEdition" facs="#facs-p390"/>
               <staff xml:id="staff-0000000782050009" n="1">
                 <layer n="1">
                   <mSpace/>
@@ -2267,6 +2274,8 @@
                     <note xml:id="note-0000001413748193" dur="16" oct="3" pname="a"/>
                     <note xml:id="note-0000000870994668" dur="16" oct="4" pname="c"/>
                   </beam>
+                  <pb n="417" source="#secondEdition" facs="#facs-p501"/>
+                  <pb n="211" source="#firstEdition" facs="#facs-p391"/>
                   <beam>
                     <note xml:id="note-0000000527574406" dur="16" oct="2" pname="b"/>
                     <note xml:id="note-0000001263273933" dur="16" oct="4" pname="c">

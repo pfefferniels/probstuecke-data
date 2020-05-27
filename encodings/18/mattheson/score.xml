@@ -195,7 +195,7 @@
             </staffGrp>
           </scoreDef>
           <section>
-            <pb source="#secondEdition" n="405"/>
+            <pb source="#secondEdition" n="405" facs="#facs-p489"/>
             <measure xml:id="measure-0000001647363724" n="1">
               <staff xml:id="staff-0000001380307905" n="1">
                 <layer xml:id="layer-0000000053677622" n="1">
@@ -328,7 +328,7 @@
                 </fb>
               </harm>
             </measure>
-            <pb source="#firstEdition" n="199"/>
+            <pb source="#firstEdition" n="199" facs="#facs-p379"/>
             <sb source="#secondEdition"/>
             <measure xml:id="measure-0000000438882878" n="6">
               <staff xml:id="staff-0000000566624994" n="1">
@@ -383,10 +383,7 @@
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
-                <fb/>
-              </harm>
-              <harm place="above" staff="2" tstamp="3.5">
+              <harm place="above" staff="2" tstamp="3.5" xml:id="fb-001">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1195,7 +1192,7 @@
                 </fb>
               </harm>
             </measure>
-            <pb source="#secondEdition" n="406"/>
+            <pb source="#secondEdition" n="406" facs="#facs-p490"/>
             <sb source="#firstEdition"/>
             <measure xml:id="measure-0000000804701007" n="39">
               <staff xml:id="staff-0000000245228146" n="1">
@@ -1368,7 +1365,7 @@
               </supplied>
             </measure>
           </section>
-          <pb source="#firstEdition" n="200"/>
+          <pb source="#firstEdition" n="200" facs="#facs-p380"/>
           <sb source="#secondEdition"/>
           <section>
             <measure xml:id="measure-0000001407287269" n="46">
@@ -2240,7 +2237,7 @@
                 </fb>
               </harm>
             </measure>
-            <pb source="#secondEdition" n="407"/>
+            <pb source="#secondEdition" n="407" facs="#facs-p491"/>
             <sb source="#firstEdition"/>
             <measure xml:id="measure-0000001516729666" n="79">
               <staff xml:id="staff-0000001943645508" n="1">
@@ -2352,7 +2349,7 @@
                 </fb>
               </harm>
             </measure>
-            <pb source="#firstEdition" n="201"/>
+            <pb source="#firstEdition" n="201" facs="#facs-p381"/>
             <sb source="#secondEdition"/>
             <measure xml:id="measure-0000002089109738" n="84">
               <staff xml:id="staff-0000001800991414" n="1">
@@ -2580,7 +2577,7 @@
                 </layer>
               </staff>
               <dir staff="2" tstamp="3" place="within">
-                <rend fontstyle="normal">Da Capo</rend>
+                <rend fontstyle="normal">Da Capo.</rend>
               </dir>
             </measure>
           </section>

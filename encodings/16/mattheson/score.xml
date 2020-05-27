@@ -133,6 +133,8 @@
               </staffGrp>
             </scoreDef>
             <section>
+              <pb n="392" source="#secondEdition" facs="#facs-p476"/>
+              <pb n="186" source="#firstEdition" facs="#facs-p366"/>
               <measure xml:id="measure-0000002140611949" metcon="false">
                 <staff xml:id="staff-0000001487026554" n="1" facs="#facsZone-staff-0000001487026554">
                   <layer n="1">
@@ -854,6 +856,8 @@
                       <note xml:id="note-0000000989423541" dur="16" oct="4" pname="c" accid.ges="f"/>
                       <note xml:id="note-0000000556532461" dur="16" oct="4" pname="d" accid.ges="f"/>
                     </beam>
+                    <pb n="393" source="#secondEdition" facs="#facs-p477"/>
+                    <pb n="187" source="#firstEdition" facs="#facs-p367"/>
                     <beam>
                       <note xml:id="note-0000001483058331" dur="16" oct="4" pname="e" accid.ges="f"/>
                       <note xml:id="note-0000002011566809" dur="16" oct="4" pname="d" accid.ges="f"/>
