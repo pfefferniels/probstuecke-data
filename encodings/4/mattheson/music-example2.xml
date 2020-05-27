@@ -14,14 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -49,7 +51,7 @@
                                     <space xml:id="ex-365" dur="8" />
                                 </layer>
                                 <layer n="2">
-                                    <app>
+                                    <app resp="#rettinghaus">
                                         <lem source="#secondEdition">
                                             <rest dur="16" oloc="5" ploc="d" />
                                         </lem>
@@ -89,7 +91,7 @@
                                     <custos oct="4" pname="g" />
                                 </layer>
                             </staff>
-                            <app>
+                            <app resp="#rettinghaus">
                                 <lem source="#secondEdition">
                                     <bracketSpan func="analytical" startid="#ex-337" endid="#ex-343" lform="solid" />
                                     <bracketSpan func="analytical" startid="#ex-350" endid="#ex-356" lform="solid" />
@@ -97,8 +99,7 @@
                                         <bracketSpan func="analytical" startid="#ex-363" endid="#ex-369" lform="solid" />
                                     </supplied>
                                 </lem>
-                                <rdg source="#firstEdition">
-                                </rdg>
+                                <rdg source="#firstEdition"></rdg>
                             </app>
                         </measure>
                     </section>

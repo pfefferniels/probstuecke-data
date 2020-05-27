@@ -39,31 +39,35 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="e" key.mode="major" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="G" clef.line="2" key.sig="4s" meter.unit="8" />
-                            <staffDef n="2" lines="5" clef.shape="F" clef.line="4" key.sig="4s" meter.unit="8" />
+                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1" meter.unit="8">
+                                <keySig sig="4s" />
+                            </staffDef>
+                            <staffDef n="2" lines="5" clef.shape="F" clef.line="4" meter.unit="8">
+                                <keySig sig="4s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="measure-0000000068514885" n="84">
+                        <measure corresp="#measure-0000000068514885">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000001032458662" dur="8" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000032116147" dur="16" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000587660240" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001216058078" dur="16" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001020446849" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
+                                        <note xml:id="ex-1032458662" dur="8" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-0032116147" dur="16" oct="5" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-0587660240" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1216058078" dur="16" oct="5" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-1020446849" dur="16" oct="5" pname="f" accid.ges="s" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000615990694" dur="4" oct="3" pname="a" stem.dir="down">
+                                    <note xml:id="ex-0615990694" dur="4" oct="3" pname="a">
                                         <accid accid="s" />
                                     </note>
-                                    <rest xml:id="rest-0000000578191196" dur="8" />
+                                    <rest dur="8" oloc="3" ploc="a" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
@@ -72,48 +76,48 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="measure-0000001342814931" n="85">
+                        <measure corresp="measure-0000001342814931">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000001008877041" dur="32" oct="5" pname="d" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000502987528" dur="32" oct="4" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000213674679" dur="32" oct="4" pname="g" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000669731228" dur="32" oct="4" pname="a" stem.dir="down" />
-                                        <note xml:id="note-0000000321651074" dur="32" oct="4" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000429913132" dur="32" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000279291270" dur="32" oct="5" pname="d" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000131920451" dur="32" oct="5" pname="e" stem.dir="down" />
-                                        <note xml:id="note-0000001176776428" dur="32" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001885233941" dur="32" oct="5" pname="g" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000000060088481" dur="32" oct="5" pname="a" stem.dir="down" />
-                                        <note xml:id="note-0000002036185473" dur="32" oct="5" pname="f" stem.dir="down" accid.ges="s" />
+                                        <note xml:id="ex-1008877041" dur="32" oct="5" pname="d" accid.ges="s" />
+                                        <note xml:id="ex-0502987528" dur="32" oct="4" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-0213674679" dur="32" oct="4" pname="g" accid.ges="s" />
+                                        <note xml:id="ex-0669731228" dur="32" oct="4" pname="a" />
+                                        <note xml:id="ex-0321651074" dur="32" oct="4" pname="b" />
+                                        <note xml:id="ex-0429913132" dur="32" oct="5" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-0279291270" dur="32" oct="5" pname="d" accid.ges="s" />
+                                        <note xml:id="ex-0131920451" dur="32" oct="5" pname="e" />
+                                        <note xml:id="ex-1176776428" dur="32" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1885233941" dur="32" oct="5" pname="g" accid.ges="s" />
+                                        <note xml:id="ex-0060088481" dur="32" oct="5" pname="a" />
+                                        <note xml:id="ex-2036185473" dur="32" oct="5" pname="f" accid.ges="s" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000991388010" dur="4" oct="3" pname="b" stem.dir="down" />
-                                    <rest xml:id="rest-0000001696270438" dur="8" />
+                                    <note xml:id="ex-0991388010" dur="4" oct="3" pname="b" />
+                                    <rest dur="8" oloc="3" ploc="a" />
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000000313220876" n="86">
+                        <measure corresp="#measure-0000000313220876">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000017063613" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000304073069" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001927531305" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001900862181" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000002012533928" dur="16" oct="5" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-0017063613" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-0304073069" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1927531305" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-1900862181" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-2012533928" dur="16" oct="5" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000001129677842" dur="4" oct="3" pname="d" stem.dir="down" accid.ges="s" />
-                                    <rest xml:id="rest-0000001556188989" dur="8" />
+                                    <note xml:id="ex-1129677842" dur="4" oct="3" pname="d" accid.ges="s" />
+                                    <rest dur="8" oloc="3" ploc="d" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
@@ -122,41 +126,41 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="measure-0000000836496999" n="87">
+                        <measure corresp="#measure-0000000836496999">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000370006282" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001415068875" dur="16" oct="5" pname="g" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000002004886623" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000002001900975" dur="16" oct="5" pname="g" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000002098299217" dur="16" oct="5" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-0370006282" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-1415068875" dur="16" oct="5" pname="g" accid.ges="s" />
+                                        <note xml:id="ex-2004886623" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-2001900975" dur="16" oct="5" pname="g" accid.ges="s" />
+                                        <note xml:id="ex-2098299217" dur="16" oct="5" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000302110439" dur="4" oct="3" pname="e" stem.dir="down" />
-                                    <rest xml:id="rest-0000000841171272" dur="8" />
+                                    <note xml:id="ex-0302110439" dur="4" oct="3" pname="e" />
+                                    <rest dur="8" oloc="3" ploc="d" />
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001502822882" n="88">
-                            <staff n="1" visible="true">
+                        <measure corresp="#measure-0000001502822882">
+                            <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000553895053" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001893451956" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001152106882" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000832760578" dur="16" oct="5" pname="f" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001070933084" dur="16" oct="5" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-0553895053" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-1893451956" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1152106882" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-0832760578" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1070933084" dur="16" oct="5" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>
-                            <staff n="2" visible="true">
+                            <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000810311922" dur="4" oct="3" pname="d" stem.dir="down" accid.ges="s" />
-                                    <rest xml:id="rest-0000000676206229" dur="8" />
+                                    <note xml:id="ex-0810311922" dur="4" oct="3" pname="d" accid.ges="s" />
+                                    <rest dur="8" oloc="3" ploc="d" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
@@ -167,22 +171,22 @@
                         </measure>
                         <pb source="#firstEdition" n="203" />
                         <pb source="#secondEdition" n="409" />
-                        <measure xml:id="measure-0000000326648818" n="89">
+                        <measure corresp="#measure-0000000326648818">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000001207085895" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001052691334" dur="16" oct="5" pname="e" stem.dir="down" />
-                                        <note xml:id="note-0000000031151544" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001550441857" dur="16" oct="5" pname="e" stem.dir="down" />
-                                        <note xml:id="note-0000001845194587" dur="16" oct="5" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-1207085895" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-1052691334" dur="16" oct="5" pname="e" />
+                                        <note xml:id="ex-0031151544" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-1550441857" dur="16" oct="5" pname="e" />
+                                        <note xml:id="ex-1845194587" dur="16" oct="5" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000016315891" dur="4" oct="3" pname="c" stem.dir="up" accid.ges="s" />
-                                    <rest xml:id="rest-0000000020348568" dur="8" />
+                                    <note xml:id="ex-0016315891" dur="4" oct="3" pname="c" accid.ges="s" />
+                                    <rest dur="8" oloc="2" ploc="b" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
@@ -191,24 +195,24 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="measure-0000001667069604" n="90">
+                        <measure corresp="#measure-0000001667069604">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000001965456835" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000852707750" dur="16" oct="5" pname="d" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000002054507536" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001315168870" dur="16" oct="5" pname="d" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000002017373996" dur="16" oct="5" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-1965456835" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-0852707750" dur="16" oct="5" pname="d" accid.ges="s" />
+                                        <note xml:id="ex-2054507536" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-1315168870" dur="16" oct="5" pname="d" accid.ges="s" />
+                                        <note xml:id="ex-2017373996" dur="16" oct="5" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000001609754545" dur="8" oct="2" pname="b" stem.dir="up" />
-                                        <note xml:id="note-0000001182126025" dur="8" oct="3" pname="c" stem.dir="up" accid.ges="s" />
-                                        <note xml:id="note-0000001790428265" dur="8" oct="3" pname="d" stem.dir="up" accid.ges="s" />
+                                        <note xml:id="ex-1609754545" dur="8" oct="2" pname="b" />
+                                        <note xml:id="ex-1182126025" dur="8" oct="3" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-1790428265" dur="8" oct="3" pname="d" accid.ges="s" />
                                     </beam>
                                 </layer>
                             </staff>
@@ -223,15 +227,15 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="measure-0000001570199981" n="91">
+                        <measure corresp="#measure-0000001570199981">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000231453905" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000001425588143" dur="16" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001820808890" dur="16" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000582826963" dur="16" oct="5" pname="c" stem.dir="down" accid.ges="s" />
-                                        <note xml:id="note-0000001542267604" dur="16" oct="5" pname="a" stem.dir="down">
+                                        <note xml:id="ex-0231453905" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-1425588143" dur="16" oct="5" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-1820808890" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-0582826963" dur="16" oct="5" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-1542267604" dur="16" oct="5" pname="a">
                                             <accid accid="s" />
                                         </note>
                                     </beam>
@@ -240,9 +244,9 @@
                             <staff n="2">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000832465483" dur="8" oct="3" pname="e" stem.dir="up" />
-                                        <note xml:id="note-0000001226665190" dur="8" oct="3" pname="f" stem.dir="up" accid.ges="s" />
-                                        <note xml:id="note-0000001454635477" dur="8" oct="2" pname="f" stem.dir="up" accid.ges="s" />
+                                        <note xml:id="ex-0832465483" dur="8" oct="3" pname="e" />
+                                        <note xml:id="ex-1226665190" dur="8" oct="3" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-1454635477" dur="8" oct="2" pname="f" accid.ges="s" />
                                     </beam>
                                 </layer>
                             </staff>
@@ -260,19 +264,19 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="measure-0000001020212109" n="92" right="end">
+                        <measure corresp="#measure-0000001020212109" right="end">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note xml:id="note-0000000867206699" dur="8" oct="5" pname="b" stem.dir="down" />
-                                        <note xml:id="note-0000000949643562" dur="8" oct="4" pname="b" stem.dir="down" />
+                                        <note xml:id="ex-0867206699" dur="8" oct="5" pname="b" />
+                                        <note xml:id="ex-0949643562" dur="8" oct="4" pname="b" />
                                     </beam>
-                                    <rest xml:id="rest-0000001085693272" dur="8" />
+                                    <rest dur="8" oloc="4" ploc="b" />
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note xml:id="note-0000000042871459" dots="1" dur="4" oct="2" pname="b" stem.dir="up" />
+                                    <note xml:id="ex-0042871459" dots="1" dur="4" oct="2" pname="b" />
                                 </layer>
                             </staff>
                         </measure>
