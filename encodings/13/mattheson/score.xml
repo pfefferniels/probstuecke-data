@@ -504,26 +504,24 @@
               </staff>
             </measure>
             <measure xml:id="measure-0000001263987989" n="11">
-              <staff xml:id="staff-0000001444818936" n="1">
-                <layer xml:id="layer-0000001398373203" n="1">
+              <staff n="1">
+                <layer n="1">
                   <beam>
-                    <note xml:id="note-0000001864682191" dur="16" oct="5" pname="g"/>
-                    <note xml:id="note-0000000693228704" dur="16" oct="5" pname="f"/>
-                    <note xml:id="note-0000000804191720" dur="16" oct="5" pname="f"/>
+                    <note dur="16" oct="5" pname="g" />
+                    <note dur="16" oct="5" pname="f" />
+                    <note dur="16" oct="5" pname="f" />
                   </beam>
                   <beam>
-                    <note xml:id="note-0000002110203088" dur="16" oct="5" pname="g"/>
-                    <note xml:id="note-0000001076990229" dur="16" oct="5" pname="e" accid.ges="f">
-                      <orig>
-                        <accid accid="f"/>
-                      </orig>
+                    <note dur="16" oct="5" pname="g" />
+                    <note dur="16" oct="5" pname="e">
+                      <accid accid="f" />
                     </note>
-                    <note xml:id="note-0000000998238957" dur="16" oct="5" pname="e" accid.ges="f"/>
+                    <note dur="16" oct="5" pname="e" accid.ges="f" />
                   </beam>
                   <beam>
-                    <note xml:id="note-0000002146659783" dur="16" oct="5" pname="g"/>
-                    <note xml:id="note-0000001028153089" dur="16" oct="5" pname="d"/>
-                    <note xml:id="note-0000000772497578" dur="16" oct="5" pname="d"/>
+                    <note dur="16" oct="5" pname="g" />
+                    <note dur="16" oct="5" pname="d" />
+                    <note dur="16" oct="5" pname="d" />
                   </beam>
                 </layer>
               </staff>
@@ -539,16 +537,22 @@
               </staff>
             </measure>
             <measure xml:id="measure-0000001431729815" n="12">
-              <staff xml:id="staff-0000002106769917" n="1">
-                <layer xml:id="layer-0000001474502925" n="1">
-                  <chord xml:id="chord-0000000088694271" dur="4">
-                    <note xml:id="note-0000001529755247" oct="4" pname="a"/>
-                    <note xml:id="note-0000000606316480" oct="5" pname="c"/>
-                    <note xml:id="note-0000001937427025" oct="5" pname="f"/>
+              <staff n="1">
+                <layer n="1">
+                  <chord dur="4" dots="0" dots.ges="1">
+                    <note dur="4" oct="5" pname="f">
+                      <supplied><dot/></supplied>
+                    </note>
+                    <note dur="4" oct="5" pname="c">
+                      <supplied><dot/></supplied>
+                    </note>
+                    <note dur="4" oct="4" pname="a">
+                      <supplied><dot/></supplied>
+                    </note>
                   </chord>
-                  <space xml:id="space-0000000194618509" dur="16"/>
-                  <space xml:id="space-0000000216764041" dur="16"/>
-                  <space xml:id="space-0000000670553220" dur="8"/>
+                  <supplied resp="#rettinghaus">
+                    <rest dur="8" dots="1" />
+                  </supplied>
                 </layer>
               </staff>
               <staff xml:id="staff-0000001465178070" n="2" facs="#facsZone-staff-0000001465178070">
@@ -577,9 +581,25 @@
               </harm>
             </measure>
             <measure xml:id="measure-0000000401264624" n="13">
-              <staff xml:id="staff-0000000986928062" n="1">
-                <layer xml:id="layer-0000000809109765" n="1">
-                  <mSpace/>
+              <staff n="1">
+                <layer n="1">
+                  <supplied resp="#rettinghaus">
+                    <beam>
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="5" pname="e" accid.ges="f" />
+                      <note dur="16" oct="5" pname="e" accid.ges="f" />
+                    </beam>
+                    <beam>
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="5" pname="d" />
+                      <note dur="16" oct="5" pname="d" />
+                    </beam>
+                    <beam>
+                      <note dur="16" oct="5" pname="f" />
+                      <note dur="16" oct="5" pname="c" />
+                      <note dur="16" oct="5" pname="c" />
+                    </beam>
+                  </supplied>
                 </layer>
               </staff>
               <staff xml:id="staff-0000000645481157" n="2" facs="#facsZone-staff-0000000645481157">
@@ -590,9 +610,18 @@
               </staff>
             </measure>
             <measure xml:id="measure-0000000157892179" n="14">
-              <staff xml:id="staff-0000000476697041" n="1">
-                <layer xml:id="layer-0000000463979027" n="1">
-                  <mSpace/>
+              <staff n="1">
+                <layer n="1">
+                  <supplied resp="#rettinghaus">
+                    <chord dur="4" dots="1">
+                      <note dur="4" oct="5" pname="e">
+                        <accid accid="n"/>
+                      </note>
+                      <note dur="4" oct="4" pname="b" accid.ges="f" />
+                      <note dur="4" oct="4" pname="g" />
+                    </chord>
+                    <rest dur="8" dots="1" />
+                  </supplied>
                 </layer>
               </staff>
               <staff xml:id="staff-0000002054422776" n="2" facs="#facsZone-staff-0000002054422776">
