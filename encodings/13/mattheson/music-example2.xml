@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 13, Example 2</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,71 +14,76 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
-
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.sig="2f" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16">
+                                <keySig sig="1f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="38">
+                        <measure corresp="#measure-0000000720476607">
                             <staff n="1" visible="true">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
                                 </layer>
                             </staff>
+                            <dir staff="1" place="below">Achter Tact.</dir>
                         </measure>
-                        <measure n="39">
+                        <measure corresp="#measure-0000000902537430">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="b">
                                             <accid accid="n" />
                                         </note>
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="d" />
                                     </beam>
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="b" />
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="d" />
                                     </beam>
-                                    <beam>
+                                    <beam place="above">
                                         <note dur="16" oct="4" pname="b" />
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="d" />
                                     </beam>
                                 </layer>
                             </staff>
+                            <dir staff="1" place="below">Neunter Tact.</dir>
                         </measure>
                     </section>
                 </score>

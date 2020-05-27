@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 13, Example 3</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,39 +14,55 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>First draft, <date>2019</date></edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>In the second edition some dots are missing, to be encoded later.</p>
+            </editorialDecl>
+        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="1f" n="1" lines="5" meter.unit="16" />
-                            <staffDef clef.shape="F" clef.line="4" key.sig="1f" n="2" lines="5" meter.unit="16" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16">
+                                <keySig sig="1f" />
+                            </staffDef>
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5" meter.unit="16">
+                                <keySig sig="1f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="g" />
-                                        <note dur="16" oct="5" pname="e" accid="f" />
+                                        <note dur="16" oct="5" pname="e">
+                                            <accid accid="f"/>
+                                        </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
@@ -66,17 +82,17 @@
                         <measure n="2">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="4" pname="g" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="4" pname="g" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="4" pname="g" />
