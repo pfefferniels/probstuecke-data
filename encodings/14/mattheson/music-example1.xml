@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 14, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,14 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -35,59 +37,57 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="8" label="Achter Tact">
-                            <staff n="1" visible="true">
-                                <layer n="1">
-                                    <supplied resp="#pfeffer">
-                                        <space dur="8" />
-                                        <space dur="8" />
-                                        <space dur="8" />
-                                        <space dur="8" />
-                                        <space dur="8" />
-                                        <space dur="8" />
-                                    </supplied>
-                                    <beam>
-                                        <note xml:id="ex-1" dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f">
-                                            <accid accid="f" />
-                                        </note>
-                                        <note dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="4" pname="b" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                    </beam>
-                                    <beam>
-                                        <note dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
-                                    </beam>
-                                </layer>
-                            </staff>
-                            <dir place="below" startid="#ex-1"><rend fontstyle="normal">Achter Tact</rend></dir>
-                        </measure>
-                        <measure n="9" label="Neuter Tact." right="invis">
+                        <measure corresp="#measure-0000002110347575" label="Achter Tact">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
-                                        <note xml:id="ex-2" dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="f" stem.dir="down" />
-                                        <note dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="f" stem.dir="down" />
-                                        <note dur="16" oct="4" pname="a" stem.dir="down" accid.ges="f" />
-                                        <note dur="16" oct="5" pname="f" stem.dir="down" />
+                                    <beam place="below">
+                                        <note xml:id="ex-1" dur="16" oct="4" pname="b" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g">
+                                            <accid accid="f" />
+                                        </note>
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" accid.ges="f" />
                                     </beam>
-                                    <space dur="8" />
-                                    <space dur="8" />
-                                    <space dur="8" />
-                                    <space dur="8" />
-                                    <space dur="8" />
-                                    <space dur="8" />
+                                    <beam place="below">
+                                        <note dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="g" accid.ges="f" />
+                                    </beam>
                                 </layer>
                             </staff>
-                            <dir place="below" startid="#ex-2"><rend fontstyle="normal">Neunter Tact.</rend></dir>
+                            <dir place="below" startid="#ex-1">
+                                <rend fontstyle="normal">Achter Tact</rend>
+                            </dir>
+                        </measure>
+                        <measure corresp="#measure-0000000003979548" label="Neuter Tact." right="invis" metcon="false">
+                            <staff n="1">
+                                <layer n="1">
+                                    <beam place="below">
+                                        <note xml:id="ex-2" dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                        <note dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                        <note dur="16" oct="4" pname="a" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                    </beam>
+                                    <beam place="below">
+                                        <note dur="16" oct="4" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                        <note dur="16" oct="4" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                        <note dur="16" oct="4" pname="g" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="f" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <dir place="below" startid="#ex-2">
+                                <rend fontstyle="normal">Neunter Tact.</rend>
+                            </dir>
                         </measure>
                     </section>
                 </score>
