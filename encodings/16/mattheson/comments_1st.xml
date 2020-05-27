@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe Sechzehntes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Klaus</surname>
+            <forename>Rettinghaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1731.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthsons Exemplarische Organisten-Probe im Artkel vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Johann</surname>
+                <forename>Mattheson</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lry="1916" lrx="1579" xml:id="facs-p368">
+      <graphic width="1579px" height="1916px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/368" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1888" lrx="1579" xml:id="facs-p369">
+      <graphic width="1579px" height="1888px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/369" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1939" lrx="1579" xml:id="facs-p370">
+      <graphic width="1579px" height="1939px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/370" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1865" lrx="1579" xml:id="facs-p371">
+      <graphic width="1579px" height="1865px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/371" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1915" lrx="1579" xml:id="facs-p372">
+      <graphic width="1579px" height="1915px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/372" />
+    </surface>
+    <surface ulx="0" uly="0" lry="1904" lrx="1579" xml:id="facs-p373">
+      <graphic width="1579px" height="1904px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/373" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Erlaͤuterung.</head>
+      <div n="1">
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
