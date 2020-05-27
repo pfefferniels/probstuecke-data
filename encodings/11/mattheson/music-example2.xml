@@ -45,7 +45,7 @@
                         <measure corresp="#measure-0000002078803044">
                             <staff n="1">
                                 <layer n="1">
-                                    <rest dur="16" staff="2" loc="6" />
+                                    <rest dur="16" staff="2" oloc="3" ploc="f" />
                                     <beam>
                                         <note dur="16" oct="3" pname="e" stem.dir="up" accid.ges="f" staff="2" />
                                         <note dur="16" oct="3" pname="g" stem.dir="up" staff="2" />
@@ -68,7 +68,7 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <rest dur="16" loc="0" />
+                                    <rest dur="16" oloc="2" ploc="g" />
                                     <beam>
                                         <note dur="16" oct="2" pname="g" stem.dir="down" />
                                         <note dur="16" oct="3" pname="c" stem.dir="down" />
