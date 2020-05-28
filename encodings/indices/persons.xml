@@ -26,15 +26,6 @@
                         <name>Apollo</name>
                     </persName>
                 </person>
-                <person xml:id="ed_zt2_z1f_5lb">
-                    <idno type="uri">http://d-nb.info/gnd/104066911</idno>
-                    <persName type="reg">
-                        <surname>Mouton</surname>
-                        <forename>Jean</forename>
-                    </persName>
-                    <birth>1459</birth>
-                    <death>1522</death>
-                </person>
                 <person xml:id="ed_rc3_fgy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118650149</idno>
                     <persName type="reg">
@@ -43,17 +34,6 @@
                     </persName>
                     <birth>360 BC</birth>
                     <death>300 BC</death>
-                </person>
-                <person xml:id="ed_mj2_qx2_5lb">
-                    <persName type="reg">
-                        <surname>Möhlmann</surname>
-                        <forename>Conrad</forename>
-                    </persName>
-                    <birth/>
-                    <death>1702</death>
-                    <note>
-                        Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg.
-                    </note>
                 </person>
                 <person xml:id="ed_ngx_5lx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/11850553X</idno>
@@ -82,12 +62,12 @@
                     <birth>480</birth>
                     <death>524</death>
                 </person>
-                <person>
+                <person xml:id="bls_l2j_vlb">
                     <persName type="reg">
                         <surname>Bottari</surname>
                         <forename>Domenico Filippo</forename>
                     </persName>
-                    <floruit notAfter="1703" notBefore="1703" />
+                    <floruit notAfter="1703" notBefore="1703"/>
                 </person>
                 <person xml:id="ed_y4p_gvx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118515586</idno>
@@ -156,9 +136,9 @@
                     <idno type="uri">http://d-nb.info/gnd/1050676637</idno>
                     <persName type="reg">
                         <surname>de Saint Lambert</surname>
-                        <forename></forename>
+                        <forename/>
                     </persName>
-                    <floruit notAfter="1710" notBefore="1700" />
+                    <floruit notAfter="1710" notBefore="1700"/>
                 </person>
                 <person xml:id="ed_ghv_kvx_qlb">
                     <idno type="uri">http://d-nb.info/gnd/119116383</idno>
@@ -266,14 +246,6 @@
                     </persName>
                     <birth>65 BC</birth>
                     <death>AD 8</death>
-                </person>
-                <person xml:id="ed_qqk_vy2_5lb">
-                    <persName type="reg">
-                        <surname>Pythagoras</surname>
-                        <forename/>
-                    </persName>
-                    <birth/>
-                    <death/>
                 </person>
                 <person xml:id="ed_c22_mgy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118639749</idno>
@@ -419,6 +391,15 @@
                     <birth>1588</birth>
                     <death>1648</death>
                 </person>
+                <person xml:id="ed_mj2_qx2_5lb">
+                    <persName type="reg">
+                        <surname>Möhlmann</surname>
+                        <forename>Conrad</forename>
+                    </persName>
+                    <birth/>
+                    <death>1702</death>
+                    <note> Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg. </note>
+                </person>
                 <person xml:id="ed_fwn_dvb_5lb">
                     <idno type="uri">http://d-nb.info/gnd/118784919</idno>
                     <persName type="reg">
@@ -446,6 +427,15 @@
                     <birth>1680</birth>
                     <death>1742</death>
                 </person>
+                <person xml:id="ed_zt2_z1f_5lb">
+                    <idno type="uri">http://d-nb.info/gnd/104066911</idno>
+                    <persName type="reg">
+                        <surname>Mouton</surname>
+                        <forename>Jean</forename>
+                    </persName>
+                    <birth>1459</birth>
+                    <death>1522</death>
+                </person>
                 <person xml:id="ed_g1w_hxy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/12964594X</idno>
                     <persName type="reg">
@@ -472,6 +462,14 @@
                     <birth>1641</birth>
                     <death>1717</death>
                 </person>
+                <person xml:id="ed_qqk_vy2_5lb">
+                    <persName type="reg">
+                        <surname>Pythagoras</surname>
+                        <forename/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
                 <person xml:id="ed_jrt_bz1_5lb">
                     <idno type="uri">http://d-nb.info/gnd/116509465</idno>
                     <persName type="reg">
@@ -481,15 +479,6 @@
                     <birth>1678</birth>
                     <death>1761</death>
                 </person>
-                <person xml:id="ed_tqx_dfy_qlb">
-                    <idno type="uri">http://d-nb.info/gnd/103764770X</idno>
-                    <persName type="reg">
-                        <surname>Roger</surname>
-                        <forename>Jeanne</forename>
-                    </persName>
-                    <birth>1701</birth>
-                    <death>1722</death>
-                </person>
                 <person xml:id="ed_kf5_clf_5lb">
                     <idno type="uri">http://d-nb.info/gnd/131867482</idno>
                     <persName type="reg">
@@ -497,6 +486,15 @@
                         <forename>Estienne</forename>
                     </persName>
                     <birth>1665</birth>
+                    <death>1722</death>
+                </person>
+                <person xml:id="ed_tqx_dfy_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/103764770X</idno>
+                    <persName type="reg">
+                        <surname>Roger</surname>
+                        <forename>Jeanne</forename>
+                    </persName>
+                    <birth>1701</birth>
                     <death>1722</death>
                 </person>
                 <person xml:id="ed_xbw_55b_5lb">
@@ -561,6 +559,15 @@
                     </persName>
                     <birth>1666</birth>
                     <death>1738</death>
+                </person>
+                <person xml:id="ed_exd_n2j_vlb">
+                    <idno type="uri">http://d-nb.info/gnd/135280303</idno>
+                    <persName type="reg">
+                        <surname>Taglietti</surname>
+                        <forename>Giulio</forename>
+                    </persName>
+                    <birth>1660</birth>
+                    <death>1718</death>
                 </person>
                 <person xml:id="ed_uyt_trx_qlb">
                     <persName type="reg">
