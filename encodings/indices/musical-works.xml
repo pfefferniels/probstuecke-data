@@ -29,14 +29,6 @@
                     <pubPlace>Leipzig</pubPlace>
                     <date>1731</date>
                 </bibl>
-                <bibl xml:id="ed_xlx_gfb_5lb">
-                    <author>
-                        <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
-                    </author>
-                    <title>Sonate pour le Clavecin</title>
-                    <pubPlace>Hamburg</pubPlace>
-                    <date>1713</date>
-                </bibl>
                 <bibl xml:id="ed_zgj_2cb_5lb">
                     <author>
                         <persName><surname>Benedetto</surname><forename>Marcello</forename></persName>
@@ -146,6 +138,14 @@
                     <pubPlace>London</pubPlace>
                     <date>1714</date>
                 </bibl>
+                <bibl xml:id="ed_xlx_gfb_5lb">
+                    <author>
+                        <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
+                    </author>
+                    <title>Sonate pour le Clavecin</title>
+                    <pubPlace>Hamburg</pubPlace>
+                    <date>1713</date>
+                </bibl>
                 <bibl xml:id="ed_rzg_cx1_5lb">
                     <author>
                         <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
@@ -181,6 +181,15 @@
                     <publisher>Estienne Roger</publisher>
                     <pubPlace>Amsterdam</pubPlace>
                     <date>c. 1706</date>
+                </bibl>
+                <bibl xml:id="ed_hjs_cfj_vlb">
+                    <author>
+                        <persName><surname>Taglietti</surname><forename>Giulio</forename></persName>
+                    </author>
+                    <title>Concerti a cinque, op. 8</title>
+                    <publisher>Giuseppe Sala</publisher>
+                    <pubPlace>Venezia</pubPlace>
+                    <date>1710</date>
                 </bibl>
                 <bibl xml:id="ed_ymb_fsc_tlb">
                     <author>
