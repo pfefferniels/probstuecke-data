@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 13, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,31 +14,33 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
-
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.sig="2f" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16" />
-                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5" meter.unit="16" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16">
+                                <keySig sig="1f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="11">
-                            <staff n="1" visible="true">
+                        <measure corresp="#measure-0000001263987989">
+                            <staff n="1">
                                 <layer n="1">
                                     <beam>
                                         <note dur="16" oct="5" pname="g" />
@@ -47,7 +49,9 @@
                                     </beam>
                                     <beam>
                                         <note dur="16" oct="5" pname="g" />
-                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
+                                        <note dur="16" oct="5" pname="e">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>
                                     <beam>
@@ -58,17 +62,19 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure right="invis" metcon="false">
+                        <measure corresp="#measure-0000001431729815" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <chord dur="4">
-                                        <note dur="4" oct="4" pname="a" />
-                                        <note dur="4" oct="5" pname="c" />
                                         <note dur="4" oct="5" pname="f" />
+                                        <note dur="4" oct="5" pname="c" />
+                                        <note dur="4" oct="4" pname="a" />
                                     </chord>
                                 </layer>
                             </staff>
-                            <dir place="within" staff="1" tstamp="2"><rend fontstyle="normal">&amp;c.</rend></dir>
+                            <dir place="within" staff="1" tstamp="2">
+                                <rend fontstyle="normal">&amp;c.</rend>
+                            </dir>
                         </measure>
                     </section>
                 </score>

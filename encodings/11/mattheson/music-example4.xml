@@ -14,11 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>First draft, <date>2019</date></edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -37,7 +42,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="54" corresp="#measure-0000000919086642">
+                        <measure corresp="#measure-0000000919086642">
                             <staff n="1">
                                 <layer n="1">
                                     <supplied resp="#pfeffer">
@@ -74,7 +79,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="55" corresp="#measure-0000001966821284">
+                        <measure corresp="#measure-0000001966821284">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -92,7 +97,7 @@
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="4" pname="a">
-                                            <app>
+                                            <app resp="#rettinghaus">
                                                 <lem source="#secondEdition">
                                                     <accid accid="n" />
                                                 </lem>
@@ -133,7 +138,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="56" corresp="#measure-0000001525394195">
+                        <measure corresp="#measure-0000001525394195">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="8" oct="4" pname="a">
@@ -170,7 +175,10 @@
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
                                 <fb>
-                                    <f><supplied resp="#rettinghaus">♮</supplied>2</f>
+                                    <f>
+                                        <supplied resp="#rettinghaus">♮</supplied>
+                                        2
+                                    </f>
                                 </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="2">

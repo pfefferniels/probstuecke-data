@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 13, Example 4</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,14 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -29,67 +31,78 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.sig="2f" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16" />
-                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5" meter.unit="16" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16">
+                                <keySig sig="2f" />
+                            </staffDef>
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5" meter.unit="16">
+                                <keySig sig="2f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="58">
-                            <staff n="1" visible="true">
+                        <measure corresp="#measure-0000000946035271">
+                            <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="a" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="a" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="a" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
                                 </layer>
                             </staff>
-                            <staff n="2" visible="true">
+                            <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
-                                    <beam>
-                                        <note dur="16" oct="3" pname="e" accid.ges="f" />
+                                    <beam place="below">
+                                        <app resp="#rettinghaus">
+                                            <lem source="#firstEdition">
+                                                <note dur="16" oct="3" pname="e" accid.ges="f" />
+                                            </lem>
+                                            <rdg source="#secondEdition">
+                                                <note dur="16" oct="3" pname="f" />
+                                            </rdg>
+                                        </app>
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="59">
+                        <measure corresp="#measure-0000001361314791">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
@@ -98,17 +111,17 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="d" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="d" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="d" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
@@ -116,20 +129,20 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="60">
+                        <measure corresp="#measure-0000001587207292">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
@@ -138,17 +151,17 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
@@ -156,20 +169,21 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="61">
+                        <sb source="#firstEditiom #secondEdition" />
+                        <measure corresp="#measure-0000001393298236">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="g" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="g" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="g" />
@@ -178,81 +192,82 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="e">
                                             <accid accid="n" />
                                         </note>
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
-                                    <beam>
-                                        <note dur="16" oct="3" pname="e" />
+                                    <beam place="below">
+                                        <note dur="16" oct="3" pname="e" accid.ges="n" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
-                                    <beam>
-                                        <note dur="16" oct="3" pname="e" />
+                                    <beam place="below">
+                                        <note dur="16" oct="3" pname="e" accid.ges="n" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
                                     </beam>
                                 </layer>
                             </staff>
                         </measure>
-                        <sb />
-                        <measure n="62">
-                            <staff n="1" visible="true">
-                                <layer n="1">
-                                    <beam>
-                                        <note dur="16" oct="5" pname="a" />
-                                        <note dur="16" oct="5" pname="c" />
-                                        <note dur="16" oct="5" pname="c" />
-                                    </beam>
-                                    <beam>
-                                        <note dur="16" oct="5" pname="a" />
-                                        <note dur="16" oct="5" pname="c" />
-                                        <note dur="16" oct="5" pname="c" />
-                                    </beam>
-                                    <beam>
-                                        <note dur="16" oct="5" pname="a" />
-                                        <note dur="16" oct="5" pname="c" />
-                                        <note dur="16" oct="5" pname="c" />
-                                    </beam>
-                                </layer>
-                            </staff>
-                            <staff n="2" visible="true">
-                                <layer n="1">
-                                    <beam>
-                                        <note dur="16" oct="4" pname="c" />
-                                        <note dur="16" oct="3" pname="f" />
-                                        <note dur="16" oct="3" pname="f" />
-                                    </beam>
-                                    <beam>
-                                        <note dur="16" oct="4" pname="c" />
-                                        <note dur="16" oct="3" pname="f" />
-                                        <note dur="16" oct="3" pname="f" />
-                                    </beam>
-                                    <beam>
-                                        <note dur="16" oct="4" pname="c" />
-                                        <note dur="16" oct="3" pname="f" />
-                                        <note dur="16" oct="3" pname="f" />
-                                    </beam>
-                                </layer>
-                            </staff>
-                        </measure>
-                        <measure n="63">
+                        <measure corresp="#measure-0000001782921444">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
-                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
+                                    <beam place="below">
+                                        <note dur="16" oct="5" pname="a" />
+                                        <note dur="16" oct="5" pname="c" />
+                                        <note dur="16" oct="5" pname="c" />
+                                    </beam>
+                                    <beam place="below">
+                                        <note dur="16" oct="5" pname="a" />
+                                        <note dur="16" oct="5" pname="c" />
+                                        <note dur="16" oct="5" pname="c" />
+                                    </beam>
+                                    <beam place="below">
+                                        <note dur="16" oct="5" pname="a" />
+                                        <note dur="16" oct="5" pname="c" />
+                                        <note dur="16" oct="5" pname="c" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                            <staff n="2">
+                                <layer n="1">
+                                    <beam place="below">
+                                        <note dur="16" oct="4" pname="c" />
+                                        <note dur="16" oct="3" pname="f" />
+                                        <note dur="16" oct="3" pname="f" />
+                                    </beam>
+                                    <beam place="below">
+                                        <note dur="16" oct="4" pname="c" />
+                                        <note dur="16" oct="3" pname="f" />
+                                        <note dur="16" oct="3" pname="f" />
+                                    </beam>
+                                    <beam place="below">
+                                        <note dur="16" oct="4" pname="c" />
+                                        <note dur="16" oct="3" pname="f" />
+                                        <note dur="16" oct="3" pname="f" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure corresp="#measure-0000001673525869">
+                            <staff n="1">
+                                <layer n="1">
+                                    <beam place="below">
+                                        <note dur="16" oct="5" pname="e">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="6" pname="c" />
                                         <note dur="16" oct="6" pname="c" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="5" pname="d" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="5" pname="a" />
                                         <note dur="16" oct="5" pname="a" />
@@ -261,17 +276,19 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="g" />
-                                        <note dur="16" oct="4" pname="e" accid.ges="f" />
+                                        <note dur="16" oct="4" pname="e">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="4" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="3" pname="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
@@ -279,21 +296,24 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="64">
+                        <sb source="#firstEditiom #secondEdition" />
+                        <measure corresp="#measure-0000000684667663">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="4" pname="a" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="f" />
                                     </beam>
-                                    <beam>
-                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
+                                    <beam place="below">
+                                        <note dur="16" oct="5" pname="e">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="6" pname="c" />
                                         <note dur="16" oct="6" pname="c" />
                                     </beam>
@@ -301,38 +321,40 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="b" accid.ges="f" />
                                         <note dur="16" oct="3" pname="d" />
                                         <note dur="16" oct="3" pname="d" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="c" />
                                         <note dur="16" oct="3" pname="a" />
                                         <note dur="16" oct="3" pname="a" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="g" />
-                                        <note dur="16" oct="4" pname="e" accid.ges="f" />
+                                        <note dur="16" oct="4" pname="e">
+                                            <accid accid="f" />
+                                        </note>
                                         <note dur="16" oct="4" pname="e" accid.ges="f" />
                                     </beam>
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="65">
+                        <measure corresp="#measure-0000001186854121">
                             <staff n="1">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="6" pname="c" />
                                         <note dur="16" oct="6" pname="c" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="5" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="b" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="5" pname="d" />
                                         <note dur="16" oct="5" pname="a" />
                                         <note dur="16" oct="5" pname="a" />
@@ -341,17 +363,17 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="4" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="e" accid.ges="f" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="4" pname="d" />
                                         <note dur="16" oct="4" pname="d" />
                                     </beam>
-                                    <beam>
+                                    <beam place="below">
                                         <note dur="16" oct="3" pname="f" />
                                         <note dur="16" oct="4" pname="c" />
                                         <note dur="16" oct="4" pname="c" />
@@ -359,22 +381,34 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure right="rptend" n="66">
+                        <measure corresp="#measure-0000000996654926" right="rptend">
                             <staff n="1">
                                 <layer n="1">
-                                    <chord dots="1" dur="4">
-                                        <note oct="4" pname="b" accid.ges="f" />
-                                        <note oct="5" pname="d" />
-                                        <note oct="5" pname="f" />
-                                        <note oct="5" pname="b" accid.ges="f" />
-                                    </chord>
-                                    <rest dots="1" dur="8" />
+                                    <choice>
+                                        <corr resp="#rettinghaus" cert="high">
+                                            <chord dots="1" dur="4">
+                                                <note oct="5" pname="b" accid.ges="f" />
+                                                <note oct="5" pname="f" />
+                                                <note oct="5" pname="d" />
+                                                <note oct="4" pname="b" accid.ges="f" />
+                                            </chord>
+                                        </corr>
+                                        <sic source="#firstEditiom #secondEdition">
+                                            <chord dots="0" dots.ges="1" dur="4">
+                                                <note oct="5" pname="b" accid.ges="f" />
+                                                <note oct="5" pname="f" />
+                                                <note oct="5" pname="d" />
+                                                <note oct="4" pname="b" accid.ges="f" />
+                                            </chord>
+                                        </sic>
+                                    </choice>
+                                    <rest dots="1" dur="8" oloc="5" ploc="d" />
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer n="1">
                                     <note dots="1" dur="4" oct="3" pname="b" accid.ges="f" />
-                                    <rest dots="1" dur="8" />
+                                    <rest dots="1" dur="8" oloc="3" ploc="a" />
                                 </layer>
                             </staff>
                         </measure>

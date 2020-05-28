@@ -14,14 +14,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -130,7 +132,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <sb/>
+                        <sb />
                         <measure corresp="#m-1145">
                             <staff n="1">
                                 <layer>
@@ -192,8 +194,8 @@
                             <staff n="1">
                                 <layer>
                                     <chord dur="4" stem.dir="up">
-                                      <note oct="2" pname="d" />
-                                      <note oct="3" pname="d" />
+                                        <note oct="2" pname="d" />
+                                        <note oct="3" pname="d" />
                                     </chord>
                                     <rest dur="4" />
                                     <rest dur="4" />

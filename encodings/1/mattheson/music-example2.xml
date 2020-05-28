@@ -5,29 +5,25 @@
         <fileDesc>
             <titleStmt>
                 <title>Prob-Stück 1, Example 2</title>
-                <composer>Johann Mattheson</composer>
+                <composer>
+                    <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                </composer>
                 <respStmt>
                     <resp>Edited by</resp>
                     <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-              <respStmt>
-                  <persName role="publisher">Niels Pfeffer</persName>
-              </respStmt>
-              <date>2019</date>
-              <availability>
-                  <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
-                      <p>Creative Commons Attribution 4.0 International License</p>
-                  </useRestrict>
-              </availability>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -37,10 +33,8 @@
                 <score>
                     <scoreDef key.pname="d" key.mode="minor" meter.unit="4" mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5">
-                            </staffDef>
-                            <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5">
-                            </staffDef>
+                            <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5"></staffDef>
+                            <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5"></staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
@@ -54,7 +48,7 @@
                                         <note xml:id="ex-1003" dur="16" oct="5" pname="a" />
                                         <note xml:id="ex-1005" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-1006" dur="32" oct="5" pname="f" />
-                                        <app>
+                                        <app resp="#rettinghaus">
                                             <lem source="#secondEdition">
                                                 <note xml:id="ex-1007" dur="16" oct="5" pname="g" />
                                             </lem>
@@ -71,7 +65,7 @@
                                         <note xml:id="ex-1006a" dur="32" oct="5" pname="f">
                                             <accid xml:id="ex-1035" accid="s" />
                                         </note>
-                                        <app>
+                                        <app resp="#rettinghaus">
                                             <lem source="#secondEdition">
                                                 <note xml:id="ex-1007a" dur="16" oct="5" pname="g" />
                                             </lem>
@@ -109,14 +103,14 @@
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="2">
-                              <fb>
-                                <f>♯</f>
-                              </fb>
+                                <fb>
+                                    <f>♯</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
-                              <fb>
-                                <f>♯</f>
-                              </fb>
+                                <fb>
+                                    <f>♯</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure corresp="#m-1027" right="invis" metcon="false">
@@ -131,7 +125,7 @@
                                         <note xml:id="ex-1042" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1043" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-1045" dur="16" oct="5" pname="f">
-                                          <accid xml:id="ex-1046" accid="n" func="caution" />
+                                            <accid xml:id="ex-1046" accid="n" func="caution" />
                                         </note>
                                     </beam>
                                     <note xml:id="ex-1047" dur="4" oct="5" pname="e" />
@@ -160,8 +154,12 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <dir place="within" staff="1" tstamp="4"><rend fontstyle="normal">&amp;c.</rend></dir>
-                            <dir place="within" staff="2" tstamp="4"><rend fontstyle="normal">&amp;c.</rend></dir>
+                            <dir place="within" staff="1" tstamp="4">
+                                <rend fontstyle="normal">&amp;c.</rend>
+                            </dir>
+                            <dir place="within" staff="2" tstamp="4">
+                                <rend fontstyle="normal">&amp;c.</rend>
+                            </dir>
                         </measure>
                     </section>
                 </score>
