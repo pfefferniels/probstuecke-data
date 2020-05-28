@@ -123,6 +123,15 @@
                     <birth>1681</birth>
                     <death>1732</death>
                 </person>
+                <person xml:id="ed_yvc_pfj_vlb">
+                    <idno type="uri">http://d-nb.info/gnd/11901176X</idno>
+                    <persName type="reg">
+                        <surname>Corelli</surname>
+                        <forename>Arcangelo</forename>
+                    </persName>
+                    <birth>1653</birth>
+                    <death>1713</death>
+                </person>
                 <person xml:id="ed_svr_zhy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/104198273</idno>
                     <persName type="reg">
