@@ -382,6 +382,15 @@
                     <birth>1681</birth>
                     <death>1764</death>
                 </person>
+                <person xml:id="ed_rkl_p3j_vlb">
+                    <idno type="uri">http://d-nb.info/gnd/124792367</idno>
+                    <persName type="reg">
+                        <surname>Meibom</surname>
+                        <forename>Marcus</forename>
+                    </persName>
+                    <birth>1630</birth>
+                    <death>1711</death>
+                </person>
                 <person xml:id="ed_olp_fgl_tlb">
                     <idno type="uri">http://d-nb.info/gnd/118732595</idno>
                     <persName type="reg">
