@@ -227,6 +227,15 @@
                     <pubPlace>Amsterdam</pubPlace>
                     <date>1707</date>
                 </bibl>
+                <bibl xml:id="ed_vbj_1hj_vlb">
+                    <author>
+                        <persName><surname>Vivaldi</surname><forename>Antonio</forename></persName>
+                    </author>
+                    <title>L'estro armonico, op. 3</title>
+                    <publisher>Estienne Roger</publisher>
+                    <pubPlace>Amsterdam</pubPlace>
+                    <date>1711</date>
+                </bibl>
                 <bibl xml:id="ed_pys_twc_tlb">
                     <author>
                         <persName><surname>Vivaldi</surname><forename>Antonio</forename></persName>
