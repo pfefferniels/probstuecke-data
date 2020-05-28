@@ -173,6 +173,15 @@
                     <pubPlace>Amsterdam</pubPlace>
                     <date>1716</date>
                 </bibl>
+                <bibl xml:id="ed_ilx_shj_vlb">
+                    <author>
+                        <persName><surname>Sachsen-Weimar</surname><forename>Johann Ernst, Prinz von</forename></persName>
+                    </author>
+                    <title>Six Concerts, op. 1</title>
+                    <publisher>Georg Philipp Telemann</publisher>
+                    <pubPlace>Frankfurt</pubPlace>
+                    <date>1718</date>
+                </bibl>
                 <bibl xml:id="ed_i11_1fc_tlb">
                     <author>
                         <persName><surname>Sherard</surname><forename>James</forename></persName>
