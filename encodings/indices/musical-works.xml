@@ -47,6 +47,15 @@
                     <pubPlace>Amsterdam</pubPlace>
                     <date>1709</date>
                 </bibl>
+                <bibl xml:id="ed_rvt_hgj_vlb">
+                    <author>
+                        <persName><surname>Corelli</surname><forename>Arcangelo</forename></persName>
+                    </author>
+                    <title>Suittes pour le clavecin composées à un clavecin, un violon et basse de viole, livre premier (-second)</title>
+                    <publisher>Estienne Roger</publisher>
+                    <pubPlace>Amsterdam</pubPlace>
+                    <date>1715</date>
+                </bibl>
                 <bibl xml:id="ed_nfp_mwc_tlb">
                     <author>
                         <persName><surname>Dall'Abaco</surname><forename>Evaristo Felice</forename></persName>
