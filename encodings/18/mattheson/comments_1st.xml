@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,9 +86,146 @@
   </facsimile>
   <text>
     <body>
+      <div>
+        <p>
+          <lb/><hi rendition="#aq">
+            <abbr>Vid.</abbr> <hi rendition="#i"><persName corresp="#ed_exd_n2j_vlb">Taglietti</persName></hi>
+            <name type="musicalWork" corresp="#ed_hjs_cfj_vlb">Opera VIII. Concerto XI</name>.
+            <persName corresp="#ed_whl_5gy_qlb">Giuſeppe <hi rendition="#i">Valentini</hi></persName>
+            <name type="musicalWork" corresp="#ed_xz2_khc_tlb">Opera V. Sonata IX. chiamata: La <hi rendition="#i">Chilarducci</hi></name>.
+            <persName corresp="#ed_yvc_pfj_vlb">Arcangelo <hi rendition="#i">Corelli</hi></persName>
+            <name type="musicalWork" corresp="#ed_rvt_hgj_vlb">Livre premier, Suite IV. Livre II. Suite XVIII.</name>
+            <persName ref="#ed_khq_sfy_qlb">Giovanni <hi rendition="#i">Moſſi</hi></persName>,
+            <name type="musicalWork" corresp="#ed_llx_3gc_tlb">Sonata XI</name>.
+          </hi>
+          und unzehlige mehr.
+        </p>
+      </div>
+
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
-      <div n="1">
+        <head>Erlaͤuterung.</head>
+        <div n="1">
+          <lb/><head>§. 1.</head>
+          <p xml:id="p1-1">
+            <lb/><hi rendition="#in">J</hi>m erſten Tact wird zu den <ref target="#note-0000001037330976 #note-0000000662175992">beiden erſten Noten</ref> angeſchlagen; zu den uͤbri-
+            <lb/>gen aber nicht. Jm andern Tact ſchlaͤgt man zu keiner Note; auſſer zu
+            <lb/>der <ref target="#note-0000000526111068">erſten</ref>.
+            <lb/>Jm <ref target="#note-0000001535338502">dritten ebenfalls</ref>; im vierten aber wieder <ref target="#note-0000002101406706 #note-0000000282639984">zu den beyden erſten</ref>.
+          </p>
+        </div>
+
+        <div n="2">
+          <head>§. 2.</head>
+          <p xml:id="p2-1">
+            <lb/>Jm fuͤnfften Tact wird nur zu der <ref target="#note-0000000316164270">erſten</ref> und <ref target="#note-0000000125245410">achten Note</ref> das Gehoͤrige und
+            <lb/><hi rendition="#aq">ſpecificirte</hi> angeſchlagen. Jm ſechſten Tact <ref target="#note-0000000667394726 #note-0000000276020849">auch alſo</ref>. Jm ſiebenden ſtehet wohl
+            <lb/>zu mercken, daß die <ref target="#fb-001">6⃥</ref> ſo uͤber der <ref target="#note-0000001776178721">letzten Note</ref> befindlich, bey dem vorhergehen-
+            <lb/>dem <ref target="#note-0000001054477391"><hi rendition="#b">h</hi></ref> ſchon angeſchlagen und <hi rendition="#aq">anticipi</hi>ren muͤſſe. Jm <ref target="#measure-0000000396295556">achten Tact</ref> macht die
+            <lb/>rechte Hand mit dem <hi rendition="#b">fis</hi> und <hi rendition="#b">h</hi> daſjenige, was der Baß anfangs mit <hi rendition="#aq">h</hi> und <hi rendition="#aq">e</hi>
+            <lb/>hat hoͤren laſſen. Jm <ref target="#measure-0000000359208733">neunten</ref> <hi rendition="#aq">continui</hi>ret ſolches mit <hi rendition="#aq">h</hi> und <hi rendition="#aq">gis</hi> zu <hi rendition="#aq">E</hi>, mit <hi rendition="#aq">h</hi>
+            <lb/>und <hi rendition="#aq">fis</hi> aber zu <hi rendition="#aq">dis</hi>. Jm <ref target="#measure-0000002097787176">zehnten</ref> geht es wieder wie im fuͤnfften. Jm <ref target="#measure-0000001047849544">elfften</ref>
+            <lb/>aber nim&#x0303;t die rechte Hand das <hi rendition="#aq">Subjectum</hi>, und faͤngt mit <hi rendition="#aq">e cis</hi> an, hernach <hi rendition="#aq">e h</hi>,
+            <lb/>denn <hi rendition="#aq">e a</hi>, darauf <hi rendition="#aq">e gis</hi>, zuletzt <hi rendition="#aq">e fis</hi>, ſo wie die vier erſten Tacte des Prob-
+            <lb/>Stuͤckes von Note zu Note heiſſen.
+          </p>
+        </div>
+
+        <div n="3">
+          <head>§. 3.</head>
+          <p xml:id="p3-1">
+            <lb/>Mit folgenden <ref target="#measure-0000000404998919">ſechszehnten</ref>, <ref target="#measure-0000000797194466">ſiebenzehnten</ref> und <ref target="#measure-0000000971045622">achtzehnten Taͤcten</ref> ver-
+            <lb/>faͤhret man wie mit dem fuͤnfften, und wo das <ref target="#clef-0000001087880551"><hi rendition="#aq">Tenor</hi>-Zeichen</ref> die <hi rendition="#aq">Repercuſſion</hi>
+            <lb/>des <hi rendition="#aq">Thematis</hi> anhebet, eben wie mit dem Anfang. Jm <ref target="#measure-0000001099786812">acht und zwantzigſten
+            <lb/>Tact</ref> iſt zu mercken, daß die rechte Hand daſelbſt nebſt der Sexte, welche liegen
+            <lb/>bleibet, zu jeder Note die Tertie mit anſchlage. Weiter wolle man den <ref target="#measure-0000000346618578">ſieben
+            <lb/>und dreyßigſten</ref> und <ref target="#measure-0000000804701007">acht und dreyßigſten Tact</ref> in acht nehmen, und dazu eben das
+            <lb/>ſpielen, was der Baß in den beyden vorhergehenden Taͤcten gehabt hat; doch alſo,
+            <fw place="bottom" type="catch">als</fw>
+            <pb n="202" facs="#facs-p382"/>
+            <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
+            <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
+            <lb/>der Note, angegriffen, und vollſtimmig <hi rendition="#aq">abſolvi</hi>rt.
+          </p>
+        </div>
+
+        <div n="4">
+          <head>§. 4.</head>
+          <p xml:id="p4-1">
+            <lb/>Es ſtehet wohl zu beobachten, daß im andern Tact des andern Theils
+            <lb/>die <ref target="#note-0000000291110853">erſte Note</ref> durchgehet, welches ſelten alſo vorfaͤllt, und vom <hi rendition="#aq">Judicio de-
+            <lb/>pendi</hi>ret, da einer beobachten muß, auf welche Note die <hi rendition="#aq">Emphaſis</hi> oder der <hi rendition="#aq">Ac-
+            <lb/>cent</hi> faͤllt, welches hier nicht auf die erſte, ſondern auf die <ref target="#note-0000000296002974">andere</ref> geſchieht, weil ſelbige
+            <lb/>im ſteigen die letzte, und der Anfang eines neuen Ganges iſt.
+          </p>
+        </div>
+
+        <div n="5">
+          <head>§. 5.</head>
+          <p xml:id="p5-1">
+            <lb/>Bis an den <ref target="#measure-0000000931339172">ſieben und zwantzigſten Tact</ref> dieſes Theils faͤllt weiter nichts
+            <lb/>zu erklaͤren oder zu erlaͤutern vor; ſondern es muß allhier wieder das erſte <hi rendition="#aq">Subjectum</hi>, und zwar erſt-
+            <lb/>lich mit <hi rendition="#aq">fis cis</hi>, hernach mit <hi rendition="#aq">fis dis</hi> zum <hi rendition="#aq">H</hi>, ſodann mit <hi rendition="#aq">fis cis</hi> wieder zum <hi rendition="#aq">B</hi>,
+            <lb/>und ſchließlich mit <hi rendition="#aq">fis h</hi>, als der Septime zum <hi rendition="#aq">Gis</hi>, welche durch <hi rendition="#aq">f</hi> und <hi rendition="#aq">h re-
+              <lb/>ſolvi</hi>ret wird, angebracht und durchgefuͤhret werden.
+          </p>
+        </div>
+
+        <div n="6">
+          <head>§. 6.</head>
+          <p xml:id="p6-1">
+            <lb/>Bey dem <ref target="#measure-0000000030851495">ein und dreißigſten Tact</ref> kommt der Satz wieder, ob wohl in
+            <lb/>andern Tonen, der im <ref target="#measure-0000002093783867">erſten Theil <hi rendition="#aq">Tactu 37. &amp; <abbr>ſeqq.</abbr></hi></ref> geweſen, da man denn
+            <lb/>nur hier ebenfalls weiter nichts zu thun hat, als daß man mit der rechten Hand
+            <lb/>dieſelben Noten, die der Baß vorher geſpielet, nachſchlage, wiewohl auf die
+            <lb/>vorige Art, als ob ein niedriger Diſcant-Schluͤſſel davor befindlich waͤre. Die
+            <lb/>folgenden vier oder fuͤnff Taͤcte kann man fuͤglich Tertien-weis, ohne weiteres
+            <lb/>Zuthun, durgehen laſſen, und endlich wird der Beſchluß mit einer abermahligen
+            <lb/><hi rendition="#aq">Repercuſſion</hi> des <hi rendition="#aq">Subjecti</hi> in der rechten Hand alſo gemacht:
+            <notatedMusic xml:id="music-example1">
+              <ptr target="music-example1.xml"/>
+            </notatedMusic>
+            <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte an-
+            <lb/>ſchlagen muß, welches je und allewege feſt geſetzet wird.
+          </p>
+        </div>
+
+        <div n="7">
+          <head>§. 7.</head>
+          <p xml:id="p7-1">
+            <lb/>Sonſt habe mit Fleiß die gantze <hi rendition="#aq">Paſſage</hi> hieher bringen wollen, damit,
+            <lb/>wenn in den vorigen Beſchreibungen etwann einem oder andern etwas dunckel
+            <lb/>ſcheinen moͤchte, es alles mit einander aus dieſer Probe <hi rendition="#aq">illuſtri</hi>ret und
+            <lb/>deutlicher gemacht werden; ſintemahl es wohl dabey bleibet, daß, wer einer Sa-
+            <lb/>che kundig iſt, dieſelbe natuͤrlicher Weiſe nicht ſo klar fuͤrzutragen geſchickt ſey,
+            <lb/>als es wohl offt einem Unkuͤndigen noͤthig; Dahero niemand zu verſtaͤndlich im Unter-
+            <lb/>richt ſeyn kan, ſo daß auch wol gar eine kleine Weitlaͤuffigkeit und Wie-
+            <lb/>derholung nicht gleich zu tadeln, dafern ſie ihr Abſehen auf die Deutlichkeit ge-
+            <lb/>richtet hat.
+          </p>
+        </div>
+
+      <div n="8">
+        <lb/><head>§. 8.</head>
+        <p>
+          <lb/>Es hat der beruͤhmte <persName corresp="#ed_uyt_trx_qlb">Herr Capellmeister <hi rendition="#b">Telemann</hi></persName> neulich
+          <name type="musicalWork" corresp="#ed_ilx_shj_vlb"><hi rendition="#aq">6 Concerte</hi></name> heraus-
+          <lb/>gegeben, und gar ſauber in Kupffer ſtechen laſſen, die der weyland Durchlauchtige
+          <persName corresp="#ed_xxh_bgy_qlb"><hi rendition="#b">Hertzog von Sachſen-Weymar</hi></persName> mit eigner Hand, und aus eigener <hi rendition="#aq">Invention
+          <lb/>componiret</hi> hat, in ſelbigen iſt das <hi rendition="#aq">Concerto V.</hi> aus obigem Ton, und eins der
+          <lb/>ſchoͤnſten. Einen <hi rendition="#aq">ſouverainen</hi> Fuͤrſten zu finden, der ein <hi rendition="#aq">Autor Muſicus</hi>, und <hi rendition="#aq">allegirt</hi>
+          <lb/>werden kan, iſt ſonſt eine Sache die nicht alle Tage auffstöſſet, der edlen <hi rendition="#aq">Muſique</hi>
+          <lb/>aber eine ſonderbare Avantage giebt. Siehe die Vorbereitung.
+          <quote>
+            <foreign xml:lang="lat">
+              Hanc Reges
+              <lb/>olim &amp; ſummi Principes didicere; hanc <hi rendition="#i">publice</hi> &amp; privatim exercuere
+            </foreign>
+          </quote>,
+          wie <hi rendition="#i"><persName corresp="#ed_rkl_p3j_vlb">Marcus Meibom.</persName> in
+          Dedic. <bibl corresp="#ed_cqx_yjj_vlb">antiqu. Muſ.</bibl> ad Reginam Chriſtinam</hi>
+          ſagt. <hi rendition="#aq"><abbr>Vid.</abbr> <persName corresp="#ed_vbj_1hj_vlb"><hi rendition="#i">Vival-
+          <lb/>di</hi> <name type="musicalWork" corresp="#ed_vbj_1hj_vlb">Opera Terza, Lib. II. Concerto ultimo del l'<hi rendition="#i">Eſtro Armonico.</hi></name></persName></hi>
+        </p>
       </div>
       </div>
     </body>

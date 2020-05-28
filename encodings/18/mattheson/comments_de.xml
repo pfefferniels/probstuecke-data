@@ -204,7 +204,8 @@
       <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/>Es hat der beruͤhmte <hi rendition="#b"><persName corresp="#ed_uyt_trx_qlb">Herr Telemann</persName></hi> ehemals ſechs Concerte herauſge-
+          <lb/>Es hat der beruͤhmte <hi rendition="#b"><persName corresp="#ed_uyt_trx_qlb">Herr Telemann</persName></hi> ehemals
+          <name type="musicalWork" ref="#ed_ilx_shj_vlb">ſechs Concerte</name> herauſge-
           <lb/>geben, und gar ſauber in Kupffer ſtechen laſſen, die der weiland Durchlauchtige
           <lb/><hi rendition="#b"><persName corresp="#ed_xxh_bgy_qlb">Printz Ernſt, von Sachſen-Weymar</persName></hi>, mit eigener Hand, und aus eigener
           <lb/>Erfindung geſetzet hat: in ſelbigen iſt das <hi rendition="#aq"><foreign xml:lang="ita">Concerto V.</foreign></hi> aus obigem Ton, und eins
