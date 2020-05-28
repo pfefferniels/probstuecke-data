@@ -173,6 +173,14 @@
                     <pubPlace>Hamburg</pubPlace>
                     <date>1719</date>
                 </bibl>
+                <bibl xml:id="ed_cqx_yjj_vlb">
+                    <author>
+                        <persName><surname>Meibom</surname><forename>Marcus</forename></persName>
+                    </author>
+                    <title>Antiquae musicae auctores septem</title>
+                    <pubPlace>Amstelodami</pubPlace>
+                    <date>1652</date>
+                </bibl>
                 <bibl xml:id="ed_m4n_mvb_5lb">
                     <author>
                         <persName><surname>Morhof</surname><forename>Daniel Georg</forename></persName>
