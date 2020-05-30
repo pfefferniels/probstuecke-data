@@ -172,7 +172,7 @@
                 </layer>
               </staff>
               <tempo staff="2" tstamp="1" place="above">Capriccio.</tempo>
-              <tempo staff="2" tstamp="1" place="below">
+              <tempo xml:id="presto-000" staff="2" tstamp="1" place="below">
                 <rend fontweight="normal" fontsize="small">Preſto.</rend>
               </tempo>
               <harm place="above" staff="2" tstamp="1.5">
@@ -531,7 +531,7 @@
                   </beam>
                 </layer>
               </staff>
-              <tempo place="below" startid="#m-188">
+              <tempo xml:id="presto-001" place="below" startid="#m-188">
                 <rend fontweight="normal" fontsize="small">preſto.</rend>
               </tempo>
               <harm place="above" staff="2" tstamp="2">
@@ -894,7 +894,7 @@
                   </beam>
                 </layer>
               </staff>
-              <tempo place="above" startid="#m-332">
+              <tempo xml:id="presto-002" place="above" startid="#m-332">
                 <rend fontweight="normal" fontsize="small">preſto.</rend>
               </tempo>
               <harm place="above" staff="2" startid="#m-335">
