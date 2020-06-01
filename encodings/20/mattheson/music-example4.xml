@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 20, Example 4</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,45 +14,49 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="ex-000214971520" isodate="2019-10-28T09:40:57" version="2.3.0-dev-3df101b">
-                    <name>Verovio</name>
-                    <p>Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="C" clef.line="1" key.sig="2s" />
+                            <staffDef n="1" lines="5" clef.shape="G" clef.line="1">
+                                <keySig sig="3s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-002136764270" n="34">
+                        <measure corresp="#measure-0000001822556232">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">
                                         <space dur="2" />
                                     </supplied>
-                                    <rest xml:id="ex-000028567568" dur="16" />
+                                    <rest xml:id="ex-000028567568" dur="16" oloc="5" ploc="a" />
                                     <beam>
-                                        <note xml:id="ex-002147275227" dur="16" oct="4" pname="b" />
-                                        <note xml:id="ex-001370000147" dur="16" oct="4" pname="f" accid.ges="s" />
-                                        <note xml:id="ex-000196961617" dur="16" oct="4" pname="b" />
+                                        <note xml:id="ex-002147275227" dur="16" oct="5" pname="b" />
+                                        <note xml:id="ex-001370000147" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-000196961617" dur="16" oct="5" pname="b" />
                                     </beam>
                                     <beam>
-                                        <note xml:id="ex-001682067957" dur="16" oct="4" pname="d">
-                                            <accid xml:id="ex-000443626025" accid="s" accid.ges="s" />
+                                        <note xml:id="ex-001682067957" dur="16" oct="5" pname="d">
+                                            <accid accid="s" />
                                         </note>
-                                        <note xml:id="ex-000308849797" dur="16" oct="4" pname="f" accid.ges="s" />
-                                        <note xml:id="ex-000160512071" dur="8" oct="3" pname="b" />
+                                        <note xml:id="ex-000308849797" dur="16" oct="5" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-000160512071" dur="8" oct="4" pname="b" />
                                     </beam>
                                 </layer>
                             </staff>

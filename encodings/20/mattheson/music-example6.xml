@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 20, Example 6</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,52 +14,58 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="ex-001871425528" isodate="2019-10-28T09:42:52" version="2.3.0-dev-3df101b">
-                    <name>Verovio</name>
-                    <p>Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="C" clef.line="1" key.sig="2s" />
-                            <staffDef n="2" lines="5" clef.shape="F" clef.line="3" key.sig="2s" />
+                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1">
+                                <keySig sig="2s" />
+                            </staffDef>
+                            <staffDef n="2" lines="5" clef.shape="F" clef.line="3">
+                                <keySig sig="2s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-001570447245" n="1">
+                        <measure corresp="#measure-0000000457500404">
                             <staff n="1">
                                 <layer>
                                     <space xml:id="ex-000352642876" dur="4" />
                                     <space xml:id="ex-000893190536" dur="4" />
-                                    <rest xml:id="ex-002100951847" dur="16" />
+                                    <rest xml:id="ex-002100951847" dur="16" oloc="5" ploc="d" />
                                     <beam>
-                                        <note xml:id="ex-001479160989" dur="16" oct="5" pname="d" stem.dir="down" />
-                                        <note xml:id="ex-000156472114" dur="16" oct="4" pname="b" stem.dir="down" />
-                                        <note xml:id="ex-001861600333" dur="16" oct="5" pname="d" stem.dir="down" />
+                                        <note xml:id="ex-001479160989" dur="16" oct="5" pname="d" />
+                                        <note xml:id="ex-000156472114" dur="16" oct="4" pname="b" />
+                                        <note xml:id="ex-001861600333" dur="16" oct="5" pname="d" />
                                     </beam>
                                     <beam>
-                                        <note xml:id="ex-001300692181" dur="16" oct="4" pname="g" stem.dir="down" />
-                                        <note xml:id="ex-000845942649" dur="16" oct="4" pname="b" stem.dir="down" />
-                                        <note xml:id="ex-000521237809" dur="16" oct="4" pname="e" stem.dir="down" />
-                                        <note xml:id="ex-001954788980" dur="16" oct="4" pname="g" stem.dir="down" />
+                                        <note xml:id="ex-001300692181" dur="16" oct="4" pname="g" />
+                                        <note xml:id="ex-000845942649" dur="16" oct="4" pname="b" />
+                                        <note xml:id="ex-000521237809" dur="16" oct="4" pname="e" />
+                                        <note xml:id="ex-001954788980" dur="16" oct="4" pname="g" />
                                     </beam>
                                 </layer>
                             </staff>
                             <staff n="2">
                                 <layer>
                                     <space xml:id="ex-001793545118" dur="2" />
-                                    <note xml:id="ex-000413724862" dur="4" oct="2" pname="g" stem.dir="up" />
-                                    <note xml:id="ex-001713630028" dur="4" oct="3" pname="g" stem.dir="down" />
+                                    <note xml:id="ex-000413724862" dur="4" oct="2" pname="g" />
+                                    <note xml:id="ex-001713630028" dur="4" oct="3" pname="g" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="4.0">
@@ -69,14 +75,14 @@
                             </harm>
                             <tie xml:id="ex-001078877846" startid="#ex-001713630028" endid="#ex-001517531065" />
                         </measure>
-                        <measure xml:id="ex-000607294325" n="2" right="invis" metcon="false">
+                        <measure corresp="#measure-0000002006850497" right="invis" metcon="false">
                             <staff n="1">
                                 <layer>
                                     <beam>
-                                        <note xml:id="ex-000743584254" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s" />
-                                        <note xml:id="ex-000814466664" dur="16" oct="3" pname="a" stem.dir="up" />
-                                        <note xml:id="ex-001455184557" dur="16" oct="4" pname="c" stem.dir="up" accid.ges="s" />
-                                        <note xml:id="ex-000202253440" dur="16" oct="4" pname="e" stem.dir="up" />
+                                        <note xml:id="ex-000743584254" dur="16" oct="4" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-000814466664" dur="16" oct="3" pname="a" />
+                                        <note xml:id="ex-001455184557" dur="16" oct="4" pname="c" accid.ges="s" />
+                                        <note xml:id="ex-000202253440" dur="16" oct="4" pname="e" />
                                     </beam>
                                     <custos oct="4" pname="a" />
                                     <space dur="8" />
@@ -85,8 +91,8 @@
                             </staff>
                             <staff n="2">
                                 <layer>
-                                    <note xml:id="ex-001517531065" dur="4" oct="3" pname="g" stem.dir="down" />
-                                    <custos oct="4" pname="f" />
+                                    <note xml:id="ex-001517531065" dur="4" oct="3" pname="g" />
+                                    <custos oct="3" pname="f" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">

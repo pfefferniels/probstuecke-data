@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 20, Example 1</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,34 +14,38 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="application-000712270920" isodate="2019-10-28T09:39:51" version="2.3.0-dev-3df101b">
-                    <name>Verovio</name>
-                    <p>Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="C" clef.line="1" key.sig="2s" />
+                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1">
+                                <keySig sig="2s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-000028921587" n="5">
+                        <measure corresp="#measure-0000001411700064">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">
                                         <space xml:id="ex-001107384863" dur="4" />
                                     </supplied>
-                                    <rest xml:id="ex-001617513048" dur="16" />
+                                    <rest xml:id="ex-001617513048" dur="16" oloc="5" ploc="f" />
                                     <beam>
                                         <note xml:id="ex-000120428843" dur="16" oct="5" pname="f" accid.ges="s" />
                                         <note xml:id="ex-001583856273" dur="16" oct="5" pname="c" accid.ges="s" />
@@ -57,7 +61,7 @@
                                         <note xml:id="ex-000172781380" dur="16" oct="4" pname="g" />
                                         <note xml:id="ex-000895928818" dur="16" oct="5" pname="e" />
                                         <note xml:id="ex-001909631707" dur="16" oct="4" pname="b" />
-                                        <app>
+                                        <app resp="#rettinghaus">
                                             <lem source="#secondEdition">
                                                 <note xml:id="ex-001148130017" dur="16" oct="5" pname="d" />
                                             </lem>
@@ -68,9 +72,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <dir place="below">Fünffter Tact.</dir>
+                            <dir place="below"><rend fontstyle="normal">Fünffter Tact.</rend></dir>
                         </measure>
-                        <measure xml:id="ex-002019113602" n="6" right="invis">
+                        <measure corresp="#measure-0000000264878814" right="invis">
                             <staff n="1">
                                 <layer>
                                     <beam>
