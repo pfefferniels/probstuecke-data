@@ -48,7 +48,6 @@
                         <measure metcon="false">
                             <staff n="1">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <note xml:id="ex-0231430992" dur="4" oct="4" pname="a" accid.ges="s" />
                                     <beam>
                                         <note xml:id="ex-0512445414" dur="16" oct="4" pname="g" accid.ges="s" />
@@ -59,7 +58,6 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <note xml:id="ex-0863912457" dur="4" oct="3" pname="d" accid.ges="s" />
                                     <note xml:id="ex-0912158176" dur="4" oct="3" pname="g" accid.ges="s" />
                                 </layer>
@@ -172,7 +170,7 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="3">
                                 <fb>
-                                    <f>#</f>
+                                    <f>♯</f>
                                 </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
@@ -201,7 +199,7 @@
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
                                 <fb>
-                                    <f>#</f>
+                                    <f>♯</f>
                                 </fb>
                             </harm>
                             <dir place="between" tstamp="2">
