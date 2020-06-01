@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 20, Example 7</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,29 +14,35 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="ex-000991224458" isodate="2019-10-28T09:43:25" version="2.3.0-dev-3df101b">
-                    <name>Verovio</name>
-                    <p>Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="C" clef.line="1" key.sig="2s" />
-                            <staffDef n="2" lines="5" clef.shape="F" clef.line="5" key.sig="2s" />
+                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1">
+                                <keySig sig="2s" />
+                            </staffDef>
+                            <staffDef n="2" lines="5" clef.shape="F" clef.line="5">
+                                <keySig sig="2s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-000724366583" n="1">
+                        <measure corresp="#measure-0000000251535457">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">
@@ -83,7 +89,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="ex-000192134298" n="2">
+                        <measure corresp="#measure-0000000654606177">
                             <staff n="1">
                                 <layer>
                                     <beam>
@@ -170,7 +176,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="ex-001431789831" n="3">
+                        <measure corresp="#measure-0000001007784262">
                             <staff n="1">
                                 <layer>
                                     <beam>
@@ -236,7 +242,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure xml:id="ex-000877647432" n="4" right="invis" metcon="false">
+                        <measure corresp="#measure-0000000301536239" right="invis" metcon="false">
                             <staff n="1">
                                 <layer>
                                     <beam>
