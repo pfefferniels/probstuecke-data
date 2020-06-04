@@ -91,8 +91,185 @@
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
       <div n="1">
+        <lb/><head>§. 1.</head>
+        <p xml:id="p1-1">
+          <lb/><hi rendition="#in">W</hi>Enn jener Bauer die dicke Milch mit der Miſt-Gabel iſſet, ſo braucht er
+          <lb/>ſich dabey des Sprichworts: <hi rendition="#b">Wer het dat, de lick dat.</hi> (<hi rendition="#aq">Verietas
+            <lb/>delectat</hi>), weil er ſie lange genug mit dem Löffel möchte gegeſſen haben. 
+          <lb/>Wir wollen dem guten lateiniſchen Haus-Mann ſein Gericht, zuſamt den verſchie-
+          <lb/>denen <hi rendition="#aq">Vehiculis</hi> gerne laſſen, und nur nach Maßgebug ſeines weiſen <hi rendition="#aq">Dicti</hi> hier 
+          <lb/>auch eine kleine Veränderung mit einer <hi rendition="#aq">diverti</hi>ſſanten <hi rendition="#aq">Pieçe</hi> machen, nachdem 
+          <lb/>wir vorhero eine ziuemliche Ecke in mühsamen Tonen zurück geleget haben. 
+        </p>
       </div>
+
+      <div n="2">
+        <lb/><head>§. 2.</head>
+        <p xml:id="p2-1">
+          <lb/>Ob man nun ſchon alles hierinn mit dem neun-achtel-Tact gantz wol haͤtte
+          <lb/>beſtellen, und nur ein <hi rendition="#aq">Allegro</hi> dabey ſetzen koͤnnen; ſo kan es doch nicht ſchaden, daß
+          <lb/>wir auch denen zu gafallen den neun-ſechszehntel herſetzen, die ihn vielleicht nim-
+          <lb/>mer, oder doch ſelten, geſehen haben, und ſich dannenhero, wenn er ihnen einmahl
+          <lb/>unvermuthet begegnen ſolte, ein wenig fuͤrchten moͤchten. Es heiſſet zwar:
+          <hi rendition="#aq">
+            <quote>
+              Entia
+              <lb/>non ſunt multiplicanda praeter neceſſitatem,
+            </quote>
+            <lb/>
+          </hi>
+          <note type="editorial" resp="#pfeffer">
+            Eine bekannte Formulierung Ockhams Rasiermesserprinzips von <persName>Johann Clauberg</persName>.
+          </note>
+          und mag jener alte erfahrne <hi rendition="#aq">Muſicus</hi>
+          <lb/>nicht unrecht geſagt haben: 
+          <hi rendition="#aq">
+            <quote>
+              Summa eſt dementia, cantionem, quae ſimplicibus
+              <lb/>Notis ſcribi poteſt, obſcuris ſignis perplexare;
+            </quote>
+          </hi>
+          wie ſolches der <placeName>Schwäbisch-Hälli-
+          <lb/>ſche</placeName> <hi rendition="#aq">Cantor</hi>, <persName corresp="#ed_esw_kxx_qlb">Herr <hi rendition="#aq #i">Majer</hi></persName>,
+          in ſeinem jüngſt herausgegebenen <hi rendition="#aq"><bibl corresp="#ed_tyg_hdl_tlb">Hodego Muſico</bibl></hi>, p. 28
+          <lb/>klüglich anführet.
+          <note type="editorial" resp="#pfeffer">
+            Diese Schrift ist verschollen. Tatsächlich findet sich das Zitat aber wortgleich 
+            schon in <persName>Joachim Burmeisters</persName> <bibl>Musica autoschediastike</bibl>.
+          </note>
+          Allein, erſtlich muß man, um geſchwinde Sachen recht zu <hi rendition="#aq">ex-</hi>
+          
+          <fw type="catch" place="bottom">
+            <hi rendition="#aq">pri</hi>
+          </fw>
+          <pb n="171" facs="#facs-p349"/>
+          <hi rendition="#aq">primi</hi>ren, auch geſchwinde Taͤcte und geſchwinde Noten gebrauchen. (2) Muß
+          <lb/>man der Mode in gewiſſen Stuͤcken nicht absagen, und (3) werden hier keine <hi rendition="#aq">Signa 
+          <lb/>obſcura</hi> vorkommen. Was ſonſt der Löw in <hi rendition="#b"><bibl corresp="#ed_h12_cdh_xlb">Petersquentz</bibl></hi> (einer närriſchen Co-
+          <lb/>medie) von ſich selber meldet: <hi rendition="#b"><quote>Jhr lieben Leut erſchreckt euch nicht, ich bin 
+          <lb/>kein rechter Löw;</quote></hi> ſolches kann zwar durchgehends von dieser <hi rendition="#b">Organiſten-
+          <lb/>Probe</hi>, inſonderheit aber von etlichen bunten Bäſſen, die doch nicht gefährlich ſind,
+          <lb/>ſo wie dieser deren einer iſt, mit Fug gemeldet werden.
+        </p>
       </div>
+
+      <div n="3">
+        <lb/><head>§. 3.</head>
+        <p xml:id="p3-1">
+          <hi rendition="#aq">Raillerie</hi> aber <hi rendition="#aq">à part</hi>! der <ref target="#measure-0000001263987989">elffte Tact</ref> muß doch was zu bedeuten haben,
+          <lb/>weil der Baß daſelbst ſtille ſteht; Getroffen. Es ſoll etwas unterdeſſen in der rech-
+          <lb/>ten Hand vorgehen, etwann auf dieſe <hi rendition="#aq">Imitations</hi>-Art:
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+          Welches man ſich bey dem
+          <ref target="#measure-0000000401264624">dreyzehnten</ref>
+          auch wolle geſagt ſeyn laſſen.
+        </p>
+      </div>
+
+      <div n="4">
+        <lb/><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb/>Vom
+          <ref target="#measure-0000000398572267">neunzehnten Tact</ref>
+          bis an die
+          <ref target="#measure-0000000135352827">erste <hi rendition="#aq">Repriſe</hi></ref>
+          weiſet auch ſchon der Baß
+          <lb/>aus, daß ſich die rechte Hand seine vorhergehende <hi rendition="#aq">Paſſagen</hi> ſehr wohl zu Nutzen
+          <lb/>kan, wovon viel Worte nur unnoͤthig. <hi rendition="#aq"><foreign xml:lang="lat">Spaienti ſat.</foreign></hi>
+        </p>
+      </div>
+
+      <div n="5">
+        <lb/><head>§. 5.</head>
+        <p xml:id="p5-1">
+          <lb/>Da nun im
+          <ref target="#measure-0000000720476607">achten Tact des andern Theils</ref>
+          der Baß wiederum zu erkennen
+          <lb/>giebt, daß er gern abgeloͤset ſeyn moͤchte, ſo wird man ſeine rechte Hand abermahl
+          <lb/>zu einer kleinen <hi rendition="#aq">Syncopation</hi> bequemen muͤſſen. Damit dieſelbe aber nicht allezeit
+          <lb/>auf einerley Weiſe geſchehe, ſo kan der eine Tact von unten an ſeine Arbeit, der an-
+          <lb/>dere aber dieſelbe von oben machen, und damit Tact-Weiſe <hi rendition="#aq">alterni</hi>rt werden, (wie
+          <lb/>hernach der Baß ſelber thut), welches aus beyſtehendem wenigen deutlicher zu ſehe&#x0303; iſt:
+          <notatedMusic xml:id="music-example2">
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+      
+      <fw place="bottom" type="catch">Der</fw>
+      <pb n="172" facs="#facs-p350"/>
+
+      <div n="6">
+        <lb/><head>§. 6.</head>
+        <p xml:id="p6-2">
+          <lb/><ref target="#measure-0000001692641009">Der zehnte</ref> und
+          <ref target="#measure-0000000980772493">elfte Tact</ref>
+          koͤnnen nach vorhergehender Anleitung abgefer-
+          <lb/>tiget werden; bey dem
+          <ref target="#measure-0000000813644631">zwoͤlfften</ref> aber
+          muß man ſich, und ſo durchgehends bey al-
+          <lb/>len Accorten, vorsehen, erſtlich, daß des <hi rendition="#aq">Intervallum</hi> keine Tertie mache, welche zur
+          <lb/><hi rendition="#aq">Syncopation</hi> zu enge iſt, (wie oben ſchon angemercket worden) Vors andere, daß
+          <lb/>die <hi rendition="#aq">Trias Harmonica</hi> vor allen Dingen vollenkommen ſey, da es denn nicht anders
+          <lb/>folgen kan, wenn dieſe beyde Stuͤcke beobachtet werden, als daß von unten die
+          <lb/><hi rendition="#aq">Syncopation</hi> jederzeit bey Accorten in die Quinte, von oben aber in die <hi rendition="#aq">Tertie</hi>
+          <lb/>anhebe, welches man ſonſt <hi rendition="#aq">Syzygiam remotam</hi> zu nennen pflegt. Kom-
+          <lb/>men aber zwey Accorten <hi rendition="#aq">gradatim</hi> auf einander, es ſey  im Auff- oder Nieder-
+          <lb/>steigen, und man wolte denn beydes mahl in der Quinte anfangen, ſo kaͤmen Fehler
+          <lb/>heraus. Derowegen muß die <hi rendition="#aq">Alternation</hi> vorbeſchriebener maſſen das Mittel ſeyn,
+          <lb/>Fehler zu verhüten. Obgleich in dieſem <hi rendition="#aq">Pieçe</hi> keine zwey Accorte <hi rendition="#aq">immediate</hi> und
+          <lb/><hi rendition="#aq">gradatim</hi> auf einander folgen, ſo will ich doch den <hi rendition="#aq">Caſum</hi> herſetzen, dadurch zugleich
+          <lb/>abermahl erlaͤutert werde, was in der Quint oder Tertie anfangen oder <hi rendition="#aq">alterni-
+          <lb/>ren</hi> heiſſe.
+        </p>
+        <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
+          <ptr target="music-example3.xml"/>
+        </notatedMusic>
+        <p>
+          <lb/><hi rendition="#aq"><abbr>NB.</abbr></hi> Wenn, wie im <ref target="#measure-0000000663286333">dreyzehnten</ref> und
+          <ref target="#measure-0000000999021806">vierzehnten Tact</ref>, der Baß eine ſol-
+          <lb/>che <hi rendition="#aq">Clauſul</hi> hat, die durch zwey Taͤcte, woraus sie bestehet, <hi rendition="#aq">repeti</hi>ret wird; als dann
+          <lb/>muß die <hi rendition="#aq">Alternation</hi> nicht Tact-weiſe, sondern je zwey und zwey Taͤcte, oder durch
+          <lb/>mehr geſchehen, wenn ſich eine <hi rendition="#aq">Clauſul</hi> uͤber mehr erſtrecket. Jm
+          <ref target="#measure-0000000815808309">ſieben und zwan-
+          <lb/>tzigſten Tact</ref> gibt es zwey Accorte Sprung-weiſe nach einander, woſelbst <hi rendition="#aq">alternirt</hi>
+          <lb/>werden muß.
+        </p>
+      </div>
+
+      <div n="7">
+        <lb/><head>§. 7.</head>
+        <p xml:id="p7-1">
+          <lb/>Vom
+          <ref target="#measure-0000000815808309">acht und zwantzigſten Tact</ref> an biß zu Ende moͤgen beyde Haͤnde
+          <lb/><hi rendition="#aq">egalement</hi> ihre <hi rendition="#aq">Syncopation</hi> zuſammen fuͤhren, welches einen gar artigen <hi rendition="#aq">Effect</hi>
+          <fw type="catch" place="bottom">thut,</fw>
+          <pb n="173" facs="#facs-p351"/>
+          
+          <lb/>thut, dafern nur am rechten Ort angefangen wird. Solches geſchiehet auf fol-
+          <lb/>gende Weiſe, da die letzten acht Taͤcte gaͤntzlich <hi rendition="#aq">specifici</hi>ret ſind:
+        </p>
+        <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
+          <ptr target="music-example4.xml"/>
+        </notatedMusic>
+      </div>
+
+      <div n="9">
+        <head>§. 9.</head>
+        <p xml:id="p9-1" facs="#facsZone-p9-1">
+          Dieses <hi rendition="#aq">Harpeggio</hi>, ob es gleich nur zweyſtimmig auſſiehet, iſt dennoch im Grun-
+          <lb/>de vierſtimmig, und klingt bey der Geſchwidigkeit ſo voll, als ſonſt acht Stim-
+          <lb/>men bey geraden oder ſchlechten Griffen nicht thun koͤnnen; Man brige es aber
+          <lb/>
+          <choice resp="#pfeffer">
+            <sic>nirgen dan</sic>
+            <corr>nirgend an</corr>
+          </choice>, als wo der Baß entweder allein, oder zu einem ſtarcken Satz ſpielet.
+        </p>
+      </div>
+    </div>
     </body>
   </text>
 </TEI>

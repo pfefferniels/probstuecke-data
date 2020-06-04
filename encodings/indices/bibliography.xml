@@ -80,6 +80,13 @@
                     <pubPlace>Venetiis</pubPlace>
                     <date>1529</date>
                 </bibl>
+                <bibl xml:id="ed_h12_cdh_xlb">
+                    <author>
+                        <persName><surname>Gryphius</surname><forename>Andreas</forename></persName>
+                    </author>
+                    <title>Absurda Comica. Oder Herr Peter Squentz, Schimpff-Spiel</title>
+                    <date>1658</date>
+                </bibl>
                 <bibl xml:id="ed_bxt_bpt_tlb">
                     <author>
                         <persName><surname>Hancke</surname><forename>Gottfried Benjamin</forename></persName>
