@@ -4,7 +4,7 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>Prob-Stück 20, Example 3</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,28 +14,32 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
         </fileDesc>
-        <encodingDesc>
-            <appInfo>
-                <application xml:id="ex-001095172590" isodate="2019-10-28T09:40:24" version="2.3.0-dev-3df101b">
-                    <name>Verovio</name>
-                    <p>Transcoded from MusicXML</p>
-                </application>
-            </appInfo>
-        </encodingDesc>
     </meiHead>
     <music>
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" label="Mattheson's annotations" clef.shape="C" clef.line="1" key.sig="1s" />
+                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1">
+                                <keySig sig="1s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="ex-000835361284" n="25" corresp="#measure-0000001923958404">
+                        <measure corresp="#measure-0000001923958404">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">
@@ -64,7 +68,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="ex-000029608764" n="26" right="invis" metcon="false" corresp="#measure-0000001641381018">
+                        <measure metcon="false" corresp="#measure-0000001641381018" right="invis">
                             <staff n="1">
                                 <layer>
                                     <beam>

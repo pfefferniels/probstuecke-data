@@ -5,6 +5,7 @@
         <fileDesc>
             <titleStmt>
                 <title></title>
+                <title>Prob-Stück 22, Example 2</title>
                 <composer>
                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
                 </composer>
@@ -14,14 +15,16 @@
                     <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
                 </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition>
-                    First draft,
-                    <date>2019</date>
-                </edition>
-            </editionStmt>
             <pubStmt>
-                <unpub />
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2019</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
             </pubStmt>
         </fileDesc>
     </meiHead>
@@ -45,7 +48,6 @@
                         <measure metcon="false">
                             <staff n="1">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <note xml:id="ex-0231430992" dur="4" oct="4" pname="a" accid.ges="s" />
                                     <beam>
                                         <note xml:id="ex-0512445414" dur="16" oct="4" pname="g" accid.ges="s" />
@@ -56,7 +58,6 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <space dur="2" />
                                     <note xml:id="ex-0863912457" dur="4" oct="3" pname="d" accid.ges="s" />
                                     <note xml:id="ex-0912158176" dur="4" oct="3" pname="g" accid.ges="s" />
                                 </layer>
@@ -169,7 +170,7 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="3">
                                 <fb>
-                                    <f>#</f>
+                                    <f>♯</f>
                                 </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
@@ -198,7 +199,7 @@
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
                                 <fb>
-                                    <f>#</f>
+                                    <f>♯</f>
                                 </fb>
                             </harm>
                             <dir place="between" tstamp="2">
