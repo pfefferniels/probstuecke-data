@@ -191,8 +191,12 @@
               <bibl corresp="#ed_i1b_lfl_tlb">Don. de Præst. Vet. Music, pag. III.</bibl>
             </hi>
           </note>
+          <note type="editorial" resp="#pfeffer">
+            Doni bezieht sich hier auf das sogenannte collegium tibicinum, eine Musikergenossenschaft im antiken Rom.
+          </note>
           <quote type="translation" xml:id="donius-translation" corresp="#donius-quote">
-            von den <orgName>Roͤmischen Kunſt-Pfeiffern</orgName> und ihrer Unerfahrenheit, alſo:
+            von den <orgName>Roͤmischen Kunſt-Pfeiffern</orgName>
+            und ihrer Unerfahrenheit, alſo:
             <hi rendition="#b">
               Jch habe mich deſto weniger verwundert, daß es bey ihnen gebraͤuchlich ſey, den
               Tact mit den Fuͤſſen zu fuͤhren: denn, wenn ſolches nicht geſchaͤhe, wuͤrden ſie
