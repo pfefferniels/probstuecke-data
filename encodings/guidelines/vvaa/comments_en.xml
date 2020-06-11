@@ -53,9 +53,15 @@
         <p>
           Original double bar lines at the end of a piece are adapted to the modern practice.
         </p>
+        
+        <p>
+          Original stem directions are not explicitly encoded.
+        </p>
 
         <p>
-          Obvious and clear mistakes are corrected.
+          When clear mistakes occur in the original print, both, the original as well as a correction
+          should be encoded, using a <tag>sic</tag> and a <tag>corr</tag> element enclosed in a 
+          <tag>choice</tag> element. The <tag>corr</tag> element should contain a <code>@resp</code> attribute. 
         </p>
 
         <p>
