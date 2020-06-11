@@ -45,9 +45,9 @@
         </p>
 
         <p>
-          Accidentals in the source that may be omitted in modern scores are enclosed in an <code>&lt;orig&gt;</code> element.
-          Accidentals that are missing for a modern score are enclosed in a <code>&lt;reg&gt;</code> element, which itself is
-          contained within a <code>&lt;supplied&gt;</code>.
+          Accidentals in the source that may be omitted in modern scores are enclosed in an <tag>orig</tag> element.
+          Accidentals that are missing for a modern score are enclosed in a <tag>reg</tag> element, which itself is
+          contained within a <tag>supplied</tag>.
         </p>
 
         <p>
@@ -59,7 +59,7 @@
         </p>
 
         <p>
-          In general, editorial additions are marked as <code>&lt;supplied&gt;</code>, where the <code>@resp</code> attribute
+          In general, editorial additions are marked as <tag>supplied</tag>, where the <code>@resp</code> attribute
           should be used to indicate the responsible editor.
         </p>
       </div>
@@ -78,7 +78,7 @@
 
         <p>
           All line breaks and page breaks are preserved (this is not yet encoded in all documents). Following the
-          TEI Guidelines, <code>&lt;lb&gt;</code> elements encode the beginning of a line, not line breaks, as specified by
+          TEI Guidelines, <tag>lb</tag> elements encode the beginning of a line, not line breaks, as specified by
           the <hi rend="italic">DTABf</hi>.
         </p>
 
@@ -87,13 +87,13 @@
         </p>
 
         <p>
-          Editorial notes (<code>&lt;note&gt;</code>) should indicate the responsible editor using the <code>@resp</code> attribute.
+          Editorial notes (<tag>note</tag>) should indicate the responsible editor using the <code>@resp</code> attribute.
         </p>
 
         <p>
-          To encode musical examples in the the text, the element <code>&lt;notatedMusic&gt;</code> is allowed within paragraphs (<code>&lt;p&gt;</code>).
-          <code>&lt;notatedMusic&gt;</code> must contain a <code>&lt;ptr&gt;</code> linking to the corresponding MEI encoding.
-          
+          To encode musical examples in the the text, the element <tag>notatedMusic</tag> is allowed within paragraphs (<tag>p</tag>).
+          <tag>notatedMusic</tag> must contain a <tag>ptr</tag> linking to the corresponding MEI encoding.
+
           <egXML xmlns="http://www.tei-c.org/ns/Examples">
             <notatedMusic xml:id="music-example1" facs="#[corresponding zone in the facsimile]">
               <ptr target="music-example1.xml"/>
@@ -102,7 +102,7 @@
         </p>
 
         <p>
-          When the text is referencing a particular measure, note, clef etc. of the score, a <code>&lt;ref&gt;</code>
+          When the text is referencing a particular measure, note, clef etc. of the score, a <tag>ref</tag>
           element should be used, with the <code>@target</code> attribute pointing to the corresponding element(s) of the score.
         </p>
       </div>
