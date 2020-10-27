@@ -183,7 +183,7 @@
                   </beam>
                 </layer>
               </staff>
-              <tempo place="above" tstamp="1">Allegro.</tempo>
+              <tempo place="above" staff="1" tstamp="1">Allegro.</tempo>
             </measure>
             <measure xml:id="m-50" label="1" n="1">
               <staff xml:id="m-51" n="1">
