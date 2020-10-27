@@ -597,39 +597,39 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-215">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-218">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-220">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-223">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-225">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-228">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-235">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -670,18 +670,18 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-244">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-249">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-256">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -790,7 +790,7 @@
                   <note xml:id="m-306" dur="4" oct="3" pname="e" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-306">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>7</f>
                   <f>♯</f>
@@ -817,12 +817,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-312">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-316">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -842,7 +842,7 @@
                   <note xml:id="m-325" dur="4" oct="2" pname="e" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-324">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -897,32 +897,32 @@
               <tempo xml:id="presto-002" place="above" startid="#m-332">
                 <rend fontweight="normal" fontsize="small">preſto.</rend>
               </tempo>
-              <harm place="above" staff="2" startid="#m-335">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-337">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-340">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-347">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-349">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-352">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -966,22 +966,22 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-363">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-365">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-374">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-376">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1035,12 +1035,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-401">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-411">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1091,18 +1091,18 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-438">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-440">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-443">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1131,23 +1131,23 @@
                   <note xml:id="m-460" dur="2" oct="3" pname="a" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-450">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-453">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-455">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-458">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1171,12 +1171,12 @@
               <tempo place="above" startid="#m-466">
                 <rend fontweight="normal" fontsize="small">adagio.</rend>
               </tempo>
-              <harm place="above" staff="2" startid="#m-466">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-468">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1202,17 +1202,17 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-473">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-476">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-478">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1254,22 +1254,22 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-486">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-489">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-493">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-496">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1344,7 +1344,7 @@
                 </lem>
                 <rdg source="#firstEdition"></rdg>
               </app>
-              <harm place="above" staff="2" startid="#m-515">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1366,12 +1366,12 @@
                   <note xml:id="m-528" dur="4" oct="3" pname="g" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-524">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-527">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1405,12 +1405,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-538">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-542">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1428,10 +1428,16 @@
                   <note xml:id="m-550" dur="2" oct="2" pname="e" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-549">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
-                  <f>4 ♯</f>
+                  <f>4</f>
+                </fb>
+              </harm>
+              <harm place="above" staff="2" tstamp="2.0">
+                <fb>
+                  <f></f>
+                  <f>♯</f>
                 </fb>
               </harm>
             </measure>
@@ -1474,23 +1480,23 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-560">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-564">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-567">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-569">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♯</f>
                 </fb>
@@ -1537,22 +1543,22 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-591">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-595">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-600">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-607">
+              <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1600,38 +1606,38 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-620">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-625">
+              <harm place="above" staff="2" tstamp="1.5">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-627">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-630">
+              <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-632">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-637">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>6</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" startid="#m-644">
+              <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>6</f>
                 </fb>
