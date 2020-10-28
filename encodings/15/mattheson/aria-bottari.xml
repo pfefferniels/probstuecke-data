@@ -37,8 +37,14 @@
                             <rend fontstyle="italic">Domenico Bottari</rend>.</rend>
                         </pgHead>
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="1f" meter.sym="cut" meter.count="4" meter.unit="4" n="1" lines="5" />
-                            <staffDef clef.shape="F" clef.line="4" key.sig="1f" meter.sym="cut" meter.count="4" meter.unit="4" n="2" lines="5" />
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="1f" />
+                                <meterSig count="4" unit="4" sym="cut"/>
+                            </staffDef>
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                                <keySig sig="1f" />
+                                <meterSig count="4" unit="4" sym="cut"/>
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
