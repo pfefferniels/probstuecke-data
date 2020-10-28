@@ -186,11 +186,13 @@
               <rend halign="center" fontsize="large">Achtzehntes Prob-Stück.</rend>
             </pgHead>
             <staffGrp>
-              <staffDef type="embeddedAnnotation" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="3" meter.unit="8">
+              <staffDef type="embeddedAnnotation" n="1" lines="5" clef.shape="G" clef.line="2">
                 <keySig sig="4s"/>
+                <meterSig count="3" unit="8" />
               </staffDef>
-              <staffDef n="2" lines="5" clef.shape="F" clef.line="4" meter.count="3" meter.unit="8">
+              <staffDef n="2" lines="5" clef.shape="F" clef.line="4">
                 <keySig sig="4s"/>
+                <meterSig count="3" unit="8" />
               </staffDef>
             </staffGrp>
           </scoreDef>
