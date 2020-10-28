@@ -200,12 +200,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -240,12 +240,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -280,12 +280,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -348,12 +348,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -417,12 +417,12 @@
                 </layer>
               </staff>
               <tie startid="#note-1769775861" endid="#note-1881082125" />
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -488,12 +488,12 @@
                 </layer>
               </staff>
               <tie startid="#note-1193092165" endid="#note-0802666718" />
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -592,7 +592,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -645,13 +645,13 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>5</f>
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>3</f>
                 </fb>
@@ -686,7 +686,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -721,12 +721,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -761,12 +761,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -800,7 +800,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -833,7 +833,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -868,7 +868,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -904,12 +904,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -945,19 +945,19 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>5</f>
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>3</f>
                 </fb>
@@ -990,12 +990,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -1024,7 +1024,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
@@ -1045,17 +1045,17 @@
                   <note xml:id="note-0000001261352600" dur="2" oct="2" pname="e" accid.ges="f"/>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>3</f>
                 </fb>
               </harm>
-              <fermata tstamp="4" place="below"/>
+              <fermata tstamp="4.0" place="below"/>
             </measure>
           </section>
           <section>
@@ -1118,12 +1118,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1189,12 +1189,12 @@
                 </layer>
               </staff>
               <tie startid="#note-1769775861-2" endid="#note-1881082125-2" />
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1248,13 +1248,13 @@
                         </beam>
                     </layer>
                 </staff>
-                  <harm place="above" staff="2" tstamp="2">
+                  <harm place="above" staff="2" tstamp="2.0">
                       <fb>
                           <f>6</f>
                           <f>4</f>
                       </fb>
                   </harm>
-                  <harm place="above" staff="2" tstamp="3">
+                  <harm place="above" staff="2" tstamp="3.0">
                       <fb>
                           <f>6</f>
                       </fb>
@@ -1316,12 +1316,12 @@
                         </beam>
                     </layer>
                 </staff>
-                  <harm place="above" staff="2" tstamp="2">
+                  <harm place="above" staff="2" tstamp="2.0">
                       <fb>
                           <f>6</f>
                       </fb>
                   </harm>
-                  <harm place="above" staff="2" tstamp="3">
+                  <harm place="above" staff="2" tstamp="3.0">
                       <fb>
                           <f>6⃥</f>
                       </fb>
@@ -1358,12 +1358,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1404,12 +1404,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>♮</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4+</f>
@@ -1446,17 +1446,17 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1495,12 +1495,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>5♭</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1554,7 +1554,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
@@ -1614,7 +1614,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
@@ -1667,7 +1667,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -1728,7 +1728,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
@@ -1796,12 +1796,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -1835,7 +1835,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -1871,12 +1871,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -1915,12 +1915,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -1957,12 +1957,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -2028,12 +2028,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>5</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -2104,12 +2104,12 @@
                 </layer>
               </staff>
               <tie startid="#embedded-000" endid="#embedded-001"/>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2175,12 +2175,12 @@
                 </layer>
               </staff>
               <tie startid="#embedded-002" endid="#embedded-003"/>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2232,7 +2232,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -2284,7 +2284,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -2344,13 +2344,13 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>5</f>
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -2385,7 +2385,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -2414,7 +2414,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -2442,7 +2442,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>4+</f>
@@ -2474,12 +2474,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -2512,7 +2512,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -2538,7 +2538,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
@@ -2593,7 +2593,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>5</f>
@@ -2628,12 +2628,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
@@ -2670,12 +2670,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -2712,12 +2712,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6⃥</f>
                 </fb>
@@ -2752,7 +2752,7 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2795,12 +2795,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>2</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2837,12 +2837,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>♮2</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2868,12 +2868,12 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>2</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2901,14 +2901,14 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>6</f>
                   <f>4+</f>
                   <f>2</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2939,19 +2939,19 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1">
+              <harm place="above" staff="2" tstamp="1.0">
                 <fb>
                   <f>♮</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2.250000">
+              <harm place="above" staff="2" tstamp="2.25">
                 <fb>
                   <f>6</f>
                   <f>4+</f>
                   <f>2</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2983,18 +2983,18 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="2">
+              <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3">
+              <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3.500000">
+              <harm place="above" staff="2" tstamp="3.5">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -3011,7 +3011,7 @@
                   <note xml:id="note-0000000888204271" dots="1" dur="2" oct="2" pname="b" accid.ges="f"/>
                 </layer>
               </staff>
-              <dir place="within" staff="2" tstamp="4">
+              <dir place="within" staff="2" tstamp="4.0">
                 <rend fontstyle="normal">Da Capo.</rend>
               </dir>
             </measure>
