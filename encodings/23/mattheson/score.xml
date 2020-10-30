@@ -61,6 +61,14 @@
     </encodingDesc>
   </meiHead>
   <music>
+    <facsimile decls="#firstEdition">
+      <surface ulx="0" uly="0" lry="2378" lrx="1959" xml:id="facs-p450">
+        <graphic width="1959" height="2378" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/452" />
+      </surface>
+      <surface ulx="0" uly="0" lry="2345" lrx="1990" xml:id="facs-p451">
+        <graphic width="1990" height="2345" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/453" />
+      </surface>
+    </facsimile>
     <body>
       <mdiv>
         <score>

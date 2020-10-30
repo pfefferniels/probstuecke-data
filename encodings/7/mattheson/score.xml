@@ -61,11 +61,11 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="1926" lrx="1579" xml:id="facs-p298">
-        <graphic width="1579" height="1926" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/298"/>
+      <surface ulx="0" uly="0" lry="2363" lrx="1959" xml:id="facs-p308">
+        <graphic width="1959" height="2363" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/308"/>
       </surface>
-      <surface ulx="0" uly="0" lry="1916" lrx="1579" xml:id="facs-p299">
-        <graphic width="1579" height="1916" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/299"/>
+      <surface ulx="0" uly="0" lry="2369" lrx="1952" xml:id="facs-p309">
+        <graphic width="1952" height="2369" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/309"/>
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
@@ -144,7 +144,7 @@
             </staffGrp>
           </scoreDef>
           <section>
-            <pb source="#firstEdition" n="134" facs="#facs-p298"/>
+            <pb source="#firstEdition" n="134" facs="#facs-p308"/>
             <pb source="#secondEdition" n="336" facs="#facs-p420"/>
             <measure xml:id="measure-0000001609393942" metcon="false">
               <staff n="1">
@@ -925,7 +925,7 @@
                 </fb>
               </harm>
             </measure>
-            <pb source="#firstEdition" n="135" facs="#facs-p299"/>
+            <pb source="#firstEdition" n="135" facs="#facs-p309"/>
             <pb source="#secondEdition" n="337" facs="#facs-p421"/>
             <measure xml:id="measure-0000001338299755" n="20">
               <staff n="1">

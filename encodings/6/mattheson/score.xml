@@ -60,14 +60,14 @@
     </meiHead>
     <music>
       <facsimile decls="#firstEdition">
-        <surface ulx="0" uly="0" lry="1882" lrx="1579" xml:id="facs-p294">
-          <graphic width="1579" height="1882" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/294"/>
+        <surface ulx="0" uly="0" lry="2337" lrx="1963" xml:id="facs-p304">
+          <graphic width="1963" height="2337" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/304"/>
         </surface>
-        <surface ulx="0" uly="0" lry="1884" lrx="1579" xml:id="facs-p295">
-          <graphic width="1579" height="1884" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/295"/>
+        <surface ulx="0" uly="0" lry="2365" lrx="1978" xml:id="facs-p305">
+          <graphic width="1978" height="2365" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/305"/>
         </surface>
-        <surface ulx="0" uly="0" lry="1888" lrx="1579" xml:id="facs-p296">
-          <graphic width="1579" height="1888" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/296"/>
+        <surface ulx="0" uly="0" lry="2367" lrx="1976" xml:id="facs-p306">
+          <graphic width="1976" height="2367" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/306"/>
         </surface>
       </facsimile>
       <facsimile decls="#secondEdition">
@@ -167,7 +167,7 @@
               </staffGrp>
             </scoreDef>
             <section>
-              <pb n="130" source="#firstEdition" facs="#facs-p294"/>
+              <pb n="130" source="#firstEdition" facs="#facs-p304"/>
               <pb n="330" source="#secondEdition" facs="#facs-p414"/>
               <measure xml:id="m-41" label="1" n="1">
                 <staff n="1">
@@ -706,7 +706,7 @@
                   <layer n="1">
                     <clef shape="F" line="4"/>
                     <pb n="331" source="#secondEdition" facs="#facs-p415"/>
-                    <pb n="131" source="#firstEdition" facs="#facs-p295"/>
+                    <pb n="131" source="#firstEdition" facs="#facs-p305"/>
                     <beam>
                       <note xml:id="m-433" dur="16" oct="3" pname="e"/>
                       <note xml:id="m-435" dur="16" oct="4" pname="c"/>
@@ -1870,7 +1870,7 @@
                 </harm>
               </measure>
               <pb n="332" source="#secondEdition" facs="#facs-p416"/>
-              <pb n="132" source="#firstEdition" facs="#facs-p296"/>
+              <pb n="132" source="#firstEdition" facs="#facs-p306"/>
               <measure xml:id="m-1265" n="41">
                 <staff xml:id="m-1266" n="1">
                   <layer n="1">
