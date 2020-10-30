@@ -61,11 +61,11 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="1937" lrx="1579" xml:id="facs-p358">
-        <graphic width="1579" height="1937" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/358" />
+      <surface ulx="0" uly="0" lry="2380" lrx="1940" xml:id="facs-p396">
+        <graphic width="1940" height="2380" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/396" />
       </surface>
-      <surface ulx="0" uly="0" lry="1899" lrx="1579" xml:id="facs-p359">
-        <graphic width="1579" height="1899" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/359" />
+      <surface ulx="0" uly="0" lry="2369" lrx="1970" xml:id="facs-p397">
+        <graphic width="1970" height="2369" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/397" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
@@ -187,7 +187,7 @@
           </scoreDef>
           <section>
             <pb n="382" source="#secondEdition" facs="#facs-p466"/>
-            <pb n="174" source="#firstEdition" facs="#facs-p358"/>
+            <pb n="174" source="#firstEdition" facs="#facs-p396"/>
             <measure xml:id="measure-0000000308092062" metcon="false">
               <staff xml:id="staff-0000000951353407" n="1">
                 <layer n="1">
@@ -1978,7 +1978,7 @@
                 <layer n="1">
                   <clef shape="F" line="4"/>
                   <beam>
-                    <note xml:id="note-0000002094247359" dur="16" oct="3" pname="a" accid.ges="f"/>
+                    <note xml:id="note-0000002094247397" dur="16" oct="3" pname="a" accid.ges="f"/>
                     <note xml:id="note-0000001068270752" dur="16" oct="4" pname="c"/>
                     <note xml:id="note-0000000158153108" dur="16" oct="3" pname="b" accid.ges="f"/>
                     <note xml:id="note-0000001235739153" dur="16" oct="3" pname="a" accid.ges="f"/>

@@ -61,11 +61,11 @@
     </meiHead>
     <music>
         <facsimile decls="#firstEdition">
-            <surface ulx="0" uly="0" lrx="1579" lry="1883" xml:id="facs-p280">
-                <graphic width="1579" height="1883" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/280"/>
+            <surface ulx="0" uly="0" lrx="1987" lry="2370" xml:id="facs-p290">
+                <graphic width="1987" height="2370" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/290"/>
             </surface>
-            <surface ulx="0" uly="0" lrx="1579" lry="1889" xml:id="facs-p281">
-                <graphic width="1579" height="1889" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/281"/>
+            <surface ulx="0" uly="0" lrx="1976" lry="2364" xml:id="facs-p291">
+                <graphic width="1976" height="2364" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/291"/>
             </surface>
         </facsimile>
         <facsimile decls="#secondEdition">
@@ -148,7 +148,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <pb n="116" source="#firstEdition" facs="#facs-p280"/>
+                        <pb n="116" source="#firstEdition" facs="#facs-p290"/>
                         <pb n="316" source="#secondEdition" facs="#facs-p400"/>
                         <measure xml:id="m-35" label="1" n="1">
                             <staff n="1">
@@ -265,7 +265,7 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <dir place="above" staff="2" tstamp="1">
+                            <dir place="above" staff="2" tstamp="1" type="segno">
                                 <rend fontstyle="normal">.§.</rend>
                             </dir>
                         </measure>
@@ -940,7 +940,7 @@
                             </staff>
                         </measure>
                         <pb n="317" source="#secondEdition" facs="#facs-p401"/>
-                        <pb n="117" source="#firstEdition" facs="#facs-p281"/>
+                        <pb n="117" source="#firstEdition" facs="#facs-p291"/>
                         <measure xml:id="m-883" n="24">
                             <staff n="1">
                                 <layer n="1">
@@ -1798,7 +1798,7 @@
                                     <f>♯</f>
                                 </fb>
                             </harm>
-                            <dir place="within" staff="2" tstamp="4">
+                            <dir place="within" staff="2" tstamp="4" type="dalsegno">
                                 <rend fontstyle="normal">dal segno §.</rend>
                             </dir>
                         </measure>

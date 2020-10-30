@@ -61,14 +61,14 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="1928" lrx="1579" xml:id="facs-p310">
-        <graphic width="1579" height="1928" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/310" />
+      <surface ulx="0" uly="0" lry="2363" lrx="1935" xml:id="facs-p352">
+        <graphic width="1935" height="2363" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/352" />
       </surface>
-      <surface ulx="0" uly="0" lry="1889" lrx="1579" xml:id="facs-p311">
-        <graphic width="1579" height="1889" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/311" />
+      <surface ulx="0" uly="0" lry="2355" lrx="1959" xml:id="facs-p353">
+        <graphic width="1959" height="2355" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/353" />
       </surface>
-      <surface ulx="0" uly="0" lry="1919" lrx="1579" xml:id="facs-p312">
-        <graphic width="1579" height="1919" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/312" />
+      <surface ulx="0" uly="0" lry="2337" lrx="1938" xml:id="facs-p354">
+        <graphic width="1938" height="2337" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/354" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
@@ -164,7 +164,7 @@
           </scoreDef>
           <section>
             <pb n="346" source="#secondEdition" facs="#facs-p430" />
-            <pb n="144" source="#firstEdition" facs="#facs-p310" />
+            <pb n="144" source="#firstEdition" facs="#facs-p352" />
             <measure xml:id="m-35" metcon="false">
               <staff xml:id="m-37" n="1">
                 <layer n="1">
@@ -1062,7 +1062,7 @@
               </harm>
             </measure>
             <pb n="347" source="#secondEdition" facs="#facs-p431" />
-            <pb n="145" source="#secondEdition" facs="#facs-p311" />
+            <pb n="145" source="#secondEdition" facs="#facs-p353" />
             <measure xml:id="m-573" n="17">
               <staff xml:id="m-576" n="1">
                 <layer n="1">
@@ -1997,7 +1997,7 @@
               </harm>
             </measure>
             <pb n="347" source="#secondEdition" facs="#facs-p431" />
-            <pb n="146" source="#firstEdition" facs="#facs-p312" />
+            <pb n="146" source="#firstEdition" facs="#facs-p354" />
             <measure xml:id="m-1130" n="34">
               <staff xml:id="m-1132" n="1">
                 <layer n="1">
