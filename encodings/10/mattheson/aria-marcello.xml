@@ -79,7 +79,7 @@
                                     <note xml:id="note-1732073373" dur="8" oct="3" pname="c" />
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-1766313299" staff="2" tstamp="1" place="above">Con affeto</tempo>
+                            <tempo staff="2" tstamp="1.0" place="above">Con affetto.</tempo>
                         </measure>
                         <measure xml:id="measure-0503792307" n="1">
                             <staff xml:id="staff-0841535946" n="1">
