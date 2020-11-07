@@ -34,7 +34,7 @@
   <text>
     <body>
       <p>
-        Diese Aufnahme entstand im Rahmen einer Corona-Produktion des <orgName>Südwest-Rundfunks</orgName>
+        Diese Aufnahme entstand im Rahmen einer Corona-Produktion des <orgName ref="http://d-nb.info/gnd/10093535-7">Südwest-Rundfunks</orgName>
         im <date>August 2020</date>. Die Veröffentlichung erfolgt mit freundlicher Genehmigung
         des SWR.
 
