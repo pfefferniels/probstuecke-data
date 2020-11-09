@@ -36,7 +36,7 @@
         </encodingDesc>
     </meiHead>
     <music>
-        <facsimile>
+        <facsimile decls="#secondEdition">
             <surface xml:id="surface_01DRXXBW793Y78RN1NJJH4NB9M" n="1" ulx="0" uly="0" lrx="1997" lry="2476">
                 <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440" width="1998px" height="2477px" />
             </surface>
