@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
@@ -25,7 +25,7 @@
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <normalization>
+                <normalization resp="#rettinghaus">
                     <p>Original stemming is not preserved.</p>
                     <p>The lyrics' alignment has been improved without additional remarks.</p>
                 </normalization>
@@ -42,10 +42,10 @@
                         </pgHead>
                         <staffGrp>
                             <staffDef clef.shape="C" clef.line="1" key.sig="3s" n="1" lines="5">
-                              <meterSig count="3" unit="8"/>
+                                <meterSig count="3" unit="8" />
                             </staffDef>
                             <staffDef clef.shape="F" clef.line="4" key.sig="3s" n="2" lines="5">
-                              <meterSig count="3" unit="8"/>
+                                <meterSig count="3" unit="8" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
     <meiHead>
@@ -26,6 +26,14 @@
                 </availability>
             </pubStmt>
         </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <normalization resp="#rettinghaus">
+                    <p>Original stemming is not preserved.</p>
+                    <p>The lyrics' alignment has been improved without additional remarks.</p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
     </meiHead>
     <music>
         <body>
@@ -33,17 +41,16 @@
                 <score>
                     <scoreDef key.pname="g" key.mode="minor" mnum.visible="false">
                         <pgHead type="title">
-                            <rend fontsize="larger" halign="left">ARIA del Sig<rend rend="sup">re</rend>
-                            <rend fontstyle="italic">Domenico Bottari</rend>.</rend>
+                            <rend fontsize="larger" halign="left">ARIA del Sig<rend rend="sup">re</rend> <rend fontstyle="italic">Domenico Bottari</rend>.</rend>
                         </pgHead>
                         <staffGrp>
                             <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
                                 <keySig sig="1f" />
-                                <meterSig count="4" unit="4" sym="cut"/>
+                                <meterSig count="4" unit="4" sym="cut" />
                             </staffDef>
                             <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
                                 <keySig sig="1f" />
-                                <meterSig count="4" unit="4" sym="cut"/>
+                                <meterSig count="4" unit="4" sym="cut" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -61,7 +68,7 @@
                                     <note xml:id="note-0000001852484482" dur="2" oct="4" pname="d" />
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-0000002062438063" staff="2" tstamp="1" place="above" mm="160" mm.unit="4">Non presto.</tempo>
+                            <tempo staff="2" tstamp="1" place="above" mm="160" mm.unit="4">Non presto.</tempo>
                         </measure>
                         <measure xml:id="measure-0000001299769622" n="2">
                             <staff xml:id="staff-0000000788475493" n="1">
