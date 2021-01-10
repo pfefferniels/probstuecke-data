@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -162,7 +162,7 @@
                                     <note xml:id="ex-0579235446" dur="4" oct="2" pname="b" />
                                 </layer>
                             </staff>
-                            <trill startid="#ex-0935171029"/>
+                            <trill startid="#ex-0935171029" />
                             <harm place="above" staff="2" tstamp="1">
                                 <fb>
                                     <f>6</f>

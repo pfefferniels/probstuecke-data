@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -34,12 +34,12 @@
                     <scoreDef key.pname="f" key.accid="s" key.mode="major" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5" clef.shape="C" clef.line="1">
-                              <keySig sig="5s" />
-                              <meterSig count="4" unit="4" form="invis" />
+                                <keySig sig="5s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5" clef.shape="F" clef.line="4">
-                              <keySig sig="5s" />
-                              <meterSig count="4" unit="4" form="invis" />
+                                <keySig sig="5s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -60,7 +60,9 @@
                             </staff>
                             <trill startid="#ex-2004146288" />
                             <harm place="above" staff="2" tstamp="4.5">
-                              <fb><f>6⃥</f></fb>
+                                <fb>
+                                    <f>6⃥</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure corresp="#measure-0000001787575948">
@@ -96,21 +98,21 @@
                             <slur startid="#ex-1122047326" endid="#ex-1177967914" curvedir="above" />
                             <slur startid="#ex-2011832331" endid="#ex-0129325086" curvedir="above" />
                             <harm place="above" staff="2" tstamp="1">
-                              <fb>
-                                <f>6</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="3">
-                              <fb>
-                                <f>6</f>
-                                <f>5</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                    <f>5</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
-                              <fb>
-                                <f>7</f>
-                                <f>♯</f>
-                              </fb>
+                                <fb>
+                                    <f>7</f>
+                                    <f>♯</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure corresp="#measure-0000001794887924">
@@ -182,9 +184,9 @@
                             </staff>
                             <slur startid="#ex-1403972331" endid="#ex-1918258958" curvedir="above" />
                             <harm place="above" staff="2" tstamp="3">
-                              <fb>
-                                <f>6⃥</f>
-                              </fb>
+                                <fb>
+                                    <f>6⃥</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure corresp="#measure-0000001647854738" right="invis">
@@ -205,9 +207,9 @@
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
-                              <fb>
-                                <f>6</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                </fb>
                             </harm>
                         </measure>
                         <sb source="#secondEdition" />
@@ -228,7 +230,7 @@
                                     <note xml:id="ex-1863713969" dur="4" oct="3" pname="b" />
                                     <rest xml:id="ex-1463157223" dur="8" />
                                     <note xml:id="ex-1686272108" dur="8" oct="3" pname="b" />
-                                  </layer>
+                                </layer>
                             </staff>
                         </measure>
                         <measure n="6">
@@ -262,21 +264,21 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <trill startid="#ex-1044645342"/>
+                            <trill startid="#ex-1044645342" />
                             <harm place="above" staff="2" tstamp="1">
-                              <fb>
-                                <f>6</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="3">
-                              <fb>
-                                <f>´</f>
-                              </fb>
+                                <fb>
+                                    <f>´</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="3.5">
-                              <fb>
-                                <f>6</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure n="7">
@@ -304,11 +306,11 @@
                                     <note xml:id="ex-1750899379" dur="8" oct="3" pname="f" accid.ges="s" />
                                 </layer>
                             </staff>
-                            <trill startid="#ex-0599809577"/>
+                            <trill startid="#ex-0599809577" />
                             <harm place="above" staff="2" tstamp="1">
-                              <fb>
-                                <f>♯</f>
-                              </fb>
+                                <fb>
+                                    <f>♯</f>
+                                </fb>
                             </harm>
                         </measure>
                         <measure right="invis" n="8">
@@ -333,14 +335,14 @@
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">
-                              <fb>
-                                <f>♯</f>
-                              </fb>
+                                <fb>
+                                    <f>♯</f>
+                                </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="3">
-                              <fb>
-                                <f>6</f>
-                              </fb>
+                                <fb>
+                                    <f>6</f>
+                                </fb>
                             </harm>
                         </measure>
                     </section>
