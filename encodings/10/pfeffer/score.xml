@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -62,10 +62,10 @@
             <mdiv>
                 <score>
                     <scoreDef>
-                      <pgHead>
-                        <rend halign="center" fontsize="large">Zehntes Prob-Stück</rend>
-                        <rend halign="right" fontsize="small">Realization by Niels Pfeffer</rend>
-                      </pgHead>
+                        <pgHead>
+                            <rend halign="center" fontsize="large">Zehntes Prob-Stück</rend>
+                            <rend halign="right" fontsize="small">Realization by Niels Pfeffer</rend>
+                        </pgHead>
                         <staffGrp>
                             <staffDef n="1" lines="5" clef.shape="G" clef.line="2" meter.count="6" meter.unit="8">
                                 <keySig mode="major" sig="3f" />
@@ -2276,9 +2276,9 @@
                                     </beam>
                                 </layer>
                             </staff>
-                            <tie startid="#note-0000001994687268" endid="#note-0000000212785042"/>
-                            <tie startid="#note-0000000792133189" endid="#note-0000000709563316"/>
-                            <tie startid="#note-0000000238199318" endid="#note-0000000575286574"/>
+                            <tie startid="#note-0000001994687268" endid="#note-0000000212785042" />
+                            <tie startid="#note-0000000792133189" endid="#note-0000000709563316" />
+                            <tie startid="#note-0000000238199318" endid="#note-0000000575286574" />
                         </measure>
                         <measure n="37">
                             <staff n="1" visible="true">
