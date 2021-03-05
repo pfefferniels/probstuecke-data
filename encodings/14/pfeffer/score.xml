@@ -1,51 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
    <meiHead>
-     <fileDesc>
+      <fileDesc>
          <titleStmt>
-             <title>Der Ober-Classe vierzehntes Prob-Stück.</title>
-             <composer>
-                 <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
-             </composer>
-             <respStmt>
-                 <resp>Edited by</resp>
-                 <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
-             </respStmt>
+            <title>Der Ober-Classe vierzehntes Prob-Stück.</title>
+            <composer>
+               <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+            </composer>
+            <respStmt>
+               <resp>Edited by</resp>
+               <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
+            </respStmt>
          </titleStmt>
          <pubStmt>
-             <respStmt>
-                 <persName role="publisher">Niels Pfeffer</persName>
-             </respStmt>
-             <date>2019</date>
-             <availability>
-                 <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
-                     <p>Creative Commons Attribution 4.0 International License</p>
-                 </useRestrict>
-             </availability>
+            <respStmt>
+               <persName role="publisher">Niels Pfeffer</persName>
+            </respStmt>
+            <date>2019</date>
+            <availability>
+               <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                  <p>Creative Commons Attribution 4.0 International License</p>
+               </useRestrict>
+            </availability>
          </pubStmt>
          <sourceDesc>
-             <source n="1" xml:id="liveRecording">
-                 <bibl>
-                     <title type="uniform">Studio recording for SWR</title>
-                     <persName role="performer">Niels Pfeffer</persName>
-                     <pubPlace>Tübingen</pubPlace>
-                     <date>August 2020</date>
-                 </bibl>
-             </source>
-             <source n="2" xml:id="secondEdition">
-                 <bibl>
-                     <title type="uniform">Grosse General-Baß-Schule</title>
-                     <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
-                     <corpName role="publisher">Kißner</corpName>
-                     <pubPlace>Hamburg</pubPlace>
-                     <date>1731</date>
-                     <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
-                 </bibl>
-             </source>
+            <source n="1" xml:id="liveRecording">
+               <bibl>
+                  <title type="uniform">Studio recording for SWR</title>
+                  <persName role="performer">Niels Pfeffer</persName>
+                  <pubPlace>Tübingen</pubPlace>
+                  <date>August 2020</date>
+               </bibl>
+            </source>
+            <source n="2" xml:id="secondEdition">
+               <bibl>
+                  <title type="uniform">Grosse General-Baß-Schule</title>
+                  <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                  <corpName role="publisher">Kißner</corpName>
+                  <pubPlace>Hamburg</pubPlace>
+                  <date>1731</date>
+                  <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
+               </bibl>
+            </source>
          </sourceDesc>
-     </fileDesc>
+      </fileDesc>
       <encodingDesc xml:id="encodingdesc-0000000370192551">
          <appInfo xml:id="appinfo-0000000920283234">
             <application xml:id="application-0000000801701067" isodate="2020-10-24T13:36:05" version="3.1.0-dev-11c4d3e">

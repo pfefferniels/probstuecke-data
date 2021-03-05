@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" ?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -70,8 +70,8 @@
                                         <note xml:id="ex-1153" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1154" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-1155" dur="32" oct="4" pname="g" />
-                                      </beam>
-                                      <beam>
+                                    </beam>
+                                    <beam>
                                         <note xml:id="ex-1156" dur="32" oct="5" pname="e" accid.ges="f">
                                             <orig>
                                                 <accid xml:id="ex-1157" accid="f" />
@@ -99,7 +99,9 @@
                             </staff>
                             <app resp="#rettinghaus">
                                 <lem source="#secondEdition">
-                                    <dir place="below" staff="1" tstamp="2.9"><rend fontstyle="normal">&amp;c.</rend></dir>
+                                    <dir place="below" staff="1" tstamp="2.9">
+                                        <rend fontstyle="normal">&amp;c.</rend>
+                                    </dir>
                                 </lem>
                                 <rdg source="#firstEdition"></rdg>
                             </app>
@@ -157,8 +159,12 @@
                                     <custos oct="3" pname="a" />
                                 </layer>
                             </staff>
-                            <dir place="below" staff="1" tstamp="3"><rend fontstyle="normal">&amp;c.</rend></dir>
-                            <dir place="below" staff="2" tstamp="3"><rend fontstyle="normal">&amp;c.</rend></dir>
+                            <dir place="below" staff="1" tstamp="3">
+                                <rend fontstyle="normal">&amp;c.</rend>
+                            </dir>
+                            <dir place="below" staff="2" tstamp="3">
+                                <rend fontstyle="normal">&amp;c.</rend>
+                            </dir>
                         </measure>
                     </section>
                 </score>

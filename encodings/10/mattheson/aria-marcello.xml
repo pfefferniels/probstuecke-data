@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
     <meiHead>
         <fileDesc>
             <titleStmt>
@@ -20,16 +20,15 @@
                 </respStmt>
                 <date>2019</date>
                 <availability>
-                    <useRestrict>This encoding is licensed under GPL. You may copy, distribute and
-                      modify the software as long as you track changes/dates in source files.
-                      Any modifications to or software including (via compiler) GPL-licensed
-                      code must also be made available under the GPL along with build &amp; install instructions.</useRestrict>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
                 </availability>
             </pubStmt>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
-                <normalization>
+                <normalization resp="#rettinghaus">
                     <p>Original stemming is not preserved.</p>
                     <p>The lyrics' alignment has been improved without additional remarks.</p>
                 </normalization>
@@ -37,18 +36,18 @@
         </encodingDesc>
     </meiHead>
     <music>
-        <facsimile>
+        <facsimile decls="#secondEdition">
             <surface xml:id="surface_01DRXXBW793Y78RN1NJJH4NB9M" n="1" ulx="0" uly="0" lrx="1997" lry="2476">
-                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440" width="1998px" height="2477px"/>
+                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440" width="1998px" height="2477px" />
             </surface>
             <surface xml:id="surface_01DRXXBW81W088TTEG7KJBF5N4" n="2" ulx="0" uly="0" lrx="1997" lry="2423">
-                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/441" width="1998px" height="2424px"/>
+                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/441" width="1998px" height="2424px" />
             </surface>
             <surface xml:id="surface_01DRXXBW8SPTS35QF40HT64APP" n="3" ulx="0" uly="0" lrx="1997" lry="2470">
-                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/442" width="1998px" height="2471px"/>
+                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/442" width="1998px" height="2471px" />
             </surface>
             <surface xml:id="surface_01DRXXBW9KP46SYD696V2YR4R6" n="4" ulx="0" uly="0" lrx="1997" lry="2421">
-                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/443" width="1998px" height="2422px"/>
+                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/443" width="1998px" height="2422px" />
             </surface>
         </facsimile>
         <body>
@@ -60,10 +59,10 @@
                         </pgHead>
                         <staffGrp>
                             <staffDef clef.shape="C" clef.line="3" key.sig="3f" n="1" lines="5">
-                              <meterSig count="3" unit="8"/>
+                                <meterSig count="3" unit="8" />
                             </staffDef>
                             <staffDef clef.shape="F" clef.line="4" key.sig="3f" n="2" lines="5">
-                              <meterSig count="3" unit="8"/>
+                                <meterSig count="3" unit="8" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -80,7 +79,7 @@
                                     <note xml:id="note-1732073373" dur="8" oct="3" pname="c" />
                                 </layer>
                             </staff>
-                            <tempo xml:id="tempo-1766313299" staff="2" tstamp="1" place="above">Con affeto</tempo>
+                            <tempo staff="2" tstamp="1.0" place="above">Con affetto.</tempo>
                         </measure>
                         <measure xml:id="measure-0503792307" n="1">
                             <staff xml:id="staff-0841535946" n="1">
