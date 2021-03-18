@@ -418,7 +418,7 @@
                     </persName>
                     <birth/>
                     <death>1702</death>
-                    <note> Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg. </note>
+                    <note xml:lang="de"> Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg. </note>
                 </person>
                 <person xml:id="ed_fwn_dvb_5lb">
                     <idno type="uri">http://d-nb.info/gnd/118784919</idno>
