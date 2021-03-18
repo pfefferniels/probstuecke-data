@@ -63,6 +63,7 @@
                     <death>524</death>
                 </person>
                 <person xml:id="bls_l2j_vlb">
+                    <idno type="uri">http://d-nb.info/gnd/1209919052</idno>
                     <persName type="reg">
                         <surname>Bottari</surname>
                         <forename>Domenico Filippo</forename>
@@ -240,6 +241,7 @@
                     <death>1729</death>
                 </person>
                 <person xml:id="ed_rtv_wrx_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/118549103</idno>
                     <persName type="reg">
                         <surname>Henfling</surname>
                         <forename>Conrad</forename>
@@ -473,6 +475,7 @@
                     <death>1621</death>
                 </person>
                 <person xml:id="ed_scp_svx_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/118939599</idno>
                     <persName type="reg">
                         <surname>Printz</surname>
                         <forename>Wolfgang Caspar</forename>
@@ -481,6 +484,7 @@
                     <death>1717</death>
                 </person>
                 <person xml:id="ed_qqk_vy2_5lb">
+                    <idno type="uri">http://d-nb.info/gnd/118597248</idno>
                     <persName type="reg">
                         <surname>Pythagoras</surname>
                         <forename/>
@@ -588,6 +592,7 @@
                     <death>1718</death>
                 </person>
                 <person xml:id="ed_uyt_trx_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/11862119X</idno>
                     <persName type="reg">
                         <surname>Telemann</surname>
                         <forename>Georg Philipp</forename>
