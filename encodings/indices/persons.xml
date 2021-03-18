@@ -376,7 +376,7 @@
                     <death>102</death>
                 </person>
                 <person xml:id="ed_b2n_mx1_5lb">
-                    <idno type="uri">d-nb.info/gnd/118578995</idno>
+                    <idno type="uri">http://d-nb.info/gnd/118578995</idno>
                     <persName type="reg">
                         <surname>Mattheson</surname>
                         <forename>Johann</forename>
