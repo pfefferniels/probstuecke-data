@@ -130,7 +130,9 @@
                         <measure right="invis">
                             <staff n="1">
                                 <layer>
-                                    <custos oct="4" pname="b" />
+                                    <custos oct="4" pname="b">
+                                        <accid accid="f" />
+                                    </custos>
                                 </layer>
                             </staff>
                             <staff n="2">
