@@ -25,6 +25,28 @@
                     </useRestrict>
                 </availability>
             </pubStmt>
+            <sourceDesc>
+                <source n="1" xml:id="firstEdition">
+                    <bibl>
+                        <title type="uniform">Exemplarische Organisten-Probe</title>
+                        <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                        <corpName role="publisher">Schiller &amp; Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <date>1719</date>
+                        <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10527431-0</identifier>
+                    </bibl>
+                </source>
+                <source n="2" xml:id="secondEdition">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <date>1731</date>
+                        <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
+                    </bibl>
+                </source>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
@@ -58,15 +80,18 @@
                             <rend fontsize="larger" halign="center">ARIA del <rend fontstyle="italic">Signore Marcello</rend>, Nobile Veneto.</rend>
                         </pgHead>
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="3" key.sig="3f" n="1" lines="5">
+                            <staffDef clef.shape="C" clef.line="3" n="1" lines="5">
+                                <keySig sig="3f" />
                                 <meterSig count="3" unit="8" />
                             </staffDef>
-                            <staffDef clef.shape="F" clef.line="4" key.sig="3f" n="2" lines="5">
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                                <keySig sig="3f" />
                                 <meterSig count="3" unit="8" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section xml:id="section-1262235770">
+                        <pb source="#firstEdition" n="154" />
                         <pb source="#secondEdition" n="356" facs="#graphic_01DRXXBW7CCJ95KSPMFMF07877" />
                         <measure xml:id="measure-0685332484" metcon="false">
                             <staff xml:id="staff-1631678142" n="1">
@@ -726,6 +751,7 @@
                             </staff>
                             <tie xml:id="tie-1774720271" startid="#note-1290683804" endid="#note-0302277523" />
                         </measure>
+                        <pb source="#firstEdition" n="155" />
                         <pb source="#secondEdition" n="357" facs="#graphic_01DRXXBW81G647M2MA67QV8N86" />
                         <measure xml:id="measure-2113040272" n="32">
                             <staff xml:id="staff-1302629114" n="1">
@@ -1504,6 +1530,7 @@
                             </staff>
                             <tie xml:id="tie-0846432627" startid="#note-0063399080" endid="#note-1175774428" />
                         </measure>
+                        <pb source="#firstEdition" n="156" />
                         <pb source="#secondEdition" n="358" facs="#graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" />
                         <measure xml:id="measure-0108211109" n="61">
                             <staff xml:id="staff-1669005315" n="1">
@@ -2237,6 +2264,7 @@
                             </staff>
                             <slur xml:id="slur-1943000346" startid="#note-1627111590" endid="#note-1164042132" />
                         </measure>
+                        <pb source="#firstEdition" n="157" />
                         <pb source="#secondEdition" n="359" facs="#graphic_01DRXXBW9M0QVTHNDK5X37HXE3" />
                         <measure xml:id="measure-2054233721" n="91">
                             <staff xml:id="staff-1567636525" n="1">

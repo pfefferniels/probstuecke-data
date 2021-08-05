@@ -22,6 +22,28 @@
                     </useRestrict>
                 </availability>
             </pubStmt>
+            <sourceDesc>
+                <source n="1" xml:id="firstEdition">
+                    <bibl>
+                        <title type="uniform">Exemplarische Organisten-Probe</title>
+                        <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                        <corpName role="publisher">Schiller &amp; Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <date>1719</date>
+                        <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10527431-0</identifier>
+                    </bibl>
+                </source>
+                <source n="2" xml:id="secondEdition">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <date>1731</date>
+                        <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
+                    </bibl>
+                </source>
+            </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <editorialDecl>
@@ -41,10 +63,12 @@
                             <rend fontsize="larger" halign="left">ARIA.</rend>
                         </pgHead>
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="3s" n="1" lines="5">
+                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                                <keySig sig="3s" />
                                 <meterSig count="3" unit="8" />
                             </staffDef>
-                            <staffDef clef.shape="F" clef.line="4" key.sig="3s" n="2" lines="5">
+                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                                <keySig sig="3s" />
                                 <meterSig count="3" unit="8" />
                             </staffDef>
                         </staffGrp>
