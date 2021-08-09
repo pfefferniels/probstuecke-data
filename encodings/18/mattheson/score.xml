@@ -2263,7 +2263,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1">
                 <fb>
-                  <f>♭5</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>5♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭5</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>

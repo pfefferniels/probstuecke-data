@@ -300,8 +300,22 @@
               </staff>
               <harm place="above" staff="2" tstamp="1">
                 <fb>
-                  <f>♭5</f>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>5♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭5</f>
+                    </orig>
+                  </choice>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" tstamp="3">
@@ -358,7 +372,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="2.5">
                 <fb>
-                  <f>♭5</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>5♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭5</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" tstamp="3">
@@ -1049,7 +1070,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                   <f>5</f>
                 </fb>
               </harm>
@@ -1239,7 +1267,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1">
                 <fb>
-                  <f>♭4</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>4♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭4</f>
+                    </orig>
+                  </choice>
                   <f>2</f>
                 </fb>
               </harm>
@@ -1362,7 +1397,14 @@
               </harm>
               <harm place="above" staff="2" tstamp="2">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                   <f>5</f>
                 </fb>
               </harm>

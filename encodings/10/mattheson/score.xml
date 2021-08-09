@@ -474,7 +474,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1" xml:id="fb-09-01">
                 <fb>
-                  <f>♭6</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>6♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭6</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -683,7 +690,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-15-01">
                 <fb>
-                  <f>♭5</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>5♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭5</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -824,12 +838,26 @@
               </staff>
               <harm place="above" staff="2" tstamp="1" xml:id="fb-19-01">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-19-02">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -1560,7 +1588,14 @@
               </harm>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-38-02">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -1926,7 +1961,14 @@
               </harm>
               <harm place="above" staff="2" tstamp="5" xml:id="fb-47-02">
                 <fb>
-                  <f>♭6</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>6♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭6</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -2175,7 +2217,14 @@
               </harm>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-53-02">
                 <fb>
-                  <f>♭6</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>6♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭6</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
             </measure>
@@ -2432,7 +2481,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1" xml:id="fb-60-01">
                 <fb>
-                  <f>♭7</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>7♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭7</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-60-02">
