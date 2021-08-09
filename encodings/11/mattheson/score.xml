@@ -2840,7 +2840,14 @@
               </staff>
               <harm place="above" staff="2" tstamp="1.0">
                 <fb>
-                  <f>♮2</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>2♮</f>
+                    </reg>
+                    <orig>
+                      <f>♮2</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" tstamp="2.0">

@@ -1770,7 +1770,14 @@
               </staff>
               <harm place="above" staff="2" startid="#m-1183">
                 <fb>
-                  <f>♭6</f>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <f>6♭</f>
+                    </reg>
+                    <orig>
+                      <f>♭6</f>
+                    </orig>
+                  </choice>
                 </fb>
               </harm>
               <harm place="above" staff="2" startid="#m-1197">
