@@ -175,7 +175,12 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
                                 <fb>
-                                    <f>76</f>
+                                    <f>7</f>
+                                </fb>
+                            </harm>
+                            <harm place="above" staff="2" tstamp="4.5">
+                                <fb>
+                                    <f>6</f>
                                 </fb>
                             </harm>
                         </measure>
