@@ -283,7 +283,14 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="3.5">
                                 <fb>
-                                    <f>♮7</f>
+                                    <choice>
+                                        <reg resp="#rettinghaus">
+                                            <f>7♮</f>
+                                        </reg>
+                                        <orig>
+                                            <f>♮7</f>
+                                        </orig>
+                                    </choice>
                                 </fb>
                             </harm>
                             <harm place="above" staff="2" tstamp="4">
@@ -293,7 +300,14 @@
                             </harm>
                             <harm place="above" staff="2" tstamp="4.5">
                                 <fb>
-                                    <f>♭5</f>
+                                    <choice>
+                                        <reg resp="#rettinghaus">
+                                            <f>5♭</f>
+                                        </reg>
+                                        <orig>
+                                            <f>♭5</f>
+                                        </orig>
+                                    </choice>
                                 </fb>
                             </harm>
                         </measure>

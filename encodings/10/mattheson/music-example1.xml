@@ -133,7 +133,14 @@
                                 </harm>
                                 <harm place="above" staff="2" tstamp="5">
                                     <fb>
-                                        <f>♭6</f>
+                                        <choice>
+                                            <reg resp="#rettinghaus">
+                                                <f>6♭</f>
+                                            </reg>
+                                            <orig>
+                                                <f>♭6</f>
+                                            </orig>
+                                        </choice>
                                     </fb>
                                 </harm>
                             </supplied>
