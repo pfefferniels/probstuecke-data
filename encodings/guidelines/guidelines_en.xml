@@ -65,6 +65,24 @@
         </p>
 
         <p>
+          In the original print, accidentals are printed sometimes before and sometimes
+          behind the figure (e.g. ♭6 or 6♭).  The original form is preserved in an <code>orig</code> element inside
+          a <code>choice</code> element and <code>reg</code> is used to unify them in the modern form (accidental behind figure).
+          The responsibility for the regularization should be stated with the <code>@resp</code> attribute.
+
+          <egXML xmlns="http://www.tei-c.org/ns/Examples">
+            <choice>
+              <reg resp="#rettinghaus">
+                <f>6♭</f>
+              </reg>
+              <orig>
+                <f>♭6</f>
+              </orig>
+            </choice>
+          </egXML>
+        </p>
+
+        <p>
           In general, editorial additions are marked as <tag>supplied</tag>, where the <code>@resp</code> attribute
           should be used to indicate the responsible editor.
         </p>
