@@ -91,7 +91,7 @@
       "hill": {
         "score": "4/hill/score.xml",
         "comments": "4/hill/comments_de.xml",
-        "format": "p5"
+        "format": "lesson_transcription"
       }
     }
   },
