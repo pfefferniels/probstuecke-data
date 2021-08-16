@@ -102,15 +102,17 @@
 
       <u who="#rh">
         Ich würde auch nicht in eine tiefere Lage gehen.
+      </u>
 
-        <kinesic type="playing">
-          <desc>
-            spielt Takt 1
+      <kinesic who="#rh" type="playing">
+        <desc>
+          spielt Takt 1
 
-            <ptr type="audio" mimeType="audio/ogg" target="example1.ogg" />
-          </desc>
-        </kinesic>
+          <ptr type="audio" mimeType="audio/ogg" target="example1.ogg" />
+        </desc>
+      </kinesic>
 
+      <u who="#rh">
         Also was ich jetzt hier tue, ist –
 
         <kinesic who="#rh" type="playing">
