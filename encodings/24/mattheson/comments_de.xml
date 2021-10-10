@@ -291,7 +291,7 @@
           <lb />ich geringer eintzelner Mann, in einer Sache die mein Haupt-Weſen nicht iſt, zu über-
           <lb />treffen ſei), wenigſtens vier große und berühmte Ton-Künſtler
           <note type="editorial" resp="#pfeffer">
-            i.e.
+            <abbr>i. e.</abbr>
             <persName corresp="#ed_lhv_3sx_qlb">Händel</persName>,
             <persName corresp="#ed_qr2_hxx_qlb">Heinichen</persName>,
             <persName corresp="#ed_uyt_trx_qlb">Telemann</persName> und
@@ -318,17 +318,17 @@
           <lb />kömmt. Hiernächſt würde ich auch, nach den Regeln einer genauen Beſcheiden-
           <lb />heit, wol eben nicht läugnen, daß
           <persName corresp="#ed_ngx_5lx_qlb">Bardus</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Bach</note>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Bach</note>
           und
           <persName corresp="#ed_lhv_3sx_qlb">Hiagnis</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Händel</note>,
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Händel</note>,
           theils geſchwinder, theils
           <lb />künſtlicher ſpielen; daß
           <persName corresp="#ed_uyt_trx_qlb">Telephanes</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Telemann</note>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Telemann</note>
           reichlicher fetze, und daß
-          <persName ref="http://d-nb.info/gnd/118709712">Hermogenes</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Heinichen</note>,
+          <persName corresp="#ed_qr2_hxx_qlb">Hermogenes</persName>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Heinichen</note>,
           wenn
           <lb />er länger gelebet hätte,
           <note type="editorial" resp="#pfeffer">
