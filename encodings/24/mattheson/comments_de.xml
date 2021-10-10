@@ -11,6 +11,12 @@
             <forename>Niels</forename>
           </persName>
         </editor>
+        <editor>
+          <persName xml:id="rettinghaus">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -75,28 +81,28 @@
         <div n="1">
         <head>§. 1.</head>
         <p>
-          Bey Ansehung der vorgesetzten Kreutze dieses letzten Prob-Stückes fallen mir
-          <lb /><persName corresp="#ed_scp_svx_qlb">Printzens</persName> Worte ein, die er im dritten Capitel des ersten Theils seines
-          <hi rendition="#aq"><bibl corresp="#ed_pmp_1hl_tlb">Phrynidis</bibl></hi> also führet:
+          Bey Anſehung der vorgeſetzten Kreutze dieſes letzten Prob-Stückes fallen mir
+          <lb /><persName corresp="#ed_scp_svx_qlb">Printzens</persName> Worte ein, die er im dritten Capitel des erſten Theils ſeines
+          <hi rendition="#aq"><bibl corresp="#ed_pmp_1hl_tlb">Phrynidis</bibl></hi> alſo führet:
           <quote>Es lachte mir das Herz im Leibe, wenn ich im An-
-            <lb />fang des Systematis viel Signa chromatica oder ♭ sähe: ich hielte den Organisten,
-            <lb />der einen so gezeichneten General-Baß nicht rein spielte, für einen Stümpler;
-            <lb />da ich doch selbst ein Ertz-Stümpler war, und nicht wuste, daß so gesetzte Sachen
-            <lb />auf keiner Orgel rein gespielet werden können.
+            <lb />fang des <hi rendition="#aq">Syſtematis</hi> viel <hi rendition="#aq">Signa chromatica</hi> oder ♭ ſähe: ich hielte den Organiſten,
+            <lb />der einen ſo gezeichneten General-Baß nicht rein ſpielte, für einen Stümpler;
+            <lb />da ich doch ſelbſt ein Ertz-Stümpler war, und nicht wuſte, daß ſo geſetzte Sachen
+            <lb />auf keiner Orgel rein geſpielet werden können.
           </quote>
-          Hiebey ist kürtzlich zu erinnern:
+          Hiebey iſt kürtzlich zu erinnern:
           <lb />
           <list rend="numbered">
-            <item>(1) Daß man gar wol wisse, was auf einer Orgel rein gespielet werden könne,
-              <lb/>oder nicht,</item>
-            <item>(2) Erfordert man von einem Organisten auch das Accompagnement
-              <lb />auf Clavicymbeln, und ich sage ungescheut, daß ich den Organisten, der einen so
-              <lb />gezeichneten General-Baß, wie dieser ist, nicht rein auf dem Clavier spielet, wo
-              <lb />nicht für einen Stümpler, doch für einen schlechten Potentaten halte,</item>
+            <item>(1) Daß man gar wol wiſſe, was auf einer Orgel rein geſpielet werden könne,
+              <lb />oder nicht,</item>
+            <item>(2) Erfordert man von einem Organiſten auch das Accompagnement
+              <lb />auf Clavicymbeln, und ich ſage ungeſcheut, daß ich den Organiſten, der einen ſo
+              <lb />gezeichneten General-Baß, wie dieſer iſt, nicht rein auf dem Clavier ſpielet, wo
+              <lb />nicht für einen Stümpler, doch für einen ſchlechten Potentaten halte,</item>
             <item>(3) Unter-
-              <lb />scheidet man, wie billig, die Fehler einer Orgel, von den Fehlern eines Organisten,
-              <lb />und sieht kein Mensch, wie eine übel-gestimmte Orgel einen übelspielenden Organi-
-              <lb />sten im geringsten entschuldigen könne.</item>
+              <lb />ſcheidet man, wie billig, die Fehler einer Orgel, von den Fehlern eines Organiſten,
+              <lb />und ſieht kein Menſch, wie eine übel-geſtimmte Orgel einen übelſpielenden Organi-
+              <lb />ſten im geringſten entſchuldigen könne.</item>
           </list>
           <fw place="bottom" type="catch">Es</fw>
           <pb n="441" />
@@ -106,123 +112,123 @@
       <div n="2">
         <lb /><head>§. 2.</head>
         <lb /><p>
-          Es iſt im <bibl corresp="#ed_bm4_fhl_tlb">Orchester, Erster Eröffnung</bibl>, bey Gelegenheit dieser chromatischen
-          <lb />Tone, pag. 54. und 65. den Meistern von grosser Einbildung gesagt worden, daß
-          <lb />man ihnen einen Baß vorlegen könne, dessen fünff, ja zwo erste Noten, falls diesel-
-          <lb />be ohne Anstoß getroffen würden, zu ihrem sonderbaren Lobe gereichen sollten.
-          <lb />Nun bin ich seit dem hie und da angezwacket worden, solches dereinst zu bewerckstel-
-          <lb />ligen, und zwar mit einem gegenseitigen Gesichte, das gleichsam sagen wollte:
-          <lb />Es stünde was darum zu lachen.
+          Es iſt im <bibl corresp="#ed_bm4_fhl_tlb">Orcheſter, Erſter Eröffnung</bibl>, bey Gelegenheit dieſer chromatiſchen
+          <lb />Tone, pag. 54. und 65. den Meiſtern von groſſer Einbildung geſagt worden, daß
+          <lb />man ihnen einen Baß vorlegen könne, deſſen fünff, ja zwo erſte Noten, falls dieſel-
+          <lb />be ohne Anſtoß getroffen würden, zu ihrem ſonderbaren Lobe gereichen ſollten.
+          <lb />Nun bin ich ſeit dem hie und da angezwacket worden, ſolches dereinſt zu bewerckſtel-
+          <lb />ligen, und zwar mit einem gegenſeitigen Geſichte, das gleichſam ſagen wollte:
+          <lb />Es ſtünde was darum zu lachen.
         </p>
       </div>
 
       <div n="3">
         <lb /><head>§. 3.</head>
         <lb /><p>
-          Wie weit sich dergleichen Leute nun selbst beschimpfen würden, wenn, bey ei-
-          <lb />ner öffentlichen Versammlung, ihre Blöße solcher Gestalt etwa entdecket werden
-          <lb />mögte, (denn in Geheim verbindet dieser Vorschlag zu nichts) das lasse an feinem
-          <lb />Orte gestellet bleiben. Bisher haben wir Bedencken getragen, Anstalt zu ihrer
-          <lb />Schande zu machen; welches aber leicht geschehen könnte. Indessen, obgleich der
-          <lb />Baß, auf den man damahls eben sein Angenmerck gehabt hat, hierin gar nicht an-
-          <lb />zutreffen ist, und noch gantz anders klingt, als diese Prob-Stücke (angesehen je-
-          <lb />ner bloß zum Possen gesetzt ist, und hundert dergleichen gesetzt werden mögen; diese
-          <lb />aber sich wircklich in die Schrancken einer Notwendigkeit und einer ernstlichen For-
-          <lb />derung einschliessen lassen) so mag doch ein solcher schon daraus, als aus einer Klaue,
-          <lb />den gantzen Löwen kennen lernen, und seinen Geist prüfen, ob er noch eine schärffere
-          <lb />Probe als die gegenwärtige ist, aushalten wolle?
+          Wie weit ſich dergleichen Leute nun ſelbſt beſchimpfen würden, wenn, bey ei-
+          <lb />ner öffentlichen Verſammlung, ihre Blöße ſolcher Geſtalt etwa entdecket werden
+          <lb />mögte, (denn in Geheim verbindet dieſer Vorſchlag zu nichts) das laſſe an feinem
+          <lb />Orte geſtellet bleiben. Bisher haben wir Bedencken getragen, Anſtalt zu ihrer
+          <lb />Schande zu machen; welches aber leicht geſchehen könnte. Indeſſen, obgleich der
+          <lb />Baß, auf den man damahls eben ſein Angenmerck gehabt hat, hierin gar nicht an-
+          <lb />zutreffen iſt, und noch gantz anders klingt, als dieſe Prob-Stücke (angeſehen je-
+          <lb />ner bloß zum Poſſen geſetzt iſt, und hundert dergleichen geſetzt werden mögen; dieſe
+          <lb />aber ſich wircklich in die Schrancken einer Notwendigkeit und einer ernſtlichen For-
+          <lb />derung einſchlieſſen laſſen) ſo mag doch ein ſolcher ſchon daraus, als aus einer Klaue,
+          <lb />den gantzen Löwen kennen lernen, und ſeinen Geiſt prüfen, ob er noch eine ſchärffere
+          <lb />Probe als die gegenwärtige iſt, auſhalten wolle?
         </p>
       </div>
 
       <div n="4">
         <lb /><head>§. 4.</head>
         <lb /><p>
-          Sollten sich aber auch einige verlauten lassen, sie zweiffelten, ob der Verfasser
-          <lb />selber die Sachen, dadurch er andere probiren wolle, spielen könnte, wie ich denn ver-
-          <lb />nehme, daß sich hiedurch viele Dümmlinge schon ein Sieges-Zeichen in Gedancken
-          <lb />aufgerichtet zu haben vermeynen; so dienet einem jeden mit wenigen auf diesen lie-
-          <lb />derlichen Einwurff zur Nachricht, daß, wenn derselbe auch gleich nicht mit hun-
+          Sollten ſich aber auch einige verlauten laſſen, ſie zweiffelten, ob der Verfaſſer
+          <lb />ſelber die Sachen, dadurch er andere probiren wolle, ſpielen könnte, wie ich denn ver-
+          <lb />nehme, daß ſich hiedurch viele Dümmlinge ſchon ein Sieges-Zeichen in Gedancken
+          <lb />aufgerichtet zu haben vermeynen; ſo dienet einem jeden mit wenigen auf dieſen lie-
+          <lb />derlichen Einwurff zur Nachricht, daß, wenn derſelbe auch gleich nicht mit hun-
           <lb />dert lebendigen Zeugen den Augenblick zu vernichten, und derjenigen keiner mehr in
           <lb />der Welt wäre, denen ich die Ehre gehabt, meinen geringfügigen Unterricht eben
-          <lb />über dieses Merck mitzutheilen ; wenn, sage ich, keiner meiner ehemaligen
-          <lb />Schüler hier leisten könnte, was man dem Lehrer selbst nicht zutrauet, welches,
-          <lb />da es ja wahr, jenen ein grosser Schimpft seyn mag, die Meister heissen wollen,
+          <lb />über dieſes Merck mitzutheilen ; wenn, ſage ich, keiner meiner ehemaligen
+          <lb />Schüler hier leiſten könnte, was man dem Lehrer ſelbſt nicht zutrauet, welches,
+          <lb />da es ja wahr, jenen ein groſſer Schimpft ſeyn mag, die Meiſter heiſſen wollen,
           <fw place="bottom" type="catch">und</fw>
           <pb n="442" />
 
-          und es nicht können; wenn ich gleich hier, so zu reden, keine Ausnahm machen könnte,
-          <lb />und mich von jedem Haluncken auf die Probe setzen lassen müsse: so sehe doch nicht, was
-          <lb />den scheelsüchtigen Leuten alles dieses heissen würde. Denn erstlich setze ich zum
-          <lb />Grunde, daß einer solchen Probe niemand vernünfttiger Weise unterworffen seyn
-          <lb />kann, als der sich aufunbedachtsame Art vermisst, alles aus dem Stegreiss, ohne Un-
-          <lb />terscheid, bey dem ersten Anblick, wegspielen zu können. So weit aber gibt man sich
-          <lb />dissetts nicht ab; sondern geftehet gerne, daß, je mehr der Sache nachgesonnen wird, je
-          <lb />unerfahrner man sich befinde. Es kann auch niemand so dencken oder sprechen, als
-          <lb />höchst-unbedachtsame Menschen, deren es die Menge gibt, und denen der Kopf zu recht
-          <lb />gebracht werden muß. Gesetzt auch, jemand wäre ein blosser Verfasser musicalischer
-          <lb />Schrissten, die allerdings zur Praxi gehören, und liesse sich, nebst andern unnaussetzl-
-          <lb />chen Verrichtungen, die förmliche Einrichtung der Wissenschaft, <hi rendition="#b">Melodien zu
-          <lb />machen</hi>, dermassen angelegen seyn, daß die gehörige Fertigkeit auf dem Clavier eini-
-          <lb />ger massen dadurch hindan gesetzet würde: wie folgt daraus ein bündiger Schluß,
-          <lb />daß andere deßwegen zu entschuldigen sind? Es werden tausend Sachen gesetzt, die der
-          <lb />Verfasser selber zu bewerckstelligen nicht gebunden ist, noch seyn kann. Man mögte ja
-          <lb />wol für einen Haupt-Violinisten ein Solo verfertigen, das weder Teutsche noch Ita-
-          <lb />liänische Capellmeister zu spielen geschickt wären; dennoch wird es der besagte Vir-
-          <lb />tuose thun. Es würde einer gebeten, etwas sonderbares auf Wind-Instrumente zu
-          <lb />setzen, damit diesem oder jenem künstlichen Spieler gedienet wäre: wird denn der
-          <lb />Verfasser dadurch genöthiget, solche Sachen selbst, in der grössesten Vollenkommen-
-          <lb />heit, herauszubringen; ob er gleich sonst eine ziemliche Geige und Flöte spielte? Tau-
-          <lb />send dergleichen wären anzuführen, wenn man sich dißfalls zu rechtfertigen nöthig
-          <lb />hätte; allein, jedermann wird von selbsten schliessen, daß der Beweiß-Grund falsch
-          <lb />sey, wenn gesagt wird: Der Verfasser kann diese Prob Stücke selber nur so eben
+          und es nicht können; wenn ich gleich hier, ſo zu reden, keine Ausnahm machen könnte,
+          <lb />und mich von jedem Haluncken auf die Probe ſetzen laſſen müſſe: ſo ſehe doch nicht, was
+          <lb />den ſcheelsüchtigen Leuten alles dieſes heiſſen würde. Denn erſtlich ſetze ich zum
+          <lb />Grunde, daß einer ſolchen Probe niemand vernünfttiger Weiſe unterworffen ſeyn
+          <lb />kann, als der ſich aufunbedachtſame Art vermiſſt, alles aus dem Stegreiff, ohne Un-
+          <lb />terſcheid, bey dem erſten Anblick, wegſpielen zu können. So weit aber gibt man ſich
+          <lb />diſſeits nicht ab; ſondern geftehet gerne, daß, je mehr der Sache nachgeſonnen wird, je
+          <lb />unerfahrner man ſich befinde. Es kann auch niemand ſo dencken oder ſprechen, als
+          <lb />höchſt-unbedachtſame Menſchen, deren es die Menge gibt, und denen der Kopf zu recht
+          <lb />gebracht werden muß. Geſetzt auch, jemand wäre ein bloſſer Verfaſſer musicaliſcher
+          <lb />Schrifften, die allerdings zur Praxi gehören, und lieſſe ſich, nebſt andern unnausſetzl-
+          <lb />chen Verrichtungen, die förmliche Einrichtung der Wiſſenſchaft, <hi rendition="#b">Melodien zu
+          <lb />machen</hi>, dermaſſen angelegen ſeyn, daß die gehörige Fertigkeit auf dem Clavier eini-
+          <lb />ger maſſen dadurch hindan geſetzet würde: wie folgt daraus ein bündiger Schluß,
+          <lb />daß andere deßwegen zu entſchuldigen ſind? Es werden tausend Sachen geſetzt, die der
+          <lb />Verfaſſer ſelber zu bewerckſtelligen nicht gebunden ist, noch ſeyn kann. Man mögte ja
+          <lb />wol für einen Haupt-Violiniſten ein Solo verfertigen, das weder Teutſche noch Ita-
+          <lb />liäniſche Capellmeiſter zu ſpielen geſchickt wären; dennoch wird es der beſagte Vir-
+          <lb />tuoſe thun. Es würde einer gebeten, etwas ſonderbares auf Wind-Inſtrumente zu
+          <lb />ſetzen, damit dieſem oder jenem künstlichen Spieler gedienet wäre: wird denn der
+          <lb />Verfaſſer dadurch genöthiget, ſolche Sachen ſelbſt, in der gröſſesten Vollenkommen-
+          <lb />heit, herauszubringen; ob er gleich ſonſt eine ziemliche Geige und Flöte ſpielte? Tau-
+          <lb />ſend dergleichen wären anzuführen, wenn man ſich dißfalls zu rechtfertigen nöthig
+          <lb />hätte; allein, jedermann wird von ſelbſten ſchlieſſen, daß der Beweiß-Grund falſch
+          <lb />ſey, wenn geſagt wird: Der Verfaſſer kann dieſe Prob Stücke ſelber nur ſo eben
           <surplus reason="repeated">eben</surplus>
-          <lb />spielen, dahero dürffens andere gar nicht können. Es ist hier die Frage nicht, was
-          <lb />der Verfasser kann, sondern was der eingebildete Bursche kann, der alles wissen will.
-          <lb />Ich könnte wol den weisen <persName corresp="#ed_mnv_cks_tlb">Horatianischen</persName> Spruch:
+          <lb />ſpielen, dahero dürffens andere gar nicht können. Es ist hier die Frage nicht, was
+          <lb />der Verfaſſer kann, ſondern was der eingebildete Burſche kann, der alles wiſſen will.
+          <lb />Ich könnte wol den weiſen <persName corresp="#ed_mnv_cks_tlb">Horatianiſchen</persName> Spruch:
           <lb />
           <note n="*)" place="foot">
             <persName corresp="#ed_mnv_cks_tlb">Hor.</persName> <bibl corresp="#ed_hgg_fw1_5lb">de Art. Poet.</bibl> V. 306.
-            Es hatte nehmlich Horatius nie ein theatralisches oder episches Ge-
-            <lb />dicht geschrieben, und gab doch Regeln davon, die biß auf den heutigen Tag hochgeachtet
+            Es hatte nehmlich Horatius nie ein theatraliſches oder epiſches Ge-
+            <lb />dicht geſchrieben, und gab doch Regeln davon, die biß auf den heutigen Tag hochgeachtet
             <lb />werden.
           </note>
           <hi rendition="#aq">
-            <quote>Munus &amp; officium, nil scribens, ipse docebo</quote>,
+            <quote>Munus &amp; officium, nil ſcribens, ipſe docebo</quote>,
           </hi>
-          folgender Gestalt verteutschen und sagen:
+          folgender Geſtalt verteutſchen und ſagen:
           <hi rendition="#b">
-            <quote>Laß ich mich selber gleich nicht mehr mit Spielen Horen;
+            <quote>Laß ich mich ſelber gleich nicht mehr mit Spielen Horen;
               So kann ich andre doch den General-Baß lehren.</quote>
           </hi>
           <fw place="bottom" type="catch">Da.</fw>
           <pb n="443" />
 
-          Damit man aber nicht meyne, ich wolle es gar von mir lehnen, so will ich doch, oh-
-          <lb />ne eintzigen Ruhm, hiemit versichert haben, daß, wenn es eine Probe gel-
-          <lb />ten sollte, man noch endlichst damit fort zu kommen, und, der schlechteste nicht
-          <lb />zu seyn, hoffen wollte. Es ist ja wol niemand so einfältig, daß er sich von Hud-
-          <lb />lern weiß machen lasse, es sey die <bibl corresp="#ed_pnf_pcb_5lb">Organisten-Probe</bibl> etwa wie die Platonische
-          <lb />Republick. Mit meiner unschuldigen <name type="musicalWork" corresp="#ed_xlx_gfb_5lb">Sonate fürs Clavier</name> habe schon dergleichen
-          <lb />Vorfälle erlebet, da es erstlich hieß: Ich könne sie selber nicht spielen; und wie
-          <lb />diese Unwahrheit endlich, bey Gelegenheit öffentlicher Concerte, vor vielen Zuhö-
-          <lb />rern zu Schanden wurde, wüsten die Tropffen sonst nichts zu sagen, als: Ich hät-
-          <lb />te gut Spielens; es wäre meine eigene Arbeit; andere würdens wol bleiben lassen;
-          <lb />deßwegen hätte ich die Sonate mir auch selber, verblümter Weise, zuschreiben wol-
+          Damit man aber nicht meyne, ich wolle es gar von mir lehnen, ſo will ich doch, oh-
+          <lb />ne eintzigen Ruhm, hiemit verſichert haben, daß, wenn es eine Probe gel-
+          <lb />ten ſollte, man noch endlichſt damit fort zu kommen, und, der ſchlechteſte nicht
+          <lb />zu ſeyn, hoffen wollte. Es ist ja wol niemand ſo einfältig, daß er ſich von Hud-
+          <lb />lern weiß machen laſſe, es ſey die <bibl corresp="#ed_pnf_pcb_5lb">Organiſten-Probe</bibl> etwa wie die Platoniſche
+          <lb />Republick. Mit meiner unſchuldigen <name type="musicalWork" corresp="#ed_xlx_gfb_5lb">Sonate fürs Clavier</name> habe ſchon dergleichen
+          <lb />Vorfälle erlebet, da es erſtlich hieß: Ich könne ſie ſelber nicht ſpielen; und wie
+          <lb />dieſe Unwahrheit endlich, bey Gelegenheit öffentlicher Concerte, vor vielen Zuhö-
+          <lb />rern zu Schanden wurde, wüſten die Tropffen ſonſt nichts zu ſagen, als: Ich hät-
+          <lb />te gut Spielens; es wäre meine eigene Arbeit; andere würdens wol bleiben laſſen;
+          <lb />deßwegen hätte ich die Sonate mir auch ſelber, verblümter Weiſe, zuschreiben wol-
           <lb />len, mit den Worten : <hi rendition="#aq">Didiée à celui, qui la jouera le mieux</hi>, und was des ab-
-          <lb />geschmackten Zeuges mehr war, welches wol ein Frauenzimmer mit Spielen
-          <lb />wiederlegen kann. Nun stelle mir schon vor, daß die Pflaster-Treter nicht viel an-
-          <lb />ders reden werden, wenn sie Gelegenheit haben sollten, ihre, über gegenwärtige
-          <lb />Arbeit gehabte Träume vernichtet zu sehen. Wollen sie doch mein Harmoni-
-          <lb />sches Denckmahl nicht gelten lassen, vielweniger ihren Schülern zu kauffen an-
-          <lb />rathen, unter dem Vorwand: Die Sachen könnten, wegen der Schlüssel und
-          <lb />anderer Umstände, hierzu Lande nicht gebraucht werden; da doch die wahre Ur-
-          <lb />sache ist, daß die guten Helden nicht fähig sind, die Stücke zu spielen. Und dero-
-          <lb />wegen, ihre Unwissenheit zu beschönen, einfältigen Leuten einprägen wollen,
-          <lb />der Verfasser sey eben so ein Schöps, wie sie, und könne sein eigen Machwerck selbst
-          <lb />nicht spielen, alsdann vermeynen sie sich recht wol verantwortet zu haben. O,
-          <lb />mögte ich doch die Freude sehen, daß solche Zwerge, ihrer jämmerlichen Stümpe-
-          <lb />rey und ungescheyten Verläumdung wegen, einst durch diese gegenwärtige schlec-
-          <lb />hte <hi rendition="#b">Prob-Stücke</hi> schamroth gemacht würden!
+          <lb />geſchmackten Zeuges mehr war, welches wol ein Frauenzimmer mit Spielen
+          <lb />wiederlegen kann. Nun ſtelle mir ſchon vor, daß die Pflaster-Treter nicht viel an-
+          <lb />ders reden werden, wenn ſie Gelegenheit haben ſollten, ihre, über gegenwärtige
+          <lb />Arbeit gehabte Träume vernichtet zu ſehen. Wollen ſie doch mein Harmoni-
+          <lb />ſches Denckmahl nicht gelten laſſen, vielweniger ihren Schülern zu kauffen an-
+          <lb />rathen, unter dem Vorwand: Die Sachen könnten, wegen der Schlüſſel und
+          <lb />anderer Umſtände, hierzu Lande nicht gebraucht werden; da doch die wahre Ur-
+          <lb />ſache ist, daß die guten Helden nicht fähig ſind, die Stücke zu ſpielen. Und dero-
+          <lb />wegen, ihre Unwiſſenheit zu beſchönen, einfältigen Leuten einprägen wollen,
+          <lb />der Verfaſſer ſey eben ſo ein Schöps, wie ſie, und könne ſein eigen Machwerck ſelbſt
+          <lb />nicht ſpielen, alsdann vermeynen ſie ſich recht wol verantwortet zu haben. O,
+          <lb />mögte ich doch die Freude ſehen, daß ſolche Zwerge, ihrer jämmerlichen Stümpe-
+          <lb />rey und ungeſcheyten Verläumdung wegen, einſt durch dieſe gegenwärtige ſchlec-
+          <lb />hte <hi rendition="#b">Prob-Stücke</hi> ſchamroth gemacht würden!
         </p>
       </div>
 
@@ -230,16 +236,16 @@
       <div n="5">
         <lb /><head>§. 5.</head>
         <lb /><p>
-          Hier hätte ich nun schöne Gelegenheit, dem so genannten <bibl corresp="#ed_bxt_bpt_tlb">Poetischen Staar-
+          Hier hätte ich nun ſchöne Gelegenheit, dem ſo genannten <bibl corresp="#ed_bxt_bpt_tlb">Poetiſchen Staar-
           <lb />Stecher</bibl>
           <note type="editorial" resp="#pfeffer">
             Mattheson bezieht sich auf die gleichnamige Publikation (1730) von
             <persName corresp="#ed_arq_vfy_qlb">Gottfried Benjamin Hancke</persName>,
             in der Mattheson scharf kritisiert wurde (vgl. Hancke, S. 111f.).
           </note>
-          seine Quacksalberey zu zeigen, Krafft welcher er mir neulich, ohne meine
-          <lb />Schuld und Missethat, die Augen auszustechen vermeynet hat: unter dem Schein,
-          <lb />das dieser Organiften-Probe vorgesetzte
+          ſeine Quackſalberey zu zeigen, Krafft welcher er mir neulich, ohne meine
+          <lb />Schuld und Miſſethat, die Augen auszustechen vermeynet hat: unter dem Schein,
+          <lb />das dieſer Organiften-Probe vorgeſetzte
           Lob-Gedicht
           <note type="editorial" resp="#pfeffer">
             zu jenem Lobgedicht hat Mattheson die Worte
@@ -251,154 +257,154 @@
               [vor Neid] der Magen platzte."
             </quote>) angefügt.</note>
           des <persName corresp="#ed_ixh_r2y_qlb">Hn. Geh. Secretar <hi rendition="#b">Königs</hi></persName>
-          <lb />zu untersuchen, u.zu tadeln. Allein, so lange meine Schrifften der Welt nützen können,
-          <lb />wie der Augenschein erweiset, so lange ist mirs auch gleichviel, ob ich von diesem
+          <lb />zu unterſuchen, u.zu tadeln. Allein, ſo lange meine Schrifften der Welt nützen können,
+          <lb />wie der Augenſchein erweiſet, ſo lange iſt mirs auch gleichviel, ob ich von dieſem
           <lb />
           <fw place="bottom" type="catch">für</fw>
           <pb n="444" />
 
-          für einen musicalischen Grillenfänger, oder von jenem für den <persName corresp="#ed_wpd_2lx_qlb">Apollo</persName> selbst ge-
-          <lb />halten werde. Es kann mir nicht zuwieder seyn, ob Hintz oder Kuntz besser setzet,
-          <lb />als ich: und ich würde mich wircklich darüber freuen, wenn hundert Organisten
-          <lb />wären, die mich in den Sack, und wieder heraus spielen könnten.
+          für einen musicaliſchen Grillenfänger, oder von jenem für den <persName corresp="#ed_wpd_2lx_qlb">Apollo</persName> ſelbſt ge-
+          <lb />halten werde. Es kann mir nicht zuwieder ſeyn, ob Hintz oder Kuntz beſſer ſetzet,
+          <lb />als ich: und ich würde mich wircklich darüber freuen, wenn hundert Organiſten
+          <lb />wären, die mich in den Sack, und wieder heraus ſpielen könnten.
           <note type="editorial" resp="#pfeffer">
             Mattheson zitiert damit Hancke, der a.a.O. schrieb:
             <quote>
-              Es giebt aber auch Leute, welche weit besser, als Mattheson spielen, wovon ich nur einen,
-              nehmlich den Herrn <persName corresp="#ed_ngx_5lx_qlb">Bach</persName> in <placeName>Leipzig</placeName> nennen will,
+              Es giebt aber auch Leute, welche weit beſſer, als Mattheſon ſpielen, wovon ich nur einen,
+              nehmlich den Herrn <persName corresp="#ed_ngx_5lx_qlb">Bach</persName> in <placeName ref="https://www.geonames.org/2879139">Leipzig</placeName> nennen will,
               welcher ihn in den Sack und wieder heraus
-              spielen wird.
+              ſpielen wird.
             </quote>
           </note>
           Ich weiß die
-          <lb />Zeit nicht, da ich ein Clavier angerühret hätte, und dringende Ursachen haben mir
-          <lb />auch das Setzen ziemlich verleidet: nicht, daß ich ebenso unglücklich darin wäre,
+          <lb />Zeit nicht, da ich ein Clavier angerühret hätte, und dringende Urſachen haben mir
+          <lb />auch das Setzen ziemlich verleidet: nicht, daß ich ebenſo unglücklich darin wäre,
           <lb />wie der Staar-Stecher glaubt, und wovon tausend gerührte Zuhörer, die noch
-          <lb />leben, das Gegentheil darthun können; sondern eines natürlichen, von GOtt ver-
+          <lb />leben, das Gegentheil darthun können; ſondern eines natürlichen, von GOtt ver-
           <lb />hängten Zufalles wegen, der kein Spotten leidet.
           <note type="editorial" resp="#pfeffer">
             Bezieht sich vermutlich auf die zunehmende Taubheit Matthesons, wegen der er 1728 den Posten des
-            Musikdirektors am Dom aufgeben musste.
+            Musikdirektors am Dom aufgeben muſſte.
           </note>
-          Mir mögte genug seyn, daß
-          <lb />der neue Verläumder, ehe er sich nur einen Begriff machen kann, welcher Gestalt
-          <lb />ich geringer eintzelner Mann, in einer Sache die mein Haupt-Wesen nicht ist, zu über-
-          <lb />treffen sei), wenigstens vier große und berühmte Ton-Künstler
+          Mir mögte genug ſeyn, daß
+          <lb />der neue Verläumder, ehe er ſich nur einen Begriff machen kann, welcher Geſtalt
+          <lb />ich geringer eintzelner Mann, in einer Sache die mein Haupt-Weſen nicht iſt, zu über-
+          <lb />treffen ſei), wenigſtens vier große und berühmte Ton-Künſtler
           <note type="editorial" resp="#pfeffer">
-            i.e.
+            <abbr>i. e.</abbr>
             <persName corresp="#ed_lhv_3sx_qlb">Händel</persName>,
             <persName corresp="#ed_qr2_hxx_qlb">Heinichen</persName>,
             <persName corresp="#ed_uyt_trx_qlb">Telemann</persName> und
             <persName corresp="#ed_ngx_5lx_qlb">Bach</persName>.
           </note>
-          (seinen Breslaui-
-          <lb />schen Organisten ungerechnet) aufstellen und zusammen setzen muß. Allein, es ist
-          <lb />doch gleichwol unter diesen vieren einer, der, seines fertigen Spielens und künstli-
-          <lb />chen Setzens ungeachtet, weder mir, noch einen andern, so leicht ein Muster zu sing-
-          <lb />baren Sachen abgeben wird; und mit zween derselben nähme ichs allemahl im Spie-
-          <lb />len auf, sowohl als im Schreiben; wenn auch noch ihrer vier dazu kamen. Und
-          <lb />was ich solcher Gestalt schreibe, wie <abbr>z. E.</abbr> diese Organisten-Probe, ist ja keine blosse
-          <lb />Theorie, sondern eine höhere Praxis, als die im Spielen oder Setzen bestehet:
-          <lb />denn alle meine Regeln sind aus einer ehemahligen grossen Uebung hergenommen,
-          <lb />und gehen auch wieder dahin. Zwar mögte es eben niemand sonderlich befremden,
-          <lb />wenn etwan ein armes <name type="musicalWork" corresp="#ed_rzg_cx1_5lb">Dutzend Flöten-Sonaten</name>, davon doch im <bibl corresp="#ed_ay3_5w1_5lb">musikalischen Pa-
-          <lb />trioten</bibl>, pag. 232. so gar von
+          (seinen Breſlaui-
+          <lb />ſchen Organiſten ungerechnet) aufſtellen und zusammen ſetzen muß. Allein, es iſt
+          <lb />doch gleichwol unter dieſen vieren einer, der, ſeines fertigen Spielens und künſtli-
+          <lb />chen Setzens ungeachtet, weder mir, noch einen andern, ſo leicht ein Muster zu ſing-
+          <lb />baren Sachen abgeben wird; und mit zween derſelben nähme ichs allemahl im Spie-
+          <lb />len auf, ſowohl als im Schreiben; wenn auch noch ihrer vier dazu kamen. Und
+          <lb />was ich ſolcher Geſtalt ſchreibe, wie <abbr>z. E.</abbr> dieſe Organiſten-Probe, ist ja keine bloſſe
+          <lb />Theorie, ſondern eine höhere Praxis, als die im Spielen oder Setzen beſtehet:
+          <lb />denn alle meine Regeln ſind aus einer ehemahligen groſſen Uebung hergenommen,
+          <lb />und gehen auch wieder dahin. Zwar mögte es eben niemand ſonderlich befremden,
+          <lb />wenn etwan ein armes <name type="musicalWork" corresp="#ed_rzg_cx1_5lb">Dutzend Flöten-Sonaten</name>, davon doch im <bibl corresp="#ed_ay3_5w1_5lb">musikaliſchen Pa-
+          <lb />trioten</bibl>, pag. 232. ſo gar von
           <hi rendition="#b"><placeName ref="https://www.geonames.org/3067696">Praag</placeName></hi> aus,
-          ein gutes Zeugnis stehet, nachdem es
+          ein gutes Zeugnis ſtehet, nachdem es
           <lb />weit und breit über zehn Jahr nützlich gebraucht worden, endlich etwas unbrauchbar
-          <lb />zu werden anfangen sollte: in Betracht die lieben Noten-Wercke (Fugen und Vor-
-          <lb />schrifften ausgenomen) gemeiniglich nur das Alter eines Pferdes zu erreichen pflegen,
-          <lb />welches, wenn es sein zehntes Jahr zurück gelegt hat, je länger je gelbere Zähne be-
-          <lb />kömmt. Hiernächst würde ich auch, nach den Regeln einer genauen Bescheiden-
+          <lb />zu werden anfangen ſollte: in Betracht die lieben Noten-Wercke (Fugen und Vor-
+          <lb />ſchrifften ausgenomen) gemeiniglich nur das Alter eines Pferdes zu erreichen pflegen,
+          <lb />welches, wenn es ſein zehntes Jahr zurück gelegt hat, je länger je gelbere Zähne be-
+          <lb />kömmt. Hiernächſt würde ich auch, nach den Regeln einer genauen Beſcheiden-
           <lb />heit, wol eben nicht läugnen, daß
           <persName corresp="#ed_ngx_5lx_qlb">Bardus</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Bach</note>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Bach</note>
           und
           <persName corresp="#ed_lhv_3sx_qlb">Hiagnis</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Händel</note>,
-          theils geschwinder, theils
-          <lb />künstlicher spielen; daß
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Händel</note>,
+          theils geſchwinder, theils
+          <lb />künſtlicher ſpielen; daß
           <persName corresp="#ed_uyt_trx_qlb">Telephanes</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Telemann</note>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Telemann</note>
           reichlicher fetze, und daß
-          <persName ref="http://d-nb.info/gnd/118709712">Hermogenes</persName>
-          <note type="editorial" resp="#pfeffer">i.e. Heinichen</note>,
+          <persName corresp="#ed_qr2_hxx_qlb">Hermogenes</persName>
+          <note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Heinichen</note>,
           wenn
           <lb />er länger gelebet hätte,
           <note type="editorial" resp="#pfeffer">
             Heinichen starb zwei Jahre vor Veröffentlichung der zweiten Auflage der Organistenprobe.
           </note>
-          es auch vielleicht mit Bücherschreiben höher gebracht haben
-          <lb />mögte, als ich. Jedoch, ob man sich gleich in Briefen, ans Höflichkeit, einen
-          <lb />gehorsamen Diener nennet; dürffte doch derjenige thöricht genug handeln, der die
-          <lb />Aufschrifft seiner Antwort darnach einrichten, und schreiben wollte: An meinen
+          es auch vielleicht mit Bücherſchreiben höher gebracht haben
+          <lb />mögte, als ich. Jedoch, ob man ſich gleich in Briefen, ans Höflichkeit, einen
+          <lb />gehorſamen Diener nennet; dürffte doch derjenige thöricht genug handeln, der die
+          <lb />Aufſchrifft ſeiner Antwort darnach einrichten, und ſchreiben wollte: An meinen
           <fw place="bottom" type="catch">gehor-</fw>
           <pb n="445" />
 
-          gehorsamen Diener
-          <lb /><hi rendition="#aq"><persName corresp="#ed_b2n_mx1_5lb">Marsyas</persName></hi>
+          gehorſamen Diener
+          <lb /><hi rendition="#aq"><persName corresp="#ed_b2n_mx1_5lb">Marſyas</persName></hi>
           <note type="editorial" resp="#pfeffer">Pseodonym für Mattheson selbst.</note>.
-          Die Anwendung ist leicht zu machen. Jener Su-
-          <lb />perintendent <sic>in</sic> <placeName ref="https://www.geonames.org/2872570">Mecklenburgischen</placeName>
-          hielte einsmahls Untersuchung in seinem Spren-
-          <lb />gel, und forschte nach, was die Pfarr-Kinder gutes aus dem Catechismo wusten.
-          <lb />Als er nun zu einem alten Bauren kam, und frug: Wie viel sind Haupt-Stü-
-          <lb />cke der Christlichen Lehre? da antwortete der Bauer: Herr Superintendent,
-          <lb /> das ist eine seltsame Frage, das wisset ihr besser, als ich. Was deucht
-          <lb />dem <persName>Staarstecher</persName>, hätte er es nicht auch so machen können, und als denn mehr Ehre von
-          <lb />seiner unerbetenen Antwort gehabt. Denn <persName corresp="#ed_ixh_r2y_qlb">Herr König</persName> weiß viel besser, als er,
-          <lb />wie mein Spielen, Setzen und Schreiben, beschaffen sey. <persName corresp="#ed_ixh_r2y_qlb">Herr König</persName> hat auch
-          <lb />nirgend gesagt, daß ich besser spiele, setze und schreibe, als andere, die sich <sic>darinu</sic>
-          <lb />theilen; als ob es eine Schande wäre, groß, und nicht zugleich der grösseste zu
-          <lb />seyn; sondern die Meynung ist mir gewesen, daß nicht jedermann diese drey Ei-
-          <lb />genschafften <hi rendition="#b">zugleich</hi> in demselben Grad, und in einer Person besitze. Der Staar-
-          <lb />Stecher wird also nöthig haben, erst seine eigene Augen zu curiren, um das Wört-
-          <lb />lein <hi rendition="#b">zugleich</hi> genau zu betrachten, ehe er sich an andre macht. Er kann ja nicht
-          <lb />wissen, wie mein Spielen vor Jahren beschaffen gewesen sey: denn er hat mich nie
-          <lb />gehöret, und will doch davon urtheilen. Er macht es wie jener Schneider zu <placeName>Franck-
-          <lb />furt am Mayn</placeName>, welcher zu andern Schneidern kam, und sagte: Ach! in der
-          <lb /><placeName>Schnur-Gasse</placeName>, im Wilden Mann, ist ein köstlicher Trunck rother Wein. Die an-
-          <lb />dern Schneider fragten: Meister Hans, wie lange ist es, daß ihr den Wein
-          <lb />versuchet habt? Meister Hans antwortete: Ich habe ihn nicht versucht, sondern
-          <lb />meines Vatern Bruder Sohn, der kleine Petermann, hat gesehen, daß etliche
-          <lb />Leute ihn getruncken, und allzeit die Gläser rein ausgeleert haben; daraus schliesse
-          <lb />ich, daß es ohne allen Zweiffel ein köstlicher Wein seyn müsse. Zudem haben fast
-          <lb />alle Lob- und Zuschrifften
+          Die Anwendung iſt leicht zu machen. Jener Su-
+          <lb />perintendent <sic>in</sic> <placeName ref="https://www.geonames.org/2872570">Mecklenburgiſchen</placeName>
+          hielte einſmahls Unterſuchung in ſeinem Spren-
+          <lb />gel, und forſchte nach, was die Pfarr-Kinder gutes aus dem Catechiſmo wuſten.
+          <lb />Als er nun zu einem alten Bauren kam, und frug: Wie viel ſind Haupt-Stü-
+          <lb />cke der Chriſtlichen Lehre? da antwortete der Bauer: Herr Superintendent,
+          <lb /> das iſt eine ſeltſame Frage, das wiſſet ihr beſſer, als ich. Was deucht
+          <lb />dem <persName>Staarſtecher</persName>, hätte er es nicht auch ſo machen können, und als denn mehr Ehre von
+          <lb />ſeiner unerbetenen Antwort gehabt. Denn <persName corresp="#ed_ixh_r2y_qlb">Herr König</persName> weiß viel beſſer, als er,
+          <lb />wie mein Spielen, Setzen und Schreiben, beſchaffen ſey. <persName corresp="#ed_ixh_r2y_qlb">Herr König</persName> hat auch
+          <lb />nirgend geſagt, daß ich beſſer ſpiele, ſetze und ſchreibe, als andere, die ſich <sic>darinu</sic>
+          <lb />theilen; als ob es eine Schande wäre, groß, und nicht zugleich der gröſſeſte zu
+          <lb />ſeyn; ſondern die Meynung iſt mir geweſen, daß nicht jedermann dieſe drey Ei-
+          <lb />genſchafften <hi rendition="#b">zugleich</hi> in demſelben Grad, und in einer Perſon beſitze. Der Staar-
+          <lb />Stecher wird alſo nöthig haben, erſt ſeine eigene Augen zu curiren, um das Wört-
+          <lb />lein <hi rendition="#b">zugleich</hi> genau zu betrachten, ehe er ſich an andre macht. Er kann ja nicht
+          <lb />wiſſen, wie mein Spielen vor Jahren beſchaffen geweſen ſey: denn er hat mich nie
+          <lb />gehöret, und will doch davon urtheilen. Er macht es wie jener Schneider zu <placeName ref="https://www.geonames.org/2925533">Franck-
+          <lb />furt am Mayn</placeName>, welcher zu andern Schneidern kam, und ſagte: Ach! in der
+          <lb /><placeName>Schnur-Gaſſe</placeName>, im Wilden Mann, iſt ein köſtlicher Trunck rother Wein. Die an-
+          <lb />dern Schneider fragten: Meiſter Hans, wie lange iſt es, daß ihr den Wein
+          <lb />verſuchet habt? Meiſter Hans antwortete: Ich habe ihn nicht verſucht, ſondern
+          <lb />meines Vatern Bruder Sohn, der kleine Petermann, hat geſehen, daß etliche
+          <lb />Leute ihn getruncken, und allzeit die Gläſer rein ausgeleert haben; daraus ſchlieſſe
+          <lb />ich, daß es ohne allen Zweiffel ein köſtlicher Wein ſeyn müſſe. Zudem haben faſt
+          <lb />alle Lob- und Zuſchrifften
           <note n="*)" place="foot">
-            <foreign xml:lang="eng">
-              Dedications and etwas Panegyricks are frequently ridiculous, let them be addressed whe-
+            <hi rendition="#aq"><foreign xml:lang="eng">
+              Dedications and etwas Panegyricks are frequently ridiculous, let them be addreſſed whe-
               <lb />re they will, <hi rendition="#i"><bibl corresp="#ed_oz1_by1_5lb">Tatler</bibl>, No.</hi> 92.
-            </foreign>
+            </foreign></hi>
           </note>
-          lächerliches, vergrößerndes oder ausschweif-
-          <lb />fendes an sich; ohne daß sich jemahls ein vernünfftiger Mensch hat gelüsten lassen,
-          <lb />selbige mathematisch zu untersuchen. Ich mag nicht erwehnen, was andere grosse
+          lächerliches, vergrößerndes oder ausſchweif-
+          <lb />fendes an ſich; ohne daß ſich jemahls ein vernünfftiger Menſch hat gelüſten laſſen,
+          <lb />ſelbige mathematiſch zu unterſuchen. Ich mag nicht erwehnen, was andere groſſe
           <lb />Leute, als die Herren: <persName corresp="#ed_y4p_gvx_qlb">Brockes</persName>,
           <persName corresp="#ed_tlg_lwy_qlb">Fabricius</persName>, <persName corresp="#ed_jrt_bz1_5lb">Richey</persName>,
           etc. aus eigener Er-
           <lb />fahrung von meiner Wenigkeit zu rühmen beliebet, und mir dadurch mehr Ehre,
-          <lb />als ich verdiene, angethan haben: das alles aber nehmen wir nicht mit Stricken, son-
-          <lb />dern mit Latten, wie der <persName>Staar-Stecher</persName> redet. Und da ein eintziger von diesen in
-          <lb />der gelehrten und geschliffenen Welt wol zehn mahl so viel gilt, als funfzig <persName corresp="#ed_arq_vfy_qlb">Hancken</persName>,
-          <fw place="bottom" type="catch">so</fw>
+          <lb />als ich verdiene, angethan haben: das alles aber nehmen wir nicht mit Stricken, ſon-
+          <lb />dern mit Latten, wie der <persName>Staar-Stecher</persName> redet. Und da ein eintziger von dieſen in
+          <lb />der gelehrten und geſchliffenen Welt wol zehn mahl ſo viel gilt, als funfzig <persName corresp="#ed_arq_vfy_qlb">Hancken</persName>,
+          <fw place="bottom" type="catch">ſo</fw>
           <pb n="446" />
 
-          so mögen die Schmähungen des letztem mit dem, obgleich gar zu höflich scheinenden,
+          ſo mögen die Schmähungen des letztem mit dem, obgleich gar zu höflich ſcheinenden,
           <lb />Beifall jener hochberühmten Männer in keinen Vergleich kommen. Was frägt
-          <lb />endlich auch ein reicher Mann darnach, wenn ein Bettler von ihm spricht: er sey
+          <lb />endlich auch ein reicher Mann darnach, wenn ein Bettler von ihm ſpricht: er ſey
           <lb />arm? Denn,
           <hi rendition="#b">
             <quote>
-              <lb />wer von Gelobten
+              <lb />Wer von Gelobten
               <note n="*)" place="foot">
-                <foreign xml:lang="lat">Princibus placuisse viris non ultima laus est.</foreign>
-                <bibl corresp="#ed_svp_xyb_5lb">Hor. Epist. Libr. 1</bibl>. Das heisst sonst:
-                <foreign xml:lang="lat">Laudaria laudatis.</foreign>
+                <hi rendition="#aq"><foreign xml:lang="lat">Princibus placuiſſe viris non ultima laus eſt.</foreign>
+                <bibl corresp="#ed_svp_xyb_5lb">Hor. Epiſt. Libr. 1</bibl>.</hi> Das heiſſt ſonſt:
+                <hi rendition="#aq"><foreign xml:lang="lat">Laudaria laudatis.</foreign></hi>
               </note>
               wird gelobt,
               <lb />Der achtets nicht, ob Momus tobt:
-              <lb />Er weiß ja wol, daß, wenn gescholtne schelten,
-              <lb />So könn' es kaum so viel, als Weiber-Zeugniß, gelten.
+              <lb />Er weiß ja wol, daß, wenn geſcholtne ſchelten,
+              <lb />So könn' es kaum ſo viel, als Weiber-Zeugniß, gelten.
             </quote>
           </hi>
         </p>
@@ -408,41 +414,41 @@
         <head>§. 6.</head>
         <lb />
         <p>
-          Damit aber wiederum zum Wercke geschritten werde, muß ich ben diesem letzten E-
-          <lb />xempel das Bedencken nicht unerinnert lassen, welches mir, wegen der Notirnug, abson-
-          <lb />derlich bey dergleichen Tonen, aufstösst. Da stelle nur zwar fest, daß (nächft H dur, Cis
-          <lb />moll, Gis dur, und B moll) diese viere, so wie sie in der Ordnung folgen, die schwer-
-          <lb />sten seyn mögen, nehmlich: Fis dur,Gis moll, Dis moll, und endlich Cis dur.
-          <lb />Es würde sich aber vieles dabey leichter thun lassen, wenn man nur Zeichen und
-          <lb />Noten genug hätte, alles auszudrücken. Daß wir aber solches nicht haben, will ich
-          <lb />beweisen, und zwar nur, Kürtze halber, nach Masßgebung gegenwärtiger letzten Vor-
-          <lb />schrifft: zumal die mit ♭ bezeichnete Tone dem Ubelstande nicht sosehr unterworffen zu
-          <lb />seyn scheinen. Ich habe jedoch diese Prob-Stücke ausdrücklich auf die Art notiret, wie es
-          <lb />viele große Meister thun, (davon ich hernach Exempel anführen will) damit man
-          <lb />mich nicht beschuldige, daß ich was neues machen wolle. Mir gefällt aber die Art
-          <lb />mit den zwey Doppel-Kreutzen nicht zum besten. Denn da findet man <abbr>z. E.</abbr> im <ref target="">neun-
-          <lb />ten Tact dieses letzten Prob-Stücks</ref> ein <hi rendition="#b"><ref target="">a</ref></hi>, welches aussiehet,
-          als sey es ein <hi rendition="#b">gis</hi>. Ein
+          Damit aber wiederum zum Wercke geſchritten werde, muß ich ben dieſem letzten E-
+          <lb />xempel das Bedencken nicht unerinnert laſſen, welches mir, wegen der Notirnug, abſon-
+          <lb />derlich bey dergleichen Tonen, aufſtöſſt. Da ſtelle nur zwar feſt, daß (nächft H dur, Cis
+          <lb />moll, Gis dur, und B moll) dieſe viere, ſo wie ſie in der Ordnung folgen, die ſchwer-
+          <lb />ſten ſeyn mögen, nehmlich: Fis dur,Gis moll, Dis moll, und endlich Cis dur.
+          <lb />Es würde ſich aber vieles dabey leichter thun laſſen, wenn man nur Zeichen und
+          <lb />Noten genug hätte, alles auszudrücken. Daß wir aber ſolches nicht haben, will ich
+          <lb />beweiſen, und zwar nur, Kürtze halber, nach Masßgebung gegenwärtiger letzten Vor-
+          <lb />ſchrifft: zumal die mit ♭ bezeichnete Tone dem Ubelſtande nicht ſoſehr unterworffen zu
+          <lb />ſeyn ſcheinen. Ich habe jedoch dieſe Prob-Stücke ausdrücklich auf die Art notiret, wie es
+          <lb />viele große Meiſter thun, (davon ich hernach Exempel anführen will) damit man
+          <lb />mich nicht beſchuldige, daß ich was neues machen wolle. Mir gefällt aber die Art
+          <lb />mit den zwey Doppel-Kreutzen nicht zum beſten. Denn da findet man <abbr>z. E.</abbr> im <ref target="">neun-
+          <lb />ten Tact dieſes letzten Prob-Stücks</ref> ein <hi rendition="#b"><ref target="">a</ref></hi>, welches ausſiehet,
+          als ſey es ein <hi rendition="#b">gis</hi>. Ein
           <lb />gleiches <hi rendition="#b">g</hi> trifft man im
           <ref target="">dreizehnten, vierzehnten, funffzehnten und achtzehnten
-          <lb />Tact des ersten Theils</ref> an; <abbr>It.</abbr> im <ref target="">ersten, zweiten, dritten, vierten, sechsten, achten,
+          <lb />Tact des erſten Theils</ref> an; <abbr>It.</abbr> im <ref target="">erſten, zweiten, dritten, vierten, ſechſten, achten,
           <lb />neunten, elfften und dreizehnten Tact des andern Theils</ref>, welche alle wie ein <hi rendition="#b">fis</hi> in die
-          <lb />Augen fallen. Es stößt im <ref target="">zweiten, sechsten und dreizehnten Tact des andern Theils
-          <lb />ein e auf</ref>, welches eben so fremd ist, anbey im <ref target="">sechsten und achten Tact besagten Theils
-          <lb />ein gewisses <hi rendition="#b">d</hi></ref>, das auch nicht recht gekleidet zu seyn scheinet.
+          <lb />Augen fallen. Es ſtößt im <ref target="">zweiten, ſechſten und dreizehnten Tact des andern Theils
+          <lb />ein e auf</ref>, welches eben ſo fremd iſt, anbey im <ref target="">ſechſten und achten Tact beſagten Theils
+          <lb />ein gewiſſes <hi rendition="#b">d</hi></ref>, das auch nicht recht gekleidet zu ſeyn ſcheinet.
         </p>
       </div>
 
       <div n="7">
         <lb /><head>§. 7.</head>
         <lb /><p>
-          Nun mögte zwar wol solche Ungeschicklichkeit bey einem Recitativ nicht so
-          <fw place="bottom" type="catch">sehr</fw>
+          Nun mögte zwar wol ſolche Ungeſchicklichkeit bey einem Recitativ nicht ſo
+          <fw place="bottom" type="catch">ſehr</fw>
           <pb n="447" />
 
-          <lb />sehr vermercket werden: weil der General-Bass allda nicht so genau an einander
-          <lb />hänget; aber in ariosen Sachen siehet es wircklich sehr mangelhafft aus, welches
-          <lb />niemand widersprechen kann. Wie diesem Mangel inzwischen abzuhelffen? das ist
+          <lb />ſehr vermercket werden: weil der General-Baß allda nicht ſo genau an einander
+          <lb />hänget; aber in arioſen Sachen ſiehet es wircklich ſehr mangelhafft aus, welches
+          <lb />niemand widerſprechen kann. Wie dieſem Mangel inzwiſchen abzuhelffen? das iſt
           <lb />eine Frage.
         </p>
       </div>
@@ -450,38 +456,38 @@
       <div n="8">
         <lb /><head>§. 8.</head>
         <lb /><p>
-          Es haben schon, nebst verschiedenen andern, sowol <persName corresp="#ed_knv_rsx_qlb">Kircher</persName>
-          als <persName corresp="#ed_os2_1vx_qlb">Buliowsky</persName>,
-          <lb />zwar nicht ihre eigene, doch die vermeynten vielfältigen Mängel unsers Claviers wahrgenommen,
-          <lb />und denselben, durch drey Ordnungen der Palmulen, zu Hülffe
-          <lb />zu kommen gesucht, da, anstatt der zwölff Stuffen, womit sich unsere Oktave bis-
-          <lb />her behilfft, neunzehn seyn müsten, nemlich: ein Tangent zwischen h und c, einer
-          <lb />über dem cis, einer über dem dis, denn zwischen e und f, über dem fis, gis und
-          <lb />b, welches eigentlich ins enharmonische Geschlecht treten heist. Aber es will doch
-          <lb />solche vermeynte Verbesserung noch lang nicht zurreichen, sondern entdecket nur
+          Es haben ſchon, nebſt verſchiedenen andern, ſowol <persName corresp="#ed_knv_rsx_qlb">Kircher</persName>
+          als <persName corresp="#ed_os2_1vx_qlb">Buliowſky</persName>,
+          <lb />zwar nicht ihre eigene, doch die vermeynten vielfältigen Mängel unſers Claviers wahrgenommen,
+          <lb />und denſelben, durch drey Ordnungen der Palmulen, zu Hülffe
+          <lb />zu kommen geſucht, da, anſtatt der zwölff Stuffen, womit ſich unſere Oktave bis-
+          <lb />her behilfft, neunzehn ſeyn müsten, nemlich: ein Tangent zwiſchen h und c, einer
+          <lb />über dem cis, einer über dem dis, denn zwiſchen e und f, über dem fis, gis und
+          <lb />b, welches eigentlich ins enharmoniſche Geſchlecht treten heiſt. Aber es will doch
+          <lb />ſolche vermeynte Verbeſſerung noch lang nicht zurreichen, ſondern entdecket nur
           <lb />immer mehr und mehr, was daran fehlet. Und wenn wir die Octave nach allen
-          <lb />dreien Geschlechtern, der gemeinen Meynung nach, recht vollständig haben woll-
-          <lb />ten, so müsten nach <persName corresp="#ed_knv_rsx_qlb">Kirchers</persName>
+          <lb />dreien Geſchlechtern, der gemeinen Meynung nach, recht vollſtändig haben woll-
+          <lb />ten, ſo müsten nach <persName corresp="#ed_knv_rsx_qlb">Kirchers</persName>
           <note n="a)" place="foot">
             <hi rendition="#aq">
-              <abbr>vid.</abbr> <persName corresp="#ed_knv_rsx_qlb">Kirch.</persName> <bibl corresp="#ed_wcp_pz1_5lb">Musurg.</bibl> pag. 150.
+              <abbr>vid.</abbr> <persName corresp="#ed_knv_rsx_qlb">Kirch.</persName> <bibl corresp="#ed_wcp_pz1_5lb">Muſurg.</bibl> pag. 150.
             </hi>
           </note>
           Entwurff, vier und zwantzig Klang-Stuffen dar-
-          <lb />inn befindlich seyn. Es schrieb mir der berühmte <persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName>
+          <lb />inn befindlich ſeyn. Es ſchrieb mir der berühmte <persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName>
           <abbr>d.</abbr> <date when="1719-10-17">17. Octob. 1719</date>.
             <lb />folgende Worte zu:
             <quote>
-              Den Griechen nichts nachzugeben, habe ich, nach einer gewissen Regel,
+              Den Griechen nichts nachzugeben, habe ich, nach einer gewiſſen Regel,
               <lb />24. temperirte Tone (Grade) gefunden, wornach ich anderswo ein <hi rendition="#aq">Instrumen-
-              <lb />tum Diatonico Chromatico-Enharmonicum</hi> dürffte machen lassen. Die Zahlen
-              <lb />dazu sind folgende:
+              <lb />tum Diatonico Chromatico-Enharmonicum</hi> dürffte machen laſſen. Die Zahlen
+              <lb />dazu ſind folgende:
               <note n="*)" place="foot">
-                Den hiher gehörigen sehr saubern Riß, welcher vor
-                <lb />dem <persName corresp="#ed_g1w_hxy_qlb">Herrn Capellmeister Neidhardt</persName> selber dazu verertiget, und dem Kupffer-Stecher
+                Den hiher gehörigen ſehr ſaubern Riß, welcher vor
+                <lb />dem <persName corresp="#ed_g1w_hxy_qlb">Herrn Capellmeiſter Neidhardt</persName> ſelber dazu verertiget, und dem Kupffer-Stecher
                 <date when="1728">vor
-                <lb />drittehalb Jahren</date> überreichet worden ist, hat dieser letzte, unachtsamer Weise, und zu meinem
-                <lb />grössesten Verdruß, verleget oder verloren.
+                <lb />drittehalb Jahren</date> überreichet worden iſt, hat dieſer letzte, unachtſamer Weiſe, und zu meinem
+                <lb />gröſſeſten Verdruß, verleget oder verloren.
               </note>
               ...
             </quote>
@@ -491,38 +497,38 @@
       <div n="9">
         <head>§. 9.</head>
         <lb /><p>
-          Ja, wenn wir noch weiter, und durch <hi rendition="#aq">commata</hi> einhergehen wollten, so kä-
-          <lb />men gar 53. Grade in einer eintzigen Octave zum Vorschein.
+          Ja, wenn wir noch weiter, und durch <hi rendition="#aq">commata</hi> einhergehen wollten, ſo kä-
+          <lb />men gar 53. Grade in einer eintzigen Octave zum Vorſchein.
           <hi rendition="#b"><persName corresp="#ed_nhl_nxx_qlb">Sauveur</persName></hi>
           <note n="b)" place="foot">
             <abbr>voy.</abbr> <orgName ref="http://d-nb.info/gnd/35019-9"><abbr>Acad. Roy.</abbr> des Sciences</orgName>.
           </note>
-          will deren 43. haben; <hi rendition="#b"><persName corresp="#ed_kyg_jgy_qlb">Mersennus</persName></hi> 32. Ein ungenannter Durlacher mag es diesem
-          <lb />abgesehen haben, indem er ein so genanntes fünff-faches Transponier-Clavier im
-          <lb />Druck vorschlagen wollen, welches in geometrischer Fortschreitung 32. Tangenten
-          <lb />in einer Octave begreiffen soll. Man kann bald sehen, wo dieser in die Schule ge-
-          <lb />gangen sey, wenn er den <persName corresp="#ed_rc3_fgy_qlb">Aristoxenum</persName>
+          will deren 43. haben; <hi rendition="#b"><persName corresp="#ed_kyg_jgy_qlb">Merſennus</persName></hi> 32. Ein ungenannter Durlacher mag es dieſem
+          <lb />abgeſehen haben, indem er ein ſo genanntes fünff-faches Tranſponier-Clavier im
+          <lb />Druck vorſchlagen wollen, welches in geometriſcher Fortſchreitung 32. Tangenten
+          <lb />in einer Octave begreiffen ſoll. Man kann bald ſehen, wo dieſer in die Schule ge-
+          <lb />gangen ſey, wenn er den <persName corresp="#ed_rc3_fgy_qlb">Ariſtoxenum</persName>
           für einen Nachfolger des <persName corresp="#ed_qqk_vy2_5lb">Pythagoras</persName> angibt,
-          <lb />und <persName corresp="#ed_kyg_jgy_qlb">Mersennum</persName> mit unter diejenigen fetzt, die es nicht nach seinem Sinn getroffen
-          <lb />haben. Hierher gehört dasjenige Clavicimbel, welches
+          <lb />und <persName corresp="#ed_kyg_jgy_qlb">Merſennum</persName> mit unter diejenigen fetzt, die es nicht nach ſeinem Sinn getroffen
+          <lb />haben. Hierher gehört daſjenige Clavicimbel, welches
           <persName corresp="#ed_d42_qxx_qlb">Carl <hi rendition="#b">Luyton</hi></persName> ehmahls von
-          <lb />77. Tangenten verfertiget hat, und dessen
+          <lb />77. Tangenten verfertiget hat, und deſſen
           <note n="c)" place="foot">
             <persName corresp="#ed_g5m_4gy_qlb">Mich. Praetor.</persName> <bibl corresp="#ed_llk_wz1_5lb">Syntagm. Mus. P. II.</bibl> c. 40.
           </note>
-          Prätorius mit grossen Ruhm geden-
-          <lb />cket. <hi rendition="#b"><persName corresp="#ed_rtv_wrx_qlb">Henfling</persName></hi> wollte 50 Stuffen in der Octave wissen, und hatte eine Erfindung
-          <lb />von Claviaturen, die er Claviaria nennet, in seinem Positiv zum Stande gebracht,
-          <lb />darin die Intervalle eine gantz andere Ordnung hielten, und, seiner Meynunq nach,
-          <lb />weit bequemer zu greiffen seyn sollten, als sonst. Man soll auf solchem Griff-Bret,
-          <lb />anderer Vortheile zu geschweigen, noch eine Quint oder Sext weiter, als die gewöhn-
-          <lb />liche Octave gehet, greiffen können. Die Figur solches Claviarii, hat, nebst der Erlau-
-          <lb />terung, im zweiten Bande der <bibl corresp="#ed_wnr_txb_5lb">Berlinischen Vermischungen</bibl>, nach der
+          Prätorius mit groſſen Ruhm geden-
+          <lb />cket. <hi rendition="#b"><persName corresp="#ed_rtv_wrx_qlb">Henfling</persName></hi> wollte 50 Stuffen in der Octave wiſſen, und hatte eine Erfindung
+          <lb />von Claviaturen, die er Claviaria nennet, in ſeinem Poſitiv zum Stande gebracht,
+          <lb />darin die Intervalle eine gantz andere Ordnung hielten, und, ſeiner Meynunq nach,
+          <lb />weit bequemer zu greiffen ſeyn ſollten, als ſonſt. Man ſoll auf ſolchem Griff-Bret,
+          <lb />anderer Vortheile zu geſchweigen, noch eine Quint oder Sext weiter, als die gewöhn-
+          <lb />liche Octave gehet, greiffen können. Die Figur ſolches Claviarii, hat, nebſt der Erlau-
+          <lb />terung, im zweiten Bande der <bibl corresp="#ed_wnr_txb_5lb">Berliniſchen Vermiſchungen</bibl>, nach der
           <note n="d)" place="foot">
-            <bibl corresp="#ed_wnr_txb_5lb">Vol. I. Miscellan. Berol. p. 293.</bibl>
-          </note> anderswo
-          <lb />gethanen Zusage, erscheinen sollen. Ich habe zwar die erste und zweite Fortsetzun-
-          <lb />gen besagter Sammlung gelesen; aber noch nichts davon angetroffen.
+            <bibl corresp="#ed_wnr_txb_5lb">Vol. I. Miſcellan. Berol. p. 293.</bibl>
+          </note> anderſwo
+          <lb />gethanen Zuſage, erſcheinen ſollen. Ich habe zwar die erſte und zweite Fortſetzun-
+          <lb />gen beſagter Sammlung geleſen; aber noch nichts davon angetroffen.
         </p>
       </div>
 
@@ -531,72 +537,70 @@
         <p>
           <persName corresp="#ed_ghv_kvx_qlb">Donius</persName>
           <note n="e)" place="foot">
-            <lb />Non solo non bastano le voci di questi Instromenti spezzati, che dicono chromati-
-            <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che sarebbe gran temeri-
-            <lb />tà di dire, che con l'istessa facilità, ommodità e prestezza si possa caminare con
-            <lb />le dite sui tasti neri e spezzati, disposti in una sola tastatura, che sopra diverse ta-
-            <lb />stature e armonie, secondo la nostra inventione, senza mettere a conto la com-
-            <lb />modità, che si riceve da più sistemi, di poter far sentire gra diversità trà gli uni-
-            <lb />soni stessi, mediante maggiore o minore tensione delle corde, come nelle viole e
-            <lb />ne' cembali s'è trattico. <persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, <bibl corresp="#ed_s4h_t1b_5lb">Annotaz. p. 6</bibl>.
+            <lb />Non ſolo non baſtano le voci di queſti Inſtromenti ſpezzati, che dicono chromati-
+            <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che ſarebbe gran temeri-
+            <lb />tà di dire, che con l'iſteſſa facilità, ommodità e preſtezza ſi poſſa caminare con
+            <lb />le dite ſui taſti neri e ſpezzati, diſpoſti in una ſola taſtatura, che ſopra diverſe ta-
+            <lb />ſtature e armonie, ſecondo la noſtra inventione, ſenza mettere a conto la com-
+            <lb />modità, che ſi riceve da più ſiſtemi, di poter far ſentire gra diverſità trà gli uni-
+            <lb />ſoni ſteſſi, mediante maggiore o minore tenſione delle corde, come nelle viole e
+            <lb />ne' cembali ſ'è trattico. <persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, <bibl corresp="#ed_s4h_t1b_5lb">Annotaz. p. 6</bibl>.
           </note>
-          stehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
-            <lb />matischen Claviere eben so wenig, als mit der enharmonischen Ein-
+          ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
+            <lb />matiſchen Claviere eben ſo wenig, als mit der enharmoniſchen Ein-
             <fw place="bottom" type="catch">thei-</fw>
             <pb n="449" />
 
             theilung der Tangenten, auf einer eintzigen Griff-Tafel Art habe, weil
-            <lb />man lange nicht so leicht, bequem und geschwind darauf spielen könne,
-            <lb />als wenn die Palmulen in verschiedene Griff-Tafeln vertheilet wür-
-            <lb />den, da man denn noch diesen Vortheil erlangen würde, daß man ei-
-            <lb />nen grossen Unterscheid zwischen solchen Einrichtungen, ja so gar
-            <lb />zwischen den <hi rendition="#i">Unisonis</hi> selbst, bemercken könnte.</hi> Wir sehen hieraus, daß
-          <lb />dieser gelehrte Mann die kleinen Grade der Klänge nicht auf einer eintzigen Tafel,
-          <lb />sondern auf verschiedene hat anbringen wollen, so wie auf unfern Orgeln 3. biß
-          <lb />4. Claviere zu sehen sind.
+            <lb />man lange nicht ſo leicht, bequem und geſchwind darauf ſpielen könne,
+            <lb />als wenn die Palmulen in verſchiedene Griff-Tafeln vertheilet wür-
+            <lb />den, da man denn noch dieſen Vortheil erlangen würde, daß man ei-
+            <lb />nen groſſen Unterſcheid zwiſchen ſolchen Einrichtungen, ja ſo gar
+            <lb />zwiſchen den <hi rendition="#i">Uniſonis</hi> ſelbſt, bemercken könnte.</hi> Wir ſehen hieraus, daß
+          <lb />dieſer gelehrte Mann die kleinen Grade der Klänge nicht auf einer eintzigen Tafel,
+          <lb />ſondern auf verſchiedene hat anbringen wollen, ſo wie auf unfern Orgeln 3. biß
+          <lb />4. Claviere zu ſehen ſind.
         </p>
       </div>
 
       <div n="11">
         <lb /><head>§. 11.</head>
         <lb /><p>
-          Andere habens anfnoch andre Arten vorgeschlagen und eingetheilet; aber ich
-          <lb />sage rund heraus, daß ich von allen diesen Erfindungen ein gehorsamer Diener bin,
+          Andere habens anfnoch andre Arten vorgeſchlagen und eingetheilet; aber ich
+          <lb />ſage rund heraus, daß ich von allen dieſen Erfindungen ein gehorſamer Diener bin,
           <lb /><abbr>d.i.</abbr> nach dem heutigen Hof-Styl zu reden: ich halte gar nichts davon, und wenn
-          <lb />sie auch noch so vollkommen wären. Ist doch unfern unvollkommenen Ohren nichts
-          <lb />vollkommenes nöthig, sondern vielmehr gewisser massen zuwieder. Man hat,
-          <lb />aller Vernünffteley ungeachtet, noch biß diesen Tag keine Aenderung, mit Bestand
-          <lb />und allgemeiner Aufnahme, hierunter eingeführet; sondern wir folgen noch immer
-          <lb />der alten Einrichtung. Es lässt sich auch dieselbe, vermittelst einer geschickten Tem-
-          <lb />peratur (ob sie eben gleich oder ungleich seyn soll, will ich nicht sagen) unsern Ohren
-          <lb />gar leidlich düncken; aber die Augen, wovon hier eigentlich die Frage ist, und durch
-          <lb />deren Canal unsere spielende Finger gleichsam ihren gemessenen, schrtfftlichen Be-
-          <lb />fehl empfangen, geben es nicht so guten Kauffs.
+          <lb />ſie auch noch ſo vollkommen wären. Iſt doch unfern unvollkommenen Ohren nichts
+          <lb />vollkommenes nöthig, ſondern vielmehr gewiſſer maſſen zuwieder. Man hat,
+          <lb />aller Vernünffteley ungeachtet, noch biß dieſen Tag keine Aenderung, mit Beſtand
+          <lb />und allgemeiner Aufnahme, hierunter eingeführet; ſondern wir folgen noch immer
+          <lb />der alten Einrichtung. Es läſſt ſich auch dieſelbe, vermittelſt einer geſchickten Tem-
+          <lb />peratur (ob ſie eben gleich oder ungleich ſeyn ſoll, will ich nicht ſagen) unſern Ohren
+          <lb />gar leidlich düncken; aber die Augen, wovon hier eigentlich die Frage iſt, und durch
+          <lb />deren Canal unſere ſpielende Finger gleichſam ihren gemeſſenen, ſchrtfftlichen Be-
+          <lb />fehl empfangen, geben es nicht ſo guten Kauffs.
         </p>
       </div>
 
       <div n="12">
         <lb /><head>§. 12</head>
         <p>
-          Es stehet wol zu vermuthen, daß nach etlichen hundert Jahren, falls diese
-          <lb />Welt noch so lange im Stande bleibet, die Componisten und Virtuosen das Cis
-          <lb />dur, B moll etc. eben so leicht abfertigen werden, als unsere Dorff-Organisten
-          <lb />ihr C dur, welches schier aus der Mode zu seyn scheinet, und heutiges Tages eben
-          <lb />so selten, als vormahls häuffig, angetroffen wird. Es ist auch mit den Tonen ei-
-          <lb />niger massen eben so bewandt, als mit andern Dingen, und
+          Es ſtehet wol zu vermuthen, daß nach etlichen hundert Jahren, falls dieſe
+          <lb />Welt noch ſo lange im Stande bleibet, die Componiſten und Virtuoſen das Cis
+          <lb />dur, B moll etc. eben ſo leicht abfertigen werden, als unſere Dorff-Organiſten
+          <lb />ihr C dur, welches ſchier aus der Mode zu ſeyn ſcheinet, und heutiges Tages eben
+          <lb />ſo ſelten, als vormahls häuffig, angetroffen wird. Es iſt auch mit den Tonen ei-
+          <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und
           <note n="(f)" place="foot">
-            <hi rendition="#aq">
-              <foreign xml:lang="fra">Ce qui faisoit honneur il ya cent ans, est en quelque maniere hontaux aujourd hui.
-                <bibl corresp="#ed_nhc_gbb_5lb">Memoir. de Bussy, p. 105</bibl>
-              </foreign>
-            </hi>
+            <hi rendition="#aq"><foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere hontaux aujourd hui.
+              <hi rendition="#i"><bibl corresp="#ed_nhc_gbb_5lb">Memoir. de Buſſy, p. 105</bibl></hi>
+            </foreign></hi>
           </note>
           was <date when="1631">vor hundert
             <fw place="bottom" type="catch">Jahren</fw>
             <pb n="450" />
 
             Jahren</date>
-          eine Ehre war, dessen schämet man sich auf gewisse Art bey itzigen Zeiten.
+          eine Ehre war, deſſen ſchämet man ſich auf gewiſſe Art bey itzigen Zeiten.
           <lb /><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName>
           <note n="(g)" place="foot">
             <hi rendition="#aq">
@@ -606,44 +610,44 @@
               <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName>, <bibl corresp="#ed_hfr_2cl_tlb">Traité de l'Accompagn.</bibl> p. 27.
             </hi>
           </note>
-          redet davon also:
+          redet davon alſo:
           <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
-            Unter den Tonen sind etliche, die inan mehr ge-
-            <lb />braucht, als andere. Es sind deren so gar einige, die vielleicht doch nie zum Grun-
-            <lb />de einer Melodie gedienet haben; aber ich habe sie darum doch nicht ausfchliessen
-            <lb />wollen, indem die meisten Componisten schon verschiedene davon gebrauchen, wel-
-            <lb />che vorhin nicht berühret wurden, und weil es wol kommen könnte, daß man sie
+            Unter den Tonen ſind etliche, die inan mehr ge-
+            <lb />braucht, als andere. Es ſind deren ſo gar einige, die vielleicht doch nie zum Grun-
+            <lb />de einer Melodie gedienet haben; aber ich habe ſie darum doch nicht ausfchlieſſen
+            <lb />wollen, indem die meiſten Componiſten ſchon verſchiedene davon gebrauchen, wel-
+            <lb />che vorhin nicht berühret wurden, und weil es wol kommen könnte, daß man ſie
             <lb />endlich alle mit einander gleich gemein machte.
           </quote>
         </p>
       </div>
 
       <div n="13">
-        <lb/><head>§. 13.</head>
+        <lb /><head>§. 13.</head>
         <p>
-          Nun habe ich zwar, in der <bibl corresp="#ed_pnf_pcb_5lb">ersten Auflage dieses Wercks</bibl>, um den Nachkommen
-          <lb />die Notirung einiger Tone desto leichter zu machen, das Mittel zur Befriedigung
+          Nun habe ich zwar, in der <bibl corresp="#ed_pnf_pcb_5lb">erſten Auflage dieſes Wercks</bibl>, um den Nachkommen
+          <lb />die Notirung einiger Tone deſto leichter zu machen, das Mittel zur Befriedigung
           <lb />der Augen, mit dem nicht unbekannten einfachen Kreutzlein (x), Statt des zwey-
-          <lb />fachen Doppel-Kreutzes (##), dessen man sich hier bedienet hat, wolmeynend vor-
-          <lb />schlagen, und der Unförmlichkeit dieser letzten Bezeichnung dadurch abhelffen wol-
-          <lb />len: nicht, als ob solches was neues sey, sondern, weil es noch beyweitem nicht
-          <lb />so starck, als die zwey Kreutze, eingeführet ist, und zu wünschen stünde, daß man
-          <lb />sich einmahl darüber recht vergliche. Denn bisher hat es mit dieser Uneinigkeit
-          <lb />noch soviel nicht zu sagen, angceehen die Fälle selten vorkommen; aber weil es gantz gewiß
-          <lb />geschehen wird, daß sie häuffiger nach diesen Zeiten aufstossen, so wäre wol eine fe-
-          <lb />ste Regel dabey nöthig. Ich fügte <date when="1719">vor zehn Jahren</date> obiger Erinnerung noch hinzu,
-          <lb /> daß ich dieses Mittel keinem aufdringen, sondern mich vielmehr nach dessen Mey-
-          <lb />nung richten wollte, der, mit guten Gründen, ein bequemers zu ersinnen und vor-
-          <lb />zuschlagen wüste, damit aus der Sache zu kommen sey. Hiernächst wurde auch er-
+          <lb />fachen Doppel-Kreutzes (##), deſſen man ſich hier bedienet hat, wolmeynend vor-
+          <lb />ſchlagen, und der Unförmlichkeit dieſer letzten Bezeichnung dadurch abhelffen wol-
+          <lb />len: nicht, als ob ſolches was neues ſey, ſondern, weil es noch beyweitem nicht
+          <lb />ſo ſtarck, als die zwey Kreutze, eingeführet iſt, und zu wünſchen ſtünde, daß man
+          <lb />ſich einmahl darüber recht vergliche. Denn bisher hat es mit dieſer Uneinigkeit
+          <lb />noch ſoviel nicht zu ſagen, angceehen die Fälle ſelten vorkommen; aber weil es gantz gewiß
+          <lb />geſchehen wird, daß ſie häuffiger nach dieſen Zeiten aufſtoſſen, ſo wäre wol eine fe-
+          <lb />ſte Regel dabey nöthig. Ich fügte <date when="1719">vor zehn Jahren</date> obiger Erinnerung noch hinzu,
+          <lb /> daß ich dieſes Mittel keinem aufdringen, ſondern mich vielmehr nach deſſen Mey-
+          <lb />nung richten wollte, der, mit guten Gründen, ein bequemers zu erſinnen und vor-
+          <lb />zuſchlagen wüste, damit aus der Sache zu kommen ſey. Hiernächſt wurde auch er-
           <lb />wehnt, daß man wol, an Statt des einfachen Kreutzes (x), ein dreyfaches Kreutz
-          <lb />wehlen könnte, falls jenes nicht deutlicher in die Augen fiele, und reiner stünde, etc.
-          <lb />Endlich brachte ich auch Exempel von unsern grössesten Meistern bey, die es noch im-
-          <lb />mer mit zweyen Doppel-Kreutzen (##) hielten, und gab zwo Ursachen an, war-
+          <lb />wehlen könnte, falls jenes nicht deutlicher in die Augen fiele, und reiner ſtünde, etc.
+          <lb />Endlich brachte ich auch Exempel von unſern gröſſeſten Meiſtern bey, die es noch im-
+          <lb />mer mit zweyen Doppel-Kreutzen (##) hielten, und gab zwo Urſachen an, war-
           <fw place="bottom" type="catch">um</fw>
           <pb n="451" />
 
-          <lb />um das einfache Kreutz (x) besser seyn würde / nemlich: weil man es so dann mit
-          <lb />einem Zeichen bestellen könnte, und weil dabey auch ein jedes Ding sein eignes Zei-
+          <lb />um das einfache Kreutz (x) beſſer ſeyn würde / nemlich: weil man es ſo dann mit
+          <lb />einem Zeichen beſtellen könnte, und weil dabey auch ein jedes Ding ſein eignes Zei-
           <lb />chen bekäme.
         </p>
       </div>
@@ -651,73 +655,73 @@
       <div n="14">
         <head>§. 14.</head>
         <p>
-          Nachdem mir aber das <persName corresp="#ed_tj3_cwx_qlb">Marcellifche</persName> <name type="musicalWork" corresp="#ed_zgj_2cb_5lb">Psalm-Werck</name> unter die Hände gerathen ist,
-          <lb />und in dessen dritten Bande sich eine gelehrte Vorrede befindet, welche über den vorhabenden
-          <lb />Punct gantz besondere Gedancken darleget, davon auch bereits in der
-          <lb /><bibl corresp="#ed_app_scb_5lb">Musicalischen Critick p. 126. T. II.</bibl> mit Absicht auf die <bibl corresp="#ed_pnf_pcb_5lb">Organisten-Probe</bibl>, auf-
-          <lb />richtige Erwehnung geschehen ist; so will ich das nothwendigste davon allhier anfüh-
-          <lb />ren und verteutschen, damit der scharffsinnige Leser die darinn enthaltene Gründe
-          <lb />selbst erwege, und hernach urtheile, was von beiden Vorschlägen eigentlich zu halten,
-          <lb />auch wie dem Dinge ferner abzuhelffen sey.
+          Nachdem mir aber das <persName corresp="#ed_tj3_cwx_qlb">Marcellifche</persName> <name type="musicalWork" corresp="#ed_zgj_2cb_5lb">Pſalm-Werck</name> unter die Hände gerathen iſt,
+          <lb />und in deſſen dritten Bande ſich eine gelehrte Vorrede befindet, welche über den vorhabenden
+          <lb />Punct gantz beſondere Gedancken darleget, davon auch bereits in der
+          <lb /><bibl corresp="#ed_app_scb_5lb">Muſicaliſchen Critick p. 126. T. II.</bibl> mit Abſicht auf die <bibl corresp="#ed_pnf_pcb_5lb">Organiſten-Probe</bibl>, auf-
+          <lb />richtige Erwehnung geſchehen iſt; ſo will ich das nothwendigſte davon allhier anfüh-
+          <lb />ren und verteutſchen, damit der ſcharffſinnige Leſer die darinn enthaltene Gründe
+          <lb />ſelbſt erwege, und hernach urtheile, was von beiden Vorſchlägen eigentlich zu halten,
+          <lb />auch wie dem Dinge ferner abzuhelffen ſey.
         </p>
       </div>
 
       <div n="15">
         <head>§. 15.</head>
         <p>
-          Es sind aber des <persName corresp="#ed_tj3_cwx_qlb">Herrn Marcello</persName>
+          Es ſind aber des <persName corresp="#ed_tj3_cwx_qlb">Herrn Marcello</persName>
           <note n="h)" place="foot">
             <quote xml:id="marcello-quote" corresp="marcello-quote-trans">
-              Affine che crescano alcune corde d'un intero tuono, dove non sieno obligati gli
-              <lb />accidenti maggiori alla chiave, si sono aposti due ## chromatici, non usandosi
-              <lb />mai per cotal effetto nel presente lavoro l'erharmonico x diesis, siccome in simile
-              <lb />caso per alcuni <hi rendition="#i">incautamente</hi> suol pratticarsi. Avvegnacchè non è proprietà di detto
-              <lb />enharmonico x segno, che l'accrescere la corda d'un solo quarto di tuono, divi-
-              <lb />dendo in due parti il semituono maggiore. Fuori di detto genere enharmonico
-              <lb />l'uso del segno x è improprio ed inconveniente sì per la figura che per lo effetto.
-              <lb />Neppure si è pratticata essa Zifra x nel lavoro di Salmo 17, e d'altri per accresce-
-              <lb />re la corda d'un semituono, dove a detta corda sia obligato in chiave in chromatico
-              <lb /># diesis: imperciocchè ancora nel caso stesso malamente detto diesis x enharmo-
-              <lb />nico si usurparebbe; non facendo allora di mestieri che replicare il solito chroma-
-              <lb />tico ♯ segno, Conciosiacchè effendo allora la cantilena trasportata da'i tuoni
-              <lb />naturali e diatonici per mezzo degli accidenti, e cambiandosi per essi natura, a
-              <lb />causa dello trasporto alle corde minore che si riducono maggiori, non conven-
-              <lb />gono accrescersi del semituono diversamente, che se ne Tuoni o Modi diatonici e
-              <lb />naturali fossero naturalemente maggiori, e dovessero accrescersi del semituono.
-              <lb />Che se cio fosse d'altra maniera, e come <hi rendition="#i">capriciosamente</hi>,
-              non senza <hi rendition="#i">licenza</hi> ed <hi rendition="#i">abuso</hi>,
-              <lb />vien pratticato talvolta in oggi, converebbesi parimente, occorrendo accre-
-              <lb />scere del semituono le sopradette diatoniche semplici corde, usar questo segno
-              <lb />x; e pure nel detto caso non si pone pratticamente in uso, com'è ragione, che
-              <lb />il segno chromatico #: non avendo infatti l'enharmonico x, come si è detto,
-              <lb />facoltà per la sua instituzione di alterare dette corde o semituoni maggiori, che
-              <lb />d'un quarto di tuono. E quindi anzi avviene che non effendo più in uso ne'can-
-              <lb />ti nostri troppo concertati ed artificiosi, nè potendo esserlo in ver un modo, l'en-
-              <lb />harmonico genere, si rende vano altresi e di niun' effetto l'uso di detto enharmo-
-              <lb />nico x diesis. &amp;c.
+              Affine che creſcano alcune corde d'un intero tuono, dove non ſieno obligati gli
+              <lb />accidenti maggiori alla chiave, ſi ſono apoſti due ## chromatici, non uſandoſi
+              <lb />mai per cotal effetto nel preſente lavoro l'erharmonico x dieſis, ſiccome in ſimile
+              <lb />caſo per alcuni <hi rendition="#i">incautamente</hi> ſuol pratticarſi. Avvegnacchè non è proprietà di detto
+              <lb />enharmonico x ſegno, che l'accreſcere la corda d'un ſolo quarto di tuono, divi-
+              <lb />dendo in due parti il ſemituono maggiore. Fuori di detto genere enharmonico
+              <lb />l'uſo del ſegno x è improprio ed inconveniente ſì per la figura che per lo effetto.
+              <lb />Neppure ſi è pratticata eſſa Zifra x nel lavoro di Salmo 17, e d'altri per accreſce-
+              <lb />re la corda d'un ſemituono, dove a detta corda ſia obligato in chiave in chromatico
+              <lb /># dieſis: imperciocchè ancora nel caſo ſteſſo malamente detto dieſis x enharmo-
+              <lb />nico ſi uſurparebbe; non facendo allora di meſtieri che replicare il ſolito chroma-
+              <lb />tico ♯ ſegno, Concioſiacchè effendo allora la cantilena traſportata da'i tuoni
+              <lb />naturali e diatonici per mezzo degli accidenti, e cambiandoſi per eſſi natura, a
+              <lb />cauſa dello traſporto alle corde minore che ſi riducono maggiori, non conven-
+              <lb />gono accreſcerſi del ſemituono diverſamente, che ſe ne Tuoni o Modi diatonici e
+              <lb />naturali foſſero naturalemente maggiori, e doveſſero accreſcerſi del ſemituono.
+              <lb />Che ſe cio foſſe d'altra maniera, e come <hi rendition="#i">capricioſamente</hi>,
+              non ſenza <hi rendition="#i">licenza</hi> ed <hi rendition="#i">abuſo</hi>,
+              <lb />vien pratticato talvolta in oggi, converebbeſi parimente, occorrendo accre-
+              <lb />ſcere del ſemituono le ſopradette diatoniche ſemplici corde, uſar queſto ſegno
+              <lb />x; e pure nel detto caſo non ſi pone pratticamente in uſo, com'è ragione, che
+              <lb />il ſegno chromatico #: non avendo infatti l'enharmonico x, come ſi è detto,
+              <lb />facoltà per la ſua inſtituzione di alterare dette corde o ſemituoni maggiori, che
+              <lb />d'un quarto di tuono. E quindi anzi avviene che non effendo più in uſo ne'can-
+              <lb />ti noſtri troppo concertati ed artificioſi, nè potendo eſſerlo in ver un modo, l'en-
+              <lb />harmonico genere, ſi rende vano altreſi e di niun' effetto l'uſo di detto enharmo-
+              <lb />nico x dieſis. &amp;c.
             </quote>
           </note>
           Worte in gedachter Vorrede p.5. fol-
           <lb />genden Inhalts:
           <quote type="translation" xml:id="marcello-quote-trans" corresp="#marcello-quote">
             Wir haben uns, bey der Erhöhung einiger Klänge, zweier
-            <lb />chromatischen Kreutze ## bedienet; gebrauchen aber niemahls die enharmoni-
-            <lb />sche Diesin, x, bey dergleichen Gelegenheit, ob sie schon von etlichen, unbedacht-
-            <lb />samer Weise, in solchen Fällen hingesetzt wird. Denn die Eigenschafft dieses Zei-
-            <lb />chens x erstrecket sich nur auf die Erhöhung eines Viertel-Tons, und theilet den
-            <lb />grossen halben Ton in zween Theile. Ausser dem enharmonischen Geschlecht, und
+            <lb />chromatiſchen Kreutze ## bedienet; gebrauchen aber niemahls die enharmoni-
+            <lb />ſche Dieſin, x, bey dergleichen Gelegenheit, ob ſie ſchon von etlichen, unbedacht-
+            <lb />ſamer Weiſe, in ſolchen Fällen hingeſetzt wird. Denn die Eigenſchafft dieſes Zei-
+            <lb />chens x erſtrecket ſich nur auf die Erhöhung eines Viertel-Tons, und theilet den
+            <lb />groſſen halben Ton in zween Theile. Auſſer dem enharmoniſchen Geſchlecht, und
             <fw place="bottom" type="catch">dem</fw>
             <pb n="452" />
 
-            dem Gebrauch der Viertel-Tone hat also das x keine Statt, thut auch in der That,
-            <lb />wenn es so zur Unzeit gebraucht wird, keine andere Dienste, als ein verdoppel-
-            <lb />tes #. Da ferner alle unsere Modulation, sie mag geschehen in welchem Ton sie
-            <lb />wolle, grössesten Theils weiter nicht, als diatonisch ist, so bleiben die Grave über-
-            <lb />haupt einerley. Solchem nach müste man sich des x ebenfalls in den allergebräuch-
-            <lb />lichsten Tonen zur Erhöhung bedienen; da doch nur das ♯ mit allgemeinem Bei-
-            <lb />fall genommen wird. Weil also kein Gebrauch des enharmonischen Geschlechts
-            <lb />mehr in der Welt ist, muß auch der Gebrauch und die Wirckung des enharmom-
-            <lb />schen Zeichens x wegfallen, etc.
+            dem Gebrauch der Viertel-Tone hat alſo das x keine Statt, thut auch in der That,
+            <lb />wenn es ſo zur Unzeit gebraucht wird, keine andere Dienſte, als ein verdoppel-
+            <lb />tes #. Da ferner alle unſere Modulation, ſie mag geſchehen in welchem Ton ſie
+            <lb />wolle, gröſſeſten Theils weiter nicht, als diatoniſch iſt, ſo bleiben die Grave über-
+            <lb />haupt einerley. Solchem nach müste man ſich des x ebenfalls in den allergebräuch-
+            <lb />lichſten Tonen zur Erhöhung bedienen; da doch nur das ♯ mit allgemeinem Bei-
+            <lb />fall genommen wird. Weil alſo kein Gebrauch des enharmoniſchen Geſchlechts
+            <lb />mehr in der Welt iſt, muß auch der Gebrauch und die Wirckung des enharmom-
+            <lb />ſchen Zeichens x wegfallen, etc.
           </quote>
         </p>
       </div>
@@ -725,62 +729,63 @@
       <div n="16">
         <lb /><head>§. 16</head>
         <p>
-          Wir sehen hieraus, daß der grosse <persName corresp="#ed_tj3_cwx_qlb">Marcell</persName> sehr übel auf das x zu sprechen ist, u. ein
-          <lb />solches Stücklein der Semeiographie (Notenschreiberey) so weitläufttig zu behandeln,
-          <lb />für nicht unwürdig geachtet habe. Er nennet diejenige unbedachtsam, eigensinnig,
-          <lb />u.s.w. die sich des Zeichens in diesem Fall gebrauchen; er sagt: es sey eine Licentz, ein
-          <lb />Misbrauch, unvernünfftig, fanatisch etc. Ich habe zu viel Hochachtung für den
-          <lb />braven Mann, daß ich ihm seine angeführten Antiquitäts-Gründe wiederlegen
-          <lb />sollte, und will es lediglich auf des Lesers Urtheil ankommen lassen; ob es gleich
+          Wir ſehen hieraus, daß der groſſe <persName corresp="#ed_tj3_cwx_qlb">Marcell</persName> ſehr übel auf das x zu ſprechen iſt, u. ein
+          <lb />ſolches Stücklein der Semeiographie (Notenſchreiberey) ſo weitläufttig zu behandeln,
+          <lb />für nicht unwürdig geachtet habe. Er nennet diejenige unbedachtſam, eigenſinnig,
+          <lb />u.s.w. die ſich des Zeichens in dieſem Fall gebrauchen; er ſagt: es ſey eine Licentz, ein
+          <lb />Miſbrauch, unvernünfftig, fanatiſch etc. Ich habe zu viel Hochachtung für den
+          <lb />braven Mann, daß ich ihm ſeine angeführten Antiquitäts-Gründe wiederlegen
+          <lb />ſollte, und will es lediglich auf des Leſers Urtheil ankommen laſſen; ob es gleich
           <lb />nichts unerhörtes wäre, ein altes Zeichen in einer neuen Deutung zu gebrauchen.
-          <lb />Wir haben <abbr>z. E.</abbr> das Doppel-Kreutz, oder die chromatische Diesin #: von der-
-          <lb />selben meynet <persName corresp="#ed_jlh_wvy_qlb">Zarlinus</persName>,
+          <lb />Wir haben <abbr>z. E.</abbr> das Doppel-Kreutz, oder die chromatiſche Dieſin #: von der-
+          <lb />ſelben meynet <persName corresp="#ed_jlh_wvy_qlb">Zarlinus</persName>,
           <note n="(i)" place="foot">
             <hi rendition="#i">Zarlin. Vol. I. pag. 169.</hi>
           </note>
-          mit gutem Fug, daß durch die vier, kreutzweise gefloch-
+          mit gutem Fug, daß durch die vier, kreutzweiſe gefloch-
           <lb />tene Strichlein eine Erhöhung von vier Commatibus angezeiget wird, daraus unge-
           <fw place="bottom" type="catch">fehr</fw>
           <pb n="453" />
 
-          <lb />gefehr ein kleiner halber Ton bestehet. Wenn wir nun den Fall setzen, dass sich
-          <lb />dieses so verhalte, und dennoch betrachten, wie eben dasselbe Zeichen täglich zur
-          <lb />Andeutung des grossen halben Tons gebraucht werde; was sollen wir denn denckcn?
-          <lb />Wenn mir das zweifache Doppel Kreutz ein fis ins g verwandelt, so sind doch die
+          <lb />gefehr ein kleiner halber Ton beſtehet. Wenn wir nun den Fall ſetzen, daß ſich
+          <lb />dieſes ſo verhalte, und dennoch betrachten, wie eben daſſelbe Zeichen täglich zur
+          <lb />Andeutung des groſſen halben Tons gebraucht werde; was ſollen wir denn denckcn?
+          <lb />Wenn mir das zweifache Doppel Kreutz ein fis ins g verwandelt, ſo ſind doch die
           <lb />Stuffen von f ins fis, und vom fis ins g, lange nicht einerlei Ding; warum
-          <lb />sollten sie denn einerley Zeichen haben? <hi rendition="#b">Der grosse halbe Ton sollte billig an-
+          <lb />ſollten ſie denn einerley Zeichen haben? <hi rendition="#b">Der groſſe halbe Ton ſollte billig an-
             <lb />ders, als der kleine, bezeichnet werden.</hi> Wer es nicht mit dem x thun will,
-          <lb />nehme einen Stern * dazu, oder das dreifache Kreutz. Mehr weiß ich nicht zu sagen,
-          <lb />und wünsche Einigkeit. Noch sehe ich sie nicht.
+          <lb />nehme einen Stern * dazu, oder das dreifache Kreutz. Mehr weiß ich nicht zu ſagen,
+          <lb />und wünſche Einigkeit. Noch ſehe ich ſie nicht.
         </p>
       </div>
 
       <div n="17">
         <lb /><head>§. 17.</head>
         <lb /><p>
-          Eben ein solcher Zwiespalt regieret auch bisher in einem andern Stücklein der
-          <lb />Notirung, da viele vornehme Componisten unter uns es gar nicht gelten lassen wol-
-          <lb />len, daß ein h, oder ein viereckiges b, gesetzet werde, wenn ein erhöheter oder er-
-          <lb />niedrigter Klang wiederum in seine gewöhnliche Stelle treten soll. Denn sie se-
-          <lb />tzen an dessen Statt, noch immer das hergebrachte runde b, wenns hinunter gehet,
-          <lb />oder das #, wenns hinauf steiget. Ich will auch deswegen mit niemand Händel
-          <lb />anfangen, noch denjenigen meistern, dem es so gewiesen worden, und der es nun
-          <lb />so gewohnt ist, weil es auf eine Sache ankömmt, die nur zum geringsten Theil
-          <lb />der Music gehöret, nehmlich zu den Zeichen. Allein es kömmt mir doch, mit Er-
-          <lb />laubniß, deutlicher vor, wenn, <abbr>Z. E.</abbr> aus einem ♭ wieder ein h werden soll, daß man
-          <lb />h nicht ♯ dazu gebrauche. Denn, wenn ein ♯ fürs h stehet, bedeutet es eigent-
-          <lb />lich c, und so mit den übrigen. Zwar, wer den Umkreiß der Ton-Art kennet, und
-          <lb />den Zusammenhang der Melodey, insonderheit aber das vorhergehende und folgen-
-          <lb />de betrachtet, der siehet leicht, was bey solcher Gelegenheit des Verfassers Meynung
-          <lb />sey; allein ein jeder, voraus ein Anfänger, hat so viel Nachdenckens und Erfahrung
-          <lb />nicht, ja, es können Sätze vorkommen, da es der musicalische Gang nicht so gar
-          <lb />deutlich weiset, und bey welchen der beste verführet werden kann. <abbr>Z. E.</abbr>
+          Eben ein ſolcher Zwieſpalt regieret auch bisher in einem andern Stücklein der
+          <lb />Notirung, da viele vornehme Componiſten unter uns es gar nicht gelten laſſen wol-
+          <lb />len, daß ein h, oder ein viereckiges b, geſetzet werde, wenn ein erhöheter oder er-
+          <lb />niedrigter Klang wiederum in ſeine gewöhnliche Stelle treten ſoll. Denn ſie ſe-
+          <lb />tzen an deſſen Statt, noch immer das hergebrachte runde b, wenns hinunter gehet,
+          <lb />oder das #, wenns hinauf ſteiget. Ich will auch deſwegen mit niemand Händel
+          <lb />anfangen, noch denjenigen meiſtern, dem es ſo gewieſen worden, und der es nun
+          <lb />ſo gewohnt iſt, weil es auf eine Sache ankömmt, die nur zum geringſten Theil
+          <lb />der Muſic gehöret, nehmlich zu den Zeichen. Allein es kömmt mir doch, mit Er-
+          <lb />laubniß, deutlicher vor, wenn, <abbr>Z. E.</abbr> aus einem ♭ wieder ein h werden ſoll, daß man
+          <lb />h nicht ♯ dazu gebrauche. Denn, wenn ein ♯ fürs h ſtehet, bedeutet es eigent-
+          <lb />lich c, und ſo mit den übrigen. Zwar, wer den Umkreiß der Ton-Art kennet, und
+          <lb />den Zuſammenhang der Melodey, inſonderheit aber das vorhergehende und folgen-
+          <lb />de betrachtet, der ſiehet leicht, was bey ſolcher Gelegenheit des Verfaſſers Meynung
+          <lb />ſey; allein ein jeder, voraus ein Anfänger, hat ſo viel Nachdenckens und Erfahrung
+          <lb />nicht, ja, es können Sätze vorkommen, da es der muſicaliſche Gang nicht ſo gar
+          <lb />deutlich weiſet, und bey welchen der beſte verführet werden kann. <abbr>Z. E.</abbr>
 
-          <figure type="notatedMusic">
-          </figure>
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
           <note n="*" place="foot">
-            Diese Sätze sind aus eines vielgeachteten Mannes Wercke genommen, und seine Schreib-Art
-            <lb />ist noch biß diese Stunde so.
+            Dieſe Sätze ſind aus eines vielgeachteten Mannes Wercke genommen, und ſeine Schreib-Art
+            <lb /> iſt noch biß dieſe Stunde ſo.
           </note>
         </p>
       </div>
@@ -788,83 +793,83 @@
       <div n="18">
         <lb /><head>§. 18.</head>
         <lb /><p>
-          Wenn nun eine, solcher Gestalt bezeichnet Note, nach ihrer eigentlichen
-          <lb />Bedeutung, just so beschaffen ist, daß sie fremd und ungereimt klingen würde, so
-          <lb />kann man noch bald mercken, daß der Verfasser einen solchen Ton nicht gemeynet ha-
-          <lb />be; it es aber ein bA oder bE, als welche gar gewöhnlich vorfallen, so gibt es
-          <lb />wircklich Verwirrung, wie ich solches insonderheit bey unparteyischen Schülern selbst
+          Wenn nun eine, ſolcher Geſtalt bezeichnet Note, nach ihrer eigentlichen
+          <lb />Bedeutung, juſt ſo beſchaffen iſt, daß ſie fremd und ungereimt klingen würde, ſo
+          <lb />kann man noch bald mercken, daß der Verfaſſer einen ſolchen Ton nicht gemeynet ha-
+          <lb />be; it es aber ein bA oder bE, als welche gar gewöhnlich vorfallen, ſo gibt es
+          <lb />wircklich Verwirrung, wie ich ſolches inſonderheit bey unparteyiſchen Schülern ſelbſt
           <lb />offt mit Verdruß erfahren habe. Alles demnach, was einen Irrthum und Ver-
-          <lb />druß verursachen kann, das soll und muß abgeschaffet werden. So lautet
-          <lb />in <persName corresp="#ed_scp_svx_qlb">Printzens</persName> <bibl corresp="#ed_pmp_1hl_tlb">Satyr. Componisten</bibl>, Part. II. Cap. VI, das zweite Axioma; und das
-          <lb />vierte, welches auch hieher gehöret, ist so eingerichtet: Ein jedes Zeichen soll
-          <lb />von dem andern unterschieden seyn; das ist, es soll nicht zwey oder mehr
-          <lb />Dinge, sondern nur ein Ding andeuten.
+          <lb />druß verurſachen kann, das ſoll und muß abgeſchaffet werden. So lautet
+          <lb />in <persName corresp="#ed_scp_svx_qlb">Printzens</persName> <bibl corresp="#ed_pmp_1hl_tlb">Satyr. Componiſten</bibl>, Part. II. Cap. VI, das zweite Axioma; und das
+          <lb />vierte, welches auch hieher gehöret, iſt ſo eingerichtet: Ein jedes Zeichen ſoll
+          <lb />von dem andern unterſchieden ſeyn; das iſt, es ſoll nicht zwey oder mehr
+          <lb />Dinge, ſondern nur ein Ding andeuten.
         </p>
       </div>
 
       <div n="19">
         <lb /><head>§. 19.</head>
         <lb /><p>
-          Oben stehen Exempel vom bA; Bey dem e stehet es noch wunderlicher
-          <lb />aus, wenn dasselbe durch ein ♯ erhöhet worden, und wieder zurück in seine natürli-
-          <lb />che Stelle treten soll; deßwegen ich auch bemercke, daß ein gewisser Componist das
-          <lb />b lieber gar dabey weggelassen hat, wenn er folgenden Satz anbringet:
+          Oben ſtehen Exempel vom bA; Bey dem e ſtehet es noch wunderlicher
+          <lb />aus, wenn daſſelbe durch ein ♯ erhöhet worden, und wieder zurück in ſeine natürli-
+          <lb />che Stelle treten ſoll; deßwegen ich auch bemercke, daß ein gewiſſer Componiſt das
+          <lb />b lieber gar dabey weggelaſſen hat, wenn er folgenden Satz anbringet:
 
-          <figure type="notatedMusic">
-          </figure>
+          <notatedMusic xml:id="music-example2">
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
         </p>
       </div>
 
       <div n="20">
         <lb /><head>§. 20. </head>
         <lb /><p>
-          Dahingegen eben derselbe Mann sich des h, nicht nur bey dem eigentlichen h,
-          <lb />sondern auch bey dem e gar vielfältig bedienet, wenn solche Klänge vom ♭ oder dis
-          <lb />wieder hinauf in ihre natürliche Stelle treten sollen: wodurch denn ja der Gebrauch
-          <lb />des h sattsam gebilliget, und im Aufsteigen behauptet wird: weil sich an solchen Or-
-          <lb />ten das sonst alles erhöhende ♯ nicht gerne meldet. Was nun aber auf diese Weise
-          <lb />das ♯ im Aufsteigen verliehret, wenn der Klang seinen natürlichen oder gewöhnli-
-          <lb />chen Sitz wiederhaben soll, das kann auch billig dem ♭ im Heruntersteigen entzogen,
-          <lb />und in diesem Fall lieber das h genommen werden: weil bey beiden Vorfällen, so
-          <lb />wol im Steigen, als auch Fallen, der Endzweck einerley ist, nemlich dieser: Daß die
+          Dahingegen eben derſelbe Mann ſich des h, nicht nur bey dem eigentlichen h,
+          <lb />ſondern auch bey dem e gar vielfältig bedienet, wenn ſolche Klänge vom ♭ oder dis
+          <lb />wieder hinauf in ihre natürliche Stelle treten ſollen: wodurch denn ja der Gebrauch
+          <lb />des h ſattſam gebilliget, und im Aufſteigen behauptet wird: weil ſich an ſolchen Or-
+          <lb />ten das ſonſt alles erhöhende ♯ nicht gerne meldet. Was nun aber auf dieſe Weiſe
+          <lb />das ♯ im Aufſteigen verliehret, wenn der Klang ſeinen natürlichen oder gewöhnli-
+          <lb />chen Sitz wiederhaben ſoll, das kann auch billig dem ♭ im Herunterſteigen entzogen,
+          <lb />und in dieſem Fall lieber das h genommen werden: weil bey beiden Vorfällen, ſo
+          <lb />wol im Steigen, als auch Fallen, der Endzweck einerley iſt, nemlich dieſer: Daß die
           <fw place="bottom" type="catch">Note</fw>
           <pb n="455" />
 
-          ihren vorigen alten und gewöhnlichen Sitz, es sey fallend oder
-          <lb />steigend, wieder einnehmen soll. Daher es ein grosser Irrthum ist, wenn
-          <lb />man lehret: Das h erhöhe, und das ♯ auch. Warum sollten wir zwey Zeichen
-          <lb />zum Erhöhen haben, da es eines bestellen kann. Aber es verhält sich nicht also; son-
-          <lb />dern, wie gesagt, das h hebt alle Erhöhung und Erniedrigung gäntzlich auf, und
-          <lb />zeiget an, daß die Note wieder in ihre gewöhnliche Stelle trete. Könnte solches das
-          <lb />b oder h allenthalben füglich und ohne Zweydeutung verrichten, somögte man des
-          <lb />h gerne überall müssig gehen; allein wir haben aus obigen wahrgenommen, daß
-          <lb />es sich nicht wol thun lasse: dahero, weil das h allen Zweifel hebet, und man es
-          <lb />an einem Orte ohne Bedencken gebrauchet, soll man es von dem andern, da es einer-
-          <lb />ley Zweck und Absicht führet, keines weges ausschliessen. Demnach ist das ♯ ein
+          ihren vorigen alten und gewöhnlichen Sitz, es ſey fallend oder
+          <lb />ſteigend, wieder einnehmen ſoll. Daher es ein groſſer Irrthum iſt, wenn
+          <lb />man lehret: Das h erhöhe, und das ♯ auch. Warum ſollten wir zwey Zeichen
+          <lb />zum Erhöhen haben, da es eines beſtellen kann. Aber es verhält ſich nicht alſo; ſon-
+          <lb />dern, wie geſagt, das h hebt alle Erhöhung und Erniedrigung gäntzlich auf, und
+          <lb />zeiget an, daß die Note wieder in ihre gewöhnliche Stelle trete. Könnte ſolches das
+          <lb />b oder h allenthalben füglich und ohne Zweydeutung verrichten, ſomögte man des
+          <lb />h gerne überall müſſig gehen; allein wir haben aus obigen wahrgenommen, daß
+          <lb />es ſich nicht wol thun laſſe: dahero, weil das h allen Zweifel hebet, und man es
+          <lb />an einem Orte ohne Bedencken gebrauchet, ſoll man es von dem andern, da es einer-
+          <lb />ley Zweck und Abſicht führet, keines weges ausſchlieſſen. Demnach iſt das ♯ ein
           <lb />Zeichen der Erhöhung; das ♭ ein Zeichen der Erniedrigung; und das h ein Zeichen
-          <lb />der Ersetzung: damit also ein jedes Zeichen seine eigentliche Bedeutung, und jedes
-          <lb />Ding sein eigentliches Zeichen habe. Das viereckte be, h, ist ein diatonisches; das
-          <lb />Doppel-Kreutz ♯ ein chromatisches, und das runde be, b, ein enharmonisches
-          <lb />Zeichen. Wegen des ersten schreibt ein Frantzösischer
+          <lb />der Erſetzung: damit alſo ein jedes Zeichen ſeine eigentliche Bedeutung, und jedes
+          <lb />Ding ſein eigentliches Zeichen habe. Das viereckte be, h, iſt ein diatoniſches; das
+          <lb />Doppel-Kreutz ♯ ein chromatiſches, und das runde be, b, ein enharmoniſches
+          <lb />Zeichen. Wegen des erſten ſchreibt ein Frantzösiſcher
           <note n="*)" place="foot">
-            <quote xml:id="brossard-quote" corresp="#corresp-translation">
-              <foreign xml:lang="fra">
-                Quadrato. c'est l'epithete qu'on donne au b, quand il est signe diatonique, ou na-
-                <lb />turel, &amp; figurè ainsi h, &amp; pour lors son effet est de remettre les corde alterées
-                <lb />par le dieze ou par le b mol, dans leur situation naturelle, &amp; de descendre d'un demi-
-                <lb />ton celle que le dieze aura haussé.
-              </foreign>
+            <hi rendition="#aq"><foreign xml:lang="fra">
+              <quote xml:id="brossard-quote" corresp="#corresp-translation">
+                <hi rendition="#i">Quadrato:</hi> c'eſt l'epithete qu'on donne au b, quand il eſt ſigne diatonique, ou na-
+                <lb />turel, &amp; figurè ainſi <hi rendition="#i">h</hi>, &amp; pour lors ſon effet eſt de remettre les corde alterées
+                <lb />par le dieze ou par le <hi rendition="#i">b</hi> mol, dans leur ſituation naturelle, &amp; de deſcendre d'un demi-
+                <lb />ton celle que le dieze aura hauſſé.
             </quote>
-            <persName corresp="#ed_ewy_kxy_qlb">Brossard</persName> dans son <bibl corresp="#ed_wh3_j5b_5lb">Diction. de Mus.</bibl>.
-            Voy. aussi <persName corresp="#ed_xbw_55b_5lb">Roussau</persName>, dans sa <bibl corresp="#ed_dyl_r5b_5lb">Methode pour chanter</bibl>, p. 77.
+            <hi rendition="#i"><persName corresp="#ed_ewy_kxy_qlb">Broſſard</persName> dans ſon <bibl corresp="#ed_wh3_j5b_5lb">Diction. de Mus.</bibl>.</hi> Voy. auſſi 
+            <lb /><hi rendition="#i"><persName corresp="#ed_xbw_55b_5lb">Rouſſeau</persName>, dans ſa <bibl corresp="#ed_dyl_r5b_5lb">Methode pour chanter</bibl>, p. 77.</hi></foreign></hi>
           </note>
-          Verfasser also:
+          Verfaſſer alſo:
           <quote type="translation" xml:id="brossard-translation" corresp="#brossard-quote">
             Man le-
-            <lb />get dem h das Beiwort, viereckigt, zu, wenn es ein diatonisches Zeichen ist;
+            <lb />get dem h das Beiwort, viereckigt, zu, wenn es ein diatoniſches Zeichen iſt;
             <lb />und als denn hat es die Wirckung, daß es die Saiten oder Klänge, welche durch
-            <lb />Kreutze, oder runde ♭, verändert worden sind, wieder in ihre natürliche Stelle
-            <lb />setzet, einfolglich die Note, so durch ein ♭ erniedriget war, wiederum erhöhet, und
+            <lb />Kreutze, oder runde ♭, verändert worden ſind, wieder in ihre natürliche Stelle
+            <lb />ſetzet, einfolglich die Note, ſo durch ein ♭ erniedriget war, wiederum erhöhet, und
             <lb />diejenige, welche durch ein ♯ erhöhet war, wiederum erniedriget.
           </quote>
         </p>
@@ -874,28 +879,28 @@
         <lb /><head>§. 21.</head>
         <lb /><p>
           Ich kehre wieder zum Vorhaben, wegen der Kreutze, und bemerke, daß
-          <lb /><persName corresp="#ed_dwf_j5x_qlb">Msr. St. Lambert</persName> noch eine andere Erfindung hat, da er nemlich, vorne auf
+          <lb /><persName corresp="#ed_dwf_j5x_qlb">Mſr. St. Lambert</persName> noch eine andere Erfindung hat, da er nemlich, vorne auf
           <fw place="bottom" type="catch">den</fw>
           <pb n="456" />
 
-          <lb/>den Linien, gleich das eine ♯, von dem andern auf derselben Stelle befindlichen,
-          <lb/>mittelst eines Durschnitts, abscheidet und trennet. Mit dem ♭ hat er auch eine sol-
-          <lb/>che Verdoppelung, und es kann die Sache in Erwegung gezogen werden. Seine
-          <lb/>Sätze, bey welchen er sich ebenfalls des einfachen Kreutzes, wieder den <persName corresp="#ed_tj3_cwx_qlb">Marcellischen</persName>
-          <lb/>Sinn, bedienet, sehen <abbr>Z.E.</abbr> so aus:
+          <lb />den Linien, gleich das eine ♯, von dem andern auf derſelben Stelle befindlichen,
+          <lb />mittelſt eines Durſchnitts, abſcheidet und trennet. Mit dem ♭ hat er auch eine ſol-
+          <lb />che Verdoppelung, und es kann die Sache in Erwegung gezogen werden. Seine
+          <lb />Sätze, bey welchen er ſich ebenfalls des einfachen Kreutzes, wieder den <persName corresp="#ed_tj3_cwx_qlb">Marcelliſchen</persName>
+          <lb />Sinn, bedienet, ſehen <abbr>Z.E.</abbr> ſo aus:
 
           <figure type="notatedMusic"></figure>
           <figure type="notatedMusic"></figure>
 
-          <lb/>Oder noch ein paar stärckere:
+          <lb />Oder noch ein paar ſtärckere:
           <figure type="notatedMusic"></figure>
           <figure type="notatedMusic"></figure>
 
-          <lb/>Er bringet gleichwol nur den blossen, Sprengel, oder die Grade der diatonischen
-          <lb/>Octave, und sonst kein Exempel vor. Ob aber diese Verdoppelung der ♯ und ♭
-          <lb/>nicht mehr Verwirrung machet, als wenn, obberührter massen, die zierlichern
-          <lb/>Saiten mit einem x, oder *, oder dreifachen Kreutz, in dem Lauff der Melodie,
-          <lb/>bezeichnet würden, lasse jedem zum Urtheil über. Man sehe die Exempel an:
+          <lb />Er bringet gleichwol nur den bloſſen, Sprengel, oder die Grade der diatoniſchen
+          <lb />Octave, und ſonſt kein Exempel vor. Ob aber dieſe Verdoppelung der ♯ und ♭
+          <lb />nicht mehr Verwirrung machet, als wenn, obberührter maſſen, die zierlichern
+          <lb />Saiten mit einem x, oder *, oder dreifachen Kreutz, in dem Lauff der Melodie,
+          <lb />bezeichnet würden, laſſe jedem zum Urtheil über. Man ſehe die Exempel an:
 
           <figure type="notatedMusic"></figure>
           <figure type="notatedMusic"></figure>
@@ -906,110 +911,112 @@
       </div>
 
       <div n="22">
-        <lb/><head>§. 22.</head>
-        <lb/>
+        <lb /><head>§. 22.</head>
+        <lb />
         <p>
           Wenn auch eine Verdoppelung des ♭ nöthig wäre, welches ich zwar noch
           <fw type="catch" place="bottom">nicht</fw>
           <pb n="457"/>
 
-          <lb />nicht erlebet habe, so könnte etwan, dafern es so gefällig wäre, das β dazu genommen
-          <lb />werden, weil doch kurtzum alles Griechisch seyn soll. Jch will, zur Nachricht, ein
-          <lb/>Exempel zweyer ♭ vor einer Note geben:
+          <lb />nicht erlebet habe, ſo könnte etwan, dafern es ſo gefällig wäre, das β dazu genommen
+          <lb />werden, weil doch kurtzum alles Griechiſch ſeyn ſoll. Jch will, zur Nachricht, ein
+          <lb />Exempel zweyer ♭ vor einer Note geben:
 
-          <figure type="notatedMusic"></figure>
+          <notatedMusic xml:id="music-example3">
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
         </p>
       </div>
       <div n="23">
-        <lb/><head>§. 23.</head>
+        <lb /><head>§. 23.</head>
         <p>
-          <lb/>Mancher wird diesen anhang für Grillenfängerey
+          <lb />Mancher wird dieſen anhang für Grillenfängerey
           <note place="foot" n="*)">
-            <lb/>Wenn der oberwehnte Staarstecher mir doch die Ehre thut, daß er mich endlich für einen
-            <lb/>musicalischen Grillenfänger und <hi rendition="#aq">Theoreticum</hi> mit schlentern lassen will, so wird er wol
-            <lb/>schwerlich wissen, welcher Gestalt in denen Leipziger Zeitungen von gelehrten Sachen be-
-            <lb/>reits <date when="1719">vor 13. Jahren</date> gerade das Gegentheil behauptet worden ist. Es müste derjenige
-            <lb/>auch einen wunderlichen Begriff von der musicalischen Theorie oder blossen Betrach-
-            <lb/>tung haben, der <abbr>z. E.</abbr> diese <hi rendition="#b">Grosse General-Baß-Schule</hi> nicht hauptsächlich
-            <lb/>für ein practisches Werck halten wollte, das durch nützlichen Erwegen zur wircklichen
-            <lb/>Ausübung gedeiet.
+            <lb />Wenn der oberwehnte Staarſtecher mir doch die Ehre thut, daß er mich endlich für einen
+            <lb />muſicaliſchen Grillenfänger und <hi rendition="#aq">Theoreticum</hi> mit ſchlentern laſſen will, ſo wird er wol
+            <lb />ſchwerlich wiſſen, welcher Geſtalt in denen Leipziger Zeitungen von gelehrten Sachen be-
+            <lb />reits <date when="1719">vor 13. Jahren</date> gerade das Gegentheil behauptet worden iſt. Es müste derjenige
+            <lb />auch einen wunderlichen Begriff von der muſicaliſchen Theorie oder bloſſen Betrach-
+            <lb />tung haben, der <abbr>z. E.</abbr> dieſe <hi rendition="#b">Groſſe General-Baß-Schule</hi> nicht hauptsächlich
+            <lb />für ein practiſches Werck halten wollte, das durch nützlichen Erwegen zur wircklichen
+            <lb />Ausübung gedeiet.
           </note>
           und Kleinigkeiten, oder auch
-          <lb/>für überflüssig achten, und dabey glauben, man könne die Zeit wol mit wichtigern
-          <lb/>betrachtungen zu bringen ; allein, ein rechtschaffener Liebhaber und seiner
-          <lb/>Wissenschaft Beflissener achtet es für keine Kleinigkeit, wenn er auch nur
+          <lb />für überflüſſig achten, und dabey glauben, man könne die Zeit wol mit wichtigern
+          <lb />betrachtungen zu bringen ; allein, ein rechtſchaffener Liebhaber und ſeiner
+          <lb />Wiſſenſchaft Befliſſener achtet es für keine Kleinigkeit, wenn er auch nur
           <fw type="catch" place="bottom">ein</fw>
           <pb n="458" />
 
-          <lb/>ein eintziges Pünctgen in der Sache, die er zu untersuchen vorgenommen hat,
-          <lb/>wo nicht verbessert, wnigstens, wenn etwas daran fehlet, den Mangel
-          <lb/>entdecket. Jst sonst niemand damit gedienet, so kann es vielleicht der Jugend nu-
-          <lb/>tzen. Jch spreche mit jenem
+          <lb />ein eintziges Pünctgen in der Sache, die er zu unterſuchen vorgenommen hat,
+          <lb />wo nicht verbeſſert, wnigſtens, wenn etwas daran fehlet, den Mangel
+          <lb />entdecket. Jſt ſonſt niemand damit gedienet, ſo kann es vielleicht der Jugend nu-
+          <lb />tzen. Jch ſpreche mit jenem
           <note place="foot" n="a)">
             <hi rendition="#aq">
               <foreign xml:lang="lat">
                 <quote xml:id="morhof-quote" corresp="#morhof-translation">
-                  Quod si forte erunt, qui has minutias contemnendas judicauerint, illi sciant, nihil
-                  minutum aut leue esse, quod cum juuentutis commodo cunjunctum est.
+                  Quod ſi forte erunt, qui has minutias contemnendas judicauerint, illi ſciant, nihil
+                  minutum aut leue eſſe, quod cum juuentutis commodo cunjunctum eſt.
                 </quote>
                 <hi rendition="#i"><persName corresp="#ed_fwn_dvb_5lb">Mor-
-                <lb/>hof</persName>. <bibl corresp="#ed_m4n_mvb_5lb">Polyhist. Tom. I. Libr. 2. cap. 13.</bibl></hi>
+                <lb />hof</persName>. <bibl corresp="#ed_m4n_mvb_5lb">Polyhiſt. Tom. I. Libr. 2. cap. 13.</bibl></hi>
               </foreign>
             </hi>
           </note>
-          grossen Mann:
+          groſſen Mann:
           <quote type="translation" corresp="#morhof-quote" xml:id="morhof-translation">
-            <hi rendition="#b">Sollten sich Leute finden,
-            <lb/> die solche Kleinigkeiten für verächtlich hielten; so mögen sie wol wis-
-            <lb/>sen, daß nichts klein oder geringe seyn könne, welches mit dem Vor-
-            <lb/>theil der Jugend verbunden und verknüpfet ist.</hi>
+            <hi rendition="#b">Sollten ſich Leute finden,
+            <lb /> die ſolche Kleinigkeiten für verächtlich hielten; ſo mögen ſie wol wiſ-
+            <lb />ſen, daß nichts klein oder geringe ſeyn könne, welches mit dem Vor-
+            <lb />theil der Jugend verbunden und verknüpfet iſt.</hi>
           </quote>
           Zudem finde ich im
-          <lb/><persName corresp="#ed_scp_svx_qlb">Printzen</persName>
+          <lb /><persName corresp="#ed_scp_svx_qlb">Printzen</persName>
           <note place="foot" n="b)">
-            <hi rendition="#b"><bibl corresp="#ed_pmp_1hl_tlb">Satyr. Componist</bibl></hi>, <hi rendition="#i">Part. II. cap. 19. §. 15.</hi>
+            <hi rendition="#b"><bibl corresp="#ed_pmp_1hl_tlb">Satyr. Componiſt</bibl></hi>, <hi rendition="#i">Part. II. cap. 19. §. 15.</hi>
           </note>
-          einen ziemlichen scharffen Ausspruch, der hieher gehöret, und so lautet:
-          <lb/><quote>"Es soll sich einer vorsehen, daß er nichts setze, das nicht seinen Grund <hi rendition="#aq">in Musica
-          <lb/>signatoria</hi> habe: denn diejenigen, so hierinn fehlen, geben sich nicht wenig bloß,
-          <lb/>weil zu vermuthen, daß der, so in solchen <hi rendition="#b">geringen Dingen</hi> verstösset, ge-
-          <lb/>gewiß sonst auch nicht viel verstehe."</quote>
+          einen ziemlichen ſcharffen Ausſpruch, der hieher gehöret, und ſo lautet:
+          <lb /><quote>"Es ſoll ſich einer vorſehen, daß er nichts ſetze, das nicht ſeinen Grund <hi rendition="#aq">in Muſica
+          <lb />ſignatoria</hi> habe: denn diejenigen, ſo hierinn fehlen, geben ſich nicht wenig bloß,
+          <lb />weil zu vermuthen, daß der, ſo in ſolchen <hi rendition="#b">geringen Dingen</hi> verſtöſſet, ge-
+          <lb />gewiß ſonſt auch nicht viel verſtehe."</quote>
         </p>
       </div>
 
       <div n="24">
-        <lb/><head>§. 24.</head>
+        <lb /><head>§. 24.</head>
         <p>
-          <lb/>Da mir übrigens vor einiger Zeit berichtet werden wollen, ob hätte ein
-          <lb/>gewisser Freund in <placeName>Engeland</placeName> sich ein so genannten chromatisches Clavier verferti-
-          <lb/>gen lassen, darauf er Wunder-Dinge machen soll; so kann nicht umhin, mich dar-
-          <lb/>über zu erfreuen, und zu wünschn, daß er viele Nachfolger haben möge. Wie
-          <lb/>solches Jnstrument aber eignetlich beschaffen sey, davon habe keinen rechten
-          <lb/>Begriff: zumal mir der Nahme eines chromatischen Claviers kein Genügen ge-
-          <lb/>ben kann. Denn alle unsere Claviere haben schon die chromatische Octaven. Jch
-          <lb/>zweifle dannenhero, ob es in enharmonische
+          <lb />Da mir übrigens vor einiger Zeit berichtet werden wollen, ob hätte ein
+          <lb />gewiſſer Freund in <placeName ref="https://www.geonames.org/6269131">Engeland</placeName> ſich ein ſo genannten chromatiſches Clavier verferti-
+          <lb />gen laſſen, darauf er Wunder-Dinge machen ſoll; ſo kann nicht umhin, mich dar-
+          <lb />über zu erfreuen, und zu wünſchn, daß er viele Nachfolger haben möge. Wie
+          <lb />ſolches Jnſtrument aber eignetlich beſchaffen ſey, davon habe keinen rechten
+          <lb />Begriff: zumal mir der Nahme eines chromatiſchen Claviers kein Genügen ge-
+          <lb />ben kann. Denn alle unſere Claviere haben ſchon die chromatiſche Octaven. Jch
+          <lb />zweifle dannenhero, ob es in enharmoniſche
           <note place="foot" n="c)">
-            <lb/>Wenn ich dieses Wort, an statt Palmul, Taxill, Tangent etc. einführe, und von dem ver-
-            <lb/>bo <hi rendition="#b">tasten</hi>, <hi rendition="#aq">toucher</hi>, herleite,
-            drückt es das Ding besser aus, als alle andre Wörter, und
-            <lb/>kömmt auch mit den ausländischen Benennungen der Tastaturen überein.
+            <lb />Wenn ich dieſes Wort, an ſtatt Palmul, Taxill, Tangent etc. einführe, und von dem ver-
+            <lb />bo <hi rendition="#b">taſten</hi>, <hi rendition="#aq">toucher</hi>, herleite,
+            drückt es das Ding beſſer aus, als alle andre Wörter, und
+            <lb />kömmt auch mit den ausländiſchen Benennungen der Taſtaturen überein.
           </note>
-          <hi rendition="#b">Tasten</hi>, oder gar in lauter Com-
-          <lb/>mata habe zertheilet werden können, weil solches einen grossen Raum erfordern
-          <lb/>würde. Eine commatische Eintheilung, davon oben schon etwas erwehnet worden,
-          <lb/>will ich doch, denen zu Gefallen, die gar keinen Begriff von der Sache haben, all-
-          <lb/>hie auf das gröbste entwerffen. Jch sage billig auf das gröbste, weil mir nicht un-
+          <hi rendition="#b">Taſten</hi>, oder gar in lauter Com-
+          <lb />mata habe zertheilet werden können, weil ſolches einen groſſen Raum erfordern
+          <lb />würde. Eine commatiſche Eintheilung, davon oben ſchon etwas erwehnet worden,
+          <lb />will ich doch, denen zu Gefallen, die gar keinen Begriff von der Sache haben, all-
+          <lb />hie auf das gröbſte entwerffen. Jch ſage billig auf das gröbſte, weil mir nicht un-
           <fw place="bottom" type="catch">be-</fw>
           <pb n="459"/>
 
-          <lb/>bekannt, daß ein kleiner Ton mehr, als acht, und weniger als neun Theilgen, inglei-
-          <lb/>chen, daß ein kleiner halber Ton mehr, als drey, und weniger als vier haben sollen,
-          <lb/>davon <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> und <hi rendition="#b"><persName corresp="#ed_j5y_1xy_qlb">Boethius</persName></hi>
+          <lb />bekannt, daß ein kleiner Ton mehr, als acht, und weniger als neun Theilgen, inglei-
+          <lb />chen, daß ein kleiner halber Ton mehr, als drey, und weniger als vier haben ſollen,
+          <lb />davon <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> und <hi rendition="#b"><persName corresp="#ed_j5y_1xy_qlb">Boethius</persName></hi>
           <note place="foot" n="d)">
             <hi rendition="#i"><bibl>Zarl. Vol. I. pag. 169.</bibl> <bibl>Boet. Libr. III. 14 &amp; 15.</bibl></hi>
           </note>
-          glesen werden können. Also muß man aus die-
-          <lb/>ser Vorbildung nichts genaues, oder nach der Algebra abgemessenes machen.
+          geleſen werden können. Alſo muß man aus die-
+          <lb />ſer Vorbildung nichts genaues, oder nach der Algebra abgemeſſenes machen.
 
           <figure>
 
@@ -1018,123 +1025,122 @@
       </div>
 
       <div n="25">
-        <lb/><head>§. 25.</head>
+        <lb /><head>§. 25.</head>
         <p>
-          <lb/>So viel Strichlein als nun hier befindlich sind, so viel Tasten müste ein Werck
-          <lb/>haben, das commatisch heissen wollte. Und wenn, nach solchem Entwurff, 53.
-          <lb/>Grade in eine Octave kämen, so müste die gantze Griff-Tafel, von vier Octaven,
-          <lb/>welche unser gebräuchliches Clavier aufweiset, in weniger nicht, als in 112. Theil-
-          <lb/>gen zerschnitten werden. Das würde in einem kleinen Raum thun, grosse
-          <lb/>Kunst erfordern; aber noch grössere, richtig und rein darauf zu spielen. Ich se-
-          <lb/>tze diese Muthmassungen deswegen hieher, weil es wol seyn kann, daß derjenige,
-          <lb/>von dem der Bericht des Engeländischen Ertz-Claviers herkömmt, chromatische
-          <lb/>genennet, und commatische gemeynet habe. <persName corresp="#ed_u1q_mlx_qlb">Werckmeister</persName> bestimmet, in seiner
-          <lb/><bibl corresp="#ed_dbx_tvb_5lb">Temperatur</bibl>, zwantzig Theilgen; <persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName> aber sechs mehr zu einer Octave,
-          <lb/>welches im gantzen Clavier, nach der ersten Art 80, und nach der andern 104. Ta-
-          <lb/>sten betragen, einfolglich der obigen commatischen Eintheilung sehr nahe treten
-          <lb/>würde. Wir behelffen uns inzwischen noch mit 48 Tangenten, in vier Octaven,
-          <lb/>und haben beide Hände voll damit zu thun.
+          <lb />So viel Strichlein als nun hier befindlich ſind, ſo viel Taſten müste ein Werck
+          <lb />haben, das commatiſch heiſſen wollte. Und wenn, nach ſolchem Entwurff, 53.
+          <lb />Grade in eine Octave kämen, ſo müste die gantze Griff-Tafel, von vier Octaven,
+          <lb />welche unſer gebräuchliches Clavier aufweiſet, in weniger nicht, als in 112. Theil-
+          <lb />gen zerſchnitten werden. Das würde in einem kleinen Raum thun, groſſe
+          <lb />Kunſt erfordern; aber noch gröſſere, richtig und rein darauf zu ſpielen. Ich ſe-
+          <lb />tze dieſe Muthmaſſungen deſwegen hieher, weil es wol ſeyn kann, daß derjenige,
+          <lb />von dem der Bericht des Engeländiſchen Ertz-Claviers herkömmt, chromatiſche
+          <lb />genennet, und commatiſche gemeynet habe. <persName corresp="#ed_u1q_mlx_qlb">Werckmeiſter</persName> beſtimmet, in ſeiner
+          <lb /><bibl corresp="#ed_dbx_tvb_5lb">Temperatur</bibl>, zwantzig Theilgen; <persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName> aber ſechs mehr zu einer Octave,
+          <lb />welches im gantzen Clavier, nach der erſten Art 80, und nach der andern 104. Ta-
+          <lb />ſten betragen, einfolglich der obigen commatiſchen Eintheilung ſehr nahe treten
+          <lb />würde. Wir behelffen uns inzwiſchen noch mit 48 Tangenten, in vier Octaven,
+          <lb />und haben beide Hände voll damit zu thun.
         </p>
       </div>
 
       <div n="26">
-        <lb/><head>§. 26.</head>
+        <lb /><head>§. 26.</head>
         <p>
-          <lb/><hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi>
+          <lb /><hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi>
           <note place="foot" n="*)">
-            Siehe was unsere Vorbereitung p. 4. und das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrte Lexicon</bibl> p. 1602. von diesem Mann
-            <lb/>sagen. Er war Capellmeister der <placeName>Republick Venedig</placeName>.
+            Siehe was unſere Vorbereitung p. 4. und das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrte Lexicon</bibl> p. 1602. von dieſem Mann
+            <lb />ſagen. Er war Capellmeiſter der <placeName ref="https://www.geonames.org/3164603">Republick Venedig</placeName>.
           </note>
-          und <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, zween der besten musicalischen Scribenten, hiel-
-          <lb/>ten nicht gar viel von dergleichen zerhackten Clavieren, die man in so schrecklich
+          und <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, zween der beſten muſicaliſchen Scribenten, hiel-
+          <lb />ten nicht gar viel von dergleichen zerhackten Clavieren, die man in ſo ſchrecklich
           <fw type="catch" place="bottom">kleine</fw>
           <pb n="460"/>
 
-          <lb/>kleine Glieder eintheilte, ob wol der erste
+          <lb />kleine Glieder eintheilte, ob wol der erſte
           <note place="foot" n="e)">
-            <hi rendition="#i">Zarl. <bibl corresp="#ed_mgq_2wb_5lb">Volum. I. Instit. harmon.</bibl> pag. 172.</hi>
+            <hi rendition="#i">Zarl. <bibl corresp="#ed_mgq_2wb_5lb">Volum. I. Inſtit. harmon.</bibl> pag. 172.</hi>
           </note>
-          ein so genannte <hi rendition="#aq">Grauecembalum</hi> vor-
-          <lb/>stellig macht und abmahlet, daß er sich Anno <hi rendition="#aq"><date when="1548">1548.</date></hi> zu
-          <placeName>Venedig</placeName>, von Meister
-          <lb/><hi rendition="#aq"><persName corresp="#ed_mcb_nwb_5lb">Domenico Pesarese</persName></hi>,
-          verfertigen lassen, und vermuthlich nicht so wol zum Spie-
-          <lb/>len, als an Statt eines Probier-Steins (wie seine Worte lauten), gebraucht hat.
-          <lb/>Es enthälgt dasselbige zwo Octaven, deren jede in 20. Tasten, oder Griff-Schlüs-
-          <lb/>sel, die gantze Tafel aber zusammen in 39. eingetheilet ist. Es fänget unten vom
-          <lb/>A an, und gehet bis ins <hi rendition="#b">aa</hi> hinauf, nach der damahls üblichen Weise; hat in jeder
-          <lb/>Octave ein gebrochenes <hi rendition="#b">b</hi>, eine Tangente zwischen <hi rendition="#b">h</hi> und
-          <hi rendition="#b">c</hi>, eine andere zwischen <hi rendition="#b">e</hi>
-          <lb/>und <hi rendition="#b">f</hi>, ein doppeltes <hi rendition="#b">cis</hi>, <hi rendition="#b">dis</hi>
+          ein ſo genannte <hi rendition="#aq">Grauecembalum</hi> vor-
+          <lb />ſtellig macht und abmahlet, daß er ſich Anno <hi rendition="#aq"><date when="1548">1548.</date></hi> zu
+          <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>, von Meiſter
+          <lb /><hi rendition="#aq"><persName corresp="#ed_mcb_nwb_5lb">Domenico Peſareſe</persName></hi>,
+          verfertigen laſſen, und vermuthlich nicht ſo wol zum Spie-
+          <lb />len, als an Statt eines Probier-Steins (wie ſeine Worte lauten), gebraucht hat.
+          <lb />Es enthälgt daſſelbige zwo Octaven, deren jede in 20. Taſten, oder Griff-Schlüſ-
+          <lb />ſel, die gantze Tafel aber zuſammen in 39. eingetheilet iſt. Es fänget unten vom
+          <lb />A an, und gehet bis ins <hi rendition="#b">aa</hi> hinauf, nach der damahls üblichen Weiſe; hat in jeder
+          <lb />Octave ein gebrochenes <hi rendition="#b">b</hi>, eine Tangente zwiſchen <hi rendition="#b">h</hi> und
+          <hi rendition="#b">c</hi>, eine andere zwiſchen <hi rendition="#b">e</hi>
+          <lb />und <hi rendition="#b">f</hi>, ein doppeltes <hi rendition="#b">cis</hi>, <hi rendition="#b">dis</hi>
           <hi rendition="#b">fis</hi> und <hi rendition="#b">gis</hi>; jedoch nur in zwo Ordnungen oder
-          <lb/>Griff-Reihen, deren öberste gespaltene Tasten hat, ausgenommen zwischen <hi rendition="#b">h</hi> und
-          <lb/><hi rendition="#b">c</hi>, ingleichen . zweischen <hi rendition="#b">e</hi> und
-          <hi rendition="#b">f</hi>, da die Tangenten nur halb so breit, als die andern,
-          <lb/>und ungetheilet sind.
+          <lb />Griff-Reihen, deren öberſte geſpaltene Taſten hat, auſgenommen zwiſchen <hi rendition="#b">h</hi> und
+          <lb /><hi rendition="#b">c</hi>, ingleichen zwiſchen <hi rendition="#b">e</hi> und <hi rendition="#b">f</hi>, da die Tangenten nur halb ſo breit, als die andern,
+          <lb />und ungetheilet ſind.
         </p>
       </div>
 
        <div n="27">
-         <lb/><head>§. 27.</head>
+         <lb /><head>§. 27.</head>
          <p>
-           <lb/><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, wenn er von dem enharmonischen Geschlecht
+           <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, wenn er von dem enharmoniſchen Geſchlecht
            <note place="foot" n="f)">
              <bibl corresp="#ed_h4c_wwb_5lb">de Mus. Libr. III.</bibl> cap. 8. pag. 127. 127.
            </note>
            handelt, auch
-           <lb/>Messen, Motetten und Madrigalen anführet, die in solchem Geschlecht wircklich,
-           <lb/>und besondern von <hi rendition="#i"><persName corresp="#ed_zt2_z1f_5lb">Joanne Montoni</persName></hi> gesetzt worden sind, gibt uns zu verstehen,
-           <lb/>er habe solche enharmonisch-theilte Jnstrumente zu <placeName>Florenz</placeName> gesehen und gehöret;
-           <lb/>das aller vollkomenste aber solcher Art, bey sich zu <placeName>Salamanca</placeName>, welches in
-           <lb/><placeName>Rom</placeName> gemacht, und auf welchem alle drey Geschlechter mit Fleiß vor Augen gele-
-           <lb/>get worden. Vom Spielen sagt er kein Wort, gibt auch keinen Abriß noch fernere
-           <lb/>Beschreibung dieses Jnstruments: daß man also nicht weiß, ob es mit dem <persName corresp="#ed_jlh_wvy_qlb">Zarli-
-           <lb/>nischen</persName> einerley, oder von demselben noch unterschieden sey. Des <persName corresp="#ed_rpk_l2y_qlb">Salins</persName> Mey-
-           <lb/>nung geht sonst dahin,
+           <lb />Meſſen, Motetten und Madrigalen anführet, die in ſolchem Geſchlecht wircklich,
+           <lb />und beſondern von <hi rendition="#i"><persName corresp="#ed_zt2_z1f_5lb">Joanne Montoni</persName></hi> geſetzt worden ſind, gibt uns zu verſtehen,
+           <lb />er habe ſolche enharmoniſch-theilte Jnſtrumente zu <placeName ref="https://www.geonames.org/3176959">Florenz</placeName> geſehen und gehöret;
+           <lb />das aller vollkomenſte aber ſolcher Art, bey ſich zu <placeName ref="https://www.geonames.org/3111108">Salamanca</placeName>, welches in
+           <lb /><placeName ref="https://www.geonames.org/3169070">Rom</placeName> gemacht, und auf welchem alle drey Geſchlechter mit Fleiß vor Augen gele-
+           <lb />get worden. Vom Spielen ſagt er kein Wort, gibt auch keinen Abriß noch fernere
+           <lb />Beſchreibung dieſes Jnſtruments: daß man alſo nicht weiß, ob es mit dem <persName corresp="#ed_jlh_wvy_qlb">Zarli-
+           <lb />niſchen</persName> einerley, oder von demſelben noch unterſchieden ſey. Des <persName corresp="#ed_rpk_l2y_qlb">Salins</persName> Mey-
+           <lb />nung geht ſonſt dahin,
            <note place="foot" n="g)">
              <abbr>Vid.</abbr> <abbr>ej.</abbr> <bibl corresp="#ed_h4c_wwb_5lb">Lib. III. de Mus. cap. 27. pag. 166. circa med.</bibl>
            </note>
-           daß man der andern Subsemitonen, wie sie mit Unfug
-           <lb/>und auf verderbte Art genennet werden, gar wol entbehren könne; allein, zwe-
-           <lb/>en müste man doch nothwendig in jeder Octave hinzu thun, nemlich: eines bey
-           <lb/>dem <hi rendition="#b">dis</hi>, das andere aber bey dem <hi rendition="#b">gis</hi>, damit, wie er
+           daß man der andern Subſemitonen, wie ſie mit Unfug
+           <lb />und auf verderbte Art genennet werden, gar wol entbehren könne; allein, zwe-
+           <lb />en müste man doch nothwendig in jeder Octave hinzu thun, nemlich: eines bey
+           <lb />dem <hi rendition="#b">dis</hi>, das andere aber bey dem <hi rendition="#b">gis</hi>, damit, wie er
            <note place="foot" n="h)">
              <hi rendition="#aq">
                <foreign xml:lang="lat">
                  <quote xml:id="salin-quote" corresp="#salin-translation">
-                   Quod nunc Instrumentorum defectui meritò adscribitur, tunc ipsius Organistae cul-
-                   <lb/>pae tribueter.
+                   Quod nunc Inſtrumentorum defectui meritò adſcribitur, tunc ipſius Organiſtae cul-
+                   <lb />pae tribueter.
                  </quote>
                  <hi rendition="#i"><abbr>Id.</abbr> <abbr>ibid.</abbr></hi>
                </foreign>
              </hi>
            </note>
-           spricht,
+           ſpricht,
            <hi rendition="#b">
              <quote type="translation" xml:id="salin-translation" corresp="#salin-quote">
                was dem
-               <lb/>Mangel des Jnstruments anjetzo mit Recht beigelegt wird, alsdenn
-               <lb/>dem Organisten zur Schuld gereiche, wenns nicht rein klingt.
+               <lb />Mangel des Jnſtruments anjetzo mit Recht beigelegt wird, alsdenn
+               <lb />dem Organiſten zur Schuld gereiche, wenns nicht rein klingt.
              </quote>
            </hi>
            Man
            <fw type="catch" place="bottom">findet</fw>
            <pb n="461"/>
 
-           <lb/>findet auch noch hin und wieder diese Einrichtung in alten Orgel-Wercken, <abbr>Z.E.</abbr>
-           <lb/>hier, in <placeName>Hamburg</placeName> in der <placeName>Marien-Magdalenen-Kirche</placeName>. Wobey denn anzumercken
-           <lb/>ist, daß erwehnter <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, der zuerst dergleichen Eintheilung verordnet hat, in
-           <lb/>Spanien, auf der <orgName>hohen Schule zu <placeName>Salamanca</placeName></orgName>, Professor der Music, und Abt
-           <lb/>zu <placeName>St. Pancratz</placeName> gewesen ist; daß er, ungeachtet des im <date>zehnten Jahr seines Alters</date>
-           <lb/>verlohrenen Gesichts, eine ausnehmende Gelehrsamkeit besessen; daß er ein herrli-
-           <lb/>ches Werck von der Music geschrieben, so in sieben Büchern annoch vorhanden ist;
+           <lb />findet auch noch hin und wieder dieſe Einrichtung in alten Orgel-Wercken, <abbr>Z.E.</abbr>
+           <lb />hier, in <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName> in der <placeName>Marien-Magdalenen-Kirche</placeName>. Wobey denn anzumercken
+           <lb />iſt, daß erwehnter <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, der zuerſt dergleichen Eintheilung verordnet hat, in
+           <lb />Spanien, auf der <orgName>hohen Schule zu <placeName ref="https://www.geonames.org/3111108">Salamanca</placeName></orgName>, Profeſſor der Muſic, und Abt
+           <lb />zu <placeName>St. Pancratz</placeName> geweſen iſt; daß er, ungeachtet des im <date>zehnten Jahr ſeines Alters</date>
+           <lb />verlohrenen Geſichts, eine auſnehmende Gelehrſamkeit beſeſſen; daß er ein herrli-
+           <lb />ches Werck von der Muſic geſchrieben, ſo in ſieben Büchern annoch vorhanden iſt;
            <note type="editorial" resp="#pfeffer">
-             gemeint sind die <hi rendition="#i">De musica libri septem</hi>, 1577.
+             gemeint ist die Schrift <hi rendition="#i">De Musica libri Septem</hi>, 1577.
            </note>
-           <lb/>und das <date>77. Jahr seines Alters erreicht hat.</date>
+           <lb />und das <date>77. Jahr ſeines Alters erreicht hat.</date>
            <note n="i)" place="foot">
-             Siehe die Vorbereitung, oder erste Classe dieses Wercks p. 4., ingleichen das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrten-Lexi-
-             <lb/>con, p. 886.</bibl>
+             Siehe die Vorbereitung, oder erſte Claſſe dieſes Wercks p. 4., ingleichen das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrten-Lexi-
+             <lb />con, p. 886.</bibl>
            </note>
          </p>
       </div>
@@ -1142,217 +1148,217 @@
       <div n="461">
         <head>§. 28.</head>
         <p>
-          <lb/>Es ist indessen gantz gewiß, daß diese beide berühmte Scribenten, de-
-          <lb/>ren wir so eben Meldung gethan, durchgehends weit mehr von einer guten Tempe-
-          <lb/>rament im Stimmen, als von solchen gebrochenen
+          <lb />Es iſt indeſſen gantz gewiß, daß dieſe beide berühmte Scribenten, de-
+          <lb />ren wir ſo eben Meldung gethan, durchgehends weit mehr von einer guten Tempe-
+          <lb />rament im Stimmen, als von ſolchen gebrochenen
           <note place="foot" n="(k)">
-            Man muß hier nicht die so genannten <hi rendition="#aq">Clavecins brisés</hi> verstehen, die nur deswegen so genannt
-            <lb/>werden, weil man sie zusammen legen, und auf Reisen mit sich führen kann.
+            Man muß hier nicht die ſo genannten <hi rendition="#aq">Clavecins brisés</hi> verſtehen, die nur deſwegen ſo genannt
+            <lb />werden, weil man ſie zuſammen legen, und auf Reiſen mit ſich führen kann.
           </note>
           Griff-Taffeln gehalten haben:
-          <lb/>ungeachtet es das Ansehen gewinnet, als hätten sie die rechte Temperatur noch nicht
-          <lb/>getroffen. <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> hatte dreierley Wege, sein Comma zu theilen, dabey denn hal-
-          <lb/>be, dritten, viertel und siebtel herhalten musten. <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> aber blieb bei den sieben Theilgen
-          <lb/>allein, nach Maßgebung der sieben diatonischen Stuffen. Jeder hat seine Ursachen,
-          <lb/>und werden insonderheit die Jrrthüber des <hi rendition="#b"><persName corresp="#ed_c1l_mhy_qlb">Glareans</persName></hi>,
+          <lb />ungeachtet es das Anſehen gewinnet, als hätten ſie die rechte Temperatur noch nicht
+          <lb />getroffen. <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> hatte dreierley Wege, ſein Comma zu theilen, dabey denn hal-
+          <lb />be, dritten, viertel und ſiebtel herhalten muſten. <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> aber blieb bei den ſieben Theilgen
+          <lb />allein, nach Maßgebung der ſieben diatoniſchen Stuffen. Jeder hat ſeine Urſachen,
+          <lb />und werden inſonderheit die Jrrthüber des <hi rendition="#b"><persName corresp="#ed_c1l_mhy_qlb">Glareans</persName></hi>,
           des <persName corresp="#ed_o3z_5hy_qlb">Ludwig <hi rendition="#b">Follians</hi></persName>, ei-
-          <lb/>nes <placeName>Modenischen</placeName> Musici,
+          <lb />nes <placeName>Modeniſchen</placeName> Muſici,
           <note place="foot" n="(*)">
-            Er hat <hi rendition="#aq"><bibl corresp="#ed_ihc_fxb_5lb">Musicam theoricam</bibl></hi> geschrieben, welche <date>1529.</date> zu <placeName>Venedig</placeName>
+            Er hat <hi rendition="#aq"><bibl corresp="#ed_ihc_fxb_5lb">Muſicam theoricam</bibl></hi> geſchrieben, welche <date>1529.</date> zu <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             in <hi rendition="#aq">Folio</hi> gedruckt worden.
           </note>
-          und so gar zehn bis zwölff Fehler des <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlins</persName></hi> vom
-          <lb/><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>
+          und ſo gar zehn bis zwölff Fehler des <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlins</persName></hi> vom
+          <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>
           <note place="foot" n="(l)">
-            <hi rendition="#aq">Salin <bibl corresp="#ed_h4c_wwb_5lb">de Mus. p. 228-232, <aabr>sqq.</aabr></bibl></hi>
+            <hi rendition="#aq">Salin <bibl corresp="#ed_h4c_wwb_5lb">de Mus. p. 228-232, <aabr>ſqq.</aabr></bibl></hi>
           </note>
           <hi rendition="#b"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName></hi>
           <note place="foot" n="(m)">
             <bibl corresp="#ed_s4h_t1b_5lb">Annotaz. p. 11.</bibl>
           </note>
-          sagt: Es habe <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> von der Form und
-          <lb/>von dem rechgten Wesen der Tone gar keine Wissenschaft gehabt. Das mögte
-          <lb/>mancher Wunder nehmen; und kann doch eben so wahr seyn, als daß heutiges Ta-
-          <lb/>ges die zwölfftel vom Commate, welche, nach Anlaß der zwölff chromatischen Stuf-
-          <lb/>fen, cdie Sache ins feine bringen sollen, gleichfalls ihre Gegensprecher finden. Wie
-          <lb/>denn der offt gedachte <persName corresp="#ed_rtv_wrx_qlb">Henfling</persName>
+          ſagt: Es habe <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> von der Form und
+          <lb />von dem rechgten Weſen der Tone gar keine Wiſſenſchaft gehabt. Das mögte
+          <lb />mancher Wunder nehmen; und kann doch eben ſo wahr ſeyn, als daß heutiges Ta-
+          <lb />ges die zwölfftel vom Commate, welche, nach Anlaß der zwölff chromatiſchen Stuf-
+          <lb />fen, cdie Sache ins feine bringen ſollen, gleichfalls ihre Gegenſprecher finden. Wie
+          <lb />denn der offt gedachte <persName corresp="#ed_rtv_wrx_qlb">Henfling</persName>
           <note place="foot" n="(n)">
             <hi rendition="#aq">
               <foreign xml:lang="lat">
                 <quote>
-                  Nec illi, qui duodecimam commatis partem ab hypate quavis subducunt, diapason
-                  <lb/>claudere queunt, qui, si instituto suo recte inhaereant, ultra illud quintate
+                  Nec illi, qui duodecimam commatis partem ab hypate quavis ſubducunt, diapaſon
+                  <lb />claudere queunt, qui, ſi inſtituto ſuo recte inhaereant, ultra illud quintate
                   <figure></figure>
-                  <lb/>progrediuntur. <bibl corresp="#ed_wnr_txb_5lb">Miscell. Berol.</bibl> Vol. I., p. 287.
+                  <lb />progrediuntur. <bibl corresp="#ed_wnr_txb_5lb">Miſcell. Berol.</bibl> Vol. I., p. 287.
                 </quote>
               </foreign>
             </hi>
           </note>
-          schon vor vielen Jahren dargethan hat, daß die-
-          <fw type="catch" place="bottom">ses</fw>
+          ſchon vor vielen Jahren dargethan hat, daß die-
+          <fw type="catch" place="bottom">ſes</fw>
           <pb n="462"/>
 
-          <lb/>ses zwölfftel die Octave nicht rein liefert, sondern überschreitet. Jch wollte wol, daß ein
-          <lb/>gewisser Mann hierauf antwortete, und mich verlanget, den Streit einmahl so geho-
-          <lb/>ben zu sehen, daß dem höchsten Urtheil des Gehörs ein Genüge geschehen mögte.
+          <lb />ſes zwölfftel die Octave nicht rein liefert, ſondern überſchreitet. Jch wollte wol, daß ein
+          <lb />gewiſſer Mann hierauf antwortete, und mich verlanget, den Streit einmahl ſo geho-
+          <lb />ben zu ſehen, daß dem höchſten Urtheil des Gehörs ein Genüge geſchehen mögte.
         </p>
       </div>
 
       <div n="29">
-        <lb/><head>§. 29.</head>
+        <lb /><head>§. 29.</head>
         <p>
-          <lb/><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> schreibet sonst im dritten Buche seiner Music ein gantzes Capitel
+          <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> ſchreibet ſonſt im dritten Buche ſeiner Muſic ein gantzes Capitel
           <note n="(o)" place="foot">
-            <lb/>Es ist das sieben und zwantzigste Capitel des dritten Buchs, mit dieser Uberschrifft: <hi rendition="#aq">De prava
-            <lb/>constitutione cujusdam Instrumenti, quod in Italia circa quadraginta annos fabicari
-            <lb/>coeptum est, in quo reperitur omnis tonus in partes quinque divisus.</hi> Der grosse halbe
-            <lb/>Ton hat drey, und der kleine zwo Tasten. <hi rendition="#b"><persName corresp="#ed_rtv_wrx_qlb">Henfling</persName></hi>
+            <lb />Es iſt das ſieben und zwantzigſte Capitel des dritten Buchs, mit dieſer Uberſchrifft: <hi rendition="#aq">De prava
+            <lb />conſtitutione cujuſdam Inſtrumenti, quod in Italia circa quadraginta annos fabicari
+            <lb />coeptum eſt, in quo reperitur omnis tonus in partes quinque diviſus.</hi> Der groſſe halbe
+            <lb />Ton hat drey, und der kleine zwo Taſten. <hi rendition="#b"><persName corresp="#ed_rtv_wrx_qlb">Henfling</persName></hi>
             giebt zwar dem kleinen Ton fünff Theilgen,
-            und der gantzen Octave 38, welche er abermahl in 81 kleine Abschnitte, oder Commata zerglie-
-            <lb/>dert; allein er setzt ausdrücklich dabey, man könne solche Einrichtung auf keinem Jnstrument
-            <lb/>zur Ausübung bringen, sondern es komme auf eine Temperatur an. <hi rendition="#aq"><abbr>vid.</abbr> <bibl corresp="#ed_wnr_txb_5lb">Miscell. Berol. Vol.
-            <lb/>I. pag. 280</bibl></hi>.
+            und der gantzen Octave 38, welche er abermahl in 81 kleine Abſchnitte, oder Commata zerglie-
+            <lb />dert; allein er ſetzt auſdrücklich dabey, man könne ſolche Einrichtung auf keinem Jnſtrument
+            <lb />zur Ausübung bringen, ſondern es komme auf eine Temperatur an. <hi rendition="#aq"><abbr>vid.</abbr> <bibl corresp="#ed_wnr_txb_5lb">Miſcell. Berol. Vol.
+            <lb />I. pag. 280</bibl></hi>.
           </note>
           über
-          <lb/>die Erfindung eines Jnstruments, das die Octave in 31. Theile zerleget, und wieder-
-          <lb/>spricht ihr mit guten Gründen. Nach ihm hat <hi rendition="#b"><persName ref="http://d-nb.info/gnd/118581201">Mersenn</persName></hi>
-          auch darüber seine Gedan-
-          <lb/>cken eröffnet, und eben so wenig als <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, davon gehalten. Das Jnstrument hat man
-          <lb/><hi rendition="#aq">Archicymbalum</hi>, das ist: ein Ertzcymbel-Werck, geheissen, und des Erfinders Nahme
-          <lb/>ist unbekannt. <persName corresp="#ed_c22_mgy_qlb">Christian <hi rendition="#b">Huygens</hi></persName> glaubet zwar, daß sich beide,
+          <lb />die Erfindung eines Jnſtruments, das die Octave in 31. Theile zerleget, und wieder-
+          <lb />ſpricht ihr mit guten Gründen. Nach ihm hat <hi rendition="#b"><persName corresp="#ed_kyg_jgy_qlb">Merſenn</persName></hi>
+          auch darüber ſeine Gedan-
+          <lb />cken eröffnet, und eben ſo wenig als <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, davon gehalten. Das Jnſtrument hat man
+          <lb /><hi rendition="#aq">Archicymbalum</hi>, das iſt: ein Ertzcymbel-Werck, geheiſſen, und des Erfinders Nahme
+          <lb />iſt unbekannt. <persName corresp="#ed_c22_mgy_qlb">Chriſtian <hi rendition="#b">Huygens</hi></persName> glaubet zwar, daß ſich beide,
           <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> und
-          <lb/><hi rendition="#b"><persName corresp="#ed_kyg_jgy_qlb">Mersenn</persName></hi> betrogen haben; er aber allein auf dem rechten Wege sey, und die 31.
-          <lb/>gleiche Theile der Octave nicht nur vor Augen legen,
+          <lb /><hi rendition="#b"><persName corresp="#ed_kyg_jgy_qlb">Merſenn</persName></hi> betrogen haben; er aber allein auf dem rechten Wege ſey, und die 31.
+          <lb />gleiche Theile der Octave nicht nur vor Augen legen,
           <note n="(p)" place="foot">
             <hi rendition="#aq">
-              Voy. Histoire des Ouvrages des Savans. Octobre. 1691.
+              Voy. Hiſtoire des Ouvrages des Savans. Octobre. 1691.
             </hi>
           </note>
-          sondern leicht, ich weiß nicht
-          <lb/>mit welcher Art aufgesetzter und beweglicher Claviere, zum Gehör und zur wirck-
-          <lb/>lichen Ausübung bringen könne. Allein, weil der gute und gelehrte Mann noch im-
-          <lb/>mer mit Quart- und Viertel-commaten,ja mit gröbern Sachen handelt, mag ich
-          <lb/>ihm keinen Beifall geben, wenn er auch die logarythmische Rechnung besser, als
-          <lb/>der <persName ref="http://d-nb.info/gnd/119362406">Quedlinburgische Organist</persName> verstünde;
+          ſondern leicht, ich weiß nicht
+          <lb />mit welcher Art aufgeſetzter und beweglicher Claviere, zum Gehör und zur wirck-
+          <lb />lichen Ausübung bringen könne. Allein, weil der gute und gelehrte Mann noch im-
+          <lb />mer mit Quart- und Viertel-commaten,ja mit gröbern Sachen handelt, mag ich
+          <lb />ihm keinen Beifall geben, wenn er auch die logarythmiſche Rechnung beſſer, als
+          <lb />der <persName corresp="#ed_u1q_mlx_qlb">Quedlinburgiſche Organiſt</persName> verſtünde;
           halte es hergegen zehnmal lieber mit
-          <lb/>einer guten Temperatur, sie sey gleich oder ungleich, dafern sie nur gesunde Ohren
-          <lb/>vergnüget, beweget und ergetzet.
+          <lb />einer guten Temperatur, ſie ſey gleich oder ungleich, dafern ſie nur geſunde Ohren
+          <lb />vergnüget, beweget und ergetzet.
         </p>
       </div>
 
       <div n="30">
-        <lb/><head>§. 30.</head>
+        <lb /><head>§. 30.</head>
         <p>
-          <lb/>Denn, wenn man auch
+          <lb />Denn, wenn man auch
           <note place="foot" n="(q)">
-            <persName corresp="#ed_u1q_mlx_qlb">Werckmeister</persName> p. 70. seiner Temperatur.
+            <persName corresp="#ed_u1q_mlx_qlb">Werckmeiſter</persName> p. 70. ſeiner Temperatur.
             <persName>P. de Thyard</persName> de la Mus. p. 8. 9.
           </note>
-          hundert oder tausend so genannte Subsemitone in
-          <lb/>ein Clavier machte, so wird doch die Zusammenbindung der Harmonie unvollkom-
-          <lb/>men und lahm seyn und bleiben. Jch bin auch, mit Unterwerffung an diejenigen, die
-          <lb/>klüger sind, als ich, eben derselben Meynung, und pflichte den Worten obgedachten Ver-
-          <lb/>fassers bey, die er kurtz vorher anführet, also:
+          hundert oder tauſend ſo genannte Subſemitone in
+          <lb />ein Clavier machte, ſo wird doch die Zuſammenbindung der Harmonie unvollkom-
+          <lb />men und lahm ſeyn und bleiben. Jch bin auch, mit Unterwerffung an diejenigen, die
+          <lb />klüger ſind, als ich, eben derſelben Meynung, und pflichte den Worten obgedachten Ver-
+          <lb />faſſers bey, die er kurtz vorher anführet, alſo:
           <hi rendition="#b">
-            Darum hat es GOTT so weiß-
-            <lb/>lich geordnet, und unser Gemüth also zugerichtet, daß es mit einer guten
+            Darum hat es GOTT ſo weiß-
+            <lb />lich geordnet, und unſer Gemüth alſo zugerichtet, daß es mit einer guten
             <fw type="catch" place="bottom">Tem-</fw>
             <pb n="463"/>
-            Temperatur zufrieden ist; ja, GOtt hat alles, was in der Natur ist, in die
-            <lb/>Temepratur gesetzt, warum wollten wir dieselbe aus der Music ver-
-            <lb/>bannen und verwerffen, zumahl es nicht anders seyn kann.
+            Temperatur zufrieden iſt; ja, GOtt hat alles, was in der Natur iſt, in die
+            <lb />Temepratur geſetzt, warum wollten wir dieſelbe aus der Muſic ver-
+            <lb />bannen und verwerffen, zumahl es nicht anders ſeyn kann.
           </hi>
           Der Hr.
-          <lb/><persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName> gibt es
+          <lb /><persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName> gibt es
           <note n="(r)" place="foot">
-            Jn seiner <bibl corresp="#ed_jjz_syb_5lb">besten und leichtesten Temperatur. p. 27.</bibl>
+            Jn ſeiner <bibl corresp="#ed_jjz_syb_5lb">beſten und leichteſten Temperatur. p. 27.</bibl>
           </note>
-          auf diese Art:
+          auf dieſe Art:
           <hi rendition="#b">
-            Es bleibet ausgemacht, daß es wieder
-            <lb/>alle Gründe der Natur lauffe, eine reine Scalam Diatonico-Chromaticum zu
-            <lb/>wünschen, geschweige zu haben. Man kann ja die Diatonicam nicht ein-
-            <lb/>mahl reine haben, welche man doch, bey Erfindung einer <hi rendition="#i">Diatonico-Chro-
-            <lb/>maticae</hi>, zum Grunde setzen muß.
+            Es bleibet auſgemacht, daß es wieder
+            <lb />alle Gründe der Natur lauffe, eine reine Scalam Diatonico-Chromaticum zu
+            <lb />wünſchen, geſchweige zu haben. Man kann ja die Diatonicam nicht ein-
+            <lb />mahl reine haben, welche man doch, bey Erfindung einer <hi rendition="#i">Diatonico-Chro-
+            <lb />maticae</hi>, zum Grunde ſetzen muß.
           </hi>
-          Wann dieses also wahr und fest ist, wie es denn
-          <lb/>die erfahrenesten Temepratur-Meister wahr und fest befinden: Mein! Was soll denn
-          <lb/>das <sic>Koffbrechen</sic> der Algebraisten helffen, die durch ihre vermeynte Reinigkeit nur
-          <lb/>alles desto unreiner hervorbringen?
+          Wann dieſes alſo wahr und feſt iſt, wie es denn
+          <lb />die erfahreneſten Temepratur-Meiſter wahr und feſt befinden: Mein! Was ſoll denn
+          <lb />das <sic>Koffbrechen</sic> der Algebraiſten helffen, die durch ihre vermeynte Reinigkeit nur
+          <lb />alles deſto unreiner hervorbringen?
         </p>
       </div>
 
       <div n="31">
-        <lb/><head>§. 31.</head>
+        <lb /><head>§. 31.</head>
         <p>
-          <lb/>Was sonst bey unserm letzten Prob-Stück insonderheit zu erinnern vorfallen mögte, ist wenig,
-          <lb/>und kömmt meistens darauf an, daß die Achtel, davon diesesmahl drey auf ein Viertel gehen, alleine
-          <lb/>spielen, und <ref target="#note-0000000280011944 #note-0000000793662346">zur ersten Note</ref>
-          derselben nur das gehörige oder überzeichnete angeschlagen werde. Viele
-          <lb/>Künste bey dergleichen Tonen sehen zu lassen, leidet der Umstand bishero nicht; jedennoch könnte bey den
-          <lb/>Schlüssen, als nehmlich, im
-          <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fünfften, sechzehnten, und fünff und dreissigsten Tact</ref>, etwas gebrochenes gar
-          <lb/>zierlich angebracht werden. Jch will es aber, wie durchgehends alle solche Auszierungen und Schmü-
-          <lb/>ckungen, nicht als ein nothwendig erfordertes Stück bey einem gewöhnlichen General-Baß, sondern als
-          <lb/>eine beliebte und artige Zugabe bey der Probe, bey der Uebung, und bey ersehener Gelgenheit, betrachtet
-          <lb/>haben, weil ich völlig in diesem Stück mit <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> übereinstimme, da er sich also heraus lässt:
+          <lb />Was ſonſt bey unſerm letzten Prob-Stück inſonderheit zu erinnern vorfallen mögte, iſt wenig,
+          <lb />und kömmt meiſtens darauf an, daß die Achtel, davon dieſeſmahl drey auf ein Viertel gehen, alleine
+          <lb />ſpielen, und <ref target="#note-0000000280011944 #note-0000000793662346">zur erſten Note</ref>
+          derſelben nur das gehörige oder überzeichnete angeſchlagen werde. Viele
+          <lb />Künſte bey dergleichen Tonen ſehen zu laſſen, leidet der Umſtand bishero nicht; jedennoch könnte bey den
+          <lb />Schlüſſen, als nehmlich, im
+          <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fünfften, ſechzehnten, und fünff und dreiſſigſten Tact</ref>, etwas gebrochenes gar
+          <lb />zierlich angebracht werden. Jch will es aber, wie durchgehends alle ſolche Auſzierungen und Schmü-
+          <lb />ckungen, nicht als ein nothwendig erfordertes Stück bey einem gewöhnlichen General-Baß, ſondern als
+          <lb />eine beliebte und artige Zugabe bey der Probe, bey der Uebung, und bey erſehener Gelgenheit, betrachtet
+          <lb />haben, weil ich völlig in dieſem Stück mit <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> übereinſtimme, da er ſich alſo heraus läſſt:
           <quote type="translation">
-            <lb/>Wenn die Bässe nicht mit vielen Noten überhäuffet sind, sondern, nach des Spielers Sinn, gar zu sehr
-            <lb/>schleppen und zögern, mag er wol andre Noten hinzu thun, und mehr Figuren hervor bringen; da-
-            <lb/>fern er nur gewiß versichert ist, daß seine Zusaätze der Melodie, insonderheit aber der singenden Stim-
-            <lb/>me keinen nachtheil bringen. Denn der General-Baß ist zu anders nichts verordnet, als dem Sän-
-            <lb/>ger Beistand zu leisten; nicht aber desselben Bestreben, durch ein unzeitiges Geklängel, zu hindern, oder
-            <lb/>zu verstellen. Es giebt Leute, die so viel von sich selbst halten, daß sie glauben, ein gantzes Concert von Vir-
-            <fw type="catch" place="bottom">tuosen</fw>
+            <lb />Wenn die Bäſſe nicht mit vielen Noten überhäuffet ſind, ſondern, nach des Spielers Sinn, gar zu ſehr
+            <lb />ſchleppen und zögern, mag er wol andre Noten hinzu thun, und mehr Figuren hervor bringen; da-
+            <lb />fern er nur gewiß verſichert iſt, daß ſeine Zuſaätze der Melodie, inſonderheit aber der ſingenden Stim-
+            <lb />me keinen nachtheil bringen. Denn der General-Baß iſt zu anders nichts verordnet, als dem Sän-
+            <lb />ger Beiſtand zu leiſten; nicht aber deſſelben Beſtreben, durch ein unzeitiges Geklängel, zu hindern, oder
+            <lb />zu verſtellen. Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes Concert von Vir-
+            <fw type="catch" place="bottom">tuoſen</fw>
             <pb n="464" />
 
-            <lb/>tuosen sey ihrer kaum werth, und lassen sichs daher recht suaer werden, vor allen andern hervorzuragen.
-            <lb/>Diese Organisten überhäufften ihre vorgeschrieben Bässe mit vielen krummen Sprüngen, verbrämen
-            <lb/>alles hinten und vorn, und bringen hunderterley Dinge an, die vielleicht an und für sich selbst sehr
-            <lb/>schön sind, aber dennoch zur Unzeit kommen, und dem Concert überaus schädlich fallen, indem sie
-            <lb/>solchen Umständen zu nichts anders dienen, als die Kunst-reiche Ruhmsucht und Eitelkeit des Spielers
-            <lb/>zu bezeugen. Wer demnach in einem Concert spielet, muß es so machen, da0 er der gantzen Versamm.
-            <lb/>lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage. Denn,
-            <lb/>wenn ein jeder bloß für sich, und um sein selbst willen, spielet, so ist es kein Concert mehr.
+            <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſuaer werden, vor allen andern hervorzuragen.
+            <lb />Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, verbrämen
+            <lb />alles hinten und vorn, und bringen hunderterley Dinge an, die vielleicht an und für ſich ſelbſt ſehr
+            <lb />ſchön ſind, aber dennoch zur Unzeit kommen, und dem Concert überaus ſchädlich fallen, indem ſie
+            <lb />ſolchen Umſtänden zu nichts anders dienen, als die Kunſt-reiche Ruhmſucht und Eitelkeit des Spielers
+            <lb />zu bezeugen. Wer demnach in einem Concert ſpielet, muß es ſo machen, da0 er der gantzen Verſamm-
+            <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage. Denn,
+            <lb />wenn ein jeder bloß für ſich, und um ſein ſelbſt willen, ſpielet, ſo iſt es kein Concert mehr.
           </quote>
         </p>
       </div>
 
       <div n="32">
-        <lb/><head>§. 32.</head>
+        <lb /><head>§. 32.</head>
         <p>
-          <lb/>Jch will diesen gantz gesunden Gedancken noch hinzufügen, daß, wer nicht im Concert, sondern
-          <lb/>zur Probe, oder etwa hie und da viele Täcte allein spielet, derselbe also spielen müsse, daß nicht nur die
-          <lb/>andern Ehre davon haben mögen, sondern daß hauptsächlich er, der auf die Probe spielet, den Preiß
-          <lb/>seiner Kunst und Wissenschaft erhalte. Denn, wenn solcher Gestalt einer für sich, und in seiner eige-
-          <lb/>nen Absicht spielet, so soll und darff es kein Concert heissen. Wiewol auch durch das Wort Concert
-          <lb/>selbst angedeutet und erfordert wird, daß ein jeder seine besten Künste gebrauche, und mit den andern
-          <lb/>gleichsam um den Gewinn certire, kämpfe oder streite.
+          <lb />Jch will dieſen gantz geſunden Gedancken noch hinzufügen, daß, wer nicht im Concert, ſondern
+          <lb />zur Probe, oder etwa hie und da viele Täcte allein ſpielet, derſelbe alſo ſpielen müſſe, daß nicht nur die
+          <lb />andern Ehre davon haben mögen, ſondern daß hauptsächlich er, der auf die Probe ſpielet, den Preiß
+          <lb />ſeiner Kunſt und Wiſſenſchaft erhalte. Denn, wenn ſolcher Geſtalt einer für ſich, und in ſeiner eige-
+          <lb />nen Abſicht ſpielet, ſo ſoll und darff es kein Concert heiſſen. Wiewol auch durch das Wort Concert
+          <lb />ſelbſt angedeutet und erfordert wird, daß ein jeder ſeine beſten Künſte gebrauche, und mit den andern
+          <lb />gleichſam um den Gewinn certire, kämpfe oder ſtreite.
         </p>
       </div>
 
       <div n="33">
-        <lb/><head>§. 33.</head>
+        <lb /><head>§. 33.</head>
         <p>
-          <lb/>Nun muß es wol für dieses mahl geschieden seyn, mein lieber Leser! Wer einen Leser nennet, nen-
-          <lb/>net eine Person, deren saures Gesicht und störrisches Wesen alle Annehmlichkeiten verjaget; einen Rich-
-          <lb/>ter, der sich aus anders keiner Ursach auf den Stuhl zu setzen scheinet, als einen Verfasser nur zu verdam-
-          <lb/>men; einen unbeständigen Freund, der ihm die vorher-geschenckte Gunst den Augenblick wieder entziehet,
-          <lb/>so bald ein Wörtgen kömmt, das ihm nicht anstehet. Da ist deine Schilderey und Abbildung mein lie-
-          <lb/>ber Leser! Urtheile nun, ob ich Mühe habe, dich zu verlassen. Du siehest wol, daß ich dich gar nicht
-          <lb/>schmincke. Jch bin kein solcher Mensch, der Lust hat, dir zu Fusse zu fallen; es wäre alles, was man vor
-          <lb/>einer schönen Leserinn thun könte. Hast du mich nun in diesem Buche von oben biß unten spöttisch genug
-          <lb/>betrachtet; so glaube, daß ich eben so spröde, und noch wohl spröder aussehen kann, als du. Es könte
-          <lb/>aber doch wol seyn, daß ich dir hin und wieder nicht gäntzlich mißfallen hätte. Wolan, sind wir mitein-
-          <lb/>ander nur einiger massen zufrieden, so will ich bey dir, meinem Versprechen nach, bey Gelegenheit noch
-          <lb/>manchen guten Besuch abstatten. Jch will mich indessen des Lesers und Spielers Andencken und Gunst,
-          <lb/>so viel einer oder der andere davon zu missen hat, und ich brauche, empfohlen; alle rechtschaffene Orga-
-          <lb/>nisten meiner freundlichen Dienste nochmahls versichert; alle Verläumder verlachet; den Lehr-begieri-
-          <lb/>gen meinen äussersten Beistand angeboten; den Hudlern und Stümplern aber ein rechtes, starckes Ge-
-          <lb/>fühl ihres Unvermögens und fleissige Besserung angewünscht haben: der ich ein aufrichtiger
-          <lb/>Beförderer musicalischer und anderer Wahrheiten lebe und sterbe.
+          <lb />Nun muß es wol für dieſes mahl geſchieden ſeyn, mein lieber Leſer! Wer einen Leſer nennet, nen-
+          <lb />net eine Perſon, deren ſaures Geſicht und ſtörriſches Weſen alle Annehmlichkeiten verjaget; einen Rich-
+          <lb />ter, der ſich aus anders keiner Urſach auf den Stuhl zu ſetzen ſcheinet, als einen Verfaſſer nur zu verdam-
+          <lb />men; einen unbeſtändigen Freund, der ihm die vorher-geſchenckte Gunſt den Augenblick wieder entziehet,
+          <lb />ſo bald ein Wörtgen kömmt, das ihm nicht anſtehet. Da iſt deine Schilderey und Abbildung mein lie-
+          <lb />ber Leſer! Urtheile nun, ob ich Mühe habe, dich zu verlaſſen. Du ſieheſt wol, daß ich dich gar nicht
+          <lb />ſchmincke. Jch bin kein ſolcher Menſch, der Luſt hat, dir zu Fuſſe zu fallen; es wäre alles, was man vor
+          <lb />einer ſchönen Leſerinn thun könte. Haſt du mich nun in dieſem Buche von oben biß unten ſpöttiſch genug
+          <lb />betrachtet; ſo glaube, daß ich eben ſo ſpröde, und noch wohl ſpröder auſſehen kann, als du. Es könte
+          <lb />aber doch wol ſeyn, daß ich dir hin und wieder nicht gäntzlich mißfallen hätte. Wolan, ſind wir mitein-
+          <lb />ander nur einiger maſſen zufrieden, ſo will ich bey dir, meinem Verſprechen nach, bey Gelegenheit noch
+          <lb />manchen guten Beſuch abſtatten. Jch will mich indeſſen des Leſers und Spielers Andencken und Gunſt,
+          <lb />ſo viel einer oder der andere davon zu miſſen hat, und ich brauche, empfohlen; alle rechtſchaffene Orga-
+          <lb />niſten meiner freundlichen Dienſte nochmahls verſichert; alle Verläumder verlachet; den Lehr-begieri-
+          <lb />gen meinen äuſſerſten Beiſtand angeboten; den Hudlern und Stümplern aber ein rechtes, ſtarckes Ge-
+          <lb />fühl ihres Unvermögens und fleiſſige Beſſerung angewünſcht haben: der ich ein aufrichtiger
+          <lb />Beförderer muſicaliſcher und anderer Wahrheiten lebe und ſterbe.
 
-          <lb/><hi rendition="#c #k">Ende.</hi>
+          <lb /><hi rendition="#c #k">Ende.</hi>
         </p>
       </div>
       </div>
