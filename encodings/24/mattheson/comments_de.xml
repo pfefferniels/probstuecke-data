@@ -371,10 +371,10 @@
           <lb />ich, daß es ohne allen Zweiffel ein köſtlicher Wein ſeyn müſſe. Zudem haben faſt
           <lb />alle Lob- und Zuſchrifften
           <note n="*)" place="foot">
-            <foreign xml:lang="eng">
+            <hi rendition="#aq"><foreign xml:lang="eng">
               Dedications and etwas Panegyricks are frequently ridiculous, let them be addreſſed whe-
               <lb />re they will, <hi rendition="#i"><bibl corresp="#ed_oz1_by1_5lb">Tatler</bibl>, No.</hi> 92.
-            </foreign>
+            </foreign></hi>
           </note>
           lächerliches, vergrößerndes oder ausſchweif-
           <lb />fendes an ſich; ohne daß ſich jemahls ein vernünfftiger Menſch hat gelüſten laſſen,
@@ -397,9 +397,9 @@
             <quote>
               <lb />Wer von Gelobten
               <note n="*)" place="foot">
-                <foreign xml:lang="lat">Princibus placuiſſe viris non ultima laus eſt.</foreign>
-                <bibl corresp="#ed_svp_xyb_5lb">Hor. Epiſt. Libr. 1</bibl>. Das heiſſt ſonſt:
-                <foreign xml:lang="lat">Laudaria laudatis.</foreign>
+                <hi rendition="#aq"><foreign xml:lang="lat">Princibus placuiſſe viris non ultima laus eſt.</foreign>
+                <bibl corresp="#ed_svp_xyb_5lb">Hor. Epiſt. Libr. 1</bibl>.</hi> Das heiſſt ſonſt:
+                <hi rendition="#aq"><foreign xml:lang="lat">Laudaria laudatis.</foreign></hi>
               </note>
               wird gelobt,
               <lb />Der achtets nicht, ob Momus tobt:
@@ -591,11 +591,9 @@
           <lb />ſo ſelten, als vormahls häuffig, angetroffen wird. Es iſt auch mit den Tonen ei-
           <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und
           <note n="(f)" place="foot">
-            <hi rendition="#aq">
-              <foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere hontaux aujourd hui.
-                <bibl corresp="#ed_nhc_gbb_5lb">Memoir. de Buſſy, p. 105</bibl>
-              </foreign>
-            </hi>
+            <hi rendition="#aq"><foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere hontaux aujourd hui.
+              <hi rendition="#i"><bibl corresp="#ed_nhc_gbb_5lb">Memoir. de Buſſy, p. 105</bibl></hi>
+            </foreign></hi>
           </note>
           was <date when="1631">vor hundert
             <fw place="bottom" type="catch">Jahren</fw>
@@ -855,16 +853,15 @@
           <lb />Doppel-Kreutz ♯ ein chromatiſches, und das runde be, b, ein enharmoniſches
           <lb />Zeichen. Wegen des erſten ſchreibt ein Frantzösiſcher
           <note n="*)" place="foot">
-            <quote xml:id="brossard-quote" corresp="#corresp-translation">
-              <foreign xml:lang="fra">
-                Quadrato. c'eſt l'epithete qu'on donne au b, quand il eſt ſigne diatonique, ou na-
-                <lb />turel, &amp; figurè ainſi h, &amp; pour lors ſon effet eſt de remettre les corde alterées
-                <lb />par le dieze ou par le b mol, dans leur ſituation naturelle, &amp; de deſcendre d'un demi-
+            <hi rendition="#aq"><foreign xml:lang="fra">
+              <quote xml:id="brossard-quote" corresp="#corresp-translation">
+                <hi rendition="#i">Quadrato:</hi> c'eſt l'epithete qu'on donne au b, quand il eſt ſigne diatonique, ou na-
+                <lb />turel, &amp; figurè ainſi <hi rendition="#i">h</hi>, &amp; pour lors ſon effet eſt de remettre les corde alterées
+                <lb />par le dieze ou par le <hi rendition="#i">b</hi> mol, dans leur ſituation naturelle, &amp; de deſcendre d'un demi-
                 <lb />ton celle que le dieze aura hauſſé.
-              </foreign>
             </quote>
-            <persName corresp="#ed_ewy_kxy_qlb">Broſſard</persName> dans ſon <bibl corresp="#ed_wh3_j5b_5lb">Diction. de Mus.</bibl>.
-            Voy. auſſi <persName corresp="#ed_xbw_55b_5lb">Rouſſeau</persName>, dans ſa <bibl corresp="#ed_dyl_r5b_5lb">Methode pour chanter</bibl>, p. 77.
+            <hi rendition="#i"><persName corresp="#ed_ewy_kxy_qlb">Broſſard</persName> dans ſon <bibl corresp="#ed_wh3_j5b_5lb">Diction. de Mus.</bibl>.</hi> Voy. auſſi 
+            <lb /><hi rendition="#i"><persName corresp="#ed_xbw_55b_5lb">Rouſſeau</persName>, dans ſa <bibl corresp="#ed_dyl_r5b_5lb">Methode pour chanter</bibl>, p. 77.</hi></foreign></hi>
           </note>
           Verfaſſer alſo:
           <quote type="translation" xml:id="brossard-translation" corresp="#brossard-quote">
