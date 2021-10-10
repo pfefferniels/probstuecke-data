@@ -11,6 +11,12 @@
             <forename>Niels</forename>
           </persName>
         </editor>
+        <editor>
+          <persName xml:id="rettinghaus">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -776,8 +782,9 @@
           <lb />nicht, ja, es können Sätze vorkommen, da es der musicalische Gang nicht so gar
           <lb />deutlich weiset, und bey welchen der beste verführet werden kann. <abbr>Z. E.</abbr>
 
-          <figure type="notatedMusic">
-          </figure>
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
           <note n="*" place="foot">
             Diese Sätze sind aus eines vielgeachteten Mannes Wercke genommen, und seine Schreib-Art
             <lb />ist noch biß diese Stunde so.
@@ -810,8 +817,9 @@
           <lb />che Stelle treten soll; deßwegen ich auch bemercke, daß ein gewisser Componist das
           <lb />b lieber gar dabey weggelassen hat, wenn er folgenden Satz anbringet:
 
-          <figure type="notatedMusic">
-          </figure>
+          <notatedMusic xml:id="music-example2">
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
         </p>
       </div>
 
@@ -917,7 +925,9 @@
           <lb />werden, weil doch kurtzum alles Griechisch seyn soll. Jch will, zur Nachricht, ein
           <lb/>Exempel zweyer ♭ vor einer Note geben:
 
-          <figure type="notatedMusic"></figure>
+          <notatedMusic xml:id="music-example3">
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
         </p>
       </div>
       <div n="23">
