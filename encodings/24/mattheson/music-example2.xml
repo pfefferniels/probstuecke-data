@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/4.0.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.1">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>Prob-Stück 24, Example 2</title>
+                <composer>
+                    <persName role="composer" auth.uri="http://d-nb.info/gnd/118578995" auth="GND">Johann Mattheson</persName>
+                </composer>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
+                    <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <respStmt>
+                    <persName role="publisher">Niels Pfeffer</persName>
+                </respStmt>
+                <date>2021</date>
+                <availability>
+                    <useRestrict label="licence" auth="https://creativecommons.org/licenses/by/" codedval="4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </useRestrict>
+                </availability>
+            </pubStmt>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <scoreDef mnum.visible="false">
+                        <staffGrp>
+                            <staffDef xml:id="ex-lh" n="2" lines="5" meter.unit="4">
+                                <clef shape="F" line="4" />
+                                <keySig sig="3s" />
+                            </staffDef>
+                        </staffGrp>
+                    </scoreDef>
+                    <section>
+                        <measure xml:id="ex-mebwnn4" metcon="false">
+                            <staff n="2">
+                                <layer n="1">
+                                    <beam>
+                                        <note xml:id="ex-nq6mnq4" dur="8" oct="2" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-n7vfwik" dur="8" oct="3" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-nwywr4p" dur="8" oct="3" pname="e">
+                                            <accid accid="s" />
+                                        </note>
+                                        <note xml:id="ex-nig4gzp" dur="8" oct="3" pname="c" accid.ges="s" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                        <measure xml:id="ex-m5elknk" right="invis" metcon="false">
+                            <staff n="2">
+                                <layer n="1">
+                                    <beam>
+                                        <note xml:id="ex-nymrtb4" dur="8" oct="3" pname="f" accid.ges="s" />
+                                        <note xml:id="ex-n4logf1" dur="8" oct="3" pname="e" accid.ges="s" />
+                                    </beam>
+                                    <beam>
+                                        <note xml:id="ex-nougj0m" dur="8" oct="3" pname="d" />
+                                        <note xml:id="ex-nwzrziv" dur="8" oct="3" pname="c" accid.ges="s" />
+                                    </beam>
+                                </layer>
+                            </staff>
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
