@@ -52,14 +52,7 @@
                                     </beam>
                                     <note xml:id="ex-nf09uxb" dur="4" oct="3" pname="b" />
                                     <note xml:id="ex-n23u287" dur="8" oct="3" pname="a">
-                                        <choice>
-                                            <reg resp="#rettinghaus">
-                                                <accid accid="n" />
-                                            </reg>
-                                            <orig>
-                                                <accid accid="f" accid.ges="n" />
-                                            </orig>
-                                        </choice>
+                                        <accid accid="f" accid.ges="n" />
                                     </note>
                                 </layer>
                             </staff>
@@ -83,14 +76,7 @@
                                         <accid accid="s" accid.ges="s" />
                                     </note>
                                     <note xml:id="ex-ngc9bwg" dur="8" oct="2" pname="a">
-                                        <choice>
-                                            <reg resp="#rettinghaus">
-                                                <accid accid="n" />
-                                            </reg>
-                                            <orig>
-                                                <accid accid="f" accid.ges="n" />
-                                            </orig>
-                                        </choice>
+                                        <accid accid="f" accid.ges="n" />
                                     </note>
                                 </layer>
                             </staff>
@@ -134,14 +120,7 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-n9z96h3" dur="2" oct="2" pname="a">
-                                        <choice>
-                                            <reg resp="#rettinghaus">
-                                                <accid accid="n" />
-                                            </reg>
-                                            <orig>
-                                                <accid accid="f" accid.ges="n" />
-                                            </orig>
-                                        </choice>
+                                        <accid accid="f" accid.ges="n" />
                                     </note>
                                     <custos xml:id="ex-cu38dop" oct="2" pname="g">
                                         <accid accid="s" />
