@@ -1072,7 +1072,7 @@
                   </beam>
                 </layer>
               </staff>
-              <fermata xml:id="m-632" form="norm" layer="1" shape="curved" staff="2" startid="#m-631" tstamp="1.0" />
+              <fermata xml:id="m-632" staff="2" startid="#m-631" place="above" />
               <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>

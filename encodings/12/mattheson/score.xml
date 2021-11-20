@@ -702,8 +702,8 @@
                   </beam>
                 </layer>
               </staff>
-              <fermata staff="2" startid="#note-0000000919810797" place="above" shape="curved" />
-              <fermata staff="2" startid="#note-0000000919810797" place="below" shape="curved" />
+              <fermata staff="2" startid="#note-0000000919810797" place="above" />
+              <fermata staff="2" startid="#note-0000000919810797" place="below" />
               <harm place="above" staff="2" tstamp="3">
                 <fb>
                   <f>6</f>
@@ -1849,7 +1849,7 @@
                   <f>♮</f>
                 </fb>
               </harm>
-              <fermata staff="2" startid="#note-0000000626519199" place="below" shape="curved" />
+              <fermata staff="2" startid="#note-0000000626519199" place="below" />
             </measure>
             <measure xml:id="measure-0000001984106098" n="32">
               <pb n="368" source="#secondEdition" facs="#facs-p452" />

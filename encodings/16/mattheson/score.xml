@@ -821,7 +821,7 @@
                   </note>
                 </layer>
               </staff>
-              <fermata place="above" staff="2" startid="#note-0000001767192693" />
+              <fermata staff="2" startid="#note-0000001767192693" place="above" />
               <harm place="above" staff="2" tstamp="2.5">
                 <fb>
                   <f>♮</f>

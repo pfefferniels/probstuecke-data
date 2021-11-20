@@ -331,7 +331,7 @@
               <dir xml:id="si-suona-2" place="below" startid="#m-119">
                 <rend halign="center" fontstyle="normal" fontsize="small">Si ſuona.</rend>
               </dir>
-              <fermata startid="#m-119" place="below" />
+              <fermata staff="2" startid="#m-119" place="below" />
               <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>

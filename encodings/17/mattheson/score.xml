@@ -1266,7 +1266,7 @@
                   <f>3</f>
                 </fb>
               </harm>
-              <fermata place="above" staff="2" startid="#note-0000001895962097" />
+              <fermata staff="2" startid="#note-0000001895962097" place="above" />
             </measure>
           </section>
           <section>
