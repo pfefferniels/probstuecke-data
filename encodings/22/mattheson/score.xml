@@ -1337,8 +1337,8 @@
                   <note xml:id="note-0000000912158176" dur="4" oct="3" pname="g" accid.ges="s" />
                 </layer>
               </staff>
-              <fermata staff="2" startid="#note-0000001421883386" place="above" shape="curved" />
-              <fermata staff="2" startid="#note-0000001421883386" place="below" shape="curved" />
+              <fermata staff="2" startid="#note-0000001421883386" place="above" />
+              <fermata staff="2" startid="#note-0000001421883386" place="below" />
               <dir xml:id="si-suona-3" place="below" startid="#note-0000000863912457" tstamp="3">
                 <rend halign="center" fontstyle="normal" fontsize="small">ſi ſuona</rend>
               </dir>

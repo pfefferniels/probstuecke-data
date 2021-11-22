@@ -2006,7 +2006,7 @@
                                     <rest xml:id="rest-0998966638" dur="8" />
                                 </layer>
                             </staff>
-                            <fermata xml:id="fermata-0125641022" staff="2" startid="#note-0973249202" shape="curved" />
+                            <fermata staff="2" startid="#note-0973249202" place="below" />
                         </measure>
                         <measure xml:id="measure-1172013243" n="81">
                             <staff xml:id="staff-1208106578" n="1">

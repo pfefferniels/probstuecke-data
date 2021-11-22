@@ -653,7 +653,7 @@
                   <f>♯</f>
                 </fb>
               </harm>
-              <fermata staff="2" startid="#note-0000001377258982" shape="curved" place="below" />
+              <fermata staff="2" startid="#note-0000001377258982" place="below" />
               <tie staff="2" startid="#note-0000001377258982" endid="#note-0000000646000382" />
             </measure>
           </section>

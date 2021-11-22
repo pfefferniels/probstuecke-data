@@ -1056,7 +1056,7 @@
                   <f>3</f>
                 </fb>
               </harm>
-              <fermata tstamp="4.0" place="below" />
+              <fermata staff="2" tstamp="4.0" place="below" />
             </measure>
           </section>
           <section>

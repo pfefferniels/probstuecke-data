@@ -1363,7 +1363,7 @@
                 </layer>
               </staff>
               <supplied resp="#pfeffer">
-                <fermata place="above" staff="2" startid="#note-0000001836200761" />
+                <fermata staff="2" startid="#note-0000001836200761" place="above" />
               </supplied>
             </measure>
           </section>
