@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe siebenzehntes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Annotations.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          Since other keys seem to be made for lamenting, for laughing,
+          for rejoicing, for devotion, and so on, it almost seems as if
+          this one is especially suitable for playing and joking. 
+          A violinist will be very pleased to see it, and will find much
+          that agrees with his instrument; and he who is capable of the
+          flute must hold this key in high esteem, because it is one of
+          the most convenient to give it its right strength. But whether an
+          oboe or bassoon will also be satisfied with it is doubtful. 
+          However, since it must not matter to our thorogh-bass player
+          from which key he plays, because one tangent does not require a
+          stronger finger than the other, let us rather go through this
+          example a little than dwell longer on the character of the key.
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p xml:id="p2-1" facs="#facsZone-p2-1">
+          Now, one would like to see the
+          <ref target="#measure-0000001591287003 #measure-0000000183024625">
+            first two measures
+          </ref> played
+          quite simply, so that the main theme would come out distinctly
+          in accordance with the saying founded in nature and reason, that
+          <hi rendition="#b">all beginnings must be simple, plain and clear.</hi>
+          With simple playing it is mainly demanded that to each of the six notes
+          in the said bars, only one note is played before or on the note with the right hand,
+          whereby it must be remembered that playing before refers to the rest.
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          The three following measures are played with the figures in the most exact manner,
+          and on each eighth note, the appropriate one is struck; however, in the last
+          measure of these three, one must be careful not to take the usual 2 together with the 4+
+          since it would not be possible without a mistake, but instead play again the octave
+          which is already in the hand, then such a movement will sound completely strange because of the 4+.
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          As for the 6th, 7th and half of the 8th measure,
+          one can take a little more liberty and not only
+          play them with a doubled octave in the left hand,
+          but also play in the right hand three times on six notes
+          whatever is in the hands or what is figured.
+          The rest of the eighth bar and the ninth measure have their own paths.
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          The fifteenth measure already gives because of the simple notes
+          consideration and opportunity to take up the
+          main subject in the right hand at will (not that it must be even),
+          with the very notes with which the beginning was made;
+          however, in such a way that the left hand, as was said once and for all,
+          does not forget to play in full voice at the same time: so that
+          even when playing alone the quality of the thorough-bass is not
+          suspended, but only embellished, as has already been amply
+          reminded above in various places.
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          In the 11th bar, the right hand may continue
+          with thirds as it began, and the bass can also
+          be played double, but it must not be forgotten
+          that the right hand must be played full-voiced on
+          every first note of the related ones.
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          When one comes to the 12th, 13th and 14th measure,
+          one recovers a little and does as one pleases –
+          or nothing but what is written. In the 15th and 16th measure
+          however, one will already see that the right hand may again
+          have to do something, but it will be at the
+          beginning, which must be done starting with the d, and
+          then everything will follow according to the subject
+          in thirds with the bass, whose beats must all be in full voice.
+          Otherwise, nothing more is to be remembered until the end of
+          the first part, except that the three-tailed notes in the right hand are also in thirds. 
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          That the other part now seems to begin a new subject is done
+          out of love for variety, and each note may be given its proper chord,
+          also taking the bass as strongly as possible, which makes a good
+          effect especially on the C-sharp and the chromatic notes. 
+          
+          The six ascending notes in the second bar, as well as the six
+          descending notes in the fourth and fifth measure are to be excluded
+          from the restriking, and are to be made to sound distinctly in octaves.
+          Then the bass takes up the first main subject again and continues with
+          it according to the instructions above.
+        </p>
+      </div>
+
+      <div n="9">
+        <head>§. 9.</head>
+        <p>
+          In the ninth bar of the other part, it is again played rigidly across the entire
+          keyboard to every note; in the last half, however, the right hand can apply
+          a soothing manner that is similar to the main subject, which will show a
+          student and ponderer the nature of the movement itself: and thus it is
+          correct until the end of the thirteenth measure, where the first subject again appears,
+          almost as it was in the sixth and following bars of the first part,
+          for which reason one may only consult the above and follow the annotation made exactly.
+        </p>
+      </div>
+
+      <div n="10">
+        <head>§. 10.</head>
+        <p>
+          In the last half of the 16th measure, a small invention
+          is to be added with the right hand on the same beat as in
+          the tenth bar of the first part; however, the rest of what
+          is required must also be taken into consideration up to the
+          18th bar, and can then, only as everything stands, be continued:
+          whereby, however, the 9. 7. 2. that appears last should never be
+          allowed to be mistaken, because it is the chord that just preceded,
+          and by which the 6⃥ again becomes pious and good.
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>
