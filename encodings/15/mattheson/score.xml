@@ -1113,7 +1113,7 @@
                   <rest xml:id="rest-0000001200141460" dur="4" />
                 </layer>
               </staff>
-              <fermata xml:id="fermata-0000001587485670" staff="2" startid="#note-0000001210514283" shape="curved" />
+              <fermata staff="2" startid="#note-0000001210514283" place="below" />
             </measure>
           </section>
           <section>
