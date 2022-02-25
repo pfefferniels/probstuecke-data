@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe achtzehntes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Annotations</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          <!-- better and more accurate translation needed -->
+          In the first measure, the right hand plays on the first two notes, but not on the other.
+          In the second as well as in the third measure, the right hand plays on no note except the first,
+          but in the fourth measure again on the first two notes. 
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          In the fifth measure, only the first and eighth note are played with the appropriate and specified chord.
+          The same applies for the sixth measure. In the seventh measure, it must be noted that the 6 above
+          the last note must already be struck and anticipated with the preceding b.
+          In the eighth bar, the right hand does with the F# and B that which the bass played
+          at the beginning with B and E.
+          In the ninth measure, this continues with B and G# to E and with B and F# to D#.
+          In the tenth it is the same as in the fifth. In the eleventh, however, the right
+          hand takes the subject and begins with e C#, then e B, then e A, then e G#, and finally e F#,
+          just as the first four bars of the Prob-Stück read note for note.
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          With the following measures 16, 17 and 18 one proceeds as with the fifth measure.
+          Where the transposition of the theme begins with the tenor clef,
+          one proceeds just as with the beginning. In the 28th measure,
+          it is to be noted that the right hand goes along in thirds with each note
+          in addition to the sixth, which remains lying. Further, the 37th
+          and 38th measures are to be taken into consideration, where one plays
+          exactly what the bass has had in the two preceding measures, however, as if a lower treble clef
+          were now in front of it. The next four measures up to the end
+          of the first part are played quite strongly with chords on every note
+          and full-voiced.
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          It can be observed that in the second measure of the second part,
+          the first note passes through, which rarely happens and depends on the judgment,
+          since one must observe on which note the emphasis or accent falls, which
+          here does not happen on the first, but on the second note, because the latter is
+          the last which rises and it is at the same time the beginning of a new progression.
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          Up to the 27th measure of this part, there is nothing further to explain or elucidate.
+          Here, the first subject must be placed and developed again, first with
+          f# c#, then with f# and d# to B, then with f# c# again to Bb, and finally with f# b, as the
+          seventh to G#, which is resolved with f and b. The first subject must be placed and performed here again.
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          In the 31st bar, the material from first part, m. 37ff, occurs again,
+          although with other notes, so that here one has nothing more to do than
+          to play with the right hand the same notes that the bass played before,
+          but in the previous manner, as if a low treble clef were in front of it.
+          The following four or five measures can easily be played in thirds,
+          and finally, the conclusion is made again with a transposition of
+          the subject in the right hand as follows:
+          
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+
+           However, the left hand must play everything as full-voiced as possible, 
+           which is set now and forever.
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          I have diligently wanted to place the whole passage here,
+          so that, if in the previous descriptions some things might sometimes
+          seem obscure to one or the other, it will all be illustrated and
+          made clearer from this example; since it remains the case that whoever
+          is knowledgeable about a matter is naturally not so adept at presenting
+          it as is often necessary for an uninformed person; therefore, no one can
+          be too comprehensible in teaching, so that even a little prolixity and
+          repetition is not immediately to be blamed, as long as its intention is 
+          directed to clarity.
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          The famous Mr. Telemann once published six concertos, and had them
+          engraved very neatly in copper, which the then Serene Prince Ernst of Saxony-Weimar
+          composed with his own hand and from his own invention: in these
+          the Concerto V. is in the above key, and it is one of the most beautiful.
+          Besides, to find free lords who compose music and who can be mentioned
+          is something that does not occur every day, but it gives
+          a peculiar advantage to the precious music.
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>

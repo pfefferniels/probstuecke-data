@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe einundzwanzigstes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Annotations.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          Since the key itself is a bit hard, I did not want to load this test piece with other special
+          difficulties. Instead, I wanted to make it as naturally as I could think of,
+          so that nobody could say that one tried to make the so-called difficult keys even more
+          confusing and difficult with all kinds of artificialities.
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          It should be noted that the
+          <ref target="#measure-0000000997653530">beginning</ref>
+          becomes particularly ornamental when
+          it is played note for note in thirds without forgetting the figures, while the
+          bass can accompany it in octaves.
+          Further, since the harmony is already fully present in the arpeggio,
+          in the
+          <ref target="#measure-0000000735490332 #measure-0000001402480291 #measure-0000001795560838 #measure-0000000927409295">
+            3rd to the 6th measure
+          </ref>
+          I would like to see only the mere third leaping down
+          an octave in the treble, followed by a short rest,
+          just like the
+          <ref target="#staff-0000001055234909">
+            figure that occurs later in the bass.
+          </ref>
+          I think that this makes the listener more attentive than if you keep hammering
+          with full chords all the time.
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          The
+          <ref target="#measure-0000000074112192 #measure-0000001321575188">
+            seventh and eighth measure
+          </ref> again contain the beginning, and are thus also
+          played in thirds. In the
+          <ref target="#measure-0000001447102304 #measure-0000000437350706">
+            ninth and following measure
+          </ref>, the above-mentioned
+          manner is repeated and thirds are played that jump in octaves,
+          just like that:
+          <notatedMusic>
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+          In the
+          <ref target="#measure-0000000725006538">
+            13th measure
+          </ref>
+          it is turned around and the right hand must syncopate.
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          <ref target="#measure-0000001256239430">
+            When the other part begins,
+          </ref>
+          one will note that the figuration can also be
+          delicately applied in the right hand since the bass continues as the
+          first part ended. It is only important to make sure that the intervals
+          are taken as far apart as possible, because, as it has often been mentioned
+          before, thirds sound too narrow with such a syncopation.
+          But necessity knows no law. I am only saying that when it is possible to be changed.
+          Like for example one can make the syncopation like this for the b in the other part.
+          Nobody will refuse such a thing:
+
+          <notatedMusic>
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
+
+          But nobody will deny that it would not be better in the following way:
+
+          <notatedMusic>
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          <ref target="#measure-0000000857212948">
+            In the fifth measure of the other part
+          </ref>
+          the bass has again the above-mentioned
+          syncopation, which is why the right hand may let its thirds jump into the octaves again.
+          In the
+          <ref target="#measure-0000000616519514">
+            seventh measure
+          </ref>
+          a variation appears.
+          In the ninth measure the opening subject occurs, whereby the favored thirds can be played on every note.
+          The eleventh measure requires the thirds mentioned so often, or whatever else has been indicated by the figures.
+
+          Although redundant, let me put down my opinion:
+          <notatedMusic>
+            <ptr target="music-example4.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          This key, B major, is called "B Fa Si Becare majeure" in the rotwelsch
+          <note type="editorial" resp="#pfeffer">
+            here to be understood as "incomprehensible".
+          </note>
+          dialect of
+          <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> and again, I do not
+          know why in the world, <hi rendition="#i">rare</hi> is attributed to it.
+          If we want to make only rarities out of our keys, I am not surprised that the
+          poverty of the thorough-bass players is so great.
+          If it were written in the primer that Q, X, Y, etc. are rare letters because
+          they do not occur as often as A, E, I, O, U, it could still not pardon the student
+          from knowing them; and much less a printer, if those letters were not to be
+          found in his workshop.
+          The application is easy to make.
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>
