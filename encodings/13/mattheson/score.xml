@@ -1969,6 +1969,16 @@
                   </beam>
                 </layer>
               </staff>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition" />
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000001587207292" n="60">
               <staff xml:id="staff-0000000073229299" n="1">
@@ -2051,6 +2061,16 @@
                   </beam>
                 </layer>
               </staff>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition" />
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000001782921444" n="62">
               <staff xml:id="staff-0000001061048055" n="1">
