@@ -33,33 +33,43 @@
   <text>
     <body>
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
+      <head>Annotations</head>
       <div n="1">
         <head>§. 1.</head>
         <p>
           Whoever can jump firmly here will do well, but
           another will often stumble, trip or hit the wrong keys.
-          At the end of the fourth measure, one would like
-          to arpeggiate a little, and then to play in the fifth, sixth and
-          seventh measure in this way:
+          At the end of the
+          <ref target="#measure-0000000174603578">fourth measure</ref>, one would like
+          to arpeggiate a little, and then to play in the
+          <ref target="#measure-0000001411700064 #measure-0000000264878814 #measure-0000000328043882">fifth, sixth and
+          seventh measure</ref> in this way:
           <notatedMusic>
             <ptr target="music-example1.xml"/>
           </notatedMusic>
-          This will also be convenient in the fifteenth, sixteenth and seventeenth measure. 
+          This will also be convenient in the
+          <ref target="#measure-0000000567414890 #measure-0000000493851592 #measure-0000001346110271">fifteenth,
+          sixteenth and seventeenth measure.</ref>
         </p>
       </div>
 
       <div n="2">
         <head>§. 2.</head>
         <p>
-          To the two eighth notes at the end of the eighth measure, the
-          right hand plays these following notes, and alternates with it
-          in the ninth, tenth and eleventh measure according to the bass.
+          <ref target="#note-0000001444913642 #note-0000001182642635">On the two eighth notes</ref>
+          at the end of the eighth measure, the
+          right hand plays these following notes, and imitates it
+          in the
+          <ref target="#measure-0000000566982188 #measure-0000000362882873 #measure-0000000785009598">ninth, tenth and eleventh measure</ref>
+          according to the bass.
           <notatedMusic>
             <ptr target="music-example2.xml"/>
           </notatedMusic>
-          In the eighteenth and nineteenth measure the same manner occurs again. 
-          But one who does not want to be lag behind in the twentieth and
+          In the
+          <ref target="#measure-0000001425906512 #measure-0000000763300727">18th and 19th measure</ref>
+          the same manner occurs again. 
+          But one who does not want to be lag behind in the
+          <ref target="#measure-0000001527420734">20th</ref> and
           following measures, may not hesitate long, but has to let the fingers gallop.
         </p>
       </div>
@@ -67,10 +77,11 @@
       <div n="3">
         <head>§. 3.</head>
         <p>
-          Since the second part begins with a specific arpeggio,
+          Since the
+          <ref target="#measure-0000000091997873">second part begins with a specific arpeggio</ref>,
           it implies that the right hand should consequently seek
           the opportunity to imitate it. This can be done
-          immediately in the second measure, as follows –
+          right away in the <ref target="#measure-0000001923958404">second measure</ref> as follows –
           <notatedMusic>
             <ptr target="music-example3.xml"/>
           </notatedMusic>
@@ -82,11 +93,13 @@
       <div n="4">
         <head>§. 4.</head>
         <p>
-          In the fifth and sixth measures of the second part, the imitation
-          described above is again taken into account, and if one wants
-          to let thirds go along in the seventh measure in the treble
-          it fills out better than plain chords. Thus, in the ninth,
-          tenth and eleventh measure, the above arpeggio must be repeated,
+          In the
+          <ref target="#measure-0000001018439983 #measure-0000001374019244">fifth and sixth measure of the second part</ref>,
+          the imitation described above is again taken into account, and if one wants
+          to let thirds go along in the <ref target="#measure-0000001269146673">seventh measure</ref> in the treble
+          it fills out better than plain chords. Thus, in the
+          <ref target="#measure-0000001902655465 #measure-0000000766995769 #measure-0000001822556232">ninth,
+          tenth and eleventh measure</ref> the above arpeggio must be repeated,
           and only this must be played on the last
           four notes of the eleventh measure: 
           <notatedMusic>
@@ -98,9 +111,10 @@
       <div n="5">
         <head>§. 5.</head>
         <p>
-           Nor can it sound bad if, at the end of the fourth measure,
+           Nor can it sound bad if at the end of the
+           <ref target="#measure-0000000216610351">fourth measure</ref>
            the right hand arpeggiates its chords in the same way
-           as the bass arpeggiates its own. However, this shall only
+          the bass arpeggiates its own. However, this shall only
            be done on these three quarters:
           <notatedMusic>
             <ptr target="music-example5.xml"/>
@@ -129,10 +143,10 @@
       <div n="7">
         <head>§. 7.</head>
         <p>
-          In the same way, the 18th measure can easily
-          allow that the right hand proceeds in harmony
+          In the same way, the <ref target="#measure-0000002005099252">18th measure</ref>
+          can easily let the right hand proceed in harmony
           with the left hand in the just prepared manner.
-          At the beginning of the low bass clef, however,
+          <ref target="#clef-0000000962308835">At the beginning of the low bass clef</ref>, however,
           one plays only on every fourth note, and where
           the bass moves in quarters, this variation is played in the discant: 
           <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">

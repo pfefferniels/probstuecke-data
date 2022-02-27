@@ -33,7 +33,7 @@
   <text>
     <body>
       <div n="0" type="chapter">
-      <head>Annotation.</head>
+      <head>Annotations.</head>
       <div n="1">
         <head>§. 1.</head>
         <p>
@@ -63,10 +63,13 @@
       <div n="3">
         <head>§. 3.</head>
         <p>
-          In the second and third measure sixths do the job
-          while the f# is kept as the third to d,
+          In the
+          <ref target="#measure-0000000533608303 #measure-0000001856501508">second and third measure</ref>
+          sixths do the job while the f# is kept as the third to d,
           which then becomes a fourth to c# and therefore nothing unpleasant, but something decent.
-          In the ninth and tenth measures, on the other hand, the third takes more trouble and
+          In the
+          <ref target="#measure-0000001184386067 #measure-0000001578689986">ninth and tenth measure</ref>,
+          on the other hand, the third takes on and
           leaves the sixth alone, which would sound bad to the f# if they were slower notes;
           but since they pass quickly, and finally everything stops at the third, nothing bad
           can happen to the ears. In the other case, however, the sixth makes a
@@ -80,39 +83,45 @@
           Whenever a measure begins with a rest, namely with an eighth,
           nothing is given to the following note and nothing in advance either.
           However, I want to exclude the beginning from this, and I am
-          only talking about the occurrences in the 7th, 8th, 12th, 19th,
-          20th, 21st, 28th, 29th, 30th, 31st, 32nd, 41st, 44th, 45th, 46th
-          and 52nd measures. Now, in all of these places, the measure
-          does not begin exactly with the rest, but the reason for
-          this is that nothing may be added to the note that
+          only talking about the occurrences in the
+          <ref target="#rest-0000001531580152 #rest-0000001496543014 #rest-0000001713253157 #rest-0000001164364404 #rest-0000000844719707 #rest-0000001933121666 #rest-0000001173989907 #rest-0000001822354377 #rest-0000001679602312 #rest-0000001197851580 #rest-0000000964463351 #rest-0000000542946318 #rest-0000001539491416 #rest-0000002011106610 #rest-0000000875827094 #rest-0000001099723409">
+          7th, 8th, 12th, 19th, 20th, 21st, 28th, 29th, 30th, 31st, 32nd, 41st, 44th, 45th, 46th
+          and 52nd measure</ref>. Now, in all of these places, the measure
+          does not begin exactly with the rest, but the point is that
+          nothing may be played on the note that
           follows the rest: because it goes through, it has
-          little special meaning, and only serves after the ? [Abreissung],
-          so to speak, in place of a peg, by which one is attached to the other. 
+          little special meaning, and after the breaking off
+          <note type="editorial" resp="#pfeffer">i.e. interruption by the rest</note>
+          only serves as a hook, so to speak, by which one thing is attached to another.
         </p>
       </div>
 
       <div n="5">
         <head>§. 5.</head>
         <p>
-          In the fifteenth measure, the sixths dominate and the thirds remain lying.
-          In the 23rd bar, an ornament comes to mind that can be used quite often
-          in the left hand, all the more so because otherwise a great lack
+          In the <ref target="#measure-0000001060551138">fifteenth measure</ref>,
+          the sixths prevail and the thirds remain lying.
+          In the <ref target="#measure-0000001367850118">23rd measure</ref>, an ornament comes
+          to mind that can be used quite often
+          in the left hand, all the more so because usually a great lack
           of ornamented playing (as there are: good sharp trills, appoggiaturas, accents, etc.)
-          is felt in thorough-bass playing. 
+          can be perceived in thorough-bass playing.
           What I am asking here concerns the leap into the third upward, where one can
-          make a strong slide [Schleifer] in most cases, and thereby give
+          make a strong slide (Schleifer) in most cases, and thereby give
           the high note an immense strength. However, such a slide must not
-          be drawn out, as in singing, but rather made short and somewhat
+          be drawn out as in singing, but rather made short and somewhat
           forceful, just as if one were to place the three fingers at the same
           time, and only lift one after the other. It can be better shown by playing
-          than by describing it. 
+          than by describing it.
         </p>
       </div>
 
       <div n="6">
         <head>§. 6.</head>
         <p>
-          In the 34th and 35th measure, someone might wonder where the harsh figures
+          In the
+          <ref target="#measure-0000000452779095 #measure-0000002077720718">34th and 35th measure</ref>,
+          one might wonder where the harsh figures
           are coming from; however, it is the sixth and the chord to the
           following notes that are only taken in advance. Everyone can easily
           recognize the transitus irregularis or the cambiata here. To be sure,
@@ -129,7 +138,8 @@
         <head>§. 7.</head>
         <p>
           If one can play a few notes in canon with the right hand in the
-          41st measure, and let the bass follow, it will not sound bad.
+          <ref target="#measure-0000001126576291">41st measure</ref>,
+          and let the bass follow, it will not sound bad.
           Otherwise, there is little more to remember that is not
           related to what has already been said. 
         </p>

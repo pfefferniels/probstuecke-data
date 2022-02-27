@@ -124,9 +124,8 @@
           ergreiffen. Zum Ende des
           <ref target="#measure-0000000174603578">vierten Tacts</ref> haͤtte
           man es gerne ein wenig gebrochen, und denn im
-          <ref target="#measure-0000001411700064">fuͤnfften</ref>,
-          <ref target="#measure-0000000264878814">ſechſten</ref> und
-          <ref target="#measure-0000000328043882">ſiebenden</ref> auf
+          <ref target="#measure-0000001411700064 #measure-0000000264878814 #measure-0000000328043882">fuͤnfften,
+          ſechſten und ſiebenden</ref> auf
           dieſe Art:
         </p>
         <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
@@ -134,9 +133,8 @@
         </notatedMusic>
         <p xml:id="p1-2" facs="#facsZone-p1-2">
           Solches wird ſich auch im
-          <ref target="#measure-0000000567414890">funffzehnten</ref>,
-          <ref target="#measure-0000000493851592">ſechzehnten</ref> und
-          <ref target="#measure-0000001346110271">ſiebenzehnten Tact</ref> gar
+          <ref target="#measure-0000000567414890 #measure-0000000493851592 #measure-0000001346110271">funffzehnten,
+          ſechzehnten und ſiebenzehnten Tact</ref> gar
           wol ſchicken.
         </p>
       </div>
@@ -144,14 +142,15 @@
       <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
-          <lb/>Am Ende des <ref target="#measure-0000001926508584">achten Tacts</ref>, zu den zwey Achteln, ſpielet die
+          <lb/>Am Ende des achten Tacts,
+          <ref target="#note-0000001444913642 #note-0000001182642635">zu den zwey Achteln</ref>, ſpielet die
           <lb/>rechte Hand dieſe nebenſtehende Noten, und wechſelt damit ab im
-          <lb/><ref target="#measure-0000000566982188">neunten</ref>, <ref target="#measure-0000000362882873">zehnten</ref> und <ref target="#measure-0000000785009598">elfften Tact</ref> nach Maßgebung des Baſſes;
+          <lb/><ref target="#measure-0000000566982188 #measure-0000000362882873 #measure-0000000785009598">neunten, zehnten und elfften Tact</ref> nach Maßgebung des Baſſes;
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
           <pb n="418" facs="#facs-p502"/>
-          <lb/>wie denn auch im <ref target="#measure-0000001425906512">achtzehnten</ref> und <ref target="#measure-0000000763300727">neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
+          <lb/>wie denn auch im <ref target="#measure-0000001425906512 #measure-0000000763300727">achtzehnten und neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
           <lb/>aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden Menſuren nicht zu ſpaͤt erſcheinen will, der muſs
           <lb/>nicht lange ſaͤumen, ſondern die Finger galoppiren laſſen.
         </p>
@@ -177,10 +176,11 @@
       <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          <lb/>Jm <ref target="#measure-0000001018439983">fuͤnfften</ref> und <ref target="#measure-0000001374019244">ſechſten Tact</ref> des andern Theils nimmt man die obbeſchrie-
+          <lb/>Jm <ref target="#measure-0000001018439983 #measure-0000001374019244">fuͤnfften und ſechſten Tact des andern Theils</ref> nimmt man die obbeſchrie-
           <lb/>bene Abwechſelung wieder in acht, und will man im <ref target="#measure-0000001269146673">ſiebenden Tact</ref> die Tertzen im
           <lb/>Diſcant mitlaufen laſſen, fuͤllt ſolches beſſer aus, als die ſchlechten Griffe. So
-          <lb/>dann hat man im <ref target="#measure-0000001902655465">neunten</ref>, <ref target="#measure-0000000766995769">zehnten</ref> und <ref target="#measure-0000001822556232">elfften</ref> das obige <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> aber-
+          <lb/>dann hat man im
+          <ref target="#measure-0000001902655465 #measure-0000000766995769 #measure-0000001822556232">neunten, zehnten und elfften</ref> das obige <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> aber-
           <lb/>mahl anzubringen, zu den vier letzten Noten aber des elfften Tacts nur dieſes
           <lb/>wenige zu ſchlagen:
         </p>
