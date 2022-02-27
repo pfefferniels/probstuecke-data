@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe neunzehntes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Annotation.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          Beating the time might be somewhat necessary here, especially for someone
+          who is not sitting firmly in the saddle. But I doubt whether such
+          a person would want to beat the time himself or rather have the beat given
+          to him. In my opinion, the latter would be the best, so that the
+          rest could be done with more attention. In the meantime, a master
+          needs neither the one nor the other when he plays alone and yet
+          he may not stumble if he is not to be booed at.
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          In those places of this piece where the 6 is so frequent, as if it were
+          the place where they all had a rendesvouz, one can, especially with two-tailed
+          notes, either use the sixth alone or the third: but in such a way that when
+          the sixth plays the fast notes, the third is not lacking, but lying;
+          and vice versa, where the thirds are going along, the sixth must also
+          be present in the hand. But at which places the sixths follow each other
+          and at which the third can do so, I will elaborate.
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          In the second and third measure sixths do the job
+          while the f# is kept as the third to d,
+          which then becomes a fourth to c# and therefore nothing unpleasant, but something decent.
+          In the ninth and tenth measures, on the other hand, the third takes more trouble and
+          leaves the sixth alone, which would sound bad to the f# if they were slower notes;
+          but since they pass quickly, and finally everything stops at the third, nothing bad
+          can happen to the ears. In the other case, however, the sixth makes a
+          pleasant-sounding fifth with the notes in between.
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          Whenever a measure begins with a rest, namely with an eighth,
+          nothing is given to the following note and nothing in advance either.
+          However, I want to exclude the beginning from this, and I am
+          only talking about the occurrences in the 7th, 8th, 12th, 19th,
+          20th, 21st, 28th, 29th, 30th, 31st, 32nd, 41st, 44th, 45th, 46th
+          and 52nd measures. Now, in all of these places, the measure
+          does not begin exactly with the rest, but the reason for
+          this is that nothing may be added to the note that
+          follows the rest: because it goes through, it has
+          little special meaning, and only serves after the ? [Abreissung],
+          so to speak, in place of a peg, by which one is attached to the other. 
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          In the fifteenth measure, the sixths dominate and the thirds remain lying.
+          In the 23rd bar, an ornament comes to mind that can be used quite often
+          in the left hand, all the more so because otherwise a great lack
+          of ornamented playing (as there are: good sharp trills, appoggiaturas, accents, etc.)
+          is felt in thorough-bass playing. 
+          What I am asking here concerns the leap into the third upward, where one can
+          make a strong slide [Schleifer] in most cases, and thereby give
+          the high note an immense strength. However, such a slide must not
+          be drawn out, as in singing, but rather made short and somewhat
+          forceful, just as if one were to place the three fingers at the same
+          time, and only lift one after the other. It can be better shown by playing
+          than by describing it. 
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          In the 34th and 35th measure, someone might wonder where the harsh figures
+          are coming from; however, it is the sixth and the chord to the
+          following notes that are only taken in advance. Everyone can easily
+          recognize the transitus irregularis or the cambiata here. To be sure,
+          they will seem somewhat strange to some in the downbeat of the measure;
+          but as long as it is said in the Hohe Schule der musicalischen Composition, p. 84:
+          To introduce the note cambiate on the first beat of the measure
+          is very seldom permitted, so long will I also make use of this very
+          seldom here, and believe that this exception, in the case of a highly
+          mobile mensur, can pass as regular, if one makes use of it very seldom.
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          If one can play a few notes in canon with the right hand in the
+          41st measure, and let the bass follow, it will not sound bad.
+          Otherwise, there is little more to remember that is not
+          related to what has already been said. 
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          Mr. St. Lambert calls this tone p. 29. F ut Fa Dieze Mineur, and writes:
+          Rare. F# minor is shorter, and in my case nothing rare.
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>
