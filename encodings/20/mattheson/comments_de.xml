@@ -163,7 +163,7 @@
           <lb/>Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> anfaͤnget,</ref> deutet
           <lb/>ſolches allhie ſo viel an, daß die rechte Hand daher Gelegenheit ſuchen ſolle, es
           <lb/>nachzuahmen. Solches kann auch ſofort <ref target="#measure-0000001923958404">im andern Tact</ref> geſchehen, etwa fol-
-          <lb/>gender Geſtalt:‚
+          <lb/>gender Geſtalt:
         </p>
         <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
           <ptr target="music-example3.xml"/>
@@ -239,15 +239,23 @@
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Daß dieſer Ton in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
-          <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">Le B Fa Si Beccarre
-          etant un Ton, ſur lequel on compoſe rarement, il n'y a point
-          <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.</foreign>
-          <bibl><hi rendition="#i"><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>, Traité de l'Accompagnement</hi>,
-          p.27.</bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <quote>H iſt ein Ton, aus wel-
-          <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
-          <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine
-          <lb/>ſeyn.</quote> Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben
-          <lb/>auch die Gruͤnde deſſen im Orcheſter zweiter Eroͤffnung ſchon gewiſen. Und daß die-
+          <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">
+          <quote xml:id="lambert-quote" corresp="#lambert-translation">
+            Le B Fa Si Beccarre etant un Ton, ſur lequel on compoſe rarement, il n'y a point
+            <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.
+          </quote></foreign>
+          <bibl corresp="#ed_hfr_2cl_tlb">
+            <hi rendition="#i"><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>,
+            Traité de l'Accompagnement</hi>, p.27.
+          </bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <hi rendition="#b">
+          <quote xml:id="lambert-translation" type="translation" corresp="#lambert-quote">
+            H iſt ein Ton, aus wel-
+            <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
+            <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine
+            <lb/>ſeyn.
+          </quote></hi>
+          Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben
+          <lb/>auch die Gruͤnde deſſen im <bibl corresp="#ed_y43_m2l_tlb">Orcheſter zweiter Eroͤffnung</bibl> ſchon gewiſen. Und daß die-
           <lb/>ſer Ton bey uns nichts rares ſey, zeigen unzehliche taͤglich vorfallende Exempel. Es
           <lb/>gibt Sachen mit Trompeten und Paucken aus dem <hi rendition="#b">H mol</hi>, welches manchem
           <lb/>wunderlich vorkommen duͤrffte; Sollte er aber den ſonſt beweglichen Choral: <hi rendition="#b">Ach
