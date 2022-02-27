@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe vierundzwantzigstes Probstück (english translation, excerpts)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+        <div n="1">
+          <head>§. 1-30.</head>
+          <p>
+            [omitted]
+          </p>
+        </div>
+
+        <div n="2">
+          <head>§. 31.</head>
+          <p>
+            What should be mentioned in our last Probstück is little,
+            and mostly concerns the fact that the eighth notes, of which three
+            belong to a quarter note, play alone, and to the first
+            of them one plays only what is appropriate or figured.
+            Circumstances do not yet permit the display of much artistry in such keys;
+            nevertheless, at the cadences, namely in the fifth, sixteenth, and fifth
+            and thirtieth measure, something arpeggiated might be gracefully added.
+            However, like all such embellishments and ornaments throughout,
+            I do not want to consider it as a necessity for an ordinary thorough-bass,
+            but rather as a pleasant and decent addition at a Probe, during practice,
+            and on longed-for opportunity, because I completely agree with
+            St. Lambert in this place, where he says: 
+            If the basses are not overloaded with many notes, but, according
+            to the player's sense, drag and hesitate too much, he may well
+            add other notes and play more figures; as long as he
+            is certain that his additions do not bring any disadvantage
+            to the melody, but especially to the singing voice.
+            For the thorough bass is ordained for nothing other
+            than to assist the singer, but not to hinder or distort
+            his efforts by untimely ringing. 
+            There are people who think so highly of themselves that they
+            believe a whole concert of virtuosos is hardly worthy of them,
+            and therefore make it quite sour for themselves to stand out
+            before all the others.
+            These organists clutter their basses with many crooked leaps,
+            embellish everything back and front, and add a hundred kinds
+            of things that are perhaps very beautiful in and of themselves,
+            but nevertheless come at an inappropriate time and are very
+            harmful to the concert, in that they serve nothing else than
+            to testify to the artistic thirst for glory and vanity of the player. 
+            Whoever therefore plays in a concert must do it in such a way
+            that he brings honor and pleasure to the whole group, but
+            not that he alone may win the prize. For if each one plays
+            only for himself and for his own sake, it is no longer a concert. 
+          </p>
+        </div>
+
+        <div n="3">
+          <head>§. 32-33.</head>
+          <p>
+            [omitted]
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
