@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe zwanzigstes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Erlaͤuterung.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          Whoever can jump firmly here will do well, but
+          another will often stumble, trip or hit the wrong keys.
+          At the end of the fourth measure, one would like
+          to arpeggiate a little, and then to play in the fifth, sixth and
+          seventh measure in this way:
+          <notatedMusic>
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+          This will also be convenient in the fifteenth, sixteenth and seventeenth measure. 
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          To the two eighth notes at the end of the eighth measure, the
+          right hand plays these following notes, and alternates with it
+          in the ninth, tenth and eleventh measure according to the bass.
+          <notatedMusic>
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
+          In the eighteenth and nineteenth measure the same manner occurs again. 
+          But one who does not want to be lag behind in the twentieth and
+          following measures, may not hesitate long, but has to let the fingers gallop.
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          Since the second part begins with a specific arpeggio,
+          it implies that the right hand should consequently seek
+          the opportunity to imitate it. This can be done
+          immediately in the second measure, as follows –
+          <notatedMusic>
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
+            – while not forgetting that the bass notes
+            may go along in octaves and thus add gravity.
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          In the fifth and sixth measures of the second part, the imitation
+          described above is again taken into account, and if one wants
+          to let thirds go along in the seventh measure in the treble
+          it fills out better than plain chords. Thus, in the ninth,
+          tenth and eleventh measure, the above arpeggio must be repeated,
+          and only this must be played on the last
+          four notes of the eleventh measure: 
+          <notatedMusic>
+            <ptr target="music-example4.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+           Nor can it sound bad if, at the end of the fourth measure,
+           the right hand arpeggiates its chords in the same way
+           as the bass arpeggiates its own. However, this shall only
+           be done on these three quarters:
+          <notatedMusic>
+            <ptr target="music-example5.xml"/>
+          </notatedMusic>
+          That the last notes take octaves with the bass
+          is done with on porpuse in order to express the
+          main theme, which reappears there, all the more clearly;
+          but where the same notes occur again, they must not
+          be played again with octaves, but in the usual way,
+          like the rest, so that it varies. 
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+           Right after, where the bass remains still,
+           the right hand can emerge just with a broken chord
+           and what is figured. For example: 
+          <notatedMusic>
+            <ptr target="music-example6.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          In the same way, the 18th measure can easily
+          allow that the right hand proceeds in harmony
+          with the left hand in the just prepared manner.
+          At the beginning of the low bass clef, however,
+          one plays only on every fourth note, and where
+          the bass moves in quarters, this variation is played in the discant: 
+          <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">
+            <ptr target="music-example7.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          That this key must be something rare in France can be
+          seen from St. Lambert's book on thorough-bass, where it
+          reads as follows:
+          <note place="foot" n="*)"><foreign xml:lang="fra">Le B Fa Si Beccarre
+          etant un Ton, sur lequel on compose rarement, il n'y a point
+          de modulation qui lui soit particulierement affectée: s'il en avoit une, ce croit la mineure.</foreign>
+          <bibl><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>, Traité de l'Accompagnement,
+          p.27.</bibl></note>
+          "B is a key in which one rarely composes. There is no third which is particularly associated with it,
+          but if it had one, it would probably be the minor third." 
+          Nevertheless, we know that its nature is minor and not major;
+          I have already shown the reasons for this in the second Orchestre book.
+          And that this tone is nothing rare for us is shown by countless
+          examples that are found daily. There are things with trumpets
+          and timpani in B minor, which might seem strange to some;
+          but if he were to hear the mobile<note>beweglich</note> chorale: Ach bleibe bei uns, Herr Jesu Christ, etc.,
+          where the singing voices are set in the chamber tone B, and in the modulation into the D major,
+          are accompanied with the above heroic instruments chorus tone, only once,
+          well performed, it would go to his heart.
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>
