@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe zweiundzwanzigstes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Niels</surname>
+            <forename>Pfeffer</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="0" type="chapter">
+      <head>Annotations.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          Right at the beginning it should be noted that where the leap from c# 
+          to a# occurs, a b must be played in between the notes as an appoggiatura
+          with a short trill.
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          When thereafter everything has been neatly played up to the cadence in
+          the eleventh measure, a melody has to be invented in the right
+          hand and to be continued for about ten measures, up to
+          the subsequent cadence to C#, approximately in the following manner:   
+          <notatedMusic>
+            <ptr target="music-example1.xml" />
+          </notatedMusic>
+        </p>
+      </div>
+
+      <pb n="429" />
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          In the 19th measure, there is again a si suona, of which the meaning
+          is known, and where the tutti enters, everything is possible <!-- ? -->
+          which only sounds well. After the end of the first part, the right hand
+          again begins to modulate, of which this may serve as an example: 
+
+          <notatedMusic>
+            <ptr target="music-example2.xml" />
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+           When the tutti is over, one may play like this until the next cadence: 
+
+          <notatedMusic>
+            <ptr target="music-example3.xml" />
+          </notatedMusic>
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>
