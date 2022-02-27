@@ -307,6 +307,11 @@
         "score": "15/mattheson/score.xml",
         "comments": "15/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "15/mattheson/score.xml",
+        "comments": "15/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -342,6 +347,11 @@
         "score": "17/mattheson/score.xml",
         "comments": "17/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "17/mattheson/score.xml",
+        "comments": "17/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -357,6 +367,11 @@
         "score": "18/mattheson/score.xml",
         "comments": "18/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "18/mattheson/score.xml",
+        "comments": "18/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -372,6 +387,11 @@
         "score": "19/mattheson/score.xml",
         "comments": "19/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "19/mattheson/score.xml",
+        "comments": "19/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -387,6 +407,11 @@
         "score": "20/mattheson/score.xml",
         "comments": "20/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "20/mattheson/score.xml",
+        "comments": "20/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -402,6 +427,11 @@
         "score": "21/mattheson/score.xml",
         "comments": "21/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "21/mattheson/score.xml",
+        "comments": "21/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -417,6 +447,11 @@
         "score": "22/mattheson/score.xml",
         "comments": "22/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "22/mattheson/score.xml",
+        "comments": "22/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   },
@@ -447,6 +482,11 @@
         "score": "24/mattheson/score.xml",
         "comments": "24/mattheson/comments_de.xml",
         "format": "dtabf"
+      },
+      "english": {
+        "score": "24/mattheson/score.xml",
+        "comments": "24/mattheson/comments_en.xml",
+        "format": "p5"
       }
     }
   }
