@@ -196,6 +196,14 @@
                     <pubPlace>Lübeck</pubPlace>
                     <date>1688</date>
                 </bibl>
+                <bibl xml:id="ed_agf_ibx_5lb">
+                    <author>
+                        <persName><surname>Murschhauser</surname><forename>Franz Xaver Anton</forename></persName>
+                    </author>
+                    <title>Academia Musico-Poetica, oder: Hohe Schule der musikalischen Komposition</title>
+                    <pubPlace>Nürnberg</pubPlace>
+                    <date>1721</date>
+                </bibl>
                 <bibl xml:id="ed_jjz_syb_5lb">
                     <author>
                         <persName><surname>Neidhardt</surname><forename>Johann Georg</forename></persName>
