@@ -29,7 +29,7 @@
       <head>Annotations</head>
       <div n="1">
         <head>§ 1.</head>
-        <p xml:id="p1-1">
+        <p>
           The present key was notated differently
           in the middle class of this <hi rendition="#i">Grosse General-Baß-Schule</hi>
           than here, despite them being (in the common disposition of the keyboard instruments)
@@ -47,55 +47,52 @@
 
       <div n="2">
         <head>§ 2.</head>
-        <p xml:id="p2-1">
-          Man hat zwar lange wol gemercket, daß in den so genannten halben Tonen
-          gleichsam eine Zweideutigkeit stecke; daß nemlich <emph>♯C</emph> ein
-          ander Ding an sich selbsten sey, als <emph>♭D</emph>; daß <emph>♯D</emph>
-          vom <emph>♭E</emph> billig unterschieden werden solte; daß <emph>♯E</emph>
-          mit dem gewo&#x0364;hnlichen <emph>f</emph> keine Gemeinschaft hege. Sie haben
-          gar recht erwiesen, daß <emph>♯F</emph> nicht <emph>♭G</emph> sey; daß
-          <emph>♭A</emph> und <emph>♯G</emph> im Grunde nicht einerley; daß
-          <emph>♭B</emph> was ganz anders sagen wolle, als <emph>♯A</emph>,
-          und daß endlich <emph>♯B</emph> keine Verwandtschafft haben ko&#x0364;nne mit dem
-          ordentlichen <emph>C</emph>: denn darinn bestehet ein Stu&#x0364;ck der enharmonischen
-          Octave, wobon die Vorbereitung, oder unterste Classe, weitla&#x0364;uffig gehandelt
-          hat.
+        <p>
+          For a long time it has been well noticed that the so-called
+          semitones contain an ambiguity, as it were; namely, that ♯C is
+          a different thing in itself than ♭D; that ♯D should be distinguished
+          from ♭E; that ♯E does not have anything in common with the ordinary f. 
+          They have quite rightly proven that ♯F is not ♭G; that ♭A and ♯G
+          are not basically the same; that ♭H means something quite different
+          from ♯A, and that finally ♯H can have no relationship to the ordinary
+          C: for therein consists a piece of the enharmonic octave, on which the
+          introduction, or Unterclasse, has eloberated extensively. 
         </p>
       </div>
 
       <div n="3">
         <head>§ 3.</head>
-        <p xml:id="p3-1">
-          But our menders did not go so far yet, to differentiate
-          <emph>♭C</emph> from <emph>B</emph> and to confound
-          <emph>♭F</emph> and <emph>E</emph> or
-          Allein so weit sind unsere Ausbesserer noch nicht gegangen, dß sie auch
-          <emph>♭C</emph> vom <emph>B</emph> unterschieden, und <emph>♭F</emph>
-          nicht mit <emph>E</emph> vermengt, oder daß, gleichwie <emph>C</emph>
-          und <emph>f</emph> auf verschiedene Art ko&#x0364;nnen notiret werden, dieselbe auch,
-          wo nicht eigene, nebenliegende Stuffen, (die ich gerne im Kauff geben will)
-          doch wenigstens eine andere Bezeichnung erfordern solten: welches doch,
-          besonders in denjenigen Ton-Arten, die verdeckter Weise ins enharmonische
-          Klang-Geschlecht ausweichen, ho&#x0364;chstno&#x0364;thig ist, und derowegen davon mit
-          mehrern zum Beschluß dieses Werckes wird geredet, auch gewiesen werden,
-          was sonst fu&#x0364;r Ungelegenheit im Schreiben daraus entstehet.
+        <p>
+           However, our improvers have not yet gone so far as to
+           distinguish C from ♯B and not to mix ♭F with E, or that,
+           just as C and f can be notated in different ways,
+           the same, if improper adjacent steps <!-- ? -->
+           at least require different signs:
+           which is, however, highly necessary especially
+           in those kinds of keys that hiddenly modulate into
+           enharmonic regions, which is why it will be discussed 
+           amongst other things in the conclusion of this work
+           and it will also be pointed out, which other inconvenience
+           in notation arises from it.
         </p>
       </div>
 
       <div n="4">
         <head>§ 4.</head>
         <p xml:id="p4-1">
-          Unsere Vorfahren, wie sie ihre Anmerckungen u&#x0364;ber den Mangel der Tone gemachet,
-          u. vermeynet haben, daß dem Clavier bey den halben Stuffen noch sieben Tangenten
-          in jeder Octave fehlten, sind wol schwerlich auf die Gedancken gerathen, daß
-          man nach ihrer Zeit aus solchen halben Stuffen, (geschweige aus ihren Bru&#x0364;chen)
-          jemahls ein Stu&#x0364;ck setzen wu&#x0364;rde, zumahl da <name type="person">Capricornus</name>
-          und <name type="person">Bernhardi</name> sich in diesem Werck schon wacker
-          umgesehen, und fast fu&#x0364;r unmo&#x0364;glich gehalten haben, daß es weiter ko&#x0364;nne
-          getrieben werden; wie doch zu Tage lieget: sie haben nur die Folgen
-          oder Ausweichungen der andern gewo&#x0364;hnlichen Tone betrachtet, und nach
-          solchem Grund-Satz ihre Anmerckungen fu&#x0364;r unumsto&#x0364;ßlich auch unentbehrlich
-          ausgegeben: welches doch ein Irrthum ist.
+          Our ancestors, as they made their remarks about
+          the lack of tones and were of the opinion that the
+          Clavier still lacked seven keys in each octave
+          in the semitones, would hardly have thought that
+          after their time, one would ever compose a piece from
+          such divided steps (let alone from their breaks), <!-- ? -->
+          especially since Capricornus and Bernhard already
+          invested in this and considered it almost impossible
+          that it could be driven further; as is evident: they have
+          only considered the sequences or modulations of the other
+          common tones, and according to such basic theorem, have
+          assumed their annotations to be indisputable and indispensable:
+          which is nevertheless a mistake. 
         </p>
 
       </div>
@@ -103,39 +100,39 @@
       <div n="5">
         <head>§ 5.</head>
         <p xml:id="p5-1">
-          Eben so wenig als unser einer glauben mag, daß nach diesem aus dem <emph>♯E</emph>
-          in so weit es vom <emph>F</emph> unterschieden ist, etwas zum Vorschein kommen
-          sollte, eben so leicht kann es doch geschehen; und wolte ich nicht Bu&#x0364;rge
-          dafu&#x0364;r seyn, noch verlangen, daß man deswegen sonderliche grosse Aenderungen
-          im Instrumente machen solte, denn die helffen uns nichts; meine Gedancken
-          gehen mit aller Bescheidenheit dahin, daß nur Zeichen genug mo&#x0364;gten angesetzt
-          werden, wodurch dergleichen Sachen geschickt zu notiren: und zwar hauptsa&#x0364;chlich
-          wegen besagter Folgen. Denn die Hoffnung, ein Clavier zu verbessern, zu vermehren,
-          und zur <emph>Vollkommenheit</emph> zu bringen, mu&#x0364;ssen wir fahren, und uns
-          an einer guten Temperatur begnu&#x0364;gen lassen: weil es doch, ungeachtet vielfa&#x0364;ltiger
-          Vorschla&#x0364;ge und Versuche, mit dem Flick-Werck der Tangenten nichts sagen will;
-          aber unsere Meynung durch Noten auszudru&#x0364;cken du&#x0364;rffte wol nicht schaden: und
-          das ko&#x0364;nnen wir nicht einmahl recht thun, wie bey dem letzten Exempel dieser
-          Classe, ja gleich in folgender Arie, gewiesen werden soll.
+          As little as we may believe that something might show up in ♯E,
+          in so far as it is different from F, it can happen just as easily;
+          and I do not want to be a guarantor for this, nor do I want
+          to demand that one shall make special, fundamental changes in the
+          instrument because of it, since they do not help;
+          my thoughts go with all modesty to the effect that only those signs
+          should be used, by which such things can be noted properly,
+          mainly because of the mentioned consequences. For we must
+          abandon the hope of improving the Clavier, of augmenting it, and
+          of bringing it to perfection, and be content instead with a good
+          temperament: because, in spite of manifold suggestions
+          and attempts, a patchwork of keys does not mean anything;
+          but to express my standpoint through in music should not do any harm:
+          and even that we cannot do properly, as will be shown in the last
+          Probstück of this class and indeed in the immediately following aria.
         </p>
       </div>
 
       <div n="6">
         <head>§ 6.</head>
-        <p xml:id="p6-1">
+        <p>
+          The little which remains to be noted is that from
+          the <ref target="#measure-0000001123115174">5th measure of this piece</ref> to the
+          <ref target="#measure-0000000741277401">third measure of the last part</ref>, then again from the
+          <ref target="#measure-0000001490618817">10th</ref> of said part to the
+          <ref target="#measure-0000000205329913">17th</ref>, everything can be
+          played in the right hand in a decent manner,
+          but where the 6/4 occurs, a graceful arpeggiation can be applied;
+          besides, it does not require any major skill.
           Mit wenigem ist sonst anzudeuten, daß vom
-          <ref target="#measure-0000001123115174">5ten Tact dieses Prob-Stu&#x0364;cks</ref>
-          bis am
-          <ref target="#measure-0000000741277401">dritten des letzten Theils</ref>,
-          so dann wieder vom
-          <ref target="#measure-0000001490618817">10ten besagten Theils</ref> bis an den
-          <ref target="#measure-0000000205329913">17ten</ref> alles gar manierlich in der
-          rechten Hand gespielet, bey den vorkommenden 6/4 aber eine
-          zierliche Brechung angebracht werden ko&#x0364;nne; u&#x0364;brigens braucht es keiner
-          grossen Ku&#x0364;nste.
         </p>
 
-        <p xml:id="p6-2">
+        <p>
           <emph>ARIA.</emph>
           <notatedMusic xml:id="aria-inquelseno">
             <ptr target="aria-inquelseno.xml" />
@@ -145,46 +142,40 @@
 
       <div n="7">
         <head>§ 7.</head>
-        <p xml:id="p7-1">
-          Diese <foreign>Aria</foreign> habe ich bey einer vornehmen Person, welche
-          aus Italien hieher gekommen, angetroffen, ohne zu wissen, wer Verfasser
-          davon sey. Man sieht wol, daß sie entweder fu&#x0364;r einen Verschnittenen, oder
-          sonst fu&#x0364;r jemand, der den hohen Alt gesungen, gesetzt seyn mu&#x0364;sse, auch
-          daß einige Instrumente dabey geho&#x0364;ren: die ich aber, samt etlichen
-          zwischenkommenden Pausen, hier fu&#x0364;r unno&#x0364;thig gehalten habe. Die Absicht
-          gehet nun dahin, ein Beispiel aus der ta&#x0364;glichen Uebung zu geben, wo das
-          <emph>Gis mol</emph> starck herha&#x0364;lt, und dazu ergriffe ich, was mir am
-          ersten, ja gleichsam von ungefehr, in die Ha&#x0364;nde fa&#x0364;llt. Daß indeß <emph>♯G mol</emph>
-          ha&#x0364;uffiger aufstosse, als <emph>♭A</emph> ist wahr: weil das erste die kleine
-          Tertz wesentlich, das andere nur zufa&#x0364;lliger Weise fu&#x0364;hret; allein, es ist doch
-          einerley im Spielen, nur la&#x0364;sset sich das letztere reiner auffschreiben, darum
-          hat mans hier im Prob-Stu&#x0364;cke gewehlet. Einen scho&#x0364;nen Satz aber, aus dem
-          <emph>♭A major</emph>, finde ich in <persName corresp="#ed_khq_sfy_qlb">Mossi</persName> seinem
-          Wercke, pag. 34, welches zu mercken bitte, weil es mir bey dem
-          <ref target="/view/12/mattheson/english">Zwo&#x0364;lfften
-          Prob-Stu&#x0364;cke dieser Classe</ref> nicht beigefallen ist. Einen andern Satz aber, aus
-          dem <emph>♯G major</emph> trifft man bey eben selbigem Componisten pag. 59 an,
-          wodurch meine obige Anmerckungen bewiesen sind. Besagtes Werck, das hier
-          angefu&#x0364;hret, und als ein Exempel vorgestellet wird, bestehet in zwo&#x0364;lff Sonaten mit
-          einer Violin und dem Basse, zu <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName> in Kupffer gestochen, und der Verfasser
-          heisset: <persName corresp="#ed_khq_sfy_qlb">Mossi</persName>.
+        <p>
+          I found this aria with a noble person who came here from Italy, not knowing who its composer was.
+          One can tell that it must have been composed either for a castrato or
+          for someone who sang in a high alto, also that some instruments belong to it, which I, however,
+          have considered unnecessary here, as well as several inserted rests.
+          The intention now is to give an example from daily practice where the G-sharp minor
+          is used strongly, and for this I take what falls into my hands first, as it were by chance.
+          That, however, G-sharp minor strikes more often than A-flat major is true,
+          because the first has the minor third essentially, the other only accidentally -
+          yet it is the same in playing, only the latter can be notatated more purely,
+          which is why it was chosen here for the Probstück. However, I find a beautiful
+          movement in A-flat major in Mossi's work, p. 34, which I would like to note,
+          because it did not occur to me in the twelfth Probstück of this class.
+          Another movement, however, from the G-sharp major is found by the
+          same composer on p. 59, which proves my above remarks. The work
+          mentioned here, and presented as an example, consists of twelve sonatas
+          with a violin and bass, engraved in copper in Amsterdam, and the author's
+          name is Giovanni Mossi. 
         </p>
       </div>
 
       <div n="8">
         <head>§ 8.</head>
-        <p xml:id="p8-1">
-          Ich habe am Ende der vorhergehenden Erla&#x0364;uterung gesagt, es sollte in dieser
-          Arie gezeiget werden, daß wir unsre Meynung nicht allemahl, ohne Uebelstand,
-          mit Noten recht ausdrucken ko&#x0364;nnen, und daß es uns wirchlich an Zeichen fehle,
-          wenn wir in die unbewanderten Tone modulieren wollen. Das erhellet nun insonderheit
-          aus den beiden letzten Zeilen obesagter Arie Sonnen-klar, weil daselbst eine
-          Note fu&#x0364;nffmahl, so wol in der Sing-Stimme, als im Baß vorkommt, die ein
-          zweifaches Kreutz (##) vor sich hat, und ein so genannten <emph>g</emph>
-          bedeutet, welches ist allerdings (ob es gleich die gewo&#x0364;hnliche Schreib-Art ist)
-          fu&#x0364;r einen Uebelstand halte, und zum Beschluß dieses Wercks meine Ursachen und
-          Mittel, so gut ich sie begriffe, und im Vorrath habe, nebst mehr Exempeln,
-          beibringen werden.
+        <p>
+          At the end of the preceding explanation, I said that this aria was
+          intended to show that we cannot always express well our views
+          with notes, and that we indeed lack signs when we want to play
+          into the unfamiliar tones. This is especially clear from the
+          last two lines of the above aria, since a note occurs there 
+          five times in both, voice and bass, which has a double cross
+          (♯♯) in front of it and signifies a so-called g, which I, however,
+          consider (although it is the usual notation) to be a defect,
+          and at the end of this work I will present my reasons and means,
+          as much as I understand them and have them available, along with more examples. 
         </p>
       </div>
     </div>
