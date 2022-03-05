@@ -33,7 +33,8 @@
                 <score>
                     <scoreDef key.pname="e" key.mode="minor" meter.unit="8" midi.bpm="85" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
                                 <!-- key accidental missing in first edition -->
                                 <keySig sig="1s" />
                             </staffDef>

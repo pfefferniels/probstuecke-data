@@ -33,8 +33,14 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1" key.sig="4s" />
-                            <staffDef n="2" lines="5" clef.shape="F" clef.line="4" key.sig="4s" />
+                            <staffDef xml:id="rh" n="1" lines="5" meter.unit="8">
+                                <clef shape="C" line="1" />
+                                <keySig sig="4s" />
+                            </staffDef>
+                            <staffDef xml:id="lh" n="1" lines="5" meter.unit="8">
+                                <clef shape="F" line="4" />
+                                <keySig sig="4s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>

@@ -31,9 +31,10 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
-                            <staffDef n="1" lines="5" clef.shape="C" clef.line="1">
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
                                 <keySig sig="1s" />
                             </staffDef>
                         </staffGrp>
