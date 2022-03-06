@@ -31,12 +31,14 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" meter.unit="16" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="16">
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
                                 <keySig sig="2f" />
                             </staffDef>
-                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5" meter.unit="16">
+                            <staffDef xml:id="lh" n="2" lines="5">
+                                <clef shape="F" line="4" />
                                 <keySig sig="2f" />
                             </staffDef>
                         </staffGrp>

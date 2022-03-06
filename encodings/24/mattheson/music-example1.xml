@@ -31,9 +31,9 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef mnum.visible="false">
+                    <scoreDef meter.unit="8" mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="lh" n="2" lines="5" meter.unit="8">
+                            <staffDef xml:id="lh" n="2" lines="5">
                                 <clef shape="F" line="4" />
                                 <keySig sig="2s" />
                             </staffDef>

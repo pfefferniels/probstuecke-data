@@ -33,7 +33,10 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="5f" n="1" lines="5" label="Mattheson's annotations" meter.unit="8" />
+                            <staffDef xml:id="rh" n="1" lines="5" label="Mattheson's annotations" meter.unit="8">
+                                <clef shape="C" line="1" />
+                                <keySig sig="5f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>

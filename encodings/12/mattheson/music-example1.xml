@@ -31,10 +31,16 @@
         <body>
             <mdiv label="example">
                 <score>
-                    <scoreDef key.sig="2f" mnum.visible="false">
+                    <scoreDef mnum.visible="false" meter.unit="8">
                         <staffGrp bar.thru="false">
-                            <staffDef clef.shape="C" clef.line="1" n="1" lines="5" meter.unit="8" />
-                            <staffDef clef.shape="C" clef.line="4" n="2" lines="5" meter.unit="8" />
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
+                                <keySig sig="2f" />
+                            </staffDef>
+                            <staffDef xml:id="lh" n="1" lines="5">
+                                <clef shape="F" line="4" />
+                                <keySig sig="2f" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section label="excerpt">

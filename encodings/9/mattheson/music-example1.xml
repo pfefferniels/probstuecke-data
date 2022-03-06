@@ -33,11 +33,13 @@
                 <score>
                     <scoreDef key.pname="c" key.mode="minor" meter.unit="4" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="2f" n="1" lines="5">
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
                                 <!-- second edition only shows e flat -->
                                 <keySig sig="2f" />
                             </staffDef>
-                            <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
+                            <staffDef xml:id="lh" n="2" lines="5">
+                                <clef shape="F" line="4" />
                                 <keySig sig="2f" type="supplied" />
                             </staffDef>
                         </staffGrp>

@@ -33,7 +33,10 @@
                 <score>
                     <scoreDef key.pname="e" key.accid="n" key.mode="minor" meter.unit="8" midi.bpm="85" mnum.visible="false">
                         <staffGrp>
-                            <staffDef clef.shape="C" clef.line="1" key.sig="1s" n="1" lines="5" meter.unit="8" />
+                            <staffDef xml:id="rh" n="1" lines="5">
+                                <clef shape="C" line="1" />
+                                <keySig sig="1s" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
