@@ -299,7 +299,9 @@
               </staff>
               <staff xml:id="m-132" n="2" facs="#facsZone-m-132">
                 <layer xml:id="m-133" n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-136">
                     <note xml:id="m-134" dur="8" oct="3" pname="b" accid.ges="f" stem.dir="down" />
                     <note xml:id="m-141" dur="8" oct="3" pname="f" stem.dir="down" />
@@ -419,7 +421,9 @@
               </staff>
               <staff xml:id="m-194" n="2" facs="#facsZone-m-194">
                 <layer xml:id="m-195" n="1">
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam xml:id="m-197">
                     <note xml:id="m-196" dur="8" oct="4" pname="f" />
                     <note xml:id="m-198" dur="8" oct="4" pname="c" />
@@ -501,7 +505,9 @@
                     <note xml:id="m-245" dur="16" oct="3" pname="g" />
                     <note xml:id="m-246" dur="16" oct="3" pname="f" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-249">
                     <note xml:id="m-247" dur="8" oct="3" pname="e" accid.ges="f" />
                     <note xml:id="m-250" dur="16" oct="3" pname="c" />
@@ -595,7 +601,9 @@
               </staff>
               <staff xml:id="m-301" n="2" facs="#facsZone-m-301">
                 <layer xml:id="m-302" n="1">
-                  <clef line="4" shape="C" />
+                  <orig>
+                    <clef line="4" shape="C" />
+                  </orig>
                   <beam xml:id="m-304">
                     <note xml:id="m-303" dur="8" oct="4" pname="c" />
                     <note xml:id="m-305" dur="16" oct="4" pname="d" />
@@ -920,7 +928,9 @@
               </staff>
               <staff xml:id="m-490" n="2" facs="#facsZone-m-490 #facsZone-m-490-2">
                 <layer xml:id="m-491" n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-493">
                     <note xml:id="m-492" dots="1" dur="8" oct="3" pname="g" />
                     <note xml:id="m-494" dur="16" oct="3" pname="g" />
@@ -1392,7 +1402,9 @@
                     <note xml:id="m-810" dur="16" oct="3" pname="a" accid.ges="f" />
                   </beam>
                   <note xml:id="m-812" dur="8" oct="3" pname="f" />
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam xml:id="m-813">
                     <note xml:id="m-814" dur="8" oct="4" pname="f" />
                     <note xml:id="m-815" dur="8" oct="4" pname="e" accid.ges="f" />
@@ -1479,7 +1491,9 @@
                     <note xml:id="m-878" dur="16" oct="3" pname="f" />
                     <note xml:id="m-879" dur="16" oct="3" pname="g" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-882">
                     <note xml:id="m-880" dur="8" oct="3" pname="e">
                       <accid accid="n" />
@@ -2281,7 +2295,9 @@
               </staff>
               <staff xml:id="m-1395" n="2" facs="#facsZone-m-1395 #facsZone-m-1395-2">
                 <layer xml:id="m-1396" n="1">
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam xml:id="m-1398">
                     <note xml:id="m-1397" dur="8" oct="3" pname="f" />
                     <note xml:id="m-1399" dur="8" oct="3" pname="a" accid.ges="f" />
@@ -2395,7 +2411,9 @@
                     <note xml:id="m-1481" dur="16" oct="3" pname="g" />
                     <note xml:id="m-1482" dur="8" oct="4" pname="c" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-1484">
                     <note xml:id="m-1483" dur="8" oct="3" pname="f" />
                     <note xml:id="m-1485" dur="8" oct="3" pname="g" />

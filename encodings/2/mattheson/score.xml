@@ -62,7 +62,7 @@
   <music>
     <facsimile decls="#firstEdition">
       <surface ulx="0" uly="0" lrx="1999" lry="2375" xml:id="facs-p282">
-        <graphic width="1999" height="2375" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/282" />
+        <graphic width="1999" height="2375" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00282/full/full/0/default.jpg" />
       </surface>
       <surface ulx="0" uly="0" lrx="1992" lry="2389" xml:id="facs-p283">
         <graphic width="1992" height="2389" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/283" />
@@ -696,7 +696,9 @@
               </staff>
               <staff xml:id="m-400" n="2" facs="#facsZone-m-400">
                 <layer n="1">
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <rest xml:id="m-402" dur="32" />
                   <beam xml:id="m-404">
                     <note xml:id="m-403" dur="32" oct="3" pname="a" />
@@ -723,7 +725,9 @@
                     <note xml:id="m-417" dur="16" oct="3" pname="a" />
                     <note xml:id="m-418" dur="16" oct="4" pname="e" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-421">
                     <note xml:id="m-420" dur="16" oct="4" pname="d" />
                     <note xml:id="m-422" dur="16" oct="4" pname="c">
@@ -1061,7 +1065,9 @@
                 <layer n="1">
                   <note xml:id="m-631" dur="4" oct="3" pname="g" />
                   <rest xml:id="m-633" dur="4" />
-                  <clef shape="C" line="3" />
+                  <orig>
+                    <clef shape="C" line="3" />
+                  </orig>
                   <beam xml:id="m-635">
                     <note xml:id="m-634" dur="8" oct="4" pname="g" />
                     <note xml:id="m-636" dur="8" oct="4" pname="f" />
@@ -1181,7 +1187,9 @@
               </staff>
               <staff xml:id="m-715" n="2" facs="#facsZone-m-715">
                 <layer n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-718">
                     <note xml:id="m-717" dur="8" oct="4" pname="d" />
                     <note xml:id="m-719" dur="8" oct="4" pname="c" />
@@ -1482,7 +1490,9 @@
                 <layer n="1">
                   <note xml:id="m-914" dur="4" oct="3" pname="c" />
                   <rest xml:id="m-915" dur="4" />
-                  <clef xml:id="clef-001" shape="C" line="1" />
+                  <orig>
+                    <clef xml:id="clef-001" shape="C" line="1" />
+                  </orig>
                   <pb n="310" source="#secondEdition" facs="#facs-p394" />
                   <pb n="110" source="#firstEdition" facs="#facs-p284" />
                   <beam xml:id="m-917">
@@ -1578,7 +1588,9 @@
               </staff>
               <staff xml:id="m-971" n="2" facs="#facsZone-m-971">
                 <layer n="1">
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam xml:id="m-974">
                     <note xml:id="m-973" dur="16" oct="4" pname="c" />
                     <note xml:id="m-975" dur="16" oct="3" pname="b" accid.ges="f" />
@@ -1667,7 +1679,9 @@
               </staff>
               <staff xml:id="m-1025" n="2" facs="#facsZone-m-1025 #facsZone-m-1025-2">
                 <layer n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-1029">
                     <note xml:id="m-1027" dur="32" oct="3" pname="a">
                       <accid accid="f" />
@@ -1893,7 +1907,9 @@
               </staff>
               <staff xml:id="m-1161" n="2" facs="#facsZone-m-1161">
                 <layer n="1">
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam xml:id="m-1165">
                     <note xml:id="m-1163" dur="32" oct="3" pname="a">
                       <accid accid="f" />
@@ -1922,7 +1938,9 @@
                     <note xml:id="m-1184" dur="32" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="m-1186" dur="32" oct="4" pname="f" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam xml:id="m-1188">
                     <note xml:id="m-1187" dur="8" oct="3" pname="g" />
                     <note xml:id="m-1189" dur="8" oct="3" pname="b">

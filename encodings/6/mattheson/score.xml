@@ -348,7 +348,9 @@
                     <note xml:id="m-168" dur="16" oct="3" pname="g" />
                     <note xml:id="m-169" dur="16" oct="3" pname="a" />
                   </beam>
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <beam>
                     <note xml:id="m-170" dur="16" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="m-173" dur="16" oct="4" pname="c" />
@@ -705,7 +707,9 @@
               </staff>
               <staff xml:id="m-431" n="2" facs="#facsZone-m-431">
                 <layer n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <pb n="331" source="#secondEdition" facs="#facs-p415" />
                   <pb n="131" source="#firstEdition" facs="#facs-p305" />
                   <beam>
@@ -2129,7 +2133,9 @@
               </staff>
               <staff xml:id="m-1449" n="2" facs="#facsZone-m-1449">
                 <layer n="1">
-                  <clef shape="C" line="3" />
+                  <orig>
+                    <clef shape="C" line="3" />
+                  </orig>
                   <beam>
                     <note xml:id="m-1451" dur="16" oct="4" pname="a" />
                     <note xml:id="m-1453" dur="16" oct="4" pname="g" />
@@ -2358,7 +2364,9 @@
                     <note xml:id="m-1612" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1613" dur="16" oct="4" pname="d" />
                   </beam>
-                  <clef xml:id="m-1614" line="4" shape="F" staff="2" tstamp="4" />
+                  <orig>
+                    <clef xml:id="m-1614" line="4" shape="F" staff="2" tstamp="4" />
+                  </orig>
                 </layer>
               </staff>
               <staff xml:id="m-1615" n="3">
@@ -2427,14 +2435,18 @@
                     <note xml:id="m-1658" dur="16" oct="3" pname="f" />
                     <note xml:id="m-1659" dur="16" oct="3" pname="d" />
                   </beam>
-                  <clef shape="C" line="3" />
+                  <orig>
+                    <clef shape="C" line="3" />
+                  </orig>
                   <beam>
                     <note xml:id="m-1660" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1662" dur="16" oct="4" pname="e" />
                     <note xml:id="m-1663" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1664" dur="16" oct="4" pname="d" />
                   </beam>
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef shape="F" line="4" />
+                  </orig>
                   <beam>
                     <note xml:id="m-1665" dur="16" oct="3" pname="f" />
                     <note xml:id="m-1667" dur="16" oct="3" pname="e" />

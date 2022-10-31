@@ -1389,7 +1389,9 @@
                     <note xml:id="note-0000001568759197" dur="8" oct="3" pname="g" accid.ges="s" />
                   </beam>
                   <note xml:id="note-0000001234208124" dur="4" oct="4" pname="c" accid.ges="s" />
-                  <clef shape="C" line="3" />
+                  <orig>
+                    <clef shape="C" line="3" />
+                  </orig>
                   <note xml:id="note-0000001192948812" dur="4" oct="4" pname="c" accid.ges="s" />
                   <note xml:id="note-0000000443632021" dur="4" oct="3" pname="b">
                     <accid accid="s" />
@@ -1770,7 +1772,9 @@
                     <note xml:id="note-0000000008468390" dur="8" oct="4" pname="c" accid.ges="s" />
                   </beam>
                   <note xml:id="note-0000002063143969" dur="4" oct="3" pname="g" accid.ges="s" />
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef shape="C" line="4" />
+                  </orig>
                   <note xml:id="note-0000000833204572" dur="4" oct="3" pname="a" />
                   <note xml:id="note-0000000685929964" dur="4" oct="3" pname="e" />
                 </layer>

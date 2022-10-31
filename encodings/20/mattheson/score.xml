@@ -689,7 +689,9 @@
                     </note>
                     <note xml:id="note-0000000179873769" dur="8" oct="3" pname="b" />
                   </beam>
-                  <clef xml:id="clef-0000001684749337" shape="C" line="4" />
+                  <orig>
+                    <clef xml:id="clef-0000001684749337" shape="C" line="4" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000000191497272" dur="16" oct="3" pname="e" />
                     <note xml:id="note-0000001971052164" dur="16" oct="4" pname="f" accid.ges="s" />
@@ -1110,7 +1112,9 @@
                     <note xml:id="note-0000001740979966" dur="8" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000000581105069" dur="8" oct="3" pname="c" accid.ges="s" />
                   </beam>
-                  <clef xml:id="clef-0000000559758691" shape="F" line="4" />
+                  <orig>
+                    <clef xml:id="clef-0000000559758691" shape="F" line="4" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000000952833561" dur="8" oct="3" pname="f" accid.ges="s" />
                     <note xml:id="note-0000002019437018" dur="8" oct="3" pname="a" />
@@ -1515,7 +1519,9 @@
               </staff>
               <staff xml:id="staff-0000000502710151" n="2" facs="#facsZone-staff-0000000502710151">
                 <layer n="1">
-                  <clef xml:id="clef-0000001541099276" shape="C" line="3" />
+                  <orig>
+                    <clef xml:id="clef-0000001541099276" shape="C" line="3" />
+                  </orig>
                   <rest xml:id="rest-0000001623576424" dur="4" />
                   <beam>
                     <note xml:id="note-0000001088389481" dur="32" oct="4" pname="f" accid.ges="s" />
@@ -1722,7 +1728,9 @@
                     </note>
                     <note xml:id="note-0000001268380927" dur="8" oct="3" pname="e" />
                   </beam>
-                  <clef xml:id="clef-0000000525359677" shape="C" line="2" />
+                  <orig>
+                    <clef xml:id="clef-0000000525359677" shape="C" line="2" />
+                  </orig>
                   <rest xml:id="rest-0000000926550948" dur="16" />
                   <beam>
                     <note xml:id="note-0000000340848661" dur="16" oct="4" pname="a" />
@@ -1877,7 +1885,9 @@
               </staff>
               <staff xml:id="staff-0000001417460299" n="2" facs="#facsZone-staff-0000001417460299">
                 <layer n="1">
-                  <clef xml:id="clef-0000001774202202" shape="C" line="4" />
+                  <orig>
+                    <clef xml:id="clef-0000001774202202" shape="C" line="4" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000001333962686" dur="32" oct="4" pname="f" accid.ges="s" />
                     <note xml:id="note-0000000115916332" dur="32" oct="4" pname="g" />
@@ -1898,7 +1908,9 @@
                     <note xml:id="note-0000000876967376" dur="32" oct="3" pname="g" />
                     <note xml:id="note-0000000327745093" dur="32" oct="3" pname="f" accid.ges="s" />
                   </beam>
-                  <clef xml:id="clef-0000000934760601" shape="F" line="3" />
+                  <orig>
+                    <clef xml:id="clef-0000000934760601" shape="F" line="3" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000001380249378" dur="32" oct="3" pname="e" />
                     <note xml:id="note-0000000550802186" dur="32" oct="3" pname="f" accid.ges="s" />
@@ -2573,7 +2585,9 @@
               </staff>
               <staff xml:id="staff-0000001099598577" n="2" facs="#facsZone-staff-0000001099598577 #facsZone-staff-0000001099598577-2">
                 <layer n="1">
-                  <clef xml:id="clef-0000000962308835" shape="F" line="5" />
+                  <orig>
+                    <clef xml:id="clef-0000000962308835" shape="F" line="5" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000001682537187" dur="16" oct="2" pname="d" />
                     <note xml:id="note-0000002114871811" dur="16" oct="3" pname="d" />
