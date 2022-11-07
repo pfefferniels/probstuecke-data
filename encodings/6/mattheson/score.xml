@@ -169,7 +169,7 @@
           </scoreDef>
           <section>
             <pb n="130" source="#firstEdition" facs="#facs-p304" />
-            <pb n="330" source="#secondEdition" facs="#facs-p414" />
+            <pb n="330" source="#secondEdition" facs="#facs-p398" />
             <measure xml:id="m-41" label="1" n="1">
               <staff n="1">
                 <layer n="1">
@@ -348,9 +348,12 @@
                     <note xml:id="m-168" dur="16" oct="3" pname="g" />
                     <note xml:id="m-169" dur="16" oct="3" pname="a" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus"></reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-170" dur="16" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="m-173" dur="16" oct="4" pname="c" />
@@ -707,11 +710,14 @@
               </staff>
               <staff xml:id="m-431" n="2" facs="#facsZone-m-431">
                 <layer n="1">
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
-                  <pb n="331" source="#secondEdition" facs="#facs-p415" />
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus"></reg>
+                  </choice>
                   <pb n="131" source="#firstEdition" facs="#facs-p305" />
+                  <pb n="331" source="#secondEdition" facs="#facs-p399" />
                   <beam>
                     <note xml:id="m-433" dur="16" oct="3" pname="e" />
                     <note xml:id="m-435" dur="16" oct="4" pname="c" />
@@ -1881,8 +1887,8 @@
                 </fb>
               </harm>
             </measure>
-            <pb n="332" source="#secondEdition" facs="#facs-p416" />
             <pb n="132" source="#firstEdition" facs="#facs-p306" />
+            <pb n="332" source="#secondEdition" facs="#facs-p400" />
             <measure xml:id="m-1265" n="41">
               <staff xml:id="m-1266" n="1">
                 <layer n="1">
@@ -1958,7 +1964,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-1316">
+              <harm place="above" staff="2" tstamp="1">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2001,7 +2007,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-1316">
+              <harm place="above" staff="2" tstamp="1">
                 <fb>
                   <f>6</f>
                 </fb>
@@ -2077,7 +2083,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <harm place="above" staff="2" startid="#m-1393">
+              <harm place="above" staff="2" tstamp="1">
                 <fb>
                   <f>♮</f>
                 </fb>
@@ -2133,9 +2139,14 @@
               </staff>
               <staff xml:id="m-1449" n="2" facs="#facsZone-m-1449">
                 <layer n="1">
-                  <orig>
-                    <clef line="3" shape="C" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="3" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-1451" dur="16" oct="4" pname="a" />
                     <note xml:id="m-1453" dur="16" oct="4" pname="g" />
@@ -2364,9 +2375,14 @@
                     <note xml:id="m-1612" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1613" dur="16" oct="4" pname="d" />
                   </beam>
-                  <orig>
-                    <clef xml:id="m-1614" line="4" shape="F" tstamp="4" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                 </layer>
               </staff>
               <staff xml:id="m-1615" n="3">
@@ -2435,18 +2451,28 @@
                     <note xml:id="m-1658" dur="16" oct="3" pname="f" />
                     <note xml:id="m-1659" dur="16" oct="3" pname="d" />
                   </beam>
-                  <orig>
-                    <clef line="3" shape="C" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="3" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-1660" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1662" dur="16" oct="4" pname="e" />
                     <note xml:id="m-1663" dur="16" oct="4" pname="f" />
                     <note xml:id="m-1664" dur="16" oct="4" pname="d" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-1665" dur="16" oct="3" pname="f" />
                     <note xml:id="m-1667" dur="16" oct="3" pname="e" />
