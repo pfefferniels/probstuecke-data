@@ -517,9 +517,14 @@
               </staff>
               <staff xml:id="m-224" n="2" facs="#facsZone-m-224 #facsZone-m-224-2">
                 <layer n="1">
-                  <orig>
-                    <clef shape="C" line="4" staff="2" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-226" dur="16" oct="3" pname="f" />
                     <note xml:id="m-228" dur="16" oct="4" pname="f" />
@@ -714,9 +719,13 @@
                   </beam>
                   <beam>
                     <note xml:id="m-346" dur="16" oct="4" pname="c" />
-                    <orig>
-                      <clef line="3" shape="C" staff="2" />
-                    </orig>
+                    <choice>
+                      <orig>
+                        <clef line="3" shape="C" />
+                      </orig>
+                      <reg resp="#rettinghaus">
+                      </reg>
+                    </choice>
                     <note xml:id="m-349" dur="16" oct="4" pname="b" accid.ges="f" />
                     <note xml:id="m-351" dur="16" oct="4" pname="g" />
                     <note xml:id="m-352" dur="16" oct="5" pname="c" />
@@ -871,9 +880,13 @@
               </staff>
               <staff xml:id="m-419" n="2" facs="#facsZone-m-419 #facsZone-m-419-2">
                 <layer n="1">
-                  <orig>
-                    <clef shape="C" line="4" staff="2" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-421" dur="16" oct="4" pname="d" />
                     <note xml:id="m-423" dur="16" oct="4" pname="c" />
@@ -886,9 +899,14 @@
                     <note xml:id="m-431" dur="16" oct="4" pname="d" />
                     <note xml:id="m-432" dur="16" oct="4" pname="c" />
                   </beam>
-                  <orig>
-                    <clef shape="F" line="4" staff="2" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-433" dur="16" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="m-436" dur="16" oct="3" pname="a" />

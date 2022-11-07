@@ -1018,9 +1018,14 @@
                   <pb n="121" source="#firstEdition" facs="#facs-p295" />
                   <beam>
                     <note xml:id="m-564" dur="16" oct="3" pname="b" />
-                    <orig>
-                      <clef line="4" shape="C" />
-                    </orig>
+                    <choice>
+                      <orig>
+                        <clef line="4" shape="C" />
+                      </orig>
+                      <reg resp="#rettinghaus">
+                        <clef line="2" shape="G" />
+                      </reg>
+                    </choice>
                     <note xml:id="m-566" dur="16" oct="4" pname="f" accid.ges="s" />
                     <note xml:id="m-568" dur="16" oct="4" pname="f" accid.ges="s" />
                     <note xml:id="m-570" dur="16" oct="4" pname="e" />
@@ -1122,9 +1127,14 @@
               </staff>
               <staff xml:id="m-612" n="2" facs="#facsZone-m-612 #facsZone-m-612-2">
                 <layer n="1">
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="m-614" dur="8" oct="4" pname="d" />
                     <note xml:id="m-616" dur="8" oct="3" pname="b" />

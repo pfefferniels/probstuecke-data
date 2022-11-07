@@ -603,7 +603,13 @@
               </staff>
               <staff xml:id="m-494" n="2" facs="#facsZone-m-494">
                 <layer n="1">
-                  <clef shape="C" line="3" staff="1" />
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                    </reg>
+                  </choice>
                   <rest xml:id="m-496" dur="16" />
                   <beam>
                     <note xml:id="m-497" dur="16" oct="4" pname="d" />
@@ -639,6 +645,14 @@
               </staff>
               <staff xml:id="m-523" n="2" facs="#facsZone-m-523">
                 <layer n="1">
+                  <choice>
+                    <orig>
+                      <clef line="3" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <rest xml:id="m-525" dur="16" />
                   <beam>
                     <note xml:id="m-526" dur="16" oct="4" pname="e" />
@@ -764,7 +778,14 @@
               </staff>
               <staff xml:id="m-633" n="2" facs="#facsZone-m-633">
                 <layer n="1">
-                  <clef shape="F" line="4" staff="2" />
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <note xml:id="m-636" dur="4" oct="3" pname="b" />
                   <note xml:id="m-639" dur="4" oct="3" pname="b" />
                   <note xml:id="m-644" dur="4" oct="3" pname="b" />
@@ -1164,7 +1185,14 @@
               </staff>
               <staff xml:id="m-1185" n="2" facs="#facsZone-m-1185">
                 <layer n="1">
-                  <clef shape="C" line="4" staff="1" />
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <rest xml:id="m-1187" dur="16" />
                   <beam>
                     <note xml:id="m-1188" dur="16" oct="3" pname="b" />
@@ -1295,7 +1323,14 @@
               </staff>
               <staff xml:id="m-1296" n="2" facs="#facsZone-m-1296">
                 <layer n="1">
-                  <clef shape="F" line="4" staff="1" />
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <note xml:id="m-1298" dur="4" oct="3" pname="f">
                     <accid accid="s" />
                   </note>

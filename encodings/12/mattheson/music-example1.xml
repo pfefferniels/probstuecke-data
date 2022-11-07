@@ -34,11 +34,11 @@
                     <scoreDef mnum.visible="false" meter.unit="8">
                         <staffGrp bar.thru="false">
                             <staffDef xml:id="rh" n="1" lines="5">
-                                <clef shape="C" line="1" />
+                                <clef line="1" shape="C" />
                                 <keySig sig="2f" />
                             </staffDef>
                             <staffDef xml:id="lh" n="1" lines="5">
-                                <clef shape="F" line="4" />
+                                <clef line="4" shape="F" />
                                 <keySig sig="2f" />
                             </staffDef>
                         </staffGrp>
@@ -182,7 +182,7 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef shape="F" line="4" />
+                                    <clef line="4" shape="F" />
                                     <note xml:id="note-0000000865978163" dur="4" oct="3" pname="f" />
                                     <note xml:id="note-0000000195277638" dur="8" oct="3" pname="e" accid.ges="f" />
                                 </layer>

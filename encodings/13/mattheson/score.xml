@@ -1072,7 +1072,7 @@
               <staff xml:id="staff-0000000553486794" n="2" facs="#facsZone-staff-0000000553486794">
                 <layer xml:id="layer-0000002089404158" n="1">
                   <orig>
-                    <clef shape="C" line="4" />
+                    <clef line="4" shape="C" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001725328275" dur="16" oct="3" pname="f">
@@ -1340,7 +1340,7 @@
               <staff xml:id="staff-0000000613511162" n="2" facs="#facsZone-staff-0000000613511162">
                 <layer xml:id="layer-0000000703129923" n="1">
                   <orig>
-                    <clef shape="F" line="4" />
+                    <clef line="4" shape="F" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000668731714" dots="1" dur="8" oct="2" pname="g" />

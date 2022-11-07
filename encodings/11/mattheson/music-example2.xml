@@ -34,11 +34,11 @@
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
-                                <clef shape="C" line="1" />
+                                <clef line="1" shape="C" />
                                 <keySig sig="3f" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
-                                <clef shape="F" line="4" />
+                                <clef line="4" shape="F" />
                                 <keySig sig="3f" />
                             </staffDef>
                         </staffGrp>
@@ -76,7 +76,7 @@
                                         <note dur="16" oct="3" pname="c" stem.dir="down" />
                                         <note dur="16" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                     </beam>
-                                    <clef shape="C" line="4" />
+                                    <clef line="4" shape="C" />
                                     <beam>
                                         <note dur="16" oct="3" pname="g" stem.dir="down" />
                                         <note dur="16" oct="4" pname="c" stem.dir="down" />
@@ -138,7 +138,7 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef shape="F" line="4" />
+                                    <clef line="4" shape="F" />
                                     <beam>
                                         <note dur="16" oct="4" pname="e" stem.dir="down" accid.ges="f" />
                                         <note dur="16" oct="2" pname="e" stem.dir="up" accid.ges="f" staff="2" />

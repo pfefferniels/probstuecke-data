@@ -196,7 +196,7 @@
                     <note xml:id="note-0000001078772382" dur="8" oct="3" pname="g" accid.ges="f" />
                   </beam>
                   <orig>
-                    <clef shape="C" line="4" />
+                    <clef line="4" shape="C" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001418363487" dur="16" oct="4" pname="g" accid.ges="f" />
@@ -281,7 +281,7 @@
               <staff n="2" facs="#facsZone-staff-0000000777397585 #facsZone-staff-0000000777397585-2">
                 <layer n="1">
                   <orig>
-                    <clef shape="F" line="4" />
+                    <clef line="4" shape="F" />
                   </orig>
                   <note xml:id="note-0000001901042884" dur="4" oct="3" pname="g">
                     <accid accid="n" />

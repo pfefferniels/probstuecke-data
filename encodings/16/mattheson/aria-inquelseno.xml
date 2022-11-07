@@ -1097,7 +1097,7 @@
                             <staff xml:id="staff-0000001221596145" n="2">
                                 <layer>
                                     <note xml:id="note-0000001772396230" dur="4" oct="3" pname="e" />
-                                    <clef shape="C" line="3" />
+                                    <clef line="3" shape="C" />
                                     <note xml:id="note-0000002144499454" dur="8" oct="4" pname="g" accid.ges="s" />
                                 </layer>
                             </staff>
@@ -1445,7 +1445,7 @@
                             </staff>
                             <staff xml:id="staff-0000001054543853" n="2">
                                 <layer>
-                                    <clef shape="F" line="4" />
+                                    <clef line="4" shape="F" />
                                     <note xml:id="note-0000000918705715" dur="4" oct="3" pname="e" />
                                     <note xml:id="note-0000001584539591" dur="8" oct="3" pname="e" />
                                 </layer>

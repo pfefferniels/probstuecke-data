@@ -176,7 +176,7 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef shape="F" line="4" />
+                                    <clef line="4" shape="F" />
                                     <beam>
                                         <note xml:id="ex-717" dur="8" oct="4" pname="d" />
                                         <note xml:id="ex-719" dur="8" oct="4" pname="c" />

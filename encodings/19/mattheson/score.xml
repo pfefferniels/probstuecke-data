@@ -1390,7 +1390,7 @@
                   </beam>
                   <note xml:id="note-0000001234208124" dur="4" oct="4" pname="c" accid.ges="s" />
                   <orig>
-                    <clef shape="C" line="3" />
+                    <clef line="3" shape="C" />
                   </orig>
                   <note xml:id="note-0000001192948812" dur="4" oct="4" pname="c" accid.ges="s" />
                   <note xml:id="note-0000000443632021" dur="4" oct="3" pname="b">
@@ -1773,7 +1773,7 @@
                   </beam>
                   <note xml:id="note-0000002063143969" dur="4" oct="3" pname="g" accid.ges="s" />
                   <orig>
-                    <clef shape="C" line="4" />
+                    <clef line="4" shape="C" />
                   </orig>
                   <note xml:id="note-0000000833204572" dur="4" oct="3" pname="a" />
                   <note xml:id="note-0000000685929964" dur="4" oct="3" pname="e" />
