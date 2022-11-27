@@ -38,7 +38,14 @@
         <p xml:id="p1-1">
           This clergyman wished to compare the cheerless days of man's life with something and said
           they were like a musical book, in which commonly more black than white notes are to be found; his opinion was that
-          similarly we encounter more misfortune than fortune in our lives. Whether or not the simile is lopsided, we will leave to rest.
+          similarly we encounter more misfortune than fortune in our lives.
+          <note type="editorial" resp="#pfeffer">
+            Mattheson is presumably referring to a meditation by
+            <persName>Samuel von Butschky</persName>, which can be found as number 250
+            with the title <hi rendition="#i">Menschliches Leben</hi> (Man's Life)
+            in his <bibl><hi rendition="#i">Wohl-Bebauter Rosen-Thal</hi></bibl>, Nuremburg 1679.
+          </note>
+          Whether or not the simile is lopsided, we will leave to rest.
           To me it appeared very ridiculous. For black notes imply a quick way of playing, signifying something cheerful rather than
           something sad. However, if the black colour merely indicates an image of misery, one should rather choose a church or another assembly
           of the clergy than a music book since there are always found more black than white clothes. I elaborate on this so that nobody thinks

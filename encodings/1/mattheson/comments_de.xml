@@ -20,7 +20,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <persName>
+          <persName xml:id="pfeffer">
             <surname>Pfeffer</surname>
             <forename>Niels</forename>
           </persName>
@@ -112,7 +112,15 @@
               <corr type="corrigenda"/>
             </choice>
             ebener maſſen in unserm Leben mehr Un-
-            <lb/>gluͤcks- als Gluͤcks-Faͤlle an. Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn;
+            <lb/>gluͤcks- als Gluͤcks-Faͤlle an.
+            <note type="editorial" resp="#pfeffer">
+              Mattheson bezieht sich vermutlich auf eine Betrachtung <persName>Samuel von Butschkys</persName>,
+              die sich als Nummer 250 mit dem Titel <hi rendition="#i">Menschliches Leben</hi> in dessen Schrift
+              <bibl>
+                <hi rendition="#i">Wohl-Bebauter Rosen-Thal</hi>, Nürnberg 1679
+              </bibl>, findet.
+            </note>
+            Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn;
             <lb/>mir iſt es ſehr laͤcherlich vorgekommen. Denn erſtlich bedeuten die ſchwartzen No-
             <lb/>ten eine geſchwinde Spiel-Art, und zeigen vielmehr etwas freudiges, als betruͤb-
             <lb/>tes, an. Sollte aber fuͤrs andere, die ſchwartze Farbe hier bloß das Bild des Elen-
