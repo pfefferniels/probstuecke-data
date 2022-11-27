@@ -6,6 +6,7 @@
             <titleStmt>
                 <title type="main">ODD file for the complete DTA 'Base Format' tagset</title>
                 <title type="sub">Version 1.1.0</title>
+                <title type="sub">Modified version for Probstücke Digital</title>
                 <editor corresp="#DTACorpusPublisher">
                     <persName ref="http://d-nb.info/gnd/115266127"><surname>Geyken</surname><forename>Alexander</forename></persName>
                     <persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName>
@@ -27,6 +28,10 @@
 	            		<resp>Format development until 2017</resp>
 	            		<persName>Matthias Boenig</persName><persName>Alexander Geyken</persName><persName>Susanne Haaf</persName><persName>Christian Thomas</persName><persName>Frank Wiegand</persName>
 	            	</respStmt>
+                    <respStmt>
+                        <resp>Modification for Probstücke Digital</resp>
+                        <persName>Niels Pfeffer</persName>
+                    </respStmt>
             </titleStmt>
             <publicationStmt>
                 <publisher xml:id="DTACorpusPublisher">
@@ -58,6 +63,61 @@
     <text>
         <front>
             <divGen type="toc"/>
+            <div>
+                <head>Guidelines for Text Encoding</head>
+                <p>
+                    All textes are provided as a diplomatic transcription, preserving original linebreaks, orthography,
+                    mistakes and other idiosyncrasies. Text portions of this edition follow the guidelines of the
+                    <ref target="http://www.deutschestextarchiv.de/doku/basisformat/introduction_en.html"> DTA ›Base Format‹ (DTABf)</ref>.
+                    Thus, only deviations from the <hi rend="italic">DTABf</hi> are specified here.
+                </p>
+            </div>
+
+            <div>
+                <head>Orthography, Line breaks</head>
+                
+                <p>
+                    All <hi rend="bold">/</hi> of the original textes are reproduced as normal commata (<hi rend="bold">,</hi>).
+                </p>
+                
+                <p>
+                    All line breaks and page breaks are preserved (this is not yet encoded in all documents). Following the
+                    TEI Guidelines, <gi>lb</gi> elements encode the beginning of a line, not line breaks, as specified by
+                    the <hi rend="italic">DTABf</hi>.
+                </p>
+            </div>
+            
+            <div>
+                <head>Musical Material</head>
+
+                <p>
+                    Musical meters and thorough-bass figures in the text are encoded using a <hi rendition="#b">/</hi>.
+                </p>
+                
+                <p>
+                    To encode musical examples in the the text, the element <gi>notatedMusic</gi> is allowed within paragraphs (<tag>p</tag>).
+                    <gi>notatedMusic</gi> must contain a <gi>ptr</gi> linking to the corresponding MEI encoding.
+                    
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <notatedMusic xml:id="music-example1" facs="#[corresponding zone in the facsimile]">
+                            <ptr target="music-example1.xml"/>
+                        </notatedMusic>
+                    </egXML>
+                </p>
+                
+                <p>
+                    When the text is referencing a particular measure, note, clef etc. of the score, a <tag>ref</tag>
+                    element should be used, with the <att>target</att> attribute pointing to the corresponding element(s) of the score.
+                </p>
+            </div>
+
+            <div>
+                <head>Editorial Notes</head>
+                
+                <p>
+                    Editorial notes (<gi>note</gi>) should indicate the responsible editor using the <att>resp</att> attribute.
+                </p>
+            </div>
         </front>
         <body>
             <p>This is the TEI Customization for the DTA 'base format', used by the DFG Project
