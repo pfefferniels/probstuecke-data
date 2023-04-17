@@ -498,9 +498,14 @@
               </staff>
               <staff xml:id="staff-0000000164967432" n="2" facs="#facsZone-staff-0000000164967432">
                 <layer xml:id="layer-0000000346625226" n="1">
-                  <orig>
+                  <choice>
+                    <orig>
                       <clef xml:id="clef-0000001728549025" line="3" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000797230462" dur="16" oct="4" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001147428950" dur="16" oct="4" pname="a" />
@@ -1071,9 +1076,12 @@
               </staff>
               <staff xml:id="staff-0000000553486794" n="2" facs="#facsZone-staff-0000000553486794">
                 <layer xml:id="layer-0000002089404158" n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#rettinghaus"></reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001725328275" dur="16" oct="3" pname="f">
                       <accid accid="s" />
@@ -1339,9 +1347,12 @@
               </staff>
               <staff xml:id="staff-0000000613511162" n="2" facs="#facsZone-staff-0000000613511162">
                 <layer xml:id="layer-0000000703129923" n="1">
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus"></reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000668731714" dots="1" dur="8" oct="2" pname="g" />
                     <note xml:id="note-0000002055803936" dots="1" dur="8" oct="3" pname="g" />

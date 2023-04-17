@@ -229,9 +229,14 @@
                     <note xml:id="note-0000000851265199" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001971619711" dur="16" oct="3" pname="e" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001412357696" dur="16" oct="3" pname="g" />
                     <note xml:id="note-0000001451627589" dur="16" oct="3" pname="b" accid.ges="f" />
@@ -273,9 +278,14 @@
                     <note xml:id="note-0000000900726208" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001465610283" dur="16" oct="3" pname="e" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000039437378" dur="16" oct="3" pname="g" />
                     <note xml:id="note-0000000968811390" dur="16" oct="3" pname="b" accid.ges="f" />
@@ -718,9 +728,14 @@
                     <note xml:id="note-0000000241215861" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000000567797640" dur="16" oct="3" pname="e" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001683226604" dur="16" oct="3" pname="g" />
                     <note xml:id="note-0000000909818214" dur="16" oct="3" pname="b" accid.ges="f" />
@@ -762,9 +777,14 @@
                     <note xml:id="note-0000000549711443" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001541407431" dur="16" oct="3" pname="e" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000002104402132" dur="16" oct="3" pname="g" />
                     <note xml:id="note-0000000166406367" dur="16" oct="3" pname="b" accid.ges="f" />
@@ -797,9 +817,12 @@
               </staff>
               <staff xml:id="staff-0000001150558137" n="2" facs="#facsZone-staff-0000001150558137">
                 <layer n="1">
-                  <orig>
-                    <clef line="3" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus"></reg>
+                    <orig>
+                      <clef line="3" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001876344539" dur="16" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="note-0000000996553199" dur="16" oct="4" pname="b" accid.ges="f" />
@@ -866,9 +889,12 @@
               </staff>
               <staff xml:id="staff-0000000415803575" n="2" facs="#facsZone-staff-0000000415803575">
                 <layer n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice >
+                    <reg resp="#rettinghaus"></reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000622672010" dur="16" oct="3" pname="a" accid.ges="f" />
                     <note xml:id="note-0000001930779016" dur="16" oct="4" pname="f" />
@@ -1101,9 +1127,14 @@
               </staff>
               <staff xml:id="staff-0000001932021181" n="2" facs="#facsZone-staff-0000001932021181">
                 <layer n="3">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef xml:id="c8rtwn4k" line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef xml:id="ck38fha6" line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <chord xml:id="chord-0000000799892042" dur="8">
                       <note xml:id="note-0000001005120802" oct="4" pname="g" />
@@ -1132,9 +1163,14 @@
                   </beam>
                 </layer>
                 <layer n="2">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef sameas="#c8rtwn4k" />
+                    </reg>
+                    <orig>
+                      <clef sameas="#ck38fha6" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000002063070205" dur="8" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="note-0000000115348771" dur="8" oct="4" pname="e" accid.ges="f" />
@@ -1265,9 +1301,14 @@
                     <note dur="16" oct="3" pname="c" stem.dir="down" />
                     <note dur="16" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note dur="16" oct="3" pname="g" stem.dir="down" />
                     <note dur="16" oct="4" pname="c" stem.dir="down" />
@@ -1884,9 +1925,14 @@
               </staff>
               <staff xml:id="staff-0000000379487370" n="2" facs="#facsZone-staff-0000000379487370">
                 <layer n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000389449612" dur="16" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="note-0000001769746036" dur="16" oct="4" pname="a" accid.ges="f" />
@@ -1936,9 +1982,14 @@
                     <note xml:id="note-0000001988067302" dur="16" oct="3" pname="c" />
                     <note xml:id="note-0000000409723298" dur="16" oct="3" pname="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000172919051" dur="16" oct="3" pname="a" accid.ges="f" />
                     <note xml:id="note-0000001178374332" dur="16" oct="4" pname="c" />
@@ -1984,9 +2035,14 @@
                     <note xml:id="note-0000000636014217" dur="16" oct="3" pname="c" />
                     <note xml:id="note-0000000025137361" dur="16" oct="3" pname="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000367229363" dur="16" oct="3" pname="a" accid.ges="f" />
                     <note xml:id="note-0000001347461961" dur="16" oct="4" pname="c" />
@@ -2703,9 +2759,14 @@
                     <note xml:id="note-0000001568070122" dur="16" oct="3" pname="f" />
                     <note xml:id="note-0000000038502506" dur="16" oct="3" pname="b" accid.ges="f" />
                   </beam>
-                  <orig>
+                  <choice>
+                    <orig>
                       <clef xml:id="clef-0000001095822996" line="3" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000000358394718" dur="16" oct="4" pname="d" />
                     <note xml:id="note-0000002019345386" dur="16" oct="4" pname="f" />
@@ -2749,9 +2810,14 @@
                     <note xml:id="note-0000000970121119" dur="16" oct="3" pname="f" />
                     <note xml:id="note-0000001270311078" dur="16" oct="3" pname="b" accid.ges="f" />
                   </beam>
-                  <orig>
+                  <choice>
+                    <orig>
                       <clef xml:id="clef-0000000393154050" line="3" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001796284965" dur="16" oct="4" pname="d" />
                     <note xml:id="note-0000001016027496" dur="16" oct="4" pname="f" />
