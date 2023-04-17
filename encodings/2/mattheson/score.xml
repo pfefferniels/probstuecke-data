@@ -1508,10 +1508,10 @@
                   <rest xml:id="m-915" dur="4" />
                   <choice>
                     <orig>
-                      <clef xml:id="discant-ref" shape="C" glyph.name="mensuralCclef" line="1" />
+                      <clef xml:id="discant-ref" line="1" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
-                      <clef xml:id="discant-reg" shape="G" line="2" />
+                      <clef xml:id="discant-reg" line="2" shape="G" />
                     </reg>
                   </choice>
                   <pb n="310" source="#secondEdition" facs="#facs-p394" />

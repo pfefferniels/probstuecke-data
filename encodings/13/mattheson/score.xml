@@ -499,7 +499,7 @@
               <staff xml:id="staff-0000000164967432" n="2" facs="#facsZone-staff-0000000164967432">
                 <layer xml:id="layer-0000000346625226" n="1">
                   <orig>
-                    <clef xml:id="clef-0000001728549025" shape="C" glyph.name="mensuralCclef" line="3" />
+                      <clef xml:id="clef-0000001728549025" line="3" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000797230462" dur="16" oct="4" pname="b" accid.ges="f" />
@@ -836,7 +836,7 @@
               <staff xml:id="staff-0000000933404617" n="2" facs="#facsZone-staff-0000000933404617">
                 <layer xml:id="layer-0000001891623984" n="1">
                   <orig>
-                    <clef xml:id="clef-0000001940010594" shape="F" line="4" />
+                    <clef xml:id="clef-0000001940010594" line="4" shape="F" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000170883754" dots="1" dur="8" oct="3" pname="b" accid.ges="f" />
