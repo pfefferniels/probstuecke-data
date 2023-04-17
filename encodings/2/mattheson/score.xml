@@ -698,7 +698,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                     </reg>
@@ -1075,7 +1075,7 @@
                   <rest xml:id="m-633" dur="4" />
                   <choice>
                     <orig>
-                      <clef line="3" shape="C" />
+                      <clef line="3" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                     </reg>
@@ -1508,7 +1508,7 @@
                   <rest xml:id="m-915" dur="4" />
                   <choice>
                     <orig>
-                      <clef xml:id="discant-ref" shape="C" line="1" />
+                      <clef xml:id="discant-ref" shape="C" glyph.name="mensuralCclef" line="1" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef xml:id="discant-reg" shape="G" line="2" />
@@ -1611,7 +1611,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="4" shape="F" />
@@ -1939,7 +1939,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />

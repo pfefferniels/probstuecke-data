@@ -1335,7 +1335,7 @@
                   <rest xml:id="rest-0000001360000666" dur="4" />
                   <choice>
                     <orig>
-                      <clef line="2" shape="C" />
+                      <clef line="2" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />

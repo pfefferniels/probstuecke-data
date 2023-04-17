@@ -194,7 +194,7 @@
               </staff>
               <staff xml:id="staff-0000001707759743" n="2" facs="#facsZone-staff-0000001707759743">
                 <layer xml:id="layer-0000000262292433" n="1">
-                  <clef line="4" shape="C" />
+                  <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   <beam xml:id="beam-0000001403948747">
                     <note xml:id="note-0000001824451800" dur="16" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000001905129810" dur="16" oct="4" pname="d" />
@@ -1287,7 +1287,7 @@
                     <note xml:id="note-0000000651121715" dur="16" oct="3" pname="b" />
                     <note xml:id="note-0000000011517842" dur="16" oct="3" pname="f" accid.ges="s" />
                   </beam>
-                  <clef line="4" shape="C" />
+                  <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   <beam xml:id="beam-0000000179600990">
                     <note xml:id="note-0000000307906662" dur="16" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000001127530067" dur="32" oct="4" pname="c" accid.ges="s" />

@@ -1020,7 +1020,7 @@
                     <note xml:id="m-564" dur="16" oct="3" pname="b" />
                     <choice>
                       <orig>
-                        <clef line="4" shape="C" />
+                        <clef line="4" shape="C" glyph.name="mensuralCclef" />
                       </orig>
                       <reg resp="#rettinghaus">
                         <clef line="2" shape="G" />

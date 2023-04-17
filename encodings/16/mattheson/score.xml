@@ -196,7 +196,7 @@
                     <note xml:id="note-0000001078772382" dur="8" oct="3" pname="g" accid.ges="f" />
                   </beam>
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001418363487" dur="16" oct="4" pname="g" accid.ges="f" />

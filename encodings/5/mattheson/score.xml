@@ -211,7 +211,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -231,7 +231,7 @@
                   </beam>
                   <choice>
                     <orig>
-                      <clef line="3" shape="C" />
+                      <clef line="3" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus"></reg>
                   </choice>
@@ -601,7 +601,7 @@
                   </beam>
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -1089,7 +1089,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="3" shape="C" />
+                      <clef line="3" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -1498,7 +1498,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef xml:id="m-551" line="3" shape="C" />
+                      <clef xml:id="m-551" line="3" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -1635,7 +1635,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="3" shape="C" />
+                      <clef line="3" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -1657,7 +1657,7 @@
                   </beam>
                   <choice>
                     <orig>
-                      <clef line="2" shape="C" />
+                      <clef line="2" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus"></reg>
                   </choice>

@@ -1097,7 +1097,7 @@
                             <staff xml:id="staff-0000001221596145" n="2">
                                 <layer>
                                     <note xml:id="note-0000001772396230" dur="4" oct="3" pname="e" />
-                                    <clef line="3" shape="C" />
+                                    <clef line="3" shape="C" glyph.name="mensuralCclef" />
                                     <note xml:id="note-0000002144499454" dur="8" oct="4" pname="g" accid.ges="s" />
                                 </layer>
                             </staff>

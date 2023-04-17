@@ -690,7 +690,7 @@
                     <note xml:id="note-0000000179873769" dur="8" oct="3" pname="b" />
                   </beam>
                   <orig>
-                    <clef xml:id="clef-0000001684749337" shape="C" line="4" />
+                    <clef xml:id="clef-0000001684749337" shape="C" glyph.name="mensuralCclef" line="4" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000191497272" dur="16" oct="3" pname="e" />
@@ -1520,7 +1520,7 @@
               <staff xml:id="staff-0000000502710151" n="2" facs="#facsZone-staff-0000000502710151">
                 <layer n="1">
                   <orig>
-                    <clef xml:id="clef-0000001541099276" shape="C" line="3" />
+                    <clef xml:id="clef-0000001541099276" shape="C" glyph.name="mensuralCclef" line="3" />
                   </orig>
                   <rest xml:id="rest-0000001623576424" dur="4" />
                   <beam>
@@ -1729,7 +1729,7 @@
                     <note xml:id="note-0000001268380927" dur="8" oct="3" pname="e" />
                   </beam>
                   <orig>
-                    <clef xml:id="clef-0000000525359677" shape="C" line="2" />
+                    <clef xml:id="clef-0000000525359677" shape="C" glyph.name="mensuralCclef" line="2" />
                   </orig>
                   <rest xml:id="rest-0000000926550948" dur="16" />
                   <beam>
@@ -1886,7 +1886,7 @@
               <staff xml:id="staff-0000001417460299" n="2" facs="#facsZone-staff-0000001417460299">
                 <layer n="1">
                   <orig>
-                    <clef xml:id="clef-0000001774202202" shape="C" line="4" />
+                    <clef xml:id="clef-0000001774202202" shape="C" glyph.name="mensuralCclef" line="4" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001333962686" dur="32" oct="4" pname="f" accid.ges="s" />

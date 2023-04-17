@@ -519,7 +519,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                       <clef line="2" shape="G" />
@@ -721,7 +721,7 @@
                     <note xml:id="m-346" dur="16" oct="4" pname="c" />
                     <choice>
                       <orig>
-                        <clef line="3" shape="C" />
+                        <clef line="3" shape="C" glyph.name="mensuralCclef" />
                       </orig>
                       <reg resp="#rettinghaus">
                       </reg>
@@ -882,7 +882,7 @@
                 <layer n="1">
                   <choice>
                     <orig>
-                      <clef line="4" shape="C" />
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
                     </orig>
                     <reg resp="#rettinghaus">
                     </reg>

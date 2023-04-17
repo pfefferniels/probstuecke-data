@@ -1267,7 +1267,7 @@
                 <layer n="1">
                   <note xml:id="note-0000001508260726" dur="4" oct="3" pname="d" accid.ges="f" />
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000196330274" dur="8" oct="4" pname="d" accid.ges="f" />
@@ -1868,7 +1868,7 @@
                 <layer n="1">
                   <note xml:id="note-0000001370691618" dur="4" oct="2" pname="a" accid.ges="f" />
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C"  glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001774752816" dur="16" oct="4" pname="f" />
@@ -2171,7 +2171,7 @@
                 <layer n="1">
                   <note xml:id="note-0000000986982561" dur="4" oct="3" pname="c" />
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000000865353781" dur="8" oct="4" pname="d" accid.ges="f" />
@@ -2319,7 +2319,7 @@
                     </sic>
                   </choice>
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam>
                     <note xml:id="note-0000001842517319" dur="8" oct="4" pname="d" accid.ges="f" />

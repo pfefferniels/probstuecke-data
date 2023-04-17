@@ -1045,7 +1045,7 @@
               </staff>
               <staff xml:id="staff-0000001714168197" n="2">
                 <layer>
-                  <clef line="4" shape="C" xml:id="clef-001" />
+                  <clef line="4" shape="C" glyph.name="mensuralCclef" xml:id="clef-001" />
                   <beam>
                     <note xml:id="note-0000001599864693" dur="8" oct="4" pname="d" accid.ges="s" />
                     <note xml:id="note-0000000472305533" dur="16" oct="4" pname="c" accid.ges="s" />

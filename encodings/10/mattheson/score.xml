@@ -422,7 +422,7 @@
               <staff xml:id="m-194" n="2" facs="#facsZone-m-194">
                 <layer xml:id="m-195" n="1">
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam xml:id="m-197">
                     <note xml:id="m-196" dur="8" oct="4" pname="f" />
@@ -602,7 +602,7 @@
               <staff xml:id="m-301" n="2" facs="#facsZone-m-301">
                 <layer xml:id="m-302" n="1">
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam xml:id="m-304">
                     <note xml:id="m-303" dur="8" oct="4" pname="c" />
@@ -1403,7 +1403,7 @@
                   </beam>
                   <note xml:id="m-812" dur="8" oct="3" pname="f" />
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam xml:id="m-813">
                     <note xml:id="m-814" dur="8" oct="4" pname="f" />
@@ -2296,7 +2296,7 @@
               <staff xml:id="m-1395" n="2" facs="#facsZone-m-1395 #facsZone-m-1395-2">
                 <layer xml:id="m-1396" n="1">
                   <orig>
-                    <clef line="4" shape="C" />
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
                   </orig>
                   <beam xml:id="m-1398">
                     <note xml:id="m-1397" dur="8" oct="3" pname="f" />
