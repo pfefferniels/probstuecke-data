@@ -537,14 +537,21 @@
         <p>
           <persName corresp="#ed_ghv_kvx_qlb">Donius</persName>
           <note n="e)" place="foot">
-            <lb />Non ſolo non baſtano le voci di queſti Inſtromenti ſpezzati, che dicono chromati-
-            <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che ſarebbe gran temeri-
-            <lb />tà di dire, che con l'iſteſſa facilità, ommodità e preſtezza ſi poſſa caminare con
-            <lb />le dite ſui taſti neri e ſpezzati, diſpoſti in una ſola taſtatura, che ſopra diverſe ta-
-            <lb />ſtature e armonie, ſecondo la noſtra inventione, ſenza mettere a conto la com-
-            <lb />modità, che ſi riceve da più ſiſtemi, di poter far ſentire gra diverſità trà gli uni-
-            <lb />ſoni ſteſſi, mediante maggiore o minore tenſione delle corde, come nelle viole e
-            <lb />ne' cembali ſ'è trattico. <persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, <bibl corresp="#ed_s4h_t1b_5lb">Annotaz. p. 6</bibl>.
+            <cit>
+              <quote xml:lang="lat">
+                <hi rendition="#aq">
+                  <lb />Non ſolo non baſtano le voci di queſti Inſtromenti ſpezzati, che dicono chromati-
+                  <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che ſarebbe gran temeri-
+                  <lb />tà di dire, che con l'iſteſſa facilità, ommodità e preſtezza ſi poſſa caminare con
+                  <lb />le dite ſui taſti neri e ſpezzati, diſpoſti in una ſola taſtatura, che ſopra diverſe ta-
+                  <lb />ſtature e armonie, ſecondo la noſtra inventione, ſenza mettere a conto la com-
+                  <lb />modità, che ſi riceve da più ſiſtemi, di poter far ſentire gra diverſità trà gli uni-
+                  <lb />ſoni ſteſſi, mediante maggiore o minore tenſione delle corde, come nelle viole e
+                  <lb />ne' cembali ſ'è trattico. 
+                </hi>
+              </quote>
+              <bibl corresp="#ed_s4h_t1b_5lb" rend="#i"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, Annotaz. p. 6.</bibl>
+            </cit>
           </note>
           ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
             <lb />matiſchen Claviere eben ſo wenig, als mit der enharmoniſchen Ein-
@@ -589,12 +596,19 @@
           <lb />dur, B moll etc. eben ſo leicht abfertigen werden, als unſere Dorff-Organiſten
           <lb />ihr C dur, welches ſchier aus der Mode zu ſeyn ſcheinet, und heutiges Tages eben
           <lb />ſo ſelten, als vormahls häuffig, angetroffen wird. Es iſt auch mit den Tonen ei-
-          <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und
-          <note n="(f)" place="foot">
-            <hi rendition="#aq"><foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere hontaux aujourd hui.
-              <hi rendition="#i"><bibl corresp="#ed_nhc_gbb_5lb">Memoir. de Buſſy, p. 105</bibl></hi>
-            </foreign></hi>
-          </note>
+          <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und <note
+              n="(f)" place="foot">
+              <hi rendition="#aq">
+                <cit>
+                  <quote xml:lang="fra">
+                    <foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere honteux aujourdhui.</foreign>
+                  </quote>
+                  <bibl corresp="#ed_nhc_gbb_5lb">
+                    <lb /><hi rendition="#i">Memoir. de Buſſy, p. 105.</hi>
+                  </bibl>
+                </cit>
+              </hi>
+            </note>
           was <date when="1631">vor hundert
             <fw place="bottom" type="catch">Jahren</fw>
             <pb n="450" />
