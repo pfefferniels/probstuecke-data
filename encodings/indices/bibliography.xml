@@ -189,6 +189,7 @@
                     <title>Antiquae musicae auctores septem</title>
                     <pubPlace>Amstelodami</pubPlace>
                     <date>1652</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10216597" />
                 </bibl>
                 <bibl xml:id="ed_m4n_mvb_5lb">
                     <author>
@@ -245,6 +246,7 @@
                     <title>Nouveau traité de l’accompagnement du clavecin, de l’orgue et des autres instruments</title>
                     <pubPlace>Paris</pubPlace>
                     <date>1707</date>
+                    <note target="https://doi.org/10.3931/e-rara-71358" />
                 </bibl>
                 <bibl xml:id="ed_h4c_wwb_5lb">
                     <author>
@@ -269,6 +271,7 @@
                     <title>Le istitutioni harmoniche</title>
                     <pubPlace>Venezia</pubPlace>
                     <date>1558</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10148103" />
                 </bibl>
             </listBibl>
         </body>
