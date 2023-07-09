@@ -1027,7 +1027,10 @@
           <lb />chen, daß ein kleiner halber Ton mehr, als drey, und weniger als vier haben ſollen,
           <lb />davon <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> und <hi rendition="#b"><persName corresp="#ed_j5y_1xy_qlb">Boethius</persName></hi>
           <note place="foot" n="d)">
-            <hi rendition="#i"><bibl>Zarl. Vol. I. pag. 169.</bibl> <bibl>Boet. Libr. III. 14 &amp; 15.</bibl></hi>
+            <hi rendition="#aq">
+              <bibl><hi rendition="#i">Zarl. Vol. I. pag.</hi> 169.</bibl>
+              <bibl><hi rendition="#i">Boet. Libr. III.</hi> 14 &amp; 15.</bibl>
+            </hi>
           </note>
           geleſen werden können. Alſo muß man aus die-
           <lb />ſer Vorbildung nichts genaues, oder nach der Algebra abgemeſſenes machen.
@@ -1073,7 +1076,9 @@
 
           <lb />kleine Glieder eintheilte, ob wol der erſte
           <note place="foot" n="e)">
-            <hi rendition="#i">Zarl. <bibl corresp="#ed_mgq_2wb_5lb">Volum. I. Inſtit. harmon.</bibl> pag. 172.</hi>
+            <hi rendition="#aq">
+              <bibl corresp="#ed_mgq_2wb_5lb"><hi rendition="#i">Zarl.</hi> Volum. I. Inſtit. harmon. pag. 172.</bibl>
+            </hi>
           </note>
           ein ſo genannte <hi rendition="#aq">Grauecembalum</hi> vor-
           <lb />ſtellig macht und abmahlet, daß er ſich Anno <hi rendition="#aq"><date when="1548">1548.</date></hi> zu
@@ -1099,7 +1104,9 @@
          <p>
            <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, wenn er von dem enharmoniſchen Geſchlecht
            <note place="foot" n="f)">
-             <bibl corresp="#ed_h4c_wwb_5lb">de Mus. Libr. III.</bibl> cap. 8. pag. 127. 127.
+            <hi rendition="#aq">
+              <bibl corresp="#ed_h4c_wwb_5lb">de Muſ. Libr. III. cap. 8. pag. 126. 127.</bibl>
+            </hi>
            </note>
            handelt, auch
            <lb />Meſſen, Motetten und Madrigalen anführet, die in ſolchem Geſchlecht wircklich,
@@ -1112,7 +1119,9 @@
            <lb />niſchen</persName> einerley, oder von demſelben noch unterſchieden ſey. Des <persName corresp="#ed_rpk_l2y_qlb">Salins</persName> Mey-
            <lb />nung geht ſonſt dahin,
            <note place="foot" n="g)">
-             <abbr>Vid.</abbr> <abbr>ej.</abbr> <bibl corresp="#ed_h4c_wwb_5lb">Lib. III. de Mus. cap. 27. pag. 166. circa med.</bibl>
+              <hi rendition="#aq">
+                <abbr>Vid.</abbr> <choice><abbr>ej.</abbr><expan>ejusdem</expan></choice> <bibl corresp="#ed_h4c_wwb_5lb">Lib. III. de Muſ. cap. 27. pag. 166. circa med.</bibl>
+              </hi>
            </note>
            daß man der andern Subſemitonen, wie ſie mit Unfug
            <lb />und auf verderbte Art genennet werden, gar wol entbehren könne; allein, zwe-
