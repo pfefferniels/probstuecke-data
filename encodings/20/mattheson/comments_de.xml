@@ -240,13 +240,13 @@
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Daß dieſer Ton in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
           <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">
-          <quote xml:id="lambert-quote" corresp="#lambert-translation">
+          <quote xml:id="lambert-quote" corresp="#lambert-translation" xml:lang="fra">
             Le B Fa Si Beccarre etant un Ton, ſur lequel on compoſe rarement, il n'y a point
             <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.
           </quote></foreign>
           <bibl corresp="#ed_hfr_2cl_tlb">
             <hi rendition="#i"><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>,
-            Traité de l'Accompagnement</hi>, p.27.
+            Traité de l'Accompagnement</hi>, <hi rendition="#i">p.</hi>27.
           </bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <hi rendition="#b">
           <quote xml:id="lambert-translation" type="translation" corresp="#lambert-quote">
             H iſt ein Ton, aus wel-
@@ -255,7 +255,7 @@
             <lb/>ſeyn.
           </quote></hi>
           Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben
-          <lb/>auch die Gruͤnde deſſen im <bibl corresp="#ed_y43_m2l_tlb">Orcheſter zweiter Eroͤffnung</bibl> ſchon gewiſen. Und daß die-
+          <lb/>auch die Gruͤnde deſſen im <bibl corresp="#ed_y43_m2l_tlb">Orcheſter zweiter Eroͤffnung</bibl> ſchon gewieſen. Und daß die-
           <lb/>ſer Ton bey uns nichts rares ſey, zeigen unzehliche taͤglich vorfallende Exempel. Es
           <lb/>gibt Sachen mit Trompeten und Paucken aus dem <hi rendition="#b">H mol</hi>, welches manchem
           <lb/>wunderlich vorkommen duͤrffte; Sollte er aber den ſonſt beweglichen Choral: <hi rendition="#b">Ach

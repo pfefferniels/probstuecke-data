@@ -6,8 +6,7 @@
                 <title>Bibliography</title>
             </titleStmt>
             <publicationStmt>
-                <p>
-                </p>
+                <p />
             </publicationStmt>
             <sourceDesc>
                 <p>
@@ -16,7 +15,6 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-
     <text>
         <body>
             <listBibl>
@@ -47,14 +45,16 @@
                     <title>Dictionnaire de musique</title>
                     <pubPlace>Paris</pubPlace>
                     <date>1703</date>
+                    <note target="https://gallica.bnf.fr/ark:/12148/btv1b8623304q" />
                 </bibl>
                 <bibl xml:id="ed_nhc_gbb_5lb">
                     <author>
                         <persName><surname>Bussy-Rabutin</surname><forename>Roger de</forename></persName>
                     </author>
-                    <title>Les memoires De Messire Roger De Rabutin, Comte De Bussy</title>
-                    <pubPlace>Paris</pubPlace>
-                    <date>1696</date>
+                    <title>Les Mémoires: Oeuvres mêlées de Messire Roger de Rabutin Comte de Bussy, Vol. 3</title>
+                    <pubPlace>Amsterdam</pubPlace>
+                    <date>1711</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10720258" />
                 </bibl>
                 <bibl xml:id="ed_s4h_t1b_5lb">
                     <author>
@@ -63,14 +63,16 @@
                     <title>Annotazioni sopra il Compendio de’ generi, e de’ modi della musica</title>
                     <pubPlace>Rome</pubPlace>
                     <date>1640</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb00094283" />
                 </bibl>
                 <bibl xml:id="ed_i1b_lfl_tlb">
                     <author>
                         <persName><surname>Doni</surname><forename>Giovanni</forename></persName>
                     </author>
                     <title>De praestantia musicae veteris libri tres</title>
-                    <pubPlace>Firenze</pubPlace>
+                    <pubPlace>Florentina</pubPlace>
                     <date>1647</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10527146" />
                 </bibl>
                 <bibl xml:id="ed_ihc_fxb_5lb">
                     <author>
@@ -152,9 +154,10 @@
                     <author>
                         <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
                     </author>
-                    <title>Das beschützte Orchestre</title>
+                    <title>Das Beschützte Orchestre, oder desselben Zweyte Eröffnung</title>
                     <pubPlace>Hamburg</pubPlace>
                     <date>1717</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10599042" />
                 </bibl>
                 <bibl xml:id="ed_bm4_fhl_tlb">
                     <author>
@@ -163,6 +166,7 @@
                     <title>Das neu-eröffnete Orchestre</title>
                     <pubPlace>Hamburg</pubPlace>
                     <date>1713</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10599041" />
                 </bibl>
                 <bibl xml:id="ed_ay3_5w1_5lb">
                     <author>
@@ -187,6 +191,7 @@
                     <title>Antiquae musicae auctores septem</title>
                     <pubPlace>Amstelodami</pubPlace>
                     <date>1652</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10216597" />
                 </bibl>
                 <bibl xml:id="ed_m4n_mvb_5lb">
                     <author>
@@ -243,6 +248,7 @@
                     <title>Nouveau traité de l’accompagnement du clavecin, de l’orgue et des autres instruments</title>
                     <pubPlace>Paris</pubPlace>
                     <date>1707</date>
+                    <note target="https://doi.org/10.3931/e-rara-71358" />
                 </bibl>
                 <bibl xml:id="ed_h4c_wwb_5lb">
                     <author>
@@ -251,6 +257,7 @@
                     <title>De Musica libri Septem</title>
                     <pubPlace>Salamanca</pubPlace>
                     <date>1577</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10148098" />
                 </bibl>
                 <bibl xml:id="ed_dbx_tvb_5lb">
                     <author>
@@ -267,6 +274,7 @@
                     <title>Le istitutioni harmoniche</title>
                     <pubPlace>Venezia</pubPlace>
                     <date>1558</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10148103" />
                 </bibl>
             </listBibl>
         </body>
