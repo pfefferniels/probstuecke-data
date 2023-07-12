@@ -187,17 +187,17 @@
           <lb />Ich könnte wol den weiſen <persName corresp="#ed_mnv_cks_tlb">Horatianiſchen</persName> Spruch:
           <lb />
           <note n="*)" place="foot">
-            <persName corresp="#ed_mnv_cks_tlb">Hor.</persName> <bibl corresp="#ed_hgg_fw1_5lb">de Art. Poet.</bibl> V. 306.
-            Es hatte nehmlich Horatius nie ein theatraliſches oder epiſches Ge-
+            <bibl corresp="#ed_hgg_fw1_5lb">Hor. de Art. Poet.</bibl> V. 306.
+            Es hatte nehmlich <persName corresp="#ed_mnv_cks_tlb">Horatius</persName> nie ein theatraliſches oder epiſches Ge-
             <lb />dicht geſchrieben, und gab doch Regeln davon, die biß auf den heutigen Tag hochgeachtet
             <lb />werden.
           </note>
           <hi rendition="#aq">
-            <quote>Munus &amp; officium, nil ſcribens, ipſe docebo</quote>,
+            <quote xml:id="horaz-quote" corresp="#horaz-quote-trans" xml:lang="lat">Munus &amp; officium, nil ſcribens, ipſe docebo</quote>,
           </hi>
           folgender Geſtalt verteutſchen und ſagen:
           <hi rendition="#b">
-            <quote>Laß ich mich ſelber gleich nicht mehr mit Spielen Horen;
+            <quote xml:id="horaz-quote-trans" corresp="#horaz-quote">Laß ich mich ſelber gleich nicht mehr mit Spielen Horen;
               So kann ich andre doch den General-Baß lehren.</quote>
           </hi>
           <fw place="bottom" type="catch">Da.</fw>
@@ -249,7 +249,7 @@
           Lob-Gedicht
           <note type="editorial" resp="#pfeffer">
             zu jenem Lobgedicht hat Mattheson die Worte
-            <quote xml:id="mattheson-quote" corresp="#mattheson-quote-trans">
+            <quote xml:id="mattheson-quote" corresp="#mattheson-quote-trans" xml:lang="lat">
               "–.– rumpantur ut ilia Hancken"
             </quote>
             (<quote type="translation" xml:id="mattheson-quote-trans" corresp="#mattheson-quote">
@@ -537,21 +537,19 @@
         <p>
           <persName corresp="#ed_ghv_kvx_qlb">Donius</persName>
           <note n="e)" place="foot">
-            <cit>
-              <quote xml:lang="lat">
-                <hi rendition="#aq">
-                  <lb />Non ſolo non baſtano le voci di queſti Inſtromenti ſpezzati, che dicono chromati-
-                  <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che ſarebbe gran temeri-
-                  <lb />tà di dire, che con l'iſteſſa facilità, ommodità e preſtezza ſi poſſa caminare con
-                  <lb />le dite ſui taſti neri e ſpezzati, diſpoſti in una ſola taſtatura, che ſopra diverſe ta-
-                  <lb />ſtature e armonie, ſecondo la noſtra inventione, ſenza mettere a conto la com-
-                  <lb />modità, che ſi riceve da più ſiſtemi, di poter far ſentire gra diverſità trà gli uni-
-                  <lb />ſoni ſteſſi, mediante maggiore o minore tenſione delle corde, come nelle viole e
-                  <lb />ne' cembali ſ'è trattico. 
-                </hi>
-              </quote>
-              <bibl corresp="#ed_s4h_t1b_5lb" rend="#i"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, Annotaz. p. 6.</bibl>
-            </cit>
+            <quote xml:lang="lat">
+              <hi rendition="#aq">
+                <lb />Non ſolo non baſtano le voci di queſti Inſtromenti ſpezzati, che dicono chromati-
+                <lb />ci, màne meno di quelli che dicono enarmonici. Oltre che ſarebbe gran temeri-
+                <lb />tà di dire, che con l'iſteſſa facilità, ommodità e preſtezza ſi poſſa caminare con
+                <lb />le dite ſui taſti neri e ſpezzati, diſpoſti in una ſola taſtatura, che ſopra diverſe ta-
+                <lb />ſtature e armonie, ſecondo la noſtra inventione, ſenza mettere a conto la com-
+                <lb />modità, che ſi riceve da più ſiſtemi, di poter far ſentire gra diverſità trà gli uni-
+                <lb />ſoni ſteſſi, mediante maggiore o minore tenſione delle corde, come nelle viole e
+                <lb />ne' cembali ſ'è trattico. 
+              </hi>
+            </quote>
+            <bibl corresp="#ed_s4h_t1b_5lb" rend="#i"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, Annotaz. p. 6.</bibl>
           </note>
           ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
             <lb />matiſchen Claviere eben ſo wenig, als mit der enharmoniſchen Ein-
@@ -599,14 +597,12 @@
           <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und <note
               n="(f)" place="foot">
               <hi rendition="#aq">
-                <cit>
-                  <quote xml:lang="fra">
-                    <foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere honteux aujourdhui.</foreign>
-                  </quote>
-                  <bibl corresp="#ed_nhc_gbb_5lb">
-                    <lb /><hi rendition="#i">Memoir. de Buſſy, p. 105.</hi>
-                  </bibl>
-                </cit>
+                <quote xml:lang="fra">
+                  <foreign xml:lang="fra">Ce qui faiſoit honneur il ya cent ans, eſt en quelque maniere honteux aujourdhui.</foreign>
+                </quote>
+                <bibl corresp="#ed_nhc_gbb_5lb">
+                  <lb /><hi rendition="#i">Memoir. de Buſſy, p. 105.</hi>
+                </bibl>
               </hi>
             </note>
           was <date when="1631">vor hundert
@@ -685,7 +681,7 @@
         <p>
           Es ſind aber des <persName corresp="#ed_tj3_cwx_qlb">Herrn Marcello</persName>
           <note n="h)" place="foot">
-            <quote xml:id="marcello-quote" corresp="marcello-quote-trans">
+            <quote xml:id="marcello-quote" corresp="marcello-quote-trans" xml:lang="ita">
               Affine che creſcano alcune corde d'un intero tuono, dove non ſieno obligati gli
               <lb />accidenti maggiori alla chiave, ſi ſono apoſti due ## chromatici, non uſandoſi
               <lb />mai per cotal effetto nel preſente lavoro l'erharmonico x dieſis, ſiccome in ſimile
@@ -868,7 +864,7 @@
           <lb />Zeichen. Wegen des erſten ſchreibt ein Frantzösiſcher
           <note n="*)" place="foot">
             <hi rendition="#aq"><foreign xml:lang="fra">
-              <quote xml:id="brossard-quote" corresp="#corresp-translation">
+              <quote xml:id="brossard-quote" corresp="#corresp-quote-trans" xml:lang="fra">
                 <hi rendition="#i">Quadrato:</hi> c'eſt l'epithete qu'on donne au b, quand il eſt ſigne diatonique, ou na-
                 <lb />turel, &amp; figurè ainſi <hi rendition="#i">h</hi>, &amp; pour lors ſon effet eſt de remettre les corde alterées
                 <lb />par le dieze ou par le <hi rendition="#i">b</hi> mol, dans leur ſituation naturelle, &amp; de deſcendre d'un demi-
@@ -878,7 +874,7 @@
             <lb /><hi rendition="#i"><persName corresp="#ed_xbw_55b_5lb">Rouſſeau</persName>, dans ſa <bibl corresp="#ed_dyl_r5b_5lb">Methode pour chanter</bibl>, p. 77.</hi></foreign></hi>
           </note>
           Verfaſſer alſo:
-          <quote type="translation" xml:id="brossard-translation" corresp="#brossard-quote">
+          <quote type="translation" xml:id="brossard-quote-trans" corresp="#brossard-quote">
             Man le-
             <lb />get dem h das Beiwort, viereckigt, zu, wenn es ein diatoniſches Zeichen iſt;
             <lb />und als denn hat es die Wirckung, daß es die Saiten oder Klänge, welche durch
@@ -969,7 +965,7 @@
           <note place="foot" n="a)">
             <hi rendition="#aq">
               <foreign xml:lang="lat">
-                <quote xml:id="morhof-quote" corresp="#morhof-translation">
+                <quote xml:id="morhof-quote" corresp="#morhof-quote-trans" xml:lang="lat">
                   Quod ſi forte erunt, qui has minutias contemnendas judicauerint, illi ſciant, nihil
                   minutum aut leue eſſe, quod cum juuentutis commodo cunjunctum eſt.
                 </quote>
@@ -979,7 +975,7 @@
             </hi>
           </note>
           groſſen Mann:
-          <quote type="translation" corresp="#morhof-quote" xml:id="morhof-translation">
+          <quote type="translation" corresp="#morhof-quote" xml:id="morhof-quote-trans">
             <hi rendition="#b">Sollten ſich Leute finden,
             <lb /> die ſolche Kleinigkeiten für verächtlich hielten; ſo mögen ſie wol wiſ-
             <lb />ſen, daß nichts klein oder geringe ſeyn könne, welches mit dem Vor-
@@ -1130,7 +1126,7 @@
            <note place="foot" n="h)">
              <hi rendition="#aq">
                <foreign xml:lang="lat">
-                 <quote xml:id="salin-quote" corresp="#salin-translation">
+                 <quote xml:id="salin-quote" corresp="#salin-quote-trans" xml:lang="lat">
                    Quod nunc Inſtrumentorum defectui meritò adſcribitur, tunc ipſius Organiſtae cul-
                    <lb />pae tribueter.
                  </quote>
@@ -1140,7 +1136,7 @@
            </note>
            ſpricht,
            <hi rendition="#b">
-             <quote type="translation" xml:id="salin-translation" corresp="#salin-quote">
+             <quote type="translation" xml:id="salin-quote-trans" corresp="#salin-quote">
                was dem
                <lb />Mangel des Jnſtruments anjetzo mit Recht beigelegt wird, alsdenn
                <lb />dem Organiſten zur Schuld gereiche, wenns nicht rein klingt.
@@ -1207,14 +1203,12 @@
           <lb />denn der offt gedachte <persName corresp="#ed_rtv_wrx_qlb">Henfling</persName>
           <note place="foot" n="(n)">
             <hi rendition="#aq">
-              <foreign xml:lang="lat">
-                <quote>
-                  Nec illi, qui duodecimam commatis partem ab hypate quavis ſubducunt, diapaſon
-                  <lb />claudere queunt, qui, ſi inſtituto ſuo recte inhaereant, ultra illud quintate
-                  <figure></figure>
-                  <lb />progrediuntur. <bibl corresp="#ed_wnr_txb_5lb">Miſcell. Berol.</bibl> Vol. I., p. 287.
-                </quote>
-              </foreign>
+              <quote xml:lang="lat">
+                Nec illi, qui duodecimam commatis partem ab hypate quavis ſubducunt, diapaſon
+                <lb />claudere queunt, qui, ſi inſtituto ſuo recte inhaereant, ultra illud quintate
+                <figure></figure>
+                <lb />progrediuntur. <bibl corresp="#ed_wnr_txb_5lb">Miſcell. Berol. Vol. I., p. 287.</bibl>
+              </quote>
             </hi>
           </note>
           ſchon vor vielen Jahren dargethan hat, daß die-

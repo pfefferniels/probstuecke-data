@@ -93,7 +93,7 @@
           <lb/><hi rendition="#aq"><persName corresp="#ed_dwf_j5x_qlb">Monſr. de St. Lambert</persName></hi>
           ſagt <hi rendition="#aq">pag. 27.</hi> ſeines Tractats, von diesem Ton:
 
-          <quote xml:id="lambert-quote" corresp="#lambert-quote-trans">
+          <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
             <hi rendition="#aq">Que le
             <lb/>G Re ſol n'a point de modulation qui lui ſoit plus naturelle
             que l'autre, &amp; qu'on
