@@ -86,7 +86,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p502">
           <graphic width="1998px" height="2426px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502"/>
-          <zone ulx="90" uly="185" lrx="440" xml:id="facsZone-p2-1-2"/>
+          <zone ulx="90" uly="185" lry="440" lrx="1941" xml:id="facsZone-p2-1-2"/>
           <zone ulx="93" uly="407" lry="760" lrx="1941" xml:id="facsZone-p3-1"/>
           <zone ulx="102" uly="737" lry="1057" lrx="1938" xml:id="facsZone-music-example3"/>
           <zone ulx="711" uly="1586" lry="1849" lrx="1359" xml:id="facsZone-music-example4"/>
