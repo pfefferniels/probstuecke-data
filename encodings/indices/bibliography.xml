@@ -32,6 +32,9 @@
                     </editor>
                     <title>Critica Musica</title>
                 </bibl>
+                <bibl type="journal" xml:id="ed_ne8-ak3-gpr">
+                    <title>Histoire des Ouvrages des Savans</title>
+                </bibl>
                 <bibl type="journal" xml:id="ed_wnr_txb_5lb">
                     <title>Miscellanea Berolinensia</title>
                 </bibl>
