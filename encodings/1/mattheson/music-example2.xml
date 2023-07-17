@@ -29,7 +29,7 @@
     </meiHead>
     <music>
         <body>
-            <mdiv label="Example 1">
+            <mdiv label="Example 2">
                 <score>
                     <scoreDef key.pname="d" key.mode="minor" meter.unit="4" mnum.visible="false">
                         <staffGrp>
