@@ -129,6 +129,11 @@
           When the text is referencing a particular measure, note, clef etc. of the score, a <tag>ref</tag>
           element should be used, with the <code>@target</code> attribute pointing to the corresponding element(s) of the score.
         </p>
+
+        <p>
+          Foreign words in the continuous text are marked with the <tag>foreign</tag> tag,
+          while foreign-language quotations are marked only with the corresponding attribute on the <tag>quote</tag> tag.
+        </p>
       </div>
     </body>
   </text>
