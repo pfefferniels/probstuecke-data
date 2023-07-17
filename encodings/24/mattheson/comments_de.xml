@@ -1062,7 +1062,7 @@
         <p>
           <lb /><hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi>
           <note place="foot" n="*)">
-            Siehe was unſere Vorbereitung p. 4. und das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrte Lexicon</bibl> p. 1602. von dieſem Mann
+            Siehe was unſere Vorbereitung p. 4. und das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrte Lexicon p. 1602.</bibl><note type="editorial" resp="#rettinghaus">Bd. 2, Sp. 1975.</note> von dieſem Mann
             <lb />ſagen. Er war Capellmeiſter der <placeName ref="https://www.geonames.org/3164603">Republick Venedig</placeName>.
           </note>
           und <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, zween der beſten muſicaliſchen Scribenten, hiel-
@@ -1159,7 +1159,7 @@
            <lb />und das <date>77. Jahr ſeines Alters erreicht hat.</date>
            <note n="i)" place="foot">
              Siehe die Vorbereitung, oder erſte Claſſe dieſes Wercks p. 4., ingleichen das <bibl corresp="#ed_vtr_vzb_5lb">Gelehrten-Lexi-
-             <lb />con, p. 886.</bibl>
+             <lb />con, p. 886.</bibl><note type="editorial" resp="#rettinghaus">Bd. 2, Sp. 995.</note>
            </note>
          </p>
       </div>
