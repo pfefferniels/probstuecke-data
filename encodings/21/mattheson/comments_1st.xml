@@ -73,9 +73,32 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1950" lry="2364" xml:id="facs-p433">
+      <graphic width="1951px" height="2365px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/433" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1971" lry="2375" xml:id="facs-p434">
+      <graphic width="1972px" height="2376px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/434" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1976" lry="2362" xml:id="facs-p435">
+      <graphic width="1977px" height="2363px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/435" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1996" lry="2359" xml:id="facs-p436">
+      <graphic width="1997px" height="2360px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/436" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1973" lry="2366" xml:id="facs-p437">
+      <graphic width="1974px" height="2367px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/437" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1970" lry="2356" xml:id="facs-p438">
+      <graphic width="1971px" height="2357px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/438" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1970" lry="2367" xml:id="facs-p439">
+      <graphic width="1971px" height="2368px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/439" />
+    </surface>
+  </facsimile>
   <text>
     <body>
-      <pb n="217" />
+      <pb facs="#facs-p437" n="217" />
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
       <div n="1">
@@ -125,7 +148,7 @@
       </div>
 
       <fw place="bottom" type="catch">Bey</fw>
-      <pb n="218" />
+      <pb facs="#facs-p438" n="218" />
 
       <div n="4">
         <head>§. 4.</head>
@@ -163,7 +186,7 @@
           <lb />mahl herſetzen:
         </p>
         <fw place="bottom" type="catch">Wenn</fw>
-        <pb n="219" />
+        <pb facs="#facs-p439" n="219" />
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
           <ptr target="music-example4.xml"/>
         </notatedMusic>
