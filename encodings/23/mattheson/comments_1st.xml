@@ -73,6 +73,20 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1960" lry="2354" xml:id="facs-p226">
+      <graphic width="1961px" height="2355px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1978" lry="2376" xml:id="facs-p227">
+      <graphic width="1979px" height="2377px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1942" lry="2360" xml:id="facs-p228">
+      <graphic width="1943px" height="2361px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/450" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1965" lry="2360" xml:id="facs-p229">
+      <graphic width="1966px" height="2361px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/451" />
+    </surface>
+</facsimile>
   <text>
     <body>
       <div>
@@ -85,7 +99,7 @@
         </p>
       </div>
 
-      <pb n="228" />
+      <pb facs="#facs-p228" n="228" />
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
       <div n="1">
@@ -124,12 +138,12 @@
         </p>
       </div>
       <fw type="catch" place="bottom">Erſt-</fw>
-      <pb n="239" />
+      <pb facs="#facs-p229" n="229" />
 
       <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
-          <!-- no pagebreak after head -->
+            <!-- no pagebreak after head -->
           Erſtlich iſt das <hi rendition="#b">Prob-Stu&#x0364;ck</hi>, wenn es ſoll <ref target="#tempo-001"><hi rendition="#aq">preſto aſſai</hi></ref> und reine dabey
           <lb /> geſpielet werden, nicht von der Art, daß es auf einmahl ko&#x0364;nne vollkommen her-
           <lb />auskommen, ſondern es braucht einer zu ſolchem Sprunge wohl mehr, als einen Zu-
@@ -137,7 +151,7 @@
           <lb />der Probe ſtehenden ein groſſer Troſt, wenn ich nicht nur zu dir, wie der Soldat
           <lb />(<hi rendition="#aq"><foreign xml:lang="fra">ſans comparaiſon</foreign></hi>) zum Generalen ſage: <hi rendition="#aq"><foreign xml:lang="fra">Je te le donne en quattre,</foreign></hi>, ich will dichs
           <lb />gerne viermahl durchſpielen laſſen, ehe es recht gelten ſoll; ſondern, <hi rendition="#aq"><foreign xml:lang="fra">Je te le donne en
-          <lb />ſix</foreign></hi>, ich ge>be dirs wol ſechs und mehrmahl frey. Siehe, den Troſt haſt du aus der
+          <lb />ſix</foreign></hi>, ich gebe dirs wol ſechs und mehrmahl frey. Siehe, den Troſt haſt du aus der
           <lb /><hi rendition="#aq">Application</hi> meiner kleinen Geſchichte. Drittens folget ja nothwendig daraus,
           <lb />wenn man dir Zeit la&#x0364;ſſt, das Stu&#x0364;ck vier- bis ſechsmahl u&#x0364;ber zu ſpielen, daß
           <lb />durch dieſe <hi rendition="#aq">Praxin</hi> dir eine groſſe Erla&#x0364;uterung daru&#x0364;ber wird zuwachſen. Und
@@ -148,7 +162,7 @@
       <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
-          <!-- no pagebreak after head -->
+            <!-- no pagebreak after head -->
           Nun thue dein beſtes, und laß dich ho&#x0364;ren; ich verlange nicht, daß die
           <lb />rechte Hand das geringſte (auſſer ein paar Tertien dann und wann) machen
           <lb />ſoll, es wird auch keine Zeit dazu ſeyn, wenn das <hi rendition="#aq">preſto aſſai</hi> wol in acht genom<supplied resp="#pfeffer">-</supplied>
@@ -169,7 +183,7 @@
       <div n="5">
         <lb /><head>§. 5.</head>
         <p xml:id="p5-1">
-          <!-- no pagebreak after head -->
+            <!-- no pagebreak after head -->
           Wie dieſer Ton, <hi rendition="#aq">Cis moll</hi>, gar offt <hi rendition="#aq">affinaliter</hi> (des <hi rendition="#aq">Recitativi</hi> zu geſchwei-
           <lb />gen) in den kleineſten <hi rendition="#aq">Ariet</hi>ten vorkomme, kan man inſonderheit aus <persName ref="http://d-nb.info/gnd/118560999">Herrn <hi rendition="#b">Kei-
           <lb />ſers</hi></persName> <name type="musicalWork" corresp="#ed_sbs_x2c_tlb">Erleſenen Sa&#x0364;tzen</name> <hi rendition="#aq">p. 67. f.</hi> ingleichen aus deſſelben <name type="musicalWork" corresp="#ed_qdl_mrc_tlb"><hi rendition="#b">Erlo&#x0364;sungs-Gedan-
