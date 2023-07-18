@@ -74,28 +74,28 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1991" lry="2371" xml:id="facs-p220">
+    <surface ulx="0" uly="0" lrx="1991" lry="2371" xml:id="facs-p440">
       <graphic width="1992px" height="2372px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/440" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1935" lry="2383" xml:id="facs-p221">
+    <surface ulx="0" uly="0" lrx="1935" lry="2383" xml:id="facs-p441">
       <graphic width="1936px" height="2384px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/441" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1937" lry="2358" xml:id="facs-p222">
+    <surface ulx="0" uly="0" lrx="1937" lry="2358" xml:id="facs-p442">
       <graphic width="1938px" height="2359px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/442" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1966" lry="2357" xml:id="facs-p223">
+    <surface ulx="0" uly="0" lrx="1966" lry="2357" xml:id="facs-p443">
       <graphic width="1967px" height="2358px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/443" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1984" lry="2361" xml:id="facs-p224">
+    <surface ulx="0" uly="0" lrx="1984" lry="2361" xml:id="facs-p444">
       <graphic width="1985px" height="2362px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/444" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1972" lry="2359" xml:id="facs-p225">
+    <surface ulx="0" uly="0" lrx="1972" lry="2359" xml:id="facs-p445">
       <graphic width="1973px" height="2360px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/445" />
     </surface>
   </facsimile>
   <text>
     <body>
-      <pb facs="#facs-p223" n="223" />
+      <pb facs="#facs-p443" n="223" />
 
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
@@ -139,14 +139,14 @@
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
           </notatedMusic>
-          <pb facs="#facs-p224" n="224" />
+          <pb facs="#facs-p444" n="224" />
           <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollstimmigkeit des Baſſes
           <lb />und Beobachtung der <hi rendition="#aq">Signaturen</hi> in der lincken Hand keines weges ausge-
           <lb />ſetzet werden.
         </p>
       </div>
 
-      <pb facs="#facs-p224" n="224" />
+      <pb facs="#facs-p444" n="224" />
 
       <div n="3">
         <lb /><head>§. 3.</head>
@@ -170,7 +170,7 @@
           <notatedMusic xml:id="music-example3">
             <ptr target="music-example3.xml" />
           </notatedMusic>
-          <!--<pb facs="#facs-p225" n="225" />-->
+          <!--<pb facs="#facs-p445" n="225" />-->
         </p>
       </div>
 

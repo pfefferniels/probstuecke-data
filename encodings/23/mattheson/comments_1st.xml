@@ -74,16 +74,16 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1960" lry="2354" xml:id="facs-p226">
+    <surface ulx="0" uly="0" lrx="1960" lry="2354" xml:id="facs-p446">
       <graphic width="1961px" height="2355px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1978" lry="2376" xml:id="facs-p227">
+    <surface ulx="0" uly="0" lrx="1978" lry="2376" xml:id="facs-p447">
       <graphic width="1979px" height="2377px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1942" lry="2360" xml:id="facs-p228">
+    <surface ulx="0" uly="0" lrx="1942" lry="2360" xml:id="facs-p450">
       <graphic width="1943px" height="2361px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/450" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1965" lry="2360" xml:id="facs-p229">
+    <surface ulx="0" uly="0" lrx="1965" lry="2360" xml:id="facs-p451">
       <graphic width="1966px" height="2361px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/451" />
     </surface>
 </facsimile>
@@ -99,7 +99,7 @@
         </p>
       </div>
 
-      <pb facs="#facs-p228" n="228" />
+      <pb facs="#facs-p450" n="228" />
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
       <div n="1">
@@ -138,7 +138,7 @@
         </p>
       </div>
       <fw type="catch" place="bottom">Erſt-</fw>
-      <pb facs="#facs-p229" n="229" />
+      <pb facs="#facs-p451" n="229" />
 
       <div n="3">
         <lb /><head>§. 3.</head>
