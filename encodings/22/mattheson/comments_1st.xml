@@ -89,6 +89,9 @@
     <surface ulx="0" uly="0" lrx="1984" lry="2361" xml:id="facs-p224">
       <graphic width="1985px" height="2362px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/444" />
     </surface>
+    <surface ulx="0" uly="0" lrx="1972" lry="2359" xml:id="facs-p225">
+      <graphic width="1973px" height="2360px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/445" />
+    </surface>
   </facsimile>
   <text>
     <body>
@@ -167,6 +170,31 @@
           <notatedMusic xml:id="music-example3">
             <ptr target="music-example3.xml" />
           </notatedMusic>
+          <!--<pb facs="#facs-p225" n="225" />-->
+        </p>
+      </div>
+
+      <div n="3">
+        <lb /><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb />Ich wiederhole nochmahls, daß es keine <hi rendition="#aq">Sanctio pragmatica</hi> ſen, eben
+          <lb />dieſe Noten, ſo wie hier ſtehen, an bemeldten Oertern zu ſpielen; denn es wird
+          <lb />unmüglich ſeyn, daß einer unter hundert es juſt ſo treffe. Es iſt alles nur zur
+          <lb />Nachricht hingeſetzet worden, und wer ſich der Probe unternimmt, kan ſchon
+          <lb />etwas beffers <hi rendition="#aq">extemporifiren</hi>, anbey dadurch zu erkennen geben, daß die Sel-
+          <lb />tenheit des Tons ſeinen Geiſt nicht feſſelt, ſondern, daß er, derfelben ungeachtet,
+          <lb />freye <hi rendition="#aq">Fantaiſie</hi> habe, und nach Gefallen mit dem Clavier ſchalten könne. Wenn
+          <lb />felbiges reine geftimmet iſt, ſo wird es ſchon gut aus dem <hi rendition="#aq">Fis dur</hi> klingen, da-
+          <lb />fern ein <hi rendition="#aq">habiler</hi> Meiſter darüber kömmt; ſtimmt das Inſtrument aber nicht/
+          <lb />ſo kan es auch aus dem gemeinſten Straſſen-Ton nicht gut klingen, und wenn ein
+          <lb /><hi rendition="#aq">Orpheus</hi> ſelber ſpielte. Gibt ſich inzwiſchen einer für Meiſter aus, ſo muß er
+          <lb />hier <hi rendition="#aq">extemporifiren</hi> können; denn ſolche Leute, hauptsächlich unter den Organi-
+          <lb />ſten, zu prüfen, iſt hier der erſte und fürnehmſte Zweck; dahingegen der Un-
+          <lb />terricht nur beyläuffig gehandelt und <hi rendition="#aq">ſecundo loco</hi> geſetzt wird. Es kan und mag
+          <lb />zwar ein jeder, wie in der Vorbereitung geſagt worden, ſich ohne Zeugen ſelbſt prü-
+          <lb />fen; aber weil uns doch die Eigen-Liebe gar zu ſehr anhängt, und man gerne mit
+          <lb />ſeinen eigenen Fehlern durch die Finger ſiehet, ſo wäre mein Rath, erſt ins geheim,
+          <lb />hernach mit Zuziehung eines unpartheyiſchen Kenners, die Probe anzuſtellen.
         </p>
       </div>
 
