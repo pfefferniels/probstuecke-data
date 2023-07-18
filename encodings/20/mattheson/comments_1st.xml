@@ -73,6 +73,29 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1955" lry="2419" xml:id="facs-p428">
+      <graphic width="1956px" height="2420px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/428" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1944" lry="2371" xml:id="facs-p429">
+      <graphic width="1945px" height="2372px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/429" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1966" lry="2340" xml:id="facs-p430">
+      <graphic width="1967px" height="2341px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/430" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2009" lry="2363" xml:id="facs-p431">
+      <graphic width="2010px" height="2364px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/431" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2002" lry="2363" xml:id="facs-p432">
+      <graphic width="2003px" height="2364px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/432" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1950" lry="2364" xml:id="facs-p433">
+      <graphic width="1951px" height="2365px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/433" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1971" lry="2375" xml:id="facs-p434">
+      <graphic width="1972px" height="2376px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/434" />
+    </surface>
+  </facsimile>
   <text>
     <body>
       <div n="0" type="chapter">
@@ -103,7 +126,7 @@
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
-          <pb n="212" />
+          <pb facs="#facs-p432" n="212" />
           <lb />wie auch im <ref target="#measure-0000001425906512">achtzehnten</ref> und <ref target="#measure-0000000763300727">neunzehnten</ref> dieſelbe <hi rendition="#aq">Paſſage</hi> wieder vorko&#x0364;mmt; Wer
           <lb />aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden <hi rendition="#aq">Menſu</hi>ren nicht zu ſpa&#x0364;t erſcheinen will, der
           <lb />muß nicht lange ſa&#x0364;umen, ſondern die Finger <hi rendition="#aq">galoppi</hi>ren laſſen.
@@ -149,7 +172,7 @@
           <lb />die rechte Hand ihre Accorte und Griffe eben ſo bricht als der Baß die ſeine.
           <lb />Solches muß aber nur auf dieſe drey Viertel geſchehen:
         </p>
-        <pb n="213" />
+        <pb facs="#facs-p433" n="213" />
         <notatedMusic xml:id="music-example5" facs="#facsZone-music-example5">
           <ptr target="music-example5.xml"/>
         </notatedMusic>
@@ -186,7 +209,7 @@
         </notatedMusic>
       </div>
 
-      <pb n="214" />
+      <pb facs="facs-p434" n="214" />
 
       <div n="8">
         <p xml:id="p8-1" facs="#facsZone-p8-1">
