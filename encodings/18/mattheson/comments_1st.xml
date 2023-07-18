@@ -74,16 +74,25 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1881" lrx="1579" xml:id="facs-p381">
-      <graphic width="1579px" height="1881px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/381" />
-    </surface>
-    <surface ulx="0" uly="0" lry="1930" lrx="1579" xml:id="facs-p382">
-      <graphic width="1579px" height="1930px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/382" />
-    </surface>
-    <surface ulx="0" uly="0" lry="1908" lrx="1579" xml:id="facs-p383">
-      <graphic width="1579px" height="1908px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/383" />
-    </surface>
-  </facsimile>
+    <surface ulx="0" uly="0" lrx="1987" lry="2379" xml:id="facs-p418" n="198">
+      <graphic width="1988px" height="2380px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/418" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1939" lry="2379" xml:id="facs-p419" n="199">
+      <graphic width="1940px" height="2380px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/419" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1934" lry="2367" xml:id="facs-p420" n="200">
+      <graphic width="1935px" height="2368px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/420" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1978" lry="2371" xml:id="facs-p421" n="201">
+      <graphic width="1979px" height="2372px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/421" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1926" lry="2364" xml:id="facs-p422" n="202">
+      <graphic width="1927px" height="2365px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/422" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1959" lry="2379" xml:id="facs-p423" n="203">
+      <graphic width="1960px" height="2380px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/423" />
+  </surface>
+</facsimile>
   <text>
     <body>
       <div>
@@ -141,7 +150,7 @@
             <lb/>und dreyßigſten</ref> und <ref target="#measure-0000000804701007">acht und dreyßigſten Tact</ref> in acht nehmen, und dazu eben das
             <lb/>ſpielen, was der Baß in den beyden vorhergehenden Taͤcten gehabt hat; doch alſo,
             <fw place="bottom" type="catch">als</fw>
-            <pb n="202" facs="#facs-p382"/>
+            <pb facs="#facs-p422" n="202" />
             <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
             <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
             <lb/>der Note, angegriffen, und vollſtimmig <hi rendition="#aq">abſolvi</hi>rt.
@@ -184,6 +193,7 @@
             <notatedMusic xml:id="music-example1">
               <ptr target="music-example1.xml"/>
             </notatedMusic>
+            <!--<pb facs="#facs-p423" n="203" />-->
             <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte an-
             <lb/>ſchlagen muß, welches je und allewege feſt geſetzet wird.
           </p>
