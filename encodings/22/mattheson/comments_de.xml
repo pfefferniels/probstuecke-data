@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="part">Mattheson: Der Ober-Classe dreiundzwanzigstes Probstück</title>
+        <title type="part">Mattheson: Der Ober-Classe zweiundzwanzigstes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
             <surname>Pfeffer</surname>
@@ -75,6 +75,20 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="2007" lry="2480" xml:id="facs-p426">
+      <graphic width="2008px" height="2481px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/494" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2067" lry="2490" xml:id="facs-p427">
+      <graphic width="2068px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/495" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2063" lry="2519" xml:id="facs-p428">
+      <graphic width="2064px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/496" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2056" lry="2490" xml:id="facs-p429">
+      <graphic width="2057px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/497" />
+    </surface>
+  </facsimile>
   <text>
     <body>
       <div n="0" type="chapter">

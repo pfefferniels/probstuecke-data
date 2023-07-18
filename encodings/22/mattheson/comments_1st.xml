@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -72,9 +73,26 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1991" lry="2371" xml:id="facs-p220">
+      <graphic width="1992px" height="2372px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/440" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1935" lry="2383" xml:id="facs-p221">
+      <graphic width="1936px" height="2384px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/441" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1937" lry="2358" xml:id="facs-p222">
+      <graphic width="1938px" height="2359px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/442" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1966" lry="2357" xml:id="facs-p223">
+      <graphic width="1967px" height="2358px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/443" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1984" lry="2361" xml:id="facs-p224">
+      <graphic width="1985px" height="2362px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/444" />
+    </surface>
+  </facsimile>
   <text>
     <body>
-      <pb n="223" />
+      <pb facs="#facs-p223" n="223" />
 
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
@@ -93,7 +111,7 @@
       <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
-          <!-- no new line beginning after title -->
+            <!-- no new line beginning after title -->
           Das war, was ſich in gegenwärtiger <hi rendition="#aq">Pieçe</hi> nicht befindet; nun wollen
           <lb />wir mit wenigen dasjenige betrachten, was darinnen vorkömmt. Erſtlich
           <lb />muß bey dem Fall aus dem <ref target="#note-0000001105515864"><hi rendition="#aq">#c</hi></ref>
@@ -118,14 +136,14 @@
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
           </notatedMusic>
-          <pb n="224" />
+          <pb facs="#facs-p224" n="224" />
           <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollstimmigkeit des Baſſes
           <lb />und Beobachtung der <hi rendition="#aq">Signaturen</hi> in der lincken Hand keines weges ausge-
           <lb />ſetzet werden.
         </p>
       </div>
 
-      <pb n="224" />
+      <pb facs="#facs-p224" n="224" />
 
       <div n="3">
         <lb /><head>§. 3.</head>
