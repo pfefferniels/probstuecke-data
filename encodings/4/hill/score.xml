@@ -1063,12 +1063,12 @@
                             <note dur="32" oct="3" pname="g" />
                             <note dur="32" oct="3" pname="a" />
                         </beam>
-                        <clef shape="G" line="2"/>
+                        <clef line="2" shape="G"/>
                     </layer>
                 </staff>
                 <staff n="2">
                     <layer n="1">
-                        <clef shape="G" line="2"/>
+                        <clef line="2" shape="G"/>
                         <beam>
                             <chord dur="8">
                                 <note oct="3" pname="b" />
@@ -1142,7 +1142,7 @@
                                 <note oct="4" pname="a" />
                             </chord>
                         </beam>
-                        <clef shape="F" line="4"/>
+                        <clef line="4" shape="F"/>
                     </layer>
                 </staff>
             </measure>

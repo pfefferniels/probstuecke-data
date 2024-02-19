@@ -195,7 +195,9 @@
                     <note xml:id="note-0000000982511942" dur="8" oct="4" pname="d" accid.ges="f" />
                     <note xml:id="note-0000001078772382" dur="8" oct="3" pname="g" accid.ges="f" />
                   </beam>
-                  <clef shape="C" line="4" />
+                  <orig>
+                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                  </orig>
                   <beam>
                     <note xml:id="note-0000001418363487" dur="16" oct="4" pname="g" accid.ges="f" />
                     <note xml:id="note-0000001082449347" dur="16" oct="4" pname="f" accid.ges="f" />
@@ -278,7 +280,9 @@
             <measure xml:id="measure-0000000766503839" n="4">
               <staff n="2" facs="#facsZone-staff-0000000777397585 #facsZone-staff-0000000777397585-2">
                 <layer n="1">
-                  <clef shape="F" line="4" />
+                  <orig>
+                    <clef line="4" shape="F" />
+                  </orig>
                   <note xml:id="note-0000001901042884" dur="4" oct="3" pname="g">
                     <accid accid="n" />
                   </note>

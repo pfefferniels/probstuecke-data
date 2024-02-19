@@ -1112,7 +1112,7 @@
                                  <accid xml:id="accid-0000001571131878" accid="n" />
                               </note>
                            </chord>
-                           <clef xml:id="clef-0000002131191853" shape="G" line="2" />
+                           <clef xml:id="clef-0000002131191853" line="2" shape="G" />
                            <note xml:id="note-0000001626398077" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f" />
                            <note xml:id="note-0000001478866963" dur="8" oct="4" pname="b" stem.dir="down" accid.ges="f" />
                            <beam xml:id="beam-0000001881237503">
@@ -1279,7 +1279,7 @@
                         <layer xml:id="layer-0000001962123005" n="1">
                            <rest xml:id="rest-0000001170911304" dots="1" dur="2" />
                            <rest xml:id="rest-0000001717282732" dur="8" />
-                           <clef xml:id="clef-0000000973172913" shape="F" line="4" />
+                           <clef xml:id="clef-0000000973172913" line="4" shape="F" />
                            <beam xml:id="beam-0000002105312808">
                               <note xml:id="note-0000000568211358" dur="8" oct="3" pname="g" stem.dir="down" accid.ges="f" />
                               <note xml:id="note-0000001234645538" dur="8" oct="3" pname="a" stem.dir="down" accid.ges="f" />

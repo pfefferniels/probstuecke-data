@@ -149,8 +149,8 @@
             </staffGrp>
           </scoreDef>
           <section>
-            <pb n="366" source="#secondEdition" facs="#facs-p450" />
             <pb n="164" source="#firstEdition" facs="#facs-p380" />
+            <pb n="366" source="#secondEdition" facs="#facs-p450" />
             <measure xml:id="measure-0000002132490626" n="1" right="dashed">
               <staff xml:id="staff-0000000140196629" n="1">
                 <layer n="1">
@@ -1039,8 +1039,8 @@
                     <note xml:id="note-0000002025387147" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000000168127005" dur="16" oct="2" pname="b" accid.ges="f" />
                   </beam>
-                  <pb n="367" source="#secondEdition" facs="#facs-p451" />
                   <pb n="165" source="#firstEdition" facs="#facs-p381" />
+                  <pb n="367" source="#secondEdition" facs="#facs-p451" />
                   <beam>
                     <note xml:id="note-0000002122538271" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000000241879948" dur="16" oct="3" pname="g" />
@@ -1333,8 +1333,15 @@
                     <note xml:id="note-0000000977095782" dur="8" oct="2" pname="g" />
                   </beam>
                   <rest xml:id="rest-0000001360000666" dur="4" />
-                  <clef shape="C" line="2" />
-                  <beam>
+                  <choice>
+                    <orig>
+                      <clef line="2" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
+                <beam>
                     <note xml:id="note-0000001634772577" dur="16" oct="4" pname="c" />
                     <note xml:id="note-0000000457303077" dur="16" oct="3" pname="a" accid.ges="f" />
                     <note xml:id="note-0000000300823059" dur="16" oct="4" pname="c" />
@@ -1574,7 +1581,14 @@
                     <note xml:id="note-0000000189054318" dur="16" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001609984475" dur="16" oct="3" pname="a" accid.ges="f" />
                   </beam>
-                  <clef xml:id="clef-0000000809497465" shape="F" line="3" />
+                  <choice>
+                    <orig>
+                      <clef line="3" shape="F" />
+                    </orig>
+                    <reg resp="#rettinghaus">
+                      <clef line="4" shape="F" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001694764250" dur="8" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="note-0000000368060108" dur="8" oct="4" pname="d">
@@ -1852,8 +1866,8 @@
               <fermata staff="2" startid="#note-0000000626519199" place="below" />
             </measure>
             <measure xml:id="measure-0000001984106098" n="32">
-              <pb n="368" source="#secondEdition" facs="#facs-p452" />
               <pb n="166" source="#firstEdition" facs="#facs-p382" />
+              <pb n="368" source="#secondEdition" facs="#facs-p452" />
               <staff xml:id="staff-0000000732709973" n="1">
                 <layer n="1">
                   <mSpace />

@@ -34,7 +34,7 @@
                     <scoreDef key.pname="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="lh" n="1" lines="5">
-                                <clef shape="F" line="4" />
+                                <clef line="4" shape="F" />
                                 <keySig sig="1f" />
                             </staffDef>
                         </staffGrp>

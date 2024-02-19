@@ -87,26 +87,27 @@
           </constraint>
         </constraintSpec>
 
-        <moduleRef key="MEI"/>
-        <moduleRef key="MEI.analytical"/>
-        <moduleRef key="MEI.cmn" except="arpeg attacca beamSpan beatRpt bend bTrem fTrem gliss hairpin lv harpPedal halfmRpt meterSigGrp mNum mRpt mRpt2 multiRest multiRpt octave oLayer ossia oStaff pedal reh"/>
-        <moduleRef key="MEI.cmnOrnaments"/>
-        <moduleRef key="MEI.critapp"/>
-        <moduleRef key="MEI.edittrans"/>
-        <moduleRef key="MEI.facsimile"/>
-        <moduleRef key="MEI.figtable" include="graphic"/>
-        <moduleRef key="MEI.gestural"/>
-        <moduleRef key="MEI.harmony" include="f fb harm"/>
-        <moduleRef key="MEI.header"/>
+        <moduleRef key="MEI" />
+        <moduleRef key="MEI.analytical" />
+        <moduleRef key="MEI.cmn" except="arpeg attacca beamSpan beatRpt bend bTrem fTrem gliss hairpin lv harpPedal halfmRpt meterSigGrp mNum mRpt mRpt2 multiRest multiRpt octave oLayer ossia oStaff pedal reh" />
+        <moduleRef key="MEI.cmnOrnaments" />
+        <moduleRef key="MEI.critapp" />
+        <moduleRef key="MEI.externalsymbols" />
+        <moduleRef key="MEI.edittrans" />
+        <moduleRef key="MEI.facsimile" />
+        <moduleRef key="MEI.figtable" include="graphic" />
+        <moduleRef key="MEI.gestural" />
+        <moduleRef key="MEI.harmony" include="f fb harm" />
+        <moduleRef key="MEI.header" />
 
         <!-- Including this module, since e.g. Probstück 10 contains an aria with lyrics -->
-        <moduleRef key="MEI.lyrics"/>
+        <moduleRef key="MEI.lyrics" />
 
-        <moduleRef key="MEI.midi" except="noteOff midi metaText marker instrGrp instrDef cue hex chanPr chan cc noteOn port prog seqNum trkName vel"/>
-        <moduleRef key="MEI.namesdates"/>
-        <moduleRef key="MEI.ptrref"/>
-        <moduleRef key="MEI.shared" except="actor ambitus ambNote analytic arranger artic caesura caption castGrp castItem castList cb colLayout clefGrp contributor creation dedicatee depth funder group height imprint lb lg librettist lyricist monogr eventList event ending dynam num pad parts phrase physLoc recipient relatedItem relation relationList repository speaker sponsor stack symbol width"/>
-        <moduleRef key="MEI.visual"/>
+        <moduleRef key="MEI.midi" except="noteOff midi metaText marker instrGrp instrDef cue hex chanPr chan cc noteOn port prog seqNum trkName vel" />
+        <moduleRef key="MEI.namesdates" />
+        <moduleRef key="MEI.ptrref" />
+        <moduleRef key="MEI.shared" except="actor ambitus ambNote analytic arranger artic caesura caption castGrp castItem castList cb colLayout clefGrp contributor creation dedicatee depth funder group height imprint lb lg librettist lyricist monogr eventList event ending dynam num pad parts phrase physLoc recipient relatedItem relation relationList repository speaker sponsor stack symbol width" />
+        <moduleRef key="MEI.visual" />
 
         <!-- Include SVG -->
         <moduleRef url="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/svg11.rng" prefix="svg_">
@@ -117,19 +118,20 @@
           </content>
         </moduleRef>
 
-        <classSpec type="atts" ident="att.midiNumber" mode="delete"/>
-        <classSpec type="atts" ident="att.midiInstrument" mode="delete"/>
-        <classSpec type="atts" ident="att.midi.log" mode="delete"/>
-        <classSpec type="atts" ident="att.midi.event" mode="delete"/>
-        <classSpec type="atts" ident="att.instrumentIdent" mode="delete"/>
-        <classSpec type="atts" ident="att.instrDef.log" mode="delete"/>
-        <classSpec type="atts" ident="att.channelized" mode="delete"/>
-        <classSpec type="atts" ident="att.midiValue" mode="delete"/>
-        <classSpec type="atts" ident="att.midiValue2" mode="delete"/>
-        <classSpec type="atts" ident="att.midiVelocity" mode="delete"/>
-        <classSpec type="atts" ident="att.timeBase" mode="delete"/>
-        <classSpec type="atts" ident="att.tabular" mode="delete"/>
-        <classSpec type="atts" ident="att.symbol.vis" mode="delete"/>
+        <classSpec type="atts" ident="att.color" mode="delete" />
+        <classSpec type="atts" ident="att.midiNumber" mode="delete" />
+        <classSpec type="atts" ident="att.midiInstrument" mode="delete" />
+        <classSpec type="atts" ident="att.midi.log" mode="delete" />
+        <classSpec type="atts" ident="att.midi.event" mode="delete" />
+        <classSpec type="atts" ident="att.instrumentIdent" mode="delete" />
+        <classSpec type="atts" ident="att.instrDef.log" mode="delete" />
+        <classSpec type="atts" ident="att.channelized" mode="delete" />
+        <classSpec type="atts" ident="att.midiValue" mode="delete" />
+        <classSpec type="atts" ident="att.midiValue2" mode="delete" />
+        <classSpec type="atts" ident="att.midiVelocity" mode="delete" />
+        <classSpec type="atts" ident="att.timeBase" mode="delete" />
+        <classSpec type="atts" ident="att.tabular" mode="delete" />
+        <classSpec type="atts" ident="att.symbol.vis" mode="delete" />
 
         <classSpec ident="model.noteModifierLike" module="MEI.shared" type="model" mode="replace">
           <desc>Groups elements that modify note-like features.</desc>

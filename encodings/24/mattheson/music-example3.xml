@@ -34,7 +34,7 @@
                     <scoreDef mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="lh" n="2" lines="5">
-                                <clef shape="F" line="4" />
+                                <clef line="4" shape="F" />
                                 <keySig sig="0" />
                                 <meterSig count="4" sym="common" unit="4" />
                             </staffDef>

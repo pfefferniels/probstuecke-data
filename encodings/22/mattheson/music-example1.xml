@@ -34,12 +34,12 @@
                     <scoreDef key.pname="f" key.accid="s" key.mode="major" meter.unit="4" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
-                                <clef shape="C" line="1" />
+                                <clef line="1" shape="C" />
                                 <keySig sig="5s" />
                                 <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
-                                <clef shape="F" line="4" />
+                                <clef line="4" shape="F" />
                                 <keySig sig="5s" />
                                 <meterSig count="4" unit="4" form="invis" />
                             </staffDef>

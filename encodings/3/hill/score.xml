@@ -499,7 +499,7 @@
                         <measure xml:id="m-487" n="13">
                             <staff xml:id="m-494" n="2" facs="#facsZone-m-494">
                                 <layer xml:id="m-495" n="1">
-                                    <clef shape="C" line="3" staff="1" />
+                                    <clef line="3" shape="C" />
                                     <rest xml:id="m-496" dur="16" />
                                     <beam>
                                         <note xml:id="m-497" dur="16" oct="4" pname="d" stem.dir="down" />
@@ -615,7 +615,7 @@
                         <measure xml:id="m-603" n="17">
                             <staff xml:id="m-633" n="2" facs="#facsZone-m-633">
                                 <layer xml:id="m-634" n="1">
-                                    <clef shape="F" line="4" staff="2" />
+                                    <clef line="4" shape="F" />
                                     <note xml:id="m-636" dur="4" oct="3" pname="b" />
                                     <note xml:id="m-639" dur="4" oct="3" pname="b" />
                                     <note xml:id="m-644" dur="4" oct="3" pname="b" />
@@ -948,7 +948,7 @@
                         <measure xml:id="m-1167" n="32">
                             <staff xml:id="m-1185" n="2" facs="#facsZone-m-1185">
                                 <layer xml:id="m-1186" n="1">
-                                    <clef shape="C" line="4" staff="1" />
+                                    <clef line="4" shape="C" />
                                     <rest xml:id="m-1187" dur="16" />
                                     <beam>
                                         <note xml:id="m-1188" dur="16" oct="3" pname="b" stem.dir="down" />
@@ -1054,7 +1054,7 @@
                         <measure xml:id="m-1277" n="35">
                             <staff xml:id="m-1296" n="2" facs="#facsZone-m-1296">
                                 <layer xml:id="m-1297" n="1">
-                                    <clef shape="F" line="4" staff="1" />
+                                    <clef line="4" shape="F" />
                                     <note xml:id="m-1298" dur="4" oct="3" pname="f" stem.dir="down">
                                         <accid xml:id="m-1299" accid="s" />
                                     </note>

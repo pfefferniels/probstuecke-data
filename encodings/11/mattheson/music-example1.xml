@@ -34,11 +34,11 @@
                     <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
-                                <clef shape="G" line="1" />
+                                <clef line="1" shape="G" />
                                 <keySig sig="3f" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
-                                <clef shape="C" line="3" />
+                                <clef line="3" shape="C" />
                                 <keySig sig="3f" />
                             </staffDef>
                         </staffGrp>
