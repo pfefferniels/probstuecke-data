@@ -86,7 +86,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p502">
           <graphic width="1998px" height="2426px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502"/>
-          <zone ulx="90" uly="185" lrx="440" xml:id="facsZone-p2-1-2"/>
+          <zone ulx="90" uly="185" lry="440" lrx="1941" xml:id="facsZone-p2-1-2"/>
           <zone ulx="93" uly="407" lry="760" lrx="1941" xml:id="facsZone-p3-1"/>
           <zone ulx="102" uly="737" lry="1057" lrx="1938" xml:id="facsZone-music-example3"/>
           <zone ulx="711" uly="1586" lry="1849" lrx="1359" xml:id="facsZone-music-example4"/>
@@ -240,7 +240,7 @@
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Daß dieſer Ton in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
           <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">
-          <quote xml:id="lambert-quote" corresp="#lambert-translation" xml:lang="fra">
+          <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
             Le B Fa Si Beccarre etant un Ton, ſur lequel on compoſe rarement, il n'y a point
             <lb/>de modulation qui lui ſoit particulierement affectée: ſ'il en avoit une, ce croit la mineure.
           </quote></foreign>
@@ -248,7 +248,7 @@
             <hi rendition="#i"><persName corresp="#ed_dwf_j5x_qlb">Mr. de St. Lambert</persName>,
             Traité de l'Accompagnement</hi>, <hi rendition="#i">p.</hi>27.
           </bibl></hi></note> Buche vom General-Baß, da es ſo lautet: <hi rendition="#b">
-          <quote xml:id="lambert-translation" type="translation" corresp="#lambert-quote">
+          <quote xml:id="lambert-quote-trans" type="translation" corresp="#lambert-quote">
             H iſt ein Ton, aus wel-
             <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
             <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine

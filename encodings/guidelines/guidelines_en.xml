@@ -90,14 +90,14 @@
       <div>
         <head>Text</head>
         <p>
-          All textes are provided as a diplomatic transcription, preserving original linebreaks, orthography,
+          All texts are provided as a diplomatic transcription, preserving original line breaks, orthography,
           mistakes and other idiosyncrasies. Text portions of this edition follow the guidelines of the
           <ref target="http://www.deutschestextarchiv.de/doku/basisformat/introduction_en.html"> DTA ›Base Format‹ (DTABf)</ref>.
           Thus, only deviations from the <hi rend="italic">DTABf</hi> are specified here.
         </p>
 
         <p>
-          All <hi rend="bold">/</hi> of the original textes are reproduced as normal commata (<hi rend="bold">,</hi>).
+          All <hi rend="bold">/</hi> of the original texts are reproduced as normal commata (<hi rend="bold">,</hi>).
         </p>
 
         <p>
@@ -128,6 +128,11 @@
         <p>
           When the text is referencing a particular measure, note, clef etc. of the score, a <tag>ref</tag>
           element should be used, with the <code>@target</code> attribute pointing to the corresponding element(s) of the score.
+        </p>
+
+        <p>
+          Foreign words in the continuous text are marked with the <tag>foreign</tag> tag,
+          while foreign-language quotations are marked only with the corresponding attribute on the <tag>quote</tag> tag.
         </p>
       </div>
     </body>

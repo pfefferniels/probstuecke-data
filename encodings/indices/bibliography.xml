@@ -25,12 +25,16 @@
                     <title>Compendiöses Gelehrten-Lexicon</title>
                     <pubPlace>Leipzig</pubPlace>
                     <date>1726</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10797509" />
                 </bibl>
                 <bibl xml:id="ed_app_scb_5lb" type="journal">
                     <editor>
                         <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
                     </editor>
                     <title>Critica Musica</title>
+                </bibl>
+                <bibl type="journal" xml:id="ed_ne8-ak3-gpr">
+                    <title>Histoire des Ouvrages des Savans</title>
                 </bibl>
                 <bibl type="journal" xml:id="ed_wnr_txb_5lb">
                     <title>Miscellanea Berolinensia</title>
@@ -183,6 +187,7 @@
                     <title>Exemplarische Organisten-Probe</title>
                     <pubPlace>Hamburg</pubPlace>
                     <date>1719</date>
+                    <note target="https://www.digitale-sammlungen.de/de/view/bsb10527430" />
                 </bibl>
                 <bibl xml:id="ed_cqx_yjj_vlb">
                     <author>
