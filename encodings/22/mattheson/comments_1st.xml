@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -72,9 +73,29 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1991" lry="2371" xml:id="facs-p440">
+      <graphic width="1992px" height="2372px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/440" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1935" lry="2383" xml:id="facs-p441">
+      <graphic width="1936px" height="2384px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/441" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1937" lry="2358" xml:id="facs-p442">
+      <graphic width="1938px" height="2359px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/442" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1966" lry="2357" xml:id="facs-p443">
+      <graphic width="1967px" height="2358px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/443" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1984" lry="2361" xml:id="facs-p444">
+      <graphic width="1985px" height="2362px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/444" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1972" lry="2359" xml:id="facs-p445">
+      <graphic width="1973px" height="2360px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/445" />
+    </surface>
+  </facsimile>
   <text>
     <body>
-      <pb n="223" />
+      <pb facs="#facs-p443" n="223" />
 
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
@@ -93,7 +114,7 @@
       <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
-          <!-- no new line beginning after title -->
+            <!-- no new line beginning after title -->
           Das war, was ſich in gegenwärtiger <hi rendition="#aq">Pieçe</hi> nicht befindet; nun wollen
           <lb />wir mit wenigen dasjenige betrachten, was darinnen vorkömmt. Erſtlich
           <lb />muß bey dem Fall aus dem <ref target="#note-0000001105515864"><hi rendition="#aq">#c</hi></ref>
@@ -118,14 +139,14 @@
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
           </notatedMusic>
-          <pb n="224" />
+          <pb facs="#facs-p444" n="224" />
           <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollstimmigkeit des Baſſes
           <lb />und Beobachtung der <hi rendition="#aq">Signaturen</hi> in der lincken Hand keines weges ausge-
           <lb />ſetzet werden.
         </p>
       </div>
 
-      <pb n="224" />
+      <pb facs="#facs-p444" n="224" />
 
       <div n="3">
         <lb /><head>§. 3.</head>
@@ -149,6 +170,31 @@
           <notatedMusic xml:id="music-example3">
             <ptr target="music-example3.xml" />
           </notatedMusic>
+          <!--<pb facs="#facs-p445" n="225" />-->
+        </p>
+      </div>
+
+      <div n="3">
+        <lb /><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb />Ich wiederhole nochmahls, daß es keine <hi rendition="#aq">Sanctio pragmatica</hi> ſen, eben
+          <lb />dieſe Noten, ſo wie hier ſtehen, an bemeldten Oertern zu ſpielen; denn es wird
+          <lb />unmüglich ſeyn, daß einer unter hundert es juſt ſo treffe. Es iſt alles nur zur
+          <lb />Nachricht hingeſetzet worden, und wer ſich der Probe unternimmt, kan ſchon
+          <lb />etwas beffers <hi rendition="#aq">extemporifiren</hi>, anbey dadurch zu erkennen geben, daß die Sel-
+          <lb />tenheit des Tons ſeinen Geiſt nicht feſſelt, ſondern, daß er, derfelben ungeachtet,
+          <lb />freye <hi rendition="#aq">Fantaiſie</hi> habe, und nach Gefallen mit dem Clavier ſchalten könne. Wenn
+          <lb />felbiges reine geftimmet iſt, ſo wird es ſchon gut aus dem <hi rendition="#aq">Fis dur</hi> klingen, da-
+          <lb />fern ein <hi rendition="#aq">habiler</hi> Meiſter darüber kömmt; ſtimmt das Inſtrument aber nicht/
+          <lb />ſo kan es auch aus dem gemeinſten Straſſen-Ton nicht gut klingen, und wenn ein
+          <lb /><hi rendition="#aq">Orpheus</hi> ſelber ſpielte. Gibt ſich inzwiſchen einer für Meiſter aus, ſo muß er
+          <lb />hier <hi rendition="#aq">extemporifiren</hi> können; denn ſolche Leute, hauptsächlich unter den Organi-
+          <lb />ſten, zu prüfen, iſt hier der erſte und fürnehmſte Zweck; dahingegen der Un-
+          <lb />terricht nur beyläuffig gehandelt und <hi rendition="#aq">ſecundo loco</hi> geſetzt wird. Es kan und mag
+          <lb />zwar ein jeder, wie in der Vorbereitung geſagt worden, ſich ohne Zeugen ſelbſt prü-
+          <lb />fen; aber weil uns doch die Eigen-Liebe gar zu ſehr anhängt, und man gerne mit
+          <lb />ſeinen eigenen Fehlern durch die Finger ſiehet, ſo wäre mein Rath, erſt ins geheim,
+          <lb />hernach mit Zuziehung eines unpartheyiſchen Kenners, die Probe anzuſtellen.
         </p>
       </div>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -20,7 +20,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher>
-          <persName xml:id="pfeffer">
+          <persName>
             <surname>Pfeffer</surname>
             <forename>Niels</forename>
           </persName>

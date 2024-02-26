@@ -75,6 +75,101 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="2058" lry="2480" xml:id="facs-p502">
+      <graphic width="2059px" height="2481px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2066" lry="2487" xml:id="facs-p503">
+      <graphic width="2067px" height="2488px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/503" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2039" lry="2486" xml:id="facs-p504">
+      <graphic width="2040px" height="2487px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/504" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2054" lry="2485" xml:id="facs-p505">
+      <graphic width="2055px" height="2486px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/505" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2041" lry="2489" xml:id="facs-p506">
+      <graphic width="2042px" height="2490px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/506" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2054" lry="2488" xml:id="facs-p507">
+      <graphic width="2055px" height="2489px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/507" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2036" lry="2490" xml:id="facs-p508">
+      <graphic width="2037px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/508" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2055" lry="2482" xml:id="facs-p509">
+      <graphic width="2056px" height="2483px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/509" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2009" lry="2480" xml:id="facs-510">
+      <graphic width="2010px" height="2481px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/510" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2074" lry="2490" xml:id="facs-p511">
+      <graphic width="2075px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/511" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2055" lry="2487" xml:id="facs-p512">
+      <graphic width="2056px" height="2488px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/512" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2062" lry="2488" xml:id="facs-p513">
+      <graphic width="2063px" height="2489px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/513" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2004" lry="2484" xml:id="facs-p514">
+      <graphic width="2005px" height="2485px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/514" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2063" lry="2489" xml:id="facs-p515">
+      <graphic width="2064px" height="2490px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/515" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2036" lry="2484" xml:id="facs-p516">
+      <graphic width="2037px" height="2485px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/516" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2062" lry="2490" xml:id="facs-p517">
+      <graphic width="2063px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/517" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2000" lry="2485" xml:id="facs-p518">
+      <graphic width="2001px" height="2486px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/518" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2057" lry="2491" xml:id="facs-p519">
+      <graphic width="2058px" height="2492px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/519" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2000" lry="2485" xml:id="facs-p520">
+      <graphic width="2001px" height="2486px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/520" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2055" lry="2489" xml:id="facs-p521">
+      <graphic width="2056px" height="2490px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/521" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2051" lry="2490" xml:id="facs-p522">
+      <graphic width="2052px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/522" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2022" lry="2488" xml:id="facs-p523">
+      <graphic width="2023px" height="2489px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/523" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2040" lry="2491" xml:id="facs-p524">
+      <graphic width="2041px" height="2492px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/524" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2053" lry="2482" xml:id="facs-p525">
+      <graphic width="2054px" height="2483px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/525" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2027" lry="2489" xml:id="facs-p526">
+      <graphic width="2028px" height="2490px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/526" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2053" lry="2483" xml:id="facs-p527">
+      <graphic width="2054px" height="2484px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/527" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2034" lry="2491" xml:id="facs-p528">
+      <graphic width="2035px" height="2492px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/528" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2033" lry="2474" xml:id="facs-p529">
+      <graphic width="2034px" height="2475px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/529" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2014" lry="2480" xml:id="facs-p530">
+      <graphic width="2015px" height="2481px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/530" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2069" lry="2487" xml:id="facs-531">
+      <graphic width="2070px" height="2488px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/531" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2035" lry="2491" xml:id="facs-p532">
+      <graphic width="2036px" height="2492px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/532" />
+    </surface>
+  </facsimile>
   <text>
     <body>
       <div n="0" type="chapter">
@@ -105,7 +200,7 @@
               <lb />ſten im geringſten entſchuldigen könne.</item>
           </list>
           <fw place="bottom" type="catch">Es</fw>
-          <pb n="441" />
+          <pb facs="#facs-p509" n="441" />
         </p>
       </div>
 
@@ -154,7 +249,7 @@
           <lb />Schüler hier leiſten könnte, was man dem Lehrer ſelbſt nicht zutrauet, welches,
           <lb />da es ja wahr, jenen ein groſſer Schimpft ſeyn mag, die Meiſter heiſſen wollen,
           <fw place="bottom" type="catch">und</fw>
-          <pb n="442" />
+          <pb facs="#facs-p510" n="442" />
 
           und es nicht können; wenn ich gleich hier, ſo zu reden, keine Ausnahm machen könnte,
           <lb />und mich von jedem Haluncken auf die Probe ſetzen laſſen müſſe: ſo ſehe doch nicht, was
@@ -201,7 +296,7 @@
               So kann ich andre doch den General-Baß lehren.</quote>
           </hi>
           <fw place="bottom" type="catch">Da.</fw>
-          <pb n="443" />
+          <pb facs="#facs-p511" n="443" />
 
           Damit man aber nicht meyne, ich wolle es gar von mir lehnen, ſo will ich doch, oh-
           <lb />ne eintzigen Ruhm, hiemit verſichert haben, daß, wenn es eine Probe gel-
@@ -232,7 +327,6 @@
         </p>
       </div>
 
-
       <div n="5">
         <lb /><head>§. 5.</head>
         <lb /><p>
@@ -261,7 +355,7 @@
           <lb />wie der Augenſchein erweiſet, ſo lange iſt mirs auch gleichviel, ob ich von dieſem
           <lb />
           <fw place="bottom" type="catch">für</fw>
-          <pb n="444" />
+          <pb facs="#facs-p512" n="444" />
 
           für einen musicaliſchen Grillenfänger, oder von jenem für den <persName corresp="#ed_wpd_2lx_qlb">Apollo</persName> ſelbſt ge-
           <lb />halten werde. Es kann mir nicht zuwieder ſeyn, ob Hintz oder Kuntz beſſer ſetzet,
@@ -339,7 +433,7 @@
           <lb />gehorſamen Diener nennet; dürffte doch derjenige thöricht genug handeln, der die
           <lb />Aufſchrifft ſeiner Antwort darnach einrichten, und ſchreiben wollte: An meinen
           <fw place="bottom" type="catch">gehor-</fw>
-          <pb n="445" />
+          <pb facs="#facs-p513" n="445" />
 
           gehorſamen Diener
           <lb /><hi rendition="#aq"><persName corresp="#ed_b2n_mx1_5lb">Marſyas</persName></hi>
@@ -387,7 +481,7 @@
           <lb />dern mit Latten, wie der <persName>Staar-Stecher</persName> redet. Und da ein eintziger von dieſen in
           <lb />der gelehrten und geſchliffenen Welt wol zehn mahl ſo viel gilt, als funfzig <persName corresp="#ed_arq_vfy_qlb">Hancken</persName>,
           <fw place="bottom" type="catch">ſo</fw>
-          <pb n="446" />
+          <pb facs="#facs-p514" n="446" />
 
           ſo mögen die Schmähungen des letztem mit dem, obgleich gar zu höflich ſcheinenden,
           <lb />Beifall jener hochberühmten Männer in keinen Vergleich kommen. Was frägt
@@ -444,7 +538,7 @@
         <lb /><p>
           Nun mögte zwar wol ſolche Ungeſchicklichkeit bey einem Recitativ nicht ſo
           <fw place="bottom" type="catch">ſehr</fw>
-          <pb n="447" />
+          <pb facs="#facs-p515" n="447" />
 
           <lb />ſehr vermercket werden: weil der General-Baß allda nicht ſo genau an einander
           <lb />hänget; aber in arioſen Sachen ſiehet es wircklich ſehr mangelhafft aus, welches
@@ -493,6 +587,8 @@
             </quote>
         </p>
       </div>
+
+      <pb facs="#facs-p516" n="448" />
 
       <div n="9">
         <head>§. 9.</head>
@@ -554,7 +650,7 @@
           ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
             <lb />matiſchen Claviere eben ſo wenig, als mit der enharmoniſchen Ein-
             <fw place="bottom" type="catch">thei-</fw>
-            <pb n="449" />
+            <pb facs="#facs-p517" n="449" />
 
             theilung der Tangenten, auf einer eintzigen Griff-Tafel Art habe, weil
             <lb />man lange nicht ſo leicht, bequem und geſchwind darauf ſpielen könne,
@@ -607,7 +703,7 @@
             </note>
           was <date when="1631">vor hundert
             <fw place="bottom" type="catch">Jahren</fw>
-            <pb n="450" />
+            <pb facs="#facs-p518" n="450" />
 
             Jahren</date>
           eine Ehre war, deſſen ſchämet man ſich auf gewiſſe Art bey itzigen Zeiten.
@@ -654,7 +750,7 @@
           <lb />Endlich brachte ich auch Exempel von unſern gröſſeſten Meiſtern bey, die es noch im-
           <lb />mer mit zweyen Doppel-Kreutzen (##) hielten, und gab zwo Urſachen an, war-
           <fw place="bottom" type="catch">um</fw>
-          <pb n="451" />
+          <pb facs="#facs-p519" n="451" />
 
           <lb />um das einfache Kreutz (x) beſſer ſeyn würde / nemlich: weil man es ſo dann mit
           <lb />einem Zeichen beſtellen könnte, und weil dabey auch ein jedes Ding ſein eignes Zei-
@@ -721,7 +817,7 @@
             <lb />chens x erſtrecket ſich nur auf die Erhöhung eines Viertel-Tons, und theilet den
             <lb />groſſen halben Ton in zween Theile. Auſſer dem enharmoniſchen Geſchlecht, und
             <fw place="bottom" type="catch">dem</fw>
-            <pb n="452" />
+            <pb facs="#facs-p520" n="452" />
 
             dem Gebrauch der Viertel-Tone hat alſo das x keine Statt, thut auch in der That,
             <lb />wenn es ſo zur Unzeit gebraucht wird, keine andere Dienſte, als ein verdoppel-
@@ -755,7 +851,7 @@
           mit gutem Fug, daß durch die vier, kreutzweiſe gefloch-
           <lb />tene Strichlein eine Erhöhung von vier Commatibus angezeiget wird, daraus unge-
           <fw place="bottom" type="catch">fehr</fw>
-          <pb n="453" />
+          <pb facs="#facs-p521" n="453" />
 
           <lb />gefehr ein kleiner halber Ton beſtehet. Wenn wir nun den Fall ſetzen, daß ſich
           <lb />dieſes ſo verhalte, und dennoch betrachten, wie eben daſſelbe Zeichen täglich zur
@@ -799,6 +895,8 @@
           </note>
         </p>
       </div>
+
+      <pb facs="#facs-p522" n="454" />
 
       <div n="18">
         <lb /><head>§. 18.</head>
@@ -844,7 +942,7 @@
           <lb />und in dieſem Fall lieber das h genommen werden: weil bey beiden Vorfällen, ſo
           <lb />wol im Steigen, als auch Fallen, der Endzweck einerley iſt, nemlich dieſer: Daß die
           <fw place="bottom" type="catch">Note</fw>
-          <pb n="455" />
+          <pb facs="#facs-p523" n="455" />
 
           ihren vorigen alten und gewöhnlichen Sitz, es ſey fallend oder
           <lb />ſteigend, wieder einnehmen ſoll. Daher es ein groſſer Irrthum iſt, wenn
@@ -891,7 +989,7 @@
           Ich kehre wieder zum Vorhaben, wegen der Kreutze, und bemerke, daß
           <lb /><persName corresp="#ed_dwf_j5x_qlb">Mſr. St. Lambert</persName> noch eine andere Erfindung hat, da er nemlich, vorne auf
           <fw place="bottom" type="catch">den</fw>
-          <pb n="456" />
+          <pb facs="#facs-p524" n="456" />
 
           <lb />den Linien, gleich das eine ♯, von dem andern auf derſelben Stelle befindlichen,
           <lb />mittelſt eines Durſchnitts, abſcheidet und trennet. Mit dem ♭ hat er auch eine ſol-
@@ -926,7 +1024,7 @@
         <p>
           Wenn auch eine Verdoppelung des ♭ nöthig wäre, welches ich zwar noch
           <fw type="catch" place="bottom">nicht</fw>
-          <pb n="457"/>
+          <pb facs="#facs-p525" n="457"/>
 
           <lb />nicht erlebet habe, ſo könnte etwan, dafern es ſo gefällig wäre, das β dazu genommen
           <lb />werden, weil doch kurtzum alles Griechiſch ſeyn ſoll. Jch will, zur Nachricht, ein
@@ -956,7 +1054,7 @@
           <lb />betrachtungen zu bringen ; allein, ein rechtſchaffener Liebhaber und ſeiner
           <lb />Wiſſenſchaft Befliſſener achtet es für keine Kleinigkeit, wenn er auch nur
           <fw type="catch" place="bottom">ein</fw>
-          <pb n="458" />
+          <pb facs="#facs-p526" n="458" />
 
           <lb />ein eintziges Pünctgen in der Sache, die er zu unterſuchen vorgenommen hat,
           <lb />wo nicht verbeſſert, wnigſtens, wenn etwas daran fehlet, den Mangel
@@ -1017,7 +1115,7 @@
           <lb />will ich doch, denen zu Gefallen, die gar keinen Begriff von der Sache haben, all-
           <lb />hie auf das gröbſte entwerffen. Jch ſage billig auf das gröbſte, weil mir nicht un-
           <fw place="bottom" type="catch">be-</fw>
-          <pb n="459"/>
+          <pb facs="#facs-p527" n="459"/>
 
           <lb />bekannt, daß ein kleiner Ton mehr, als acht, und weniger als neun Theilgen, inglei-
           <lb />chen, daß ein kleiner halber Ton mehr, als drey, und weniger als vier haben ſollen,
@@ -1068,7 +1166,7 @@
           und <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, zween der beſten muſicaliſchen Scribenten, hiel-
           <lb />ten nicht gar viel von dergleichen zerhackten Clavieren, die man in ſo ſchrecklich
           <fw type="catch" place="bottom">kleine</fw>
-          <pb n="460"/>
+          <pb facs="#facs-p528" n="460"/>
 
           <lb />kleine Glieder eintheilte, ob wol der erſte
           <note place="foot" n="e)">
@@ -1144,7 +1242,7 @@
            </hi>
            Man
            <fw type="catch" place="bottom">findet</fw>
-           <pb n="461"/>
+           <pb facs="#facs-p529" n="461"/>
 
            <lb />findet auch noch hin und wieder dieſe Einrichtung in alten Orgel-Wercken, <abbr>Z.E.</abbr>
            <lb />hier, in <placeName ref="https://www.geonames.org/2911298">Hamburg</placeName> in der <placeName>Marien-Magdalenen-Kirche</placeName>. Wobey denn anzumercken
@@ -1164,7 +1262,7 @@
          </p>
       </div>
 
-      <div n="461">
+      <div n="28">
         <head>§. 28.</head>
         <p>
           <lb />Es iſt indeſſen gantz gewiß, daß dieſe beide berühmte Scribenten, de-
@@ -1189,7 +1287,7 @@
           und ſo gar zehn bis zwölff Fehler des <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlins</persName></hi> vom
           <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>
           <note place="foot" n="(l)">
-            <hi rendition="#aq">Salin <bibl corresp="#ed_h4c_wwb_5lb">de Mus. p. 228-232, <aabr>ſqq.</aabr></bibl></hi>
+            <hi rendition="#aq"><bibl corresp="#ed_h4c_wwb_5lb">Salin de Mus. p. 228-232, <abbr>ſqq.</abbr></bibl></hi>
           </note>
           <hi rendition="#b"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName></hi>
           <note place="foot" n="(m)">
@@ -1213,7 +1311,7 @@
           </note>
           ſchon vor vielen Jahren dargethan hat, daß die-
           <fw type="catch" place="bottom">ſes</fw>
-          <pb n="462"/>
+          <pb facs="#facs-p530" n="462"/>
 
           <lb />ſes zwölfftel die Octave nicht rein liefert, ſondern überſchreitet. Jch wollte wol, daß ein
           <lb />gewiſſer Mann hierauf antwortete, und mich verlanget, den Streit einmahl ſo geho-
@@ -1280,7 +1378,7 @@
             Darum hat es GOTT ſo weiß-
             <lb />lich geordnet, und unſer Gemüth alſo zugerichtet, daß es mit einer guten
             <fw type="catch" place="bottom">Tem-</fw>
-            <pb n="463"/>
+            <pb facs="#facs-p531" n="463"/>
             Temperatur zufrieden iſt; ja, GOtt hat alles, was in der Natur iſt, in die
             <lb />Temepratur geſetzt, warum wollten wir dieſelbe aus der Muſic ver-
             <lb />bannen und verwerffen, zumahl es nicht anders ſeyn kann.
@@ -1327,7 +1425,7 @@
             <lb />ger Beiſtand zu leiſten; nicht aber deſſelben Beſtreben, durch ein unzeitiges Geklängel, zu hindern, oder
             <lb />zu verſtellen. Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes Concert von Vir-
             <fw type="catch" place="bottom">tuoſen</fw>
-            <pb n="464" />
+            <pb facs="#facs-p532" n="464" />
 
             <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſauer werden, vor allen andern hervorzuragen.
             <lb />Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, verbrämen

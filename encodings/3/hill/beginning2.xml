@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
@@ -36,15 +36,15 @@
                                     <chord xml:id="chord-0000002081275272" dur="2">
                                         <note xml:id="note-0000001899766158" oct="4" pname="c" />
                                         <note xml:id="note-0000001942901290" oct="4" pname="e" />
-                                        <note xml:id="note-0000000888608624" oct="4" pname="a" />
-                                    </chord>
-                                    <chord dur="4">
-                                        <note oct="4" pname="e"/>
-                                        <note oct="4" pname="a"/>
-                                        <note oct="5" pname="c"/>
-                                    </chord>
-                                </layer>
-                                <layer xml:id="layer-0000000060554651" n="3">
+                    <note xml:id="note-0000000888608624" oct="4" pname="a" />
+                  </chord>
+                  <chord dur="4">
+                    <note oct="4" pname="e" />
+                    <note oct="4" pname="a" />
+                    <note oct="5" pname="c" />
+                  </chord>
+                </layer>
+                <layer xml:id="layer-0000000060554651" n="3">
                                     <space xml:id="space-0000001423893520" dur="4" dots="2" />
                                     <chord xml:id="chord-0000000683438040" cue="true" stem.len="0" dur="4">
                                         <note xml:id="note-0000001316316498" cue="true" oct="4" pname="a" />
@@ -81,17 +81,17 @@
                                 <layer xml:id="layer-0000002097569482" n="1">
                                     <chord xml:id="chord-0000000875609415" dur="2">
                                         <note xml:id="note-0000000850259644" oct="4" pname="e" />
-                                        <note xml:id="note-0000000496073920" oct="4" pname="a" />
-                                        <note xml:id="note-0000000787379075" oct="4" pname="b" />
-                                    </chord>
-                                    <chord xml:id="chord-0000000875609415" dur="4">
-                                        <note xml:id="note-0000000496073920" oct="4" pname="g">
-                                            <accid accid="s" />
-                                        </note>
-                                        <note xml:id="note-0000000787379075" oct="4" pname="b" />
-                                        <note oct="5" pname="e" />
-                                    </chord>
-                                </layer>
+                    <note xml:id="note-0000000496073920" oct="4" pname="a" />
+                    <note xml:id="note-0000000787379075" oct="4" pname="b" />
+                  </chord>
+                  <chord dur="4">
+                    <note oct="4" pname="g">
+                      <accid accid="s" />
+                    </note>
+                    <note oct="4" pname="b" />
+                    <note oct="5" pname="e" />
+                  </chord>
+                </layer>
                             </staff>
                             <staff xml:id="staff-0000001058294838" n="2">
                                 <layer xml:id="layer-0000000807138612" n="1">
@@ -320,6 +320,6 @@
                     </section>
                 </score>
             </mdiv>
-        </body>
-    </music>
+    </body>
+  </music>
 </mei>
