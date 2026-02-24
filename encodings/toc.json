@@ -92,6 +92,11 @@
         "score": "4/hill/score.xml",
         "comments": "4/hill/comments_de.xml",
         "format": "lesson_transcription"
+      },
+      "jcd": {
+        "score": "4/jcd/score.xml",
+        "comments": "4/jcd/comment_fr.xml",
+        "format": "p5"
       }
     }
   },
