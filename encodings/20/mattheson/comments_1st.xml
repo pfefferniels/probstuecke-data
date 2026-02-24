@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps20-001">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
             <repository>Bayerische Staatsbibliothek</repository>
             <idno>
               <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
-              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/title/BV001680396</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
               <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
               <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
             </idno>
@@ -98,6 +98,14 @@
   </facsimile>
   <text>
     <body>
+      <div type="score">
+        <head>Der Ober-Classe zwantzigstes Prob-Stück.</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
       <div n="0" type="chapter">
       <head>Erla&#x0364;uterung.</head>
       <div n="1">

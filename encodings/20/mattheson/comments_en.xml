@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps20-003">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -32,6 +32,14 @@
   </teiHeader>
   <text>
     <body>
+      <div type="score">
+        <head type="title">Twentieth Probstück</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
       <div n="0" type="chapter">
       <head>Annotations</head>
       <div n="1">
