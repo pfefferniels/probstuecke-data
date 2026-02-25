@@ -76,32 +76,32 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2441" xml:id="facs-p468">
-          <graphic width="1998px" height="2441px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/468"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2441" xml:id="facs-p446">
+          <graphic width="1998px" height="2441px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/446"/>
           <zone ulx="135" uly="173" lry="757" lrx="1950" xml:id="facsZone-p1-1"/>
           <zone ulx="129" uly="695" lry="1408" lrx="1947" xml:id="facsZone-p2-1"/>
           <zone ulx="123" uly="1328" lry="2287" lrx="1953" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2423" xml:id="facs-p469">
-          <graphic width="1998px" height="2423px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2423" xml:id="facs-p447">
+          <graphic width="1998px" height="2423px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/447"/>
           <zone ulx="66" uly="185" lry="736" lrx="1887" xml:id="facsZone-p3-1-2"/>
           <zone ulx="57" uly="728" lry="1531" lrx="1887" xml:id="facsZone-p4-1"/>
           <zone ulx="62" uly="1496" lry="2023" lrx="1883" xml:id="facsZone-p5-1"/>
       </surface>
-      <surface ulx="0" uly="0" lry="2485" lrx="1998" xml:id="facs-p470">
-        <graphic width="1998px" height="2485px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470" />
+      <surface ulx="0" uly="0" lry="2485" lrx="1998" xml:id="facs-p448">
+        <graphic width="1998px" height="2485px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/448" />
       </surface>
-      <surface ulx="0" uly="0" lry="2475" lrx="1998" xml:id="facs-p471">
-        <graphic width="1998px" height="2475px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471" />
+      <surface ulx="0" uly="0" lry="2475" lrx="1998" xml:id="facs-p449">
+        <graphic width="1998px" height="2475px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/449" />
       </surface>
-      <surface ulx="0" uly="0" lry="2472" lrx="1998" xml:id="facs-p472">
-        <graphic width="1998px" height="2472px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/472" />
+      <surface ulx="0" uly="0" lry="2472" lrx="1998" xml:id="facs-p450">
+        <graphic width="1998px" height="2472px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/450" />
       </surface>
-      <surface ulx="0" uly="0" lry="2506" lrx="1998" xml:id="facs-p473">
-        <graphic width="1998px" height="2506px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/473" />
+      <surface ulx="0" uly="0" lry="2506" lrx="1998" xml:id="facs-p451">
+        <graphic width="1998px" height="2506px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/451" />
       </surface>
-      <surface ulx="0" uly="0" lry="2497" lrx="1998" xml:id="facs-p475">
-        <graphic width="1998px" height="2497px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/475" />
+      <surface ulx="0" uly="0" lry="2497" lrx="1998" xml:id="facs-p452">
+        <graphic width="1998px" height="2497px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/452" />
       </surface>
   </facsimile>
   <text>
@@ -114,7 +114,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="384" facs="#facs-p468"/>
+      <pb n="384" facs="#facs-p446"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
       <div n="1">
@@ -162,7 +162,7 @@
           <lb/>rechten Graͤber-Tritten, den Tact vorſchlagen, die tausendmahl beſſer wiſſen, was
           <lb/>Tact ſey, denn er ſelber. Sehen wir manchen Frantzoͤsischen Geiger an, welche ge-
           <fw place="bottom" type="catch">fähr-</fw>
-          <pb n="385" facs="#facs-p469"/>
+          <pb n="385" facs="#facs-p447"/>
 
           <lb/>faͤhrliche Striche fallen da nicht vor; alles muß unter ſeinen Fuͤſſen krachen, erzittern
           <lb/>und erbeben: ſeine Ermel (ſonderlich bey der auffschneiderischen Mode), laſſen keine Flie-
@@ -227,7 +227,7 @@
           <lb/>Da verlangte nun der Verfaſſer den Tact zu fuͤhren, weil er am beſten wuſte, wie
           <lb/>die Bewegung ſeiner Arbeit beſtellet ſeyn muͤsse; hingegen kunnte der Capellmei-
           <fw type="catch" place="bottom">ſter</fw>
-          <pb n="386" facs="#facs-p470"/>
+          <pb n="386" facs="#facs-p448"/>
 
           <lb/>ſter ſolchen Eingriff nicht leiden, und hielte es ſeiner Ehre zu nahe, daß ihm ein
           <lb/>andrer dergeſtalt ins Tact-Amt fallen ſolte. Der Streit nahm endlich ſo zu, daß er vor
@@ -293,7 +293,7 @@
           <lb/>nen andern dazu brauchen muͤſſten? Ein gelehrter Breſlauer, <persName corresp="#ed_bxd_xvx_qlb" full="abb">G.E.S.</persName>, schrieb den
           <lb/><date>28. Julii 1728</date> davon also:
           <fw type="catch" place="bottom">Jch</fw>
-          <pb n="387" facs="#facs-p471"/>
+          <pb n="387" facs="#facs-p449"/>
 
           <lb/><quote>
             <lb/>Jch habe hier mit einem guten Freunde geredet, welcher den alten Fuchs und Ro-
@@ -371,7 +371,7 @@
           <ref target="#measure-0000000308092062 #measure-0000000427001133 #measure-0000001396858989 #measure-0000000331193353">drey biß vier Taͤcte des Anfangs</ref>;
           <ref target="#measure-0000000169670186">hernach</ref> laͤufft ſie mit dem Baß in
           <fw type="catch" place="bottom">Tertzen</fw>
-          <pb n="388" facs="#facs-p472"/>
+          <pb n="388" facs="#facs-p450"/>
 
           <lb/>Tertzen und vollen Griffen
           <ref target="#measure-0000000834671509">biß zum Abſatz</ref>. Daß auch

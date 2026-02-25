@@ -76,24 +76,24 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p507">
-          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/507"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p485">
+          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/485"/>
           <zone ulx="51" uly="227" lry="748" lrx="1956" xml:id="facsZone-p1"/>
           <zone ulx="62" uly="740" lry="1375" lrx="1955" xml:id="facsZone-p2-1"/>
           <zone ulx="75" uly="1367" lry="1726" lrx="1953" xml:id="facsZone-p3-1"/>
           <zone ulx="75" uly="1703" lry="2074" lrx="1950" xml:id="facsZone-music-example1"/>
           <zone ulx="81" uly="2048" lry="2134" lrx="1947" xml:id="facsZone-p3-2"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2476" xml:id="facs-p508">
-          <graphic width="1998px" height="2476px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/508"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2476" xml:id="facs-p486">
+          <graphic width="1998px" height="2476px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/486"/>
           <zone ulx="81" uly="236" lry="850" lrx="1968" xml:id="facsZone-p4-1"/>
           <zone ulx="480" uly="818" lry="1105" lrx="1497" xml:id="facsZone-music-example2"/>
           <zone ulx="561" uly="1187" lry="1486" lrx="1485" xml:id="facsZone-music-example3"/>
           <zone ulx="78" uly="1079" lry="1219" lrx="1956" xml:id="facsZone-p4-2"/>
           <zone ulx="84" uly="1466" lry="2095" lrx="1971" xml:id="facsZone-p5-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2415" xml:id="facs-p509">
-          <graphic width="1998px" height="2415px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/509"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2415" xml:id="facs-p487">
+          <graphic width="1998px" height="2415px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/487"/>
           <zone ulx="30" uly="182" lry="1684" lrx="1923" xml:id="facsZone-music-example4"/>
           <zone ulx="36" uly="1649" lry="2272" lrx="1920" xml:id="facsZone-p6-1"/>
       </surface>
@@ -108,7 +108,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="423" facs="#facs-p507"/>
+      <pb n="423" facs="#facs-p485"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
       <div n="1">
@@ -165,7 +165,7 @@
       </div>
 
       <fw place="bottom" type="catch">Bey</fw>
-      <pb n="424" facs="#facs-p508"/>
+      <pb n="424" facs="#facs-p486"/>
 
       <div n="4">
         <head>§. 4.</head>
@@ -202,7 +202,7 @@
           <lb/>mahl herſetzen:
         </p>
         <fw place="bottom" type="catch">§. 6.</fw>
-        <pb n="425" facs="#facs-p509"/>
+        <pb n="425" facs="#facs-p487"/>
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
           <ptr target="music-example4.xml"/>
         </notatedMusic>

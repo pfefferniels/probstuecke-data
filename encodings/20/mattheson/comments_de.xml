@@ -76,16 +76,16 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2418" xml:id="facs-p501">
-          <graphic width="1998px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/501"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2418" xml:id="facs-p479">
+          <graphic width="1998px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/479"/>
           <zone ulx="48" uly="1157" lry="1516" lrx="1920" xml:id="facsZone-p1-1"/>
           <zone ulx="288" uly="1490" lry="1810" lrx="1611" xml:id="facsZone-music-example1"/>
           <zone ulx="39" uly="1751" lry="1918" lrx="1932" xml:id="facsZone-p1-2"/>
           <zone ulx="45" uly="1895" lry="439" lrx="1932" xml:id="facsZone-p2-1"/>
           <zone ulx="1473" uly="1892" lry="2221" lrx="1917" xml:id="facsZone-music-example2"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p502">
-          <graphic width="1998px" height="2426px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p480">
+          <graphic width="1998px" height="2426px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/480"/>
           <zone ulx="90" uly="185" lry="440" lrx="1941" xml:id="facsZone-p2-1-2"/>
           <zone ulx="93" uly="407" lry="760" lrx="1941" xml:id="facsZone-p3-1"/>
           <zone ulx="102" uly="737" lry="1057" lrx="1938" xml:id="facsZone-music-example3"/>
@@ -94,16 +94,16 @@
           <zone ulx="120" uly="1199" lry="1636" lrx="1950" xml:id="facsZone-p4-1"/>
           <zone ulx="135" uly="1856" lry="2206" lrx="1953" xml:id="facsZone-p5-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p503">
-          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/503"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p481">
+          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/481"/>
           <zone ulx="81" uly="221" lry="835" lrx="1917" xml:id="facsZone-music-example5"/>
           <zone ulx="381" uly="1322" lry="1876" lrx="1512" xml:id="facsZone-music-example6"/>
           <zone ulx="78" uly="809" lry="1141" lrx="1917" xml:id="facsZone-p5-2"/>
           <zone ulx="78" uly="1109" lry="1396" lrx="1917" xml:id="facsZone-p6-1"/>
           <zone ulx="60" uly="1847" lry="2227" lrx="1914" xml:id="facsZone-p7-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2445" xml:id="facs-p504">
-          <graphic width="1998px" height="2445px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/504"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2445" xml:id="facs-p482">
+          <graphic width="1998px" height="2445px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/482"/>
           <zone ulx="111" uly="218" lry="1183" lrx="1947" xml:id="facsZone-music-example7"/>
           <zone ulx="117" uly="1175" lry="2230" lrx="1950" xml:id="facsZone-p8-1"/>
       </surface>
@@ -118,7 +118,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="417" facs="#facs-p501"/>
+      <pb n="417" facs="#facs-p479"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
       <div n="1">
@@ -157,7 +157,7 @@
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
-          <pb n="418" facs="#facs-p502"/>
+          <pb n="418" facs="#facs-p480"/>
           <lb/>wie denn auch im <ref target="#measure-0000001425906512 #measure-0000000763300727">achtzehnten und neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
           <lb/>aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden Menſuren nicht zu ſpaͤt erſcheinen will, der muſs
           <lb/>nicht lange ſaͤumen, ſondern die Finger galoppiren laſſen.
@@ -204,7 +204,7 @@
           <lb/>rechte Hand ihre Accorde und Griffe eben ſo bricht, als der Baß die ſeine. Solches
           <lb/>muß aber nur auf dieſe drey Viertel geſchehen:
         </p>
-        <pb n="419" facs="#facs-p503"/>
+        <pb n="419" facs="#facs-p481"/>
         <notatedMusic xml:id="music-example5" facs="#facsZone-music-example5">
           <ptr target="music-example5.xml"/>
         </notatedMusic>
@@ -237,7 +237,7 @@
           <lb/>anhebenden niedrigen Baß-Schluͤſſel</ref> aber wird nur einmahl zu vier Noten angeſchla-
           <lb/>gen, und, <ref target="#note-0000000045767801">wo der Baß durch Viertel geht</ref>, dieſe Veraͤnderung im Diſcant gemacht:
         </p>
-        <pb n="420" facs="#facs-p504"/>
+        <pb n="420" facs="#facs-p482"/>
         <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">
           <ptr target="music-example7.xml"/>
         </notatedMusic>

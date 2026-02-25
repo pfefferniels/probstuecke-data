@@ -59,17 +59,17 @@
     </meiHead>
     <music>
         <facsimile decls="#secondEdition">
-            <surface xml:id="surface_01DRXXBW793Y78RN1NJJH4NB9M" n="1" ulx="0" uly="0" lrx="1997" lry="2476">
-                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440" width="1998px" height="2477px" />
+            <surface xml:id="facs-p418" n="1" ulx="0" uly="0" lrx="1997" lry="2476">
+                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418" width="1998px" height="2477px" />
             </surface>
-            <surface xml:id="surface_01DRXXBW81W088TTEG7KJBF5N4" n="2" ulx="0" uly="0" lrx="1997" lry="2423">
-                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/441" width="1998px" height="2424px" />
+            <surface xml:id="facs-p419" n="2" ulx="0" uly="0" lrx="1997" lry="2423">
+                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/419" width="1998px" height="2424px" />
             </surface>
-            <surface xml:id="surface_01DRXXBW8SPTS35QF40HT64APP" n="3" ulx="0" uly="0" lrx="1997" lry="2470">
-                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/442" width="1998px" height="2471px" />
+            <surface xml:id="facs-p420" n="3" ulx="0" uly="0" lrx="1997" lry="2470">
+                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/420" width="1998px" height="2471px" />
             </surface>
-            <surface xml:id="surface_01DRXXBW9KP46SYD696V2YR4R6" n="4" ulx="0" uly="0" lrx="1997" lry="2421">
-                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/443" width="1998px" height="2422px" />
+            <surface xml:id="facs-p421" n="4" ulx="0" uly="0" lrx="1997" lry="2421">
+                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421" width="1998px" height="2422px" />
             </surface>
         </facsimile>
         <body>
@@ -92,7 +92,7 @@
                     </scoreDef>
                     <section xml:id="section-1262235770">
                         <pb source="#firstEdition" n="154" />
-                        <pb source="#secondEdition" n="356" facs="#graphic_01DRXXBW7CCJ95KSPMFMF07877" />
+                        <pb source="#secondEdition" n="356" facs="#facs-p418" />
                         <measure xml:id="measure-0685332484" metcon="false">
                             <staff xml:id="staff-1631678142" n="1">
                                 <layer xml:id="layer-0004586479" n="1">
@@ -752,7 +752,7 @@
                             <tie xml:id="tie-1774720271" startid="#note-1290683804" endid="#note-0302277523" />
                         </measure>
                         <pb source="#firstEdition" n="155" />
-                        <pb source="#secondEdition" n="357" facs="#graphic_01DRXXBW81G647M2MA67QV8N86" />
+                        <pb source="#secondEdition" n="357" facs="#facs-p419" />
                         <measure xml:id="measure-2113040272" n="32">
                             <staff xml:id="staff-1302629114" n="1">
                                 <layer xml:id="layer-0157553020" n="1">
@@ -1531,7 +1531,7 @@
                             <tie xml:id="tie-0846432627" startid="#note-0063399080" endid="#note-1175774428" />
                         </measure>
                         <pb source="#firstEdition" n="156" />
-                        <pb source="#secondEdition" n="358" facs="#graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" />
+                        <pb source="#secondEdition" n="358" facs="#facs-p420" />
                         <measure xml:id="measure-0108211109" n="61">
                             <staff xml:id="staff-1669005315" n="1">
                                 <layer xml:id="layer-2103028031" n="1">
@@ -2265,7 +2265,7 @@
                             <slur xml:id="slur-1943000346" startid="#note-1627111590" endid="#note-1164042132" />
                         </measure>
                         <pb source="#firstEdition" n="157" />
-                        <pb source="#secondEdition" n="359" facs="#graphic_01DRXXBW9M0QVTHNDK5X37HXE3" />
+                        <pb source="#secondEdition" n="359" facs="#facs-p421" />
                         <measure xml:id="measure-2054233721" n="91">
                             <staff xml:id="staff-1567636525" n="1">
                                 <layer xml:id="layer-0137563342" n="1">

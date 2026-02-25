@@ -61,19 +61,19 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="2363" lrx="1935" xml:id="facs-p352">
-        <graphic width="1935" height="2363" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/352" />
+      <surface ulx="0" uly="0" lry="2363" lrx="1935" xml:id="facs-p318">
+        <graphic width="1935" height="2363" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/318" />
       </surface>
-      <surface ulx="0" uly="0" lry="2355" lrx="1959" xml:id="facs-p353">
-        <graphic width="1959" height="2355" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/353" />
+      <surface ulx="0" uly="0" lry="2355" lrx="1959" xml:id="facs-p319">
+        <graphic width="1959" height="2355" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/319" />
       </surface>
-      <surface ulx="0" uly="0" lry="2337" lrx="1938" xml:id="facs-p354">
-        <graphic width="1938" height="2337" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/354" />
+      <surface ulx="0" uly="0" lry="2337" lrx="1938" xml:id="facs-p320">
+        <graphic width="1938" height="2337" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/320" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
-      <surface ulx="0" uly="0" lrx="1998" lry="2475" xml:id="facs-p430">
-        <graphic width="1998" height="2475" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/430" />
+      <surface ulx="0" uly="0" lrx="1998" lry="2475" xml:id="facs-p408">
+        <graphic width="1998" height="2475" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/408" />
         <zone ulx="96" uly="233" lrx="645" lry="592" xml:id="facsZone-m-40" />
         <zone ulx="618" uly="302" lrx="1440" lry="574" xml:id="facsZone-m-54" />
         <zone ulx="1404" uly="290" lrx="1935" lry="574" xml:id="facsZone-m-85" />
@@ -96,8 +96,8 @@
         <zone ulx="93" uly="1955" lrx="1008" lry="2233" xml:id="facsZone-m-520" />
         <zone ulx="966" uly="1955" lrx="1938" lry="2257" xml:id="facsZone-m-545" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2419" xml:id="facs-p431">
-        <graphic width="1998" height="2419" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/431" />
+      <surface ulx="0" uly="0" lrx="1998" lry="2419" xml:id="facs-p409">
+        <graphic width="1998" height="2419" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/409" />
         <zone ulx="78" uly="167" lrx="1059" lry="445" xml:id="facsZone-m-577" />
         <zone ulx="1032" uly="170" lrx="1881" lry="445" xml:id="facsZone-m-611" />
         <zone ulx="75" uly="419" lrx="1041" lry="682" xml:id="facsZone-m-642" />
@@ -120,8 +120,8 @@
         <zone ulx="60" uly="1976" lrx="1086" lry="2266" xml:id="facsZone-m-1071" />
         <zone ulx="1044" uly="1994" lrx="1902" lry="2269" xml:id="facsZone-m-1114" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2469" xml:id="facs-p432">
-        <graphic width="1998" height="2469" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/432" />
+      <surface ulx="0" uly="0" lrx="1998" lry="2469" xml:id="facs-p410">
+        <graphic width="1998" height="2469" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/410" />
         <zone ulx="96" uly="203" lrx="897" lry="481" xml:id="facsZone-m-1137" />
         <zone ulx="867" uly="188" lrx="1947" lry="484" xml:id="facsZone-m-1161" />
         <zone ulx="117" uly="524" lrx="1080" lry="793" xml:id="facsZone-m-1191" />
@@ -163,8 +163,8 @@
             </staffGrp>
           </scoreDef>
           <section>
-            <pb n="346" source="#secondEdition" facs="#facs-p430" />
-            <pb n="144" source="#firstEdition" facs="#facs-p352" />
+            <pb n="346" source="#secondEdition" facs="#facs-p408" />
+            <pb n="144" source="#firstEdition" facs="#facs-p318" />
             <measure xml:id="m-35" metcon="false">
               <staff xml:id="m-37" n="1">
                 <layer n="1">
@@ -1089,8 +1089,8 @@
                 </fb>
               </harm>
             </measure>
-            <pb n="347" source="#secondEdition" facs="#facs-p431" />
-            <pb n="145" source="#secondEdition" facs="#facs-p353" />
+            <pb n="347" source="#secondEdition" facs="#facs-p409" />
+            <pb n="145" source="#secondEdition" facs="#facs-p319" />
             <measure xml:id="m-573" n="17">
               <staff xml:id="m-576" n="1">
                 <layer n="1">
@@ -2066,8 +2066,8 @@
                 </fb>
               </harm>
             </measure>
-            <pb n="347" source="#secondEdition" facs="#facs-p431" />
-            <pb n="146" source="#firstEdition" facs="#facs-p354" />
+            <pb n="347" source="#secondEdition" facs="#facs-p409" />
+            <pb n="146" source="#firstEdition" facs="#facs-p320" />
             <measure xml:id="m-1130" n="34">
               <staff xml:id="m-1132" n="1">
                 <layer n="1">

@@ -74,23 +74,23 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1951" lrx="1579" xml:id="facs-p360">
-      <graphic width="1579px" height="1951px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/360" />
+    <surface ulx="0" uly="0" lry="1951" lrx="1579" xml:id="facs-p400">
+      <graphic width="1579px" height="1951px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/400" />
     </surface>
-    <surface ulx="0" uly="0" lry="1834" lrx="1579" xml:id="facs-p361">
-      <graphic width="1579px" height="1834px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/361" />
+    <surface ulx="0" uly="0" lry="1834" lrx="1579" xml:id="facs-p401">
+      <graphic width="1579px" height="1834px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/401" />
     </surface>
-    <surface ulx="0" uly="0" lry="1934" lrx="1579" xml:id="facs-p362">
-      <graphic width="1579px" height="1934px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/362" />
+    <surface ulx="0" uly="0" lry="1934" lrx="1579" xml:id="facs-p402">
+      <graphic width="1579px" height="1934px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/402" />
     </surface>
-    <surface ulx="0" uly="0" lry="1883" lrx="1579" xml:id="facs-p363">
-      <graphic width="1579px" height="1883px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/363" />
+    <surface ulx="0" uly="0" lry="1883" lrx="1579" xml:id="facs-p403">
+      <graphic width="1579px" height="1883px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/403" />
     </surface>
-    <surface ulx="0" uly="0" lry="1932" lrx="1579" xml:id="facs-p364">
-      <graphic width="1579px" height="1932px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/364" />
+    <surface ulx="0" uly="0" lry="1932" lrx="1579" xml:id="facs-p404">
+      <graphic width="1579px" height="1932px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/404" />
     </surface>
-    <surface ulx="0" uly="0" lry="1927" lrx="1579" xml:id="facs-p365">
-      <graphic width="1579px" height="1927px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/365" />
+    <surface ulx="0" uly="0" lry="1927" lrx="1579" xml:id="facs-p405">
+      <graphic width="1579px" height="1927px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/405" />
     </surface>
   </facsimile>
   <text>
@@ -121,7 +121,7 @@
         </p>
       </div>
       <fw type="catch" place="bottom">Erla&#x0364;u-</fw>
-      <pb n="180" facs="#facs-p360"/>
+      <pb n="180" facs="#facs-p400"/>
 
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
@@ -166,7 +166,7 @@
           <lb/>meinen, wenn ſo ein <hi rendition="#aq">affect</hi>irter Frantzoſe, mit ein paar <hi rendition="#aq">accompagniren</hi>den
 
           <fw type="catch" place="bottom">Vio-</fw>
-          <pb n="181" facs="#facs-p361"/>
+          <pb n="181" facs="#facs-p401"/>
 
           <hi rendition="#aq">Violi</hi>nen, etwas daher kauet, in Meinung er ſinge, daß er mit ſeinen <hi rendition="#aq">Grimaçen</hi> den
           <lb/>Teuffel bannen wolle, da er doch bißweilen lauter <hi rendition="#aq">tendreſſe</hi> im Munde fu&#x0364;hret.
@@ -215,7 +215,7 @@
           <ref target="#measure-0000000834671509">Cadence</ref>.
 
           <fw place="bottom" type="catch">Daß</fw>
-          <pb n="182" facs="#facs-p362"/>
+          <pb n="182" facs="#facs-p402"/>
 
           <lb/>Daß auch im <ref target="#measure-0000002000489403">elften Tact des andern Theils</ref> das <hi rendition="#aq">Subjectum</hi> wieder in die rechte
           <lb/>Hand fa&#x0364;llt, iſt leicht zu erachten; desgleichen im

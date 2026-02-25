@@ -73,14 +73,14 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1912" lrx="1579" xml:id="facs-p313">
-      <graphic width="1579px" height="1912px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/313" />
+    <surface ulx="0" uly="0" lry="1912" lrx="1579" xml:id="facs-p321">
+      <graphic width="1579px" height="1912px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/321" />
     </surface>
-    <surface ulx="0" uly="0" lry="1909" lrx="1579" xml:id="facs-p314">
-      <graphic width="1579px" height="1909px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/314" />
+    <surface ulx="0" uly="0" lry="1909" lrx="1579" xml:id="facs-p322">
+      <graphic width="1579px" height="1909px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/322" />
     </surface>
-    <surface ulx="0" uly="0" lry="1878" lrx="1579" xml:id="facs-p315">
-      <graphic width="1579px" height="1878px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/315" />
+    <surface ulx="0" uly="0" lry="1878" lrx="1579" xml:id="facs-p323">
+      <graphic width="1579px" height="1878px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/323" />
     </surface>
   </facsimile>
   <text>
@@ -94,7 +94,7 @@
         </figure>
       </div>
       <div n="0" type="chapter">
-      <pb n="147" facs="#facs-p313"/>
+      <pb n="147" facs="#facs-p321"/>
       <head>Erlaͤuterung.</head>
         <div n="1">
           <lb/><head>§. 1.</head>
@@ -135,7 +135,7 @@
             <ref target="#m-1253 #m-1295 #m-1334">nebſt den folgenden</ref>, eine beſondere,
             <lb/>wiewohl aus den vorhergehenden zunehmende <hi rendition="#aq">Syncopation</hi> haben, wobey die uͤber-
             <fw type="catch" place="bottom">ſtehen-</fw>
-            <pb n="148" facs="#facs-p314"/>
+            <pb n="148" facs="#facs-p322"/>
             
             <lb/>ſtehende <hi rendition="#aq">Species</hi> alle gantz genau zu <hi rendition="#aq">exprimi</hi>ren ſind. Da ſolches aber einem jeden
             <lb/>etwas ſchwer zu errathen fallen moͤchte, will ich, <hi rendition="#aq">propter juniores</hi>, ein Eckgen davon
@@ -159,7 +159,7 @@
               <ptr target="music-example2.xml"/>
             </notatedMusic>
             <fw place="bottom" type="catch">Und</fw>
-            <pb n="149" facs="#facs-p315"/>
+            <pb n="149" facs="#facs-p323"/>
             <lb/>Und dieſes mag auch genug ſeyn, fuͤr einen, der ſich gar nicht zu helffen weiß. Die
             <lb/>was heiſſen und bedeuten wollen, muͤſſen ſolche Dinge noch ſchoͤner und kuͤnſtlicher,
             <lb/>als hier angewieſen worden, <hi rendition="#aq">ex tempore</hi> heraus bringen; ſonst ſind ſie, ob wohl eben

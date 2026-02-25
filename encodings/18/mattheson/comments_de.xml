@@ -76,22 +76,22 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p491">
-          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/491"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p469">
+          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469"/>
           <zone ulx="75" uly="749" lry="1132" lrx="1935" xml:id="facsZone-p1-1"/>
           <zone ulx="69" uly="1088" lry="1714" lrx="1938" xml:id="facsZone-p2-1"/>
           <zone ulx="78" uly="1685" lry="2227" lrx="1938" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2491" xml:id="facs-p492">
-          <graphic width="1998px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/492"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2491" xml:id="facs-p470">
+          <graphic width="1998px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470"/>
           <zone ulx="69" uly="173" lry="400" lrx="1962" xml:id="facsZone-p3-1-2"/>
           <zone ulx="60" uly="386" lry="736" lrx="1959" xml:id="facsZone-p4-1"/>
           <zone ulx="62" uly="716" lry="1081" lrx="1943" xml:id="facsZone-p5-1"/>
           <zone ulx="60" uly="1079" lry="1639" lrx="1944" xml:id="facsZone-p6-1"/>
           <zone ulx="51" uly="1598" lry="2248" lrx="1956" xml:id="facsZone-music-example1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2452" xml:id="facs-p493">
-          <graphic width="1998px" height="2452px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/493"/>
+      <surface ulx="0" uly="0" lrx="1998" lry="2452" xml:id="facs-p471">
+          <graphic width="1998px" height="2452px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471"/>
           <zone ulx="21" uly="236" lry="802" lrx="1857" xml:id="facsZone-music-example1-2"/>
           <zone ulx="24" uly="767" lry="985" lrx="1869" xml:id="facsZone-p6-2"/>
           <zone ulx="30" uly="1556" lry="2239" lrx="1869" xml:id="facsZone-p8-1"/>
@@ -108,7 +108,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="407" facs="#facs-p491"/>
+      <pb n="407" facs="#facs-p469"/>
       <div n="0" type="chapter">
       <head>Erlaͤuterung.</head>
       <div n="1">
@@ -146,7 +146,7 @@
           und dreiſſigſten</ref> und <ref target="#measure-0000000804701007">acht und dreiſſigſten Tact</ref> in acht nehmen, und dazu eben das
           <lb/>ſpielen, was der Baß in den beiden vorhergehenden Taͤcten gehabt hat; doch alſo,
           <fw place="bottom" type="catch">als</fw>
-          <pb n="408" facs="#facs-p492"/>
+          <pb n="408" facs="#facs-p470"/>
           <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
           <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
           <lb/>der Note, angegriffen, und vollſtimmig zu Ende gebracht.
@@ -189,7 +189,7 @@
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1 #facsZone-music-example1-2">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
-          <pb n="409" facs="#facs-p493"/>
+          <pb n="409" facs="#facs-p471"/>
           <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte anſchla-
           <lb/>gen muß, welches je und allewege feſt geſetzet wird.
         </p>

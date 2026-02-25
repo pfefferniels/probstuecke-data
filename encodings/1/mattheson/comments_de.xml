@@ -76,19 +76,19 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p389">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/389"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p368">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/368"/>
       <zone ulx="66" uly="1004" lry="1978" lrx="1899" xml:id="facsZone-p1-1"/>
       <zone ulx="54" uly="1964" lry="2215" lrx="1869" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p390">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p369">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/369"/>
       <zone ulx="141" uly="155" lry="718" lrx="1932" xml:id="facsZone-p2-1-2"/>
       <zone ulx="138" uly="692" lry="1924" lrx="1950" xml:id="facsZone-music-example1"/>
       <zone ulx="138" uly="1892" lry="2221" lrx="1941" xml:id="facsZone-p2-2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p391">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p370">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/370"/>
       <zone ulx="62" uly="176" lry="700" lrx="1871" xml:id="facsZone-p3-1"/>
       <zone ulx="60" uly="668" lry="1279" lrx="1881" xml:id="facsZone-music-example2"/>
       <zone ulx="62" uly="1265" lry="1540" lrx="1880" xml:id="facsZone-p4-1"/>
@@ -149,7 +149,7 @@
             Achtel, oder ſchlechte Noten, im ſechszehnten, ſiebenzehnten und achtzehn-
             <lb/>ten Tact</ref>, geben ſchon von ſelbſten zu verſtehen, daß allda mit der rechten Hand
             <fw place="bottom" type="catch">etwas</fw>
-            <pb n="306" facs="#facs-p390"/>
+            <pb n="306" facs="#facs-p368"/>
             <lb/>etwas veraͤnderliches angebracht werden mag; wie es aber eigentlich beſchaffen
             <lb/>ſeyn ſoll, das muß aus den vorhergehenden Saͤtzen abgenommen werden: ſinte-
             <lb/>mahl dieſe Arbeit ſo eingerichtet iſt, daß alles in derselben Aufgabe entweder ſchon vor-
@@ -174,7 +174,7 @@
         </div>
 
         <div n="3">
-          <pb n="307" facs="#facs-p391"/>
+          <pb n="307" facs="#facs-p369"/>
           <lb/><head>§. 3.</head><lb/>
           <p xml:id="p3-1" facs="#facsZone-p3-1">
             <lb/>Jm <ref target="#m-785">drey und zwantzigſten Tact</ref> koͤmmt wieder eben dergleichen Gelegenheit

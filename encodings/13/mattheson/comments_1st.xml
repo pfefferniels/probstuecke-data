@@ -73,17 +73,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1927" lrx="1579" xml:id="facs-p348">
-      <graphic width="1579px" height="1927px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/348" />
+    <surface ulx="0" uly="0" lry="1927" lrx="1579" xml:id="facs-p389">
+      <graphic width="1579px" height="1927px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/389" />
     </surface>
-    <surface ulx="0" uly="0" lry="1895" lrx="1579" xml:id="facs-p349">
-      <graphic width="1579px" height="1895px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/349" />
+    <surface ulx="0" uly="0" lry="1895" lrx="1579" xml:id="facs-p390">
+      <graphic width="1579px" height="1895px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/390" />
     </surface>
-    <surface ulx="0" uly="0" lry="1934" lrx="1579" xml:id="facs-p350">
-      <graphic width="1579px" height="1934px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/350" />
+    <surface ulx="0" uly="0" lry="1934" lrx="1579" xml:id="facs-p391">
+      <graphic width="1579px" height="1934px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/391" />
     </surface>
-    <surface ulx="0" uly="0" lry="1877" lrx="1579" xml:id="facs-p351">
-      <graphic width="1579px" height="1877px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/351" />
+    <surface ulx="0" uly="0" lry="1877" lrx="1579" xml:id="facs-p392">
+      <graphic width="1579px" height="1877px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/392" />
     </surface>
   </facsimile>
   <text>
@@ -150,7 +150,7 @@
           <fw type="catch" place="bottom">
             <hi rendition="#aq">pri</hi>
           </fw>
-          <pb n="171" facs="#facs-p349"/>
+          <pb n="171" facs="#facs-p389"/>
           <hi rendition="#aq">primi</hi>ren, auch geſchwinde Taͤcte und geſchwinde Noten gebrauchen. (2) Muß
           <lb/>man der Mode in gewiſſen Stuͤcken nicht absagen, und (3) werden hier keine <hi rendition="#aq">Signa
           <lb/>obſcura</hi> vorkommen. Was ſonſt der Löw in <hi rendition="#b"><bibl corresp="#ed_h12_cdh_xlb">Petersquentz</bibl></hi> (einer närriſchen Co-
@@ -210,7 +210,7 @@
       </div>
 
       <fw place="bottom" type="catch">Der</fw>
-      <pb n="172" facs="#facs-p350"/>
+      <pb n="172" facs="#facs-p390"/>
 
       <div n="6">
         <lb/><head>§. 6.</head>
@@ -261,7 +261,7 @@
           <ref target="#measure-0000000815808309">acht und zwantzigſten Tact</ref> an biß zu Ende moͤgen beyde Haͤnde
           <lb/><hi rendition="#aq">egalement</hi> ihre <hi rendition="#aq">Syncopation</hi> zuſammen fuͤhren, welches einen gar artigen <hi rendition="#aq">Effect</hi>
           <fw type="catch" place="bottom">thut,</fw>
-          <pb n="173" facs="#facs-p351"/>
+          <pb n="173" facs="#facs-p391"/>
 
           <lb/>thut, dafern nur am rechten Ort angefangen wird. Solches geſchiehet auf fol-
           <lb/>gende Weiſe, da die letzten acht Taͤcte gaͤntzlich <hi rendition="#aq">specifici</hi>ret ſind:

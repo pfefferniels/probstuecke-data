@@ -74,20 +74,20 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1879" lrx="1579" xml:id="facs-p275">
-      <graphic width="1579px" height="1879px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/275" />
+    <surface ulx="0" uly="0" lry="1879" lrx="1579" xml:id="facs-p286">
+      <graphic width="1579px" height="1879px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/286" />
     </surface>
-    <surface ulx="0" uly="0" lry="1896" lrx="1579" xml:id="facs-p276">
-      <graphic width="1579px" height="1896px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/276" />
+    <surface ulx="0" uly="0" lry="1896" lrx="1579" xml:id="facs-p287">
+      <graphic width="1579px" height="1896px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/287" />
     </surface>
-    <surface ulx="0" uly="0" lry="1882" lrx="1579" xml:id="facs-p277">
-      <graphic width="1579px" height="1882px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/277" />
+    <surface ulx="0" uly="0" lry="1882" lrx="1579" xml:id="facs-p288">
+      <graphic width="1579px" height="1882px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/288" />
     </surface>
-    <surface ulx="0" uly="0" lry="1906" lrx="1579" xml:id="facs-p278">
-      <graphic width="1579px" height="1906px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/278" />
+    <surface ulx="0" uly="0" lry="1906" lrx="1579" xml:id="facs-p289">
+      <graphic width="1579px" height="1906px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/289" />
     </surface>
-    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p279">
-      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/279" />
+    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p290">
+      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/290" />
     </surface>
   </facsimile>
   <text>
@@ -178,7 +178,7 @@
             <lb/>wegen auch vorgemeldte
             <hi rendition="#aq"><foreign xml:lang="lat">Syncopation</foreign></hi>
             angebracht werden. Wo der niedrige <ref target="#discant-ref">Diſ-<lb/>
-            cant-Schluͤſſel</ref> einfaͤllt</ref>; und weiter hin,
+            cant-Schluͤſſel</ref> einfaͤllt; und weiter hin,
             <ref target="#m-1267">wo der Baß denſelben Lauff in der
             <lb/><hi rendition="#aq"><foreign xml:lang="lat">Repercuſſion</foreign></hi>
             aus dem G anhebet</ref>, verfaͤhrt man auf eben dieſelbe Weiſe.

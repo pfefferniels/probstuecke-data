@@ -76,29 +76,29 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p396">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/396"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p374">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/374"/>
       <zone ulx="78" uly="302" lry="967" lrx="1947" xml:id="facsZone-p1-1"/>
       <zone ulx="75" uly="950" lry="1339" lrx="1956" xml:id="facsZone-p2-1"/>
       <zone ulx="72" uly="1316" lry="2008" lrx="1947" xml:id="facsZone-music-example1"/>
       <zone ulx="69" uly="1982" lry="2197" lrx="1950" xml:id="facsZone-p2-2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p397">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/397"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p375">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/375"/>
       <zone ulx="60" uly="173" lry="310" lrx="1905" xml:id="facsZone-p2-2-2"/>
       <zone ulx="66" uly="308" lry="676" lrx="1899" xml:id="facsZone-p3-1"/>
       <zone ulx="69" uly="677" lry="1024" lrx="1923" xml:id="facsZone-p4-1"/>
       <zone ulx="60" uly="1013" lry="2104" lrx="1866" xml:id="facsZone-music-example2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p398">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/398"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p376">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/376"/>
       <zone ulx="117" uly="167" lry="628" lrx="1917" xml:id="facsZone-p5-1"/>
       <zone ulx="117" uly="626" lry="1183" lrx="1941" xml:id="facsZone-p6-1"/>
       <zone ulx="120" uly="1181" lry="1834" lrx="1920" xml:id="facsZone-music-example3"/>
       <zone ulx="117" uly="1805" lry="2209" lrx="1902" xml:id="facsZone-p7-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p399">
-      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/399"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p377">
+      <graphic width="1998px" height="2396px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/377"/>
       <zone ulx="72" uly="149" lry="1243" lrx="1890" xml:id="facsZone-p7-1-2"/>
       <zone ulx="69" uly="1232" lry="2143" lrx="1896" xml:id="facsZone-p8-1"/>
     </surface>
@@ -113,7 +113,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="312" facs="#facs-p396"/>
+      <pb n="312" facs="#facs-p374"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head><lb/>
         <div n="1">
@@ -158,7 +158,7 @@
             <p xml:id="p2-2" facs="#facsZone-p2-2 #facsZone-p2-2-2">
               Selbige Art zu syncopiren iſt gantz leicht, und macht ein Aufſehen, als wenn<lb/>
               <fw place="bottom" type="catch">es</fw>
-              <pb n="313" facs="#facs-p397"/>
+              <pb n="313" facs="#facs-p375"/>
               <choice>
                 <sic>es</sic>
                 <corr type="corrigenda">es was</corr>
@@ -199,7 +199,7 @@
           </div>
 
           <div n="5">
-            <pb n="314" facs="#facs-p398"/>
+            <pb n="314" facs="#facs-p376"/>
             <head>§. 5.</head><lb/>
             <p xml:id="p5-1" facs="#facsZone-p5-1">
               Wie man vor allen Dingen den ſchon oben angemerckten achten Tact, we-<lb/>
@@ -251,7 +251,7 @@
               wechſelt ſodann, mit Sexten und Octaven um, eine Clausul um die andere, bis zu den<lb/>
               <fw place="bottom" type="catch">drey</fw>
 
-              <pb n="315" facs="#facs-p399"/>
+              <pb n="315" facs="#facs-p377"/>
               <ref target="#m-1609">drey letzten Taͤcten</ref>, die alle Octaven-Weiſe koͤnnen geſpielet werden. Jch ſehe<lb/>
               ſchon zum Voraus, daß einigen, inſoderheit alten ſtarren Koͤpffen, bey dieſem<lb/>
               Octaven-Handel das Schuͤtteln ſtarck ankommen wird: weil ſie denken, diese<lb/>

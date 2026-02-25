@@ -74,14 +74,14 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1883" lrx="1579" xml:id="facs-p307">
-      <graphic width="1579px" height="1883px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/307" />
+    <surface ulx="0" uly="0" lry="1883" lrx="1579" xml:id="facs-p316">
+      <graphic width="1579px" height="1883px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/316" />
     </surface>
-    <surface ulx="0" uly="0" lry="1899" lrx="1579" xml:id="facs-p308">
-      <graphic width="1579px" height="1899px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/308" />
+    <surface ulx="0" uly="0" lry="1899" lrx="1579" xml:id="facs-p317">
+      <graphic width="1579px" height="1899px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/317" />
     </surface>
-    <surface ulx="0" uly="0" lry="1895" lrx="1579" xml:id="facs-p309">
-      <graphic width="1579px" height="1895px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/309" />
+    <surface ulx="0" uly="0" lry="1895" lrx="1579" xml:id="facs-p318">
+      <graphic width="1579px" height="1895px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/318" />
     </surface>
   </facsimile>
   <text>
@@ -125,7 +125,7 @@
       </div>
 
       <fw place="bottom" type="catch">Er-</fw>
-      <pb n="142" facs="#facs-p308"/>
+      <pb n="142" facs="#facs-p316"/>
 
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
@@ -166,7 +166,7 @@
             Keiner wolle ſich indeſſen einbilden, man gebe dieſe <hi rendition="#aq">Aria</hi> fuͤr Hand-Sa-
             <lb/>chen aus; denn die muͤſſen anders kommen: Ein Curieuſer beliebe auch nur et-
             <fw place="bottom" type="catch">wann</fw>
-            <pb n="143" facs="#facs-p309"/>
+            <pb n="143" facs="#facs-p317"/>
 
             auch nur eine <hi rendition="#aq"><foreign xml:lang="fra">Suite</foreign></hi> des
             <persName ref="http://d-nb.info/gnd/118718517">Herrn Capell-Meister <hi rendition="#b"><persName corresp="#ed_md2_fmx_qlb">Graupners</persName></hi>

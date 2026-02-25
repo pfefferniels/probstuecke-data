@@ -74,14 +74,14 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1935" lrx="1579" xml:id="facs-p376">
-      <graphic width="1579px" height="1935px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/376" />
+    <surface ulx="0" uly="0" lry="1935" lrx="1579" xml:id="facs-p417">
+      <graphic width="1579px" height="1935px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/417" />
     </surface>
-    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p377">
-      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/377" />
+    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p418">
+      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/418" />
     </surface>
-    <surface ulx="0" uly="0" lry="1914" lrx="1579" xml:id="facs-p378">
-      <graphic width="1579px" height="1914px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/378" />
+    <surface ulx="0" uly="0" lry="1914" lrx="1579" xml:id="facs-p419">
+      <graphic width="1579px" height="1914px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/419" />
     </surface>
   </facsimile>
   <text>
@@ -120,7 +120,7 @@
             <lb/>Die <ref target="#measure-0000001591287003 #measure-0000000183024625">erſten zwey Taͤcte</ref> nun ſaͤhe man gerne gantz <hi rendition="#aq">simple</hi> geſpielet, ſo daß das
             <lb/><hi rendition="#aq">Subjectum</hi> vernehmlich heraus kaͤme, zu folge dem in der Natur und Vernunfft
             <fw type="catch" place="bottom">ge-</fw>
-            <pb n="197" facs="#facs-p377"/>
+            <pb n="197" facs="#facs-p417"/>
             <lb/>gegruͤndeten <hi rendition="#aq">Principio</hi>: <hi rendition="#b">Daß aller Anfang ſchlecht und deutlich iſt, und 
             <lb/>auch ſeyn muß</hi>. Durch das <hi rendition="#aq">ſimple</hi> Spielen wird hauptſaͤchlich verlanget,
             <lb/>daß zu jeden ſechs Noten in beſagten Taͤcten nur einmahl mit der rechten Hand
@@ -194,7 +194,7 @@
             <lb/>wird es am Anfang liegen, welcher nach einer <g type="smufl">&#xE4E6;</g> mit der <hi rendition="#aq"><g type="smufl">&#xEA56;</g></hi> vom <ref target="#note-0000001917701080"><hi rendition="#aq">d</hi></ref> gemacht
             <lb/>werden muß, alsdann das uͤbrige von ſelbsten, nach Maßgebung des <hi rendition="#aq">Subjecti</hi>, in
             <fw type="catch" place="bottom">Ter-</fw>
-            <pb facs="#facs-p378" n="198"/>
+            <pb facs="#facs-p418" n="198"/>
             
             <lb/>Tertien mit dem Baß folget, deſſen Schlaͤge doch alle vollſtimmig ſeyn muͤſſen,
             <lb/>und iſt ſonſt, biß zum Schluß des erſten Theils, nichts ſonderlichs mehr zu erinnern,
