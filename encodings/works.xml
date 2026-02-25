@@ -81,8 +81,9 @@
                             <language ident="eng">English</language>
                         </langUsage>
                     </expression>
-                    <expression type="edition" data="#ps3-004">
+                    <expression type="realisation" data="#ps3-004">
                         <creation startdate="2019" />
+                        <author>Hill</author>
                         <langUsage>
                             <language ident="eng">English</language>
                         </langUsage>
@@ -114,14 +115,16 @@
                             <language ident="eng">English</language>
                         </langUsage>
                     </expression>
-                    <expression type="edition" data="#ps4-004">
+                    <expression type="realisation" data="#ps4-004">
                         <creation startdate="2019" />
+                        <author>Hill</author>
                         <langUsage>
                             <language ident="deu">German</language>
                         </langUsage>
                     </expression>
                     <expression type="realisation" data="#ps4-005">
                         <creation startdate="2019" />
+                        <author>Dijoux</author>
                         <langUsage>
                             <language ident="fra">French</language>
                         </langUsage>
