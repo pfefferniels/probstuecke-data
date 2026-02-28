@@ -295,7 +295,7 @@
             </work>
             <work xml:id="work011">
                 <title>Probstück 11</title>
-                <key mode="major" pname="e" />
+                <key mode="major" pname="e" accid="f" />
                 <incip>
                     <incipCode>%C-4$bBEA@3/4 {'6E'6G,6B'6E}{,6G,6B,6E,6G}%F-4{,,6B,6E,,6G,,6B}/{,,6E,,6G,,6B,6E}%F-4{,6G,6B'6E'6G}{'8F'6E'6D}/{'6E%F-4,,6G,,6B,6E}%F-4{,6G,6B'6E'6G}{'8F'6E'6D}/{8'G^'B8'G^'B8'G^''C8'G^''C8'G^''C8'G^''C}{'8E'8E'8E'8E'8E'8E}/</incipCode>
                 </incip>
@@ -322,7 +322,7 @@
             </work>
             <work xml:id="work012">
                 <title>Probstück 12</title>
-                <key mode="major" pname="a" />
+                <key mode="major" pname="a" accid="f" />
                 <incip>
                     <incipCode>%F-3$bBEAD@C {,6A,6E,6A,6B}{'6C,6A'6C'6D}{'8E,8C}8-{'6E'6C}/{'3F'3G'6A'6G'6F}{'6E,6A,6B'6C}{'3D'3E'6F'6E'6D}{'6C,6F,6G,6A}/{,3B'3C'6D'6C,6B}{,6A,6G,6F,6E}{,6D,6C,,6B,,6A}{,8G,,8D}/{,6A,6E,6A,6B}{'6C,6A'6C'6E}{'8A,8F}4-/</incipCode>
                 </incip>
@@ -349,7 +349,7 @@
             </work>
             <work xml:id="work013">
                 <title>Probstück 13</title>
-                <key mode="major" pname="b" />
+                <key mode="major" pname="b" accid="f" />
                 <incip>
                     <incipCode>%F-4$bBE@9/16 {,6F,6B,6B}{,6F,6B,6B}{,6F,6B,6B}/{,6F'6C'6C}{,6F'6C'6C}{,6F'6C'6C}/{,6F'6D'6D}{,6F'6D'6D}{'6bE'6F'6D}/{'6C,6F,6F}{'6C,6F,6F}{'6C,6F,6F}/</incipCode>
                 </incip>
@@ -376,7 +376,7 @@
             </work>
             <work xml:id="work014">
                 <title>Probstück 14</title>
-                <key mode="minor" pname="e" />
+                <key mode="minor" pname="e" accid="f" />
                 <incip>
                     <incipCode>%F-4$bBEADG@2/4 ,4E,8F{,8G,8A,8B}'4.bC,4.B/,4A,8G{,8F,8G,8A},4.nD,,4.B/'4E'8E{'8E'8bD'8E},4A,8A{,8A,8B'8bC}/'4bD'8D{'8D'8bC'8D},4G,8G{,8G,8A,8B}/</incipCode>
                 </incip>
@@ -403,7 +403,7 @@
             </work>
             <work xml:id="work015">
                 <title>Probstück 15</title>
-                <key mode="minor" pname="b" />
+                <key mode="minor" pname="b" accid="f" />
                 <incip>
                     <incipCode>%F-4$bBEAD@2/4 {,b8B'8C}/{b8D6C,b6B}{8Ab8B''}{'8C,8F'8C,8F}</incipCode>
                 </incip>
@@ -430,7 +430,7 @@
             </work>
             <work xml:id="work016">
                 <title>Probstück 16</title>
-                <key mode="minor" pname="a" />
+                <key mode="minor" pname="a" accid="f" />
                 <incip>
                     <incipCode>%F-4$bBEADG@C %F-4 6-{,6A,6B'6C}/{,8B,8E}{'6E'6D'6C,6B}{'8C,8A}6-{'6C'6D'6E}/{'8D,8G}%C-4{'6G'6F'6E'6D}{'6E'6C'6D'6E}{'6F'6E'6D'6C}/{'6D,6B'6C'6D}{'6E'6D'6C,6B}{'6C,6A,6B'6C}{'6D'6C,6B,6A}/</incipCode>
                 </incip>
@@ -511,7 +511,7 @@
             </work>
             <work xml:id="work019">
                 <title>Probstück 19</title>
-                <key mode="minor" pname="f" />
+                <key mode="minor" pname="f" accid="s" />
                 <incip>
                     <incipCode>%F-4$xFCG@C %F-4 8-,8C,4F,4A,4G/'4C4-8-{'8C'8D'8C}/{'6D'6C'6D'6C}{'8D,8B}{'8C,8B}{'6C,6B'6C,6B}/{'8C,8C},4F,4A,4G/</incipCode>
                 </incip>
@@ -592,7 +592,7 @@
             </work>
             <work xml:id="work022">
                 <title>Probstück 22</title>
-                <key mode="major" pname="f" />
+                <key mode="major" pname="f" accid="s" />
                 <incip>
                     <incipCode>%F-4$xFCGDAE@C %F-4 {,8A,6G,6F}'4C,8qB,4A8-,8F/{,8G,8G,8.G,3F,3G}{,8A,8F}{,8C,8A}/{,8B,8B,8.B,3A,3B}{'8C,8G}{,8C'8C}/{'8D,8C'8xE,8C}{'8F,8C'8xE,8C}/</incipCode>
                 </incip>
@@ -619,7 +619,7 @@
             </work>
             <work xml:id="work023">
                 <title>Probstück 23</title>
-                <key mode="minor" pname="c" />
+                <key mode="minor" pname="c" accid="s" />
                 <incip>
                     <incipCode>%F-4$xFCGD@12/8 8-{'8C,8xB}/{'8C'8D'8E}{'8D'8E'8C}{,8xB'8C'8D}{,8G'8C,8nB}/{,8A,8B'8C}{,8B'8C,8A}{,8G,8A,8B}{,8E,8A,8G}/{,8F,8G,8A}{,8G,8A,8F}{,8E,8F,8G}{,8C,8D,8E}/</incipCode>
                 </incip>
@@ -646,7 +646,7 @@
             </work>
             <work xml:id="work024">
                 <title>Probstück 24</title>
-                <key mode="major" pname="d" />
+                <key mode="major" pname="d" accid="f" />
                 <incip>
                     <incipCode>%F-4$bBEAD@C %F-4 {,8.D,6D}{,8.E,6E}{(,8F,8bG,8A)}{(,8B'8C'8D)}/{,8.E,6E}{,8.F,6F}{(,8bG,8A,8B)}{('8C'8D'8E)}/{,8.F,6F}{,8.bG,6G}{(,8A,8B'8C)}{('8D'8E'8F)}/{,8.bG,6G}{,8.A,6A}{(,8B'8C'8D)}{('8E'8F'8bG)}/</incipCode>
                 </incip>
