@@ -32,14 +32,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1731.</bibl>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1719.</bibl>
         <biblFull>
           <titleStmt>
-            <title level="m" type="main">Matthsons Exemplarische Organisten-Probe im Artkel vom Generalbass.</title>
+            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
             <author>
               <persName ref="http://d-nb.info/gnd/118578995">
-                <surname>Johann</surname>
-                <forename>Mattheson</forename>
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
               </persName>
             </author>
           </titleStmt>

@@ -6,8 +6,17 @@
                 <title>Index of Musical Works</title>
             </titleStmt>
             <publicationStmt>
-                <p>
-                </p>
+                <publisher>
+                    <persName>
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>
@@ -31,7 +40,7 @@
                 </bibl>
                 <bibl xml:id="ed_zgj_2cb_5lb">
                     <author>
-                        <persName><surname>Benedetto</surname><forename>Marcello</forename></persName>
+                        <persName><surname>Marcello</surname><forename>Benedetto</forename></persName>
                     </author>
                     <title>L'estro poetico-armonico</title>
                     <publisher>Lovisa</publisher>

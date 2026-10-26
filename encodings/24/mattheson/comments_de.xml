@@ -40,8 +40,8 @@
             <title level="m" type="sub">Bestehend in dreien Classen, Als: In einer gru&#x0364;ndlichen Vorbereitung, In 24 leichten Exempeln, In 24 schwerern Prob-Stu&#x0364;cken</title>
             <author>
               <persName ref="http://d-nb.info/gnd/118578995">
-                <surname>Johann</surname>
-                <forename>Mattheson</forename>
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
               </persName>
             </author>
           </titleStmt>
@@ -1354,7 +1354,7 @@
           <lb />gleiche Theile der Octave nicht nur vor Augen legen,
           <note n="(p)" place="foot">
             <hi rendition="#aq">
-              Voy. <bibl corresp="#ed_ne8-ak3-gpr">Hiſtoire des Ouvrages des Savans. Octobre. 1691.</bibl>
+              Voy. <bibl corresp="#ed_ne8_ak3_gpr">Hiſtoire des Ouvrages des Savans. Octobre. 1691.</bibl>
             </hi>
           </note>
           ſondern leicht, ich weiß nicht

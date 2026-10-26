@@ -6,7 +6,17 @@
                 <title>Bibliography</title>
             </titleStmt>
             <publicationStmt>
-                <p />
+                <publisher>
+                    <persName>
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>
@@ -37,6 +47,13 @@
                 </bibl>
                 <bibl type="journal" xml:id="ed_oz1_by1_5lb">
                     <title>The Tatler</title>
+                </bibl>
+                <bibl type="journal" xml:id="ed_ne8_ak3_gpr">
+                    <editor>
+                        <persName><surname>Basnage de Beauval</surname><forename>Henri</forename></persName>
+                    </editor>
+                    <title>Histoire des ouvrages des savans</title>
+                    <pubPlace>Rotterdam</pubPlace>
                 </bibl>
                 <bibl xml:id="ed_wh3_j5b_5lb">
                     <author>
