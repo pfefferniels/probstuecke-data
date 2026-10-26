@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="about" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="a">About the Edition</title>
+        <author>Niels Pfeffer</author>
+        <author>Klaus Rettinghaus</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No source: This is an original work.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>About the Edition</head>
+        <p>
+          <hi rendition="#i">Probstücke Digital</hi> is a digital edition of the 24 Prob-Stücke (test pieces) that form the
+          “Ober-Classe” of Johann Mattheson’s thoroughbass treatise. Each Prob-Stück is a figured bass, one in each of the
+          24 keys, followed by Mattheson’s <hi rendition="#i">Erläuterung</hi>: a commentary that discusses individual bars
+          and often shows in a short music example how the right hand might be realised.
+        </p>
+        <p>
+          Mattheson published the treatise twice: as <hi rendition="#i">Exemplarische Organisten-Probe im Artikel vom
+          General-Bass</hi> (Hamburg: Schiller und Kißner, 1719) and, revised and enlarged, as
+          <hi rendition="#i">Grosse General-Baß-Schule</hi> (Hamburg: Kißner, 1731). The edition presents both versions,
+          so that Mattheson’s revisions of the music and of the commentary can be followed piece by piece.
+        </p>
+      </div>
+
+      <div>
+        <head>What the Edition Contains</head>
+        <list>
+          <item>
+            The figured basses of all 24 Prob-Stücke, encoded in MEI. One encoding per piece records both prints. Where
+            they differ, both readings are encoded, and each page shows the reading of the print it belongs to.
+          </item>
+          <item>
+            Diplomatic transcriptions of Mattheson’s commentary from both prints, encoded in TEI: 23 from 1719 and 24 from
+            1731. For Probstück 24 only the 1731 commentary is included.
+          </item>
+          <item>
+            An English translation of the commentary by Niels Pfeffer, made from the 1731 text.
+          </item>
+          <item>
+            Lessons and realisations: two lessons that Robert Hill gave on Probstücke 3 and 4 at the Hochschule für Musik
+            Freiburg in May 2019, transcribed from audio recordings, and a realisation of Probstück 4 by Dijoux with
+            notes in French.
+          </item>
+          <item>
+            Editorial notes, and indices of the persons, literature and musical works mentioned in the commentary, linked
+            to the Integrated Authority File (GND) where possible.
+          </item>
+        </list>
+      </div>
+
+      <div>
+        <head>Sources</head>
+        <p>
+          The transcriptions and the page images are based on copies in the Bayerische Staatsbibliothek, Munich:
+        </p>
+        <list>
+          <item>
+            1719: <hi rendition="#i">Exemplarische Organisten-Probe</hi>, shelfmark Mus.th. 977 a.
+            <ref target="https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb10527431-0">Digital copy</ref> ·
+            <ref target="https://opacplus.bsb-muenchen.de/search?oclcno=165907659">Catalogue record</ref>
+          </item>
+          <item>
+            1731: <hi rendition="#i">Grosse General-Baß-Schule</hi>, shelfmark Mus.th. 978 a.
+            <ref target="https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb10598495-7">Digital copy</ref> ·
+            <ref target="https://opacplus.bsb-muenchen.de/search?oclcno=57052215">Catalogue record</ref>
+          </item>
+        </list>
+        <p>
+          Page images are loaded directly from the library’s IIIF service. Each line of music in the edition is linked to
+          the corresponding area of the page in both prints.
+        </p>
+      </div>
+
+      <div>
+        <head>Selection</head>
+        <p>
+          Both versions of the treatise consist of a theoretical preparation, 24 easier examples and the 24 more
+          difficult Prob-Stücke. The edition covers the Prob-Stücke with their commentaries. The preparation and the
+          easier examples are not included.
+        </p>
+        <!-- TODO(editors): explain why the edition concentrates on the Prob-Stücke, and why the 1719 commentary
+             on Probstück 24 is not included. -->
+      </div>
+
+      <div>
+        <head>Editorial Approach</head>
+        <p>
+          Music and text are encoded following the standards of the Music Encoding Initiative (MEI) and the Text Encoding
+          Initiative (TEI). The commentary is transcribed diplomatically following the Base Format of the Deutsches
+          Textarchiv (DTABf), preserving original spelling, line beginnings, catchwords and page breaks. The rules are
+          described in the <ref target="/guidelines/">editorial guidelines</ref>.
+        </p>
+        <p>
+          For easier reading, the website shows the 1719 and 1731 commentaries in modernised spelling. The modernisation
+          is produced automatically by CAB, the normalisation service of the Deutsches Textarchiv, and has not been
+          checked word by word. Point at a word to see its original spelling. The diplomatic transcription itself is
+          contained in the TEI files, which can be downloaded from every page.
+        </p>
+      </div>
+
+      <div>
+        <head>Reading the Edition</head>
+        <p>
+          On each page the score is on the left and the commentary on the right. Highlighted passages in the commentary
+          refer to bars, notes or figures in the score: point at a passage to see them marked in the score, or at a marked
+          element in the score to find the passage. Point at a line of music to see it in the original print. The buttons
+          above the score switch between original and modern clefs, show or hide the upper staff with the right-hand
+          passages notated in the print, and add or remove empty staves for writing out a realisation.
+        </p>
+      </div>
+
+      <div>
+        <head>Team and Credits</head>
+        <list>
+          <item>Edited by Niels Pfeffer and Klaus Rettinghaus.</item>
+          <item>English translation: Niels Pfeffer.</item>
+          <item>Lessons on Probstücke 3 and 4: Robert Hill with Niels Pfeffer; transcription by Niels Pfeffer.</item>
+          <item>Realisation of Probstück 4: Dijoux; encoding by Niels Pfeffer.</item>
+          <item>Website: Niels Pfeffer.</item>
+          <item>Page images: Bayerische Staatsbibliothek, Munich.</item>
+          <item>
+            Software: <ref target="https://www.verovio.org/">Verovio</ref> for music notation,
+            <ref target="https://www.deutschestextarchiv.de/doku/software#cab">CAB</ref> for spelling modernisation,
+            <ref target="https://pagefind.app/">Pagefind</ref> for search.
+          </item>
+        </list>
+        <!-- TODO(editors): add institutional context, funding, project history and ORCID iDs;
+             give Dijoux's full name. -->
+      </div>
+
+      <div>
+        <head>Licence and Reuse</head>
+        <p>
+          Transcriptions, translation, editorial notes, indices and all TEI and MEI encodings are published under the
+          <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International
+          licence (CC BY 4.0)</ref>. The source files are available in the
+          <ref target="https://github.com/pfefferniels/probstuecke-data">probstuecke-data</ref> repository.
+        </p>
+        <p>
+          The page images belong to the Bayerische Staatsbibliothek, Munich, which provides them under the rights
+          statement <ref target="https://rightsstatements.org/vocab/NoC-NC/1.0/">No Copyright – Non-Commercial Use
+          Only</ref>.
+        </p>
+        <p>
+          The source code of the website is available in the
+          <ref target="https://github.com/pfefferniels/probstuecke-digital">probstuecke-digital</ref> repository under
+          the MIT licence.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

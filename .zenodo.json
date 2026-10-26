@@ -1,0 +1,26 @@
+{
+  "title": "Probstücke Digital: TEI and MEI encodings of Johann Mattheson's Prob-Stücke (1719/1731)",
+  "upload_type": "dataset",
+  "description": "TEI and MEI encodings of the 24 Prob-Stücke from Johann Mattheson's Exemplarische Organisten-Probe (Hamburg 1719) and Grosse General-Baß-Schule (Hamburg 1731): the figured basses with the variants between both prints, diplomatic transcriptions of Mattheson's commentary, an English translation, lessons and realisations, and indices of persons, literature and musical works. The encodings are published at https://probstuecke-digital.de/.",
+  "creators": [
+    { "name": "Pfeffer, Niels" },
+    { "name": "Rettinghaus, Klaus" }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Johann Mattheson",
+    "thoroughbass",
+    "figured bass",
+    "music theory",
+    "digital edition",
+    "TEI",
+    "MEI"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://probstuecke-digital.de/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
