@@ -37,7 +37,7 @@
                                 <clef line="1" shape="C" />
                                 <keySig sig="4s" />
                             </staffDef>
-                            <staffDef xml:id="lh" n="1" lines="5" meter.unit="8">
+                            <staffDef xml:id="lh" n="2" lines="5" meter.unit="8">
                                 <clef line="4" shape="F" />
                                 <keySig sig="4s" />
                             </staffDef>

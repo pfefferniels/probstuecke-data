@@ -22,3 +22,4 @@ First versioned release.
 - The *Histoire des ouvrages des savans* cited in Probstück 24 was missing from the bibliography
 - The pointer to the Marcello aria in the English text of Probstück 10 was malformed
 - Name order of Aristoxenus and Benedetto Marcello in the indices
+- Wrong staff numbers in the score of Probstück 19 and in the fourth music example of Probstück 21, which made Verovio crash and broke all pages of both pieces
