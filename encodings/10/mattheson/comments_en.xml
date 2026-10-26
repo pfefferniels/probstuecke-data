@@ -123,7 +123,7 @@
         <head>ARIA del <hi rendition="#i">Signore Marcello</hi>, Nobile Veneto.</head>
         -->
         <notatedMusic xml:id="aria-marcello">
-          <ptr target="#aria-marcello.xml" />
+          <ptr target="aria-marcello.xml" />
         </notatedMusic>
         <p xml:id="p7-1">
           I placed this rather neat aria here for different reasons: (1) so that

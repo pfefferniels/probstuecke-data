@@ -6,8 +6,17 @@
                 <title>Index of Persons</title>
             </titleStmt>
             <publicationStmt>
-                <p>
-                </p>
+                <publisher>
+                    <persName>
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>
@@ -29,8 +38,8 @@
                 <person xml:id="ed_rc3_fgy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/118650149</idno>
                     <persName type="reg">
-                        <surname>Aristoxenus</surname>
-                        <forename>Tarentinus</forename>
+                        <name>Aristoxenus</name>
+                        <addName>Tarentinus</addName>
                     </persName>
                     <birth>360 BC</birth>
                     <death>300 BC</death>

@@ -34,11 +34,11 @@
                 <listBibl>
                     <biblFull xml:id="firstEdition">
                         <titleStmt>
-                            <title level="m" type="main">Matthsons Exemplarische Organisten-Probe im Artkel vom Generalbass.</title>
+                            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
                             <author>
                                 <persName ref="http://d-nb.info/gnd/118578995">
-                                    <surname>Johann</surname>
-                                    <forename>Mattheson</forename>
+                                    <surname>Mattheson</surname>
+                                    <forename>Johann</forename>
                                 </persName>
                             </author>
                         </titleStmt>
@@ -60,8 +60,8 @@
                         <title level="m" type="sub">Bestehend in dreien Classen, Als: In einer gru&#x0364;ndlichen Vorbereitung, In 24 leichten Exempeln, In 24 schwerern Prob-Stu&#x0364;cken</title>
                         <author>
                           <persName ref="http://d-nb.info/gnd/118578995">
-                            <surname>Johann</surname>
-                            <forename>Mattheson</forename>
+                            <surname>Mattheson</surname>
+                            <forename>Johann</forename>
                           </persName>
                         </author>
                       </titleStmt>
