@@ -122,12 +122,12 @@
             <lb />zu <hi rendition="#aq">notiren</hi> bey den <hi rendition="#aq">chromati</hi>ſchen Tonen erwa&#x0364;hlet worden, die etwas unfo&#x0364;rmlich ſcheinet, ungeachtet
             <lb />ſie den meiſten leichter vorko&#x0364;mmt als die <hi rendition="#aq">recipirte</hi>, wie mich ſolches die Erfahrung o&#x0364;ffters gelehret hat,
             <lb />indem ein mittelma&#x0364;ßiger Spieler Z. E. weniger bey dieſen Noten ſtutzen wird:
-            <notatedMusic xml:id="anm-music-example1" facs="#facs-p441">
-              <ptr target="anm-music-example1.xml"/>
+            <notatedMusic xml:id="music-example4" facs="#facs-p441">
+              <ptr target="music-example4.xml"/>
             </notatedMusic>
             <lb />Als bey folgenden:
-            <notatedMusic xml:id="anm-music-example2" facs="#facs-p441">
-              <ptr target="anm-music-example2.xml"/>
+            <notatedMusic xml:id="music-example5" facs="#facs-p441">
+              <ptr target="music-example5.xml"/>
             </notatedMusic>
             <lb />So hat man doch Urſach zu dencken, daß dieſe gebrauchte <hi rendition="#aq"><foreign xml:lang="fra">Complaiſance</foreign></hi> nunmehro wohl auffho&#x0364;ren
             <lb />mo&#x0364;ge, und daß einer, der in ſeiner Probe bis hieher glu&#x0364;cklich fortgekommen iſt, die Kinder-Schuh
