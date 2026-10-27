@@ -7,7 +7,7 @@ The website shows the 1719 and 1731 commentaries in modernised spelling, with th
 1. Text in `<g>` (music symbols), in the TEI header and in the editors' notes (`<note type="editorial">`) is left as it is.
 2. Names (`<persName>`) and words inside `<foreign>` or under a non-German `xml:lang` only get the character rules (see 4). A footnote inside a foreign quotation is German unless it says otherwise.
 3. A word listed in [`lexicon.tsv`](lexicon.tsv) gets its `norm`.
-4. Any other word gets the character rules: `ſ` → `s`, and `a`, `o`, `u` with combining e (U+0364) → `ä`, `ö`, `ü`.
+4. Any other word gets the character rules: `ſ` → `s`; `a`, `o`, `u` with combining e (U+0364) → `ä`, `ö`, `ü`; and the nasal bar is expanded: `m̃` → `mm`, `ñ` → `nn`, `ẽ` → `en` (`kom̃en` → `kommen`).
 
 Words are split at white space and punctuation, as in the transcriptions. A compound with hyphens that is not listed as a whole is looked up part by part (`Tact-Amt` → `Takt-Amt`). A word broken over two lines with a hyphen before `<lb/>` (or `<pb/>`) is looked up joined (`wuͤr-<lb/>den` → `wuͤrden`); the hyphen is kept before a capital (`Prob-<lb/>Stuͤck`). Abbreviations keep their full stop (`pag.`, `Vid.`).
 

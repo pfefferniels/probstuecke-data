@@ -58,6 +58,10 @@ def character_rules(token: str) -> str:
     token = token.replace('ſ', 's')
     for base, umlaut in (('a', 'ä'), ('o', 'ö'), ('u', 'ü'), ('A', 'Ä'), ('O', 'Ö'), ('U', 'Ü')):
         token = token.replace(base + 'ͤ', umlaut)
+    # the nasal bar abbreviates a doubled consonant or a following n: kom̃en, genañten, Sachẽ
+    token = token.replace('ñ', 'nn').replace('ẽ', 'en')
+    for base, expanded in (('m', 'mm'), ('n', 'nn'), ('e', 'en')):
+        token = token.replace(base + '\u0303', expanded)
     return token
 
 
