@@ -35,3 +35,6 @@ jobs:
         run: |
           pip install lxml
           python scripts/check_references.py
+
+      - name: Check accidentals
+        run: python scripts/check_accidentals.py
