@@ -46,6 +46,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure corresp="#measure-0000002078803044" label="23">
                             <staff n="1">
                                 <layer n="1">
@@ -78,7 +90,14 @@
                                         <note dur="16" oct="3" pname="c" stem.dir="down" />
                                         <note dur="16" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                     </beam>
-                                    <clef line="4" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <beam>
                                         <note dur="16" oct="3" pname="g" stem.dir="down" />
                                         <note dur="16" oct="4" pname="c" stem.dir="down" />
@@ -140,7 +159,14 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef line="4" shape="F" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="F" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="4" shape="F" />
+                                        </reg>
+                                    </choice>
                                     <beam>
                                         <note dur="16" oct="4" pname="e" stem.dir="down" accid.ges="f" />
                                         <note dur="16" oct="2" pname="e" stem.dir="up" accid.ges="f" staff="2" />

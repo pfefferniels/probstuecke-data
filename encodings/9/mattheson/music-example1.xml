@@ -47,6 +47,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure corresp="#m-1220" label="37">
                             <staff n="1">
                                 <layer n="1">
@@ -167,7 +179,14 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef line="4" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <note dur="4" oct="4" pname="e">
                                         <accid accid="f" />
                                     </note>

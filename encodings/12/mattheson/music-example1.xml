@@ -46,6 +46,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section label="excerpt">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure xml:id="measure-0000000138979836" n="36">
                             <staff n="1">
                                 <layer n="1">
