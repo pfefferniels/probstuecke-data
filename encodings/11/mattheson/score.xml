@@ -1290,7 +1290,7 @@
                   </beam>
                 </layer>
               </staff>
-              <staff n="2">
+              <staff n="2" facs="#facsZone-staff-0000000633397600">
                 <layer n="1">
                   <orig>
                     <clef line="4" shape="F" />
@@ -1366,7 +1366,7 @@
                   </beam>
                 </layer>
               </staff>
-              <staff n="2">
+              <staff n="2" facs="#facsZone-staff-0000001023194498">
                 <layer n="1">
                   <beam>
                     <note dur="16" oct="4" pname="e" stem.dir="down" accid.ges="f" />

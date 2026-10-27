@@ -116,7 +116,7 @@
         <zone ulx="103" uly="205" lrx="1218" lry="557" xml:id="facsZone-m-832" />
         <zone ulx="1168" uly="193" lrx="1998" lry="551" xml:id="facsZone-m-873" />
         <zone ulx="100" uly="564" lrx="1001" lry="895" xml:id="facsZone-m-899" />
-        <zone ulx="970" uly="571" lrx="1986" lry="901" xml:id="facsZone-m-899-2" />
+        <zone ulx="970" uly="571" lrx="1986" lry="901" xml:id="facsZone-m-929" />
         <zone ulx="97" uly="914" lrx="1193" lry="1207" xml:id="facsZone-m-966" />
         <zone ulx="1150" uly="914" lrx="1986" lry="1232" xml:id="facsZone-m-1009" />
         <zone ulx="100" uly="1246" lrx="862" lry="1570" xml:id="facsZone-m-1049" />
@@ -1764,7 +1764,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="m-899" n="2" facs="#facsZone-m-899 #facsZone-m-899-2">
+              <staff xml:id="m-899" n="2" facs="#facsZone-m-899">
                 <layer n="1">
                   <beam>
                     <note xml:id="m-901" dur="8" oct="4" pname="d" />
@@ -1828,7 +1828,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="m-929" n="2">
+              <staff xml:id="m-929" n="2" facs="#facsZone-m-929">
                 <layer n="1">
                   <beam>
                     <note xml:id="m-931" dur="32" oct="3" pname="b" accid.ges="f" />
