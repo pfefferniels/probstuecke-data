@@ -239,7 +239,7 @@
           <lb/>abermahl erlaͤutert werde, was in der Quint oder Tertie anfangen oder <hi rendition="#aq">alterni-
           <lb/>ren</hi> heiſſe.
         </p>
-        <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
+        <notatedMusic xml:id="music-example3" facs="#facs-p390">
           <ptr target="music-example3.xml"/>
         </notatedMusic>
         <p>
@@ -266,14 +266,14 @@
           <lb/>thut, dafern nur am rechten Ort angefangen wird. Solches geſchiehet auf fol-
           <lb/>gende Weiſe, da die letzten acht Taͤcte gaͤntzlich <hi rendition="#aq">specifici</hi>ret ſind:
         </p>
-        <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
+        <notatedMusic xml:id="music-example4" facs="#facs-p391">
           <ptr target="music-example4.xml"/>
         </notatedMusic>
       </div>
 
       <div n="9">
         <head>§. 9.</head>
-        <p xml:id="p9-1" facs="#facsZone-p9-1">
+        <p xml:id="p9-1" facs="#facs-p391">
           Dieses <hi rendition="#aq">Harpeggio</hi>, ob es gleich nur zweyſtimmig auſſiehet, iſt dennoch im Grun-
           <lb/>de vierſtimmig, und klingt bey der Geſchwidigkeit ſo voll, als ſonſt acht Stim-
           <lb/>men bey geraden oder ſchlechten Griffen nicht thun koͤnnen; Man brige es aber

@@ -74,7 +74,7 @@
     </fileDesc>
   </teiHeader>
   <text>
-    <pb facs="#facs-p255"/>
+    <pb/>
     <front>
       <titlePage type="main">
         <docAuthor>Mattheſons</docAuthor>

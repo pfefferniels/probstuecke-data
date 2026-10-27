@@ -77,7 +77,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb facs="#facs-p385"/>
+      <pb/>
       <titlePage type="main">
         <docTitle>
           <titlePart type="main">

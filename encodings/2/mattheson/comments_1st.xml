@@ -124,7 +124,7 @@
         <lb/><head>Erlaͤuterung.</head>
         <lb/><div n="1">
           <head>§. 1.</head>
-          <p xml:id="p1-1" facs="#facsZone-p1-1">
+          <p xml:id="p1-1" facs="#facs-p286">
             <hi rendition="#in">D</hi>Jeses Prob-Stuͤcke kan an statt einer
             <hi rendition="#aq"><foreign xml:lang="ita">Toccata</foreign></hi>, oder wenigſtens wie eine
             <lb/>gute <hi rendition="#aq"><foreign xml:lang="ita">Toccatina</foreign></hi> gebraucht werden, und geben ſchon im ersten Tact die
@@ -145,7 +145,7 @@
         </div>
         <div n="2">
           <lb/><head>§. 2.</head>
-          <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
+          <lb/><p xml:id="p2-1" facs="#facs-p286">
             Wo ſolche Saͤtze kommen als im <ref target="#m-192">vierten Tact</ref>, da ſpringet man immer
             <lb/>Accort-weiſe in der rechten Hand mit, und faͤngt von der Tertie an; Bey dem
             <lb/><ref target="#m-269">ſechſten Tact</ref> wolle man mercken, daß die
@@ -153,12 +153,12 @@
             <hi rendition="#aq"><foreign xml:lang="lat">Syncopation</foreign></hi> mit
             <lb/>Sexten in der rechten Hand, folgender Geſtalt angebracht werden koͤnne:
           </p>
-          <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
+          <notatedMusic xml:id="music-example1" facs="#facs-p286">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
           <fw place="bottom" type="catch">Sel-</fw>
           <pb n="113"/>
-          <p xml:id="p2-2" facs="#facsZone-p2-2 #facsZone-p2-2-2">
+          <p xml:id="p2-2" facs="#facs-p287">
             Selbige Art zu <hi rendition="#aq"><foreign xml:lang="lat">ſyncopi</foreign></hi>ren
             iſt gantz leicht, und macht ein
             <hi rendition="#aq"><foreign xml:lang="fra">Bruit</foreign></hi>
@@ -171,7 +171,7 @@
 
         <div n="3">
           <lb/><head>§. 3.</head>
-          <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
+          <lb/><p xml:id="p3-1" facs="#facs-p287">
             Jm <ref target="#m-433">neunten Tact</ref> kommt dergleichen
             <hi rendition="#aq"><foreign xml:lang="fra">Passage</foreign></hi>
             abermahl vor, kan deß-
@@ -187,7 +187,7 @@
 
         <div n="4">
           <lb/><head>§. 4.</head>
-          <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
+          <lb/><p xml:id="p4-1" facs="#facs-p287">
             <ref target="#m-635">Zu Anfang des andern Theils nach dem
             <hi rendition="#aq"><foreign xml:lang="lat">final</foreign></hi>-Zeichen
             𝄐</ref>, bricht man
@@ -198,7 +198,7 @@
             und <hi rendition="#aq"><foreign xml:lang="lat">continui</foreign></hi>ret drey Taͤcte
             <lb/>damit. Soll ich meine Meynung mit Noten deutlicher entdecken? Wohlan!
           </p>
-          <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
+          <notatedMusic xml:id="music-example2" facs="#facs-p287">
             <ptr target="music-example2.xml"/>
           </notatedMusic>
           <fw place="bottom" type="catch">Wie</fw>
@@ -207,7 +207,7 @@
         <div n="5">
           <pb n="114"/>
           <lb/><head>§. 5.</head>
-          <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
+          <lb/><p xml:id="p5-1" facs="#facs-p288">
             Wie man vor allen Dingen den ſchon oben angemerckten achten Tact,
             <lb/>wegen Anbringung des
             <hi rendition="#aq"><foreign xml:lang="lat">Subjcti</foreign></hi>
@@ -226,7 +226,7 @@
 
         <div n="6">
           <lb/><head>§. 6.</head>
-          <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
+          <lb/><p xml:id="p6-1" facs="#facs-p288">
             Was die Achtel im <ref target="#m-1051">drey- und zwantzigſten</ref>
             bis <ref target="#m-1212">ſechs und zwantzigſten Tact</ref>
             <lb/>betrifft, ſo iſt leicht <sic>ſo</sic> ſchließen, daß, bey ſo
@@ -253,14 +253,14 @@
             <hi rendition="#aq"><foreign xml:lang="lat">applici</foreign></hi>ren
             lernen muß.
           </p>
-          <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
+          <notatedMusic xml:id="music-example3" facs="#facs-p288">
             <ptr target="music-example3.xml"/>
           </notatedMusic>
         </div>
 
         <div n="7">
           <lb/><head>§. 7.</head>
-          <lb/><p xml:id="p7-1" facs="#facsZone-p7-1 #facsZone-p7-1-2">
+          <lb/><p xml:id="p7-1" facs="#facs-p288 #facs-p289">
             Bey der <ref target="#m-1382">letzten Helffte des dreißigſten Tacts</ref>
             <note type="editorial">Gemeint ist vermutlich der 31. Takt.</note> kan die
             rechte Hand
@@ -320,7 +320,7 @@
 
         <div n="8">
           <lb/><head>§. 8.</head>
-          <lb/><p xml:id="p8-1" facs="#facsZone-p8-1">
+          <lb/><p xml:id="p8-1" facs="#facs-p289">
             Jch hatte dieſes Exempel mit aller Bequemlichkeit auf zwo kleine gegen
             <lb/>einander uͤberliegende Quart-Seiten entworffen, nicht denckend, daß es im Druck
             <lb/>zweimahl so viel Raums erfodern, noch dem Spieler die verhaſſete Muͤhe des
