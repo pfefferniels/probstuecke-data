@@ -2,6 +2,12 @@
 
 Notable changes to the encodings. Each version corresponds to a tagged release of this repository.
 
+## Unreleased
+
+### Added
+
+- Sentence alignment of the translation with the 1731 text: `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`; the sentences of No. 1 are aligned (`<s xml:id="p1-1-s1">` in `comments_de.xml`, `<s corresp="comments_de.xml#p1-1-s1">` in `comments_en.xml`), and `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
+
 ## 1.0.0 (2026-10-27)
 
 First versioned release.
@@ -26,7 +32,6 @@ First versioned release.
 - `term` in the customisation of the DTA Base Format, `TEI/@type="terms"` and `listRef` in `probstuecke-tei.odd`; `check_references.py` also checks the pointers of `<term>`, of the Register and of the index of terms
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 - The realisations of Nos. 10 and 14 by Niels Pfeffer and of Nos. 20 and 21 by Larry Molinaro, and Robert Hill's lesson on No. 16, are expressions of their works in `works.xml` (`ps10-004`, `ps14-004`, `ps16-004`, `ps20-004`, `ps21-004`), so that the website shows them with their scores and recordings
-- Sentence alignment of the translation with the 1731 text: `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`; the sentences of No. 1 are aligned (`<s xml:id="p1-1-s1">` in `comments_de.xml`, `<s corresp="comments_de.xml#p1-1-s1">` in `comments_en.xml`), and `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
 - The 1719 version of No. 24 (`ps24-001`, pp. 230–256 of the first edition): the commentary is transcribed diplomatically (`24/mattheson/comments_1st.xml`) and the score encodes the readings of the 1719 print; Bussy-Rabutin and Sinn in the index of persons
 
 ### Changed
