@@ -385,6 +385,15 @@
                     <birth>38</birth>
                     <death>102</death>
                 </person>
+                <person xml:id="ed_m5c_t1q_qlb">
+                    <idno type="uri">http://d-nb.info/gnd/128910615</idno>
+                    <persName type="reg">
+                        <surname>Mascitti</surname>
+                        <forename>Michele</forename>
+                    </persName>
+                    <birth>1663</birth>
+                    <death>1760</death>
+                </person>
                 <person xml:id="ed_b2n_mx1_5lb">
                     <idno type="uri">http://d-nb.info/gnd/118578995</idno>
                     <persName type="reg">
