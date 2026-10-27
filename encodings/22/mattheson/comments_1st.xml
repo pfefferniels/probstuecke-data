@@ -103,6 +103,46 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="221" facs="#facs-p441"/>
+      <div>
+        <lb /><head>Anmerckungen.</head>
+        <div n="1">
+          <lb /><head>§. 1.</head>
+          <lb /><p xml:id="anm-p1-1">
+            <hi rendition="#in">W</hi>Eil dieſe <hi rendition="#aq">Pieçe</hi> im Druck nicht fu&#x0364;glich auf zwo Seiten gantz zu bringen war, hat man lieber
+            <lb />hier mit einer langen und <hi rendition="#aq"><foreign xml:lang="lat">final</foreign></hi>-Note auffho&#x0364;ren, als hernach mitten in der Melodie, wo es
+            <lb />ſich gar nicht ſchicket, abbrechen und umkehren wollen.
+          </p>
+        </div>
+        <div n="2">
+          <lb /><head>§. 2.</head>
+          <p xml:id="anm-p2-1">
+            <!-- no new line beginning after title -->
+            Ob gleich bisher in verſchiedenen Exempeln, <hi rendition="#aq"><foreign xml:lang="lat">propter juniores</foreign></hi>, eine gewiſſe einfa&#x0364;ltige Art
+            <lb />zu <hi rendition="#aq">notiren</hi> bey den <hi rendition="#aq">chromati</hi>ſchen Tonen erwa&#x0364;hlet worden, die etwas unfo&#x0364;rmlich ſcheinet, ungeachtet
+            <lb />ſie den meiſten leichter vorko&#x0364;mmt als die <hi rendition="#aq">recipirte</hi>, wie mich ſolches die Erfahrung o&#x0364;ffters gelehret hat,
+            <lb />indem ein mittelma&#x0364;ßiger Spieler Z. E. weniger bey dieſen Noten ſtutzen wird:
+            <notatedMusic xml:id="anm-music-example1" facs="#facs-p441"/>
+            <lb />Als bey folgenden:
+            <notatedMusic xml:id="anm-music-example2" facs="#facs-p441"/>
+            <note type="editorial" resp="#pfeffer">
+              Zwei kurze Notenbeispiele im Baßschlüssel mit Generalbaßziffern (noch ohne Kodierung):
+              dieselbe Wendung zuerst in der bisher gebrauchten, dann in der üblichen
+              Schreibweise der chromatischen Töne.
+            </note>
+            <lb />So hat man doch Urſach zu dencken, daß dieſe gebrauchte <hi rendition="#aq"><foreign xml:lang="fra">Complaiſance</foreign></hi> nunmehro wohl auffho&#x0364;ren
+            <lb />mo&#x0364;ge, und daß einer, der in ſeiner Probe bis hieher glu&#x0364;cklich fortgekommen iſt, die Kinder-Schuh
+            <lb />nun meiſtens vertreten haben, und wiſſen mu&#x0364;ſſe, daß die <hi rendition="#aq"><foreign xml:lang="lat">Intervalla</foreign></hi> nicht ſo wohl nach den <hi rendition="#aq"><foreign xml:lang="lat">Signis</foreign></hi>, als
+            <lb />nach ihrer eigentlichen Maaſſe und <hi rendition="#aq">Proportion</hi> zu beurtheilen ſind. Derowegen iſt in gegenwa&#x0364;rti-
+            <lb />gem und nachfolgenden Prob-Stu&#x0364;cken die bey vielen beru&#x0364;hmten <hi rendition="#aq">Virtuoſen</hi> gebra&#x0364;uchliche Weiſe, mit
+            <lb />dem zweyfachen Creutze (♯♯) eingefu&#x0364;hret worden; dabey man ſich doch ſeine <hi rendition="#aq"><foreign xml:lang="lat">Dubia</foreign></hi> vorbeha&#x0364;lt, und
+            <lb />ſelbige einigermaſſen, zum Beſchluß dieſes Werckes, zu ero&#x0364;rtern ſuchen, anbey inſonderheit we-
+            <lb />gen Notirung des <hi rendition="#aq"><foreign xml:lang="lat">Fis duri</foreign></hi> etwas merckwu&#x0364;rdiges erinnern wird, das hier keinen Raum findet.
+          </p>
+        </div>
+      </div>
+      <pb n="222" facs="#facs-p442"/>
+      <fw place="bottom" type="catch">Erla&#x0364;u-</fw>
       <pb facs="#facs-p443" n="223" />
 
       <div n="0" type="chapter">
