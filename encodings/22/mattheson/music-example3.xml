@@ -109,7 +109,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-0463773013" dur="16" oct="4" pname="b">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-2000663337" dur="16" oct="5" pname="c" accid.ges="s" />
                                         <note xml:id="ex-1179295067" dur="16" oct="4" pname="a" accid.ges="s" />
@@ -203,7 +205,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-1588365063" dur="8" oct="4" pname="b">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-0701329948" dur="8" oct="4" pname="b" accid.ges="s" />
                                         <note xml:id="ex-0362038588" dur="8" oct="5" pname="e">

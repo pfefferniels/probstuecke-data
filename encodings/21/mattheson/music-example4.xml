@@ -118,15 +118,21 @@
                                     <beam>
                                         <note xml:id="note-0000001760375297" dur="16" oct="3" pname="b" />
                                         <note xml:id="note-0000000922821589" dur="16" oct="4" pname="d">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000002138681615" dur="16" oct="3" pname="b" />
                                         <note xml:id="note-0000001970958240" dur="16" oct="4" pname="d">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000128553323" dur="16" oct="3" pname="b" />
                                         <note xml:id="note-0000001564326170" dur="16" oct="4" pname="d">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                 </layer>
@@ -257,7 +263,9 @@
                                     <beam>
                                         <note xml:id="note-0000000670080414" dur="16" oct="4" pname="g" accid.ges="s" />
                                         <note xml:id="note-0000000258518339" dur="16" oct="5" pname="c">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000524199602" dur="16" oct="4" pname="g" accid.ges="s" />
                                         <note xml:id="note-0000001805373539" dur="16" oct="5" pname="c" accid.ges="s" />

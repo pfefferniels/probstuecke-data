@@ -59,7 +59,13 @@
                                 <layer n="1">
                                     <beam>
                                         <note xml:id="ex-nymrtb4" dur="8" oct="3" pname="f" accid.ges="s" />
-                                        <note xml:id="ex-n4logf1" dur="8" oct="3" pname="e" accid.ges="s" />
+                                        <note xml:id="ex-n4logf1" dur="8" oct="3" pname="e">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" func="caution" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-nougj0m" dur="8" oct="3" pname="d" />

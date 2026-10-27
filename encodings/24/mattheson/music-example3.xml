@@ -52,7 +52,9 @@
                                         <accid accid="f" />
                                     </note>
                                     <note xml:id="ex-nw3b4ef" dur="4" oct="3" pname="d">
-                                        <accid accid="f" />
+                                        <orig>
+                                            <accid accid="f" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -164,7 +166,9 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-ny2x93y" dur="4" oct="3" pname="c">
-                                        <accid accid="n" />
+                                        <orig>
+                                            <accid accid="n" />
+                                        </orig>
                                     </note>
                                     <note xml:id="ex-nf2efsq" dur="4" oct="3" pname="d">
                                         <accid accid="f" />

@@ -47,7 +47,9 @@
                                     <beam place="below">
                                         <note xml:id="ex-1" dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="g">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="g" accid.ges="f" />

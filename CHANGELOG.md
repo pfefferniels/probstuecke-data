@@ -11,6 +11,8 @@ First versioned release.
 - Every XML file declares a local RELAX NG schema and validates against it; new ODDs for the translations, notes and indices (`probstuecke-tei.odd`) and for `works.xml` (`probstuecke-worklist.odd`); the existing ODDs are adapted to the project's encoding practice
 - `scripts/validate.sh` to validate all encodings with Jing, `scripts/build-schemas.sh` to regenerate the schemas from the ODDs
 - `scripts/check_references.py` to check internal pointers (`@facs`, `ref/@target`, `ptr/@target`, index links), with an allowlist of known open cases
+- `scripts/check_accidentals.py` to check the written accidentals of the MEI encodings against the edition's convention for the diplomatic and the modernised view (`<orig>`, `<supplied>`/`<reg>`, `@func="caution"`), with the rules the full scores follow
+- Accidentals of the music examples encoded for the diplomatic and the modernised view as in the scores: superfluous printed ones in `<orig>`, missing and cautionary ones in `<supplied>`, so that the website can show the examples in modern notation, too
 - GitHub Actions workflow running both checks on pull requests and on `main`
 - `encodings/about/about_en.xml`: description of the edition, its sources, selection, editorial approach, credits and licences
 - Publisher and CC BY 4.0 licence statements in the index files
@@ -32,3 +34,4 @@ First versioned release.
 - Wrong staff numbers in the score of Probstück 19 and in the fourth music example of Probstück 21, which made Verovio crash and broke all pages of both pieces
 - In the 1719 text of Probstück 12, "ſonſt" was encoded with combining e instead of ſ
 - Transcription errors checked against the prints: "Wotte", "kit", "niht", "gafallen", "durgehen", "oͤffentlih", "nocht", "jerderzeit", "weidloch", "mansehnlich", "besanden" (for Worte, mit, nicht, gefallen, durchgehen, oͤffentlich, noch, jederzeit, weidlich, man ſehnlich, beſtanden); f for ſ in "derfelben", "felbiges", "geftimmet", "geftehet", "Organiften-Probe", "ausfchlieſſen"; a missing hyphen in "brilli-ren" (Probstück 2, 1719)
+- In the second music example of Probstück 24, the e of bar 2 was encoded as e sharp; Mattheson's text (§ 19) says that it returns to e natural and that the composer left out the sign
