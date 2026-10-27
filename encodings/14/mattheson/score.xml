@@ -131,7 +131,7 @@
       </surface>
     </facsimile>
     <body>
-      <mdiv n="1">
+      <mdiv n="1" label="E♭ minor">
         <score>
           <scoreDef key.pname="e" key.accid="f" key.mode="minor">
             <pgHead>
@@ -1199,7 +1199,7 @@
           </section>
         </score>
       </mdiv>
-      <mdiv n="2">
+      <mdiv n="2" label="D♯ minor">
         <score>
           <scoreDef key.pname="d" key.accid="s" key.mode="minor">
             <pgHead>
@@ -1213,7 +1213,7 @@
               </app>
             </pgHead>
             <staffGrp>
-              <staffDef clef.shape="C" clef.line="1" n="1" lines="5" label="Mattheson's annotations">
+              <staffDef type="embeddedAnnotation" clef.shape="C" clef.line="1" n="1" lines="5" label="Mattheson's annotations">
                 <keySig sig="6s" />
                 <meterSig count="12" unit="8" />
               </staffDef>
