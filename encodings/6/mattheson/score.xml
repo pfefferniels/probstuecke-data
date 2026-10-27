@@ -115,7 +115,8 @@
         <zone ulx="25" uly="1678" lrx="1042" lry="1982" xml:id="facsZone-m-1115" />
         <zone ulx="1008" uly="1691" lrx="1890" lry="2016" xml:id="facsZone-m-1149" />
         <zone ulx="19" uly="2011" lrx="898" lry="2325" xml:id="facsZone-m-1181" />
-        <zone ulx="873" uly="2020" lrx="1899" lry="2325" xml:id="facsZone-m-1217" />
+        <zone ulx="873" uly="2020" lrx="1554" lry="2325" xml:id="facsZone-m-1217" />
+        <zone ulx="1524" uly="2020" lrx="1899" lry="2325" xml:id="facsZone-m-1250" />
       </surface>
       <surface ulx="0" uly="0" lrx="2033" lry="2523" xml:id="facs-p394">
         <graphic width="2033" height="2523" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/394" />
@@ -1863,7 +1864,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="m-1250" n="2">
+              <staff xml:id="m-1250" n="2" facs="#facsZone-m-1250">
                 <layer n="1">
                   <note xml:id="m-1252" dur="4" oct="2" pname="d" />
                   <rest xml:id="m-1253" dur="4" />

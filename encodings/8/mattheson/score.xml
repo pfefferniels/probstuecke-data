@@ -91,6 +91,7 @@
         <zone ulx="522" uly="1577" lrx="939" lry="1810" xml:id="facsZone-m-244" />
         <zone ulx="896" uly="1568" lrx="1327" lry="1810" xml:id="facsZone-m-268" />
         <zone ulx="1278" uly="1574" lrx="1426" lry="1810" xml:id="facsZone-m-289" />
+        <zone ulx="1367" uly="1574" lrx="1530" lry="1810" xml:id="facsZone-m-298" />
         <zone ulx="1506" uly="1549" lrx="2021" lry="1804" xml:id="facsZone-m-308" />
         <zone ulx="121" uly="2114" lrx="714" lry="2403" xml:id="facsZone-m-330" />
         <zone ulx="670" uly="2073" lrx="1108" lry="2365" xml:id="facsZone-m-350" />
@@ -535,7 +536,7 @@
                   <note xml:id="m-297" dur="4" oct="5" pname="d" />
                 </layer>
               </staff>
-              <staff xml:id="m-298" n="2">
+              <staff xml:id="m-298" n="2" facs="#facsZone-m-298">
                 <layer xml:id="m-299" n="1">
                   <mRest />
                 </layer>

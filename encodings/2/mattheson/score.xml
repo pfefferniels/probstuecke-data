@@ -131,7 +131,8 @@
         <zone ulx="38" uly="961" lrx="790" lry="1327" xml:id="facsZone-m-1511-2" />
         <zone ulx="769" uly="955" lrx="1907" lry="1388" xml:id="facsZone-m-1577" />
         <zone ulx="38" uly="1359" lrx="1894" lry="1774" xml:id="facsZone-m-1652" />
-        <zone ulx="41" uly="1781" lrx="1956" lry="2166" xml:id="facsZone-m-1725" />
+        <zone ulx="41" uly="1781" lrx="1401" lry="2166" xml:id="facsZone-m-1725" />
+        <zone ulx="1371" uly="1781" lrx="1956" lry="2166" xml:id="facsZone-m-1767" />
       </surface>
     </facsimile>
     <body>
@@ -2943,7 +2944,7 @@
                   <space xml:id="m-1766" dur="4" />
                 </layer>
               </staff>
-              <staff xml:id="m-1767" n="2">
+              <staff xml:id="m-1767" n="2" facs="#facsZone-m-1767">
                 <layer n="1">
                   <beam xml:id="m-1770">
                     <note xml:id="m-1769" dur="16" oct="4" pname="d" />

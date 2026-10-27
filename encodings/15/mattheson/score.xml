@@ -86,8 +86,9 @@
         <zone ulx="1410" uly="631" lrx="1692" lry="923" xml:id="facsZone-staff-0000000369360946" />
         <zone ulx="1670" uly="606" lrx="1976" lry="920" xml:id="facsZone-staff-0000000710859310" />
         <zone ulx="121" uly="912" lrx="508" lry="1186" xml:id="facsZone-staff-0000001588837925" />
-        <zone ulx="470" uly="900" lrx="705" lry="1208" xml:id="facsZone-staff-0000001233821212" />
-        <zone ulx="671" uly="915" lrx="811" lry="1192" xml:id="facsZone-staff-0000001976983187" />
+        <zone ulx="470" uly="900" lrx="610" lry="1208" xml:id="facsZone-staff-0000001233821212" />
+        <zone ulx="580" uly="900" lrx="705" lry="1208" xml:id="facsZone-staff-0000001976983187" />
+        <zone ulx="671" uly="915" lrx="811" lry="1192" xml:id="facsZone-staff-0000001897837758" />
         <zone ulx="758" uly="900" lrx="974" lry="1183" xml:id="facsZone-staff-0000000207705980" />
         <zone ulx="934" uly="900" lrx="1113" lry="1202" xml:id="facsZone-staff-0000001626555275" />
         <zone ulx="1058" uly="915" lrx="1209" lry="1211" xml:id="facsZone-staff-0000001399226875" />
@@ -620,7 +621,7 @@
                   </beam>
                 </layer>
               </staff>
-              <staff xml:id="staff-0000001897837758" n="2">
+              <staff xml:id="staff-0000001897837758" n="2" facs="#facsZone-staff-0000001897837758">
                 <layer n="1">
                   <note xml:id="note-0000001312795357" dur="4" oct="2" pname="b" accid.ges="f" />
                   <rest xml:id="rest-0000001864426812" dur="4" />

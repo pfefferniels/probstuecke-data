@@ -81,7 +81,8 @@
         <zone ulx="86" uly="303" lrx="1158" lry="590" xml:id="facsZone-staff-0000000576530365" />
         <zone ulx="1130" uly="306" lrx="1979" lry="621" xml:id="facsZone-staff-0000001976427663" />
         <zone ulx="89" uly="604" lrx="1313" lry="878" xml:id="facsZone-staff-0000001819438945" />
-        <zone ulx="1273" uly="613" lrx="1985" lry="875" xml:id="facsZone-staff-0000000691022510" />
+        <zone ulx="1273" uly="613" lrx="1573" lry="875" xml:id="facsZone-staff-0000000691022510" />
+        <zone ulx="1543" uly="613" lrx="1985" lry="875" xml:id="facsZone-staff-0000000435614713" />
         <zone ulx="86" uly="873" lrx="681" lry="1160" xml:id="facsZone-staff-0000000713049795" />
         <zone ulx="662" uly="873" lrx="1982" lry="1160" xml:id="facsZone-staff-0000001331327067" />
         <zone ulx="86" uly="1158" lrx="1985" lry="1448" xml:id="facsZone-staff-0000002147401152" />
@@ -395,7 +396,7 @@
                   </beam>
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000435614713" n="2">
+              <staff xml:id="staff-0000000435614713" n="2" facs="#facsZone-staff-0000000435614713">
                 <layer n="3">
                   <beam>
                     <chord xml:id="chord-0000001982275971" dur="8">
