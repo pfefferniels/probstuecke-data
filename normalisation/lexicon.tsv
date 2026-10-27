@@ -302,6 +302,7 @@ Hiebey	Hierbei	cab	3
 Jnſtrument	Instrument	cab	3	
 Jnſtruments	Instruments	cab	3	
 Jſt	Ist	cab	3	
+Majer	Majer	edited	3	kept: name
 Menuet	Menuett	cab	3	
 Mittel-Classe	Mittelklasse	cab	3	
 Muſicanten	Musikanten	cab	3	
@@ -321,6 +322,7 @@ andrer	anderer	cab	3
 anmercken	anmerken	cab	3	
 auff	auf	cab	3	
 aufſtoſſen	aufstoßen	cab	3	
+be	be	edited	3	kept: note name (B flat)
 begreiffen	begreifen	cab	3	
 begreifft	begreift	cab	3	
 beigeleget	beigelegt	cab	3	
@@ -440,7 +442,9 @@ HErr	Herr	cab	2
 Hauffen	Haufen	cab	2	
 Hencker	Henker	cab	2	
 Hertzens	Herzens	cab	2	
+Hertzog	Hertzog	edited	2	kept: name
 Hiſtoͤrgen	Histörchen	cab	2	
+Inconvenience	Inconvenience	edited	2	kept: French
 Irrthum	Irrtum	cab	2	
 JEner	Jener	cab	2	
 JEſu	Jesu	cab	2	
@@ -472,10 +476,13 @@ Nohthelffer	Nothelfer	cab	2
 Octaven-Weiſe	Oktaven-Weise	cab	2	
 Octaven-Weſen	Oktaven-Wesen	cab	2	
 Organiste	Organist	cab	2	
+Organœdi	Organœdi	edited	2	kept: Latin
 Ouverturen	Ouvertüren	cab	2	
 Parteyen	Parteien	cab	2	
 Praxin	Praxin	edited	2	Latin word
 Preiß	Preis	cab	2	
+Printz	Printz	edited	2	kept: name
+Printzen	Printzen	edited	2	kept: name
 Proceß	Prozeß	cab	2	
 Quart-Seiten	Quarte-Seiten	cab	2	
 Rathe	Rate	cab	2	
@@ -510,6 +517,7 @@ Teutſche	Deutsche	cab	2
 Tractat	Traktat	cab	2	
 Trumpff	Trumpf	cab	2	
 Uebelstand	Übelstand	cab	2	
+Uebelſtand	Übelstand	cab	2	
 Unterscheid	Unterschied	cab	2	
 Urſach	Ursache	cab	2	
 Verläumder	Verleumder	cab	2	
@@ -528,6 +536,7 @@ Werckmeiſter	Werckmeister	edited	2	name: keeps its spelling
 Wiederhohlung	Wiederholung	cab	2	
 Wiewol	Wiewohl	cab	2	
 Wiſſenſchafft	Wissenschaft	cab	2	
+Wolffgang	Wolffgang	edited	2	kept: name
 Woͤrtlein	Wortlein	cab	2	
 Zuthun	Zutun	cab	2	
 abgeloͤset	abgelöst	cab	2	
@@ -626,6 +635,7 @@ gemeynet	gemeint	cab	2
 gepochet	gepocht	cab	2	
 gewehlet	gewählt	cab	2	
 geweisete	geweißte	cab	2	
+geweiſete	geweisete	edited	2	kept: German past participle; CAB: geweißte
 geſaͤet	gesät	cab	2	
 geſtellet	gestellt	cab	2	
 gienge	ginge	cab	2	
@@ -765,7 +775,9 @@ Aenderung	Änderung	cab	1
 Aenderungen	Änderungen	cab	1	
 Aeoliſcher	Äolischer	cab	1	
 Affect	Affekt	cab	1	
+Allabreve	Allabreve	edited	1	kept: Latin
 Andencken	Andenken	cab	1	
+Andr	Andr	edited	1	kept: name
 Anticipation	Antizipation	cab	1	
 Anverwandtinn	Anverwandtin	cab	1	
 Articul	Artikel	cab	1	
@@ -780,6 +792,7 @@ Bedencklichkeiten	Bedenklichkeiten	cab	1
 Beforderung	Beförderung	cab	1	
 Begraͤbniß-Geſaͤngen	Begräbnis-Gesängen	cab	1	
 Bei-Nahmen	Beinamen	cab	1	
+Bendeler	Bendeler	edited	1	kept: name
 Bewandniß	Bewandtnis	cab	1	
 Bewandtnuͤs	Bewandtnis	cab	1	
 Bewandtnuͤß	Bewandtnis	cab	1	
@@ -800,6 +813,7 @@ Cadenzen	Kadenzen	cab	1
 Canal	Kanal	cab	1	
 Candidaten	Kandidaten	cab	1	
 Canoniſche	Kanonische	cab	1	
+Cantable	Cantable	edited	1	kept: Italian
 Cantaten	Kantaten	cab	1	
 Cantaten-Feinde	Kantaten-Feinde	cab	1	
 Cantor-Wahl	Kantor-Wahl	cab	1	
@@ -807,6 +821,7 @@ Capelle	Kapelle	cab	1
 Capellen	Kapellen	cab	1	
 Charactere	Charaktere	cab	1	
 Charlatanerie	Scharlatanerie	cab	1	
+Clauſulæ	Clausulæ	edited	1	kept: Latin
 Claviaturen	Klaviaturen	cab	1	
 Clavicimbel	Klavizimbel	cab	1	
 Clavier-Eintheilung	Klavier-Einteilung	cab	1	
@@ -814,6 +829,7 @@ Clavier-Sachen	Clavier-Sachen	edited	1	issue #124: keep Clavier (CAB: Klavier-Sa
 Clavier-Spieler	Clavier-Spieler	edited	1	issue #124: keep Clavier (CAB: Klavier-Spieler)
 Clavier-Suiten	Klavier-Suiten	cab	1	
 Clavieren	Clavieren	edited	1	issue #124: keep Clavier (CAB: Klavieren)
+Cluͤver	Clüver	edited	1	kept: name
 Collegium	Kollegium	cab	1	
 Commatiſche	Kommatische	cab	1	
 Componisten	Komponisten	cab	1	
@@ -840,11 +856,13 @@ DJeses	Dieses	cab	1
 DJeſes	Dieses	cab	1	
 Dabey	Dabei	cab	1	
 Dahero	Daher	cab	1	
+Dan	Dan	edited	1	kept: name
 Director	Direktor	cab	1	
 Diß	Dies	cab	1	
 Diſſonantzen	Dissonanzen	cab	1	
 Doctor	Doktor	cab	1	
 Doctoren	Doktoren	cab	1	
+Donart	Donart	edited	1	kept: name
 Doppel-Kreutzes	Doppel-Kreuzes	cab	1	
 Dorff-Organiſten	Dorf-Organisten	cab	1	
 Dreimahl	Dreimal	cab	1	
@@ -852,6 +870,7 @@ Dreyling	Dreiling	edited	1	coin; CAB: Dreilinge
 Dreymahl	Dreimal	cab	1	
 Dutzent-Weiſe	Dutzendweise	cab	1	
 ERfahrung	Erfahrung	cab	1	
+Ebner	Ebner	edited	1	kept: name
 Ehr-Geitz	Ehrgeiz	cab	1	
 Ehrbahrkeit	Ehrbarkeit	cab	1	
 Ehrgeitz	Ehrgeiz	cab	1	
@@ -880,6 +899,8 @@ Frantzoͤſiſche	französische	cab	1
 Frantzoͤſiſcher	französischer	cab	1	
 Frantzösiſcher	französischer	cab	1	
 Fuſſe	Fuße	cab	1	
+Galilæi	Galilæi	edited	1	kept: name
+Galilæus	Galilæus	edited	1	kept: name
 Galoppiren	Galoppieren	cab	1	
 Gauckel-Streiche	Gaukel-Streiche	cab	1	
 Gaͤrber-Tritten	Gerber-Tritten	cab	1	
@@ -894,6 +915,7 @@ Gemüth	Gemüt	cab	1
 General-Baßisten	General-Bassisten	cab	1	
 General-Baßiſten	General-Bassisten	cab	1	
 General-Baſſiſte	General-Bassist	cab	1	
+General-Baͤſſes	General-Basses	cab	1	
 Gesellschafft	Gesellschaft	cab	1	
 Gewuͤrtz	Gewürz	cab	1	
 Geſandſchafften	Gesandtschaften	cab	1	
@@ -929,6 +951,7 @@ Hochmuth	Hochmut	cab	1
 Hochmuths	Hochmuts	cab	1	
 Horen	Hören	cab	1	
 Huͤlffe	Hilfe	cab	1	
+Hyperbolæus	Hyperbolæus	edited	1	kept: name
 Hülffe	Hilfe	cab	1	
 Indiscretion	Indiskretion	cab	1	
 Ingredientien	Ingredienzien	cab	1	
@@ -951,6 +974,7 @@ Jst	Ist	cab	1
 Jtaliaͤniſcher	Italienischer	cab	1	
 Jtalien	Italien	cab	1	
 Jtalieniſchen	Italienischen	cab	1	
+Jubilæo	Jubilæo	edited	1	kept: Latin
 Kan	Kann	cab	1	
 Kanst	Kannst	cab	1	
 Kantzel	Kanzel	cab	1	
@@ -1002,6 +1026,7 @@ Mittel-Claſſe	Mittelklasse	cab	1
 Miſbrauch	Mißbrauch	cab	1	
 Miſſethat	Missetat	cab	1	
 Modeniſchen	Modenischen	edited	1	adjective from Modena
+Mothe	Mothe	edited	1	kept: name
 Musica	Musik	cab	1	
 Musick	Musik	cab	1	
 Musſicaliſchen	Musikalischen	cab	1	
@@ -1016,6 +1041,7 @@ Nachdenckens	Nachdenkens	cab	1
 Nahmen	Namen	cab	1	
 Neͤchſt	Nächst	edited	1	CAB: Neechst
 Nicolai-Kirchen	Nikolaikirche	cab	1	
+Niedt	Niedt	edited	1	kept: name
 Noht	Not	cab	1	
 Noten-Wercke	Noten-Werke	cab	1	
 Notenſchreiberey	Notenschreiberei	cab	1	
@@ -1031,15 +1057,19 @@ Officin	Offizin	cab	1
 Organiſten-Zunfft	Organisten-Zunft	cab	1	
 Organiſtens-Burſche	Organisten-Bursche	cab	1	
 Orgel-Wercken	Orgel-Werken	cab	1	
+Palmulæ	Palmulæ	edited	1	kept: Latin
 Pancratz	Pankraz	cab	1	
+Pantelon	Pantelon	edited	1	kept: name
 Paragraphos	Paragraphos	edited	1	Latin word
 Perfection	Perfektion	cab	1	
 Piltze	Pilze	cab	1	
+Piſendel	Pisendel	edited	1	kept: name
 Praag	Prag	cab	1	
 Prob	Prob	edited	1	as in Prob-Stück
 Professorn	Professoren	cab	1	
 Profeſſorn	Professoren	cab	1	
 Præst.	Praest.	cab	1	
+Prætorius	Prætorius	edited	1	kept: name
 Pünctgen	Pünktchen	edited	1	diminutive -gen = -chen
 Pſalm-Werck	Psalm-Werk	cab	1	
 Quackſalberey	Quacksalberei	cab	1	
@@ -1066,7 +1096,9 @@ Schuldener	Schuldner	cab	1
 Schwaͤbiſch-Haͤlliſche	Schwäbisch-Hällische	edited	1	CAB: Schwäbisch-hallische
 Sechzehn-Theile	Sächzehn-Teile	cab	1	
 Selbſt-Erkaͤnntniß	Selbst-Erkenntnis	cab	1	
+Sordinen	Sordinen	edited	1	kept: music term; CAB: Sardinen
 Stegreiff	Stegreif	cab	1	
+Steindorff	Steindorff	edited	1	kept: name
 Stickes	Stückes	edited	1	misprint in the print (No. 10, 1731)
 Studiren	Studieren	cab	1	
 Studirenden	Studierenden	cab	1	
@@ -1076,6 +1108,7 @@ Stückgen	Stückchen	edited	1	diminutive -gen = -chen
 Stümperey	Stümperei	cab	1	
 Syncopiren	Synkopieren	cab	1	
 Synonyma	Synonyme	cab	1	
+Syzygia	Syzygia	edited	1	kept: Latin
 Tact-Grafen	Takt-Grafen	cab	1	
 Tact-Pruͤgeln	Takt-Prügeln	cab	1	
 Tact-Regiment	Takt-Regiment	cab	1	
@@ -1097,6 +1130,7 @@ Teutſch	Deutsch	cab	1
 Teutſchen	Deutschen	cab	1	
 Thaler	Taler	cab	1	
 Theilen	Teilen	cab	1	
+Theologi	Theologi	edited	1	kept: Latin
 Thon	Ton	cab	1	
 Thorheit	Torheit	cab	1	
 Titul	Titel	cab	1	
@@ -1119,6 +1153,7 @@ Uebermuth	Übermut	cab	1
 Uebrigens	Übrigens	cab	1	
 Umkreiß	Umkreis	cab	1	
 Uniſonis	Unisonis	edited	1	Latin word
+Uniſonus	Unisonus	edited	1	kept: Latin
 Unkuͤndigen	Unkundigen	cab	1	
 Unmoͤgligkeit	Unmöglichkeit	cab	1	
 Unterwerffung	Unterwerfung	cab	1	
@@ -1134,6 +1169,8 @@ Vice-Capellmeiſter	Vize-Kapellmeister	cab	1
 Victorie	Victoria	cab	1	
 Violin	Violine	cab	1	
 Violiniste	Violinist	cab	1	
+Violiniſte	Violinist	cab	1	
+Virdung	Virdung	edited	1	kept: name
 Virtù	Virtù	edited	1	Italian word
 Vollenkommenheit	Vollkommenheit	cab	1	
 Vortheile	Vorteile	cab	1	
@@ -1203,6 +1240,7 @@ allermelodieuſeſte	allermelodiöseste	edited	1	CAB dropped aller-
 allerſingbarſte	allersingbarste	edited	1	CAB dropped aller-
 allerſte	allererste	edited	1	das allerſte Subjectum
 allzugroſſe	allzugroße	cab	1	
+all’	all’	edited	1	kept: Italian
 alterniren	alternieren	cab	1	
 alwo	wo	cab	1	
 alzu	allzu	cab	1	
@@ -1401,6 +1439,7 @@ entreffen	antreffen	edited	1	CAB: entraffen
 entwerffen	entwerfen	cab	1	
 erfahreneſten	erfahrensten	cab	1	
 erfahrne	erfahrene	cab	1	
+erfodert	erfordert	cab	1	
 ergetzet	ergötzt	cab	1	
 ergetzlichen	ergötzlichen	cab	1	
 erhohlen	erholen	cab	1	
@@ -1548,6 +1587,7 @@ imgleichen	ingleichen	cab	1
 imitiren	imitieren	cab	1	
 imprimiren	imprimieren	cab	1	
 incapable	inkapable	cab	1	
+inconvenience	inconvenience	edited	1	kept: French
 indeß	indes	cab	1	
 itzigen	jetzigen	cab	1	
 itziger	jetziger	cab	1	
@@ -1661,6 +1701,7 @@ prætendiren	prätendieren	cab	1
 quadriret	quadrieret	cab	1	
 quadrirt	quadriert	cab	1	
 quotidianes	quotidianes	edited	1	Latin word
+raggi	raggi	edited	1	kept: Italian
 recipirte	rezipierte	cab	1	
 recommendire	rekommandiere	cab	1	
 recommendiret	rekommandieret	cab	1	
@@ -1725,6 +1766,7 @@ unzehliche	unzählige	cab	1
 unzehlige	unzählige	cab	1	
 urtheile	urteile	cab	1	
 uͤbereinkoͤmmt	übereinkommt	cab	1	
+uͤbereinkoͤm̃t	übereinkommt	cab	1	
 uͤbermaͤſſige	übermäßige	cab	1	
 uͤbermaͤſſiger	übermäßiger	cab	1	
 uͤbersiehet	übersieht	cab	1	
@@ -1765,6 +1807,7 @@ vollenkommen	vollkommen	cab	1
 vollkomenſte	vollkommenste	cab	1	
 vorgemeldte	vorgemeldete	cab	1	
 vorgestellet	vorgestellt	cab	1	
+vorgeſtellet	vorgestellt	cab	1	
 vorher-geſchenckte	vorhergeschenkt	cab	1	
 vorhero	vorher	cab	1	
 vorkomẽn	vorkommen	cab	1	
@@ -1792,6 +1835,7 @@ wirckende	wirkende	cab	1
 wnigſtens	wenigstens	cab	1	
 wol-eingerichteten	wohl-eingerichteten	cab	1	
 wolan	wohlan	cab	1	
+wolbedaͤchtlich	wohlbedächtlich	cab	1	
 wolfeil	wohlfeil	cab	1	
 wolgemeynten	wohlgemeinten	cab	1	
 wolklingende	wohlklingende	cab	1	
@@ -1839,6 +1883,7 @@ zwiſchen-ſpielender	zwischen-Spielender	cab	1
 zwölffte	zwölfte	cab	1	
 äuſſern	äußeren	cab	1	
 äuſſerſten	äußersten	cab	1	
+æquiſonus	æquisonus	edited	1	kept: Latin
 öberſte	oberste	cab	1	
 überflüßig	überflüssig	cab	1	
 überhäuffet	überhäufet	cab	1	
@@ -1873,6 +1918,7 @@ zwölffte	zwölfte	cab	1
 ſtarcke	starke	cab	1	
 ſtarckes	starkes	cab	1	
 ſtaͤrckeren	stärkeren	cab	1	
+ſtaͤrckern	stärkeren	cab	1	
 ſteiff	steif	cab	1	
 ſtinckt	stinkt	cab	1	
 ſtudirt	studiert	cab	1	
