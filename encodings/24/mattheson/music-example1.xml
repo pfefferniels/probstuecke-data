@@ -52,7 +52,14 @@
                                     </beam>
                                     <note xml:id="ex-nf09uxb" dur="4" oct="3" pname="b" />
                                     <note xml:id="ex-n23u287" dur="8" oct="3" pname="a">
-                                        <accid accid="f" accid.ges="n" />
+                                        <choice>
+                                            <orig>
+                                                <accid accid="f" accid.ges="n" />
+                                            </orig>
+                                            <reg resp="#pfeffer">
+                                                <accid accid="n" />
+                                            </reg>
+                                        </choice>
                                     </note>
                                 </layer>
                             </staff>
@@ -76,7 +83,14 @@
                                         <accid accid="s" accid.ges="s" />
                                     </note>
                                     <note xml:id="ex-ngc9bwg" dur="8" oct="2" pname="a">
-                                        <accid accid="f" accid.ges="n" />
+                                        <choice>
+                                            <orig>
+                                                <accid accid="f" accid.ges="n" />
+                                            </orig>
+                                            <reg resp="#pfeffer">
+                                                <accid accid="n" />
+                                            </reg>
+                                        </choice>
                                     </note>
                                 </layer>
                             </staff>
@@ -98,7 +112,9 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-nndsyb0" dur="2" oct="3" pname="c">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="ex-nouenh3" dur="4" oct="2" pname="a">
                                         <accid accid="s" accid.ges="s" />
@@ -120,7 +136,14 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-n9z96h3" dur="2" oct="2" pname="a">
-                                        <accid accid="f" accid.ges="n" />
+                                        <choice>
+                                            <orig>
+                                                <accid accid="f" accid.ges="n" />
+                                            </orig>
+                                            <reg resp="#pfeffer">
+                                                <accid accid="n" func="caution" />
+                                            </reg>
+                                        </choice>
                                     </note>
                                     <custos xml:id="ex-cu38dop" oct="2" pname="g">
                                         <accid accid="s" />

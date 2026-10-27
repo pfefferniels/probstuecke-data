@@ -34,3 +34,4 @@ First versioned release.
 - Wrong staff numbers in the score of Probstück 19 and in the fourth music example of Probstück 21, which made Verovio crash and broke all pages of both pieces
 - In the 1719 text of Probstück 12, "ſonſt" was encoded with combining e instead of ſ
 - Transcription errors checked against the prints: "Wotte", "kit", "niht", "gafallen", "durgehen", "oͤffentlih", "nocht", "jerderzeit", "weidloch", "mansehnlich", "besanden" (for Worte, mit, nicht, gefallen, durchgehen, oͤffentlich, noch, jederzeit, weidlich, man ſehnlich, beſtanden); f for ſ in "derfelben", "felbiges", "geftimmet", "geftehet", "Organiften-Probe", "ausfchlieſſen"; a missing hyphen in "brilli-ren" (Probstück 2, 1719)
+- In the second music example of Probstück 24, the e of bar 2 was encoded as e sharp; Mattheson's text (§ 19) says that it returns to e natural and that the composer left out the sign
