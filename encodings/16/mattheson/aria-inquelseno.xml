@@ -74,6 +74,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <pb source="#firstEdition" n="190" />
                         <pb source="#secondEdition" n="396" />
                         <measure xml:id="measure-0000000239654491" n="1">
@@ -1097,7 +1109,14 @@
                             <staff xml:id="staff-0000001221596145" n="2">
                                 <layer>
                                     <note xml:id="note-0000001772396230" dur="4" oct="3" pname="e" />
-                                    <clef line="3" shape="C" glyph.name="mensuralCclef" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="3" shape="C" glyph.name="mensuralCclef" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <note xml:id="note-0000002144499454" dur="8" oct="4" pname="g" accid.ges="s" />
                                 </layer>
                             </staff>
@@ -1445,7 +1464,14 @@
                             </staff>
                             <staff xml:id="staff-0000001054543853" n="2">
                                 <layer>
-                                    <clef line="4" shape="F" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="F" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="4" shape="F" />
+                                        </reg>
+                                    </choice>
                                     <note xml:id="note-0000000918705715" dur="4" oct="3" pname="e" />
                                     <note xml:id="note-0000001584539591" dur="8" oct="3" pname="e" />
                                 </layer>
