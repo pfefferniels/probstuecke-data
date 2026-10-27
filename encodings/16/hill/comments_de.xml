@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/lesson_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps16-004">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,78 +38,72 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-       <language ident="ger">German</language>
-       <language ident="eng">English</language>
+        <language ident="de">German</language>
       </langUsage>
-			<particDesc>
-				<person>
-					<persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
-				</person>
-				<person>
-					<persName>Niels Pfeffer</persName>
-				</person>
-			</particDesc>
-			<settingDesc>
-				<setting>
-					<date when="2019-06-03">3rd of June 2019</date>
-					<name type="place">Hochschule für Musik</name>
-					<name type="city">Freiburg im Breisgau, Germany</name>
-				</setting>
-			</settingDesc>
-		</profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="rh" role="teacher">
+            <persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
+          </person>
+          <person xml:id="np" role="student">
+            <persName>Niels Pfeffer</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when="2019-06-03">3 June 2019</date>
+          <name type="place">Hochschule für Musik</name>
+          <name type="city">Freiburg im Breisgau, Germany</name>
+        </setting>
+      </settingDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>
-      <title type="full">
-       <title type="main">
-         Lesson on Prob-Stück 16
-       </title>
-       <title type="sub">
-         <name type="place">MH Freiburg</name>,
-         <date when="2019-06-03">03/06/2019</date>
-       </title>
-      </title>
-      </head>
+      <div type="transcription">
+        <head>
+          <title type="full">
+            <title type="main">
+              Lesson on Prob-Stück 16
+            </title>
+            <title type="sub">
+              <name type="place">MH Freiburg</name>,
+              <date when="2019-06-03">3 June 2019</date>
+            </title>
+          </title>
+        </head>
 
-      <listPerson>
-        <person xml:id="rh" role="teacher">
-          <persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
-        </person>
-        <person xml:id="np" role="student">
-          <persName>Niels Pfeffer</persName>
-        </person>
-      </listPerson>
+        <kinesic who="#np" type="playing" rend="hidden"><desc>spielt</desc></kinesic>
 
-      <incident who="#np" rend="hidden"><desc>spielt</desc></incident>
+        <u who="#rh">
+          Wie wäre es, wenn du das zunächst in eine anderen Tonart, zum Beispiel nach
+          a-Moll, transponierst und dir die ganze Ausarbeitung in a-Moll ausdenkst
+          und das wieder nach as-Moll transponierst?
 
-      <u who="#rh">
-        Wie wäre es, wenn du das zunächst in eine anderen Tonart, zum Beispiel nach
-        a-Moll, transponierst und dir die ganze Ausarbeitung in a-Moll ausdenkst
-        und das wieder nach as-Moll transponierst?
+          Die Wahrscheinlichkeit ist sehr hoch, dass bei <persName corresp="#ed_ngx_5lx_qlb">Bach</persName>
+          zumindest sehr viel von
+          seinen Präludien und Fugen, die in abgelegenen Tonarten sind, ursprünglich
+          einen halben Ton höher oder tiefer komponiert wurden.
 
-        Die Wahrscheinlichkeit ist sehr hoch, dass bei <persName corresp="#ed_ngx_5lx_qlb">Bach</persName>
-        zumindest sehr viel von
-        seinen Präludien und Fugen, die in abgelegenen Tonarten sind, ursprünglich
-        einen halben Ton höher oder tiefer komponiert wurden.
+          Ich versuche einmal das Stück in a-Moll zu lesen, und wir schauen, was passiert.
+        </u>
 
-        Ich versuche einmal das Stück in a-Moll zu lesen, und wir schauen, was passiert.
-      </u>
+        <!-- what Robert Hill played is not transcribed (yet) -->
+        <kinesic who="#rh" type="playing">
+          <desc>spielt</desc>
+        </kinesic>
 
-      <incident who="#rh">
-        <desc>plays</desc>
-      </incident>
-      <notatedMusic></notatedMusic>
-
-      <u who="#rh">
-        Ich glaube, dass es sich lohnen würde, es in gis-Moll oder
-        in a-Moll zu notieren, denn es ist zermürbend mit einem fes in den
-        Vorzeichen zu arbeiten. Wir haben keine Erfahrung damit. Ich würde es
-        in eine naheliegende, aber leichter zu manipulierende Tonart transponieren.
-        Er tut das absichtlich, er will konsequent sein und will quasi den
-        Endverbraucher an den Rande seines Geübten bringen. Aber das heißt nicht,
-        dass wir mitmachen müssen.
-      </u>
+        <u who="#rh">
+          Ich glaube, dass es sich lohnen würde, es in gis-Moll oder
+          in a-Moll zu notieren, denn es ist zermürbend mit einem fes in den
+          Vorzeichen zu arbeiten. Wir haben keine Erfahrung damit. Ich würde es
+          in eine naheliegende, aber leichter zu manipulierende Tonart transponieren.
+          Er tut das absichtlich, er will konsequent sein und will quasi den
+          Endverbraucher an den Rande seines Geübten bringen. Aber das heißt nicht,
+          dass wir mitmachen müssen.
+        </u>
+      </div>
     </body>
   </text>
 </TEI>

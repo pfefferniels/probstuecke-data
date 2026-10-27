@@ -292,6 +292,13 @@
                             <language ident="eng">English</language>
                         </langUsage>
                     </expression>
+                    <expression type="realisation" data="#ps10-004">
+                        <author>Pfeffer</author>
+                        <creation startdate="2019" />
+                        <langUsage>
+                            <language ident="eng">English</language>
+                        </langUsage>
+                    </expression>
                 </expressionList>
             </work>
             <work xml:id="work011">
@@ -400,6 +407,13 @@
                             <language ident="eng">English</language>
                         </langUsage>
                     </expression>
+                    <expression type="realisation" data="#ps14-004">
+                        <author>Pfeffer</author>
+                        <creation startdate="2020" />
+                        <langUsage>
+                            <language ident="deu">German</language>
+                        </langUsage>
+                    </expression>
                 </expressionList>
             </work>
             <work xml:id="work015">
@@ -452,6 +466,13 @@
                         <creation startdate="2019" />
                         <langUsage>
                             <language ident="eng">English</language>
+                        </langUsage>
+                    </expression>
+                    <expression type="realisation" data="#ps16-004">
+                        <author>Hill</author>
+                        <creation startdate="2019" />
+                        <langUsage>
+                            <language ident="deu">German</language>
                         </langUsage>
                     </expression>
                 </expressionList>
@@ -562,6 +583,13 @@
                             <language ident="eng">English</language>
                         </langUsage>
                     </expression>
+                    <expression type="realisation" data="#ps20-004">
+                        <author>Molinaro</author>
+                        <creation startdate="2018" />
+                        <langUsage>
+                            <language ident="eng">English</language>
+                        </langUsage>
+                    </expression>
                 </expressionList>
             </work>
             <work xml:id="work021">
@@ -585,6 +613,13 @@
                     </expression>
                     <expression type="translation" data="#ps21-003">
                         <creation startdate="2019" />
+                        <langUsage>
+                            <language ident="eng">English</language>
+                        </langUsage>
+                    </expression>
+                    <expression type="realisation" data="#ps21-004">
+                        <author>Molinaro</author>
+                        <creation startdate="2018" />
                         <langUsage>
                             <language ident="eng">English</language>
                         </langUsage>

@@ -84,6 +84,26 @@
         <p>
           The transcription may be subdivided into sections using the <gi>div</gi> element, if convenient.
         </p>
+
+        <p>
+          What is played can be linked from the <gi>desc</gi> of a <gi>kinesic</gi>: a
+          <gi>ptr</gi> with <att>type</att> "transcription" points to the MEI encoding of the
+          passage, a <gi>ptr</gi> with <att>type</att> "audio" (and <att>mimeType</att>) to an
+          audio recording of it.
+        </p>
+      </div>
+
+      <div xml:id="score">
+        <head>Score</head>
+        <p>
+          As in the other texts of the edition, a lesson that refers to a score (with
+          <gi>ref</gi> and <att>target</att> pointing to elements of its MEI encoding) gives it
+          before the transcription in a <code>&lt;div type="score"&gt;</code>, which contains a
+          <code>&lt;figure type="notatedMusic"&gt;</code> with a <gi>notatedMusic</gi> whose
+          <gi>ptr</gi> points to the MEI file. A <gi>head</gi> in the <gi>figure</gi> may say what
+          the score shows. The transcription itself follows in a
+          <code>&lt;div type="transcription"&gt;</code>.
+        </p>
       </div>
 
       <div xml:id="schema">
@@ -100,8 +120,8 @@
           <moduleRef key="namesdates" except="birth death faith floruit"/>
           <moduleRef key="linking" except="ab"/>
           <moduleRef key="corpus" except="derivation factuality"/>
-          <!-- music examples played in the lesson, pointing to their MEI encoding -->
-          <moduleRef key="figures" include="notatedMusic"/>
+          <!-- the score and music examples played in the lesson, pointing to their MEI encoding -->
+          <moduleRef key="figures" include="figure notatedMusic"/>
           <elementSpec ident="foreign" mode="change">
             <attList>
               <attDef ident="xml:lang" mode="change" usage="req"/>
@@ -152,6 +172,10 @@
                   <valItem mode="add" ident="transcription">
                     <desc versionDate="2021-08-15" xml:lang="en"
                       >Points to a transcription of the playing that occured at the specific point of time in the lesson</desc>
+                  </valItem>
+                  <valItem mode="add" ident="audio">
+                    <desc versionDate="2026-10-27" xml:lang="en"
+                      >Points to an audio recording of the playing that occured at the specific point of time in the lesson</desc>
                   </valItem>
                 </valList>
               </attDef>
