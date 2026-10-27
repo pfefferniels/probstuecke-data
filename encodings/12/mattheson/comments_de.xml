@@ -119,26 +119,26 @@
       <div n="1">
         <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <lb/><hi rendition="#in">J</hi>St was ſchweres in dem gantzen Werck dieſer Organiſten-Probe, ſo muß ich
+          <lb/><s xml:id="p1-1-s1"><hi rendition="#in">J</hi>St was ſchweres in dem gantzen Werck dieſer Organiſten-Probe, ſo muß ich
           <lb/>wol geſtehen, daß es vieleicht das funfzehnte Exempel der Mittel-Claſſe, und
-          <lb/>denn dieſes zwoͤlffte der Ober-Claſſe ſeyn koͤnnte.
+          <lb/>denn dieſes zwoͤlffte der Ober-Claſſe ſeyn koͤnnte.</s>
         </p>
       </div>
       <div n="2">
         <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          <lb/>Jm gegenwaͤrtigen beruhet dennoch die meiſte Schwierigkeit ohne Zweifel
+          <lb/><s xml:id="p2-1-s1">Jm gegenwaͤrtigen beruhet dennoch die meiſte Schwierigkeit ohne Zweifel
           <lb/>auf die fremden, oder fremd-vermeynten <term xml:id="t_schluesselwechsel-1" corresp="#t_schluesselwechsel">Schluͤſſel</term>: maſſen eben deßwegen, mit gu-
           <lb/>tem Vorbedacht, nur der hohe Baß und hohe Alt gewehlet worden ſind, damit ein
           <lb/>fleiſſiger Spieler deſto geuͤbter in dieſen, der Rede nach, ungewoͤhnlichen Tonen und
-          <lb/>Schluͤſſeln werden moͤge.
+          <lb/>Schluͤſſeln werden moͤge.</s>
         </p>
       </div>
 
       <div n="3">
         <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb/>Die beſte Warnung, ſo ich einigen guten Freunden bey gegenwaͤrtiger Gele-
+          <lb/><s xml:id="p3-1-s1">Die beſte Warnung, ſo ich einigen guten Freunden bey gegenwaͤrtiger Gele-
           <lb/>genheit geben kann, iſt fuͤr das erſte dieſe: daß ſie ſich vorſehen, wenn gewiſſe <term xml:id="t_springende_noten-1" corresp="#t_springende_noten">Spruͤnge</term>
           <lb/>aufſtoſſen, deren man gleich etliche, im
           <ref target="#measure-0000002132490626">erſten</ref>,
@@ -147,27 +147,27 @@
           <ref target="#measure-0000000306381863">fuͤnften Tact</ref>, und wei-
           <lb/>ter hin, antreffen wird; denn ſie ſind nicht in die bloſſe Octave, wie ſie einem jeden
           <lb/>ſonſt wol haͤuffig und taͤglich aufſtoſſen, ſondern etwas weiter von einander entfer-
-          <lb/>net, ſo wie man ſie offtmahls fuͤr Viol-di-Gamben findet.
+          <lb/>net, ſo wie man ſie offtmahls fuͤr Viol-di-Gamben findet.</s>
         </p>
       </div>
 
       <div n="4">
         <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
-          <lb/>Fuͤr das andere halte ich den Finger auf den
+          <lb/><s xml:id="p4-1-s1">Fuͤr das andere halte ich den Finger auf den
           <ref target="#measure-0000001831952514">Anfang des zweiten Theils</ref> dieſes
           <lb/>Prob-Stuͤcks, und bitte inſtaͤndig, man wolle ſich daſelbſt in Acht nehmen, und nicht
-          <lb/>viel nach andern Dingen umſehen. Es ſtehen nur bloß die Secunden uͤber die Noten
+          <lb/>viel nach andern Dingen umſehen.</s> <s xml:id="p4-1-s2">Es ſtehen nur bloß die Secunden uͤber die Noten
           <lb/>geſchrieben, weiter nichts; das andere muß nunmehro ein aus der Mittel- in die Ober-
           <fw place="bottom" type="catch">Claſſe</fw>
           <pb n="369" facs="#facs-p431"/>
           <lb/>Claſſe getretener Lehrling von ſelbſten wiſſen, ob nehmlich die dazu gehoͤrige Quart
           <lb/>entweder groß oder klein ſeyn ſoll, nach dem es die Natur und Eigenſchafft eines jeden
-          <lb/>Klanges, und der Ton-Art, zu welcher er gehoͤret, mit ſich bringet. Wird die Ton-
+          <lb/>Klanges, und der Ton-Art, zu welcher er gehoͤret, mit ſich bringet.</s> <s xml:id="p4-1-s3">Wird die Ton-
           <lb/>Art veraͤndert, in Anſehung der Melodie, ſo ſetzt man gerne die erforderte Ziefern auf
           <lb/>das deutlichſte daruͤber; wo nicht, koͤnnen deren einige mit allem Rechte wegblei-
           <lb/>ben, indem der Spieler die Bewandniß und Natur ſeines Tones kennen muß,
-          <lb/>auſſer welcher hier ſonſt nichts geſuchet wird. Unter uns geſagt, will ich doch ſo
+          <lb/>auſſer welcher hier ſonſt nichts geſuchet wird.</s> <s xml:id="p4-1-s4">Unter uns geſagt, will ich doch ſo
           <lb/>viel Licht geben, daß zu der
           <ref target="#note-0000000910720915">fuͤnfften Note</ref>, im zweiten Tact des erwehnten andern
           <lb/>Theils, die groſſe Quart (4+) gehoͤret, und zwar zur Vermeidung einer ſogenann-
@@ -176,14 +176,14 @@
           ſich habenden <hi rendition="#b">g</hi> ent-
           <lb/>ſtehen wuͤrde.
           <note type="editorial" resp="#pfeffer">Mattheson scheint hier seinen eigenen hohen Bassschluͤssel
-          als einen normalen falsch gelesen zu haben.</note>
+          als einen normalen falsch gelesen zu haben.</note></s>
         </p>
       </div>
 
       <div n="5">
         <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Wenn auch im
+          <lb/><s xml:id="p5-1-s1">Wenn auch im
           <ref target="#measure-0000000699331102">fuͤnfften Tact des zweiten Theils</ref> eine
           <ref target="#fb-1">Sext</ref>
           uͤber <ref target="#note-0000000305001791">der letzten
@@ -191,18 +191,18 @@
           ſtehet, ſo folget alhier und dieſesmahl nicht daraus, daß
           <lb/>ſie auch zu gleicher Zeit mit derſelben Note vernommen, ſondern es erfordert viel-
           <lb/>mehr die Zierde und der Zuſammenhang, daß beſagte Sexte zu der vorhergehen-
-          <lb/>den Note angeſchlagen werde. Es iſt zwar ſchon oben von dieſer <term xml:id="t_antizipation-1" corresp="#t_antizipation">Voraus-Neh-
+          <lb/>den Note angeſchlagen werde.</s> <s xml:id="p5-1-s2">Es iſt zwar ſchon oben von dieſer <term xml:id="t_antizipation-1" corresp="#t_antizipation">Voraus-Neh-
           <lb/>mung</term> eines und anders erwehnet worden; allein es ſtehet zu vermuthen, daß man
           <lb/>nicht gerne ſo weit zuruͤck gehen, und dieſe Erinnerung, ſamt deren Urſache, daſelbſt
-          <lb/>ſuchen werde. Mit verſchiedenen andern Vorfaͤllen gleicher Gattung in dieſem
-          <lb/>gegenwaͤrtigen Prob-Stuͤck hat es auch eben dieſelbe Bewandniß.
+          <lb/>ſuchen werde.</s> <s xml:id="p5-1-s3">Mit verſchiedenen andern Vorfaͤllen gleicher Gattung in dieſem
+          <lb/>gegenwaͤrtigen Prob-Stuͤck hat es auch eben dieſelbe Bewandniß.</s>
         </p>
       </div>
 
       <div n="6">
         <lb/><head>§. 6.</head>
         <p xml:id="p6-2" facs="#facsZone-p6-1">
-          <lb/>Jm
+          <lb/><s xml:id="p6-2-s1">Jm
           <ref target="#measure-0000000904640872">ſiebenden Tact des letzten Theils</ref> koͤmt eine Erfindung
           vor, welche einige
           <lb/>Taͤcte herdurch fortgeſetzet, und nach <term xml:id="t_zwischenspiel-1" corresp="#t_zwischenspiel">zwiſchen-ſpielender</term> Abwechſelung klei-
@@ -211,16 +211,16 @@
           <lb/>Gaͤngen und Spruͤngen habe nur anmercken wollen, daß weiter keine Kuͤnſte da-
           <lb/>zu erfordert werden, als bloß dieſe; daß man zu jedem Viertel einen eintzigen Schlag
           <lb/>thut, ſo wie ihn entweder die Natur und Eigenſchafft des Tons, oder auch die uͤ-
-          <lb/>bergeſetzte Bezeichnungen, an die Hand geben. Es iſt aber wol zu verſtehen, daß
+          <lb/>bergeſetzte Bezeichnungen, an die Hand geben.</s> <s xml:id="p6-2-s2">Es iſt aber wol zu verſtehen, daß
           <lb/>dieſer eintzige Schlag zur erſten Note eines jeden Viertels, und ſonſt zu keiner von den
-          <lb/>dreyen uͤbrigen, geſchehen muͤſſe.
+          <lb/>dreyen uͤbrigen, geſchehen muͤſſe.</s>
         </p>
       </div>
 
       <div n="7">
         <lb/><head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1 #facsZone-p7-1-2">
-          <lb/>Man mag ſich auch, um der im vierten Abſatz dieſer Erlaͤuterung be-
+          <lb/><s xml:id="p7-1-s1">Man mag ſich auch, um der im vierten Abſatz dieſer Erlaͤuterung be-
           <lb/>reits angefuͤhrten Urſachen halber, den
           <ref target="#measure-0000001586855072">elfften Tact des mehr erwehnten zweiten
           <fw place="bottom" type="catch">Theils</fw>
@@ -230,51 +230,51 @@
           <ref target="#measure-0000001984106098">zwey und zwantzigſten</ref>, auch den
           <lb/><ref target="#measure-0000000443751460">drey und zwantzigſten Tact</ref> deſſelben Theils mit
           Fleiß mercken, damit es an ſol-
-          <lb/>chen Stellen, wegen der uͤberſtehenden Ziefern, ſeine voͤllige Richtigkeit erhalte.
-          <lb/>Jnſonderheit beliebe man, bey einer <term xml:id="t_probe-1" corresp="#t_probe">Probe</term>, auf den dritten Tact vor dem Schluſ-
+          <lb/>chen Stellen, wegen der uͤberſtehenden Ziefern, ſeine voͤllige Richtigkeit erhalte.</s>
+          <lb/><s xml:id="p7-1-s2">Jnſonderheit beliebe man, bey einer <term xml:id="t_probe-1" corresp="#t_probe">Probe</term>, auf den dritten Tact vor dem Schluſ-
           <lb/>ſe ſcharff aufzupaſſen, und wenn es da nicht ſtocket oder an ein <term xml:id="t_stolpern-1" corresp="#t_stolpern">Stolpern</term> gehet,
-          <lb/>den Spieler zu loben. Bey der allererſten Note des angezeigten Tacts wird es
+          <lb/>den Spieler zu loben.</s> <s xml:id="p7-1-s3">Bey der allererſten Note des angezeigten Tacts wird es
           <lb/>vermuthlich etwas weniges ins Stecken gerathen: ich weiß es aus der Erfahrung;
-          <lb/>und wenn andre dieſelbe um Rathfragen, werden ſie die Angabe wahr befinden.
-          <lb/>Jndeſſen ſind gleichwol die Vorfaͤlle ſo natuͤrlich angebracht, und alle von der Be-
+          <lb/>und wenn andre dieſelbe um Rathfragen, werden ſie die Angabe wahr befinden.</s>
+          <lb/><s xml:id="p7-1-s4">Jndeſſen ſind gleichwol die Vorfaͤlle ſo natuͤrlich angebracht, und alle von der Be-
           <lb/>ſchaffenheit uͤberhaupt, daß, wenn man verſtaͤndigen Leuten nur einmahl ſagt, wor-
           <lb/>an es hie und da liegt, ſo begreiffen ſie es gleich und gar leicht; wenn einige nur als-
           <lb/>denn bekennen wollten, daß ſie es zuvor nicht recht eingeſehen und gantz anders ver-
-          <lb/>ſtanden haͤtten. Die es koͤnnen und wiſſen, denen wird hier nichts vorgeſchrieben.
+          <lb/>ſtanden haͤtten.</s> <s xml:id="p7-1-s5">Die es koͤnnen und wiſſen, denen wird hier nichts vorgeſchrieben.</s>
         </p>
       </div>
 
       <div n="8">
         <lb/><head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/>Ob nun zwar aus dieſem Ton, in ſo fern er zum Grund-Ton eines Stuͤ-
+          <lb/><s xml:id="p8-1-s1">Ob nun zwar aus dieſem Ton, in ſo fern er zum Grund-Ton eines Stuͤ-
           <lb/>ckes oder Geſanges ſtehen ſoll, ſelten etwas zum Vorſchein koͤmt (wiewol es doch
           <lb/>auch ſo gar an gedruckten Beiſpielen nicht mangelt, wie wir bereits in der Mittel-
           <lb/>Claſſe an gehoͤrigem Ort geſehen haben) ſo treten doch alle Stuͤcke aus dem <hi rendition="#b">F moll</hi>
           <lb/>gar ſtarck in das <hi rendition="#b">bA</hi>, als in die natuͤrliche Tertz, ein und aus: derowegen denn ein
           <lb/>General-Baſſiſt nothwendig auch in dieſer Ton-Art, wenn ſie gleich nicht zum
           <lb/>Grunde ſtehen, ſondern nur, als eine Anverwandtinn, herbeigefuͤhret werden ſollte,
-          <lb/>wol beſchlagen ſeyn muß. Man beſehe und unterſuche nur noch einmahl die vor-
+          <lb/>wol beſchlagen ſeyn muß.</s> <s xml:id="p8-1-s2">Man beſehe und unterſuche nur noch einmahl die vor-
           <lb/>hin, auf der 356ſten Seite, angefuͤhrte <persName corresp="#ed_tj3_cwx_qlb">Marcelliſche</persName>
           Arie, ſo wird ſich die Wahrheit
-          <lb/>des geſagten von ſelbſt erweiſen.
+          <lb/>des geſagten von ſelbſt erweiſen.</s>
         </p>
       </div>
 
       <div n="9">
         <lb/><head>§. 9.</head>
         <p xml:id="p9-1" facs="#facsZone-p9-1">
-          <lb/>Ja, was rede ich vom <hi rendition="#b">F moll</hi> viel? der ſo gar bekannte und taͤglich
+          <lb/><s xml:id="p9-1-s1">Ja, was rede ich vom <hi rendition="#b">F moll</hi> viel? der ſo gar bekannte und taͤglich
           aufſtoſ-
           <lb/>ſende <hi rendition="#b">C moll</hi> weichet zum oͤfftern ins <hi rendition="#b">bA</hi>,
-          als in ſeine natuͤrliche Sext, aus.
-          <lb/>Zu deſſen Beweiß kann, unter tauſend andern Sachen, eine gewiſſe Cantate von
+          als in ſeine natuͤrliche Sext, aus.</s>
+          <lb/><s xml:id="p9-1-s2">Zu deſſen Beweiß kann, unter tauſend andern Sachen, eine gewiſſe Cantate von
           <lb/>dem <persName ref="http://d-nb.info/gnd/118544489">Capell-Meiſter <hi rendition="#b">Haͤndel</hi></persName>
           dienen, die zwar nicht gedruckt, aber in vieler Leu-
-          <lb/>te Haͤnden und ſehr bekannt iſt. Sie fuͤhret die Aufſchrifft: <name type="musicalWork" corresp="#ed_sry_1sx_slb"><hi rendition="#b">Lucretia</hi></name>, und die An-
+          <lb/>te Haͤnden und ſehr bekannt iſt.</s> <s xml:id="p9-1-s3">Sie fuͤhret die Aufſchrifft: <name type="musicalWork" corresp="#ed_sry_1sx_slb"><hi rendition="#b">Lucretia</hi></name>, und die An-
           <lb/>fangs-Worte heiſſen: <hi rendition="#aq">O Numi eterni &amp;c.</hi> aus welchen Umſtaͤnden man ſie leicht
-          <lb/>kennen wird. Die zweite Arie in beſagter Cantate hat gleich, bey Anhebung des an-
-          <lb/>dern Theils, folgende Ausweichung:
+          <lb/>kennen wird.</s> <s xml:id="p9-1-s4">Die zweite Arie in beſagter Cantate hat gleich, bey Anhebung des an-
+          <lb/>dern Theils, folgende Ausweichung:</s>
         </p>
         <fw place="bottom" type="catch">§. 10</fw>
         <pb n="371" facs="#facs-p433"/>
@@ -286,36 +286,36 @@
       <div n="10">
         <lb/><head>§. 10.</head>
         <p xml:id="p10-1" facs="#facsZone-p10-1">
-          <lb/>Jn dieſen wenigen Noten einer aus dem <hi rendition="#b">C moll</hi> gehenden Sing-Weiſe
+          <lb/><s xml:id="p10-1-s1">Jn dieſen wenigen Noten einer aus dem <hi rendition="#b">C moll</hi> gehenden Sing-Weiſe
           iſt der gantze Spren-
           <lb/>gel des <hi rendition="#b">Gis</hi>, oder <hi rendition="#b"><term xml:id="t_as_dur-1" corresp="#t_as_dur">As dur</term></hi>,
           enthalten, und wer denſelben nicht, als eine eigne Ton-Art, kennet und uͤbet,
-          <lb/>der iſt auch nicht im Stande, nur angefuͤhrte anderthalb Zeilen recht zu ſpielen.
-          Dergleichen Exem-
-          <lb/>pel gibt es inzwiſchen mehr, als man zehlen kann.
+          <lb/>der iſt auch nicht im Stande, nur angefuͤhrte anderthalb Zeilen recht zu ſpielen.</s>
+          <s xml:id="p10-1-s2">Dergleichen Exem-
+          <lb/>pel gibt es inzwiſchen mehr, als man zehlen kann.</s>
         </p>
       </div>
 
       <div n="11">
         <lb/><head>§. 11.</head>
         <p xml:id="p11-1" facs="#facsZone-p11-1">
-          <lb/>Wir muͤſſen aber noch ein Woͤrtlein von dem Gebrauch der <term xml:id="t_quartsextakkord-1" corresp="#t_quartsextakkord">Sext und Quart</term> ſagen, in
-          <lb/>ſo fern derſelbe alhier manchem Ungriechen anſtoͤſſig ſcheinen will. Das ſoll nun darin beſtehen: daß,
+          <lb/><s xml:id="p11-1-s1">Wir muͤſſen aber noch ein Woͤrtlein von dem Gebrauch der <term xml:id="t_quartsextakkord-1" corresp="#t_quartsextakkord">Sext und Quart</term> ſagen, in
+          <lb/>ſo fern derſelbe alhier manchem Ungriechen anſtoͤſſig ſcheinen will.</s> <s xml:id="p11-1-s2">Das ſoll nun darin beſtehen: daß,
           <lb/>wenn ja ein eifriger Legaliſt die Sext und Quart hin und wieder etwas auſſerordentlich, und nicht
           <lb/>nach der alten Weiſe, angebracht finden moͤgte, er um die Gutheit erſuchet wird, ſolchen fremd-
           <lb/>ſcheinenden Gebrauch meiner wolgemeynten Abſicht beizumeſſen, die vor allen andern Dingen bey
-          <lb/>dieſem Werck dahin ziehlet, die Lernende deſto geuͤbter zu machen, und ſie feſt in den Sattel zu ſetzen.
-          <lb/>Wer nun was rechtes in der Reit-Kunſt thun will, von dem iſt bekannt, daß er auch bißweilen
-          <lb/>einen wilden, unordentlichen Springer beſchreiten muͤſſe. So auch hier. Jch haͤtte es leicht
+          <lb/>dieſem Werck dahin ziehlet, die Lernende deſto geuͤbter zu machen, und ſie feſt in den Sattel zu ſetzen.</s>
+          <lb/><s xml:id="p11-1-s3">Wer nun was rechtes in der Reit-Kunſt thun will, von dem iſt bekannt, daß er auch bißweilen
+          <lb/>einen wilden, unordentlichen Springer beſchreiten muͤſſe.</s> <s xml:id="p11-1-s4">So auch hier.</s> <s xml:id="p11-1-s5">Jch haͤtte es leicht
           <lb/>aͤndern, und viel legaler verfahren koͤnnen, als der aͤlteſte Contrapunctiſt aus der Spartaniſchen
           <lb/>Schule; alleine die Legalitaͤt des Emerepes gilt lange ſo viel nicht, als des Juſtiniani ſeine: wel-
-          <lb/>che doch auch ihre Abfaͤlle und Zuſaͤtze leidet. Jn dem Punct der Sext und Quart bin ich alſo
+          <lb/>che doch auch ihre Abfaͤlle und Zuſaͤtze leidet.</s> <s xml:id="p11-1-s6">Jn dem Punct der Sext und Quart bin ich alſo
           <lb/>bey nahe der
           <persName corresp="#ed_rc3_fgy_qlb">Ariſtoxeniſchen</persName> Meynung
           zugethan, die noch dieſen Tag bey allen Griechen ſo wol
           <lb/>angenommen als ausgeuͤbet wird, und habe, wegen der Geſellſchafft der Sext, eine beſondre Hoch-
           <lb/>achtung fuͤr die arme Quart, daß ich ſie, in ſolchem Fall, den uͤbrigen Diſſonantzen nicht gaͤntz-
-          <lb/>lich gleich halte; ſondern ihr bißweilen ein ſicheres Geleite verſtatte.
+          <lb/>lich gleich halte; ſondern ihr bißweilen ein ſicheres Geleite verſtatte.</s>
         </p>
       </div>
       <fw place="bottom" type="catch">Drei-</fw>
