@@ -47,7 +47,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-1220">
+                        <measure corresp="#m-1220" label="37">
                             <staff n="1">
                                 <layer n="1">
                                     <supplied resp="#rettinghaus">
@@ -133,7 +133,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1253">
+                        <measure corresp="#m-1253" label="38">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -214,7 +214,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1295">
+                        <measure corresp="#m-1295" label="39">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -315,7 +315,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1334" right="invis" metcon="false">
+                        <measure corresp="#m-1334" label="40" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

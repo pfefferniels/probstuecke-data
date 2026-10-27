@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-327" metcon="false" right="invis">
+                        <measure corresp="#m-327" label="8" metcon="false" right="invis">
                             <staff n="1">
                                 <layer n="1">
                                     <space xml:id="ex-331" dots="1" dur="4" />

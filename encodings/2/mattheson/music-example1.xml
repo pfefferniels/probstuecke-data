@@ -42,7 +42,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-269">
+                        <measure corresp="#m-269" label="6">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

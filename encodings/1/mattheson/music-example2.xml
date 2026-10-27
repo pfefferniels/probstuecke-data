@@ -39,7 +39,7 @@
                     </scoreDef>
                     <section>
                         <sb />
-                        <measure corresp="#m-997">
+                        <measure corresp="#m-997" label="29">
                             <staff n="1">
                                 <layer n="1">
                                     <rest xml:id="ex-1001" dur="4" />
@@ -113,7 +113,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1027" right="invis" metcon="false">
+                        <measure corresp="#m-1027" label="30" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1037" dur="4" oct="5" pname="f">

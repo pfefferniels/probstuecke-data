@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000938514362" metcon="false">
+                        <measure corresp="#measure-0000000938514362" label="37" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -73,7 +73,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000000216610351">
+                        <measure corresp="#measure-0000000216610351" label="38">
                             <staff n="1">
                                 <layer>
                                     <beam>

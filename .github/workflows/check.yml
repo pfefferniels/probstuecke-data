@@ -35,3 +35,6 @@ jobs:
         run: |
           pip install lxml
           python scripts/check_references.py
+
+      - name: Check the bar labels of the music examples
+        run: python scripts/label_example_bars.py --check

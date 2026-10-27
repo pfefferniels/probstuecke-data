@@ -41,7 +41,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000002110347575" label="Achter Tact">
+                        <measure corresp="#measure-0000002110347575" label="8">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="below">
@@ -68,7 +68,7 @@
                                 <rend fontstyle="normal">Achter Tact</rend>
                             </dir>
                         </measure>
-                        <measure corresp="#measure-0000000003979548" label="Neuter Tact." right="invis" metcon="false">
+                        <measure corresp="#measure-0000000003979548" label="9" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="below">

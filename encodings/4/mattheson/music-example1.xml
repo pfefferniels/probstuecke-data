@@ -41,7 +41,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-101">
+                        <measure corresp="#m-101" label="4">
                             <staff n="1">
                                 <layer n="1">
                                     <rest xml:id="ex-105" dur="16" />

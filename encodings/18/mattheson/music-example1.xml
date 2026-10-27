@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000002089109738">
+                        <measure corresp="#measure-0000002089109738" label="84">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -70,7 +70,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000000269141965">
+                        <measure corresp="#measure-0000000269141965" label="85">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -96,7 +96,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure corresp="#measure-0000001914330120">
+                        <measure corresp="#measure-0000001914330120" label="86">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -120,7 +120,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001791297880">
+                        <measure corresp="#measure-0000001791297880" label="87">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -139,7 +139,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure corresp="#measure-0000000060886211">
+                        <measure corresp="#measure-0000000060886211" label="88">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -165,7 +165,7 @@
                         </measure>
                         <pb source="#firstEdition" n="203" />
                         <pb source="#secondEdition" n="409" />
-                        <measure corresp="#measure-0000000805361957">
+                        <measure corresp="#measure-0000000805361957" label="89">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -189,7 +189,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001587921616">
+                        <measure corresp="#measure-0000001587921616" label="90">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -221,7 +221,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001485768059">
+                        <measure corresp="#measure-0000001485768059" label="91">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -258,7 +258,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001788744821" right="end">
+                        <measure corresp="#measure-0000001788744821" label="92" right="end">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

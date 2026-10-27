@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000001411700064">
+                        <measure corresp="#measure-0000001411700064" label="5">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">
@@ -77,7 +77,7 @@
                                 <rend fontstyle="normal">Fünffter Tact.</rend>
                             </dir>
                         </measure>
-                        <measure corresp="#measure-0000000264878814" right="invis">
+                        <measure corresp="#measure-0000000264878814" label="6" right="invis">
                             <staff n="1">
                                 <layer>
                                     <beam>

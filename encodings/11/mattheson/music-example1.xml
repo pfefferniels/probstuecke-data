@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000448770319">
+                        <measure corresp="#measure-0000000448770319" label="4">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="4" oloc="5" ploc="a" />
@@ -122,7 +122,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001465389423">
+                        <measure corresp="#measure-0000001465389423" label="5">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="4" oct="5" pname="f" stem.dir="down" xml:id="ex-1769775861" />
@@ -201,7 +201,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001029700479">
+                        <measure corresp="#measure-0000001029700479" label="6">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f" xml:id="ex-1193092165" />

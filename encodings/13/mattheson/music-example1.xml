@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000001263987989">
+                        <measure corresp="#measure-0000001263987989" label="11">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -63,7 +63,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure corresp="#measure-0000001431729815" right="invis" metcon="false">
+                        <measure corresp="#measure-0000001431729815" label="12" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <chord dur="4">

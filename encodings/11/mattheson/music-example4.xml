@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000919086642">
+                        <measure corresp="#measure-0000000919086642" label="54">
                             <staff n="1">
                                 <layer n="1">
                                     <supplied resp="#pfeffer">
@@ -81,7 +81,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001966821284">
+                        <measure corresp="#measure-0000001966821284" label="55">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -140,7 +140,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001525394195">
+                        <measure corresp="#measure-0000001525394195" label="56">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="8" oct="4" pname="a">

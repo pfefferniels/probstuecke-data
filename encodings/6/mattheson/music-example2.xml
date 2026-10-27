@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-954">
+                        <measure corresp="#m-954" label="31">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="2" pname="c" />
@@ -54,7 +54,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-983">
+                        <measure corresp="#m-983" label="32">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="2" pname="f" />
@@ -68,7 +68,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1013">
+                        <measure corresp="#m-1013" label="33">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="2" pname="b" />
@@ -86,7 +86,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1043">
+                        <measure corresp="#m-1043" label="34">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="2" pname="a" />
@@ -105,7 +105,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1079">
+                        <measure corresp="#m-1079" label="35">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="3" pname="d" />
@@ -122,7 +122,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1110">
+                        <measure corresp="#m-1110" label="36">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="a" />
@@ -136,7 +136,7 @@
                             </harm>
                         </measure>
                         <sb />
-                        <measure corresp="#m-1145">
+                        <measure corresp="#m-1145" label="37">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="3" pname="f" />
@@ -150,7 +150,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1177">
+                        <measure corresp="#m-1177" label="38">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="b" />
@@ -168,7 +168,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1213">
+                        <measure corresp="#m-1213" label="39">
                             <staff n="1">
                                 <layer>
                                     <note dur="4" oct="3" pname="f" />
@@ -193,7 +193,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1245">
+                        <measure corresp="#m-1245" label="40">
                             <staff n="1">
                                 <layer>
                                     <chord dur="4" stem.dir="up">

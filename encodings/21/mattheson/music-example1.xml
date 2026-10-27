@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="measure-0000000106362395" corresp="#measure-0000001447102304" n="1">
+                        <measure xml:id="measure-0000000106362395" corresp="#measure-0000001447102304" label="9" n="1">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -56,7 +56,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001533383766" corresp="#measure-0000000437350706" n="2">
+                        <measure xml:id="measure-0000001533383766" corresp="#measure-0000000437350706" label="10" n="2">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -76,7 +76,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001374480566" corresp="#measure-0000001120652168" n="3">
+                        <measure xml:id="measure-0000001374480566" corresp="#measure-0000001120652168" label="11" n="3">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -92,7 +92,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001719282071" corresp="#measure-0000002097062477" n="4">
+                        <measure xml:id="measure-0000001719282071" corresp="#measure-0000002097062477" label="12" n="4">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

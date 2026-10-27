@@ -39,7 +39,7 @@
                     </scoreDef>
                     <section>
                         <sb />
-                        <measure corresp="#m-1123">
+                        <measure corresp="#m-1123" label="33">
                             <staff n="1">
                                 <layer n="1">
                                     <beam xml:id="ex-1127">

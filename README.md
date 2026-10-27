@@ -20,7 +20,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
 | `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
-| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs |
+| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `label_example_bars.py` labels the bars of the music examples with the bar numbers of the piece they quote |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 

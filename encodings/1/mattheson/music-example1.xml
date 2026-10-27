@@ -39,7 +39,7 @@
                     </scoreDef>
                     <section>
                         <sb />
-                        <measure corresp="#m-503">
+                        <measure corresp="#m-503" label="16">
                             <staff n="1">
                                 <layer n="1">
                                     <rest xml:id="ex-506" dur="16" />
@@ -129,7 +129,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-550">
+                        <measure corresp="#m-550" label="17">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -219,7 +219,7 @@
                             </harm>
                             <tie xml:id="ex-604" endid="#ex-637" startid="#ex-603" />
                         </measure>
-                        <measure corresp="#m-605" right="invis" metcon="false">
+                        <measure corresp="#m-605" label="18" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

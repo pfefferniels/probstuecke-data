@@ -42,7 +42,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-1131">
+                        <measure corresp="#m-1131" label="46">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1134" dots="1" dur="4">
@@ -89,7 +89,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#m-1165">
+                        <measure corresp="#m-1165" label="47">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1169" dots="1" dur="4">
@@ -145,7 +145,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure xml:id="ex-1206" n="48" corresp="#m-1206">
+                        <measure xml:id="ex-1206" n="48" corresp="#m-1206" label="48">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1209" dots="1" dur="4">

@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-282">
+                        <measure corresp="#m-282" label="9">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="a" stem.dir="up" />
@@ -53,7 +53,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-310">
+                        <measure corresp="#m-310" label="10">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="g" stem.dir="up" />
@@ -65,7 +65,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-340">
+                        <measure corresp="#m-340" label="11">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="g" stem.dir="up" />
@@ -78,7 +78,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-369">
+                        <measure corresp="#m-369" label="12">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="f" stem.dir="up" />
@@ -90,7 +90,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-399">
+                        <measure corresp="#m-399" label="13">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="f" stem.dir="up" />
@@ -103,7 +103,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-427" right="invis">
+                        <measure corresp="#m-427" label="14" right="invis">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="e" stem.dir="up" />

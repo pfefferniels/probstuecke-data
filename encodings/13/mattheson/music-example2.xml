@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000720476607">
+                        <measure corresp="#measure-0000000720476607" label="38">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <beam place="above">
@@ -62,7 +62,7 @@
                             </staff>
                             <dir staff="1" place="below">Achter Tact.</dir>
                         </measure>
-                        <measure corresp="#measure-0000000902537430">
+                        <measure corresp="#measure-0000000902537430" label="39">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="above">

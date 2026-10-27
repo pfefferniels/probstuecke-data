@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000002078803044">
+                        <measure corresp="#measure-0000002078803044" label="23">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="16" staff="2" oloc="3" ploc="f" />
@@ -114,7 +114,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001071915657">
+                        <measure corresp="#measure-0000001071915657" label="24">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
