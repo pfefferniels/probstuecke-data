@@ -105,20 +105,20 @@
       <div n="1">
         <lb /><head>§. 1.</head>
         <p xml:id="p1-1">
-          <lb /><hi rendition="#in">G</hi>leich Anfangs ſtehet, bey dem Fall aus
+          <lb /><s xml:id="p1-1-s1"><hi rendition="#in">G</hi>leich Anfangs ſtehet, bey dem Fall aus
           dem <ref target="#note-0000001105515864"><hi rendition="#b">♯c</hi></ref>
           ins <ref target="#note-0000000438118919"><hi rendition="#b">♯a</hi></ref>
           zu bemercken, daß zwi-
           <lb />ſchen beiden das
           <ref target="#note-0000000845814796"><hi rendition="#b">h</hi></ref>
-          an- und mit einem kurtzen <term xml:id="t_triller-1" corresp="#t_triller">Triller</term> vorſchlagen muß.
+          an- und mit einem kurtzen <term xml:id="t_triller-1" corresp="#t_triller">Triller</term> vorſchlagen muß.</s>
         </p>
       </div>
 
       <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
-          <lb />Weñ man hierna&#x0364;chſt alles fein reinlich, biß auf den
+          <lb /><s xml:id="p2-1-s1">Weñ man hierna&#x0364;chſt alles fein reinlich, biß auf den
           <ref target="#note-0000002103583228">Abſatz im elfften Tact</ref>, gebracht
           <lb />hat, wird eine <term xml:id="t_kantabel-1" corresp="#t_kantabel">Melodie</term> zu erſinnen ſeyn, welche die rechte Hand ins Werck ſetzen kann,
           <lb />und damit etwa zehn Tacte, biß zum abermahligen
@@ -127,7 +127,7 @@
           <note type="editorial" resp="#pfeffer">
             Im folgenden Notenbeispiel setzt Mattheson die Taktstriche um einen
             halben Takt versetzt.
-          </note>
+          </note></s>
 
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
@@ -140,14 +140,14 @@
       <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
-          <lb />Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſtehet wiederum:
+          <lb /><s xml:id="p3-1-s1">Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſtehet wiederum:
           <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_kantabel-2" corresp="#t_kantabel #t_si_suona">ſi ſuona</term></foreign>'</hi></ref>,
           deſſen Bedeutung bekannt
           <lb />iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
           und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
-          da gehet es u&#x0364;ber alles, was nur wol klingt. <ref target="#measure-0000000574431491">Nach dem
+          da gehet es u&#x0364;ber alles, was nur wol klingt.</s> <s xml:id="p3-1-s2"><ref target="#measure-0000000574431491">Nach dem
           <lb />Schluß des erſten Theils</ref> fa&#x0364;nget die rechte Hand abermahl zu moduliren an, wovon
-          <lb />dieſes ein Muſter ſeyn mag:
+          <lb />dieſes ein Muſter ſeyn mag:</s>
 
           <notatedMusic xml:id="music-example2">
             <ptr target="music-example2.xml" />
@@ -158,8 +158,8 @@
       <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
-          <lb /><ref target="#measure-0000000387035804">Wenn das <hi rendition="#aq">Tutti</hi> vorbey</ref>, kann, biß zum
-          na&#x0364;chſten Abſatz, ſo geſpielet werden:
+          <lb /><s xml:id="p4-1-s1"><ref target="#measure-0000000387035804">Wenn das <hi rendition="#aq">Tutti</hi> vorbey</ref>, kann, biß zum
+          na&#x0364;chſten Abſatz, ſo geſpielet werden:</s>
 
           <notatedMusic xml:id="music-example3">
             <ptr target="music-example3.xml" />

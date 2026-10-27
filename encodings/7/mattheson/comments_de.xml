@@ -105,15 +105,15 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
-            <hi rendition="#in">T</hi>aͤglich wird bemercket, daß den General-Baßisten, naͤchst dem hohen Alt, kein Schluͤſ-
-            <lb/>ſel ſo fremd vorkomme, als der gewoͤhnliche Alt. Die Ursache ruͤhret daher, daß, wenn ja ein
+            <s xml:id="p1-1-s1"><hi rendition="#in">T</hi>aͤglich wird bemercket, daß den General-Baßisten, naͤchst dem hohen Alt, kein Schluͤſ-
+            <lb/>ſel ſo fremd vorkomme, als der gewoͤhnliche Alt.</s> <s xml:id="p1-1-s2">Die Ursache ruͤhret daher, daß, wenn ja ein
             <lb/>Knabe Geſchicke und Anfuͤhrung im Singen hat, unter funffzig wol kaum zween ſind,
-            <lb/>die einen Alt ſingen: denn es ſchreyet alles den leidigen Diſcant. Bey ſo bewandten Umstaͤnden
+            <lb/>die einen Alt ſingen: denn es ſchreyet alles den leidigen Diſcant.</s> <s xml:id="p1-1-s3">Bey ſo bewandten Umstaͤnden
             <lb/>lernet er nur ſeinen Schluͤssel kennen, und bekuͤmmert ſich dabey um keinen andern, als um den
-            <lb/>Baß; damit iſt ſeine gantze Clavier-Weißheit aufgeschloſſen. Naͤchſt dieſem sind wir hier in Teut-
+            <lb/>Baß; damit iſt ſeine gantze Clavier-Weißheit aufgeschloſſen.</s> <s xml:id="p1-1-s4">Naͤchſt dieſem sind wir hier in Teut-
             <lb/>schland guten Theils ſehr eckel, in Anſehung der Frantzoͤſiſchen <term xml:id="t_handsachen-1" corresp="#t_handsachen">Hand-Sachen</term>, ob wol ſonſt alles an-
             <lb/>dere, was Frantzoͤſiſch ſcheinet und heiſſet, angenommener und nachgeaͤffter Weiſe, auch ſo gar
-            <lb/>das Tact-Pruͤgeln, bey uns willkommen ist. Jeder Lehrer vermeynet, seine eigene Geburten waͤ-
+            <lb/>das Tact-Pruͤgeln, bey uns willkommen ist.</s> <s xml:id="p1-1-s5">Jeder Lehrer vermeynet, seine eigene Geburten waͤ-
             <lb/>ren die beſten zum <term xml:id="t_unterricht-1" corresp="#t_unterricht">Unterricht</term>; ich aber halte dafuͤr, es mag einer noch ſo vortrefflich ſetzen, und
             <lb/>wenn ers auch, ich weiß nicht wem, gleich thaͤte, ſoll er doch allezeit anderer Leute Arbeit, ſonder-
             <lb/>lich bey dem <term xml:id="t_unterricht-2" corresp="#t_unterricht">Unterricht</term>, mitnehmen, und ſich gesagt ſeyn laſſen:
@@ -132,42 +132,42 @@
                 <lb/><l rendition="#et">Verachte nicht was andre machen,</l>
                 <lb/><l rendition="#et">Und lobe nicht dein' eigne Sachen.</l>
               </lg>
-            </quote>
+            </quote></s>
           </p>
           <lb/><p xml:id="p1-2">
-            Wer nun in Frantzoͤſiſchen Hand-Stuͤcken etwas bewandert iſt, der wird ſchwerlich bey
+            <s xml:id="p1-2-s1">Wer nun in Frantzoͤſiſchen Hand-Stuͤcken etwas bewandert iſt, der wird ſchwerlich bey
             <lb/>den <term xml:id="t_schluesselwechsel-1" corresp="#t_schluesselwechsel">Schluͤſſeln</term> Schwierigkeit finden: maſſen die Veraͤnderung derſelben nirgend haͤuffiger vor-
-            <lb/>kommt, ob ſich gleich ſonſt die Sachen wol halten laſſen. Drittens schaͤmet ſich ein Knabe oder Bursche, der
+            <lb/>kommt, ob ſich gleich ſonſt die Sachen wol halten laſſen.</s> <s xml:id="p1-2-s2">Drittens schaͤmet ſich ein Knabe oder Bursche, der
             <lb/>einmahl dencket Organiſte zu werden, daß er ſolte eine Geige in die Hand nehmen, gerade, als waͤre
             <lb/>es ſchimpfflich; benimmt man aber dieſe abgeſchmackte Ehrfurcht ſeinem Untergebenen, und laͤſt ihn
             <lb/>zu Zeiten eine Mittel-Stimme oder ein
             <hi rendition="#aq"><foreign xml:lang="ita">Braccio</foreign></hi>
             mitſpielen, ſo werden ihm die Schluͤſſel beſſer einge-
-            <lb/>druckt und bekannt werden. Doch hievon fuͤr dißmahl genug; nur muß ich ſagen, daß dieſer Man-
-            <lb/>gel mich veranlaſſet hat, das beſagte gemeine <term xml:id="t_altschluessel-1" corresp="#t_altschluessel">Alt-Zeichen</term> hier offt zu gebrauchen.
+            <lb/>druckt und bekannt werden.</s> <s xml:id="p1-2-s3">Doch hievon fuͤr dißmahl genug; nur muß ich ſagen, daß dieſer Man-
+            <lb/>gel mich veranlaſſet hat, das beſagte gemeine <term xml:id="t_altschluessel-1" corresp="#t_altschluessel">Alt-Zeichen</term> hier offt zu gebrauchen.</s>
           </p>
         </div>
 
         <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
-            Solte einem das
+            <s xml:id="p2-1-s1">Solte einem das
             <ref target="#tempo-0000000597327698"><hi rendition="#aq"><foreign xml:lang="ita">Prestissimo</foreign></hi></ref>
             ſogleich nicht anſtehen, demſelben wird nichts darum wiederfah-
-            <lb/>ren, wenn er das Exempel gleich, zum Versuch, etwas langſamer ſpielet. Dieſes ist von Studierenden zu
-            <lb/>verſtehen. Einem ſeyn-wollenden Meiſter aber wird ſolche Freiheit nicht erlaubet: er mag das Stuͤck eine
+            <lb/>ren, wenn er das Exempel gleich, zum Versuch, etwas langſamer ſpielet.</s> <s xml:id="p2-1-s2">Dieſes ist von Studierenden zu
+            <lb/>verſtehen.</s> <s xml:id="p2-1-s3">Einem ſeyn-wollenden Meiſter aber wird ſolche Freiheit nicht erlaubet: er mag das Stuͤck eine
             <lb/>Weile an- und durchſehen; ſetzt er aber die Hand an, ſo muß es gehen, wie es gehen ſoll, das iſt, auf
-            <lb/>das <term xml:id="t_fingerfertigkeit-1" corresp="#t_fingerfertigkeit">allerhurtigſte</term>.
+            <lb/>das <term xml:id="t_fingerfertigkeit-1" corresp="#t_fingerfertigkeit">allerhurtigſte</term>.</s>
           </p>
         </div>
 
         <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p2-3 #facsZone-p3-1">
-            Hiebey kann ich nicht unberuͤhret laſſen, was der
+            <s xml:id="p3-1-s1">Hiebey kann ich nicht unberuͤhret laſſen, was der
             <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
             ſeinem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
-            <lb/>d'accompagnement p. 58.</hi></bibl>, von der <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken fuͤhret. Jch
+            <lb/>d'accompagnement p. 58.</hi></bibl>, von der <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken fuͤhret.</s> <s xml:id="p3-1-s2">Jch
             <lb/>will die Worte immer verteutschen:
             <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
               <hi rendition="#b">
@@ -203,25 +203,25 @@
                   <lb/>meſure.
                 </hi>
               </quote>
-            </note>
-            Jch muß geſtehen, die Erfindung gefaͤllt mir nicht uͤbel, und ſie iſt
-            <lb/>ſehr gemaͤchlich. Es koͤmmt ſonſt bald eben ſo damit heraus, als wenn,
+            </note></s>
+            <s xml:id="p3-1-s3">Jch muß geſtehen, die Erfindung gefaͤllt mir nicht uͤbel, und ſie iſt
+            <lb/>ſehr gemaͤchlich.</s> <s xml:id="p3-1-s4">Es koͤmmt ſonſt bald eben ſo damit heraus, als wenn,
             im <persName corresp="#ed_zzr_hfy_qlb">Kuhnau</persName>iſchen <bibl corresp="#ed_wxz_jhl_tlb">Quackſal-
             <lb/>ber</bibl> <hi rendition="#aq">p. 23</hi>.
             <persName>Signor Caraffa</persName>
             mit der lincken Hand Schnuptoback nimmt, so offt geſchwinde oder
-            <lb/>fluͤchtige Noten im Baſſe erſcheinen.
+            <lb/>fluͤchtige Noten im Baſſe erſcheinen.</s>
           </p>
         </div>
 
         <div n="4">
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
-            Es ſtehet uͤbrigens zu wissen, daß der gantze Schmuck dieſer Vorſchrift darin beruhet, wenn
+            <s xml:id="p4-1-s1">Es ſtehet uͤbrigens zu wissen, daß der gantze Schmuck dieſer Vorſchrift darin beruhet, wenn
             <lb/>man Note vor Note mit der rechten Hand, es ſey nun <term xml:id="t_terz-1" corresp="#t_terz">Tertzen-Weiſe</term>, (welches das meiſte ausmacht)
             <lb/>oder aber mit Sexten und Quarten, wie es dann und wann die Harmonie erfordert, ſo verfaͤhrt, daß
             <lb/>es immer ohne Abſatz fortgehe, als ob beide Haͤnde einerley ſpielten; da es doch ſehr verſchiedene Dinge
-            <lb/>ſind. Wer es nicht recht begreifft, dem will ich ein Paar Taͤcte zu Gefallen zergliedern; da denn die
+            <lb/>ſind.</s> <s xml:id="p4-1-s2">Wer es nicht recht begreifft, dem will ich ein Paar Taͤcte zu Gefallen zergliedern; da denn die
             <lb/><ref target="#note-0000001151019300 #note-0000000728183165 #note-0000000661420319 #note-0000001563263532 #note-0000000135874834">
               ersten fuͤnff Noten
             </ref> lauter Tertzen erfordern; <ref target="#note-0000000879171957">zu der ſechſten schlaͤgt eine Quart</ref>; <ref target="#note-0000000137581922">zu der ſiebenden wieder ei-
@@ -230,7 +230,7 @@
             <lb/>wieder
             <ref target="#note-0000001417398906 #note-0000001546534372 #note-0000001950454433 #note-0000000180140992 #note-0000001428036512 #note-0000002138412945">
               ſechs Tertzen
-            </ref> und ſo weiter. Jm erſten Tact des andern Theils haben die
+            </ref> und ſo weiter.</s> <s xml:id="p4-1-s3">Jm erſten Tact des andern Theils haben die
             <ref target="#note-0000000010437039 #note-0000000332742016 #note-0000000739671699 #note-0000001985974457">
               vier erſten Noten
               <lb/>lauter Tertzen</ref>, <ref target="#note-0000000430496844">die
@@ -243,20 +243,20 @@
             da ſchlaͤgt zur erſten Note nur die Terz; <ref target="#note-0000001195728701">zur
             <lb/>andern</ref> eine Sext; (welche die Septime von <hi rendition="#b">fis</hi> ausmacht) und
             <ref target="#note-0000000441867231">zur dritten</ref> abermahl eine Sext hinun-
-            <lb/>terwaͤrts. Solcher Geſtalt wird es mit allen getrieben.
+            <lb/>terwaͤrts.</s> <s xml:id="p4-1-s4">Solcher Geſtalt wird es mit allen getrieben.</s>
           </p>
         </div>
 
         <div n="5">
           <lb/><head>§. 5.</head>
           <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
-            Die Freiheit ſo ich mir ſonſt hier gegeben, aus dem <term xml:id="t_ambitus-1" corresp="#t_ambitus">Sprengel</term> zu weichen, und
+            <s xml:id="p5-1-s1">Die Freiheit ſo ich mir ſonſt hier gegeben, aus dem <term xml:id="t_ambitus-1" corresp="#t_ambitus">Sprengel</term> zu weichen, und
             <ref target="#note-0000000847506698 #note-0000000488499091">einen Schluß in
             <lb/>die <term xml:id="t_sekunde-1" corresp="#t_sekunde">Secund</term> anzubringen</ref>, entſtehet daher, weil ich endlich auch nicht gar der Mode abſagen mag;
-            <lb/>da es ſonſt bey mir etwas rares iſt, allen ſelstſamen Artigkeiten Zutritt zu verſtatten. Dann und
-            <lb/>wann laͤſt ſichs thun, ein Handwerck moͤgte ich nicht daraus machen. So iſt es auch mit der Secunde
+            <lb/>da es ſonſt bey mir etwas rares iſt, allen ſelstſamen Artigkeiten Zutritt zu verſtatten.</s> <s xml:id="p5-1-s2">Dann und
+            <lb/>wann laͤſt ſichs thun, ein Handwerck moͤgte ich nicht daraus machen.</s> <s xml:id="p5-1-s3">So iſt es auch mit der Secunde
             <lb/>bey den harten Tonen noch ziemlich natuͤrlich; aber nicht bey weichen, welche es lieber in die Septi-
-            <lb/>me haben.
+            <lb/>me haben.</s>
           </p>
         </div>
       </div>

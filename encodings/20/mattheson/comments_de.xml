@@ -124,33 +124,33 @@
       <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <hi rendition="#in">W</hi>er hier feſt <term xml:id="t_springen-1" corresp="#t_springen">ſpringen</term> kann, der koͤmmt wol zu recht; ein anderer aber wird
+          <s xml:id="p1-1-s1"><hi rendition="#in">W</hi>er hier feſt <term xml:id="t_springen-1" corresp="#t_springen">ſpringen</term> kann, der koͤmmt wol zu recht; ein anderer aber wird
           offt ſtraucheln, <term xml:id="t_stolpern-1" corresp="#t_stolpern">ſtolpern</term>, oder unrechte Palmulen
           <note type="editorial" resp="#pfeffer">
             Tasten (lat. palmulae)
           </note>
-          ergreiffen. Zum Ende des
+          ergreiffen.</s> <s xml:id="p1-1-s2">Zum Ende des
           <ref target="#measure-0000000174603578">vierten Tacts</ref> haͤtte
           man es gerne ein wenig <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">gebrochen</term>, und denn im
           <ref target="#measure-0000001411700064 #measure-0000000264878814 #measure-0000000328043882">fuͤnfften,
           ſechſten und ſiebenden</ref> auf
-          dieſe Art:
+          dieſe Art:</s>
         </p>
         <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
           <ptr target="music-example1.xml"/>
         </notatedMusic>
         <p xml:id="p1-2" facs="#facsZone-p1-2">
-          Solches wird ſich auch im
+          <s xml:id="p1-2-s1">Solches wird ſich auch im
           <ref target="#measure-0000000567414890 #measure-0000000493851592 #measure-0000001346110271">funffzehnten,
           ſechzehnten und ſiebenzehnten Tact</ref> gar
-          wol ſchicken.
+          wol ſchicken.</s>
         </p>
       </div>
 
       <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
-          <lb/>Am Ende des achten Tacts,
+          <lb/><s xml:id="p2-1-s1">Am Ende des achten Tacts,
           <ref target="#note-0000001444913642 #note-0000001182642635">zu den zwey Achteln</ref>, ſpielet die
           <lb/>rechte Hand dieſe nebenſtehende Noten, und wechſelt damit ab im
           <lb/><ref target="#measure-0000000566982188 #measure-0000000362882873 #measure-0000000785009598">neunten, zehnten und elfften Tact</ref> nach Maßgebung des Baſſes;
@@ -158,39 +158,39 @@
             <ptr target="music-example2.xml"/>
           </notatedMusic>
           <pb n="418" facs="#facs-p480"/>
-          <lb/>wie denn auch im <ref target="#measure-0000001425906512 #measure-0000000763300727">achtzehnten und neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
+          <lb/>wie denn auch im <ref target="#measure-0000001425906512 #measure-0000000763300727">achtzehnten und neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt.</s> <s xml:id="p2-1-s2">Wer
           <lb/>aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden Menſuren nicht zu ſpaͤt erſcheinen will, der muſs
-          <lb/>nicht lange ſaͤumen, ſondern die Finger <term xml:id="t_galoppieren-1" corresp="#t_galoppieren">galoppiren</term> laſſen.
+          <lb/>nicht lange ſaͤumen, ſondern die Finger <term xml:id="t_galoppieren-1" corresp="#t_galoppieren">galoppiren</term> laſſen.</s>
         </p>
       </div>
 
       <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb/>Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_arpeggio-2" corresp="#t_arpeggio">Harpeggio</term></foreign></hi> anfaͤnget,</ref> deutet
+          <lb/><s xml:id="p3-1-s1">Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_arpeggio-2" corresp="#t_arpeggio">Harpeggio</term></foreign></hi> anfaͤnget,</ref> deutet
           <lb/>ſolches allhie ſo viel an, daß die rechte Hand daher Gelegenheit ſuchen ſolle, es
-          <lb/>nachzuahmen. Solches kann auch ſofort <ref target="#measure-0000001923958404">im andern Tact</ref> geſchehen, etwa fol-
-          <lb/>gender Geſtalt:
+          <lb/>nachzuahmen.</s> <s xml:id="p3-1-s2">Solches kann auch ſofort <ref target="#measure-0000001923958404">im andern Tact</ref> geſchehen, etwa fol-
+          <lb/>gender Geſtalt:</s>
         </p>
         <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
           <ptr target="music-example3.xml"/>
         </notatedMusic>
         <p xml:id="p3-2" facs="#facsZone-p3-2">
-          <lb/>Wobey nicht zu vergeſſen, daß die Baß-Noten mit Octaven einhergehen, und ſo
-          <lb/>dann dem Dinge eine Ernſthafftigkeit geben koͤnnen.
+          <lb/><s xml:id="p3-2-s1">Wobey nicht zu vergeſſen, daß die Baß-Noten mit Octaven einhergehen, und ſo
+          <lb/>dann dem Dinge eine Ernſthafftigkeit geben koͤnnen.</s>
         </p>
       </div>
 
       <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          <lb/>Jm <ref target="#measure-0000001018439983 #measure-0000001374019244">fuͤnfften und ſechſten Tact des andern Theils</ref> nimmt man die obbeſchrie-
+          <lb/><s xml:id="p4-1-s1">Jm <ref target="#measure-0000001018439983 #measure-0000001374019244">fuͤnfften und ſechſten Tact des andern Theils</ref> nimmt man die obbeſchrie-
           <lb/>bene Abwechſelung wieder in acht, und will man im <ref target="#measure-0000001269146673">ſiebenden Tact</ref> die Tertzen im
-          <lb/>Diſcant mitlaufen laſſen, fuͤllt ſolches beſſer aus, als die ſchlechten Griffe. So
+          <lb/>Diſcant mitlaufen laſſen, fuͤllt ſolches beſſer aus, als die ſchlechten Griffe.</s> <s xml:id="p4-1-s2">So
           <lb/>dann hat man im
           <ref target="#measure-0000001902655465 #measure-0000000766995769 #measure-0000001822556232">neunten, zehnten und elfften</ref> das obige <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> aber-
           <lb/>mahl anzubringen, zu den vier letzten Noten aber des elfften Tacts nur dieſes
-          <lb/>wenige zu ſchlagen:
+          <lb/>wenige zu ſchlagen:</s>
         </p>
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
           <ptr target="music-example4.xml"/>
@@ -200,29 +200,29 @@
       <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Auch kann es nicht uͤbel klingen, wenn mit dem Ende der <ref target="#measure-0000000216610351">vierten Menſur</ref> die
-          <lb/>rechte Hand ihre Accorde und Griffe eben ſo bricht, als der Baß die ſeine. Solches
-          <lb/>muß aber nur auf dieſe drey Viertel geſchehen:
+          <lb/><s xml:id="p5-1-s1">Auch kann es nicht uͤbel klingen, wenn mit dem Ende der <ref target="#measure-0000000216610351">vierten Menſur</ref> die
+          <lb/>rechte Hand ihre Accorde und Griffe eben ſo bricht, als der Baß die ſeine.</s> <s xml:id="p5-1-s2">Solches
+          <lb/>muß aber nur auf dieſe drey Viertel geſchehen:</s>
         </p>
         <pb n="419" facs="#facs-p481"/>
         <notatedMusic xml:id="music-example5" facs="#facsZone-music-example5">
           <ptr target="music-example5.xml"/>
         </notatedMusic>
         <p xml:id="p5-2" facs="#facsZone-p5-2">
-          <lb/>Daß die letzten Noten mit dem Baß Octaven nehmen, gechiehet mit Fleiß, um den
+          <lb/><s xml:id="p5-2-s1">Daß die letzten Noten mit dem Baß Octaven nehmen, gechiehet mit Fleiß, um den
           <lb/>Haupt-Satz, der daſelbſt wieder einfaͤllt, deſto deutlicher auszudruͤcken; da dieſelben
           <lb/>Noten aber noch einmahl vorkommen, darff man ſie nicht auch noch einmahl mit
           <lb/>Octaven, ſondern gewoͤhnlicher Weiſe, wie das uͤbrige, ſpielen, damit abgewech-
-          <lb/>ſelt werde.
+          <lb/>ſelt werde.</s>
         </p>
       </div>
 
       <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          <lb/>Gleich darauf kann, bey dem ſtillhaltenden Baß, die rechte Hand ſich hoͤren
-          <lb/>laſſen, nur mit einem <term xml:id="t_arpeggio-3" corresp="#t_arpeggio">gebrochenen</term> Accord, und was ſonſten uͤberſteht. Zum
-          <lb/>Exempel:
+          <lb/><s xml:id="p6-1-s1">Gleich darauf kann, bey dem ſtillhaltenden Baß, die rechte Hand ſich hoͤren
+          <lb/>laſſen, nur mit einem <term xml:id="t_arpeggio-3" corresp="#t_arpeggio">gebrochenen</term> Accord, und was ſonſten uͤberſteht.</s> <s xml:id="p6-1-s2">Zum
+          <lb/>Exempel:</s>
         </p>
         <notatedMusic xml:id="music-example6" facs="#facsZone-music-example6">
           <ptr target="music-example6.xml"/>
@@ -232,10 +232,10 @@
       <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
-          <lb/>Gleicher geſtalt leidet der <ref target="#measure-0000002005099252">achtzehende Tact</ref> gar wol, daß die rechte Hand
-          <lb/>in der Harmonie mit der lincken auf eben vorbereitete Art verfahre. <ref target="#clef-0000000962308835">Bey dem
+          <lb/><s xml:id="p7-1-s1">Gleicher geſtalt leidet der <ref target="#measure-0000002005099252">achtzehende Tact</ref> gar wol, daß die rechte Hand
+          <lb/>in der Harmonie mit der lincken auf eben vorbereitete Art verfahre.</s> <s xml:id="p7-1-s2"><ref target="#clef-0000000962308835">Bey dem
           <lb/>anhebenden niedrigen Baß-Schluͤſſel</ref> aber wird nur einmahl zu vier Noten angeſchla-
-          <lb/>gen, und, <ref target="#note-0000000045767801">wo der Baß durch Viertel geht</ref>, dieſe Veraͤnderung im Diſcant gemacht:
+          <lb/>gen, und, <ref target="#note-0000000045767801">wo der Baß durch Viertel geht</ref>, dieſe Veraͤnderung im Diſcant gemacht:</s>
         </p>
         <pb n="420" facs="#facs-p482"/>
         <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">
@@ -246,7 +246,7 @@
       <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/>Daß dieſer <term xml:id="t_ton-1" corresp="#t_ton">Ton</term> in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
+          <lb/><s xml:id="p8-1-s1">Daß dieſer <term xml:id="t_ton-1" corresp="#t_ton">Ton</term> in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
           <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">
           <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
             Le B Fa Si Beccarre etant un Ton, ſur lequel on compoſe rarement, il n'y a point
@@ -261,16 +261,16 @@
             <lb/>chem man ſelten etwas ſetzet, daher hat er auch eigentlich keine Tertz, die
             <lb/>ihm beſonders zugehoͤrt; haͤtte er aber eine, ſo muͤſte es wol die kleine
             <lb/>ſeyn.
-          </quote></hi>
-          Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben
-          <lb/>auch die Gruͤnde deſſen im <bibl corresp="#ed_y43_m2l_tlb">Orcheſter zweiter Eroͤffnung</bibl> ſchon gewieſen. Und daß die-
-          <lb/>ſer Ton bey uns nichts rares ſey, zeigen unzehliche taͤglich vorfallende Exempel. Es
+          </quote></hi></s>
+          <s xml:id="p8-1-s2">Wir wiſſen dennoch, daß ſeine Natur weich, und nicht hart ſey; haben
+          <lb/>auch die Gruͤnde deſſen im <bibl corresp="#ed_y43_m2l_tlb">Orcheſter zweiter Eroͤffnung</bibl> ſchon gewieſen.</s> <s xml:id="p8-1-s3">Und daß die-
+          <lb/>ſer Ton bey uns nichts rares ſey, zeigen unzehliche taͤglich vorfallende Exempel.</s> <s xml:id="p8-1-s4">Es
           <lb/>gibt Sachen mit Trompeten und Paucken aus dem <hi rendition="#b">H mol</hi>, welches manchem
           <lb/>wunderlich vorkommen duͤrffte; Sollte er aber den ſonſt beweglichen Choral: <hi rendition="#b">Ach
           <lb/>bleib bey uns, HErr JEſu Chriſt, ꝛc.</hi> da die Sing-Stimmen aus dem <hi rendition="#b">H</hi>
           <lb/>Kammer-Ton geſetzet, und, bey der Ausweichung ins <hi rendition="#b">D dur</hi>, mit obigen heroi-
           <lb/>ſchen Jnſtrumenten Chor-Ton begleitet werden, nur einmahl, wol ausgefuͤhret
-          <lb/>hoͤren, es wuͤrde ihm ins Hertz gehen.
+          <lb/>hoͤren, es wuͤrde ihm ins Hertz gehen.</s>
         </p>
       </div>
     </div>

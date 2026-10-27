@@ -113,34 +113,34 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
-            <hi rendition="#in">E</hi>S iſt ſchon zuvor erinnert worden, daß alles, was man in dieſen Exempeln
+            <s xml:id="p1-1-s1"><hi rendition="#in">E</hi>S iſt ſchon zuvor erinnert worden, daß alles, was man in dieſen Exempeln
             <lb/>der rechten Hand gerne beilegen wollte, ſich entweder vor oder hernach im
             <lb/>Baß dergeſtalt befindet, daß es nur darff hervorgeſuchet oder auch nach-
-            <lb/>geahmet werden. Hier moͤgte man nun gerne wiſſen, ob einer ſo viel Nachden-
+            <lb/>geahmet werden.</s> <s xml:id="p1-1-s2">Hier moͤgte man nun gerne wiſſen, ob einer ſo viel Nachden-
             <lb/>cken haͤtte, mittelſst dieſer Anweiſung gegenwaͤrtiges Stuͤck zu behandeln; oder ob
-            <lb/>ihm alles Haar-klein vorgeſchrieben werden muͤsse? Wer die Probe anſtellen will,
+            <lb/>ihm alles Haar-klein vorgeſchrieben werden muͤsse?</s> <s xml:id="p1-1-s3">Wer die Probe anſtellen will,
             <lb/>der laſſe dieſe Erlaͤuterung ſo lange zuruͤck bleiben, bis er mercket, ob sein Or-
-            <lb/>ganiſt das rechte Fleckgen getroffen habe, oder nicht. Trifft ers; ſo wuͤnschet ihm
-            <lb/>Gluͤck. Verfehlt ers; ſo wird ers muͤſſen geben laſſen, und ſich nach ein-
+            <lb/>ganiſt das rechte Fleckgen getroffen habe, oder nicht.</s> <s xml:id="p1-1-s4">Trifft ers; ſo wuͤnschet ihm
+            <lb/>Gluͤck.</s> <s xml:id="p1-1-s5">Verfehlt ers; ſo wird ers muͤſſen geben laſſen, und ſich nach ein-
             <lb/>genommenem Unterricht weidlich wundern, daß er den Lunten nicht ſelber riechen
-            <lb/>koͤnnen. Mancher wird hiebey eben ſo eine Nase auffwerffen, als
+            <lb/>koͤnnen.</s> <s xml:id="p1-1-s6">Mancher wird hiebey eben ſo eine Nase auffwerffen, als
             <hi rendition="#b"><persName corresp="#ed_lvw_2xx_qlb">Luthers</persName></hi> Ge-
             <lb/>sellschafft, wie er ihr das Ey ſtehend machte, und ſagen: <hi rendition="#b">O!</hi> iſt es nichts an-
-            <lb/>ders als das? ich dachte Wunder, was es ſeyn wuͤrde. Mit ſolchen <term xml:id="t_anweisung-1" corresp="#t_anweisung">Anwei-
+            <lb/>ders als das? ich dachte Wunder, was es ſeyn wuͤrde.</s> <s xml:id="p1-1-s7">Mit ſolchen <term xml:id="t_anweisung-1" corresp="#t_anweisung">Anwei-
             <lb/>ſungen</term> gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich verlan-
-            <lb/>get, und, wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden. Erfaͤh-
+            <lb/>get, und, wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden.</s> <s xml:id="p1-1-s8">Erfaͤh-
             <lb/>ret man denn, daß es lauter gemeine Kraͤuter und Gewaͤchſe geweſen, so verliehrt
             <lb/>man ſchon die Hochachtung dafuͤr, ob das Mittel gleich noch ſo gute Wirckung
-            <lb/>gehabt haͤtte. Das ſind lauter <term xml:id="t_vorurteile-1" corresp="#t_vorurteile">vorgefaßte Meynungen</term>; ich bitte darum, man lasse die-
+            <lb/>gehabt haͤtte.</s> <s xml:id="p1-1-s9">Das ſind lauter <term xml:id="t_vorurteile-1" corresp="#t_vorurteile">vorgefaßte Meynungen</term>; ich bitte darum, man lasse die-
             <lb/>ſelbe, ſonderlich in der Musik, fahren, und beurtheile die Sachen, gewiſſer maſſen, nach
             <lb/>keinen anderen Gruͤnden, als nach dem <term xml:id="t_wohlklang-1" corresp="#t_wohlklang">Wol- oder Uebellaut</term>, die Einrichtung mag
-            <lb/>kuͤnſtlich, oder ſchlecht, bunt, oder einfaͤltig gerathen; gnug, wenn es gut klingt.
+            <lb/>kuͤnſtlich, oder ſchlecht, bunt, oder einfaͤltig gerathen; gnug, wenn es gut klingt.</s>
           </p>
         </div>
         <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
-            Geſchaͤhe es nicht, ehrlichen Leuten zu gefallen, die ſich dieſes Werck-
+            <s xml:id="p2-1-s1">Geſchaͤhe es nicht, ehrlichen Leuten zu gefallen, die ſich dieſes Werck-
             <lb/>leins auch bedienen moͤgen, ich kann verſichern, meine gute Organiſten und ihre
             <lb/>Burſchen ſollten noch ein Weilgen zappeln, ehe ſie erfuͤhren, wo Bartold hier den
             <lb/>Moſt holet; Jch wuͤrde Anſtand nehmen, ihnen ſogleich zu ſagen: daß die vier-
@@ -150,69 +150,69 @@
             <fw place="bottom" type="catch">funff</fw>
             <pb n="334" facs="#facs-p396"/>
 
-            <ref target="#m-920">fuͤnffzehnten</ref> ein wenig veraͤndert werden koͤnnen.
-            Nun wird mein Organiſte den-
-            <lb/>cken, iſt das das ſchoͤne Geheimniß? Das iſt ja was schlechtes! Habe ichs nicht
-            <lb/>geſagt, es wuͤrde so kommen? Doch ſinge noch kein Sieges-Lied, mein guter Held, ehe
-            <lb/>der Triumph da iſt; laß hoͤren, wie klingt es? Zoͤgere nicht, fahre fort, ey lieber,
+            <ref target="#m-920">fuͤnffzehnten</ref> ein wenig veraͤndert werden koͤnnen.</s>
+            <s xml:id="p2-1-s2">Nun wird mein Organiſte den-
+            <lb/>cken, iſt das das ſchoͤne Geheimniß?</s> <s xml:id="p2-1-s3">Das iſt ja was schlechtes!</s> <s xml:id="p2-1-s4">Habe ichs nicht
+            <lb/>geſagt, es wuͤrde so kommen?</s> <s xml:id="p2-1-s5">Doch ſinge noch kein Sieges-Lied, mein guter Held, ehe
+            <lb/>der Triumph da iſt; laß hoͤren, wie klingt es?</s> <s xml:id="p2-1-s6">Zoͤgere nicht, fahre fort, ey lieber,
             <lb/>fahre fort; bedencke die lincke Hand dabey; laß den Baß nicht ſo kahl daher tre-
             <lb/>ten; kanſt du die <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">Vollſtimmigkeit</term> nicht ſo geſchwinde finden, ſo muſt du wenig-
             <lb/>ſtens <term xml:id="t_all_ottava-1" corresp="#t_all_ottava">Octaven-Weiſe</term> damit verfahren, bis endlich zum Schluß ins <hi rendition="#b">c</hi> mit Ehren
-            <lb/>gelanget ſeyn wird.
+            <lb/>gelanget ſeyn wird.</s>
           </p>
         </div>
 
         <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
-            Die gewoͤhnlichen Gruͤnde der <term xml:id="t_bassveraenderung-1" corresp="#t_bassveraenderung">Baß-Veraͤnderungen</term> ſind ſonſt diese, daß
+            <s xml:id="p3-1-s1">Die gewoͤhnlichen Gruͤnde der <term xml:id="t_bassveraenderung-1" corresp="#t_bassveraenderung">Baß-Veraͤnderungen</term> ſind ſonſt diese, daß
             <lb/>die Haupt-Noten vorher, die zufaͤlligen aber hintennach anſchlagen: doch bey
             <lb/>heutiger Art zu ſpielen, abſonderlich, wenn ſich das Clavier allein hoͤren laͤßt,
             <lb/>kehrt man es offt um, und macht es wie mit den Conſonanzen und Diſſonantzen,
             <lb/>welche auch ihre
             <hi rendition="#aq"><foreign xml:lang="ita">Note cambiate</foreign></hi> oder Wechsel-Noten
             zulaſſen: ob es gleich ſonſt
-            <lb/>ſtarck wieder den Compositions-Bocks-Beutel laͤufft. Doch muͤſſen die Haupt-
+            <lb/>ſtarck wieder den Compositions-Bocks-Beutel laͤufft.</s> <s xml:id="p3-1-s2">Doch muͤſſen die Haupt-
             <lb/>Noten, wenn ſie nachſchlagen, in der Tiefe, die <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechungen</term> aber in der Hoͤhe
-            <lb/>vorgenommen werden. Und ſolchemnach ſind die <term xml:id="t_grundnoten-1" corresp="#t_grundnoten">Grund-Noten</term> im
+            <lb/>vorgenommen werden.</s> <s xml:id="p3-1-s3">Und ſolchemnach ſind die <term xml:id="t_grundnoten-1" corresp="#t_grundnoten">Grund-Noten</term> im
             <ref target="#m-282">9.</ref> <ref target="#m-310">10.</ref> <ref target="#m-340">11.</ref>
             <lb/><ref target="#m-369">12.</ref>
-            <ref target="#m-399">ꝛc.</ref> Tact des vorhabenden Exempels dieſe:
+            <ref target="#m-399">ꝛc.</ref> Tact des vorhabenden Exempels dieſe:</s>
           </p>
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
           <p xml:id="p3-2" facs="#facsZone-p3-2">
-            Ob was legalers, grundrichtigers und deutlichers ſeyn koͤnne, weiß ich nicht.
+            <s xml:id="p3-2-s1">Ob was legalers, grundrichtigers und deutlichers ſeyn koͤnne, weiß ich nicht.</s>
           </p>
         </div>
 
         <div n="4">
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
-            Nun folgen neun biß zehn bunte Taͤcte im Baſſe; und obgleich hin und wieder
+            <s xml:id="p4-1-s1">Nun folgen neun biß zehn bunte Taͤcte im Baſſe; und obgleich hin und wieder
             <lb/>eine <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffer</term> ausgelassen waͤre, ſo wird man doch wol urtheilen, wohin etwan
-            <lb/>eine Sexte oder ♭5 gehoͤre. Wer auch gerne wiſſen will, was bey dieſen sogenann-
+            <lb/>eine Sexte oder ♭5 gehoͤre.</s> <s xml:id="p4-1-s2">Wer auch gerne wiſſen will, was bey dieſen sogenann-
             <lb/>ten bunten Taͤcten die eigentlichen Grund-Noten ſind, darauf ſich die <term xml:id="t_veraenderung-1" corresp="#t_veraenderung">Veraͤnderun-
             <lb/>gen</term> oder Brechungen beziehen, dem will ich ſie hier vor Augen legen, zumahl da
             <lb/>nicht immer die erſten Noten im Tact die vornehmsten ſind, ſondern gar offt nur als
-            <lb/>Fuͤll-Stimme da ſtehen. Jch habe geſagt, es waͤren neun bis zehn Taͤcte; in den vier
+            <lb/>Fuͤll-Stimme da ſtehen.</s> <s xml:id="p4-1-s3">Jch habe geſagt, es waͤren neun bis zehn Taͤcte; in den vier
             <fw place="bottom" type="catch">er-</fw>
             <pb n="335" facs="#facs-p397"/>
 
             erſten melden ſich zwar die <term xml:id="t_grundnoten-2" corresp="#t_grundnoten">Grund-Noten</term> gleich bey dem Niederſchlage und Anfange
             <lb/>eines jeden Viertels; im fuͤnfften aber iſt es anders beſchaffen, und in den vier folgen-
-            <lb/>den moͤgte mancher auch zweiffeln, ob er ſie oben oder unten ſuchen ſollte. Weil
+            <lb/>den moͤgte mancher auch zweiffeln, ob er ſie oben oder unten ſuchen ſollte.</s> <s xml:id="p4-1-s4">Weil
             <lb/>denn nun ſehr viel an dieſem Unterricht von den Grund-Noten, bey dergleichen
             <lb/>Veraͤnderungen oder Variationen, gelegen iſt, wird ſich ein Lehrbegieriger desfalls
             <lb/>allhier Raths erhohlen koͤnnen, und gegenwaͤrtige Vorfaͤlle, ſamt ihrer Erlaͤuterung,
-            <lb/>gleichfalls auf andre Gelegenheiten anwenden lernen.
-            <hi rendition="#b">Anschlagende Haupt-Gaͤnge</hi>, <ref target="#m-954">
+            <lb/>gleichfalls auf andre Gelegenheiten anwenden lernen.</s>
+            <s xml:id="p4-1-s5"><hi rendition="#b">Anschlagende Haupt-Gaͤnge</hi>, <ref target="#m-954">
               <hi rendition="#aq">pag. 331. lin. 3. tactu. 5.</hi>
             </ref>
             <note type="editorial" resp="#pfeffer">gemeint ist Takt 31.</note>
             <hi rendition="#b"><abbr>u.s.w.</abbr> bis zu Ende
-            <lb/>der Seite.</hi>
+            <lb/>der Seite.</hi></s>
           </p>
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
             <ptr target="music-example2.xml"/>
@@ -222,33 +222,33 @@
         <div n="5">
           <head>§. 5.</head>
           <p xml:id="p5-1" facs="#facsZone-p5-1">
-            Aber weiter im Text. Was ſchlaͤgſt du denn zu dieſem letzten <ref target="#m-1245">
+            <s xml:id="p5-1-s1">Aber weiter im Text.</s> <s xml:id="p5-1-s2">Was ſchlaͤgſt du denn zu dieſem letzten <ref target="#m-1245">
             <hi rendition="#b">d</hi> und dessen zwo
-            <lb/>Viertel-Pausen?</ref> Ja, was zu den <ref target="#m-1265">folgenden</ref>
-            fuͤnff oder ſechs Taͤcten? Nimm dirs
+            <lb/>Viertel-Pausen?</ref></s> <s xml:id="p5-1-s3">Ja, was zu den <ref target="#m-1265">folgenden</ref>
+            fuͤnff oder ſechs Taͤcten?</s> <s xml:id="p5-1-s4">Nimm dirs
             <lb/>aus dem vorhergehenden, jedoch dißmahl nicht Note vor Note; ſtolpere auch
-            <lb/>nicht, ich rathe dirs. Du ſieheſt wohl, daß in den neun biß zehn Taͤcten, die ich
+            <lb/>nicht, ich rathe dirs.</s> <s xml:id="p5-1-s5">Du ſieheſt wohl, daß in den neun biß zehn Taͤcten, die ich
             <lb/>(<hi rendition="#b"><persName corresp="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih
             mirs) bunt genennet habe, <ref target="#m-1110">nach dem ſechſten Tact</ref> die Gaͤn-
             <lb/>ge ſich etwas weniges umkehren; solches wird man auch belieben nachzuma-
             <lb/>chen, wenn er an
-            <ref target="#m-1310">den fuͤnfften Tact der sogenannten ſchlechten Noten koͤmmt</ref>.
-            <lb/>Kann einer nach dieſem die letzten zwoͤlff Taͤcte in der rechten Hand, bey guter
+            <ref target="#m-1310">den fuͤnfften Tact der sogenannten ſchlechten Noten koͤmmt</ref>.</s>
+            <lb/><s xml:id="p5-1-s6">Kann einer nach dieſem die letzten zwoͤlff Taͤcte in der rechten Hand, bey guter
             <lb/>Einrichtung, Tertzen- und <term xml:id="t_sexte-1" corresp="#t_sexte">Sexten-Weise</term> mitnehmen, ſo wird es zu loben ſeyn,
             <lb/>und von ihm heiſſen koͤnnen: <hi rendition="#b">Er hat
-            ſeine Sache ſchon recht gethan.</hi>
+            ſeine Sache ſchon recht gethan.</hi></s>
             </p>
           </div>
 
           <div n="6">
             <lb/><head>§. 6.</head>
             <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
-              Es iſt bereits, wegen der Sexten und Quarten, das noͤthige mehrmahlen erinnert
+              <s xml:id="p6-1-s1">Es iſt bereits, wegen der Sexten und Quarten, das noͤthige mehrmahlen erinnert
               <lb/>worden; wem ſie aber ſo, wie ich ſie hier gerne haben wollte, nicht anſtehen, der kann
               <lb/>im  <ref target="#m-41">erſten</ref> und <ref target="#m-100">dritten</ref> Tact
               dieſes Exempels lieber den Accord dafuͤr nehmen, und
-              <lb/>zweimahl auf einem Viertel weghacken. Das wird legal ſeyn, und wunderſchoͤn
-              <lb/>heraus kommen.
+              <lb/>zweimahl auf einem Viertel weghacken.</s> <s xml:id="p6-1-s2">Das wird legal ſeyn, und wunderſchoͤn
+              <lb/>heraus kommen.</s>
             </p>
 
             <fw place="bottom" type="catch">Sie-</fw>

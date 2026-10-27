@@ -14,7 +14,9 @@ file with such sentences the script checks that
   1. each @corresp token of an <s> names an <s> of an existing file;
   2. every <s> of the original is rendered by some sentence of the
      translation (a sentence left out would be missing from the comparison);
-  3. the sentences of the translation follow the order of the original;
+  3. the sentences of the translation follow the order of the original (a
+     sentence that shares a sentence of the original with the one before it
+     may go back among that one's);
   4. the sentences of the original carry the ID of their paragraph and their
      number in it: p1-1-s1, p1-1-s2, … (a warning only).
 
@@ -60,7 +62,12 @@ def check_translation(path, rel, root, originals):
     # original file -> IDs of its sentences in document order
     used = {}
     last = {}
+    # the sentences of the original that the previous sentence renders: a sentence
+    # that shares one of them may go back among them (the website shows the two
+    # together), e.g. where the translator reordered a period
+    previous = set()
     for s in sentences(root):
+        found = []
         for token in (s.get('corresp') or '').split():
             if '#' not in token:
                 problems.append(f'{rel}:{s.sourceline}: {token!r} names no sentence')
@@ -76,12 +83,18 @@ def check_translation(path, rel, root, originals):
             if identifier not in order:
                 problems.append(f'{rel}:{s.sourceline}: {token!r}: no <s xml:id="{identifier}"> in {name}')
                 continue
+            found.append((token, name, original, identifier, order))
+            used.setdefault(original, set()).add(identifier)
+
+        current = {(original, identifier) for _, _, original, identifier, _ in found}
+        for token, name, original, identifier, order in found:
             position = order.index(identifier)
-            if position < last.get(original, -1):
+            if position < last.get(original, -1) and not current & previous:
                 problems.append(f'{rel}:{s.sourceline}: {token!r} comes after '
                                 f'{order[last[original]]!r}, which follows it in {name}')
-            last[original] = max(position, last.get(original, -1))
-            used.setdefault(original, set()).add(identifier)
+        for _, _, original, identifier, order in found:
+            last[original] = max(order.index(identifier), last.get(original, -1))
+        previous = current
 
     for original, identifiers in used.items():
         for x in sentences(originals[original]):
