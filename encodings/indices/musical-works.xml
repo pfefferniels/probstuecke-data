@@ -148,6 +148,14 @@
                     <pubPlace>Hamburg</pubPlace>
                     <date>1715</date>
                 </bibl>
+                <bibl xml:id="ed_m5c_o3t_tlb">
+                    <author>
+                        <persName><surname>Mascitti</surname><forename>Michele</forename></persName>
+                    </author>
+                    <title>Sonate da camera a violino solo col violone o cembalo, op. 3</title>
+                    <publisher>Estienne Roger</publisher>
+                    <pubPlace>Amsterdam</pubPlace>
+                </bibl>
                 <bibl xml:id="ed_cx1_yqx_slb">
                     <author>
                         <persName><surname>Mattheson</surname><forename>Johann</forename></persName>
