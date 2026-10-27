@@ -69,11 +69,11 @@
                                         <note dur="16" oct="5" pname="c" />
                                     </beam>
                                     <beam>
-                    <note dur="16" oct="4" pname="a" accid.ges="f">
-                        <orig>
-                            <accid accid="f" />
-                        </orig>
-                    </note>
+                                        <note dur="16" oct="4" pname="a" accid.ges="f">
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
+                                        </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />

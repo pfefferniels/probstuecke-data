@@ -499,7 +499,14 @@
                         <measure xml:id="m-487" n="13">
                             <staff xml:id="m-494" n="2" facs="#facsZone-m-494">
                                 <layer xml:id="m-495" n="1">
-                                    <clef line="3" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="3" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <rest xml:id="m-496" dur="16" />
                                     <beam>
                                         <note xml:id="m-497" dur="16" oct="4" pname="d" stem.dir="down" />
@@ -952,7 +959,14 @@
                         <measure xml:id="m-1167" n="32">
                             <staff xml:id="m-1185" n="2" facs="#facsZone-m-1185">
                                 <layer xml:id="m-1186" n="1">
-                                    <clef line="4" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <rest xml:id="m-1187" dur="16" />
                                     <beam>
                                         <note xml:id="m-1188" dur="16" oct="3" pname="b" stem.dir="down" />

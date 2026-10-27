@@ -167,6 +167,11 @@
               <reg resp="#pfeffer">
                 <scoreDef>
                   <keySig sig="3f" />
+                  <staffGrp>
+                    <staffDef n="2">
+                      <clef line="2" shape="G" />
+                    </staffDef>
+                  </staffGrp>
                 </scoreDef>
               </reg>
             </choice>
@@ -512,9 +517,7 @@
                       <orig>
                         <clef line="3" shape="C" glyph.name="mensuralCclef" />
                       </orig>
-                      <reg resp="#rettinghaus">
-                        <clef line="2" shape="G" />
-                      </reg>
+                      <reg resp="#pfeffer" />
                     </choice>
                     <note xml:id="m-229" dur="16" oct="4" pname="g" />
                     <note xml:id="m-231" dur="16" oct="4" pname="a">

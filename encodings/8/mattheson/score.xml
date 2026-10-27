@@ -176,6 +176,18 @@
             </staffGrp>
           </scoreDef>
           <section xml:id="m-34">
+            <choice>
+              <orig />
+              <reg resp="#pfeffer">
+                <scoreDef>
+                  <staffGrp>
+                    <staffDef n="1">
+                      <clef line="2" shape="G" />
+                    </staffDef>
+                  </staffGrp>
+                </scoreDef>
+              </reg>
+            </choice>
             <pb source="#firstEdition" n="136" facs="#facs-p312" />
             <pb source="#secondEdition" n="340" facs="#facs-p402" />
             <measure xml:id="m-35" label="1" n="1">

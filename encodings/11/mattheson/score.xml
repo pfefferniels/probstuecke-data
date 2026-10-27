@@ -171,6 +171,21 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <choice>
+              <orig />
+              <reg resp="#pfeffer">
+                <scoreDef>
+                  <staffGrp>
+                    <staffDef n="1">
+                      <clef line="2" shape="G" />
+                    </staffDef>
+                    <staffDef n="2">
+                      <clef line="4" shape="F" />
+                    </staffDef>
+                  </staffGrp>
+                </scoreDef>
+              </reg>
+            </choice>
             <pb n="360" source="#secondEdition" facs="#facs-p422" />
             <pb n="158" source="#firstEdition" facs="#facs-p368" />
             <measure xml:id="measure-0000002086967554" n="1">
@@ -193,9 +208,12 @@
                     <note xml:id="note-0000001403070168" dur="16" oct="3" pname="e" accid.ges="f" />
                     <note xml:id="note-0000000666407261" dur="16" oct="3" pname="g" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001039300264" dur="16" oct="2" pname="b" accid.ges="f" />
                     <note xml:id="note-0000001150869588" dur="16" oct="3" pname="e" accid.ges="f" />
@@ -1269,9 +1287,12 @@
             <measure xml:id="measure-0000002078803044" n="23">
               <staff n="1">
                 <layer n="1">
-                  <orig>
-                    <clef line="1" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="1" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <rest dur="16" staff="2" loc="6" />
                   <beam>
                     <note dur="16" oct="3" pname="e" stem.dir="up" accid.ges="f" staff="2" />
@@ -2075,9 +2096,12 @@
             <measure xml:id="measure-0000000290191869" n="38">
               <staff n="1">
                 <layer n="1">
-                  <orig>
-                    <clef line="2" shape="G" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="2" shape="G" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <rest dur="4" />
                   <rest dur="16" />
                   <beam>

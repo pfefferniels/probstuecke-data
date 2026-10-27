@@ -195,9 +195,14 @@
                     <note xml:id="note-0000000982511942" dur="8" oct="4" pname="d" accid.ges="f" />
                     <note xml:id="note-0000001078772382" dur="8" oct="3" pname="g" accid.ges="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam>
                     <note xml:id="note-0000001418363487" dur="16" oct="4" pname="g" accid.ges="f" />
                     <note xml:id="note-0000001082449347" dur="16" oct="4" pname="f" accid.ges="f" />

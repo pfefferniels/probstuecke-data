@@ -180,6 +180,11 @@
               <reg resp="#pfeffer">
                 <scoreDef>
                   <keySig sig="4f" />
+                  <staffGrp>
+                    <staffDef n="2">
+                      <clef line="4" shape="F" />
+                    </staffDef>
+                  </staffGrp>
                 </scoreDef>
               </reg>
             </choice>
@@ -250,11 +255,11 @@
               <staff xml:id="m-84" n="2" facs="#facsZone-m-84">
                 <layer xml:id="m-85" n="1">
                   <beam xml:id="m-88">
-          <note xml:id="m-86" dur="8" oct="4" pname="d" stem.dir="down" accid.ges="f">
-            <orig>
-              <accid accid="f" />
-            </orig>
-          </note>
+                    <note xml:id="m-86" dur="8" oct="4" pname="d" stem.dir="down" accid.ges="f">
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
+                    </note>
                     <note xml:id="m-93" dur="8" oct="3" pname="b" accid.ges="f" stem.dir="down" />
                     <note xml:id="m-97" dur="8" oct="3" pname="f" stem.dir="down" />
                   </beam>
@@ -313,9 +318,12 @@
               </staff>
               <staff xml:id="m-132" n="2" facs="#facsZone-m-132">
                 <layer xml:id="m-133" n="1">
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-136">
                     <note xml:id="m-134" dur="8" oct="3" pname="b" accid.ges="f" stem.dir="down" />
                     <note xml:id="m-141" dur="8" oct="3" pname="f" stem.dir="down" />
@@ -437,9 +445,12 @@
               </staff>
               <staff xml:id="m-194" n="2" facs="#facsZone-m-194">
                 <layer xml:id="m-195" n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-197">
                     <note xml:id="m-196" dur="8" oct="4" pname="f" />
                     <note xml:id="m-198" dur="8" oct="4" pname="c" />
@@ -529,9 +540,12 @@
                     <note xml:id="m-245" dur="16" oct="3" pname="g" />
                     <note xml:id="m-246" dur="16" oct="3" pname="f" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-249">
                     <note xml:id="m-247" dur="8" oct="3" pname="e" accid.ges="f" />
                     <note xml:id="m-250" dur="16" oct="3" pname="c" />
@@ -627,9 +641,14 @@
               </staff>
               <staff xml:id="m-301" n="2" facs="#facsZone-m-301">
                 <layer xml:id="m-302" n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer">
+                      <clef line="2" shape="G" />
+                    </reg>
+                  </choice>
                   <beam xml:id="m-304">
                     <note xml:id="m-303" dur="8" oct="4" pname="c" />
                     <note xml:id="m-305" dur="16" oct="4" pname="d">
@@ -1564,9 +1583,12 @@
                     <note xml:id="m-810" dur="16" oct="3" pname="a" accid.ges="f" />
                   </beam>
                   <note xml:id="m-812" dur="8" oct="3" pname="f" />
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-813">
                     <note xml:id="m-814" dur="8" oct="4" pname="f" />
                     <note xml:id="m-815" dur="8" oct="4" pname="e" accid.ges="f" />
@@ -1657,9 +1679,12 @@
                     <note xml:id="m-878" dur="16" oct="3" pname="f" />
                     <note xml:id="m-879" dur="16" oct="3" pname="g" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-882">
                     <note xml:id="m-880" dur="8" oct="3" pname="e">
                       <accid accid="n" />
@@ -2088,11 +2113,11 @@
                 <layer xml:id="m-1133" n="1">
                   <chord xml:id="m-1134" dots="1" dur="4">
                     <note xml:id="m-1135" dots="1" dur="4" oct="4" pname="f" pnum="65" />
-          <note xml:id="m-1136" dots="1" dur="4" oct="4" pname="a" pnum="68" accid.ges="f">
-            <orig>
-              <accid accid="f" />
-            </orig>
-          </note>
+                    <note xml:id="m-1136" dots="1" dur="4" oct="4" pname="a" pnum="68" accid.ges="f">
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
+                    </note>
                     <note xml:id="m-1138" dots="1" dur="4" oct="5" pname="c" pnum="72" />
                     <note xml:id="m-1139" dots="1" dur="4" oct="5" pname="f" pnum="77" />
                   </chord>
@@ -2206,16 +2231,16 @@
                     </note>
                   </chord>
                   <beam xml:id="m-1220">
-          <note xml:id="m-1218" dur="16" oct="5" pname="d" accid.ges="f">
-            <orig>
-              <accid accid="f" />
-            </orig>
-          </note>
-          <note xml:id="m-1221" dur="16" oct="5" pname="d" accid.ges="f">
-            <orig>
-              <accid accid="f" />
-            </orig>
-          </note>
+                    <note xml:id="m-1218" dur="16" oct="5" pname="d" accid.ges="f">
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
+                    </note>
+                    <note xml:id="m-1221" dur="16" oct="5" pname="d" accid.ges="f">
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
+                    </note>
                     <note xml:id="m-1223" dur="16" oct="5" pname="c" />
                     <note xml:id="m-1224" dur="16" oct="5" pname="c" />
                     <note xml:id="m-1225" dur="16" oct="4" pname="g" />
@@ -2541,9 +2566,12 @@
               </staff>
               <staff xml:id="m-1395" n="2" facs="#facsZone-m-1395 #facsZone-m-1395-2">
                 <layer xml:id="m-1396" n="1">
-                  <orig>
-                    <clef line="4" shape="C" glyph.name="mensuralCclef" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="C" glyph.name="mensuralCclef" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-1398">
                     <note xml:id="m-1397" dur="8" oct="3" pname="f" />
                     <note xml:id="m-1399" dur="8" oct="3" pname="a" accid.ges="f" />
@@ -2663,9 +2691,12 @@
                     <note xml:id="m-1481" dur="16" oct="3" pname="g" />
                     <note xml:id="m-1482" dur="8" oct="4" pname="c" />
                   </beam>
-                  <orig>
-                    <clef line="4" shape="F" />
-                  </orig>
+                  <choice>
+                    <orig>
+                      <clef line="4" shape="F" />
+                    </orig>
+                    <reg resp="#pfeffer" />
+                  </choice>
                   <beam xml:id="m-1484">
                     <note xml:id="m-1483" dur="8" oct="3" pname="f" />
                     <note xml:id="m-1485" dur="8" oct="3" pname="g" />
@@ -2843,11 +2874,11 @@
                     <note xml:id="m-1586" dur="16" oct="4" pname="c" />
                   </beam>
                   <beam xml:id="m-1589">
-          <note xml:id="m-1587" dur="16" oct="4" pname="d" accid.ges="f">
-            <orig>
-              <accid accid="f" />
-            </orig>
-          </note>
+                    <note xml:id="m-1587" dur="16" oct="4" pname="d" accid.ges="f">
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
+                    </note>
                     <note xml:id="m-1590" dur="16" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="m-1592" dur="8" oct="4" pname="c" />
                     <note xml:id="m-1593" dur="8" oct="3" pname="c" />

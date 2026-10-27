@@ -159,6 +159,11 @@
               <reg resp="#pfeffer">
                 <scoreDef>
                   <keySig sig="2f" />
+                  <staffGrp>
+                    <staffDef n="1">
+                      <clef line="2" shape="G" />
+                    </staffDef>
+                  </staffGrp>
                 </scoreDef>
               </reg>
             </choice>

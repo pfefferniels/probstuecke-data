@@ -1228,7 +1228,14 @@
 
                   <beam>
                     <note xml:id="m-564" dur="16" oct="3" pname="b"/>
-                    <clef line="4" shape="C"/>
+                    <choice>
+                      <orig>
+                        <clef line="4" shape="C"/>
+                      </orig>
+                      <reg resp="#pfeffer">
+                        <clef line="2" shape="G" />
+                      </reg>
+                    </choice>
                     <note xml:id="m-566" dur="16" oct="4" pname="f" accid.ges="s"/>
                     <note xml:id="m-568" dur="16" oct="4" pname="f" accid.ges="s"/>
                     <note xml:id="m-570" breaksec="1" dur="16" oct="4" pname="e"/>
@@ -2590,11 +2597,11 @@
                     <note dur="32" oct="3" pname="f" accid.ges="s"/>
                     <note dur="32" oct="3" pname="e"/>
                     <note dur="32" oct="3" pname="d"/>
-          <note dur="32" oct="3" pname="c" accid.ges="s">
-            <orig>
-              <accid accid="s" />
-            </orig>
-          </note>
+                    <note dur="32" oct="3" pname="c" accid.ges="s">
+                      <orig>
+                        <accid accid="s" />
+                      </orig>
+                    </note>
                     <note dur="32" oct="2" pname="b"/>
                     <note dur="32" oct="2" pname="a"/>
                     <note dur="32" oct="2" pname="g"/>
