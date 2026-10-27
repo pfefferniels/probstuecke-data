@@ -213,7 +213,7 @@
 
       <kinesic who="#rh" type="playing">
         <desc>
-          spielt <ref target="#m4-000 #m4-0001">T. 4 zweite Hälfte</ref>.
+          spielt <ref target="#m4-000 #m4-001">T. 4 zweite Hälfte</ref>.
 
           <ptr type="transcription" target="example5.xml" />
         </desc>
@@ -253,7 +253,7 @@
         </desc>
       </kinesic>
 
-      <u who="rh">
+      <u who="#rh">
         Man darf nicht das <ref target="#m-253">d</ref>, sondern muss das <ref target="#m-254">c</ref> als Instanz nehmen.
       </u>
 
@@ -268,7 +268,7 @@
         </desc>
       </kinesic>
 
-      <u who="rh">
+      <u who="#rh">
         Mit Zäsur würde <ref target="#example7">das</ref> gehen.
       </u>
 
@@ -279,7 +279,7 @@
 
       <u who="#np">Und an der Stelle:</u>
 
-      <kinesic who="np" type="playing">
+      <kinesic who="#np" type="playing">
         <desc>wechselt <ref target="#m-298">auf der 1 von Takt 7</ref> ins Obermanual.</desc>
       </kinesic>
 
@@ -324,7 +324,7 @@
       </u>
       <kinesic who="#rh" type="playing">
         <desc>
-          spielt ab <ref target="#m-512">T. 12</ref> auf zwei Manualen:
+          spielt ab <ref target="#m12">T. 12</ref> auf zwei Manualen:
           <ptr type="transcription" target="example11.xml" />
         </desc>
       </kinesic>
