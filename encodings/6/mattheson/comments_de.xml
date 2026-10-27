@@ -76,25 +76,25 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p395">
-      <graphic width="1998px" height="2426px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/395"/>
-      <zone ulx="60" uly="302" lry="1654" lrx="1914" xml:id="facsZone-p1-1"/>
-      <zone ulx="54" uly="1643" lry="2194" lrx="1914" xml:id="facsZone-p2-1"/>
+    <surface ulx="0" uly="0" lrx="1999" lry="2531" xml:id="facs-p395">
+      <graphic width="1999px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/395"/>
+      <zone ulx="11" uly="357" lry="1749" lrx="1921" xml:id="facsZone-p1-1"/>
+      <zone ulx="5" uly="1738" lry="2306" lrx="1921" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2442" xml:id="facs-p396">
-      <graphic width="1998px" height="2442px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/396"/>
-      <zone ulx="132" uly="137" lry="613" lrx="1956" xml:id="facsZone-p2-1-2"/>
-      <zone ulx="125" uly="626" lry="1279" lrx="1967" xml:id="facsZone-p3-1"/>
-      <zone ulx="372" uly="1259" lry="1546" lrx="1746" xml:id="facsZone-music-example1"/>
-      <zone ulx="132" uly="1535" lry="1657" lrx="1878" xml:id="facsZone-p3-2"/>
-      <zone ulx="129" uly="1634" lry="2212" lrx="1950" xml:id="facsZone-p4-1"/>
+    <surface ulx="0" uly="0" lrx="2021" lry="2536" xml:id="facs-p396">
+      <graphic width="2021px" height="2536px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/396"/>
+      <zone ulx="138" uly="190" lry="680" lrx="2017" xml:id="facsZone-p2-1-2"/>
+      <zone ulx="131" uly="693" lry="1366" lrx="2021" xml:id="facsZone-p3-1"/>
+      <zone ulx="385" uly="1345" lry="1641" lrx="1800" xml:id="facsZone-music-example1"/>
+      <zone ulx="138" uly="1629" lry="1755" lrx="1936" xml:id="facsZone-p3-2"/>
+      <zone ulx="135" uly="1731" lry="2327" lrx="2010" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2435" xml:id="facs-p397">
-      <graphic width="1998px" height="2435px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/397"/>
-      <zone ulx="48" uly="173" lry="676" lrx="1890" xml:id="facsZone-p4-1-2"/>
-      <zone ulx="51" uly="659" lry="1249" lrx="1899" xml:id="facsZone-music-example2"/>
-      <zone ulx="54" uly="1193" lry="1828" lrx="1905" xml:id="facsZone-p5-1"/>
-      <zone ulx="57" uly="1802" lry="2233" lrx="1893" xml:id="facsZone-p6-1"/>
+    <surface ulx="0" uly="0" lrx="1984" lry="2532" xml:id="facs-p397">
+      <graphic width="1984px" height="2532px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/397"/>
+      <zone ulx="18" uly="194" lry="712" lrx="1916" xml:id="facsZone-p4-1-2"/>
+      <zone ulx="22" uly="695" lry="1302" lrx="1925" xml:id="facsZone-music-example2"/>
+      <zone ulx="25" uly="1245" lry="1899" lrx="1931" xml:id="facsZone-p5-1"/>
+      <zone ulx="28" uly="1872" lry="2316" lrx="1919" xml:id="facsZone-p6-1"/>
     </surface>
   </facsimile>
   <text>
@@ -198,7 +198,7 @@
             <lb/>nicht immer die erſten Noten im Tact die vornehmsten ſind, ſondern gar offt nur als
             <lb/>Fuͤll-Stimme da ſtehen. Jch habe geſagt, es waͤren neun bis zehn Taͤcte; in den vier
             <fw place="bottom" type="catch">er-</fw>
-            <pb n="334" facs="#facs-p396"/>
+            <pb n="334" facs="#facs-p397"/>
 
             erſten melden ſich zwar die Grund-Noten gleich bey dem Niederſchlage und Anfange
             <lb/>eines jeden Viertels; im fuͤnfften aber iſt es anders beſchaffen, und in den vier folgen-

@@ -76,17 +76,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2477" xml:id="facs-p380">
-      <graphic width="1998px" height="2477px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/380"/>
-      <zone ulx="99" uly="338" lry="1564" lrx="1956" xml:id="facsZone-p1-1"/>
-      <zone ulx="96" uly="1550" lry="1852" lrx="1938" xml:id="facsZone-p2-1"/>
-      <zone ulx="96" uly="1838" lry="2242" lrx="1959" xml:id="facsZone-p2-3"/>
+    <surface ulx="0" uly="0" lrx="2060" lry="2529" xml:id="facs-p400">
+      <graphic width="2060px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/400"/>
+      <zone ulx="115" uly="369" lry="1631" lrx="2027" xml:id="facsZone-p1-1"/>
+      <zone ulx="112" uly="1617" lry="1928" lrx="2009" xml:id="facsZone-p2-1"/>
+      <zone ulx="112" uly="1914" lry="2330" lrx="2030" xml:id="facsZone-p2-3"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2445" xml:id="facs-p381">
-      <graphic width="1998px" height="2445px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/381"/>
-      <zone ulx="60" uly="137" lry="667" lrx="1902" xml:id="facsZone-p3-1"/>
-      <zone ulx="62" uly="647" lry="1339" lrx="1907" xml:id="facsZone-p4-1"/>
-      <zone ulx="62" uly="1316" lry="1780" lrx="1898" xml:id="facsZone-p5-1"/>
+    <surface ulx="0" uly="0" lrx="1989" lry="2519" xml:id="facs-p401">
+      <graphic width="1989px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/401"/>
+      <zone ulx="37" uly="171" lry="717" lrx="1934" xml:id="facsZone-p3-1"/>
+      <zone ulx="39" uly="697" lry="1409" lrx="1939" xml:id="facsZone-p4-1"/>
+      <zone ulx="39" uly="1386" lry="1864" lrx="1930" xml:id="facsZone-p5-1"/>
     </surface>
   </facsimile>
   <text>
@@ -99,7 +99,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="318" facs="#facs-p380"/>
+      <pb n="318" facs="#facs-p400"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
         <div n="1">
@@ -163,7 +163,7 @@
 
         <div n="3">
           <lb/><head>§. 3.</head>
-          <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
+          <lb/><p xml:id="p3-1" facs="#facsZone-p2-3 #facsZone-p3-1">
             Hiebey kann ich nicht unberuͤhret laſſen, was der
             <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
             ſeinem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
@@ -179,7 +179,7 @@
                 <lb/>findet, alle und jede Noten zu ſpielen, kann er damit ſchon vergnuͤget ſeyn, wenn er
                 <lb/>nur die erſte Note in jeder Abtheilung des Tacts anſchlaͤgt, und den Baß-Geigen die
                 <fw place="bottom" type="catch">an-</fw>
-                <pb n="319" facs="#facs-p381"/>
+                <pb n="319" facs="#facs-p401"/>
 
                 andern zu ſpielen uͤberlaͤßt: denn es faͤllt denſelben viel leichter, weil man auf ihnen weiter
                 <lb/>nichts dazu greiffen darff. Die gar hurtigen Gaͤnge und Laͤuffe ſchicken sich nicht zu

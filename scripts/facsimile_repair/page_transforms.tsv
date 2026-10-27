@@ -1,0 +1,130 @@
+# Transformation of the zone coordinates of the 1731 print (drawn on the BSB images of 2019)
+# to the current images: x' = s*x + tx, y' = s*y + ty, per group of files and canvas.
+# Made with scratch registration tools: staves and barlines for scores, headings and the first
+# text line for commentaries; checked on overlays of every page.
+group	canvas	page	s	tx	ty	basis
+score	364	302	1.0268	12.0	31.2	staff rows 6, barlines 3.8/6
+score	365	303	1.0294	-32.0	8.8	staff rows 7, barlines 9.3/11
+score	366	304	1.0320	-5.0	42.2	staff rows 6, barlines 5.0/7
+score	367	305	1.0300	-20.0	-12.4	staff rows 2, barlines 1.9/2, s default (few rows)
+score	370	308	1.0243	12.0	16.5	staff rows 6, barlines 2.7/5
+score	371	309	1.0408	-40.0	-12.9	staff rows 6, barlines 4.9/6
+score	372	310	1.0375	-17.0	13.8	staff rows 7, barlines 4.1/8
+score	373	311	1.0279	-33.0	18.3	staff rows 5, barlines 2.1/3
+score	378	316	1.0378	-25.0	40.6	staff rows 7, barlines 9.2/16
+score	379	317	1.0365	-52.0	9.8	staff rows 8, barlines 12.8/21
+score	382	320	1.0308	-13.0	24.1	staff rows 7, barlines 8.0/10
+score	383	321	1.0160	-12.0	28.1	staff rows 7, barlines 3.8/6
+score	384	322	1.0299	-5.0	24.7	staff rows 6, barlines 2.4/5
+score	385	323	1.0300	10.0	-2.7	staff rows 2, barlines 0.9/1, s default (few rows)
+score	388	326	1.0232	-1.0	56.9	staff rows 6, barlines 12.5/18
+score	389	327	1.0379	-40.0	12.8	staff rows 6, barlines 8.6/12
+score	392	330	1.0240	3.0	25.2	staff rows 6, barlines 6.5/8
+score	393	331	1.0272	-30.0	27.7	staff rows 7, barlines 16.3/19
+score	394	332	1.0323	-27.0	7.7	staff rows 7, barlines 12.1/16
+score	398	336	1.0228	0.0	58.7	staff rows 7, barlines 13.4/16
+score	399	337	1.0340	-45.0	27.8	staff rows 8, barlines 15.4/17
+score	402	340	1.0282	1.0	32.5	staff rows 4, barlines 8.8/15
+score	403	341	1.0461	-47.0	-16.0	staff rows 5, barlines 13.2/15
+score	404	342	1.0616	-26.0	-21.3	staff rows 4, barlines 6.8/14
+score	405	343	1.0508	-69.0	-5.5	staff rows 3, barlines 4.8/6
+score	408	346	1.0319	12.0	34.4	staff rows 7, barlines 11.4/14
+score	409	347	1.0348	-38.0	30.0	staff rows 8, barlines 11.2/13
+score	410	348	1.0354	18.0	23.6	staff rows 7, barlines 10.5/12
+score	414	352	1.0487	1.0	18.9	staff rows 7, barlines 8.0/21
+score	415	353	1.0319	-24.0	25.6	staff rows 8, barlines 17.8/25
+score	416	354	1.0300	-21.0	27.6	staff rows 3, barlines 6.3/8, s default (few rows)
+score	422	360	1.0325	-19.0	9.9	staff rows 7, barlines 4.1/7
+score	423	361	1.0396	-46.0	22.8	staff rows 6, barlines 8.1/11
+score	424	362	1.0311	-22.0	18.6	staff rows 7, barlines 6.2/10
+score	425	363	1.0558	-47.0	-12.6	staff rows 5, barlines 4.1/8
+score	428	366	1.0284	-2.0	50.7	staff rows 7, barlines 7.0/13
+score	429	367	1.0283	-31.0	15.3	staff rows 7, barlines 9.5/13
+score	430	368	1.0300	-5.0	28.6	staff rows 2, barlines 2.5/3, s default (few rows)
+score	434	372	1.0239	-25.0	43.1	staff rows 6, barlines 11.1/16
+score	435	373	1.0317	-24.0	29.3	staff rows 7, barlines 22.5/26
+score	436	374	1.0300	-9.0	43.6	staff rows 3, barlines 6.5/8, s default (few rows)
+score	440	378	1.0137	15.0	44.2	staff rows 8, barlines 14.5/17
+score	441	379	1.0298	-25.0	29.8	staff rows 8, barlines 13.0/20
+score	444	382	1.0305	-18.0	25.7	staff rows 7, barlines 27.7/43
+score	445	383	1.0408	-37.0	18.5	staff rows 6, barlines 24.1/35
+score	454	392	1.0355	-7.0	37.3	staff rows 6, barlines 8.8/16
+score	455	393	1.0418	-49.0	18.0	staff rows 6, barlines 9.0/13
+score	462	400	1.0230	3.0	41.7	staff rows 6, barlines 9.6/16
+score	463	401	1.0308	-38.0	29.9	staff rows 6, barlines 8.2/10
+score	464	402	1.0300	0.0	23.7	staff rows 4, barlines 5.9/7, s default (few rows)
+score	467	405	1.0051	3.0	36.0	staff rows 7, barlines 23.4/31
+score	468	406	1.0224	5.0	23.8	staff rows 7, barlines 22.6/33
+score	469	407	1.0300	-28.0	-10.8	staff rows 2, barlines 9.3/12, s default (few rows)
+score	472	410	1.0111	12.0	44.9	staff rows 7, barlines 19.8/26
+score	473	411	1.0308	-13.0	35.1	staff rows 7, barlines 15.7/21
+score	476	414	1.0324	10.0	37.1	staff rows 6, barlines 6.7/10
+score	477	415	1.0222	-24.0	19.0	staff rows 6, barlines 2.8/4
+score	478	416	1.0413	-20.0	-5.4	staff rows 7, barlines 6.1/9
+score	479	417	1.0300	-41.0	-6.9	staff rows 3, barlines 6.5/7, s default (few rows)
+score	483	421	0.9995	-19.0	46.7	staff rows 6, barlines 4.8/11
+score	484	422	1.0211	17.0	10.6	staff rows 6, barlines 5.6/12
+commentary	367	305	1.0300	-42.2	2.1	s of the score page; x: text column; y: 1 heading
+commentary	368	306	1.0300	7.8	19.3	s default; x: text column; y: first line
+commentary	369	307	1.0300	-44.1	-6.6	s default; x: text column; y: 2 headings
+commentary	374	312	1.0300	0.7	38.5	s default; x: text column; y: 1 heading
+commentary	375	313	1.0300	-40.0	-12.3	s default; x: text column; y: 2 headings, first line
+commentary	376	314	1.0300	-9.8	14.8	s default; x: text column; y: 3 headings
+commentary	377	315	1.0300	-44.7	26.8	s default; x: text column; y: 1 heading, first line
+commentary	380	318	1.0300	0.2	6.1	s default; x: text column; y: 1 heading
+commentary	381	319	1.0300	-46.3	3.4	s default; x: text column; y: 2 headings, first line
+commentary	385	323	1.0300	-39.5	-0.6	s of the score page; x: text column; y: 2 headings
+commentary	386	324	1.0300	-9.9	1.3	s default; x: text column; y: 2 headings, first line
+commentary	387	325	1.0300	-24.2	7.9	s default; x: text column; y: 3 headings
+commentary	390	328	1.0300	6.4	14.1	s default; x: text column; y: 3 headings
+commentary	391	329	1.0300	-31.6	-3.7	s default; x: text column; y: 1 heading, first line
+commentary	395	333	1.0300	-50.6	45.7	s default; x: text column; y: 1 heading
+commentary	396	334	1.0300	2.0	48.4	s default; x: text column; y: 1 heading, first line
+commentary	397	335	1.0300	-31.0	15.9	s default; x: text column; y: 2 headings, first line
+commentary	400	338	1.0300	12.7	20.5	s default; x: text column; y: 1 heading
+commentary	401	339	1.0300	-25.0	30.1	s default; x: text column; y: 2 headings
+commentary	406	344	1.0300	14.4	19.2	s default; x: text column; y: 1 heading
+commentary	407	345	1.0300	-1.5	4.3	s default; x: text column; y: first line
+commentary	411	349	1.0300	-46.8	31.8	s default; x: text column; y: 1 heading
+commentary	412	350	1.0300	4.0	35.0	s default; x: text column; y: 1 heading, first line
+commentary	413	351	1.0300	-37.3	-1.3	s default; x: text column; y: 1 heading, first line
+commentary	416	354	1.0300	-11.1	11.3	s of the score page; x: text column; y: 1 heading
+commentary	417	355	1.0300	-58.8	-3.3	s default; x: text column; y: 3 headings, first line
+commentary	421	359	1.0300	-44.2	25.0	s default; x: text column; y: default ty
+commentary	425	363	1.0558	-54.1	-12.6	s of the score page; x: text column; y: ty of the score page
+commentary	426	364	1.0300	6.8	34.7	s default; x: text column; y: 2 headings, first line
+commentary	427	365	1.0300	-24.2	20.5	s default; x: text column; y: 2 headings, first line
+commentary	430	368	1.0300	-28.0	16.1	s of the score page; x: text column; y: 2 headings
+commentary	431	369	1.0300	-53.2	7.0	s default; x: text column; y: 1 heading, first line
+commentary	432	370	1.0300	-8.9	4.4	s default; x: text column; y: 2 headings, first line
+commentary	433	371	1.0300	-60.6	27.6	s default; x: text column; y: 1 heading, first line
+commentary	436	374	1.0300	-6.2	36.1	s of the score page; x: text column; y: 1 heading
+commentary	437	375	1.0300	-35.9	0.5	s default; x: text column; y: 3 headings, first line
+commentary	438	376	1.0300	-14.2	23.2	s default; x: text column; y: 1 heading, first line
+commentary	439	377	1.0300	-58.7	25.0	s default; x: text column; y: default ty
+commentary	442	380	1.0300	2.4	5.6	s default; x: text column; y: 1 heading
+commentary	443	381	1.0300	-75.9	5.1	s default; x: text column; y: 1 heading, first line
+commentary	446	384	1.0300	-13.7	17.2	s default; x: text column; y: 1 heading
+commentary	447	385	1.0300	-28.2	-36.8	s default; x: text column; y: 2 headings, first line
+commentary	456	394	1.0300	-3.5	3.2	s default; x: text column; y: 2 headings
+commentary	457	395	1.0300	-4.0	-3.7	s default; x: text column; y: 3 headings, first line
+commentary	461	399	1.0300	-50.2	38.7	s default; x: text column; y: 2 headings
+commentary	464	402	1.0300	-18.6	23.7	s of the score page; x: text column; y: ty of the score page
+commentary	465	403	1.0300	-50.3	0.6	s default; x: text column; y: 6 headings
+commentary	466	404	1.0300	1.7	2.3	s default; x: text column; y: 3 headings, first line
+commentary	469	407	1.0300	-44.2	13.9	s of the score page; x: text column; y: 2 headings
+commentary	470	408	1.0300	-14.2	5.1	s default; x: text column; y: 3 headings, first line
+commentary	471	409	1.0300	-27.7	38.3	s default; x: text column; y: 2 headings, first line
+commentary	474	412	1.0300	-2.1	-1.0	s default; x: text column; y: 2 headings
+commentary	475	413	1.0300	-59.0	1.6	s default; x: text column; y: 4 headings, first line
+commentary	479	417	1.0300	-64.8	-6.9	s of the score page; x: text column; y: ty of the score page
+commentary	480	418	1.0300	-19.0	-0.1	s default; x: text column; y: 3 headings, first line
+commentary	481	419	1.0300	-43.4	13.7	s default; x: text column; y: 2 headings, first line
+commentary	482	420	1.0300	18.8	29.5	s default; x: text column; y: first line
+commentary	485	423	1.0300	-64.9	23.9	s default; x: text column; y: 2 headings
+commentary	486	424	1.0300	-33.2	3.5	s default; x: text column; y: 2 headings
+commentary	487	425	1.0300	-57.6	15.5	s default; x: text column; y: first line
+measure_annotations	418	356	0.9963	33.0	28.4	measure zones on staff pairs; overlaps on barlines
+measure_annotations	419	357	1.0130	-6.0	24.9	measure zones on staff pairs; overlaps on barlines
+measure_annotations	420	358	0.9989	36.0	12.3	measure zones on staff pairs; overlaps on barlines
+measure_annotations	421	359	0.9859	22.0	46.1	measure zones on staff pairs; overlaps on barlines

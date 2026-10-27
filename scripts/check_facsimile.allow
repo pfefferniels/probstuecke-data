@@ -1,0 +1,93 @@
+# Allowlist for scripts/check_facsimile.py
+#
+# One entry per line: "<path>: <code> <key>", the key as the checker prints it
+# in brackets. Only problems that are knowingly left open belong here, each
+# explained by the comment above it. The checker reports entries that no
+# longer match a problem, so remove an entry once its case is fixed.
+
+# --- Not facsimile links ------------------------------------------------------
+# Legacy merged edition of No. 3, not used by the website (see
+# check_references.allow): it has no <facsimile>.
+encodings/3/mattheson/comments_merged.xml: pointer #facs-p403
+encodings/3/mattheson/comments_merged.xml: pointer #facsZone-music-example1
+encodings/3/mattheson/comments_merged.xml: pointer #facsZone-p4-1
+# The guidelines show the attribute with a placeholder value.
+encodings/guidelines/guidelines_en.xml: pointer #[corresponding
+encodings/guidelines/guidelines_en.xml: pointer zone
+encodings/guidelines/guidelines_en.xml: pointer in
+encodings/guidelines/guidelines_en.xml: pointer the
+encodings/guidelines/guidelines_en.xml: pointer facsimile]
+
+# --- Page breaks with a wrong @n or @source -------------------------------------
+# The @facs of these page breaks point to the right page; their @n (or
+# @source) is a transcription error, left as it is.
+# No. 4, 1731: pp. 320 and 321 are given as 310 and 311; 1719: p. 123 as 287.
+encodings/4/mattheson/score.xml: pb-canvas n=310 #facs-p382
+encodings/4/mattheson/score.xml: pb-canvas n=311 #facs-p383
+encodings/4/mattheson/score.xml: pb-canvas n=287 #facs-p297
+# No. 8, 1719: the score is on pp. 138-141 (the first two misprinted 136-137);
+# the page breaks give 136-139.
+encodings/8/mattheson/score.xml: pb-canvas n=136 #facs-p312
+encodings/8/mattheson/score.xml: pb-canvas n=137 #facs-p313
+encodings/8/mattheson/score.xml: pb-canvas n=138 #facs-p314
+encodings/8/mattheson/score.xml: pb-canvas n=139 #facs-p315
+# No. 9, 1731: the second page break n="347" is p. 348.
+encodings/9/mattheson/score.xml: pb-canvas n=347 #facs-p410
+# No. 11, 1719: the score begins on p. 158, not 150.
+encodings/11/mattheson/score.xml: pb-canvas n=150 #facs-p368
+# No. 15, 1719: the score begins on p. 178, not 174.
+encodings/15/mattheson/score.xml: pb-canvas n=174 #facs-p398
+# No. 17, 1731: the second page break n="400" is p. 401.
+encodings/17/mattheson/score.xml: pb-canvas n=400 #facs-p463
+# Commentaries, 1731: No. 5, the first n="329" is p. 328; No. 6, the second
+# n="334" is p. 335; No. 7, n="318" and "319" are pp. 338 and 339; No. 19, the
+# second n="412" is p. 413.
+encodings/5/mattheson/comments_de.xml: pb-canvas n=329 #facs-p390
+encodings/6/mattheson/comments_de.xml: pb-canvas n=334 #facs-p397
+encodings/7/mattheson/comments_de.xml: pb-canvas n=318 #facs-p400
+encodings/7/mattheson/comments_de.xml: pb-canvas n=319 #facs-p401
+encodings/19/mattheson/comments_de.xml: pb-canvas n=412 #facs-p475
+# No. 1 and No. 9: a page break of the 1719 print has source="#secondEdition".
+encodings/1/mattheson/score.xml: pb-source n=103 #facs-p277
+encodings/9/mattheson/score.xml: pb-source n=145 #facs-p319
+
+# --- Surfaces outside the Prob-Stück, kept as encoded -----------------------------
+# The encoders listed one or two pages of the preceding piece; nothing points
+# to these surfaces.
+encodings/18/mattheson/comments_1st.xml: canvas-piece facs-p418
+encodings/21/mattheson/comments_1st.xml: canvas-piece facs-p433
+encodings/21/mattheson/comments_1st.xml: canvas-piece facs-p434
+encodings/23/mattheson/comments_de.xml: canvas-piece facs-p490
+encodings/23/mattheson/comments_de.xml: canvas-piece facs-p491
+
+# --- Kept as they are ---------------------------------------------------------
+# 10/mattheson/measure_annotations.xml is the raw output of an automatic measure
+# detector (Deep Optical Measure Detector, 2019) on pp. 356-359: 169 boxes for
+# the 105 bars of the Marcello aria, some doubled or overlapping, numbered in
+# the order found. No file points to it and the website does not use it; its
+# zones were moved to the current images like all others.
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW7YKF0TYESVJM0R8JTJ
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW8654SAR7B05781WY08
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW888RKBRJSJFKJWECKJ
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW8TAMDBPC5YDT11W3V6
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW8V10PK9H6M3SVKP57Y
+encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW98EGP1QZBQYAYWRXSH
+# 5/mattheson/comments_en.xml keeps an early (2019) facsimile on local images
+# (facsimile/bsb10598495_00410.svg.jpg to _00413, about 1000 px wide) that are
+# not in the repository. Its zones are linked to bars and paragraphs by
+# @corresp; nothing points to them and the website does not use them. Their
+# pixel space cannot be recovered exactly (scaled like the 2019 BSB images
+# they lie up to 100 px below the score's zones of the same bars).
+encodings/5/mattheson/comments_en.xml: graphic (line 107)
+encodings/5/mattheson/comments_en.xml: graphic (line 136)
+encodings/5/mattheson/comments_en.xml: graphic (line 158)
+encodings/5/mattheson/comments_en.xml: graphic (line 167)
+# No. 8: zones p2-1 and p2-1-2 frame §. 2 of the commentary (pp. 344-345),
+# which comments_de.xml does not transcribe.
+encodings/8/mattheson/comments_de.xml: zone-unused facsZone-p2-1
+encodings/8/mattheson/comments_de.xml: zone-unused facsZone-p2-1-2
+# Music examples inside a paragraph that goes on on the next page: the example
+# comes after the paragraph's last zone in the text. No. 18: example 1 in p6-1
+# (pp. 408-409); No. 20: example 2, beside the end of p2-1 on p. 417.
+encodings/18/mattheson/comments_de.xml: zone-order facsZone-music-example1
+encodings/20/mattheson/comments_de.xml: zone-order facsZone-music-example2
