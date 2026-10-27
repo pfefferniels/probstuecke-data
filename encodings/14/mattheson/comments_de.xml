@@ -107,27 +107,27 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
-            <lb/><hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b"><term xml:id="t_treffen-1" corresp="#t_treffen">Treffer</term></hi>, wenn er das Ding ſo vor der Fauſt wegſpielen
-            <lb/>ſoll, duͤrffte hier leicht <term xml:id="t_stolpern-1" corresp="#t_stolpern">ſtolpern</term>. Man hat ſagen wollen, daß es eben nicht
+            <lb/><s xml:id="p1-1-s1"><hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b"><term xml:id="t_treffen-1" corresp="#t_treffen">Treffer</term></hi>, wenn er das Ding ſo vor der Fauſt wegſpielen
+            <lb/>ſoll, duͤrffte hier leicht <term xml:id="t_stolpern-1" corresp="#t_stolpern">ſtolpern</term>.</s> <s xml:id="p1-1-s2">Man hat ſagen wollen, daß es eben nicht
             <lb/>noͤhtig geweſen waͤre, das Woͤrtlein <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi> daruͤber zu ſetzen, weil
             <lb/>es hie und da ſo bedachtſam zu gehen duͤrffte, daß wenig oder nichts davon vernom-
-            <lb/>men werden moͤgte. Das Wort ſoll indeſſen ſo viel bedeuten, daß keiner zu plumpe,
+            <lb/>men werden moͤgte.</s> <s xml:id="p1-1-s3">Das Wort ſoll indeſſen ſo viel bedeuten, daß keiner zu plumpe,
             <lb/>ſondern erſt fein beſcheidentlich erwege, wie und welcher Geſtalt es anzugreiffen, daß
-            <lb/>er huͤbſch vorſichtiglich wandele, und ſich nicht viel bruͤſte. Wenn er auch gleich man-
+            <lb/>er huͤbſch vorſichtiglich wandele, und ſich nicht viel bruͤſte.</s> <s xml:id="p1-1-s4">Wenn er auch gleich man-
             <lb/>chesmahl hie und da meynen ſolte, er ſitze oben darauff, und wolle was daruͤber lachen;
             <lb/>ſo kommt gantz unvermuhtet ein Stoß, der ihn aus dem Sattel hebt: und das hat er
-            <lb/>dann ſeiner Unbedachtſamkeit zu dancken.
+            <lb/>dann ſeiner Unbedachtſamkeit zu dancken.</s>
           </p>
         </div>
 
         <div n="2">
           <lb/><head>§. 2.</head>
           <p xml:id="p2-1" facs="#facsZone-p2-1">
-            <lb/>Vom <ref target="#measure-0000002110347575">achten Tact an</ref> kan es fein (wenn man will) in der rechten Hand varii-
+            <lb/><s xml:id="p2-1-s1">Vom <ref target="#measure-0000002110347575">achten Tact an</ref> kan es fein (wenn man will) in der rechten Hand varii-
             <lb/>ret werden, welches um ſo viel fremder klingt, da man es aus ſolchen Tonen nicht ge-
-            <lb/>wohnet iſt. Jch habe es verſucht, und eine geſchickte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> gantz durchgehen laſſen,
-            <lb/>welches gut geklungen hat. Will man aber wiſſen, wie es gemacht worden iſt, ſo
-            <lb/>theile ich hier ein wenig zur <term xml:id="t_probe-1" corresp="#t_probe">Probe</term> mit, daraus das uͤbrige mag beurtheilet werden.
+            <lb/>wohnet iſt.</s> <s xml:id="p2-1-s2">Jch habe es verſucht, und eine geſchickte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> gantz durchgehen laſſen,
+            <lb/>welches gut geklungen hat.</s> <s xml:id="p2-1-s3">Will man aber wiſſen, wie es gemacht worden iſt, ſo
+            <lb/>theile ich hier ein wenig zur <term xml:id="t_probe-1" corresp="#t_probe">Probe</term> mit, daraus das uͤbrige mag beurtheilet werden.</s>
           </p>
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
             <ptr target="music-example1.xml"/>
@@ -137,57 +137,57 @@
         <div n="3">
           <lb/><head>§. 3.</head>
           <p xml:id="p3-1" facs="#facsZone-p3-1">
-            <lb/>Die Septimen im <ref target="#measure-0000000128472588">elfften</ref> und <ref target="#measure-0000001841425997">zwoͤlfften Tact</ref> laſſen ſich auch auf dieſe Weiſe gar
-            <lb/>artig behandeln, und faͤllt die Aufloͤſung einem von ſelbſten in die Hand. Es waͤre nur
-            <lb/>uͤberfluͤſſig davon etwas herzuſetzen, weil es auf die vorhin gewieſene Art auslaͤufft.
-            <lb/>Man darff nur den rechten Griff thun, und die Finger einen um den andern regen, ſo
-            <lb/>hat es ſchon ſeine Richtigkeit. Es iſt eben nichts rares, auch nichts ſchweres daran;
-            <lb/>dennoch lautet es wol.
+            <lb/><s xml:id="p3-1-s1">Die Septimen im <ref target="#measure-0000000128472588">elfften</ref> und <ref target="#measure-0000001841425997">zwoͤlfften Tact</ref> laſſen ſich auch auf dieſe Weiſe gar
+            <lb/>artig behandeln, und faͤllt die Aufloͤſung einem von ſelbſten in die Hand.</s> <s xml:id="p3-1-s2">Es waͤre nur
+            <lb/>uͤberfluͤſſig davon etwas herzuſetzen, weil es auf die vorhin gewieſene Art auslaͤufft.</s>
+            <lb/><s xml:id="p3-1-s3">Man darff nur den rechten Griff thun, und die Finger einen um den andern regen, ſo
+            <lb/>hat es ſchon ſeine Richtigkeit.</s> <s xml:id="p3-1-s4">Es iſt eben nichts rares, auch nichts ſchweres daran;
+            <lb/>dennoch lautet es wol.</s>
           </p>
         </div>
 
         <div n="4">
           <lb/><head>§. 4.</head>
           <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
-            <lb/>Ob nun gleich das <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi>, nebſt vorangefuͤhrter Erklaͤrung, auch be-
+            <lb/><s xml:id="p4-1-s1">Ob nun gleich das <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi>, nebſt vorangefuͤhrter Erklaͤrung, auch be-
             <lb/>deuten moͤgte, daß ſich niemand ſonderlich zu uͤbereilen haͤtte; ſo wolte ich dennoch
             <lb/>nicht gerne, daß man einen Polniſchen Tantz daraus machte: das Prob-Stuͤck ver-
             <fw place="bottom" type="catch">liehrt</fw>
             <pb n="381" facs="#facs-p443"/>
-            <lb/>liehrt ſonſt dadurch alle ſeine Anmuth. Jch kan dabey nicht unberuͤhret laſſen, daß
+            <lb/>liehrt ſonſt dadurch alle ſeine Anmuth.</s> <s xml:id="p4-1-s2">Jch kan dabey nicht unberuͤhret laſſen, daß
             <lb/>die beſondere <term xml:id="t_bewegung_im_takt-1" corresp="#t_bewegung_im_takt">Bewegung</term> und die Manier, womit eine Sache herausgebracht wird,
-            <lb/>derſelben das rechte Leben geben, ohne welches alles rauh und hoͤltzern klingt. Wir be-
+            <lb/>derſelben das rechte Leben geben, ohne welches alles rauh und hoͤltzern klingt.</s> <s xml:id="p4-1-s3">Wir be-
             <lb/>trachten offtmahls eine unanſehnliche Arie, als etwas nichtswuͤrdiges, biß wir einſt
             <lb/>hoͤren, mit welcher Art dieſelbe muͤſſe oder koͤnne geſungen und geſpielet werden; als-
-            <lb/>dann iſt ſie unſere Leib-Arie. So viel liegt an der <term xml:id="t_ausuebung-1" corresp="#t_ausuebung">Ausuͤbung</term>: ſie macht in der Muſic juſt
+            <lb/>dann iſt ſie unſere Leib-Arie.</s> <s xml:id="p4-1-s4">So viel liegt an der <term xml:id="t_ausuebung-1" corresp="#t_ausuebung">Ausuͤbung</term>: ſie macht in der Muſic juſt
             <lb/>den Unterſcheid, welchen Licht und Schatten haben; das ſind aber mit einander ſtrei-
-            <lb/>tende Dinge. Alſo wolte ich denn auch inſonderheit dieſe Aufgabe mit einer gewiſ-
-            <lb/>ſen Bewegung, nur nicht zu geſchwind, ſondern mit Bedacht, geſpielet wiſſen.
+            <lb/>tende Dinge.</s> <s xml:id="p4-1-s5">Alſo wolte ich denn auch inſonderheit dieſe Aufgabe mit einer gewiſ-
+            <lb/>ſen Bewegung, nur nicht zu geſchwind, ſondern mit Bedacht, geſpielet wiſſen.</s>
           </p>
         </div>
 
         <div n="5">
           <lb/><head>§. 5.</head>
           <p xml:id="p5-1" facs="#facsZone-p5-1">
-            <lb/>Jedermann wird ſehen, daß, was <ref target="#measure-0000000161042882">auf der andern Seite dieſes <hi rendition="#aq">Probe</hi>-Stuͤ-
+            <lb/><s xml:id="p5-1-s1">Jedermann wird ſehen, daß, was <ref target="#measure-0000000161042882">auf der andern Seite dieſes <hi rendition="#aq">Probe</hi>-Stuͤ-
             <lb/>ckes</ref> erſcheinet, eben daſſelbe Ding ſey, und nur eine andere Geſtalt durch die <term xml:id="t_kreuz-1" corresp="#t_kreuz">Kreu-
-            <lb/>tze</term> an ſich genommen habe. Jch halte ſolche <term xml:id="t_transposition-1" corresp="#t_transposition">Verſetzungen</term> fuͤr ſehr nuͤtzlich, und will
+            <lb/>tze</term> an ſich genommen habe.</s> <s xml:id="p5-1-s2">Jch halte ſolche <term xml:id="t_transposition-1" corresp="#t_transposition">Verſetzungen</term> fuͤr ſehr nuͤtzlich, und will
             <lb/>die Studierende gebeten haben, dergleichen vor ſich zu verſuchen, und die Stuͤcke, ſo
             <lb/>nicht verſetzt hierinn zu finden, auf dieſe Art, ſelbſt fleiſſig zu verſetzen: denn dadurch
-            <lb/>veraͤndert man den Ton nicht.
+            <lb/>veraͤndert man den Ton nicht.</s>
           </p>
         </div>
 
         <div n="6">
           <lb/><head>§. 6.</head>
           <p xml:id="p6-2" facs="#facsZone-p6-1">
-            <lb/>Daß ich aber verlangen ſollte, man moͤgte alle neun Tone, die es leiden, alſo
+            <lb/><s xml:id="p6-2-s1">Daß ich aber verlangen ſollte, man moͤgte alle neun Tone, die es leiden, alſo
             <lb/>verſetzen, ſolches muß niemand hieraus ſchlieſſen; ob man ſie ſich gleich alle neun wol
-            <lb/>bekannt machen darff, indem ſie, als Verwandte, haͤuffig genug vorkommen. Das
+            <lb/>bekannt machen darff, indem ſie, als Verwandte, haͤuffig genug vorkommen.</s> <s xml:id="p6-2-s2">Das
             <lb/><hi rendition="#b">♯D</hi>, in Gegenhaltung mit dem <hi rendition="#b">♭E</hi>, und denn
             das <hi rendition="#b">♯G</hi>, in Betracht des <hi rendition="#b">♭A</hi>, ſcheinen
             <lb/>mir hiezu nohtwendiger zu ſeyn, als die uͤbrigen ſieben: welche dennoch der <persName corresp="#ed_dwf_j5x_qlb">Herr von
-            <lb/>St. Lambert</persName>, und ſonſt noch keiner, verzeichnet hat. Mit den beiden erwehnten
+            <lb/>St. Lambert</persName>, und ſonſt noch keiner, verzeichnet hat.</s> <s xml:id="p6-2-s3">Mit den beiden erwehnten
             <lb/>Tonen hat es eine gantz andere Bewandniß, als mit den uͤbrigen: denn <hi rendition="#b">♯D</hi> iſt eben
             <lb/>ſo gewoͤhnlich, als <hi rendition="#b">♭E</hi>, und <hi rendition="#b">♯G</hi> koͤmt eben ſo offt vor,
             als <hi rendition="#b">♭A</hi>; dahingegen
@@ -203,15 +203,15 @@
               <sic>taͤglich</sic>
               <corr type="corrigenda">taͤglicher</corr>
             </choice>
-            Gaſt iſt, u. ſ. w. Jn Erwegung deſſen habe hier nur
+            Gaſt iſt, u. ſ. w.</s> <s xml:id="p6-2-s4">Jn Erwegung deſſen habe hier nur
             <lb/>das Dis und <term xml:id="t_gis_moll-1" corresp="#t_gis_moll">Gis</term> auf zweierley Art vorſtellen, die andern ſieben zuruͤck laſſen, und ei-
-            <lb/>nem fleiſſigen General-Baſſiſten rathen wollen, ſein Heil ſelbſt daran zu verſuchen.
-            <lb/>Es kan nicht ſchaden: dafuͤr will ich einſtehen. Daß ich inzwiſchen nur von neun To-
+            <lb/>nem fleiſſigen General-Baſſiſten rathen wollen, ſein Heil ſelbſt daran zu verſuchen.</s>
+            <lb/><s xml:id="p6-2-s5">Es kan nicht ſchaden: dafuͤr will ich einſtehen.</s> <s xml:id="p6-2-s6">Daß ich inzwiſchen nur von neun To-
             <lb/>nen rede, die eine ſolche Verſetzung leiden, geſchiehet deßwegen, weil <hi rendition="#b">D, G</hi>, und <hi rendition="#b">A</hi>
             <lb/>bißhero noch auf einerley Art notiret worden ſind, wenn einer von ihnen zum Funda-
             <lb/>ment des Geſanges hat dienen ſollen: wie in der <bibl corresp="#ed_y43_m2l_tlb">zweiten Ero&#x0364;ffnung des Orcheſters
-            <lb/><hi rendition="#aq">p. 439. N<hi rendition="#sup">o</hi> 24.</hi></bibl> gezeiget worden iſt. Auſſer dieſem Fall laſſen ſie ſich ſonſt auch mit
-            <lb/>zwey Kreutzen vor der Note ausdrucken.
+            <lb/><hi rendition="#aq">p. 439. N<hi rendition="#sup">o</hi> 24.</hi></bibl> gezeiget worden iſt.</s> <s xml:id="p6-2-s7">Auſſer dieſem Fall laſſen ſie ſich ſonſt auch mit
+            <lb/>zwey Kreutzen vor der Note ausdrucken.</s>
           </p>
           <fw place="bottom" type="catch">Funff-</fw>
         </div>

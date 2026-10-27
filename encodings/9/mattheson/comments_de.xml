@@ -109,8 +109,8 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
-            <hi rendition="#in">E</hi>S wird allhier verſchiedenes zu erinnern ſeyn, falls man anders die Sache
-            <lb/>nach dem <term xml:id="t_sinn_des_verfassers-1" corresp="#t_sinn_des_verfassers">Sinne</term> des Verfaſſers ſpielen will. Dieſes aber (es sey noch einmahl
+            <s xml:id="p1-1-s1"><hi rendition="#in">E</hi>S wird allhier verſchiedenes zu erinnern ſeyn, falls man anders die Sache
+            <lb/>nach dem <term xml:id="t_sinn_des_verfassers-1" corresp="#t_sinn_des_verfassers">Sinne</term> des Verfaſſers ſpielen will.</s> <s xml:id="p1-1-s2">Dieſes aber (es sey noch einmahl
             <lb/>geſagt) muß nothwendig geſchehen, wenn etwas in ſeiner Vollkommenheit
             <lb/>
             <choice>
@@ -118,38 +118,38 @@
               <corr type="corrigenda">herausgebracht</corr>
             </choice>
             werden ſoll; und wer den Sinn des Verfaſſers nicht erraͤth oder trifft, der
-            <lb/>fehlet weit, ob ers auch am beſten ſonſt getroffen zu haben meynen ſolte. Wenn
+            <lb/>fehlet weit, ob ers auch am beſten ſonſt getroffen zu haben meynen ſolte.</s> <s xml:id="p1-1-s3">Wenn
             <lb/>man demnach im <ref target="#m-243">ſiebenden Tact</ref> den Schluß gemacht hat, so muß gleich die rechte
             <lb/>Hand etwas mehrers, als die kahlen <term xml:id="t_akkord-1" corresp="#t_akkord">Accorte</term> und <term xml:id="t_sexte-1" corresp="#t_sexte">Sexten</term>, dazu ſpielen, denn ſolches
             <lb/>kann die lincke wol allein verrichten; nun findet ſich aber ehender kein Gegen-Satz
             <lb/>als im <ref target="#m-668">zwantzigſten Tact</ref>, derſelbe muß hier beym <hi rendition="#b">c</hi> mit der Tertz anfangen, und
-            <lb/>immer einen Ton hoͤher, viermahl wiederholet werden. Woraus denn leicht zu ſchlieſ-
+            <lb/>immer einen Ton hoͤher, viermahl wiederholet werden.</s> <s xml:id="p1-1-s4">Woraus denn leicht zu ſchlieſ-
             <lb/>ſen, daß nachgehends, im <ref target="#m-436">dreizehenden Tact</ref>, dergleichen abermahl erfordert wer-
             <lb/>de, da jedoch nicht mit der Tertz, ſondern beym <hi rendition="#b">g</hi> mit der Octave angefangen, auch
-            <lb/>der Lauff, wie vorhin, viermahl, jedes mahl um einen Ton hoͤher, wiederholet wird.
-            <lb/>Jm <ref target="#m-668">zwantzigſten Tact</ref> erſcheinet der bisherige Gegen-Satz im Baſſe, einfolglich
+            <lb/>der Lauff, wie vorhin, viermahl, jedes mahl um einen Ton hoͤher, wiederholet wird.</s>
+            <lb/><s xml:id="p1-1-s5">Jm <ref target="#m-668">zwantzigſten Tact</ref> erſcheinet der bisherige Gegen-Satz im Baſſe, einfolglich
             <lb/>kann man das Ding umkehren und den Gang, welchen vorhin der Baß gehabt,
-            <lb/>im Diſcant gebrauchen, wobey die Griffe gantz wol <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">vollſtimmig</term> bleiben koͤnnen.
-            <lb/>Wenns zur letzten Helffte des <ref target="#m-742">zwey und zwantzigſten Tacts</ref> kommt, da drey Vier-
+            <lb/>im Diſcant gebrauchen, wobey die Griffe gantz wol <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">vollſtimmig</term> bleiben koͤnnen.</s>
+            <lb/><s xml:id="p1-1-s6">Wenns zur letzten Helffte des <ref target="#m-742">zwey und zwantzigſten Tacts</ref> kommt, da drey Vier-
             <lb/>tel ſtehen, thut man wol, mit der rechten Hand vom dreigeſtrichenen <hi rendition="#b">c</hi> zur <term xml:id="t_imitation-1" corresp="#t_imitation">Nach-
             <lb/>ahmung</term> ins zweigeſtrichene <hi rendition="#b">d</hi> herunter zu lauffen; doch dabey die 6 und 5 im Baß
-            <lb/>unvergeſſen. <ref target="#m-809">Der vier und zwantzigſte Tact</ref> wechſelt abermahl mit beiden Saͤ-
+            <lb/>unvergeſſen.</s> <s xml:id="p1-1-s7"><ref target="#m-809">Der vier und zwantzigſte Tact</ref> wechſelt abermahl mit beiden Saͤ-
             <lb/>tzen ab; und im <ref target="#m-1044">zwey und dreyßigſten</ref> mag man mit Tertzen lauffen, bey den drey
-            <lb/>Vierteln aber das itzt beruͤhrte Nachahmungs-Clausulgen anbringen. Jch beſor-
+            <lb/>Vierteln aber das itzt beruͤhrte Nachahmungs-Clausulgen anbringen.</s> <s xml:id="p1-1-s8">Jch beſor-
             <lb/>ge zwar, die muſicalischen Gesetzgeber werden mir einen Proceß an den Hals
             <lb/>werffen, darum, daß ich im General-Baß das <term xml:id="t_c_dreigestrichen-1" corresp="#t_c_dreigestrichen">dreygeſtrichene <hi rendition="#b">c</hi></term> brauche; aber
-            <lb/>meine Vertheidigung iſt ſchon fertig.
+            <lb/>meine Vertheidigung iſt ſchon fertig.</s>
           </p>
         </div>
         <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
-            <ref target="#m-1220">Der ſieben und dreißigſte Tact</ref> will,
+            <s xml:id="p2-1-s1"><ref target="#m-1220">Der ſieben und dreißigſte Tact</ref> will,
             <ref target="#m-1253 #m-1295 #m-1334">nebſt den folgenden</ref>, eine beſondere,
             <lb/>wiewol aus den vorhergehenden zunehmende <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> haben, wobey die uͤber-
-            <lb/>ſtehende <term xml:id="t_ziffern-1" corresp="#t_ziffern">Ziefern</term> alle gantz genau mit zunehmen sind. Da ſolches aber einem je-
+            <lb/>ſtehende <term xml:id="t_ziffern-1" corresp="#t_ziffern">Ziefern</term> alle gantz genau mit zunehmen sind.</s> <s xml:id="p2-1-s2">Da ſolches aber einem je-
             <lb/>den etwas ſchwer zu errathen fallen moͤgte, will ich, der Anfaͤnger halben, ein
-            <lb/>Eckgen davon herſetzen:
+            <lb/>Eckgen davon herſetzen:</s>
             <pb n="350" facs="#facs-p412"/>
             <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
               <ptr target="music-example1.xml"/>
@@ -161,11 +161,11 @@
         <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
-            Nun koͤnnte zwar ſolches zur Anweiſung genug ſeyn, und waͤre das fol-
+            <s xml:id="p3-1-s1">Nun koͤnnte zwar ſolches zur Anweiſung genug ſeyn, und waͤre das fol-
             <lb/>gende daraus, natuͤrlicher Weiſe, zu begreiffen; allein, damit man mich nicht
             <lb/>abermahl beſchuldige, ich wolle was geſpielet wissen, das nicht da ſtehe, und der
             <lb/>Hencker (denn das ist ein erfahrner Kerl) moͤgte rathen, was ich da juſt haben
-            <lb/>wolle; ſo will ich noch ein paar Taͤcte mehr herſetzen.
+            <lb/>wolle; ſo will ich noch ein paar Taͤcte mehr herſetzen.</s>
             <fw place="bottom" type="catch">Und</fw>
             <pb n="351" facs="#facs-p413"/>
             <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
@@ -173,17 +173,17 @@
             </notatedMusic>
           </p>
           <p xml:id="p3-2" facs="#facsZone-p3-2">
-            Und dieſes mag auch genug ſeyn, fuͤr einen, der ſich gar nicht zu helffen weiß. Die was heiſſen und be-
+            <s xml:id="p3-2-s1">Und dieſes mag auch genug ſeyn, fuͤr einen, der ſich gar nicht zu helffen weiß.</s> <s xml:id="p3-2-s2">Die was heiſſen und be-
             <lb/>deuten wollen, muͤſſen ſolche Dinge noch ſchoͤner und kuͤnſtlicher, als hier angewisen worden, augenblick-
-            <lb/>lich heraus bringen; sonst ſind ſie, ob wol eben keine Stuͤmper, doch nur gantz kleine Lichter. Es gefaͤllt
+            <lb/>lich heraus bringen; sonst ſind ſie, ob wol eben keine Stuͤmper, doch nur gantz kleine Lichter.</s> <s xml:id="p3-2-s3">Es gefaͤllt
             <lb/>mir ſonderlich wol, daß der <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName> es auch ſo gar
             gut heiſſet, wenn man eine eintzige
             <lb/>Stimme <hi rendition="#aq">accompagnirt</hi>,
             und den Haupt-Satz oder die <term xml:id="t_fugen-1" corresp="#t_fugen">Fugen</term> der Arie mit allen Parteyen auf ſeinem
-            <lb/>Clavier dabey <term xml:id="t_imitation-2" corresp="#t_imitation">nachahmet</term>. Seine Worte lauten auf Teutsch alſo:
+            <lb/>Clavier dabey <term xml:id="t_imitation-2" corresp="#t_imitation">nachahmet</term>.</s> <s xml:id="p3-2-s4">Seine Worte lauten auf Teutsch alſo:</s>
             <hi rendition="#b">
               <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
-                Wenn
+                <s xml:id="p3-2-s5">Wenn
                 <note place="foot" n="*)">
                   <hi rendition="#aq">
                     <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
@@ -200,25 +200,25 @@
                 <lb/>gen Sing-Stimme den General-Baß ſpielet, und etwa eine muntere, lebhaffte Arie
                 <lb/>vorkoͤmmt, darin viele Nachahmungen anzutreffen ſind, ſo wie wir ſie in den Jtalieni-
                 <lb/>ſchen Sachen finden; alsdenn kann man auf ſeinem Clavier den Haupt-Satz und die
-                <lb/>Fugen der Arie wol nachahmen, auch die Stimmen, eine nach der andern, anbringen.
-                <lb/>Aber es gehoͤret eine voͤllige Wiſſenschaft dazu, und es muß ein Meiſter vom erſten
-                <lb/><term xml:id="t_rang_der_kuenstler-1" corresp="#t_rang_der_kuenstler">Rang</term> ſeyn, dem ſolches gut von Stattengehen ſoll.
+                <lb/>Fugen der Arie wol nachahmen, auch die Stimmen, eine nach der andern, anbringen.</s>
+                <lb/><s xml:id="p3-2-s6">Aber es gehoͤret eine voͤllige Wiſſenschaft dazu, und es muß ein Meiſter vom erſten
+                <lb/><term xml:id="t_rang_der_kuenstler-1" corresp="#t_rang_der_kuenstler">Rang</term> ſeyn, dem ſolches gut von Stattengehen ſoll.</s>
               </quote>
             </hi>
-            Hierunter koͤnnen unſere Prob-Stuͤck,
-            <lb/>als Muſter, dienen. Jch haͤtte gerne etliche mehr von diesem erſten Rang in der Welt, es sind ihrer
-            <lb/>gar zu wenig. Die vom letzteren Rang ſpielen den Meister allenthalben.
+            <s xml:id="p3-2-s7">Hierunter koͤnnen unſere Prob-Stuͤck,
+            <lb/>als Muſter, dienen.</s> <s xml:id="p3-2-s8">Jch haͤtte gerne etliche mehr von diesem erſten Rang in der Welt, es sind ihrer
+            <lb/>gar zu wenig.</s> <s xml:id="p3-2-s9">Die vom letzteren Rang ſpielen den Meister allenthalben.</s>
           </p>
         </div>
 
         <div n="4">
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
-            Die drey folgenden Taͤcte fertiget man bloſſerdings mit Tertzen ab, welche bey dem
+            <s xml:id="p4-1-s1">Die drey folgenden Taͤcte fertiget man bloſſerdings mit Tertzen ab, welche bey dem
             <hi rendition="#aq"><foreign xml:lang="ita">Allegro</foreign></hi> ſchon
             <lb/>genug fuͤllen,
             und ſchließlich die zween Taͤcte vor dem letzten mit dem Gegen-Satz und vollem Baß biß zu
-            <lb/>Ende.
+            <lb/>Ende.</s>
           </p>
         </div>
         <fw place="bottom" type="catch">Zehn-</fw>

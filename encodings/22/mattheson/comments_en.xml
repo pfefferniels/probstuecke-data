@@ -45,23 +45,23 @@
       <div n="1">
         <head>§. 1.</head>
         <p>
-          Right at the beginning it should be noted that where the
+          <s corresp="comments_de.xml#p1-1-s1">Right at the beginning it should be noted that where the
           <ref target="#note-0000001105515864 #note-0000000438118919">leap from c# 
           to a#</ref> occurs, a <ref target="#note-0000000845814796">b</ref>
           must be played in between the notes as an appoggiatura
-          with a short trill.
+          with a short trill.</s>
         </p>
       </div>
 
       <div n="2">
         <head>§. 2.</head>
         <p>
-          When thereafter everything has been neatly played up to the
+          <s corresp="comments_de.xml#p2-1-s1">When thereafter everything has been neatly played up to the
           <ref target="#note-0000002103583228">cadence in
           the eleventh measure</ref>, a melody has to be invented in the right
           hand and to be continued for about ten measures, up to
           the subsequent
-          <ref target="#note-0000000417006726">cadence to C#</ref>, approximately in the following manner:   
+          <ref target="#note-0000000417006726">cadence to C#</ref>, approximately in the following manner:</s>   
           <notatedMusic>
             <ptr target="music-example1.xml" />
           </notatedMusic>
@@ -73,13 +73,13 @@
       <div n="3">
         <head>§. 3.</head>
         <p>
-          In the 19th measure<note type="editorial" resp="#pfeffer">Measure 29, with the second <hi rendition="#i">si suona</hi>, is meant; measure 19 has none.</note>, there is again a
+          <s corresp="comments_de.xml#p3-1-s1">In the 19th measure<note type="editorial" resp="#pfeffer">Measure 29, with the second <hi rendition="#i">si suona</hi>, is meant; measure 19 has none.</note>, there is again a
           <ref target="#si-suona-2">si suona</ref>, of which the meaning
           is known,<note type="editorial" resp="#pfeffer">Cf. Probstück 5.</note> and where the
           <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4">tutti</ref> enters, everything is possible <!-- ? -->
-          which only sounds well.
-          <ref target="#measure-0000000574431491">After the end of the first part</ref>,
-          the right hand again begins to modulate, of which this may serve as an example: 
+          which only sounds well.</s>
+          <s corresp="comments_de.xml#p3-1-s2"><ref target="#measure-0000000574431491">After the end of the first part</ref>,
+          the right hand again begins to modulate, of which this may serve as an example:</s> 
 
           <notatedMusic>
             <ptr target="music-example2.xml" />
@@ -90,8 +90,8 @@
       <div n="4">
         <head>§. 4.</head>
         <p>
-           <ref target="#measure-0000000387035804">When the tutti is over</ref>,
-           one may play like this until the next cadence: 
+           <s corresp="comments_de.xml#p4-1-s1"><ref target="#measure-0000000387035804">When the tutti is over</ref>,
+           one may play like this until the next cadence:</s> 
 
           <notatedMusic>
             <ptr target="music-example3.xml" />

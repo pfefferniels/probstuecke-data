@@ -113,17 +113,17 @@
       <div n="1">
         <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <lb/><hi rendition="#in">D</hi>a andere Tone zum Klagen, zum Lachen, zum Jauchzen, zur Andacht, und ſo
+          <lb/><s xml:id="p1-1-s1"><hi rendition="#in">D</hi>a andere Tone zum Klagen, zum Lachen, zum Jauchzen, zur Andacht, und ſo
           <lb/>ferner, gemacht zu ſeyn ſcheinen, ſo hat es faſt das Anſehen, als wenn dieſer
-          <lb/>insbeſondere zum Spielen und Schertzen geſchickt ſeyn wollte. Ein Violiniſte
+          <lb/>insbeſondere zum Spielen und Schertzen geſchickt ſeyn wollte.</s> <s xml:id="p1-1-s2">Ein Violiniſte
           <lb/>wird ihn gar gerne ſehen, und vieles finden, daß mit ſeinem Jnſtrument uͤbereinkoͤm̃t;
           <lb/>und wer der Querfloͤte maͤchtig iſt, muß dieſe <term xml:id="t_a_dur-1" corresp="#t_a_dur">Ton-Art</term> nicht wenig hochhalten, weil
           <lb/>ſie einer der bequemſten iſt, derſelben ihre rechte Staͤrcke zu geben; ob aber ein <hi rendition="#aq"><foreign xml:lang="fra">Haut-
-          <lb/>bois</foreign></hi> oder <hi rendition="#aq"><foreign xml:lang="eng">Baſſon</foreign></hi> ſo wol damit zu frieden ſeyn werden, daran iſt zu zweiffeln. Jn-
+          <lb/>bois</foreign></hi> oder <hi rendition="#aq"><foreign xml:lang="eng">Baſſon</foreign></hi> ſo wol damit zu frieden ſeyn werden, daran iſt zu zweiffeln.</s> <s xml:id="p1-1-s3">Jn-
           <lb/>deſſen da es unſerm General-Baſſiſten einerley ſeyn muß, aus welchem Ton er ſpie-
           <lb/>le, weil der eine Tangent keinen ſtaͤrckern Finger erfordert, als der andre, ſo wol-
           <lb/>len wir dieſes Exempel vielmehr ein wenig durchgehen, als uns laͤnger bey des To-
-          <lb/>nes Eigenſchafft aufhalten.
+          <lb/>nes Eigenſchafft aufhalten.</s>
         </p>
         <fw place="bottom" type="catch">§. 2.</fw>
       </div>
@@ -132,22 +132,22 @@
         <pb n="403" facs="#facs-p465"/>
         <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          <lb/>Die <ref target="#measure-0000001591287003 #measure-0000000183024625">erſten
+          <lb/><s xml:id="p2-1-s1">Die <ref target="#measure-0000001591287003 #measure-0000000183024625">erſten
           zween Taͤcte</ref> nun ſaͤhe man gerne gantz ſchlecht geſpielet, ſo, daß der
           <lb/>Haupt-Satz vernehmlich heraus kaͤme, zu Folge dem in der Natur und Vernunfft
           <lb/>gegruͤndeten Ausſpruch: <hi rendition="#b">Daß aller <term xml:id="t_anfang-1" corresp="#t_anfang">Anfang</term> einfach, ſchlecht und deutlich
-          <lb/>ſeyn muß</hi>. Durch das ſchlechte <term xml:id="t_spielen-1" corresp="#t_spielen">Spielen</term> wird hauptſaͤchlich verlanget, daß zu jeden
+          <lb/>ſeyn muß</hi>.</s> <s xml:id="p2-1-s2">Durch das ſchlechte <term xml:id="t_spielen-1" corresp="#t_spielen">Spielen</term> wird hauptſaͤchlich verlanget, daß zu jeden
           <lb/>ſechs Noten in beſagten Taͤcten nur einmahl mit der rechten Hand vor- und zuge-
           <lb/>ſchlagen werde, wobey erinnerlich ſeyn mag, daß der Vorſchlag die
           <ref target="#rest-0000001788744701">Pauſe</ref>
-          angehet.
+          angehet.</s>
         </p>
       </div>
 
       <div n="3">
         <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb/>Die <ref target="#measure-0000001831838231 #measure-0000001691476952 #measure-0000000219022077">folgenden
+          <lb/><s xml:id="p3-1-s1">Die <ref target="#measure-0000001831838231 #measure-0000001691476952 #measure-0000000219022077">folgenden
           drey Taͤcte</ref> ſpielet man mit den Ziefern auf das genaueſte, und
           <lb/>ſchlaͤgt bey jedem Achtel das Gehoͤrige an; wiewol ſich einer, im letzten Tact dieſer
           <lb/>drey, vorzuſehen hat, daß er bey der
@@ -155,29 +155,29 @@
           <lb/>greiffe: ſintemahl ſolches unmuͤglich ohne Schnitzer abgehen wuͤrde, ſondern er laſ-
           <lb/>ſe an deren Statt die ſchon in der Hand habende Octave wieder hoͤren, ſo wird ſolcher
           <lb/>Satz wegen der
-          <g type="smufl">&#xEA56;</g> gantz fremd klingen.
+          <g type="smufl">&#xEA56;</g> gantz fremd klingen.</s>
         </p>
       </div>
 
       <div n="4">
         <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          <lb/>Was ferner den
+          <lb/><s xml:id="p4-1-s1">Was ferner den
           <ref target="#measure-0000001566794317 #measure-0000000710803525 #beam-0000000083916412">ſechſten,
           ſiebenden, und
           <lb/>die Helffte des achten Tacts</ref> betrifft, ſo
           <lb/>kann man ſich ſchon dabey ein wenig mehr Freyheit nehmen, und ſolche nicht nur mit
           <lb/>verdoppelter Octave in der lincken Hand ſpielen, ſondern auch in der rechten wol
-          <lb/>dreimahl zu je ſechs Noten das in Haͤnden habende oder bezeichnete anſchlagen.
-          <ref target="#beam-0000001498825214 #measure-0000001664907899">Der
-          <lb/>Reſt des achten, ſamt dem neunten Tact,</ref> haben ihre geweiſete Wege.
+          <lb/>dreimahl zu je ſechs Noten das in Haͤnden habende oder bezeichnete anſchlagen.</s>
+          <s xml:id="p4-1-s2"><ref target="#beam-0000001498825214 #measure-0000001664907899">Der
+          <lb/>Reſt des achten, ſamt dem neunten Tact,</ref> haben ihre geweiſete Wege.</s>
         </p>
       </div>
 
       <div n="5">
         <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Der <ref target="#measure-0000001500448157">funffzehnte Tact</ref>
+          <lb/><s xml:id="p5-1-s1">Der <ref target="#measure-0000001500448157">funffzehnte Tact</ref>
           gibt ſchon, wegen der ſchlechten Noten, Nachdencken
           <lb/>und Anlaß, nach <choice>
             <sic>Belteben</sic>
@@ -193,25 +193,25 @@
           <lb/>verſchiedenen Orten ſchon ſattſame <choice>
             <sic>Erinneruug</sic>
             <corr type="editorial" resp="#pfeffer">Erinnerung</corr>
-          </choice> geſchehen.
+          </choice> geſchehen.</s>
         </p>
       </div>
 
       <div n="6">
         <lb/><head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          <lb/><ref target="#measure-0000001302470888">Bey dem elfften Tact</ref>
+          <lb/><s xml:id="p6-1-s1"><ref target="#measure-0000001302470888">Bey dem elfften Tact</ref>
           kañ zwar die rechte Hand, wie ſie angefangen, mit Ter-
           <lb/>tzen fortfahren, der Baß auch doppelt geſchlagen, doch muß nicht vergeſſen wer-
           <lb/>den, daß man mit der rechten Hand, bey jeder erſten Note der ſechs zuſammen ge-
-          <lb/>zogenen, allemahl vollgreiffe.
+          <lb/>zogenen, allemahl vollgreiffe.</s>
         </p>
       </div>
 
       <div n="7">
         <lb/><head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1 #facsZone-p7-1-2">
-          <lb/>Anlangend den
+          <lb/><s xml:id="p7-1-s1">Anlangend den
           <ref target="#measure-0000001114394411">zwoͤlfften</ref>,
           <ref target="#measure-0000001699632810">dreizehnten</ref> und
           <ref target="#measure-0000000369932331">vierzehnten Tact</ref>, ſo erhohlet
@@ -219,7 +219,7 @@
           <fw place="bottom" type="catch">ſich</fw>
           <pb n="404" facs="#facs-p466"/>
           <lb/>ſich gleichſam dabey etwas weniges, und machet, nach Gefallen, was ſich ſchicken
-          <lb/>will, oder auch gar nichts, als was da ſtehet. Bey dem
+          <lb/>will, oder auch gar nichts, als was da ſtehet.</s> <s xml:id="p7-1-s2">Bey dem
           <ref target="#measure-0000001500448157">funffzehnten</ref> und
           <ref target="#measure-0000000982473794">ſechszehn-
           <lb/>ten</ref> Tact aber wird einer ſchon ſehen, daß die
@@ -234,21 +234,21 @@
           <lb/>ſtimmig ſeyn muͤſſen, und iſt ſonſt, biß zum Schluß des erſten Theils, nichts ſonder-
           <lb/>lichs mehr zu eriñern, auſſer dieſem, daß man die
           dreigeſchwaͤntzte Noten in der rech-
-          <lb/>ten Hand auch Tertzen-Weiſe mitlauffen laſſen mag.
+          <lb/>ten Hand auch Tertzen-Weiſe mitlauffen laſſen mag.</s>
         </p>
       </div>
 
       <div n="8">
         <lb/><head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/>Daß nun der andere Theil einen
+          <lb/><s xml:id="p8-1-s1">Daß nun der andere Theil einen
           <ref target="#measure-0000000175158426">neuen Haupt-Satz anzufangen ſcheinet</ref>, ſol-
           <lb/>ches geſchiehet aus Liebe zur Abwechſelung, und darff man nur jeder
           Note ihren ge-
           <lb/>hoͤrigen Schlag geben, auch den Baß dabey ſo ſtarck, als es ſeyn kan, angreiffen,
           <lb/>welches ſonderlich auf dem <hi rendition="#b">Cis</hi>, u. auf andern
           chromatiſchen Klaͤngen, gute Wirckung
-          <lb/>thut. Die
+          <lb/>thut.</s> <s xml:id="p8-1-s2">Die
           <ref target="#beam-0000000876853991">ſechs hinauflauffende</ref>
           Noten im andern, <hi rendition="#aq"><foreign xml:lang="ita">it</foreign></hi>. die
           <ref target="#beam-0000000797443176">ſechs heruntergehende</ref>
@@ -256,14 +256,14 @@
           <ref target="#beam-0000002009847189">und fuͤnfften Tact</ref>,
           wolle man von dem oͤfftern Zuſchlagen ausnehmen,
           <lb/>und vernehmlich Octaven-Weiſe hoͤren laſſen; ſodann ergreifft der Baß wieder den
-          <lb/>erſten Haupt Satz, und verfaͤhret damit nach obiger Anleitung.
+          <lb/>erſten Haupt Satz, und verfaͤhret damit nach obiger Anleitung.</s>
         </p>
       </div>
 
       <div n="9">
         <lb/><head>§. 9.</head>
         <p xml:id="p9-1" facs="#facsZone-p9-1">
-          <lb/>Jm <ref target="#measure-0000000386420216">neunten Tact dieſes andern Theils</ref> gehet es wieder
+          <lb/><s xml:id="p9-1-s1">Jm <ref target="#measure-0000000386420216">neunten Tact dieſes andern Theils</ref> gehet es wieder
           ſtarck uͤbers gantze Cla-
           <lb/>vier zu jeder Note her; bey der letzten Helffte aber kann die rechte Hand eine, dem
           <lb/>Haupt-Satz gleichende, beſaͤnfftigende Manier anbringen, die einem Studieren-
@@ -273,14 +273,14 @@
           <lb/>um vorkoͤmmt, faſt wie er
           im <ref target="#measure-0000001566794317">ſechſten</ref> und folgenden Taͤcten des erſten Theils gewe-
           <lb/>ſen iſt, weßhalben man auch nur das oberwehnte zu Rathe ziehen, und der gemach-
-          <lb/>ten Anmerckung genau folgen darff.
+          <lb/>ten Anmerckung genau folgen darff.</s>
         </p>
       </div>
 
       <div n="10">
         <lb/><head>§. 10.</head>
         <p xml:id="p10-1" facs="#facsZone-p10-1">
-          <lb/>Noch iſt bey der letzten Helffte des
+          <lb/><s xml:id="p10-1-s1">Noch iſt bey der letzten Helffte des
           <ref target="#measure-0000000679692427">ſechszehnten Tacts</ref> ein kleiner Einfall mit
           <lb/>der rechten Hand, auf eben dem Schlage, wie im zehnten Tact des erſten Theils
           <lb/>geſchehen, anzubringen; es muß aber auch das uͤbrige dabey erforderte bis im
@@ -291,7 +291,7 @@
           <ref target="#harm-972">9. 7. 2.</ref> wolle irren
           <lb/>laſſen, weil es Griffe ſind, die juſt vorhergegangen, und durch die
           <ref target="#harm-6">6⃥/4</ref> wieder fromm
-          <lb/>und gut werden.
+          <lb/>und gut werden.</s>
         </p>
         <fw place="bottom" type="catch">Acht-</fw>
       </div>

@@ -114,41 +114,41 @@
       <div n="1">
         <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1 #facsZone-p1-1-2">
-          <lb/><hi rendition="#in">W</hi>Je wird dem Herrn Organiſten zu Muthe? Es ſiehet hier ein wenig bunt
-          <lb/>wieder aus; hat aber ſo viel nicht zu ſagen, als man wol meynet. Das
+          <lb/><s xml:id="p1-1-s1"><hi rendition="#in">W</hi>Je wird dem Herrn Organiſten zu Muthe?</s> <s xml:id="p1-1-s2">Es ſiehet hier ein wenig bunt
+          <lb/>wieder aus; hat aber ſo viel nicht zu ſagen, als man wol meynet.</s> <s xml:id="p1-1-s3">Das
           <lb/>Ding laͤſt ſich halten, wenn mans nur erſt recht uͤberſiehet; es faͤllt ja
-          <lb/>alles ſo ſchoͤn in die Hand, daß es eine Luſt iſt. Nur friſch daran; wer wagt,
-          <lb/>der gewinnt; um eine Probe iſt es zu thun. Der Ton iſt ja bekannt, der Tact
+          <lb/>alles ſo ſchoͤn in die Hand, daß es eine Luſt iſt.</s> <s xml:id="p1-1-s4">Nur friſch daran; wer wagt,
+          <lb/>der gewinnt; um eine Probe iſt es zu thun.</s> <s xml:id="p1-1-s5">Der Ton iſt ja bekannt, der Tact
           <lb/>drey Viertel, die Schluͤſſel nichts als Baß, Tenor und Alt; warum ſolte man ſich
-          <lb/>dafuͤr fuͤrchten? Wiewol ich erinnere mich, der Herr ſpielt nicht gern nach gedruckten
+          <lb/>dafuͤr fuͤrchten?</s> <s xml:id="p1-1-s6">Wiewol ich erinnere mich, der Herr ſpielt nicht gern nach gedruckten
           <fw place="bottom" type="catch">Noten;</fw>
           <pb n="364" facs="#facs-p426"/>
           <lb/>Noten; es iſt wahr, man iſt es nicht gewohnt; das Papier ſcheinet auch etwas
           <lb/>durchzuſchlagen; er nehme es mit nach Hauſe, und laſſe es rein abſchreiben, das Ding
           <lb/>verdient es wol; es hat einer gemacht, von dem der Herr gehoͤret, er koͤnne oder wolle
-          <lb/>auch ja componiren; Morgen kommen wir wieder zuſammen.
+          <lb/>auch ja componiren; Morgen kommen wir wieder zuſammen.</s>
         </p>
       </div>
       <div n="2">
         <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          <lb/>Alſo ungefehr wuͤrde ich, oder ein andrer, mit einem unmuſicaliſchen Organi-
+          <lb/><s xml:id="p2-1-s1">Alſo ungefehr wuͤrde ich, oder ein andrer, mit einem unmuſicaliſchen Organi-
           <lb/>ſten reden muͤſſen; einem andern ehrlichen Mann aber koͤnnte zur Nachricht dienen,
           <lb/>daß man gerne ſaͤhe, wenn beide Haͤnde Tertzen- auch wol bißweilen, wo es die Har-
           <lb/>monie erfordert, Quarten-Weiſe mit einander zu gleicher Zeit, die drey erſten Taͤcte
-          <lb/>ſpielten, da ſich denn dabey von ſelbſten aͤuſſern wird, wo ein 6 oder 6/4 mit zu greiffen.
-          <lb/>Unſer Abſehen vom <ref target="#measure-0000000448770319">vierten</ref>
+          <lb/>ſpielten, da ſich denn dabey von ſelbſten aͤuſſern wird, wo ein 6 oder 6/4 mit zu greiffen.</s>
+          <lb/><s xml:id="p2-1-s2">Unſer Abſehen vom <ref target="#measure-0000000448770319">vierten</ref>
           <ref target="#measure-0000001465389423">biß</ref>
           <ref target="#measure-0000001029700479">ſechſten Tact</ref>
           gienge auch wol unmaßgeblich dahin,
           <lb/>daß die Accorde und uͤberſtehende Zieffern bloß in der lincken Hand blieben, die rechte
-          <lb/>aber ein wenig dazu <term xml:id="t_kantabel-2" corresp="#t_kantabel">modulirte</term>, etwa folgender geſtalt:
+          <lb/>aber ein wenig dazu <term xml:id="t_kantabel-2" corresp="#t_kantabel">modulirte</term>, etwa folgender geſtalt:</s>
         </p>
         <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
           <ptr target="music-example1.xml"/>
         </notatedMusic>
         <p xml:id="p2-2">
-          <lb/>So auch im
+          <lb/><s xml:id="p2-2-s1">So auch im
           <ref target="#measure-0000002075207242">er-
           <lb/>ſten</ref> und
           <ref target="#measure-0000000341090212">andern</ref>,
@@ -158,32 +158,32 @@
           <lb/>und
           <ref target="#measure-0000001096465435">20ſten Tact</ref>
           <lb/>des andern
-          <lb/>Theils.
+          <lb/>Theils.</s>
         </p>
       </div>
 
       <div n="3">
         <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb/>Der <ref target="#measure-0000001397371739">ſiebende</ref>,
+          <lb/><s xml:id="p3-1-s1">Der <ref target="#measure-0000001397371739">ſiebende</ref>,
           <ref target="#measure-0000001702882132">achte</ref> und
           <ref target="#measure-0000001625398241">neunte</ref> Tact haben ihre geweiſete Wege; der
           <ref target="#measure-0000000189423239">zehnte</ref>,
           <lb/><ref target="#measure-0000001905140679">elffte</ref> und
           <ref target="#measure-0000001136879783">zwoͤlffte</ref> aber richten ſich nach dem Anfang:
           es ſind auch eben dieſelbe No-
-          <lb/>ten. Biß zu Ende des erſten Theils iſt ſonſt weiter nichts zu erinnern, als daß
+          <lb/>ten.</s> <s xml:id="p3-1-s2">Biß zu Ende des erſten Theils iſt ſonſt weiter nichts zu erinnern, als daß
           <lb/>der <ref target="#measure-0000001114523276">achtzehnte</ref> und
           <ref target="#measure-0000001049077025">neunzehnte Tact</ref> mit ſchlechten Schlaͤgen, ohne den geringſten
-          <lb/>Zierrath, geſpielet werden. Jm
+          <lb/>Zierrath, geſpielet werden.</s> <s xml:id="p3-1-s3">Jm
           <ref target="#measure-0000002078803044">dritten</ref>,
           <ref target="#measure-0000001071915657">vierten</ref> und
           <ref target="#measure-0000001796957864">fuͤnfften</ref> Tact des andern
           <lb/>Theils gehet es wieder auff die zuerſt-beſchriebene Weiſe, mit beiden Haͤnden,
           <lb/>durch gebrochene Accorde und Harmonien; ein paar Taͤcte will ich doch auch davon
           <lb/>herſetzen, woraus das uͤbrige, nach Maßgebung des Baſſes, ferner zu beur-
-          <lb/>theilen ſeyn wird. Dieſes faͤnget vom
-          <ref target="#measure-0000002078803044">dritten Tact</ref> des andern Theils an.
+          <lb/>theilen ſeyn wird.</s> <s xml:id="p3-1-s4">Dieſes faͤnget vom
+          <ref target="#measure-0000002078803044">dritten Tact</ref> des andern Theils an.</s>
         </p>
         <fw place="bottom" type="catch">§. 4.</fw>
         <pb n="365" facs="#facs-p427"/>
@@ -195,49 +195,49 @@
       <div n="4">
         <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          <lb/>Der <ref target="#measure-0000000233971040">zehnte Tact des letzten Theils</ref> will in der
+          <lb/><s xml:id="p4-1-s1">Der <ref target="#measure-0000000233971040">zehnte Tact des letzten Theils</ref> will in der
           rechten Hand mit der Sext
           <lb/>und Quinte ein ſolches <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechen</term> haben, als die lincke im vorhergehenden
           gefuͤhret
-          <lb/>hat.
-          <ref target="#measure-0000000560025628">Jm zwoͤlfften</ref> findet es abermahl Statt.
-          Jm <ref target="#measure-0000000874590211">dreizehenten</ref> und
+          <lb/>hat.</s>
+          <s xml:id="p4-1-s2"><ref target="#measure-0000000560025628">Jm zwoͤlfften</ref> findet es abermahl Statt.</s>
+          <s xml:id="p4-1-s3">Jm <ref target="#measure-0000000874590211">dreizehenten</ref> und
           <ref target="#measure-0000001812859867">vierzehen-
-          <lb/>ten</ref> auch; doch alſo:
+          <lb/>ten</ref> auch; doch alſo:</s>
         </p>
         <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
           <ptr target="music-example3.xml"/>
         </notatedMusic>
         <p xml:id="p4-2" facs="#facsZone-p4-2">
-          <lb/>Welche Brechung allerdings eine der leichteſten iſt, die gefunden werden mag.
+          <lb/><s xml:id="p4-2-s1">Welche Brechung allerdings eine der leichteſten iſt, die gefunden werden mag.</s>
         </p>
       </div>
 
       <div n="5">
         <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Man ſiehet nun ſolcher Geſtalt wol, daß im
+          <lb/><s xml:id="p5-1-s1">Man ſiehet nun ſolcher Geſtalt wol, daß im
           <ref target="#measure-0000000906228807">fuͤnff und zwantzigſten</ref> und
           <ref target="#measure-0000000083483295">ſechs und
           <lb/>zwantzigſten Tact</ref>
           es eben auch ſo angehet,
           und daß im <ref target="#measure-0000000860603968">neun und zwantzigſten</ref>
           wieder-
-          <lb/>um die erſte Art vorfaͤllt. Vom
+          <lb/>um die erſte Art vorfaͤllt.</s> <s xml:id="p5-1-s2">Vom
           <ref target="#measure-0000000919086642">vier und dreyſſigſten</ref> aber biß an den
           <ref target="#measure-0000000608266780">acht und
           <lb/>dreyſſigſten</ref> kann die rechte Hand gar manierlich
           <term xml:id="t_kantabel-1" corresp="#t_kantabel">moduliren</term>, indem die lincke alle
           <lb/>Ziefern abfertiget; und das moͤgte ohngefehr
-          ſo angehen:
+          ſo angehen:</s>
         </p>
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
           <ptr target="music-example4.xml"/>
         </notatedMusic>
         <p xml:id="p5-2" facs="#facsZone-p5-2">
-          <lb/>Jnzwiſchen ſoll dieſes alles niemand ſo wol zur Vorſchrifft, als zur Aufmunterung
+          <lb/><s xml:id="p5-2-s1">Jnzwiſchen ſoll dieſes alles niemand ſo wol zur Vorſchrifft, als zur Aufmunterung
           <lb/>und zum Exempel dienen, damit es noch immer beſſer und wolklingender heraus-
-          <lb/>komme.
+          <lb/>komme.</s>
         </p>
       </div>
       <fw place="bottom" type="catch">Zwoͤlff-</fw>

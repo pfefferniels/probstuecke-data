@@ -1413,36 +1413,36 @@
 
       <div n="31">
         <lb /><head>§. 31.</head>
-        <p>
-          <lb />Was ſonſt bey unſerm letzten Prob-Stück inſonderheit zu erinnern vorfallen mögte, iſt wenig,
+        <p xml:id="p31-1">
+          <lb /><s xml:id="p31-1-s1">Was ſonſt bey unſerm letzten Prob-Stück inſonderheit zu erinnern vorfallen mögte, iſt wenig,
           <lb />und kömmt meiſtens darauf an, daß die Achtel, davon dieſeſmahl drey auf ein Viertel gehen, alleine
           <lb />ſpielen, und <ref target="#note-0000000280011944 #note-0000000793662346">zur erſten Note</ref>
-          derſelben nur das gehörige oder überzeichnete angeſchlagen werde. Viele
+          derſelben nur das gehörige oder überzeichnete angeſchlagen werde.</s> <s xml:id="p31-1-s2">Viele
           <lb />Künſte bey dergleichen Tonen ſehen zu laſſen, leidet der Umſtand bishero nicht; jedennoch könnte bey den
           <lb />Schlüſſen, als nehmlich, im
           <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fünfften, ſechzehnten, und fünff und dreiſſigſten Tact</ref>, etwas <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">gebrochenes</term> gar
-          <lb />zierlich angebracht werden. Jch will es aber, wie durchgehends alle ſolche <term xml:id="t_auszierung-1" corresp="#t_auszierung">Auſzierungen</term> und Schmü-
+          <lb />zierlich angebracht werden.</s> <s xml:id="p31-1-s3">Jch will es aber, wie durchgehends alle ſolche <term xml:id="t_auszierung-1" corresp="#t_auszierung">Auſzierungen</term> und Schmü-
           <lb />ckungen, nicht als ein nothwendig erfordertes Stück bey einem gewöhnlichen <term xml:id="t_generalbass-1" corresp="#t_generalbass">General-Baß</term>, ſondern als
           <lb />eine beliebte und artige Zugabe bey der Probe, bey der Uebung, und bey erſehener Gelgenheit, betrachtet
-          <lb />haben, weil ich völlig in dieſem Stück mit <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> übereinſtimme, da er ſich alſo heraus läſſt:
+          <lb />haben, weil ich völlig in dieſem Stück mit <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> übereinſtimme, da er ſich alſo heraus läſſt:</s>
           <quote type="translation">
-            <lb />Wenn die Bäſſe nicht mit vielen Noten überhäuffet ſind, ſondern, nach des Spielers Sinn, gar zu ſehr
+            <lb /><s xml:id="p31-1-s4">Wenn die Bäſſe nicht mit vielen Noten überhäuffet ſind, ſondern, nach des Spielers Sinn, gar zu ſehr
             <lb />ſchleppen und zögern, mag er wol andre Noten hinzu thun, und mehr Figuren hervor bringen; da-
             <lb />fern er nur gewiß verſichert iſt, daß ſeine Zuſaätze der Melodie, inſonderheit aber der ſingenden Stim-
-            <lb />me keinen nachtheil bringen. Denn der <term xml:id="t_generalbass-2" corresp="#t_generalbass">General-Baß</term> iſt zu anders nichts verordnet, als dem <term xml:id="t_saenger-1" corresp="#t_saenger">Sän-
+            <lb />me keinen nachtheil bringen.</s> <s xml:id="p31-1-s5">Denn der <term xml:id="t_generalbass-2" corresp="#t_generalbass">General-Baß</term> iſt zu anders nichts verordnet, als dem <term xml:id="t_saenger-1" corresp="#t_saenger">Sän-
             <lb />ger</term> Beiſtand zu leiſten; nicht aber deſſelben Beſtreben, durch ein unzeitiges Geklängel, zu hindern, oder
-            <lb />zu verſtellen. Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes <term xml:id="t_konzert-1" corresp="#t_konzert">Concert</term> von Vir-
+            <lb />zu verſtellen.</s> <s xml:id="p31-1-s6">Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes <term xml:id="t_konzert-1" corresp="#t_konzert">Concert</term> von Vir-
             <fw type="catch" place="bottom">tuoſen</fw>
             <pb facs="#facs-p526" n="464" />
 
-            <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſauer werden, vor allen andern hervorzuragen.
-            <lb />Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, <term xml:id="t_generalbass-3" corresp="#t_generalbass">verbrämen</term>
+            <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſauer werden, vor allen andern hervorzuragen.</s>
+            <lb /><s xml:id="p31-1-s7">Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, <term xml:id="t_generalbass-3" corresp="#t_generalbass">verbrämen</term>
             <lb />alles hinten und vorn, und bringen hunderterley Dinge an, die vielleicht an und für ſich ſelbſt ſehr
             <lb />ſchön ſind, aber dennoch zur Unzeit kommen, und dem <term xml:id="t_konzert-2" corresp="#t_konzert">Concert</term> überaus ſchädlich fallen, indem ſie
             <lb />ſolchen Umſtänden zu nichts anders dienen, als die Kunſt-reiche Ruhmſucht und Eitelkeit des Spielers
-            <lb />zu bezeugen. Wer demnach in einem Concert ſpielet, muß es ſo machen, da0 er der gantzen Verſamm-
-            <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage. Denn,
-            <lb />wenn ein jeder bloß für ſich, und um ſein ſelbſt willen, ſpielet, ſo iſt es kein Concert mehr.
+            <lb />zu bezeugen.</s> <s xml:id="p31-1-s8">Wer demnach in einem Concert ſpielet, muß es ſo machen, da0 er der gantzen Verſamm-
+            <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage.</s> <s xml:id="p31-1-s9">Denn,
+            <lb />wenn ein jeder bloß für ſich, und um ſein ſelbſt willen, ſpielet, ſo iſt es kein Concert mehr.</s>
           </quote>
         </p>
       </div>
