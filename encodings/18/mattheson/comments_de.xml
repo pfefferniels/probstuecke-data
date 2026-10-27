@@ -149,7 +149,7 @@
           <pb n="408" facs="#facs-p470"/>
           <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
           <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
-          <lb/>der Note, angegriffen, und vollſtimmig zu Ende gebracht.
+          <lb/>der Note, angegriffen, und <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">vollſtimmig</term> zu Ende gebracht.
         </p>
       </div>
 
@@ -157,8 +157,8 @@
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/>Es ſtehet wol zu beobachten, daß im <ref target="#measure-0000001612761976">andern Tact des andern Theils</ref> die
-          <lb/>erſte Note durchgehet, welches ſelten alſo vorfaͤllt, und auf des Spielers Verſtand
-          <lb/>ankoͤmmt, da einer beobachten muß, auf welche Note der Nachdruck, oder der Ac-
+          <lb/>erſte Note <term xml:id="t_durchgang-1" corresp="#t_durchgang">durchgehet</term>, welches ſelten alſo vorfaͤllt, und auf des Spielers Verſtand
+          <lb/>ankoͤmmt, da einer beobachten muß, auf welche Note der <term xml:id="t_nachdruck-1" corresp="#t_nachdruck">Nachdruck</term>, oder der Ac-
           <lb/>cent faͤllt, welches hier nicht auf die erſte, ſondern auf die andere geſchieht, weil ſelbige
           <lb/>im ſteigen die letzte, und der Anfang eines neuen Ganges dabey vermacht iſt.
         </p>
@@ -190,7 +190,7 @@
             <ptr target="music-example1.xml"/>
           </notatedMusic>
           <pb n="409" facs="#facs-p471"/>
-          <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte anſchla-
+          <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das <term xml:id="t_vollstimmigkeit-2" corresp="#t_vollstimmigkeit">vollſtimmigſte</term> anſchla-
           <lb/>gen muß, welches je und allewege feſt geſetzet wird.
         </p>
       </div>
@@ -205,7 +205,7 @@
           <lb/>natuͤrlicher Weiſe nicht ſo klar vorzutragen geſchickt ſey, als es wol offt einem Un-
           <lb/>kundigen noͤthig waͤre: dahero niemand zu verſtaͤndlich im Unterricht ſeyn kann, ſo,
           <lb/>daß auch wol gar eine kleine Weitlaͤuffigkeit und Wiederholung nicht gleich zu tadeln
-          <lb/>iſt, dafern ſie ihr Abſehen auf die Deutlichkeit gerichtet hat.
+          <lb/>iſt, dafern ſie ihr Abſehen auf die <term xml:id="t_deutlichkeit-1" corresp="#t_deutlichkeit">Deutlichkeit</term> gerichtet hat.
         </p>
       </div>
 
@@ -214,10 +214,10 @@
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Es hat der beruͤhmte <hi rendition="#b"><persName corresp="#ed_uyt_trx_qlb">Herr Telemann</persName></hi> ehemals
           <name type="musicalWork" ref="#ed_ilx_shj_vlb">ſechs Concerte</name> herauſge-
-          <lb/>geben, und gar ſauber in Kupffer ſtechen laſſen, die der weiland Durchlauchtige
-          <lb/><hi rendition="#b"><persName corresp="#ed_xxh_bgy_qlb">Printz Ernſt, von Sachſen-Weymar</persName></hi>, mit eigener Hand, und aus eigener
+          <lb/>geben, und gar ſauber in Kupffer ſtechen laſſen, die der weiland <term xml:id="t_fuersten-3" corresp="#t_fuersten">Durchlauchtige</term>
+          <lb/><hi rendition="#b"><persName corresp="#ed_xxh_bgy_qlb"><term xml:id="t_fuersten-2" corresp="#t_fuersten">Printz</term> Ernſt, von Sachſen-Weymar</persName></hi>, mit eigener Hand, und aus eigener
           <lb/>Erfindung geſetzet hat: in ſelbigen iſt das <hi rendition="#aq"><foreign xml:lang="ita">Concerto V.</foreign></hi> aus obigem Ton, und eins
-          <lb/>der ſchoͤnſten. Freie Fuͤrſten zu finden, die muſicaliſchen Schriften verfaſſen, und
+          <lb/>der ſchoͤnſten. Freie <term xml:id="t_fuersten-1" corresp="#t_fuersten">Fuͤrſten</term> zu finden, die muſicaliſchen Schriften verfaſſen, und
           <lb/>angefuͤhret werden koͤnnen, iſt ſonſt eine Sache, die nicht alle Tage aufſtoͤſſet;
           <lb/>der edlen Muſic aber einen ſonderbaren Vortheil giebt.
         </p>

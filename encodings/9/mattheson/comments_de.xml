@@ -110,7 +110,7 @@
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">E</hi>S wird allhier verſchiedenes zu erinnern ſeyn, falls man anders die Sache
-            <lb/>nach dem Sinne des Verfaſſers ſpielen will. Dieſes aber (es sey noch einmahl
+            <lb/>nach dem <term xml:id="t_sinn_des_verfassers-1" corresp="#t_sinn_des_verfassers">Sinne</term> des Verfaſſers ſpielen will. Dieſes aber (es sey noch einmahl
             <lb/>geſagt) muß nothwendig geſchehen, wenn etwas in ſeiner Vollkommenheit
             <lb/>
             <choice>
@@ -120,7 +120,7 @@
             werden ſoll; und wer den Sinn des Verfaſſers nicht erraͤth oder trifft, der
             <lb/>fehlet weit, ob ers auch am beſten ſonſt getroffen zu haben meynen ſolte. Wenn
             <lb/>man demnach im <ref target="#m-243">ſiebenden Tact</ref> den Schluß gemacht hat, so muß gleich die rechte
-            <lb/>Hand etwas mehrers, als die kahlen Accorte und Sexten, dazu ſpielen, denn ſolches
+            <lb/>Hand etwas mehrers, als die kahlen <term xml:id="t_akkord-1" corresp="#t_akkord">Accorte</term> und <term xml:id="t_sexte-1" corresp="#t_sexte">Sexten</term>, dazu ſpielen, denn ſolches
             <lb/>kann die lincke wol allein verrichten; nun findet ſich aber ehender kein Gegen-Satz
             <lb/>als im <ref target="#m-668">zwantzigſten Tact</ref>, derſelbe muß hier beym <hi rendition="#b">c</hi> mit der Tertz anfangen, und
             <lb/>immer einen Ton hoͤher, viermahl wiederholet werden. Woraus denn leicht zu ſchlieſ-
@@ -129,15 +129,15 @@
             <lb/>der Lauff, wie vorhin, viermahl, jedes mahl um einen Ton hoͤher, wiederholet wird.
             <lb/>Jm <ref target="#m-668">zwantzigſten Tact</ref> erſcheinet der bisherige Gegen-Satz im Baſſe, einfolglich
             <lb/>kann man das Ding umkehren und den Gang, welchen vorhin der Baß gehabt,
-            <lb/>im Diſcant gebrauchen, wobey die Griffe gantz wol vollſtimmig bleiben koͤnnen.
+            <lb/>im Diſcant gebrauchen, wobey die Griffe gantz wol <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">vollſtimmig</term> bleiben koͤnnen.
             <lb/>Wenns zur letzten Helffte des <ref target="#m-742">zwey und zwantzigſten Tacts</ref> kommt, da drey Vier-
-            <lb/>tel ſtehen, thut man wol, mit der rechten Hand vom dreigeſtrichenen <hi rendition="#b">c</hi> zur Nach-
-            <lb/>ahmung ins zweigeſtrichene <hi rendition="#b">d</hi> herunter zu lauffen; doch dabey die 6 und 5 im Baß
+            <lb/>tel ſtehen, thut man wol, mit der rechten Hand vom dreigeſtrichenen <hi rendition="#b">c</hi> zur <term xml:id="t_imitation-1" corresp="#t_imitation">Nach-
+            <lb/>ahmung</term> ins zweigeſtrichene <hi rendition="#b">d</hi> herunter zu lauffen; doch dabey die 6 und 5 im Baß
             <lb/>unvergeſſen. <ref target="#m-809">Der vier und zwantzigſte Tact</ref> wechſelt abermahl mit beiden Saͤ-
             <lb/>tzen ab; und im <ref target="#m-1044">zwey und dreyßigſten</ref> mag man mit Tertzen lauffen, bey den drey
             <lb/>Vierteln aber das itzt beruͤhrte Nachahmungs-Clausulgen anbringen. Jch beſor-
             <lb/>ge zwar, die muſicalischen Gesetzgeber werden mir einen Proceß an den Hals
-            <lb/>werffen, darum, daß ich im General-Baß das dreygeſtrichene <hi rendition="#b">c</hi> brauche; aber
+            <lb/>werffen, darum, daß ich im General-Baß das <term xml:id="t_c_dreigestrichen-1" corresp="#t_c_dreigestrichen">dreygeſtrichene <hi rendition="#b">c</hi></term> brauche; aber
             <lb/>meine Vertheidigung iſt ſchon fertig.
           </p>
         </div>
@@ -146,8 +146,8 @@
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
             <ref target="#m-1220">Der ſieben und dreißigſte Tact</ref> will,
             <ref target="#m-1253 #m-1295 #m-1334">nebſt den folgenden</ref>, eine beſondere,
-            <lb/>wiewol aus den vorhergehenden zunehmende Brechung haben, wobey die uͤber-
-            <lb/>ſtehende Ziefern alle gantz genau mit zunehmen sind. Da ſolches aber einem je-
+            <lb/>wiewol aus den vorhergehenden zunehmende <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> haben, wobey die uͤber-
+            <lb/>ſtehende <term xml:id="t_ziffern-1" corresp="#t_ziffern">Ziefern</term> alle gantz genau mit zunehmen sind. Da ſolches aber einem je-
             <lb/>den etwas ſchwer zu errathen fallen moͤgte, will ich, der Anfaͤnger halben, ein
             <lb/>Eckgen davon herſetzen:
             <pb n="350" facs="#facs-p412"/>
@@ -179,8 +179,8 @@
             <lb/>mir ſonderlich wol, daß der <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName> es auch ſo gar
             gut heiſſet, wenn man eine eintzige
             <lb/>Stimme <hi rendition="#aq">accompagnirt</hi>,
-            und den Haupt-Satz oder die Fugen der Arie mit allen Parteyen auf ſeinem
-            <lb/>Clavier dabey nachahmet. Seine Worte lauten auf Teutsch alſo:
+            und den Haupt-Satz oder die <term xml:id="t_fugen-1" corresp="#t_fugen">Fugen</term> der Arie mit allen Parteyen auf ſeinem
+            <lb/>Clavier dabey <term xml:id="t_imitation-2" corresp="#t_imitation">nachahmet</term>. Seine Worte lauten auf Teutsch alſo:
             <hi rendition="#b">
               <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
                 Wenn
@@ -202,7 +202,7 @@
                 <lb/>ſchen Sachen finden; alsdenn kann man auf ſeinem Clavier den Haupt-Satz und die
                 <lb/>Fugen der Arie wol nachahmen, auch die Stimmen, eine nach der andern, anbringen.
                 <lb/>Aber es gehoͤret eine voͤllige Wiſſenschaft dazu, und es muß ein Meiſter vom erſten
-                <lb/>Rang ſeyn, dem ſolches gut von Stattengehen ſoll.
+                <lb/><term xml:id="t_rang_der_kuenstler-1" corresp="#t_rang_der_kuenstler">Rang</term> ſeyn, dem ſolches gut von Stattengehen ſoll.
               </quote>
             </hi>
             Hierunter koͤnnen unſere Prob-Stuͤck,

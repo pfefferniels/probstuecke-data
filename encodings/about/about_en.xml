@@ -65,6 +65,11 @@
             Editorial notes, and indices of the persons, literature and musical works mentioned in the commentary, linked
             to the Integrated Authority File (GND) where possible.
           </item>
+          <item>
+            An index of terms based on Mattheson’s own Register of the 1731 print: every subject entry that refers to the
+            Ober-Classe, with a modern German form, an English gloss and links to the passages; the editors have added
+            some references Mattheson does not give. The Register itself is transcribed as well.
+          </item>
         </list>
       </div>
 
@@ -85,6 +90,9 @@
             <ref target="https://opacplus.bsb-muenchen.de/search?oclcno=57052215">Catalogue record</ref>
           </item>
         </list>
+        <p>
+          The Register of the 1731 print (pp. 465–482) is transcribed from the same copy.
+        </p>
         <p>
           Page images are loaded directly from the library’s IIIF service. Each line of music in the edition is linked to
           the corresponding area of the page in both prints.

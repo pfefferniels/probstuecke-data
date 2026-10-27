@@ -173,27 +173,27 @@
             <head><lb/>A.</head>
             <item xml:id="reg_a"><lb/><hi rendition="#b">A</hi>, die mit dieſem Buchſtab bezeichnete Ton-Art,
               <lb/>wie ſie vom <hi rendition="#b">F</hi> unterſchieden, 143.</item>
-            <item xml:id="reg_abwechselung"><lb/><hi rendition="#b">Abwechſelung</hi>, 328. 374.</item>
+            <item xml:id="reg_abwechselung" corresp="#t_abwechslung"><lb/><hi rendition="#b">Abwechſelung</hi>, 328. 374.</item>
             <item xml:id="reg_abzeichen"><lb/><hi rendition="#b">Abzeichen</hi>, auf dem Clavier, 65.</item>
             <item xml:id="reg_academie"><lb/><hi rendition="#b">Academie</hi> der Wiſſenſchafften, die Koͤnigliche in
               <lb/>Franckreich, hat Betrachtungen uͤber den Klang.
               <lb/>158. u. 160. z.</item>
             <item xml:id="reg_accidentia_modorum"><lb/><hi rendition="#aq">Accidentia Modorum</hi>, 53. ſ. <hi rendition="#b">zufaͤllige Dinge</hi>.</item>
-            <item xml:id="reg_accompagniren"><lb/><hi rendition="#b">Accompagniren</hi>, was unter andern dazu gehoͤ-
+            <item xml:id="reg_accompagniren" corresp="#t_akkompagnieren"><lb/><hi rendition="#b">Accompagniren</hi>, was unter andern dazu gehoͤ-
               <lb/>ret 51. ſ. <hi rendition="#b">General-Baß</hi>.</item>
-            <item xml:id="reg_accompagniren_2"><lb/>– thoͤrichte Ausnahm dabey, 43.</item>
-            <item xml:id="reg_accompagniren_3"><lb/>– ſich ſelbſt, was dazu gehoͤret, 344.</item>
-            <item xml:id="reg_accorde"><lb/><hi rendition="#b">Accorde</hi>, Exempel von allen, 196. 240.</item>
-            <item xml:id="reg_accorde_2"><lb/>– kann die lincke Hand offt allein abfertigen, 349.</item>
+            <item xml:id="reg_accompagniren_2" corresp="#t_akkompagnieren"><lb/>– thoͤrichte Ausnahm dabey, 43.</item>
+            <item xml:id="reg_accompagniren_3" corresp="#t_akkompagnieren"><lb/>– ſich ſelbſt, was dazu gehoͤret, 344.</item>
+            <item xml:id="reg_accorde" corresp="#t_akkord"><lb/><hi rendition="#b">Accorde</hi>, Exempel von allen, 196. 240.</item>
+            <item xml:id="reg_accorde_2" corresp="#t_akkord"><lb/>– kann die lincke Hand offt allein abfertigen, 349.</item>
             <item xml:id="reg_acumen"><lb/><hi rendition="#aq">Acumen</hi>, ſ. <hi rendition="#b">hoch</hi>.</item>
-            <item xml:id="reg_a_dur"><lb/><hi rendition="#b">A, dur</hi>, dieſer Ton-Art Unrichtigkeit in den Klang-
+            <item xml:id="reg_a_dur" corresp="#t_a_dur"><lb/><hi rendition="#b">A, dur</hi>, dieſer Ton-Art Unrichtigkeit in den Klang-
               <lb/>Stuffen, 106. 107. 108. 109.</item>
-            <item xml:id="reg_a_dur_2"><lb/>– koͤmmt in ſeiner Eintheilung mit dem <hi rendition="#b">F dur</hi> in
+            <item xml:id="reg_a_dur_2" corresp="#t_a_dur"><lb/>– koͤmmt in ſeiner Eintheilung mit dem <hi rendition="#b">F dur</hi> in
               <lb/>in allen diatoniſchen Stuͤcken uͤberein, 110.
               <lb/>nicht aber im chromatiſchen Geſchlechte, 137.
               <lb/>140. 141. 142.</item>
-            <item xml:id="reg_a_dur_3"><lb/>– Exempel, 266. 400.</item>
-            <item xml:id="reg_a_dur_4"><lb/>– wirckende Eigenſchafft des Tons, 402.</item>
+            <item xml:id="reg_a_dur_3" corresp="#t_a_dur"><lb/>– Exempel, 266. 400.</item>
+            <item xml:id="reg_a_dur_4" corresp="#t_a_dur"><lb/>– wirckende Eigenſchafft des Tons, 402.</item>
             <item xml:id="reg_aeolischer_ton"><lb/><hi rendition="#b">Aeoliſcher Ton</hi>, deſſen ſtreitige Wirckungen, 73.</item>
             <item xml:id="reg_affinaliter"><lb/><hi rendition="#aq">Affinaliter</hi>, ſ. <hi rendition="#b">verwandte</hi> Ausweichungen der
               <lb/>Ton-Arten.</item>
@@ -203,28 +203,28 @@
             <cb/>
             <item xml:id="reg_allabreve"><lb/><hi rendition="#aq">Allabreve</hi>, 258. 261. wird auch in Cantaten
               <lb/>gebrauchet, 260.</item>
-            <item xml:id="reg_algebraische_organisten"><lb/><hi rendition="#b">Algebraiſche Organiſten</hi>, wie ihr Spielen zu
+            <item xml:id="reg_algebraische_organisten" corresp="#t_algebraische_organisten"><lb/><hi rendition="#b">Algebraiſche Organiſten</hi>, wie ihr Spielen zu
               <lb/>pruͤfen, 388. 391.</item>
             <item xml:id="reg_alltags_ton"><lb/><hi rendition="#b">Alltags-Ton</hi>, 240.</item>
-            <item xml:id="reg_alt_zeichen"><lb/><hi rendition="#b">Alt-Zeichen</hi>, warum es fremd, 338.</item>
+            <item xml:id="reg_alt_zeichen" corresp="#t_altschluessel"><lb/><hi rendition="#b">Alt-Zeichen</hi>, warum es fremd, 338.</item>
             <item xml:id="reg_alte_componisten"><lb/><hi rendition="#b">Alte Componiſten</hi>, ob man es ihnen nach machen
               <lb/>ſoll, 94. ſ. Vorrede an den Leſer.</item>
             <item xml:id="reg_alypius"><lb/><hi rendition="#aq">Alypius</hi>, von den Griechiſchen Sing-Wei-
               <lb/>ſen, 55.</item>
-            <item xml:id="reg_ambitus"><lb/><hi rendition="#aq">Ambitus</hi>, oder der Umfang einer Ton-Art, was
+            <item xml:id="reg_ambitus" corresp="#t_ambitus"><lb/><hi rendition="#aq">Ambitus</hi>, oder der Umfang einer Ton-Art, was
               <lb/>er erfordert, 49. muß <choice><sic>erfuͤllee</sic><corr>erfuͤllet</corr></choice> werden, 216.
               <lb/>229. 233. ob man aus dieſem Sprengel oder
               <lb/>Umfang wol weichen darff, 339.</item>
-            <item xml:id="reg_a_moll"><lb/><hi rendition="#b">A, moll</hi>, Exempel davon, 210. 316.</item>
-            <item xml:id="reg_anfang"><lb/><hi rendition="#b">Anfang</hi>, wie er beſchaffen ſeyn muß, 403.</item>
+            <item xml:id="reg_a_moll" corresp="#t_a_moll"><lb/><hi rendition="#b">A, moll</hi>, Exempel davon, 210. 316.</item>
+            <item xml:id="reg_anfang" corresp="#t_anfang"><lb/><hi rendition="#b">Anfang</hi>, wie er beſchaffen ſeyn muß, 403.</item>
             <item xml:id="reg_anschlagen"><lb/><hi rendition="#b">Anſchlagen</hi>, muß nicht zu offt mit einerley
               <lb/>Griffen geſchehen, 213. 237. wo es gut, 229.</item>
-            <item xml:id="reg_anticipatio"><lb/><hi rendition="#aq">Anticipatio</hi>, oder Vorausnehmung des Ac-
+            <item xml:id="reg_anticipatio" corresp="#t_antizipation"><lb/><hi rendition="#aq">Anticipatio</hi>, oder Vorausnehmung des Ac-
               <lb/>cords, 260. 261. 317. 369.</item>
-            <item xml:id="reg_anweisungen"><lb/><hi rendition="#b">Anweiſungen</hi>, verdienen offt ſchlechten Danck,
+            <item xml:id="reg_anweisungen" corresp="#t_anweisung"><lb/><hi rendition="#b">Anweiſungen</hi>, verdienen offt ſchlechten Danck,
               <lb/>333.</item>
             <item xml:id="reg_apollo" corresp="#ed_wpd_2lx_qlb"><lb/><hi rendition="#b">Apollo</hi>, wer es ſeyn ſoll, 5.</item>
-            <item xml:id="reg_applicatio"><lb/><hi rendition="#aq">Applicatio</hi>, oder richtige Setzung der Fin-
+            <item xml:id="reg_applicatio" corresp="#t_applikatur"><lb/><hi rendition="#aq">Applicatio</hi>, oder richtige Setzung der Fin-
               <lb/>ger, 318.</item>
             <item xml:id="reg_aquivivus"><lb/><hi rendition="#aq">Aquivivus</hi>, oder <hi rendition="#aq #i">Aquaviva</hi>, Hertzog von Atri,
               <lb/>hat gelehrte Sachen von der Muſic geſchrie-
@@ -255,21 +255,21 @@
               <lb/>net, 76.</item>
             <item xml:id="reg_artusio"><lb/><hi rendition="#aq">Artuſio</hi>, wie ſchlecht er von den Klang-Stuffen
               <lb/>geſchrieben hat, 67.</item>
-            <item xml:id="reg_as_dur"><lb/><hi rendition="#b">As, dur</hi>, Exempel davon, 246. 249. 366.
+            <item xml:id="reg_as_dur" corresp="#t_as_dur"><lb/><hi rendition="#b">As, dur</hi>, Exempel davon, 246. 249. 366.
               <lb/>371.</item>
             <item xml:id="reg_as_dur_2"><lb/>– <hi rendition="#b">moll</hi>, ſiehe <hi rendition="#b">Gis</hi>.</item>
             <item xml:id="reg_auffaetze"><lb/><hi rendition="#b">Auffaͤtze</hi>, bey Blaſe-Jnſtrumenten, 110.</item>
-            <item xml:id="reg_augen"><lb/><hi rendition="#b">Augen</hi>, geben es bey den Zeichen nicht ſo wolfeil,
+            <item xml:id="reg_augen" corresp="#t_augen"><lb/><hi rendition="#b">Augen</hi>, geben es bey den Zeichen nicht ſo wolfeil,
               <lb/>als die Ohren bey dem Klange, 449.</item>
             <item xml:id="reg_augustinus"><lb/><hi rendition="#aq">Auguſtinus</hi> <hi rendition="#aq #i">St.</hi> von der ſchaͤdlichen Unwiſſenheit
               <lb/>in muſicaliſchen Dingen, 30.</item>
             <item xml:id="reg_ausleger"><lb/><hi rendition="#b">Ausleger</hi>, verderben viel, 73. 78.</item>
-            <item xml:id="reg_ausuebung"><lb/><hi rendition="#b">Ausuͤbung</hi>, wie viel daran liegt, 381. das iſt der
+            <item xml:id="reg_ausuebung" corresp="#t_ausuebung"><lb/><hi rendition="#b">Ausuͤbung</hi>, wie viel daran liegt, 381. das iſt der
               <lb/>Zweck dieſes practiſchen Buchs, 457.</item>
             <item xml:id="reg_ausweichungen"><lb/><hi rendition="#b">Ausweichungen</hi> in die Neben-Tone, duͤrffen
               <lb/>nicht eben alle in einem Exempel vorkommen,
               <lb/>216. ſiehe <hi rendition="#aq #i">Ambitus</hi>.</item>
-            <item xml:id="reg_auszierungen"><lb/><hi rendition="#b">Auszierungen</hi>, des General-Baſſes, wo ſie
+            <item xml:id="reg_auszierungen" corresp="#t_auszierung"><lb/><hi rendition="#b">Auszierungen</hi>, des General-Baſſes, wo ſie
               <lb/>Statt haben und wo nicht, 233. 236. 248.
               <lb/>257. 299. 463. in der lincken Hand, 264. 291.
               <lb/>in der rechten Hand, 325. 328. 333.</item>
@@ -282,7 +282,7 @@
               <lb/>chen, 345.</item>
             <item xml:id="reg_bacchius"><lb/><hi rendition="#aq">Bacchius</hi>, ein Griechiſcher Scribent, wird unrecht
               <lb/>verſtanden, 64. 66.</item>
-            <item xml:id="reg_b_dur"><lb/><hi rendition="#b">B, dur</hi>, Unrichtigkeit in deſſen Klang-Stuffen,
+            <item xml:id="reg_b_dur" corresp="#t_b_dur"><lb/><hi rendition="#b">B, dur</hi>, Unrichtigkeit in deſſen Klang-Stuffen,
               <lb/>106. 108. 109. 111. Prob-Stuͤcke daraus
               <lb/>mit zwey Clavieren, 250. 251. 252. mit einem
               <lb/>Clavier, 372.</item>
@@ -290,7 +290,7 @@
               <lb/>ral-Baß haͤuffig, 232.</item>
             <item xml:id="reg_bartels"><lb/><hi rendition="#b">Bartels</hi>, Herr ein Banckierer und groſſer Mu-
               <lb/>ſicus, 177.</item>
-            <item xml:id="reg_bass_veraenderungen"><lb/><hi rendition="#b">Baß-Veraͤnderungen</hi>, was ſie fuͤr Gruͤnde
+            <item xml:id="reg_bass_veraenderungen" corresp="#t_bassveraenderung"><lb/><hi rendition="#b">Baß-Veraͤnderungen</hi>, was ſie fuͤr Gruͤnde
               <lb/>haben, 334.</item>
             <item xml:id="reg_basso"><lb/><hi rendition="#aq">Baſſo</hi> <hi rendition="#aq #i">continuo</hi>, wird bisweilen unterbrochen, 252.
               <lb/>macht ſelbſt Aufloͤſungen, 217. braucht Ma-
@@ -304,16 +304,16 @@
               <lb/>173.</item>
             <item xml:id="reg_bernhardi"><lb/><hi rendition="#aq">Bernhardi</hi>, hat das Clavier anders einrichten
               <lb/>wollen, 395.</item>
-            <item xml:id="reg_bewegung_im_tact"><lb/><hi rendition="#b">Bewegung im Tact</hi>, muß unterſchieden wer-
+            <item xml:id="reg_bewegung_im_tact" corresp="#t_bewegung_im_takt"><lb/><hi rendition="#b">Bewegung im Tact</hi>, muß unterſchieden wer-
               <lb/>den, 375.</item>
-            <item xml:id="reg_bewegung_im_tact_2"><lb/>– gibt der Muſic das Leben, 381.</item>
-            <item xml:id="reg_bezieferung"><lb/><hi rendition="#b">Bezieferung</hi>, mit Fleiß weggelaſſen, 356.
+            <item xml:id="reg_bewegung_im_tact_2" corresp="#t_bewegung_im_takt"><lb/>– gibt der Muſic das Leben, 381.</item>
+            <item xml:id="reg_bezieferung" corresp="#t_bezifferung"><lb/><hi rendition="#b">Bezieferung</hi>, mit Fleiß weggelaſſen, 356.
               <lb/>warum, 359. ſiehe <hi rendition="#b">Zieffern</hi>, <hi rendition="#b">Zeichen</hi>, <hi rendition="#b">No-</hi>
               <lb/><hi rendition="#b">tirung</hi>.</item>
             <item xml:id="reg_bibliotheck"><lb/><hi rendition="#b">Bibliotheck</hi>, macht keinen gelehrt, 46. <hi rendition="#aq">vid,</hi>
               <lb/><hi rendition="#aq #i">Boileau</hi>.</item>
             <item xml:id="reg_bindungen"><lb/><hi rendition="#b">Bindungen</hi>, im <hi rendition="#aq">allabreve</hi>, 260.</item>
-            <item xml:id="reg_b_moll"><lb/><hi rendition="#b">B, moll</hi>, Exempel davon, 258. 382. 390. 391.</item>
+            <item xml:id="reg_b_moll" corresp="#t_b_moll"><lb/><hi rendition="#b">B, moll</hi>, Exempel davon, 258. 382. 390. 391.</item>
             <item xml:id="reg_boethius" corresp="#ed_j5y_1xy_qlb"><lb/><hi rendition="#aq">Boethius</hi>, von den Ton-Arten, 55 <hi rendition="#aq">ſq.</hi> hat nichts
               <lb/>von der Lage des halben Tons. 59. bey ihm
               <lb/>macht des Klanges Erhoͤh- und Erniedrigung
@@ -330,9 +330,9 @@
               <lb/>ſchlecht geſchrieben, 12.</item>
             <item xml:id="reg_bontempi"><lb/><hi rendition="#aq">Bontempi</hi> irret, 102.</item>
             <item xml:id="reg_bottari" corresp="#bls_l2j_vlb"><lb/><hi rendition="#aq">Bottari</hi>, ein Componiſt, 388.</item>
-            <item xml:id="reg_b"><lb/><hi rendition="#b">B</hi>, <hi rendition="#aq">quadratum</hi>, ♮, wie es zu gebrauchen,
+            <item xml:id="reg_b" corresp="#t_aufloesungszeichen"><lb/><hi rendition="#b">B</hi>, <hi rendition="#aq">quadratum</hi>, ♮, wie es zu gebrauchen,
               <lb/>453. <hi rendition="#aq">ſq.</hi></item>
-            <item xml:id="reg_brechung"><lb/><hi rendition="#b">Brechung</hi>, der Accorde auf dem Clavier, 204.
+            <item xml:id="reg_brechung" corresp="#t_brechung"><lb/><hi rendition="#b">Brechung</hi>, der Accorde auf dem Clavier, 204.
               <lb/>205. 212. 244. 245. 249. 434. ſiehe <hi rendition="#aq #i">Har-</hi>
               <lb/><hi rendition="#aq #i">peggio</hi>, <hi rendition="#b">Baß-Veraͤnderungen</hi> &amp;c.</item>
             <item xml:id="reg_bryennius"><lb/><hi rendition="#aq">Bryennius</hi>, ein Griechiſcher Scribent, von den
@@ -345,7 +345,7 @@
           </list>
           <list>
             <head><lb/>C.</head>
-            <item xml:id="reg_c"><lb/><hi rendition="#b">C</hi>, das dreigeſtrichene, iſt nicht aus dem General-
+            <item xml:id="reg_c" corresp="#t_c_dreigestrichen"><lb/><hi rendition="#b">C</hi>, das dreigeſtrichene, iſt nicht aus dem General-
               <lb/>Baß zu verbannen, 349.</item>
             <item xml:id="reg_cadentzen"><lb/><hi rendition="#b">Cadentzen</hi>, oder Schluͤſſe in die Sept, Quart
               <lb/>und Secund, was davon zu halten, 233.</item>
@@ -361,12 +361,12 @@
               <lb/>160.</item>
             <item xml:id="reg_cambiate"><lb/><hi rendition="#aq">Cambiate</hi> <hi rendition="#aq #i">Note</hi>, verwechſelte Noten, ſiehe <hi rendition="#b">Noten</hi>.</item>
             <cb/>
-            <item xml:id="reg_canonische_art_zu_setzen"><lb/><hi rendition="#b">Canoniſche Art zu ſetzen</hi>, was ſie bedeute,
+            <item xml:id="reg_canonische_art_zu_setzen" corresp="#t_kanonischer_satz"><lb/><hi rendition="#b">Canoniſche Art zu ſetzen</hi>, was ſie bedeute,
               <lb/>355. 413.</item>
-            <item xml:id="reg_cantable"><lb/><hi rendition="#aq">Cantable</hi>, <hi rendition="#b">ſingbar</hi>, kann es die rechte Hand ma-
+            <item xml:id="reg_cantable" corresp="#t_kantabel"><lb/><hi rendition="#aq">Cantable</hi>, <hi rendition="#b">ſingbar</hi>, kann es die rechte Hand ma-
               <lb/>chen, wenn jemand allein ſpielet, 221. 241. 290.
               <lb/>328. 340. 364. 365. 428. 429. ſ. die Vorrede.</item>
-            <item xml:id="reg_cantaten_feinde"><lb/><hi rendition="#b">Cantaten-Feinde</hi>, 387. ſ. die Vorrede.</item>
+            <item xml:id="reg_cantaten_feinde" corresp="#t_kantatenfeinde"><lb/><hi rendition="#b">Cantaten-Feinde</hi>, 387. ſ. die Vorrede.</item>
             <item xml:id="reg_cantor_wahl"><lb/><hi rendition="#b">Cantor-Wahl</hi>, laͤcherliche, 32. ſ. die Vorrede.</item>
             <item xml:id="reg_capellen"><lb/><hi rendition="#b">Capellen</hi>, Lob der Braunſchweigiſchen, und eh-
               <lb/>mahligen Hannoͤverſchen ſo wol, als der itzigen
@@ -379,7 +379,7 @@
             <item xml:id="reg_cardanus"><lb/><hi rendition="#aq">Cardanus</hi>, was ein Organon ſey, 43. von der Hoͤ-
               <lb/>he und Tiefe des Klanges, 60. wird des Ehr-
               <lb/>geitzes beſchuldiget, 166.</item>
-            <item xml:id="reg_c_dur"><lb/><hi rendition="#b">C, dur</hi>, hat richtige Klang-Stuffen im diatoni-
+            <item xml:id="reg_c_dur" corresp="#t_c_dur"><lb/><hi rendition="#b">C, dur</hi>, hat richtige Klang-Stuffen im diatoni-
               <lb/>niſchen, 107. koͤmmt mit <hi rendition="#b">E</hi> und <hi rendition="#b">G</hi> uͤberein,
               <lb/>110. hat ein paar unrichtige Grade im chro-
               <lb/>matiſchen Geſchlecht, 134. 139. 141. Exem-
@@ -398,7 +398,7 @@
             <item xml:id="reg_circul"><lb/><hi rendition="#b">Circul</hi>, ein richtiger iſt unmuͤglich zu machen, 162.
               <lb/>der Quinten, wie er beſchaffen, 162. muſicali-
               <lb/>ſcher, 140.</item>
-            <item xml:id="reg_cis_dur"><lb/><hi rendition="#b">Cis, dur</hi>, wie es mit deſſen Klang-Ordnung be-
+            <item xml:id="reg_cis_dur" corresp="#t_cis_dur"><lb/><hi rendition="#b">Cis, dur</hi>, wie es mit deſſen Klang-Ordnung be-
               <lb/>ſtellet, 105. 107. 108. 109. 111. koͤmmt
               <fw type="catch" place="bottom">im</fw>
               <pb n="468" facs="#facs-p530"/>
@@ -407,11 +407,11 @@
               <lb/>im <hi rendition="#b">As dur</hi> vor, 249. Exempel davon, 296.
               <lb/>434. 438. laͤſſt ſich beſſer durch b <hi rendition="#b">D</hi>, als ✳ <hi rendition="#b">C</hi>,
               <lb/>ausdruͤcken 436.</item>
-            <item xml:id="reg_cis_moll"><lb/><hi rendition="#b">Cis, moll</hi> koͤmmt haͤuffig in andern Ton-Arten
+            <item xml:id="reg_cis_moll" corresp="#t_cis_moll"><lb/><hi rendition="#b">Cis, moll</hi> koͤmmt haͤuffig in andern Ton-Arten
               <lb/>zum Vorſchein, 229. 295. Exempel, 292.
               <lb/>430.</item>
             <item xml:id="reg_claves"><lb/><hi rendition="#aq">Claves</hi>, ſ. <hi rendition="#b">Schluͤſſel</hi>.</item>
-            <item xml:id="reg_clavier"><lb/><hi rendition="#b">Clavier</hi> iſt ein Organon, 43. von deſſen ver-
+            <item xml:id="reg_clavier" corresp="#t_klavier"><lb/><hi rendition="#b">Clavier</hi> iſt ein Organon, 43. von deſſen ver-
               <lb/>meynter Verbeſſerung, 395. 447. u. w.
               <lb/>ein commatiſches, 458. was davon zu hal-
               <lb/>ten, 461.</item>
@@ -420,23 +420,23 @@
             <item xml:id="reg_cleonides"><lb/><hi rendition="#b">Cleonides</hi>, wer er geweſen, 65. 66.</item>
             <item xml:id="reg_cluever"><lb/><hi rendition="#b">Cluͤver</hi> macht die Seele zur Harmonie, 63. legt
               <lb/>das Wort <hi rendition="#b">chromatiſch</hi> irrig aus, 83.</item>
-            <item xml:id="reg_c_moll"><lb/><hi rendition="#b">C, moll</hi>, Exempel, 234. 346.</item>
+            <item xml:id="reg_c_moll" corresp="#t_c_moll"><lb/><hi rendition="#b">C, moll</hi>, Exempel, 234. 346.</item>
             <item xml:id="reg_collegium_musicum"><lb/><hi rendition="#aq">Collegium Muſicum</hi>, ein ehemahls beruͤhmtes
               <lb/>in Leipzig, 173. in Franckfurt, 177.</item>
             <item xml:id="reg_come_sta"><lb/><hi rendition="#aq">Come ſtà</hi>, was es bedeutet, und wo es zu gebrau-
               <lb/>chen, 233. 241.</item>
-            <item xml:id="reg_commatische_eintheilung"><lb/><hi rendition="#b">Commatiſche Eintheilung</hi> der Klaͤnge, 89. 458.
+            <item xml:id="reg_commatische_eintheilung" corresp="#t_kommatische_einteilung"><lb/><hi rendition="#b">Commatiſche Eintheilung</hi> der Klaͤnge, 89. 458.
               <lb/>459. 462.</item>
-            <item xml:id="reg_componist"><lb/><hi rendition="#b">Componiſt</hi> iſt nicht gehalten, alles zu ſpielen,
+            <item xml:id="reg_componist" corresp="#t_komponist"><lb/><hi rendition="#b">Componiſt</hi> iſt nicht gehalten, alles zu ſpielen,
               <lb/>was er ſetzt, 442.</item>
-            <item xml:id="reg_componisten"><lb/><hi rendition="#b">Componiſten</hi>, etlicher Hochmuth, 386. tranſpo-
+            <item xml:id="reg_componisten" corresp="#t_komponist"><lb/><hi rendition="#b">Componiſten</hi>, etlicher Hochmuth, 386. tranſpo-
               <lb/>nirte, 82.</item>
             <item xml:id="reg_composition"><lb/><hi rendition="#b">Compoſition</hi> gehoͤrt zum General Baß, 9.</item>
-            <item xml:id="reg_concert"><lb/><hi rendition="#b">Concert</hi>, was dabey in acht zu nehmen, 463.
+            <item xml:id="reg_concert" corresp="#t_konzert"><lb/><hi rendition="#b">Concert</hi>, was dabey in acht zu nehmen, 463.
               <lb/>464.</item>
             <item xml:id="reg_conti" corresp="#ed_wrh_w5x_qlb"><lb/><hi rendition="#aq">Conti</hi> veraͤndert die Schluͤſſel offtmahls, 232.</item>
             <item xml:id="reg_continuo"><lb/><hi rendition="#aq">Continuo</hi>, ſ. <hi rendition="#aq #i">Baſſo</hi>.</item>
-            <item xml:id="reg_contra_puncte"><lb/><hi rendition="#b">Contra-Puncte</hi> und Gegen-Saͤtze, 325.</item>
+            <item xml:id="reg_contra_puncte" corresp="#t_kontrapunkt"><lb/><hi rendition="#b">Contra-Puncte</hi> und Gegen-Saͤtze, 325.</item>
             <item xml:id="reg_copisten"><lb/><hi rendition="#b">Copiſten</hi> verfahren unbedachtſam, 116.</item>
             <item xml:id="reg_crousaz"><lb/><hi rendition="#aq">Crouſaz</hi>, von den Ton-Arten, 72. von den halben
               <lb/>Tonen, oder <hi rendition="#aq">Mi, fa</hi>, 79. von den Lufft-Schlaͤ-
@@ -451,12 +451,12 @@
               <lb/>ral-Baß, 11.</item>
             <item xml:id="reg_dativus"><lb/><hi rendition="#aq">Dativus</hi>, welcher Geſtalt er die Leute zu Organi-
               <lb/>ſten mache, 38. 41.</item>
-            <item xml:id="reg_d_dur"><lb/><hi rendition="#b">D, dur</hi>, wie ſich ſeine Stuffen und Raͤume verhal-
+            <item xml:id="reg_d_dur" corresp="#t_d_dur"><lb/><hi rendition="#b">D, dur</hi>, wie ſich ſeine Stuffen und Raͤume verhal-
               <lb/>ten, 105. 107. 108. 109. 111. Exempel,
               <lb/>226. 336.</item>
             <item xml:id="reg_denckmahl"><lb/><hi rendition="#b">Denckmahl</hi>, ein Werck von zwoͤlff Clavier-Sui-
               <lb/>ten, braucht einer Verbeſſerung, 129.</item>
-            <item xml:id="reg_deutlichkeit"><lb/><hi rendition="#b">Deutlichkeit</hi> bey dem General-Baß, wie ſie zu
+            <item xml:id="reg_deutlichkeit" corresp="#t_deutlichkeit"><lb/><hi rendition="#b">Deutlichkeit</hi> bey dem General-Baß, wie ſie zu
               <lb/>befoͤrdern, 225. 229. im Lehren oder Unter-
               <lb/>richt, 409.</item>
             <item xml:id="reg_diatonisches_geschlecht"><lb/><hi rendition="#b">Diatoniſches Geſchlecht</hi>, 85. 104. u. ſ. w. iſt man-
@@ -476,13 +476,13 @@
             <item xml:id="reg_diazeugmenon"><lb/><hi rendition="#b">Diazeugmenon</hi>, erklaͤret 90.</item>
             <item xml:id="reg_didymus"><lb/><hi rendition="#aq">Didymus</hi>, was er erfunden hat, 92.</item>
             <item xml:id="reg_diesis"><lb/><hi rendition="#b">Dieſis</hi>, wird erklaͤret, 88. u. f.</item>
-            <item xml:id="reg_directores"><lb/><hi rendition="#b">Directores</hi> auf dem Chor, welche keinen Tact
+            <item xml:id="reg_directores" corresp="#t_direktoren"><lb/><hi rendition="#b">Directores</hi> auf dem Chor, welche keinen Tact
               <lb/>ſchlagen koͤnnen, 386. 387.</item>
-            <item xml:id="reg_dis_dur"><lb/><hi rendition="#b">Dis, dur</hi>, Unrichtigkeit dieſer Ton-Art, 105.
+            <item xml:id="reg_dis_dur" corresp="#t_dis_dur"><lb/><hi rendition="#b">Dis, dur</hi>, Unrichtigkeit dieſer Ton-Art, 105.
               <lb/><hi rendition="#aq">ſq.</hi> Exempel daraus, 242. 244. 360. koͤmmt
               <lb/>im <hi rendition="#b">H dur</hi> vor, 284.</item>
             <item xml:id="reg_disharmonie"><lb/><hi rendition="#b">Disharmonie</hi>, ein barbariſches Wort, 97.</item>
-            <item xml:id="reg_dis_moll"><lb/><hi rendition="#b">Dis, moll</hi>, Exempel, 254. 255. 378. koͤmmt im
+            <item xml:id="reg_dis_moll" corresp="#t_dis_moll"><lb/><hi rendition="#b">Dis, moll</hi>, Exempel, 254. 255. 378. koͤmmt im
               <lb/><hi rendition="#b">G moll</hi> und <hi rendition="#b">D dur</hi> zum Vorſchein, 229.
               <lb/>391.</item>
             <fw type="catch" place="bottom">Diſſo-</fw>
@@ -494,7 +494,7 @@
               <lb/>Muſic er gehoͤre, 70.</item>
             <item xml:id="reg_ditonus"><lb/><hi rendition="#b">Ditonus</hi>, die groſſe Tertz, 89. <hi rendition="#aq">incompoſitus</hi>,
               <lb/>e. d. war bey den Griechen uͤbelklingend, 92.</item>
-            <item xml:id="reg_doctor"><lb/><hi rendition="#b">Doctor</hi> der Muſic, 46. warum ſeine Kleidung
+            <item xml:id="reg_doctor" corresp="#t_doktor_der_musik"><lb/><hi rendition="#b">Doctor</hi> der Muſic, 46. warum ſeine Kleidung
               <lb/>in Engeland ſo bunt ſeyn muß, 374.</item>
             <item xml:id="reg_dodecachordon"><lb/><hi rendition="#b">Dodecachordon</hi>, was es ſey, 156.</item>
             <item xml:id="reg_donart"><lb/><hi rendition="#aq">Donart</hi>, von der kuͤnſtlich-eingetheilten menſchli-
@@ -506,11 +506,11 @@
               <lb/>mitonio, 92. von der Eintheilung des Claviers,
               <lb/>448. wieder Zarlin, 461.</item>
             <item xml:id="reg_doentjen"><lb/><hi rendition="#b">Doͤntjen</hi>, woher das Wort komme, 75.</item>
-            <item xml:id="reg_dorff_organisten"><lb/><hi rendition="#b">Dorff-Organiſten</hi>, was ſie fuͤr ihren Leib-Ton
+            <item xml:id="reg_dorff_organisten" corresp="#t_dorforganisten"><lb/><hi rendition="#b">Dorff-Organiſten</hi>, was ſie fuͤr ihren Leib-Ton
               <lb/>halten, 449.</item>
-            <item xml:id="reg_druck_noten"><lb/><hi rendition="#b">Druck-Noten</hi>, Klage uͤber derſelben Unfoͤrm-
+            <item xml:id="reg_druck_noten" corresp="#t_drucknoten"><lb/><hi rendition="#b">Druck-Noten</hi>, Klage uͤber derſelben Unfoͤrm-
               <lb/>lichkeit, 315.</item>
-            <item xml:id="reg_durchgang"><lb/><hi rendition="#b">Durchgang</hi> der Noten, auſſerordentlicher, 413.</item>
+            <item xml:id="reg_durchgang" corresp="#t_durchgang"><lb/><hi rendition="#b">Durchgang</hi> der Noten, auſſerordentlicher, 413.</item>
             <item xml:id="reg_dystaltice"><lb/><hi rendition="#b">Dyſtaltice</hi>, was es ſey, 69.</item>
           </list>
           <list>
@@ -518,7 +518,7 @@
             <item xml:id="reg_ebner"><lb/><hi rendition="#b">Ebner</hi>, Wolffgang, hat vom General-Baß ge-
               <lb/>ſchrieben, 14.</item>
             <item xml:id="reg_eden"><lb/><hi rendition="#b">Eden</hi>, das muſicaliſche, wo es iſt, 46.</item>
-            <item xml:id="reg_e_dur"><lb/><hi rendition="#b">E, dur</hi>, die Ton-Art, Richtigkeit bey derſelben,
+            <item xml:id="reg_e_dur" corresp="#t_e_dur"><lb/><hi rendition="#b">E, dur</hi>, die Ton-Art, Richtigkeit bey derſelben,
               <lb/>108. wie ſie im chromatiſchen Geſchlechte vom
               <lb/><hi rendition="#b">C</hi> unterſchieden, 143. Exempel daraus, 270.
               <lb/>396. 405.</item>
@@ -531,9 +531,9 @@
             <cb/>
             <item xml:id="reg_elemente"><lb/><hi rendition="#b">Elemente</hi> der Muſic, 100. der Ton-Arten,
               <lb/>53. 54.</item>
-            <item xml:id="reg_e_moll"><lb/><hi rendition="#b">E, moll</hi>, Exempel daraus, 114. 320.</item>
+            <item xml:id="reg_e_moll" corresp="#t_e_moll"><lb/><hi rendition="#b">E, moll</hi>, Exempel daraus, 114. 320.</item>
             <item xml:id="reg_emphasis"><lb/><hi rendition="#aq">Emphaſis</hi>, ſ. <hi rendition="#b">Nachdruck</hi>.</item>
-            <item xml:id="reg_enharmonisches_geschlecht"><lb/><hi rendition="#b">Enharmoniſches Geſchlecht</hi>, 85. auf welche
+            <item xml:id="reg_enharmonisches_geschlecht" corresp="#t_enharmonisches_geschlecht"><lb/><hi rendition="#b">Enharmoniſches Geſchlecht</hi>, 85. auf welche
               <lb/>Art wir es gebrauchen, 68. iſt uͤberlaͤſtig, 85.
               <lb/>94. 95. wie viel Stuffen es in einer Quart
               <lb/>aufweiſet, 93.</item>
@@ -548,9 +548,9 @@
               <lb/><hi rendition="#aq">ſito</hi>, 90. von den Bedeutungen des Worts
               <lb/><hi rendition="#b">Ton</hi>, 75. von der Verſetzung aus einem Ton
               <lb/>in den andern, 114.</item>
-            <item xml:id="reg_exempel"><lb/><hi rendition="#b">Exempel</hi> im enharmoniſchen Geſchlecht, von
+            <item xml:id="reg_exempel" corresp="#t_enharmonisches_geschlecht"><lb/><hi rendition="#b">Exempel</hi> im enharmoniſchen Geſchlecht, von
               <lb/>wem ſie geſetzt worden, 460.</item>
-            <item xml:id="reg_ex_tempore"><lb/><hi rendition="#aq">Ex tempore</hi>, wie darauf gepochet wird, 345. 442.
+            <item xml:id="reg_ex_tempore" corresp="#t_ex_tempore"><lb/><hi rendition="#aq">Ex tempore</hi>, wie darauf gepochet wird, 345. 442.
               <lb/>wie das Pochen zu maͤſſigen, 346. 443.</item>
           </list>
           <list>
@@ -563,8 +563,8 @@
             <item xml:id="reg_fabricius_2"><lb/><hi rendition="#aq">Fabricius</hi>, <hi rendition="#b">Werner</hi>, ſchreibt vom General-Baß,
               <lb/>13.</item>
             <item xml:id="reg_fa_mi"><lb/><hi rendition="#aq">Fa, mi</hi>, oder <hi rendition="#aq #i">fammi</hi>, was es heiſſe, 103.</item>
-            <item xml:id="reg_faustfertigkeit"><lb/><hi rendition="#b">Fauſtfertigkeit</hi>, wird erfordert, 338. 344. 433.</item>
-            <item xml:id="reg_f_dur"><lb/><hi rendition="#b">F, dur</hi>, von deſſen Unrichtigkeit, 105. biß 111. wie
+            <item xml:id="reg_faustfertigkeit" corresp="#t_fingerfertigkeit"><lb/><hi rendition="#b">Fauſtfertigkeit</hi>, wird erfordert, 338. 344. 433.</item>
+            <item xml:id="reg_f_dur" corresp="#t_f_dur"><lb/><hi rendition="#b">F, dur</hi>, von deſſen Unrichtigkeit, 105. biß 111. wie
               <lb/>es im diatoniſchen mit <hi rendition="#b">A</hi> uͤbereinkoͤmmt, 110.
               <lb/>wie es im chromatiſchen vom <hi rendition="#b">A</hi> unterſchieden
               <lb/>iſt, 143. Exempel daraus, 222. 330.</item>
@@ -577,15 +577,15 @@
             <item xml:id="reg_finger_ordnung"><lb/><hi rendition="#b">Finger-Ordnung</hi>, ſ. <hi rendition="#aq">Applicatio</hi>.</item>
             <item xml:id="reg_fingirtes"><lb/><hi rendition="#b">Fingirtes</hi> iſt nicht im Klange, wol aber in der
               <lb/>Solmiſation, 81.</item>
-            <item xml:id="reg_fis_dur"><lb/><hi rendition="#b">Fis, dur</hi>, iſt unrichtig zuſammen gefuͤget, 106.
+            <item xml:id="reg_fis_dur" corresp="#t_fis_dur"><lb/><hi rendition="#b">Fis, dur</hi>, iſt unrichtig zuſammen gefuͤget, 106.
               <lb/>107. 108. 109. 111. hat in einigen Stuͤcken
               <lb/>einen gleichen Verhalt mit <hi rendition="#b">B</hi>, e. d. Exempel
               <lb/>oder Prob-Stuͤcke daraus, 286. 426.</item>
-            <item xml:id="reg_fis_moll"><lb/><hi rendition="#b">Fis, moll</hi>, Prob-Stuͤcke daraus, 274. 410. ſoll
+            <item xml:id="reg_fis_moll" corresp="#t_fis_moll"><lb/><hi rendition="#b">Fis, moll</hi>, Prob-Stuͤcke daraus, 274. 410. ſoll
               <lb/>ein rarer Ton ſeyn, 413. was fuͤr Sachen man
               <lb/>gerne aus dieſem Ton ſetzet, 277.</item>
             <item xml:id="reg_floeten"><lb/><hi rendition="#b">Floͤten</hi>, wurden vor Alters umgewechſelt, 59.</item>
-            <item xml:id="reg_f_moll"><lb/><hi rendition="#b">F, moll</hi>, Exempel daraus, 238. 352.</item>
+            <item xml:id="reg_f_moll" corresp="#t_f_moll"><lb/><hi rendition="#b">F, moll</hi>, Exempel daraus, 238. 352.</item>
             <item xml:id="reg_follian" corresp="#ed_o3z_5hy_qlb"><lb/><hi rendition="#b">Follian</hi>, Lud. ein Jtaliaͤniſcher Muſic-Scribent,
               <lb/>wird Jrrthuͤmer uͤberfuͤhrt, 461.</item>
             <item xml:id="reg_frage"><lb/><hi rendition="#b">Frage</hi>, wegen der Verſetzung aus einem Ton in
@@ -597,13 +597,13 @@
               <lb/>8. Ton-Arten behaupten, 77.</item>
             <item xml:id="reg_franckreich"><lb/><hi rendition="#b">Franckreich</hi>, was ein Muſicus da hohlen koͤn-
               <lb/>ne, 46.</item>
-            <item xml:id="reg_frantzosen"><lb/><hi rendition="#b">Frantzoſen</hi>, ihr Fleiß, und andere gute Eigen-
+            <item xml:id="reg_frantzosen" corresp="#t_franzosen"><lb/><hi rendition="#b">Frantzoſen</hi>, ihr Fleiß, und andere gute Eigen-
               <lb/>ſchafften im Spielen und muſiciren, 384. ihr
               <lb/>Tact-Zanck, 385. 386.</item>
-            <item xml:id="reg_fugen"><lb/><hi rendition="#b">Fugen</hi>, in einem Stuͤck, ob ſie auf dem Clavier
+            <item xml:id="reg_fugen" corresp="#t_fugen"><lb/><hi rendition="#b">Fugen</hi>, in einem Stuͤck, ob ſie auf dem Clavier
               <lb/>nachzuahmen, 351.</item>
             <item xml:id="reg_fugen_satz"><lb/><hi rendition="#b">Fugen-Satz</hi>, wird erlaͤutert, 38. 222. 225.</item>
-            <item xml:id="reg_fuersten"><lb/><hi rendition="#b">Fuͤrſten</hi>, ſchreiben Buͤcher von der Muſic, 85.
+            <item xml:id="reg_fuersten" corresp="#t_fuersten"><lb/><hi rendition="#b">Fuͤrſten</hi>, ſchreiben Buͤcher von der Muſic, 85.
               <lb/>und componiren Sachen zum Druck in
               <lb/>Kupffer, 409.</item>
           </list>
@@ -614,30 +614,30 @@
               <lb/>Klang-Geſchlechtern, 57. von der gleich-ſchwe-
               <lb/>benden Temperatur, 164.</item>
             <cb/>
-            <item xml:id="reg_galoppiren"><lb/><hi rendition="#b">Galoppiren</hi>, wird den Fingern beigeleget, 418.</item>
+            <item xml:id="reg_galoppiren" corresp="#t_galoppieren"><lb/><hi rendition="#b">Galoppiren</hi>, wird den Fingern beigeleget, 418.</item>
             <item xml:id="reg_gasparini"><lb/><hi rendition="#aq">Gaſparini</hi>, vom General-Baß, 13.</item>
             <item xml:id="reg_gaudentius"><lb/><hi rendition="#aq">Gaudentius</hi>, von Beſchaffenheit der Ton-Ar-
               <lb/>ten, 35.</item>
             <item xml:id="reg_gavotte"><lb/><hi rendition="#b">Gavotte</hi>, wird kein Menuet durch die Verſe-
               <lb/>tzung, 117.</item>
-            <item xml:id="reg_g_dur"><lb/><hi rendition="#b">G, dur</hi>, von der Richtigkeit ſeiner Stuffen im dia-
+            <item xml:id="reg_g_dur" corresp="#t_g_dur"><lb/><hi rendition="#b">G, dur</hi>, von der Richtigkeit ſeiner Stuffen im dia-
               <lb/>toniſchen Geſchlecht, 109. 110. <hi rendition="#b">Bartoli</hi>
               <lb/>Meynung von dieſem Ton, 232. <hi rendition="#b">St. Lam-</hi>
               <lb/><hi rendition="#b">berts</hi> Gedancken daruͤber, 343. Exempel
               <lb/>daraus, 230. 340.</item>
-            <item xml:id="reg_gehoer"><lb/><hi rendition="#b">Gehoͤr</hi>, wird thoͤrichter Weiſe hindangeſetzet, 2.
+            <item xml:id="reg_gehoer" corresp="#t_gehoer"><lb/><hi rendition="#b">Gehoͤr</hi>, wird thoͤrichter Weiſe hindangeſetzet, 2.
               <lb/>16. 17. 21. 118. 119. Schwachheit deſſel-
               <lb/>ben muß nicht beſpottet werden, 47. iſt Ober-
               <lb/>Richter, 163. laͤſſt gewiſſer Maſſen mit ſich
               <lb/>handeln, 449.</item>
-            <item xml:id="reg_geiger"><lb/><hi rendition="#b">Geiger</hi>, frantzoͤſiſche, 385.</item>
+            <item xml:id="reg_geiger" corresp="#t_geiger"><lb/><hi rendition="#b">Geiger</hi>, frantzoͤſiſche, 385.</item>
             <item xml:id="reg_geistliche"><lb/><hi rendition="#b">Geiſtliche</hi>, ſ. <hi rendition="#b">Gottesgelehrte</hi>.</item>
             <item xml:id="reg_gelehrte"><lb/><hi rendition="#b">Gelehrte</hi>, ſetzen die Muſic aus den Augen, 12.
               <lb/>182. 183.</item>
             <item xml:id="reg_gellius"><lb/><hi rendition="#aq">Gellius</hi>, vom Ariſtoxeno, 61.</item>
             <item xml:id="reg_gemueths_bewegungen"><lb/><hi rendition="#b">Gemuͤths-Bewegungen</hi> erfordern mehr, als
               <lb/>eine bloſſe Octaven-Gattung, 71.</item>
-            <item xml:id="reg_general_bass"><lb/><hi rendition="#b">General-Baß</hi>, ſein Vorzug, 8. wie er von Stuͤm-
+            <item xml:id="reg_general_bass" corresp="#t_generalbass"><lb/><hi rendition="#b">General-Baß</hi>, ſein Vorzug, 8. wie er von Stuͤm-
               <lb/>pern verachtet wird, 9. 31. zwey und zwantzig
               <lb/>Verfaſſer, die Buͤcher davon geſchrieben ha-
               <lb/>ben, 10. u. ſ. w. wer ihn erfunden, 12. was er
@@ -665,16 +665,16 @@
               <lb/>16. 17.</item>
             <item xml:id="reg_gesichter"><lb/><hi rendition="#b">Geſichter</hi>, menſchliche, werden mit den Ton-Ar-
               <lb/>ten verglichen, 132.</item>
-            <item xml:id="reg_geschwindigkeit"><lb/><hi rendition="#b">Geſchwindigkeit</hi>, was dabey zu erinnern, 338.
+            <item xml:id="reg_geschwindigkeit" corresp="#t_geschwindigkeit"><lb/><hi rendition="#b">Geſchwindigkeit</hi>, was dabey zu erinnern, 338.
               <lb/>warum ſie im General-Baß ſeyn muß, 433. ſ.
               <lb/><hi rendition="#b">Fauſtfertigkeit</hi>.</item>
             <item xml:id="reg_gewebe"><lb/><hi rendition="#b">Gewebe</hi>, mit den Klaͤngen verglichen, 159. 160.</item>
             <item xml:id="reg_gibelius"><lb/><hi rendition="#aq">Gibelius</hi>, vom Unterſchied eines Muſici und Saͤn-
               <lb/>gers, 96. von der Ton Verſetzung, 113. vom
               <lb/>Tactſchlagen, 284. 285.</item>
-            <item xml:id="reg_gis_dur"><lb/><hi rendition="#b">Gis, dur</hi>, deſſen unrichtige Klang-Stuffen, 106.
+            <item xml:id="reg_gis_dur" corresp="#t_gis_dur"><lb/><hi rendition="#b">Gis, dur</hi>, deſſen unrichtige Klang-Stuffen, 106.
               <lb/>u. ſ. w. Exempel, 246. 249. 366.</item>
-            <item xml:id="reg_gis_moll"><lb/><hi rendition="#b">Gis, moll</hi>, Exempel daraus, 262. 355. 392.
+            <item xml:id="reg_gis_moll" corresp="#t_gis_moll"><lb/><hi rendition="#b">Gis, moll</hi>, Exempel daraus, 262. 355. 392.
               <lb/>398. koͤmmt im <hi rendition="#b">D</hi>, <hi rendition="#b">E</hi>, und <hi rendition="#b">H dur</hi> auch offt
               <lb/>zum Vorſchein, 229. 284. 398. warum dieſe
               <lb/>Ton-Art auf zweierley Weiſe notiret werden
@@ -689,7 +689,7 @@
             <item xml:id="reg_gleichheit"><lb/><hi rendition="#b">Gleichheit</hi>, wird offt zu weit geſucht, 132. iſt
               <lb/>nicht der Zweck bey Einrichtung der Klaͤnge,
               <lb/>164.</item>
-            <item xml:id="reg_g_moll"><lb/><hi rendition="#b">G, moll</hi>, Exempel, 206. 308.</item>
+            <item xml:id="reg_g_moll" corresp="#t_g_moll"><lb/><hi rendition="#b">G, moll</hi>, Exempel, 206. 308.</item>
             <item xml:id="reg_gottes_gelahrte"><lb/><hi rendition="#b">Gottes-gelahrte</hi>, ſollen Muſic verſtehen, 30.
               <lb/>verfolgen ſie, 183.</item>
             <item xml:id="reg_grad"><lb/><hi rendition="#b">Grad</hi>, was es ſey, 52. was es fuͤr Nutzen ſchafft,
@@ -699,18 +699,18 @@
               <cb/>
               <lb/>ſich alle in einer Zeile anbringen, 127. 128. 129.
               <lb/>ſind alle zwoͤlff nothwendig, 129.</item>
-            <item xml:id="reg_gravecembalum"><lb/><hi rendition="#aq">Gravecembalum</hi>, 460.</item>
+            <item xml:id="reg_gravecembalum" corresp="#t_cembalo"><lb/><hi rendition="#aq">Gravecembalum</hi>, 460.</item>
             <item xml:id="reg_gravitas_acumen"><lb/><hi rendition="#aq">Gravitas &amp; acumen</hi>, ſ. <hi rendition="#b">Hoͤhe und Tiefe</hi>.</item>
             <item xml:id="reg_graupners" corresp="#ed_md2_fmx_qlb"><lb/><hi rendition="#b">Graupners</hi> Hand-Sachen werden angeprieſen,
               <lb/>345.</item>
             <item xml:id="reg_gross_sprecher"><lb/><hi rendition="#b">Groß-Sprecher</hi>, ihre Eigenſchafften, 184.</item>
-            <item xml:id="reg_grillenfaengerey"><lb/><hi rendition="#b">Grillenfaͤngerey</hi>, was man mit Unrecht ſo nen-
+            <item xml:id="reg_grillenfaengerey" corresp="#t_grillenfaengerei"><lb/><hi rendition="#b">Grillenfaͤngerey</hi>, was man mit Unrecht ſo nen-
               <lb/>net, 457.</item>
-            <item xml:id="reg_grund_noten"><lb/><hi rendition="#b">Grund-Noten</hi>, 233. 334. 335.</item>
+            <item xml:id="reg_grund_noten" corresp="#t_grundnoten"><lb/><hi rendition="#b">Grund-Noten</hi>, 233. 334. 335.</item>
           </list>
           <list>
             <head><lb/>H.</head>
-            <item xml:id="reg_hacken"><lb/><hi rendition="#b">Hacken</hi>, mit beiden Haͤnden auf dem Clavier, wo
+            <item xml:id="reg_hacken" corresp="#t_hacken"><lb/><hi rendition="#b">Hacken</hi>, mit beiden Haͤnden auf dem Clavier, wo
               <lb/>es zu ſpahren, 237. 422. wo es gewiſſer
               <lb/>maſſen noͤthig, 209. 225. 355. ſ. <hi rendition="#b">Synco-</hi>
               <lb/><hi rendition="#b">piren</hi>.</item>
@@ -719,19 +719,19 @@
               <lb/>44. 45.</item>
             <item xml:id="reg_hammerschmidt" corresp="#ed_svf_qhy_qlb"><lb/><hi rendition="#b">Hammerſchmidt</hi>, hat undeutlich componiret,
               <lb/>387. ſ. <hi rendition="#b">Vorrede an den Leſer</hi>.</item>
-            <item xml:id="reg_hand"><lb/><hi rendition="#b">Hand</hi>, die rechte, wo ſie nichts machen darff, 433.
+            <item xml:id="reg_hand" corresp="#t_rechte_hand"><lb/><hi rendition="#b">Hand</hi>, die rechte, wo ſie nichts machen darff, 433.
               <lb/>ſ. <hi rendition="#b">Auszierung</hi>.</item>
-            <item xml:id="reg_hand_sachen"><lb/><hi rendition="#b">Hand-Sachen</hi>, Frantzoͤſiſche und andre werden
+            <item xml:id="reg_hand_sachen" corresp="#t_handsachen"><lb/><hi rendition="#b">Hand-Sachen</hi>, Frantzoͤſiſche und andre werden
               <lb/>angeprieſen, 338. 344.</item>
             <item xml:id="reg_harmonia"><lb/><hi rendition="#aq">Harmonia</hi>, ſo wird das enharmoniſche Geſchlecht
               <lb/>genennet, 82.</item>
-            <item xml:id="reg_harmonie"><lb/><hi rendition="#b">Harmonie</hi> zieren und ausfuͤllen, 344. wird zum
+            <item xml:id="reg_harmonie" corresp="#t_harmonie"><lb/><hi rendition="#b">Harmonie</hi> zieren und ausfuͤllen, 344. wird zum
               <lb/>Weſen der Seele gemacht, 63. 64.</item>
             <item xml:id="reg_harmonicalisches_wesen"><lb/><hi rendition="#b">Harmonicaliſches Weſen</hi>, wie es vom muſica-
               <lb/>liſchen zu unterſcheiden, 118. 119. 148. 149.</item>
             <item xml:id="reg_harmonisches_denckmahl" corresp="#ed_cx1_yqx_slb"><lb/><hi rendition="#b">Harmoniſches Denckmahl</hi>, Vorwuͤrffe dar-
               <lb/>uͤber, 443.</item>
-            <item xml:id="reg_harpeggio"><lb/><hi rendition="#aq">Harpeggio</hi>, 217. 244. 245. 249. 277. 299.
+            <item xml:id="reg_harpeggio" corresp="#t_arpeggio"><lb/><hi rendition="#aq">Harpeggio</hi>, 217. 244. 245. 249. 277. 299.
               <lb/>307. 312. 313. 314. 319. 350. 351. 365.
               <lb/>376. <hi rendition="#aq">ſq.</hi> 380. 418. 424.</item>
             <item xml:id="reg_hase"><lb/><hi rendition="#b">Haſe</hi>, Wolffgang, gegen das <hi rendition="#aq #i">Mi</hi>, <hi rendition="#aq #i">fa</hi>, 103.</item>
@@ -741,7 +741,7 @@
             <pb n="472" facs="#facs-p534"/>
             <fw type="pageNum" place="top">472</fw>
             <fw type="header" place="top">( o )</fw>
-            <item xml:id="reg_h_dur"><lb/><hi rendition="#b">H, dur</hi>, Unrichtigkeit ſeiner Gaͤnge, 106. u. ſ. w.
+            <item xml:id="reg_h_dur" corresp="#t_h_dur"><lb/><hi rendition="#b">H, dur</hi>, Unrichtigkeit ſeiner Gaͤnge, 106. u. ſ. w.
               <lb/>Exempel, 282. 421. 425.</item>
             <item xml:id="reg_heinchen" corresp="#ed_qr2_hxx_qlb"><lb/><hi rendition="#b">Heinchen</hi>, ſteht unter den Scribenten vom Ge-
               <lb/>neral-Baß oben an, 9. 10. ſeine Gedancken
@@ -750,7 +750,7 @@
               <lb/>rung, 289. 290.</item>
             <item xml:id="reg_heiligkeit"><lb/><hi rendition="#b">Heiligkeit</hi>, aͤuſerliche, der Kirchen-Patronen,
               <lb/>waͤhrt nicht lange, 42.</item>
-            <item xml:id="reg_hemitonia"><lb/><hi rendition="#aq">Hemitonia</hi>, was ſie ſind, 88. 89. klingen alle
+            <item xml:id="reg_hemitonia" corresp="#t_halbtoene"><lb/><hi rendition="#aq">Hemitonia</hi>, was ſie ſind, 88. 89. klingen alle
               <lb/>falſch, lahm und matt, wenn ſie von gleicher
               <lb/>Groͤſſe ſind, 144. 145. machen nur den drit-
               <lb/>ten Theil der Elemente in der Octave aus, 100.
@@ -788,7 +788,7 @@
               <lb/>den Temperatur, 130. 164. ſeine Eintheilung
               <lb/>des Claviers, 448. von der Temperatur durch
               <lb/>Zwoͤlfftel, 461.</item>
-            <item xml:id="reg_hertzogliche_personen"><lb/><hi rendition="#b">Hertzogliche Perſonen</hi> ſchreiben muſicaliſche
+            <item xml:id="reg_hertzogliche_personen" corresp="#t_fuersten"><lb/><hi rendition="#b">Hertzogliche Perſonen</hi> ſchreiben muſicaliſche
               <lb/>Sachen, 85. 409.</item>
             <item xml:id="reg_hieronymus"><lb/><hi rendition="#b">Hieronymus</hi>, St. ruͤhmt Ariſtoxenum, 61.</item>
             <item xml:id="reg_hintz_oder_kuntz"><lb/><hi rendition="#b">Hintz oder Kuntz</hi>, Sinn-Gedicht darauf, 8.</item>
@@ -797,7 +797,7 @@
               <lb/>99.</item>
             <item xml:id="reg_histoire_de_la_musique"><lb/><hi rendition="#aq">Hiſtoire de la Muſique</hi>, eines ungenannten, vom
               <lb/>chromatiſchen Geſchlecht, 83.</item>
-            <item xml:id="reg_h_moll"><lb/><hi rendition="#b">H, moll</hi>, Exempel, 278. 414.</item>
+            <item xml:id="reg_h_moll" corresp="#t_h_moll"><lb/><hi rendition="#b">H, moll</hi>, Exempel, 278. 414.</item>
             <item xml:id="reg_hochzeit_lieder"><lb/><hi rendition="#b">Hochzeit-Lieder</hi>, aus einerley Ton mit den Be-
               <lb/>graͤbniß-Geſaͤngen, 73.</item>
             <item xml:id="reg_hoehe_und_tiefe"><lb/><hi rendition="#b">Hoͤhe und Tiefe</hi> des Klanges hat gar viel zu be-
@@ -815,7 +815,7 @@
             <item xml:id="reg_ja_brueder"><lb/><hi rendition="#b">Ja-Bruͤder</hi>, thun der Muſic Schaden, 41.</item>
             <item xml:id="reg_jgnorant"><lb/><hi rendition="#b">Jgnorant</hi> will im Amt eben ſo viel gelten, als ein
               <lb/>Virtuoſe, 42.</item>
-            <item xml:id="reg_imitatio"><lb/><hi rendition="#aq">Imitatio</hi>, Nachahmung mit der rechten Hand, 216.
+            <item xml:id="reg_imitatio" corresp="#t_imitation"><lb/><hi rendition="#aq">Imitatio</hi>, Nachahmung mit der rechten Hand, 216.
               <lb/>241. wie weit ſie gut zu heiſſen iſt, 351.</item>
             <item xml:id="reg_jnhalt"><lb/><hi rendition="#b">Jnhalt</hi> einer Schrifft, wie er am beſten vorzuſtel-
               <lb/>len, 188. u. ſ. w.</item>
@@ -823,14 +823,14 @@
             <pb n="473" facs="#facs-p535"/>
             <fw type="header" place="top">( o )</fw>
             <fw type="pageNum" place="top">473</fw>
-            <item xml:id="reg_jnformiren"><lb/><hi rendition="#b">Jnformiren</hi>, ob man dabey allezeit ſeine eigene
+            <item xml:id="reg_jnformiren" corresp="#t_unterricht"><lb/><hi rendition="#b">Jnformiren</hi>, ob man dabey allezeit ſeine eigene
               <lb/>Arbeit gebrauchen ſoll, 338.</item>
             <item xml:id="reg_jnstrumente"><lb/><hi rendition="#b">Jnſtrumente</hi>, einige ſuchen die alten Modos
               <lb/>darin, 74. ein Componiſt muß ſelbſt auf den
               <lb/>meiſten ſpielen koͤnnen, 172.</item>
-            <item xml:id="reg_jnstrumentalist"><lb/><hi rendition="#b">Jnſtrumentaliſt</hi>, muß die Singe-Kunſt verſte-
+            <item xml:id="reg_jnstrumentalist" corresp="#t_instrumentalist"><lb/><hi rendition="#b">Jnſtrumentaliſt</hi>, muß die Singe-Kunſt verſte-
               <lb/>hen, 329.</item>
-            <item xml:id="reg_jntervalle"><lb/><hi rendition="#b">Jntervalle</hi> ſind nicht nach den aͤuſerlichen Zei-
+            <item xml:id="reg_jntervalle" corresp="#t_intervalle"><lb/><hi rendition="#b">Jntervalle</hi> ſind nicht nach den aͤuſerlichen Zei-
               <lb/>chen, ſondern nach dem innerlichen Verhalt zu
               <lb/>beurtheilen, 103. 104. werden voͤllig und rich-
               <lb/>tig beſchrieben, 104. wie viel derſelben ge-
@@ -867,10 +867,10 @@
               <lb/>Klaͤnge Unterſchied beſtehet, 158. wie ſich einer
               <lb/>gegen den andern verhaͤlt, 159. Der eine be-
               <lb/>wegt mehr, als der andre, 159. 160.</item>
-            <item xml:id="reg_kleinigkeiten"><lb/><hi rendition="#b">Kleinigkeiten</hi>, mit dieſen Worten wollen die
+            <item xml:id="reg_kleinigkeiten" corresp="#t_kleinigkeiten"><lb/><hi rendition="#b">Kleinigkeiten</hi>, mit dieſen Worten wollen die
               <lb/>Stuͤmper viele Fehler entſchuldigen, 294.
               <lb/>457. 458.</item>
-            <item xml:id="reg_kreutz"><lb/><hi rendition="#b">Kreutz</hi>, vor der Note, einfaches, doppeltes und
+            <item xml:id="reg_kreutz" corresp="#t_kreuz"><lb/><hi rendition="#b">Kreutz</hi>, vor der Note, einfaches, doppeltes und
               <lb/>zwiefach-doppeltes, 255. 436. 440. die Note,
               <lb/>vor welcher es ſtehet, will die kleine Tertz haben,
               <lb/>257. Muthmaſſung von deſſelben Erfindung,
@@ -897,7 +897,7 @@
               <lb/>den Zeichen verfaͤhrt, 456. von Verbraͤmung
               <lb/>des General-Baſſes zur Unzeit, 463.</item>
             <item xml:id="reg_lasus"><lb/><hi rendition="#aq">Laſus</hi>, der erſte muſicaliſche Schrifftſteller, 60.</item>
-            <item xml:id="reg_leben"><lb/><hi rendition="#b">Leben</hi> der Noten-Wercke iſt kurtz, 444.</item>
+            <item xml:id="reg_leben" corresp="#t_lebensdauer_von_notenwerken"><lb/><hi rendition="#b">Leben</hi> der Noten-Wercke iſt kurtz, 444.</item>
             <item xml:id="reg_lebens_beschreibungen"><lb/><hi rendition="#b">Lebens-Beſchreibungen</hi>, welche zur muſica-
               <lb/>liſchen Ehren-Pforte vorhanden ſind, und wel-
               <lb/>che man noch verlangt, 163. ein gutes Muſter,
@@ -937,7 +937,7 @@
             <item xml:id="reg_majer" corresp="#ed_esw_kxx_qlb"><lb/><hi rendition="#b">Majer</hi>, von den muſicaliſchen Zeichen, 375.</item>
             <item xml:id="reg_majoragius"><lb/><hi rendition="#b">Majoragius</hi>, von den Ton-Arten, 71.</item>
             <item xml:id="reg_mangel_an_zeichen"><lb/><hi rendition="#b">Mangel an Zeichen</hi>, ſ. <hi rendition="#b">Signaturen</hi>.</item>
-            <item xml:id="reg_manieren"><lb/><hi rendition="#b">Manieren</hi>, wo ſie ſich nicht ſchicken, 236. 241.
+            <item xml:id="reg_manieren" corresp="#t_manieren"><lb/><hi rendition="#b">Manieren</hi>, wo ſie ſich nicht ſchicken, 236. 241.
               <lb/>248. 290. 291. wo ſie ſich wol ſchicken, 264.
               <lb/>280. 428. in der lincken Hand, 264. 413.
               <lb/>in der rechten, 299. 306. 307. 328. 375. 418.
@@ -951,9 +951,9 @@
               <lb/>ſchaffen, 148. 149. 150.</item>
             <item xml:id="reg_meibom" corresp="#ed_rkl_p3j_vlb"><lb/><hi rendition="#b">Meibom</hi>, Marcus, von den Klang-Geſchlech-
               <lb/>tern, 57. vom Ariſtoxeno, 61.</item>
-            <item xml:id="reg_meister"><lb/><hi rendition="#b">Meiſter</hi> von groſſer Einbildung, wie ſie zu pruͤ-
+            <item xml:id="reg_meister" corresp="#t_meister"><lb/><hi rendition="#b">Meiſter</hi> von groſſer Einbildung, wie ſie zu pruͤ-
               <lb/>fen, 441.</item>
-            <item xml:id="reg_melodie"><lb/><hi rendition="#b">Melodie</hi> hilfft viel zum General-Baß, 344.</item>
+            <item xml:id="reg_melodie" corresp="#t_melodie"><lb/><hi rendition="#b">Melodie</hi> hilfft viel zum General-Baß, 344.</item>
             <item xml:id="reg_menschen_stimme"><lb/><hi rendition="#b">Menſchen-Stimme</hi>, ein Wunder, 156. 157.</item>
             <item xml:id="reg_menuet"><lb/><hi rendition="#b">Menuet</hi>, in deſſen Helffte alle Klaͤnge ſind, 129.</item>
             <item xml:id="reg_mersennus" corresp="#ed_kyg_jgy_qlb"><lb/><hi rendition="#aq">Merſennus</hi>, klaget uͤber die Unwiſſenheit der Mu-
@@ -1033,15 +1033,15 @@
           <list>
             <head><lb/>N.</head>
             <item xml:id="reg_nachahmung"><lb/><hi rendition="#b">Nachahmung</hi>, ſ. <hi rendition="#aq #i">Imitatio</hi>.</item>
-            <item xml:id="reg_nachdruck"><lb/><hi rendition="#b">Nachdruck</hi> oder Accent bey gewiſſen Klaͤngen,
+            <item xml:id="reg_nachdruck" corresp="#t_nachdruck"><lb/><hi rendition="#b">Nachdruck</hi> oder Accent bey gewiſſen Klaͤngen,
               <lb/>408.</item>
             <item xml:id="reg_nachdencken"><lb/><hi rendition="#b">Nachdencken</hi> im General-Baß, 265.</item>
-            <item xml:id="reg_nachgeben"><lb/><hi rendition="#b">Nachgeben</hi>, im muſicaliſchen Verſtande, 344.</item>
+            <item xml:id="reg_nachgeben" corresp="#t_nachgeben"><lb/><hi rendition="#b">Nachgeben</hi>, im muſicaliſchen Verſtande, 344.</item>
             <item xml:id="reg_nachwelt"><lb/><hi rendition="#b">Nachwelt</hi>, ein guter Richter, 185. 186.</item>
             <item xml:id="reg_neidhardt" corresp="#ed_g1w_hxy_qlb"><lb/><hi rendition="#b">Neidhardt</hi>, von den fremd-vermeynten Tonen,
               <lb/>295. von der unausgefuͤllten groſſen Tertz, 90.
               <lb/>von der Temperatur, 447. 463.</item>
-            <item xml:id="reg_neunsechszehntel_tact"><lb/><hi rendition="#b">Neunſechszehntel-Tact</hi>, warum man ſich ſei-
+            <item xml:id="reg_neunsechszehntel_tact" corresp="#t_neunsechzehnteltakt"><lb/><hi rendition="#b">Neunſechszehntel-Tact</hi>, warum man ſich ſei-
               <lb/>ner bedienet, 374.</item>
             <item xml:id="reg_nete"><lb/><hi rendition="#aq">Nete</hi>, und was dahin gehoͤret, wird erklaͤret,
               <lb/>88. 90.</item>
@@ -1052,15 +1052,15 @@
               <lb/>net die Jntervalle, 99.</item>
             <item xml:id="reg_nomos"><lb/><hi rendition="#aq">Nomos</hi>, was es in der Muſic bedeute, 70. 74.
               <lb/>75. 78.</item>
-            <item xml:id="reg_nona"><lb/><hi rendition="#aq">Nona</hi>, Exempel von haͤuffigen Nonen, 198. Be-
+            <item xml:id="reg_nona" corresp="#t_none"><lb/><hi rendition="#aq">Nona</hi>, Exempel von haͤuffigen Nonen, 198. Be-
               <lb/>dencken uͤber ihrer Aufloͤſung, 261. wie ſie ma-
               <lb/>nierlich aufzuloͤſen und zu gebrauchen, 280. ei-
               <lb/>kleine, auf beſondere Art angebracht, 359.</item>
-            <item xml:id="reg_noten_buch"><lb/><hi rendition="#b">Noten-Buch</hi>, deſſen ſeltſame Vergleichung,
+            <item xml:id="reg_noten_buch" corresp="#t_notenbuch"><lb/><hi rendition="#b">Noten-Buch</hi>, deſſen ſeltſame Vergleichung,
               <lb/>305.</item>
             <item xml:id="reg_noten_druck"><lb/><hi rendition="#b">Noten-Druck</hi>, ſehr mangelhafft, 165. 166.</item>
-            <item xml:id="reg_noten"><lb/><hi rendition="#b">Noten</hi>, verwechſelte, 413.</item>
-            <item xml:id="reg_notirung"><lb/><hi rendition="#b">Notirung</hi>, anſtoͤſſige, 196. 200. 239. 240.
+            <item xml:id="reg_noten" corresp="#t_wechselnoten"><lb/><hi rendition="#b">Noten</hi>, verwechſelte, 413.</item>
+            <item xml:id="reg_notirung" corresp="#t_notation"><lb/><hi rendition="#b">Notirung</hi>, anſtoͤſſige, 196. 200. 239. 240.
               <lb/>257. 399. Anmerckungen daruͤber, 436.
               <lb/>u. f. 446. verſchiedene, 254. 255. 265. 289.
               <lb/>290. 450. u. f.</item>
@@ -1069,7 +1069,7 @@
           </list>
           <list>
             <head><lb/>O.</head>
-            <item xml:id="reg_octave"><lb/><hi rendition="#b">Octave</hi>, ihre geringſte Erhoͤhung oder Erniedri-
+            <item xml:id="reg_octave" corresp="#t_oktave"><lb/><hi rendition="#b">Octave</hi>, ihre geringſte Erhoͤhung oder Erniedri-
               <fw type="catch" place="bottom">gung</fw>
               <pb n="476" facs="#facs-p538"/>
               <fw type="pageNum" place="top">476</fw>
@@ -1086,7 +1086,7 @@
               <lb/>wie man ſie eintheilet, 458 - 463. ſcheinet in
               <lb/>die None zu gehen, bey fallendem Baß, 261.
               <lb/>267. 269. <hi rendition="#b">Octaven-Weiſe</hi>, ſ. <hi rendition="#aq #i">Ottava</hi>.</item>
-            <item xml:id="reg_octaven_virtuose"><lb/><hi rendition="#b">Octaven-Virtuoſe</hi>, 27. 269. 433.</item>
+            <item xml:id="reg_octaven_virtuose" corresp="#t_oktavenvirtuose"><lb/><hi rendition="#b">Octaven-Virtuoſe</hi>, 27. 269. 433.</item>
             <item xml:id="reg_ode"><lb/><hi rendition="#b">Ode</hi>, auf die boͤſe Sieben, 152.</item>
             <item xml:id="reg_ohren"><lb/><hi rendition="#b">Ohren</hi>, ſ. <hi rendition="#b">Gehoͤr</hi>.</item>
             <item xml:id="reg_opern"><lb/><hi rendition="#b">Opern</hi>, Hamburgiſche, ſind manchem befoͤrder-
@@ -1118,12 +1118,12 @@
               <lb/>genennet worden, 8.</item>
             <item xml:id="reg_organum"><lb/><hi rendition="#aq">Organum</hi>, wie weit ſich dieſes Wort eigentlich er-
               <lb/>ſtrecket, 43.</item>
-            <item xml:id="reg_orgeln"><lb/><hi rendition="#b">Orgeln</hi>, was bey ihrer Aufbauung zu beobachten,
+            <item xml:id="reg_orgeln" corresp="#t_orgel"><lb/><hi rendition="#b">Orgeln</hi>, was bey ihrer Aufbauung zu beobachten,
               <lb/>16. u. w. ohne Organiſten, 8. warum ſie nicht
               <lb/>ſo, wie die Clavicymbel zu temperiren ſind,
               <lb/>165. ihre Fehler und der Organiſten Fehler
               <lb/>muß man unterſcheiden, 440. 460.</item>
-            <item xml:id="reg_ottava"><lb/><hi rendition="#aq">Ottava</hi>, <hi rendition="#aq #i">all’</hi>, 212. 213. 236. 253. 276. mit
+            <item xml:id="reg_ottava" corresp="#t_all_ottava"><lb/><hi rendition="#aq">Ottava</hi>, <hi rendition="#aq #i">all’</hi>, 212. 213. 236. 253. 276. mit
               <lb/>beiden Haͤnden, 224. 314. 315.</item>
           </list>
           <list>
@@ -1139,7 +1139,7 @@
             <item xml:id="reg_pausen"><lb/><hi rendition="#b">Pauſen</hi>, wie ſie einem Spieler auf die Spruͤnge
               <lb/>helffen koͤnnen, 264.</item>
             <item xml:id="reg_petzhold"><lb/><hi rendition="#b">Petzhold</hi>, ein ehmahls beruͤhmter Saͤnger, 173.</item>
-            <item xml:id="reg_pferden"><lb/><hi rendition="#b">Pferden</hi>, wie ihnen die Muſic dienen koͤnne, 77.
+            <item xml:id="reg_pferden" corresp="#t_pferde"><lb/><hi rendition="#b">Pferden</hi>, wie ihnen die Muſic dienen koͤnne, 77.
               <lb/>ihrem Alter gleicht das Noten-Leben, 444.</item>
             <item xml:id="reg_phantasten"><lb/><hi rendition="#b">Phantaſten</hi>, gibts in der einen Hanthierung
               <lb/>mehr, als in der andern, 14. 15.</item>
@@ -1149,7 +1149,7 @@
             <item xml:id="reg_polnische_music"><lb/><hi rendition="#b">Polniſche Muſic</hi>, iſt nicht zu verachten, 175.</item>
             <item xml:id="reg_prahler"><lb/><hi rendition="#b">Prahler</hi>, wie ihnen zu rathen, zu helffen, und zu
               <lb/>begegnen, 8. 9. 40. 41. 42. 43. 186.</item>
-            <item xml:id="reg_praxis"><lb/><hi rendition="#aq">Praxis</hi> beſtehet aus Exempeln und ihrer Nachah-
+            <item xml:id="reg_praxis" corresp="#t_praxis"><lb/><hi rendition="#aq">Praxis</hi> beſtehet aus Exempeln und ihrer Nachah-
               <lb/>mung, in der Mittel- und Ober-Claſſe, 201-
               <lb/>434. alle Betrachtung oder <hi rendition="#aq">theorie</hi> muß dar-
               <fw type="catch" place="bottom">aus</fw>
@@ -1169,8 +1169,8 @@
               <lb/>muſicaliſchen Schluͤſſel, 48. von chromatiſchen
               <lb/>Zeichen oder vielen Kreutzen, 440. von den No-
               <lb/>tirungs-Zeichen uͤberhaupt, 454. 458.</item>
-            <item xml:id="reg_printzen"><lb/><hi rendition="#b">Printzen</hi> ſchreiben von der Muſic, 85. 409.</item>
-            <item xml:id="reg_probe"><lb/><hi rendition="#b">Probe</hi>, die theoretiſche in der Muſic 1 biß 200. die
+            <item xml:id="reg_printzen" corresp="#t_fuersten"><lb/><hi rendition="#b">Printzen</hi> ſchreiben von der Muſic, 85. 409.</item>
+            <item xml:id="reg_probe" corresp="#t_probe"><lb/><hi rendition="#b">Probe</hi>, die theoretiſche in der Muſic 1 biß 200. die
               <lb/>practiſche im General-Baß, 200. b. 464. von
               <lb/>beiden, 7. 8 43. 44. 49. 50. 51. von der erſten
               <lb/>beſonders, 165. von der andern beſonders,
@@ -1212,19 +1212,19 @@
           </list>
           <list>
             <head><lb/>R.</head>
-            <item xml:id="reg_rang_der_kuenstler"><lb/><hi rendition="#b">Rang der Kuͤnſtler</hi>, 42. 351.</item>
+            <item xml:id="reg_rang_der_kuenstler" corresp="#t_rang_der_kuenstler"><lb/><hi rendition="#b">Rang der Kuͤnſtler</hi>, 42. 351.</item>
             <item xml:id="reg_rare_tone"><lb/><hi rendition="#b">Rare Tone</hi>, 295. 296. ſ. <hi rendition="#b">Ton</hi>.</item>
             <item xml:id="reg_rationes"><lb/><hi rendition="#aq">Rationes</hi>, Urſachen oder Gruͤnde, die natuͤrli-
               <lb/>chen ſind den mathematiſchen vorzuziehen,
               <lb/>111. 118.</item>
             <item xml:id="reg_rechnekunst"><lb/><hi rendition="#b">Rechnekunſt</hi>, ſ. <hi rendition="#aq">Rationes</hi>.</item>
-            <item xml:id="reg_recitativ"><lb/><hi rendition="#b">Recitativ</hi>, wie darin geſtolpert wird, 43. deſſen
+            <item xml:id="reg_recitativ" corresp="#t_rezitativ"><lb/><hi rendition="#b">Recitativ</hi>, wie darin geſtolpert wird, 43. deſſen
               <lb/>Notirung hat weniger Bedencklichkeiten, als
               <lb/>einer Arie, 446. 447.</item>
             <item xml:id="reg_regeln"><lb/><hi rendition="#b">Regeln</hi>, unnuͤtze, 11.</item>
-            <item xml:id="reg_reinlichkeit"><lb/><hi rendition="#b">Reinlichkeit</hi>, im Spielen, 294. 295. 345.</item>
+            <item xml:id="reg_reinlichkeit" corresp="#t_reinheit"><lb/><hi rendition="#b">Reinlichkeit</hi>, im Spielen, 294. 295. 345.</item>
             <item xml:id="reg_reisen"><lb/><hi rendition="#b">Reiſen</hi>, wozu es den Muſicis gut, 46.</item>
-            <item xml:id="reg_relatio_falsa"><lb/><hi rendition="#aq">Relatio falſa</hi> iſt zu vermeiden, 369.</item>
+            <item xml:id="reg_relatio_falsa" corresp="#t_querstand"><lb/><hi rendition="#aq">Relatio falſa</hi> iſt zu vermeiden, 369.</item>
             <item xml:id="reg_relation"><lb/><hi rendition="#aq">Relation</hi> aus dem Parnaß, 23. b. 26.</item>
             <item xml:id="reg_resignatio"><lb/><hi rendition="#aq">Reſignatio</hi>, oder Abdanckung, hilfft zu Aemtern,
               <lb/>41. 151.</item>
@@ -1255,7 +1255,7 @@
               <lb/>Claviere, 459. b. 461. wo er gelebet, und
               <lb/>was er geſchrieben hat, 461.</item>
             <item xml:id="reg_saltz"><lb/><hi rendition="#b">Saltz</hi> und Gewuͤrtz der Muſic, 52.</item>
-            <item xml:id="reg_saenger"><lb/><hi rendition="#b">Saͤnger</hi>, wie ſie von Muſicis zu unterſcheiden,
+            <item xml:id="reg_saenger" corresp="#t_saenger"><lb/><hi rendition="#b">Saͤnger</hi>, wie ſie von Muſicis zu unterſcheiden,
               <lb/>96. muͤſſen von dem General-Baß-Spieler
               <lb/>beguͤnſtiget werden, 344. 463. beruͤhmte, 35.
               <lb/>37. 173.</item>
@@ -1274,8 +1274,8 @@
             <item xml:id="reg_scaliger"><lb/><hi rendition="#b">Scaliger</hi>, von einiger Ton-Arten Gebrauch, 73.</item>
             <item xml:id="reg_scham"><lb/><hi rendition="#b">Scham</hi>, unzeitige, 44.</item>
             <item xml:id="reg_schlaege"><lb/><hi rendition="#b">Schlaͤge</hi> der Saͤiten, 158.</item>
-            <item xml:id="reg_schleuffer"><lb/><hi rendition="#b">Schleuffer</hi> in der lincken Hand, 413.</item>
-            <item xml:id="reg_schluessel_veraenderung"><lb/><hi rendition="#b">Schluͤſſel-Veraͤnderung</hi>, 48. 246. ſq. 268.
+            <item xml:id="reg_schleuffer" corresp="#t_schleifer"><lb/><hi rendition="#b">Schleuffer</hi> in der lincken Hand, 413.</item>
+            <item xml:id="reg_schluessel_veraenderung" corresp="#t_schluesselwechsel"><lb/><hi rendition="#b">Schluͤſſel-Veraͤnderung</hi>, 48. 246. ſq. 268.
               <lb/>338. 368.</item>
             <item xml:id="reg_schmeichler"><lb/><hi rendition="#b">Schmeichler</hi>, ihre Eigenſchafften, 184. wodurch
               <lb/>ſie gereitzet werden, 186. 187.</item>
@@ -1293,29 +1293,29 @@
               <lb/>e. d.</item>
             <item xml:id="reg_secretar"><lb/><hi rendition="#b">Secretar</hi> bey Geſandſchafften, was er zu bedeu-
               <lb/>ten hat, 185.</item>
-            <item xml:id="reg_secunden"><lb/><hi rendition="#b">Secunden</hi>, ſiebenerley, 102. ſq. Cadenzen dar-
+            <item xml:id="reg_secunden" corresp="#t_sekunde"><lb/><hi rendition="#b">Secunden</hi>, ſiebenerley, 102. ſq. Cadenzen dar-
               <lb/>in, 233. 339. ſ. <hi rendition="#b">Sexten</hi>.</item>
             <item xml:id="reg_seele"><lb/><hi rendition="#b">Seele</hi>, ſoll lauter Harmonie ſeyn, 63. u. f.</item>
             <item xml:id="reg_selbst_erkaenntniss"><lb/><hi rendition="#b">Selbſt-Erkaͤnntniß</hi>, wie nuͤtzlich es ſey, 43.</item>
-            <item xml:id="reg_septimen"><lb/><hi rendition="#b">Septimen</hi>, ſiebenerley, 102. u. f. Exempel von ih-
+            <item xml:id="reg_septimen" corresp="#t_septime"><lb/><hi rendition="#b">Septimen</hi>, ſiebenerley, 102. u. f. Exempel von ih-
               <lb/>rem Gebrauch, 196. 197. 226. b. 229. Caden-
               <lb/>zen oder Schluͤſſe darin, 233. 357. 359. alle
               <lb/>auf einem Blat, 238. 239. 240. koͤnnen
               <lb/>wunderliche Faͤlle haben, 278. 281.</item>
-            <item xml:id="reg_sext_und_quart"><lb/><hi rendition="#b">Sext und Quart</hi>, ohne gewoͤhnliche Aufloͤſung,
+            <item xml:id="reg_sext_und_quart" corresp="#t_quartsextakkord"><lb/><hi rendition="#b">Sext und Quart</hi>, ohne gewoͤhnliche Aufloͤſung,
               <lb/>187. 206. 207. 208. 209. 237. 282. 315.
               <lb/>371.</item>
             <item xml:id="reg_sext_und_quint"><lb/><hi rendition="#b">Sext und Quint</hi> beiſammen, was dabey anzu-
               <lb/>mercken, 205. 220. 221. ſ. <hi rendition="#b">Quinten</hi>. Wie
               <lb/>es mit der Note, ſo auf die groſſe <hi rendition="#b">Sext</hi> folget,
               <lb/>gehalten werden ſollte, 204.</item>
-            <item xml:id="reg_sexten"><lb/><hi rendition="#b">Sexten</hi> ſind neunerley Gattungen, 102. u. f. Ex-
+            <item xml:id="reg_sexten" corresp="#t_sexte"><lb/><hi rendition="#b">Sexten</hi> ſind neunerley Gattungen, 102. u. f. Ex-
               <lb/>empel von Sexten, Quarten und Secunden,
               <lb/>199. moͤgen mit der lincken Hand auch allein
               <lb/>gegriffen werden, 349. Sexten-Weiſe zu
               <lb/>ſpielen, 277. 410. 412. 413.</item>
             <item xml:id="reg_sieben"><lb/><hi rendition="#b">Sieben</hi>, die boͤſe, 152. 153.</item>
-            <item xml:id="reg_signaturen"><lb/><hi rendition="#b">Signaturen</hi>, oder Zahlen und Zeichen uͤber den
+            <item xml:id="reg_signaturen" corresp="#t_signaturen"><lb/><hi rendition="#b">Signaturen</hi>, oder Zahlen und Zeichen uͤber den
               <lb/>General-Baß, muͤſſen in der lincken Hand
               <lb/>abgefertiget werden, wenn die rechte etwas
               <lb/>ſingendes ſpielet, 220. 221. 225. chromati-
@@ -1329,24 +1329,24 @@
               <lb/>te ſtehen, zu welcher ſie gehoͤren, 258. 298.
               <lb/>werden offt mit Fleiß weggelaſſen, 318. ſind
               <lb/>mangelhafft, 394. 399. 458.</item>
-            <item xml:id="reg_singen"><lb/><hi rendition="#b">Singen</hi>, warum es nicht, ohne Jnſtrumente rein
+            <item xml:id="reg_singen" corresp="#t_singen"><lb/><hi rendition="#b">Singen</hi>, warum es nicht, ohne Jnſtrumente rein
               <lb/>geſchehen koͤnne, 113. iſt das vornehmſte bey
               <lb/>der Muſic, 170. 329. wer es nicht kann, wird
               <lb/>niemahls gut ſpielen, 290. 329.</item>
             <item xml:id="reg_singekunst"><lb/><hi rendition="#b">Singekunſt</hi> allein iſt doch nicht Muſica, 96. 97.</item>
-            <item xml:id="reg_sinn"><lb/><hi rendition="#b">Sinn</hi> oder Meynung des Verfaſſers muß getrof-
+            <item xml:id="reg_sinn" corresp="#t_sinn_des_verfassers"><lb/><hi rendition="#b">Sinn</hi> oder Meynung des Verfaſſers muß getrof-
               <lb/>fen werden, 349.</item>
             <item xml:id="reg_sistema_uguale"><lb/><hi rendition="#aq">Siſtema uguale</hi>, oder die gleichſchwebende Tem-
               <lb/>peratur, wer ſie erfunden, 147. ſ. <hi rendition="#b">Tempe-</hi>
               <lb/><hi rendition="#b">ratur</hi>.</item>
-            <item xml:id="reg_si_suona"><lb/><hi rendition="#aq">Si ſuona</hi>, was es bedeute, 328. 429.</item>
+            <item xml:id="reg_si_suona" corresp="#t_si_suona"><lb/><hi rendition="#aq">Si ſuona</hi>, was es bedeute, 328. 429.</item>
             <item xml:id="reg_sitten"><lb/><hi rendition="#b">Sitten</hi>, einiger Organiſten und Muſicanten,
               <lb/>151. 182.</item>
-            <item xml:id="reg_solmisation"><lb/><hi rendition="#b">Solmiſation</hi>, ein erdichtetes Weſen, 81. wie
+            <item xml:id="reg_solmisation" corresp="#t_solmisation"><lb/><hi rendition="#b">Solmiſation</hi>, ein erdichtetes Weſen, 81. wie
               <lb/>ihre Anhaͤnger ſich ſo ſchlecht verantworten, 98.
               <lb/>99. wird vorgeſchlagen zur Probe, 355. ſ.
               <lb/><hi rendition="#aq #i">Mi</hi>, <hi rendition="#aq #i">fa</hi>.</item>
-            <item xml:id="reg_sonate"><lb/><hi rendition="#b">Sonate</hi>, fuͤr das Clavier, was dabey vorge-
+            <item xml:id="reg_sonate" corresp="#t_sonate"><lb/><hi rendition="#b">Sonate</hi>, fuͤr das Clavier, was dabey vorge-
               <lb/>fallen, 443.</item>
             <item xml:id="reg_sonus"><lb/><hi rendition="#aq">Sonus</hi>, ſ. <hi rendition="#b">Klang</hi>.</item>
             <item xml:id="reg_sordinen"><lb/><hi rendition="#b">Sordinen</hi>, was es bedeute und dabey zu bemer-
@@ -1354,15 +1354,15 @@
             <item xml:id="reg_spectator"><lb/><hi rendition="#aq">Spectator</hi>, der Englaͤndiſche, verachtet die teut-
               <lb/>ſche Sprache, 50. 51.</item>
             <item xml:id="reg_speer"><lb/><hi rendition="#b">Speer</hi>, Dan. vom General-Baß, 14.</item>
-            <item xml:id="reg_spielen"><lb/><hi rendition="#b">Spielen</hi>, recht und wol ſind zweierley, 8. 9. ſchlecht
+            <item xml:id="reg_spielen" corresp="#t_spielen"><lb/><hi rendition="#b">Spielen</hi>, recht und wol ſind zweierley, 8. 9. ſchlecht
               <lb/>und deutlich, wie es zu nehmen, 403.</item>
             <item xml:id="reg_spissum_genus"><lb/><hi rendition="#aq">Spiſſum genus</hi>, ſ. <hi rendition="#b">Enharmoniſch</hi>.</item>
             <item xml:id="reg_spoetter"><lb/><hi rendition="#b">Spoͤtter</hi>, abgefertiget, 48. 154.</item>
             <item xml:id="reg_sprache"><lb/><hi rendition="#b">Sprache</hi>, die teutſche, wird vertheidiget in der
               <lb/>Vorrede und 50. 51.</item>
             <item xml:id="reg_sprengel"><lb/><hi rendition="#b">Sprengel</hi>, Umfang einer Ton-Art, ſ. <hi rendition="#aq">Ambitus</hi>.</item>
-            <item xml:id="reg_springen"><lb/><hi rendition="#b">Springen</hi>, auf dem Clavier, wird erfordert, 417.</item>
-            <item xml:id="reg_springende_noten"><lb/><hi rendition="#b">Springende Noten</hi>, wie damit zu verfahren,
+            <item xml:id="reg_springen" corresp="#t_springen"><lb/><hi rendition="#b">Springen</hi>, auf dem Clavier, wird erfordert, 417.</item>
+            <item xml:id="reg_springende_noten" corresp="#t_springende_noten"><lb/><hi rendition="#b">Springende Noten</hi>, wie damit zu verfahren,
               <lb/>204. 276. weit von einander, 368.</item>
             <cb/>
             <item xml:id="reg_staarstecher" corresp="#ed_bxt_bpt_tlb"><lb/><hi rendition="#b">Staarſtecher</hi>, ein uͤbelſehender, 443 b. 457.</item>
@@ -1371,33 +1371,33 @@
               <lb/>muſicaliſchen Patrioten, 6.</item>
             <item xml:id="reg_stimmung"><lb/><hi rendition="#b">Stimmung</hi>, muß bey Jnſtrumenten gut ſeyn,
               <lb/>ſ. <hi rendition="#b">Temperatur</hi>.</item>
-            <item xml:id="reg_stolpern"><lb/><hi rendition="#b">Stolpern</hi> der Organiſten, 1. 51. 345. 370. 380.
+            <item xml:id="reg_stolpern" corresp="#t_stolpern"><lb/><hi rendition="#b">Stolpern</hi> der Organiſten, 1. 51. 345. 370. 380.
               <lb/>417.</item>
             <item xml:id="reg_studenten_leben"><lb/><hi rendition="#b">Studenten-Leben</hi>, 45. 46.</item>
-            <item xml:id="reg_studiren"><lb/><hi rendition="#b">Studiren</hi>, oder Uebung desjenigen, ſo man ſin-
+            <item xml:id="reg_studiren" corresp="#t_studieren"><lb/><hi rendition="#b">Studiren</hi>, oder Uebung desjenigen, ſo man ſin-
               <lb/>gen und ſpielen will, iſt gut, 345.</item>
             <item xml:id="reg_styl"><lb/><hi rendition="#b">Styl</hi>, unreiner, ſ. <hi rendition="#b">Worte</hi> und <hi rendition="#b">Woͤrter</hi>.</item>
-            <item xml:id="reg_subsemitone"><lb/><hi rendition="#b">Subſemitone</hi>, 460. 464.</item>
+            <item xml:id="reg_subsemitone" corresp="#t_subsemitonien"><lb/><hi rendition="#b">Subſemitone</hi>, 460. 464.</item>
             <item xml:id="reg_synape"><lb/><hi rendition="#aq">Synape</hi>, wird erklaͤhret, 87.</item>
-            <item xml:id="reg_syncopation"><lb/><hi rendition="#b">Syncopation</hi>, 205. 225. 423. mit beiden
+            <item xml:id="reg_syncopation" corresp="#t_synkope"><lb/><hi rendition="#b">Syncopation</hi>, 205. 225. 423. mit beiden
               <lb/>Haͤnden, 209. 225. 229. 355. ſ. <hi rendition="#b">Brechung</hi>,
               <lb/><hi rendition="#aq #i">Harpeggio</hi>.</item>
             <item xml:id="reg_synemenon"><lb/><hi rendition="#aq">Synemenon</hi>, wird erklaͤhret, 90.</item>
             <item xml:id="reg_systaltice"><lb/><hi rendition="#aq">Syſtaltice</hi>, erklaͤhret, 69.</item>
-            <item xml:id="reg_syzygia_remota"><lb/><hi rendition="#aq">Syzygia remota</hi>, was ſie ſey, und wo ſie gut, 376.</item>
+            <item xml:id="reg_syzygia_remota" corresp="#t_syzygia_remota"><lb/><hi rendition="#aq">Syzygia remota</hi>, was ſie ſey, und wo ſie gut, 376.</item>
           </list>
           <list>
             <head><lb/>T.</head>
             <item xml:id="reg_tabulatur"><lb/><hi rendition="#b">Tabulatur</hi>, die teutſche, wozu ſie vor Alters die-
               <lb/>nete, 9.</item>
-            <item xml:id="reg_tact"><lb/><hi rendition="#b">Tact</hi>, dreihalber, 218. 220. neunachtel, 230.
+            <item xml:id="reg_tact" corresp="#t_takt"><lb/><hi rendition="#b">Tact</hi>, dreihalber, 218. 220. neunachtel, 230.
               <lb/>232. zweiviertel, 286. 288. 382. u. f. neun-
               <lb/>ſechszehntel, 372. was vom Tactſchlagen zu
               <lb/>halten, 284. 285. 386. 387. wo es noͤthig,
               <lb/>282. 284. 285. 412.</item>
             <item xml:id="reg_tadeler"><lb/><hi rendition="#b">Tadeler</hi>, wie mit ihnen auszukommen, 186. ihre
               <lb/>Unart, 187.</item>
-            <item xml:id="reg_tasten"><lb/><hi rendition="#b">Taſten</hi>, ein neu-eingefuͤhrtes Nenn-Wort, ſtatt
+            <item xml:id="reg_tasten" corresp="#t_tasten"><lb/><hi rendition="#b">Taſten</hi>, ein neu-eingefuͤhrtes Nenn-Wort, ſtatt
               <lb/>der Griff-Schluͤſſel des Claviers, 458. u. w.</item>
             <item xml:id="reg_telemann" corresp="#ed_uyt_trx_qlb"><lb/><hi rendition="#b">Telemann</hi>, ſ. die <hi rendition="#b">Vorrede</hi>, ſein Lebenslauff,
               <lb/>168. b. 180. Ode auf ſeinen Fleiß, 181. wegen
@@ -1408,7 +1408,7 @@
             <pb n="480" facs="#facs-p542"/>
             <fw type="pageNum" place="top">480</fw>
             <fw type="header" place="top">( o )</fw>
-            <item xml:id="reg_temperatur"><lb/><hi rendition="#b">Temperatur</hi>, wenn die gleich-ſchwebende wirck-
+            <item xml:id="reg_temperatur" corresp="#t_temperatur"><lb/><hi rendition="#b">Temperatur</hi>, wenn die gleich-ſchwebende wirck-
               <lb/>lich in die Welt kommen wird, 143. 144. ihre
               <lb/>fuͤnff groſſe Schwierigkeiten, 144. ihre <hi rendition="#aq">Defi-</hi>
               <lb/><hi rendition="#aq">nitio</hi> uͤberhaupt, 145. wie alt die Erfindung
@@ -1424,7 +1424,7 @@
               <lb/><hi rendition="#b">gens</hi>, <hi rendition="#b">Werckmeiſter</hi> und <hi rendition="#b">Neidhardt</hi>,
               <lb/>461. b. 463.</item>
             <item xml:id="reg_termini_technici"><lb/><hi rendition="#aq">Termini technici</hi>, ſ. <hi rendition="#b">Kunſt-Woͤrter</hi>.</item>
-            <item xml:id="reg_tertz"><lb/><hi rendition="#b">Tertz</hi>, warum ſie bey den Griechen uͤbelklingend
+            <item xml:id="reg_tertz" corresp="#t_terz"><lb/><hi rendition="#b">Tertz</hi>, warum ſie bey den Griechen uͤbelklingend
               <lb/>geweſen, 89. f. ſ. <hi rendition="#b">Ditonus</hi>, <hi rendition="#b">Trihemito-</hi>
               <lb/><hi rendition="#b">nion</hi>. groſſe und kleine, wie vielerley, 102.
               <lb/>103. eine allzugroſſe, 208. Terzenweiſe zu ſpie-
@@ -1438,12 +1438,12 @@
             <item xml:id="reg_theoremata"><lb/><hi rendition="#aq">Theoremata</hi>, oder Betrachtungen uͤber die dia-
               <lb/>toniſchen Klang Stuffen und deren Berech-
               <lb/>nung, 108. uͤber die chromatiſchen, 141.</item>
-            <item xml:id="reg_theoretische_schwierigkeiten"><lb/><hi rendition="#b">Theoretiſche Schwierigkeiten</hi>, werden mit Nutz
+            <item xml:id="reg_theoretische_schwierigkeiten" corresp="#t_theoretisch"><lb/><hi rendition="#b">Theoretiſche Schwierigkeiten</hi>, werden mit Nutz
               <lb/>aufgeloͤſet, 93. 94. 95. Organiſten-Probe
               <lb/>wie ſie anzuſtellen, 51. 165. die General-Baß-
               <lb/>Schule iſt nicht gantz theoretiſch, 444. 457.</item>
-            <item xml:id="reg_toccata"><lb/><hi rendition="#b">Toccata</hi>, aus einem Prob-Stuͤcke, 312.</item>
-            <item xml:id="reg_ton"><lb/><hi rendition="#b">Ton</hi>, <hi rendition="#b">Tone</hi>, verſchiedene Bedeutung des Wor-
+            <item xml:id="reg_toccata" corresp="#t_toccata"><lb/><hi rendition="#b">Toccata</hi>, aus einem Prob-Stuͤcke, 312.</item>
+            <item xml:id="reg_ton" corresp="#t_ton"><lb/><hi rendition="#b">Ton</hi>, <hi rendition="#b">Tone</hi>, verſchiedene Bedeutung des Wor-
               <lb/>tes, 68. 69. 73. 74. 75. 80. warum man in
               <lb/>allen beſchlagen ſeyn muß, 48. 49. Der groſſe,
               <lb/>der kleine, der halbe, wie vielerley, 88. 89.
@@ -1463,14 +1463,14 @@
             <item xml:id="reg_"><lb/><foreign xml:lang="grc">Τόπος</foreign>, wird erklaͤhret, 69. 81. <hi rendition="#aq">topici loci</hi>, 1.</item>
             <item xml:id="reg_transitus"><lb/><hi rendition="#aq">Tranſitus</hi>, ſ. <hi rendition="#b">Durchgang</hi>.</item>
             <item xml:id="reg_transpositio"><lb/><hi rendition="#aq">Tranſpoſitio</hi>, ſ. Verſetzung.</item>
-            <item xml:id="reg_treffen"><lb/><hi rendition="#b">Treffen</hi>, wie darauf gepochet wird, 345. wie
+            <item xml:id="reg_treffen" corresp="#t_treffen"><lb/><hi rendition="#b">Treffen</hi>, wie darauf gepochet wird, 345. wie
               <lb/>ſolches pochen zu maͤſſigen, 380.</item>
             <item xml:id="reg_treiber"><lb/><hi rendition="#b">Treiber</hi>, ein ſonderbarer Componiſt, 249.</item>
-            <item xml:id="reg_trias"><lb/><hi rendition="#aq">Trias</hi> der Patronen, hat einen Bruch, 16. der Mu-
+            <item xml:id="reg_trias" corresp="#t_dreiklang"><lb/><hi rendition="#aq">Trias</hi> der Patronen, hat einen Bruch, 16. der Mu-
               <lb/>ſic muß im General-Baß vor allen Dingen
               <lb/>ſeyn, 376.</item>
             <item xml:id="reg_trihemitonion"><lb/><hi rendition="#b">Trihemitonion</hi>, oder die kleine Tertz, 89. 91.</item>
-            <item xml:id="reg_triller"><lb/><hi rendition="#b">Triller</hi> iſt noͤthig im Baß, 272. 323. 324. 428.</item>
+            <item xml:id="reg_triller" corresp="#t_triller"><lb/><hi rendition="#b">Triller</hi> iſt noͤthig im Baß, 272. 323. 324. 428.</item>
             <item xml:id="reg_trite"><lb/><hi rendition="#aq">Trite</hi>, und was dem anhaͤngig, wird erklaͤhret, 88.</item>
             <item xml:id="reg_trompeten"><lb/><hi rendition="#b">Trompeten</hi> haben in ihrer Abmeſſung nur eine
               <lb/>Ton-Art, man ſtimme ſie wie man wolle, 110.</item>
@@ -1483,14 +1483,14 @@
             <head><lb/>V.</head>
             <item xml:id="reg_variatio"><lb/><hi rendition="#aq">Variatio</hi>, ſ. <hi rendition="#b">Veraͤnderung</hi>.</item>
             <item xml:id="reg_vaterland"><lb/><hi rendition="#b">Vaterland</hi>, iſt undanckbar, 47.</item>
-            <item xml:id="reg_uebel"><lb/><hi rendition="#b">Uebel-</hi> und <hi rendition="#b">Wol-Laut</hi> geben einen groſſen Aus-
+            <item xml:id="reg_uebel" corresp="#t_wohlklang"><lb/><hi rendition="#b">Uebel-</hi> und <hi rendition="#b">Wol-Laut</hi> geben einen groſſen Aus-
               <lb/>ſchlag, 333.</item>
             <item xml:id="reg_verachtung"><lb/><hi rendition="#b">Verachtung</hi> der Muſic bey Gelehrten, 182. 183.</item>
             <fw type="catch" place="bottom">Ver-</fw>
             <pb n="481" facs="#facs-p543"/>
             <fw type="header" place="top">( o )</fw>
             <fw type="pageNum" place="top">481</fw>
-            <item xml:id="reg_veraenderung"><lb/><hi rendition="#b">Veraͤnderung</hi>, iſt die Luſt der Natur, 161. 162.
+            <item xml:id="reg_veraenderung" corresp="#t_veraenderung"><lb/><hi rendition="#b">Veraͤnderung</hi>, iſt die Luſt der Natur, 161. 162.
               <lb/>374. der Noten im General-Baß muß nicht
               <lb/>zum Handwerck werden, 237. wo ſie ſich ſchickt,
               <lb/>325. ihre Grund-Noten muß man anſehen,
@@ -1504,7 +1504,7 @@
             <item xml:id="reg_verhaeltniss"><lb/><hi rendition="#b">Verhaͤltniß</hi>, oder Proportion der Klaͤnge gegen
               <lb/>einander, 104. u. f. der Stuͤcke eines wol-ein-
               <lb/>gerichteten Geſanges, 79.</item>
-            <item xml:id="reg_versetzung"><lb/><hi rendition="#b">Verſetzung</hi>, aus einem Ton in den andern, Fra-
+            <item xml:id="reg_versetzung" corresp="#t_transposition"><lb/><hi rendition="#b">Verſetzung</hi>, aus einem Ton in den andern, Fra-
               <lb/>gen und Antworten daruͤber, 112. 113. wird
               <lb/>definirt, 114. muß behutſam angeſtellet wer-
               <lb/>den, 115. 116. Vergleichung damit, 117.
@@ -1522,7 +1522,7 @@
             <item xml:id="reg_vielstimmigkeit"><lb/><hi rendition="#b">Vielſtimmigkeit</hi> im Setzen, faͤllt der Melodie
               <lb/>hinderlich, 171.</item>
             <item xml:id="reg_virdung"><lb/><hi rendition="#b">Virdung</hi>, Sebaſt. von der erdichteten Muſic, 81.</item>
-            <item xml:id="reg_virtuosen"><lb/><hi rendition="#b">Virtuoſen</hi>, unbrauchbare, 40. 41. rechtſchaffene
+            <item xml:id="reg_virtuosen" corresp="#t_virtuose"><lb/><hi rendition="#b">Virtuoſen</hi>, unbrauchbare, 40. 41. rechtſchaffene
               <lb/>werden offt den Stuͤmpern gleich geſchaͤtzt,
               <lb/>nachgeſetzt und liegen verborgen, 42. der
               <lb/>brauchbare, ein ſo genanntes Sonaten-
@@ -1530,7 +1530,7 @@
               <lb/>Zeit, 444.</item>
             <item xml:id="reg_umfang"><lb/><hi rendition="#b">Umfang</hi> einer Ton-Art, ſ. <hi rendition="#aq">Ambitus</hi>.</item>
             <cb/>
-            <item xml:id="reg_umkehrung"><lb/><hi rendition="#b">Umkehrung</hi> der Fugen-Saͤtze, 36. b. 39. 222. b.
+            <item xml:id="reg_umkehrung" corresp="#t_umkehrung"><lb/><hi rendition="#b">Umkehrung</hi> der Fugen-Saͤtze, 36. b. 39. 222. b.
               <lb/>225. 325.</item>
             <item xml:id="reg_umstimmung"><lb/><hi rendition="#b">Umſtimmung</hi> der Jnſtrumente iſt vermuthlich
               <lb/>bey den alten Griechen haͤuffig geſchehen, 59.</item>
@@ -1538,20 +1538,20 @@
             <item xml:id="reg_universitaeten_leben"><lb/><hi rendition="#b">Univerſitaͤten-Leben</hi> was es offt ſey, 45.</item>
             <item xml:id="reg_unschuldige_nachrichten"><lb/><hi rendition="#b">Unſchuldige Nachrichten</hi>, ein <hi rendition="#aq">journal</hi>, ſ. die
               <lb/>Vorrede, it. 387.</item>
-            <item xml:id="reg_unterricht"><lb/><hi rendition="#b">Unterricht</hi>, erfordert auch anderer Leute Arbeit,
+            <item xml:id="reg_unterricht" corresp="#t_unterricht"><lb/><hi rendition="#b">Unterricht</hi>, erfordert auch anderer Leute Arbeit,
               <lb/>338.</item>
             <item xml:id="reg_unterschied"><lb/><hi rendition="#b">Unterſchied</hi> in Verfertigung der Melodien,
               <lb/>68. 69.</item>
-            <item xml:id="reg_vollkommenheit"><lb/><hi rendition="#b">Vollkommenheit</hi> hat kein Verhaͤltniß mit un-
+            <item xml:id="reg_vollkommenheit" corresp="#t_vollkommenheit"><lb/><hi rendition="#b">Vollkommenheit</hi> hat kein Verhaͤltniß mit un-
               <lb/>vollkommenen Werckzeugen, 449. 462.</item>
-            <item xml:id="reg_vollstimmigkeit"><lb/><hi rendition="#b">Vollſtimmigkeit</hi>, in der lincken und rechten
+            <item xml:id="reg_vollstimmigkeit" corresp="#t_vollstimmigkeit"><lb/><hi rendition="#b">Vollſtimmigkeit</hi>, in der lincken und rechten
               <lb/>Hand, wo ſie noͤthig iſt, 209. 212. 216. 221.
               <lb/>225. 229. 237. 241. 272. 273. 281. 289.
               <lb/>295. 355. 403. 409.</item>
             <item xml:id="reg_vorsatz"><lb/><hi rendition="#b">Vorſatz</hi>, wieder die Tadler, 7.</item>
-            <item xml:id="reg_vorschlag"><lb/><hi rendition="#b">Vorſchlag</hi>, in der rechten Hand, 237. 253. in der
+            <item xml:id="reg_vorschlag" corresp="#t_vorschlag"><lb/><hi rendition="#b">Vorſchlag</hi>, in der rechten Hand, 237. 253. in der
               <lb/>lincken, 319. wo er nicht ſeyn ſoll, 412.</item>
-            <item xml:id="reg_vorurtheile"><lb/><hi rendition="#b">Vorurtheile</hi>, wegen des Verfaſſers Perſon,
+            <item xml:id="reg_vorurtheile" corresp="#t_vorurteile"><lb/><hi rendition="#b">Vorurtheile</hi>, wegen des Verfaſſers Perſon,
               <lb/>153. Aufhebung derſelben durch einen Be-
               <lb/>richt von deſſen wahren Zuſtande, 184. 185.
               <lb/>uͤber gute Anweiſungen, 333.</item>
@@ -1587,10 +1587,10 @@
               <lb/>aͤnderung, 161.</item>
             <item xml:id="reg_wind_probe"><lb/><hi rendition="#b">Wind-Probe</hi>, am unrechten Ort, 16.</item>
             <item xml:id="reg_wirckungen"><lb/><hi rendition="#b">Wirckungen</hi>, der Ton-Arten, ſeltſame, 73. 76.</item>
-            <item xml:id="reg_wollaut"><lb/><hi rendition="#b">Wollaut</hi>, giebt einen guten Ausſchlag, 333.</item>
+            <item xml:id="reg_wollaut" corresp="#t_wohlklang"><lb/><hi rendition="#b">Wollaut</hi>, giebt einen guten Ausſchlag, 333.</item>
             <item xml:id="reg_worte"><lb/><hi rendition="#b">Worte</hi> und <hi rendition="#b">Woͤrter</hi> haben viel zu bedeuten, 3. 4.
               <lb/>5. 10. 80. ſ. die Vorrede.</item>
-            <item xml:id="reg_wunder"><lb/><hi rendition="#b">Wunder</hi>, ob ſie in die Kirche gehoͤren, 386.</item>
+            <item xml:id="reg_wunder" corresp="#t_wunder"><lb/><hi rendition="#b">Wunder</hi>, ob ſie in die Kirche gehoͤren, 386.</item>
           </list>
           <list>
             <head><lb/>Z.</head>
@@ -1608,20 +1608,20 @@
               <lb/>Tertz, <hi rendition="#aq">ditono incompoſito</hi>, 91. von dem chro-
               <lb/>matiſchen Kreutz, 452. 453. von gebrochenen
               <lb/>Clavieren, 459. 460. 461.</item>
-            <item xml:id="reg_zeichen"><lb/><hi rendition="#b">Zeichen</hi>, muͤſſen nicht dunckel ſeyn, 375. es feh-
+            <item xml:id="reg_zeichen" corresp="#t_zeichen"><lb/><hi rendition="#b">Zeichen</hi>, muͤſſen nicht dunckel ſeyn, 375. es feh-
               <lb/>let daran, 395. 399. ſ. <hi rendition="#b">Notirung</hi>, <hi rendition="#b">Signa-</hi>
               <lb/><hi rendition="#b">turen</hi>.</item>
-            <item xml:id="reg_ziefern"><lb/><hi rendition="#b">Ziefern</hi>, koͤnnen nie ſo genau uͤber den General-
+            <item xml:id="reg_ziefern" corresp="#t_ziffern"><lb/><hi rendition="#b">Ziefern</hi>, koͤnnen nie ſo genau uͤber den General-
               <lb/>Baß geſchrieben werden, daß nicht vieles auf
               <lb/>des Spielers Nachdencken ankoͤmmt, 265.
               <lb/>318. ſ. <hi rendition="#b">Signaturen</hi>.</item>
-            <item xml:id="reg_zierrath"><lb/><hi rendition="#b">Zierrath</hi>, ſ. <hi rendition="#b">Auszierungen</hi>, <hi rendition="#b">Manieren</hi>, wird
+            <item xml:id="reg_zierrath" corresp="#t_zierrat"><lb/><hi rendition="#b">Zierrath</hi>, ſ. <hi rendition="#b">Auszierungen</hi>, <hi rendition="#b">Manieren</hi>, wird
               <lb/>hindangeſetzt im Spielen, 344. zierliche Saͤi-
               <lb/>ten, 51. u. w.</item>
             <item xml:id="reg_zufaellige_dinge"><lb/><hi rendition="#b">Zufaͤllige Dinge</hi> wircken ſtarck, 53.</item>
             <item xml:id="reg_zweck"><lb/><hi rendition="#b">Zweck</hi> dieſes Buchs, 3.</item>
-            <item xml:id="reg_zweiviertel_tact"><lb/><hi rendition="#b">Zweiviertel-Tact</hi>, 382. iſt taͤndelnd, 384.</item>
-            <item xml:id="reg_zwischen_spiel"><lb/><hi rendition="#b">Zwiſchen-Spiel</hi>, 323. 324. 369.</item>
+            <item xml:id="reg_zweiviertel_tact" corresp="#t_zweivierteltakt"><lb/><hi rendition="#b">Zweiviertel-Tact</hi>, 382. iſt taͤndelnd, 384.</item>
+            <item xml:id="reg_zwischen_spiel" corresp="#t_zwischenspiel"><lb/><hi rendition="#b">Zwiſchen-Spiel</hi>, 323. 324. 369.</item>
           </list>
           <cb type="end"/>
           <list xml:id="reg_abbreviaturen">

@@ -15,13 +15,13 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/<n>/mattheson/music-example*.xml` | Music examples within the commentary (MEI) |
 | `encodings/<n>/<name>/` | Lessons and realisations by other musicians, with their own scores and notes |
 | `encodings/works.xml` | List of works and their expressions (MEI `workList`); drives the website's overview |
-| `encodings/indices/` | Indices of persons, literature and musical works (TEI) |
+| `encodings/indices/` | Indices of persons, literature, musical works and terms (TEI); the index of terms (`terms.xml`) is based on Mattheson's Register |
 | `encodings/register/register_1731.xml` | Mattheson's Register of the 1731 print (pp. 465–482), transcribed (TEI, DTA Base Format) |
 | `encodings/guidelines/` | Editorial guidelines (TEI) |
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
 | `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
-| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs |
+| `scripts/` | `validate.sh` validates the encodings, `check_references.py` checks the internal pointers, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `tag_terms.py` tags the passages listed in the index of terms |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 
@@ -34,6 +34,16 @@ JING_JAR=/path/to/jing.jar scripts/validate.sh
 ```
 
 The script exits with a non-zero status if a file is invalid or has no schema. [`schema/README.md`](schema/README.md) explains which schema applies to which files and how to regenerate the schemas after changing an ODD.
+
+## Index of terms
+
+`encodings/indices/terms.xml` modernises Mattheson's Register (transcribed in `encodings/register/register_1731.xml`) for the Ober-Classe: one entry per term with Mattheson's headword, a modern German form, an English gloss and the passages, each with Mattheson's page and a short quotation in which `<term>` marks the word. `scripts/tag_terms.py` tags these words in the transcriptions (`<term corresp="#t_…">`) and completes the pointers in `terms.xml`. It only adds what is missing, so after a transcription has been added or replaced, run
+
+```sh
+python3 scripts/tag_terms.py
+```
+
+and check the passages it reports as not found. `--exclude 10/mattheson/comments_de.xml …` leaves files alone that are still being revised.
 
 ## Licence
 
