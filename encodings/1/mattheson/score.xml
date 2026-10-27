@@ -2391,7 +2391,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="m-1230" n="2" facs="#facsZone-m-1230 #facsZone-m-1230-2 #facsZone-m-1230-2">
+              <staff xml:id="m-1230" n="2" facs="#facsZone-m-1230 #facsZone-m-1230-2">
                 <layer n="1">
                   <beam>
                     <note xml:id="m-1232" dur="32" oct="3" pname="f" />
@@ -2474,7 +2474,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="m-1268" n="2" facs="#facsZone-m-1268 #facsZone-m-1268-2 #facsZone-m-1268-2 #facsZone-m-1268-2">
+              <staff xml:id="m-1268" n="2" facs="#facsZone-m-1268 #facsZone-m-1268-2">
                 <layer n="1">
                   <beam>
                     <note xml:id="m-1270" dur="16" oct="2" pname="a" />

@@ -95,13 +95,13 @@
         <zone ulx="1327" uly="909" lrx="1444" lry="1208" xml:id="facsZone-staff-0000000018479529" />
         <zone ulx="1420" uly="887" lrx="1583" lry="1186" xml:id="facsZone-staff-0000001209872927" />
         <zone ulx="1562" uly="862" lrx="1985" lry="1208" xml:id="facsZone-staff-0000001437538459" />
-        <zone ulx="127" uly="1159" lrx="678" lry="1517" xml:id="facsZone-staff-0000001550170287" />
+        <zone ulx="127" uly="1159" lrx="678" lry="1517" xml:id="facsZone-staff-0000000387927114" />
         <zone ulx="644" uly="1169" lrx="860" lry="1508" xml:id="facsZone-staff-0000000804289187" />
         <zone ulx="820" uly="1147" lrx="1027" lry="1520" xml:id="facsZone-staff-0000001674388246" />
         <zone ulx="990" uly="1175" lrx="1141" lry="1523" xml:id="facsZone-staff-0000000241342594" />
         <zone ulx="1104" uly="1215" lrx="1290" lry="1529" xml:id="facsZone-staff-0000000362082661" />
         <zone ulx="1265" uly="1181" lrx="1562" lry="1538" xml:id="facsZone-staff-0000000685392461" />
-        <zone ulx="1540" uly="1113" lrx="2010" lry="1520" xml:id="facsZone-staff-0000001550170287-2" />
+        <zone ulx="1540" uly="1113" lrx="2010" lry="1520" xml:id="facsZone-staff-0000001550170287" />
         <zone ulx="124" uly="1468" lrx="554" lry="1835" xml:id="facsZone-staff-0000001824991372" />
         <zone ulx="529" uly="1487" lrx="743" lry="1817" xml:id="facsZone-staff-0000001036892235" />
         <zone ulx="718" uly="1478" lrx="847" lry="1851" xml:id="facsZone-staff-0000000990952437" />
@@ -112,9 +112,9 @@
         <zone ulx="133" uly="1815" lrx="696" lry="2110" xml:id="facsZone-staff-0000001896996040" />
         <zone ulx="662" uly="1812" lrx="1101" lry="2110" xml:id="facsZone-staff-0000001513560012" />
         <zone ulx="1070" uly="1799" lrx="1457" lry="2107" xml:id="facsZone-staff-0000000424876277" />
-        <zone ulx="1423" uly="1796" lrx="1685" lry="2092" xml:id="facsZone-staff-0000000859763273" />
+        <zone ulx="1423" uly="1796" lrx="1685" lry="2092" xml:id="facsZone-staff-0000000704108684" />
         <zone ulx="1655" uly="1781" lrx="2004" lry="2092" xml:id="facsZone-staff-0000001822592878" />
-        <zone ulx="137" uly="2062" lrx="606" lry="2379" xml:id="facsZone-staff-0000000859763273-2" />
+        <zone ulx="137" uly="2062" lrx="606" lry="2379" xml:id="facsZone-staff-0000000859763273" />
         <zone ulx="576" uly="2059" lrx="1011" lry="2389" xml:id="facsZone-staff-0000001329697637" />
         <zone ulx="977" uly="2081" lrx="1182" lry="2373" xml:id="facsZone-staff-0000000410467664" />
         <zone ulx="1154" uly="2081" lrx="1321" lry="2364" xml:id="facsZone-staff-0000001460842105" />
@@ -158,9 +158,8 @@
         <zone ulx="341" uly="1463" lrx="641" lry="1796" xml:id="facsZone-staff-0000001696162287" />
         <zone ulx="603" uly="1457" lrx="834" lry="1796" xml:id="facsZone-staff-0000001261573590" />
         <zone ulx="806" uly="1479" lrx="1278" lry="1793" xml:id="facsZone-staff-0000000895861397" />
-        <zone ulx="1221" uly="1457" lrx="1927" lry="1809" xml:id="facsZone-staff-0000000533730066" />
-        <zone ulx="1221" uly="1457" lrx="1927" lry="1809" xml:id="facsZone-staff-0000000533730066-1" />
-        <zone ulx="0" uly="1800" lrx="419" lry="2058" xml:id="facsZone-staff-0000000533730066-2" />
+        <zone ulx="1221" uly="1457" lrx="1927" lry="1809" xml:id="facsZone-staff-0000000970881550" />
+        <zone ulx="0" uly="1800" lrx="419" lry="2058" xml:id="facsZone-staff-0000000533730066" />
         <zone ulx="369" uly="1800" lrx="812" lry="2074" xml:id="facsZone-staff-0000002033985283" />
         <zone ulx="797" uly="1785" lrx="1071" lry="2074" xml:id="facsZone-staff-0000000655209328" />
         <zone ulx="1037" uly="1797" lrx="1296" lry="2083" xml:id="facsZone-staff-0000001240604272" />
@@ -826,7 +825,7 @@
                   </beam>
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000387927114" n="2">
+              <staff xml:id="staff-0000000387927114" n="2" facs="#facsZone-staff-0000000387927114">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000001095876050" dur="8" oct="4" pname="c" />
@@ -996,7 +995,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="staff-0000001550170287" n="2" facs="#facsZone-staff-0000001550170287 #facsZone-staff-0000001550170287-2">
+              <staff xml:id="staff-0000001550170287" n="2" facs="#facsZone-staff-0000001550170287">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000002131984344" dur="8" oct="4" pname="c" />
@@ -1287,7 +1286,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000704108684" n="2">
+              <staff xml:id="staff-0000000704108684" n="2" facs="#facsZone-staff-0000000704108684">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000000481379168" dur="8" oct="4" pname="f" />
@@ -1335,7 +1334,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000859763273" n="2" facs="#facsZone-staff-0000000859763273 #facsZone-staff-0000000859763273-2">
+              <staff xml:id="staff-0000000859763273" n="2" facs="#facsZone-staff-0000000859763273">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000002124484308" dur="8" oct="4" pname="f" />
@@ -2321,7 +2320,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000970881550" n="2">
+              <staff xml:id="staff-0000000970881550" n="2" facs="#facsZone-staff-0000000970881550">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000001401986089" dur="8" oct="4" pname="c" />
@@ -2372,7 +2371,7 @@
                   <mSpace />
                 </layer>
               </staff>
-              <staff xml:id="staff-0000000533730066" n="2" facs="#facsZone-staff-0000000533730066 #facsZone-staff-0000000533730066-1 #facsZone-staff-0000000533730066-2">
+              <staff xml:id="staff-0000000533730066" n="2" facs="#facsZone-staff-0000000533730066">
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000001919859998" dur="8" oct="4" pname="c" />
