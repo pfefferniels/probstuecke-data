@@ -84,7 +84,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure right="end" n="2">
+                        <measure right="end" n="2" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

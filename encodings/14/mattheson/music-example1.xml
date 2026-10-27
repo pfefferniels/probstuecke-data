@@ -33,15 +33,15 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="rh" n="1" lines="5" label="Mattheson's annotations" meter.unit="8">
+                            <staffDef xml:id="rh" n="1" lines="5" label="Mattheson's annotations">
                                 <clef line="1" shape="C" />
                                 <keySig sig="5f" />
-                                <meterSig count="12" unit="8"/>
+                                <meterSig count="12" unit="8" form="invis"/>
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000002110347575" label="8">
+                        <measure corresp="#measure-0000002110347575" label="8" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="below">

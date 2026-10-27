@@ -31,11 +31,12 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="f" key.mode="major" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="lh" n="1" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="1f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -210,7 +211,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure right="invis">
+                        <measure right="invis" metcon="false">
                             <staff n="1">
                                 <layer>
                                     <custos oct="3" pname="g" />

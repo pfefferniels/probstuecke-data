@@ -31,7 +31,7 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.accid="s" key.mode="major" meter.unit="4" mnum.visible="false">
+                    <scoreDef key.pname="f" key.accid="s" key.mode="major" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
@@ -191,7 +191,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#measure-0000001647854738" label="15" right="invis">
+                        <measure corresp="#measure-0000001647854738" label="15" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1559099033" dur="4" oct="5" pname="c" accid.ges="s" />
@@ -215,7 +215,7 @@
                             </harm>
                         </measure>
                         <sb source="#secondEdition" />
-                        <measure corresp="#measure-0000001647854738" label="15">
+                        <measure corresp="#measure-0000001647854738" label="15" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

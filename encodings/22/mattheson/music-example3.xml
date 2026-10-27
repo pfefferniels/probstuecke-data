@@ -32,7 +32,7 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.accid="s" key.mode="major" meter.unit="4" mnum.visible="false">
+                    <scoreDef key.pname="f" key.accid="s" key.mode="major" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5" clef.shape="C" clef.line="1">
                                 <keySig sig="5s" />
@@ -286,7 +286,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure right="invis">
+                        <measure right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="4" pname="a" />

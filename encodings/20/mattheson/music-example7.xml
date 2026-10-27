@@ -31,15 +31,17 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.mode="minor" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="2s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="3" shape="F" />
                                 <keySig sig="2s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -244,7 +246,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000000301536239" label="45" right="invis" metcon="false">
+                        <measure corresp="#measure-0000000301536239" label="45" right="invis">
                             <staff n="1">
                                 <layer>
                                     <beam>

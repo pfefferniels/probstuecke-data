@@ -21,6 +21,7 @@ First versioned release.
 
 - Music examples: bars that quote the piece point to the quoted bar of the score with `@corresp` in Nos. 9, 20, 21 and 22 as well; the pointers in No. 18 named IDs that no longer exist in the score. Bars 23 and 24 of the score of No. 11 have their IDs back, so that the examples and the commentary can point to them
 - Music examples: bars that quote the piece carry the number of the quoted bar as `@label` (in No. 14 instead of the words "Achter Tact", "Neuter Tact."), shown on the website instead of a local numbering (probstuecke-digital#81); `scripts/label_example_bars.py` sets these labels, and CI checks them
+- Music examples: every example has a full meter, encoded like the scores' as a `<meterSig>` in each `<staffDef>`, invisible where the print shows none (only one example of No. 24 shows C); the visible meters of the examples in Nos. 9 and 14 were not in the prints. Bars that do not fill the meter (upbeats, cut-off bars) have `@metcon="false"`, also in Robert Hill's examples of No. 4 (#30)
 
 ### Fixed
 

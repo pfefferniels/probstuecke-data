@@ -31,17 +31,18 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="e" key.mode="minor" meter.unit="8" midi.bpm="85" mnum.visible="false">
+                    <scoreDef key.pname="e" key.mode="minor" midi.bpm="85" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <!-- key accidental missing in first edition -->
                                 <keySig sig="1s" />
+                                <meterSig count="12" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-101" label="4">
+                        <measure corresp="#m-101" label="4" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <rest xml:id="ex-105" dur="16" />

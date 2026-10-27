@@ -31,13 +31,15 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="g" key.mode="minor" meter.unit="4" mnum.visible="false">
+                    <scoreDef key.pname="g" key.mode="minor" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5">
                                 <keySig sig="1f" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5">
                                 <keySig sig="1f" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>

@@ -31,15 +31,17 @@
         <body>
             <mdiv label="example">
                 <score>
-                    <scoreDef mnum.visible="false" meter.unit="8">
+                    <scoreDef mnum.visible="false">
                         <staffGrp bar.thru="false">
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="2f" />
+                                <meterSig count="3" unit="8" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="2f" />
+                                <meterSig count="3" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>

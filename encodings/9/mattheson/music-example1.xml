@@ -37,12 +37,12 @@
                                 <clef line="1" shape="C" />
                                 <!-- second edition only shows e flat -->
                                 <keySig sig="2f" />
-                                <meterSig count="4" unit="4" sym="common" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="2f" type="supplied" />
-                                <meterSig count="4" unit="4" sym="common" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
