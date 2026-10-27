@@ -100,7 +100,7 @@
       <surface ulx="0" uly="0" lrx="2001" lry="2521" xml:id="facs-p439" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/439">
           <graphic width="2001px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00439/full/full/0/default.jpg"/>
           <zone ulx="9" uly="219" lry="533" lrx="1916" xml:id="facsZone-p8-1"/>
-          <zone ulx="12" uly="509" lry="2013" lrx="1913" xml:id="facsZone-music-example4"/>
+          <zone ulx="36" uly="478" lry="1966" lrx="1888" xml:id="facsZone-music-example4"/>
           <zone ulx="0" uly="1961" lry="2371" lrx="1913" xml:id="facsZone-p9-1"/>
       </surface>
   </facsimile>
@@ -114,124 +114,128 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="374" facs="#facs-p436"/>
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
+      <lb/><head>Erlaͤuterung.</head>
       <div n="1">
-        <head>§. 1.</head>
+        <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <hi rendition="#in">E</hi>S bestrebet sich zwar alles, was in der Natur ist, nach angenehmen Veraͤnderungen
-          und unaufhoͤrlichen Abwechslungen; allein es hat wol keine Wissenschaft diesen
-          Umstand in einer groͤssern Masse, als eben die Music. Ob nun die Groß-Brittanischen
-          hohen Schulen aus sothaner Ursache etwa bewogen worden sind, ihren Doctoren
-          und Professorn der Music, vor allen andern Graduirten, eine absonderlich bunte,
-          verbluͤmte oder vielfaͤrbige Josephs-Kleidung beizulegen, will ich itzo nicht
-          ausmachen; in unserer Schule aber will es itzo noͤthig seyn, mit gegenwaͤrtiger
-          ergetzlichen Vorschrift eine kleine Veraͤnderung zu treffen, nachdem wir vorher
-          einen ziemlichen Eck in muͤhsamen Tonen zuruͤck geleget haben.
+          <lb/><hi rendition="#in">E</hi>S beſtrebet ſich zwar alles, was in der Natur iſt, nach angenehmen Ver-
+          <lb/>aͤnderungen und unaufhoͤrlichen Abwechſelungen; allein es hat wol keine
+          <lb/>Wiſſenſchafft dieſen Umſtand in einer groͤſſern Maſſe, als eben die Muſic.
+          <lb/>Ob nun die Groß-Britanniſchen hohen Schulen aus ſothaner Urſache etwa bewo-
+          <lb/>gen worden ſind, ihren Doctoren und Profeſſorn der Muſic, vor allen andern
+          <lb/>Graduirten, eine abſonderliche bunte, verbluͤmte oder vielfaͤrbige Joſephs-Klei-
+          <lb/>dung beizulegen, will ich itzo nicht ausmachen; in unſerer Schule aber will es itzo
+          <lb/>noͤthig ſeyn, mit gegenwaͤrtiger ergetzlichen Vorſchrifft eine kleine Veraͤnderung
+          <lb/>zu treffen, nachdem wir vorher einen ziemlichen Eck in muͤhſamen Tonen zuruͤck
+          <lb/>geleget haben.
         </p>
       </div>
 
       <div n="2">
-        <head>§. 2.</head>
+        <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
-          Ob man nun schon alles hierinn mit dem neun-achtel-Tact gantz wol haͤtte
-          bestellen, und nur ein <hi rendition="#aq"><foreign xml:lang="ita">Allegro</foreign></hi> dabey setzen koͤnnen; so
-          kann es doch nicht schaden, daß wir auch denen zu gefallen den neun-sechszehntel-Tact
-          hersetzen, die ihn vielleicht nimmer, oder doch selten, gesehen haben, und sich
-          dannenhero, wenn es ihnen einmahl unvermuthet begegnen solte, ein wenig
-          fuͤrchten moͤgten. Es heisset zwar: <hi rendition="#b">Man soll ohne Noht die zu einer
-          Wissenschaft gehoͤrigen Dinge nicht vermehren oder verdoppeln</hi>,
-          und mag jener alte ehrsame <hi rendition="#aq"><foreign xml:lang="lat">Musicus</foreign></hi> nicht unrecht gesagt
-          haben: <hi rendition="#b">Es sey eine grosse Thorheit, diejenige Melodie, welche mit
-          schlechten, deutlichen Noten geschrieben werden kann, durch dunckle
-          Zeichen zweifelhafft zu machen</hi>; wie solches Schwaͤbisch-Hallische
-          <hi rendition="#aq"><foreign xml:lang="ita">Cantor</foreign></hi>, <persName corresp="#ed_esw_kxx_qlb">Herr <hi rendition="#i">Majer</hi></persName>,
-          in seinem <hi rendition="#aq"><bibl corresp="#ed_tyg_hdl_tlb">Hodego Musico, p. 28.</bibl></hi>
-          kluͤglich anfuͤhret. Allein, erstlich muß man, um geschwinde Sachen recht auszudruͤcken,
-          auch geschwinde Taͤcte und geschwinde Noten gebrauchen, damit Zeichen und Sachen
-          uͤbereinstimmen. (2) Muß man der Mode in gewissen Stuͤcken nicht absagen,
-          welches sonst heißt: <hi rendition="#b">wieder den Strom schwimmen.</hi> Und (3) werden
-          hier keine <note place="foot" n="*" xml:id="fn-01">Die Zeichen 2/4, 2/8 und 2 sind im geringsten
-          nicht dunckel, sondern sehr einfach und natuͤrlich, die aber meynen, man koͤnne es,
-          Statt derselben, mit dem gewoͤhnlichen C allein bestellen, irren sich, haben keine
-          Erfahrung, und wissen keine Bewegung zu unterscheiden</note> dunckele Zeichen
-          vorkommen. Die aͤußerliche Gestalt eines musicalischen Stuͤcks ist offt verfuͤhrerisch.
-          Denn wie mancher General-Baß leicht aussiehet, und es doch nicht ist; also gibt
-          es auch bißweilen bunte Baͤsse, dem Ansehen nach, die doch gar nicht gefaͤhrlich
-          sind: deren einen wir von uns finden.
+          <lb/>Ob man nun ſchon alles hierinn mit dem neun-achtel-Tact gantz wol haͤt-
+          <lb/>te beſtellen, und nur ein <hi rendition="#aq"><foreign xml:lang="ita">Allegro</foreign></hi> dabey ſetzen koͤnnen; ſo kann es doch nicht ſcha-
+          <lb/>den, daß wir auch denen zu gefallen den neun-ſechszehntel-Tact herſetzen, die ihn viel-
+          <lb/>leicht nimmer, oder doch ſelten, geſehen haben, und ſich dannenhero, wenn er ihnen
+          <lb/>einmahl unvermuthet begegnen ſolte, ein wenig fuͤrchten moͤgten. Es heiſſet zwar:
+          <lb/><hi rendition="#b">Man ſoll ohne Noht die zu einer Wiſſenſchafft gehoͤrigen Dinge nicht
+          <lb/>vermehren oder verdoppeln</hi>, und mag jener alte erfahrne <hi rendition="#aq"><foreign xml:lang="lat">Muſicus</foreign></hi> nicht un-
+          <lb/>recht geſagt haben: <hi rendition="#b">Es ſey eine groſſe Thorheit, diejenige Melodie, wel-</hi>
+          <fw place="bottom" type="catch">che</fw>
+          <pb n="375" facs="#facs-p437"/>
+          <lb/><hi rendition="#b">che mit ſchlechten, deutlichen Noten geſchrieben werden kann, durch
+          <lb/>dunckle Zeichen zweifelhafft zu machen</hi>; wie ſolches der Schwaͤbiſch-Haͤlli-
+          <lb/>ſche <hi rendition="#aq"><foreign xml:lang="ita">Cantor</foreign></hi>, <persName corresp="#ed_esw_kxx_qlb">Herr <hi rendition="#i">Majer</hi></persName>,
+          in ſeinem <hi rendition="#aq"><bibl corresp="#ed_tyg_hdl_tlb">Hodego Muſico, p. 28.</bibl></hi> kluͤglich anfuͤhret. Al-
+          <lb/>lein, erſtlich muß man, um geſchwinde Sachen recht auszudrucken, auch geſchwinde
+          <lb/>Taͤcte und geſchwinde Noten gebrauchen, damit Zeichen und Sachen uͤbereinſtim-
+          <lb/>men. (2) Muß man der Mode in gewiſſen Stuͤcken nicht abſagen, welches ſonſt heißt:
+          <lb/><hi rendition="#b">wieder den Strom ſchwimmen.</hi> Und (3) werden hier keine <note place="foot" n="*" xml:id="fn-01">
+            <lb/>Die Zeichen 2/4 2/8 und 2 ſind im geringſten nicht dunckel, ſondern ſehr einfach und natuͤrlich; die aber
+            <lb/>meynen, man koͤnne es, Statt derſelben, mit dem gewoͤhnlichen C allein beſtellen, irren ſich,
+            <lb/>haben keine Erfahrung, und wiſſen keine Bewegung zu unterſcheiden.</note> dunckele Zei-
+          <lb/>chen vorkommen. Die aͤuſerliche Geſtalt eines muſicaliſchen Stuͤcks iſt offt verfuͤh-
+          <lb/>riſch. Denn wie mancher General-Baß leicht ausſiehet, und es doch nicht iſt; alſo
+          <lb/>gibt es auch bißweilen bunte Baͤſſe, dem Anſehen nach, die doch gar nicht gefaͤhr-
+          <lb/>lich ſind: deren einen wir vor uns finden.
         </p>
       </div>
 
       <div n="3">
-        <head>§. 3.</head>
+        <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          Der <ref target="#measure-0000001263987989">elffte Tact</ref> muß doch was zu bedeuten haben, weil
-          der Baß daselbst stille stehet. Es kann unterdessen etwas in der rechten Hand
-          vorgehen, etwa auf diese Nachahmungs-Art:
+          <lb/>Der <ref target="#measure-0000001263987989">elffte Tact</ref> muß doch was zu bedeuten haben, weil der Baß daſelbſt
+          <lb/>ſtille ſteht. Es kann unterdeſſen etwas in der rechten Hand vorgehen, etwa auf
+          <lb/>dieſe Nachahmungs-Art:
         </p>
         <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
           <ptr target="music-example1.xml"/>
         </notatedMusic>
         <p xml:id="p3-2" facs="#facsZone-p3-2">
-          Welches man sich bey dem
+          <lb/>Welches man ſich bey dem
           <ref target="#measure-0000000401264624">dreizehnten</ref>
-          auch wolle gesagt seyn lassen.
+          auch wolle geſagt ſeyn laſſen.
         </p>
       </div>
 
       <div n="4">
-        <head>§. 4.</head>
+        <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          Vom
+          <lb/>Vom
           <ref target="#measure-0000000398572267">neunzehnten Tact</ref>
           biß
-          <ref target="#measure-0000000135352827">an die erste Wiederholung</ref>
-          weiset auch schon der Baß
-          aus, daß sich die rechte Hand seine vorhergehende Gaͤnge sehr wol zu Nutzen
-          machen kann, wovon viel Worte nur unnoͤthig.
+          <ref target="#measure-0000000135352827">an die erſte Wiederholung</ref>
+          weiſet auch ſchon der
+          <lb/>Baß aus, daß ſich die rechte Hand ſeine vorhergehende Gaͤnge ſehr wol zu Nutzen
+          <lb/>machen kann, wovon viel Worte nur unnoͤthig.
         </p>
       </div>
 
       <div n="5">
-        <head>§. 5.</head>
+        <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          Da nun im
+          <lb/>Da nun im
           <ref target="#measure-0000000720476607">achten Tact des andern Theils</ref>
-          der Baß wiederum zu erkennen gibt, daß er gern abgeloͤset seyn moͤgte, so wird
-          man seine rechte Hand abermahl zu einer kleinen Syncopation bequemen muͤssen
-          Damit dieselbe aber nicht allezeit auf einerley Weise geschehe, kann der eine
-          Tact seine Arbeit von unten, der andere aber dieselbe von oben machen, und mag
-          damit Tact-Weise abgewechselt werden, wie hernach der Baß selber thut, welches
-          aus beistehendem wenigen deutlicher zu sehen ist:
+          der Baß wiederum zu erkennen
+          <lb/>gibt, daß er gern abgeloͤſet ſeyn moͤgte, ſo wird man ſeine rechte Hand abermahl
+          <lb/>zu einer kleinen Syncopation bequemen muͤſſen. Damit dieſelbe aber nicht alle-
+          <lb/>zeit auf einerley Weiſe geſchehe, kann der eine Tact ſeine Arbeit von unten, der andere
+          <lb/>aber dieſelbe von oben machen, und mag damit Tact-Weiſe abgewechſelt werden, wie
+          <lb/>hernach der Baß ſelber thut, welches aus beiſtehendem wenigen deutlicher zu ſe-
+          <lb/>hen iſt:
         </p>
+        <pb n="376" facs="#facs-p438"/>
         <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
           <ptr target="music-example2.xml"/>
         </notatedMusic>
       </div>
 
       <div n="6">
-        <head>§. 6.</head>
+        <lb/><head>§. 6.</head>
         <p xml:id="p6-2" facs="#facsZone-p6-1">
-          <ref target="#measure-0000001692641009">Der zehnte</ref> und
+          <lb/><ref target="#measure-0000001692641009">Der zehnte</ref> und
           <ref target="#measure-0000000980772493">elffte Tact</ref>
-          koͤnnen nach vorhergehender Anleitung abgefertiget werden; bey dem
+          koͤnnen nach vorhergehender Anleitung abgefer-
+          <lb/>tiget werden; bey dem
           <ref target="#measure-0000000813644631">zwoͤlfften</ref> aber
-          muß man sich, und so durchgehends bey allen Accorden, vorsehen, erstlich,
-          daß der Zwischen-Raum keine Tertz mache, welche zu Brechung zu enge ist, wie
-          oben schon angemercket worden. Fuͤrs andere, daß die dreistimmige Harmonia
-          vor allen Dingen vollkommen sey, da es denn nicht andern folgen kann, wenn
-          diese beide Stuͤcke beobachtet werden, als daß die Syncopation von unten
-          jederzeit ihre Accorde in der Quint, von oben aber in der Tertz anhebe, welche
-          beide Arten man sonst <hi rendition="#aq"><foreign xml:lang="lat">Syzygiam remotam</foreign></hi>,
-          <abbr>d.i.</abbr> eine solchen
-          Accord, desse Theile etwas entfernet sind, zu nennen pfleget. Kommen aber zween
-          Accorde Stuffen-Weise auf einander, es sey  im Auff- oder Niedersteigen, und
-          man wolte denn beidemahl in der Quint anfangen, so kaͤme ein Fehler heraus.
-          Derowegen muß die Abwechslung vorbeschriebener massen das Mittel seyn, Fehler
-          zu vermeiden. Ob nun gleich in diesem Prob-Stuͤck niemals zween Accorde
-          unmittelbar und Stuffen-Weise auff einander folgen, so will ich doch den
-          Fall hersetzen, und dadurch zugleich abermahl erlaͤutern, was in der Quint oder
-          Tertz anfangen oder abwechseln heisse.
+          muß man ſich, und ſo durchgehends bey allen
+          <lb/>Accorden, vorſehen, erſtlich, daß der Zwiſchen-Raum keine Tertz mache, welche zur
+          <lb/>Brechung zu enge iſt, wie oben ſchon angemercket worden. Fuͤrs andere, daß die
+          <lb/>dreiſtimmige Harmonia vor allen Dingen vollkommen ſey, da es denn nicht anders
+          <lb/>folgen kann, wenn dieſe beide Stuͤcke beobachtet werden, als daß die Syncopation
+          <lb/>von unten jederzeit ihre Accorden in der Quint, von oben aber in der Tertz anhebe, wel-
+          <lb/>che beide Arten man ſonſt <hi rendition="#aq"><foreign xml:lang="lat">Syzygiam remotam</foreign></hi>,
+          <abbr>d. i.</abbr> eine ſolchen Accord, deſſen Theile
+          <lb/>etwas entfernet ſind, zu nennen pfleget. Kommen aber zween Accorde Stuffen-
+          <lb/>Weiſe auf einander, es ſey im Auff- oder Niederſteigen, und man wolte denn beide-
+          <lb/>mahl in der Quint anfangen, ſo kaͤmen Fehler heraus. Derowegen muß die Ab-
+          <lb/>wechſelung vorbeſchriebener maſſen das Mittel ſeyn, Fehler zu verhuͤten. Ob nun
+          <lb/>gleich in dieſem Prob-Stuͤcke niemahls zween Accorde unmittelbar und Stuffen-
+          <lb/>Weiſe auff einander folgen, ſo will ich doch den Fall herſetzen, und dadurch zugleich
+          <lb/>abermahl erlaͤutern, was in der Quint oder Tertz anfangen oder abwechſeln heiſſe.
         </p>
         <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
           <ptr target="music-example3.xml"/>
@@ -239,27 +243,30 @@
       </div>
 
       <div n="7">
-        <head>§. 7.</head>
+        <lb/><head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
-          Wenn, wie im
+          <lb/>Wenn, wie im
           <ref target="#measure-0000000663286333">dreizehnten</ref> und
-          <ref target="#measure-0000000999021806">vierzehnten Tact</ref> der Baß eine solche Clusul hat, die
-          die durch zwey Taͤcte, woraus sie bestehet, wiederholet wird; alsdann muß die
-          Abwechslung nicht Tact-Weise, sondern je zween und zween Taͤcte, oder durch mehr
-          geschehen, wenn sich der Satz uͤber mehr erstrecket. Jm
-          <ref target="#measure-0000000815808309">sieben und zwantzigsten Tact</ref> gibt es zween Accorde,
-          Sprung-Weise nach einander, woselbst abgewechselt werden muß.
+          <ref target="#measure-0000000999021806">vierzehnten Tact</ref>, der Baß eine ſolche Clauſul
+          <lb/>hat, die durch zwey Taͤcte, woraus ſie beſtehet, wiederhohlet wird; alsdann muß
+          <lb/>die Abwechſelung nicht Tact-Weiſe, ſondern je zween und zween Taͤcte, oder durch
+          <lb/>mehr geſchehen, wenn ſich der Satz uͤber mehr erſtrecket. Jm
+          <ref target="#measure-0000000815808309">ſieben und zwantzig-
+          <lb/>ſten Tact</ref> gibt es zween Accorde, Sprung-Weiſe nach einander, woſelbſt abgewechſelt
+          <lb/>werden muß.
         </p>
+        <fw place="bottom" type="catch">§. 8</fw>
       </div>
 
       <div n="8">
-        <head>§. 8.</head>
+        <pb n="377" facs="#facs-p439"/>
+        <lb/><head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          Vom
-          <ref target="#measure-0000000815808309">acht und zwantzigsten Tact</ref> an biß zu Ende moͤgen beide
-          Haͤnde zugleich ihre Brechung zusammen fuͤhren, welches eine artige Wirckung
-          thut, dafern nur am rechten Ort angefangen wird. Solches geschiehet aber
-          auf folgende Weise, da die letzten Acht Taͤcte gaͤntzlich hergesetzet sind:
+          <lb/>Vom
+          <ref target="#measure-0000000815808309">acht und zwantzigſten Tact</ref> an biß zu Ende moͤgen beide Haͤnde zugleich
+          <lb/>ihre Brechung zuſammen fuͤhren, welches eine artige Wirckung thut, dafern nur am
+          <lb/>rechten Ort angefangen wird. Solches geſchiehet aber auf folgende Weiſe, da die letz-
+          <lb/>ten acht Taͤcte gaͤntzlich hergeſetzet ſind:
         </p>
         <notatedMusic xml:id="music-example4" facs="#facsZone-music-example4">
           <ptr target="music-example4.xml"/>
@@ -267,14 +274,14 @@
       </div>
 
       <div n="9">
-        <head>§. 9.</head>
+        <lb/><head>§. 9.</head>
         <p xml:id="p9-1" facs="#facsZone-p9-1">
-          Dieses <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>, ob es gleich nur zweistimmig aussiehet,
-          ist dennoch im Grunde vierstimmig, und klingt bey der Geschwidigkeit so voll, als
-          sonst acht Stimmen, bey geraden oder schlechten Griffen, nicht thun
-          koͤnnen. Man brige es aber nirgends an, als wo der Bass entweder alleine, oder
-          zu einem starcken Satz spielet.
+          <lb/>Dieſes <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>, ob es gleich nur zweiſtimmig ausſiehet, iſt dennoch im Grunde vierſtimmig, und
+          <lb/>klingt bey der Geſchwindigkeit ſo voll, als ſonſt acht Stimmen, bey geraden oder ſchlechten Griffen, nicht
+          <lb/>thun koͤnnen. Man bringe es aber nirgend an, als wo der Baß entweder allein, oder zu einem ſtarcken
+          <lb/>Satz ſpielet.
         </p>
+        <fw place="bottom" type="catch">Vier-</fw>
       </div>
     </div>
     </body>
