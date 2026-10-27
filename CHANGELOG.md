@@ -2,6 +2,12 @@
 
 Notable changes to the encodings. Each version corresponds to a tagged release of this repository.
 
+## Unreleased
+
+### Added
+
+- Sentence alignment of the translation with the 1731 text: `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`; the sentences of No. 1 are aligned (`<s xml:id="p1-1-s1">` in `comments_de.xml`, `<s corresp="comments_de.xml#p1-1-s1">` in `comments_en.xml`), and `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
+
 ## 1.0.0 (2026-10-27)
 
 First versioned release.

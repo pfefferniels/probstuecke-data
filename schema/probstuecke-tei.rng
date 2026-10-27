@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2026-10-27T10:36:31Z. . 
+Schema generated from ODD source 2026-10-27T20:11:19Z. . 
 TEI Edition: P5 Version 4.12.0. Last updated on 28th July 2026, revision 113e933e2 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.12.0/ 
   
@@ -1769,28 +1769,40 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
    </define>
    <define name="tei_model.segLike">
       <choice>
+         <ref name="tei_s"/>
          <ref name="tei_pc"/>
       </choice>
    </define>
    <define name="tei_model.segLike_alternation">
       <choice>
+         <ref name="tei_s"/>
          <ref name="tei_pc"/>
       </choice>
    </define>
    <define name="tei_model.segLike_sequence">
+      <ref name="tei_s"/>
       <ref name="tei_pc"/>
    </define>
    <define name="tei_model.segLike_sequenceOptional">
+      <optional>
+         <ref name="tei_s"/>
+      </optional>
       <optional>
          <ref name="tei_pc"/>
       </optional>
    </define>
    <define name="tei_model.segLike_sequenceOptionalRepeatable">
       <zeroOrMore>
+         <ref name="tei_s"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="tei_pc"/>
       </zeroOrMore>
    </define>
    <define name="tei_model.segLike_sequenceRepeatable">
+      <oneOrMore>
+         <ref name="tei_s"/>
+      </oneOrMore>
       <oneOrMore>
          <ref name="tei_pc"/>
       </oneOrMore>
@@ -11370,6 +11382,27 @@ Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion
          </attribute>
       </optional>
    </define>
+   <define name="tei_s">
+      <element name="s">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(s-unit) contains a sentence-like division of a text. [18.1. Linguistic Segment Categories 8.4.1. Segmentation]</a:documentation>
+         <ref name="tei_macro.phraseSeq"/>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                  id="probstuecke-tei-s-noNestedS-constraint-rule-33">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      context="tei:s">
+               <sch:report test="tei:s">You may not nest one &lt;s&gt; element within another: use &lt;seg&gt; instead.</sch:report>
+            </sch:rule>
+         </pattern>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.cmc.attributes"/>
+         <ref name="tei_att.notated.attributes"/>
+         <ref name="tei_att.segLike.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_pc">
       <element name="pc">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(punctuation character) contains a character or string of characters regarded as constituting a single punctuation mark. [18.1.2. Below the Word Level 18.4.2. Lightweight Linguistic Annotation]</a:documentation>
@@ -11571,7 +11604,7 @@ Sample values include: 1] homeoteleuton; 2] homeoarchy; 3] paleographicConfusion
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                  id="probstuecke-tei-facsimile-no_facsimile_text_nodes-constraint-rule-33">
+                  id="probstuecke-tei-facsimile-no_facsimile_text_nodes-constraint-rule-34">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -11932,7 +11965,7 @@ Sample values include: 1] TEI (text encoding initiative); 2] DBK (docbook); 3] X
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                  id="probstuecke-tei-listRef-TagDocsNestinglistRef-constraint-rule-34">
+                  id="probstuecke-tei-listRef-TagDocsNestinglistRef-constraint-rule-35">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       xmlns:xi="http://www.w3.org/2001/XInclude"
@@ -11942,7 +11975,7 @@ Sample values include: 1] TEI (text encoding initiative); 2] DBK (docbook); 3] X
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
                   xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                  id="probstuecke-tei-listRef-TagDocslistRefChildren-constraint-rule-35">
+                  id="probstuecke-tei-listRef-TagDocslistRefChildren-constraint-rule-36">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       xmlns:xi="http://www.w3.org/2001/XInclude"
