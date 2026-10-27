@@ -107,8 +107,8 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
-            <lb/><hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b">Treffer</hi>, wenn er das Ding ſo vor der Fauſt wegſpielen
-            <lb/>ſoll, duͤrffte hier leicht ſtolpern. Man hat ſagen wollen, daß es eben nicht
+            <lb/><hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b"><term xml:id="t_treffen-1" corresp="#t_treffen">Treffer</term></hi>, wenn er das Ding ſo vor der Fauſt wegſpielen
+            <lb/>ſoll, duͤrffte hier leicht <term xml:id="t_stolpern-1" corresp="#t_stolpern">ſtolpern</term>. Man hat ſagen wollen, daß es eben nicht
             <lb/>noͤhtig geweſen waͤre, das Woͤrtlein <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi> daruͤber zu ſetzen, weil
             <lb/>es hie und da ſo bedachtſam zu gehen duͤrffte, daß wenig oder nichts davon vernom-
             <lb/>men werden moͤgte. Das Wort ſoll indeſſen ſo viel bedeuten, daß keiner zu plumpe,
@@ -125,9 +125,9 @@
           <p xml:id="p2-1" facs="#facsZone-p2-1">
             <lb/>Vom <ref target="#measure-0000002110347575">achten Tact an</ref> kan es fein (wenn man will) in der rechten Hand varii-
             <lb/>ret werden, welches um ſo viel fremder klingt, da man es aus ſolchen Tonen nicht ge-
-            <lb/>wohnet iſt. Jch habe es verſucht, und eine geſchickte Brechung gantz durchgehen laſſen,
+            <lb/>wohnet iſt. Jch habe es verſucht, und eine geſchickte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> gantz durchgehen laſſen,
             <lb/>welches gut geklungen hat. Will man aber wiſſen, wie es gemacht worden iſt, ſo
-            <lb/>theile ich hier ein wenig zur Probe mit, daraus das uͤbrige mag beurtheilet werden.
+            <lb/>theile ich hier ein wenig zur <term xml:id="t_probe-1" corresp="#t_probe">Probe</term> mit, daraus das uͤbrige mag beurtheilet werden.
           </p>
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
             <ptr target="music-example1.xml"/>
@@ -155,11 +155,11 @@
             <fw place="bottom" type="catch">liehrt</fw>
             <pb n="381" facs="#facs-p443"/>
             <lb/>liehrt ſonſt dadurch alle ſeine Anmuth. Jch kan dabey nicht unberuͤhret laſſen, daß
-            <lb/>die beſondere Bewegung und die Manier, womit eine Sache herausgebracht wird,
+            <lb/>die beſondere <term xml:id="t_bewegung_im_takt-1" corresp="#t_bewegung_im_takt">Bewegung</term> und die Manier, womit eine Sache herausgebracht wird,
             <lb/>derſelben das rechte Leben geben, ohne welches alles rauh und hoͤltzern klingt. Wir be-
             <lb/>trachten offtmahls eine unanſehnliche Arie, als etwas nichtswuͤrdiges, biß wir einſt
             <lb/>hoͤren, mit welcher Art dieſelbe muͤſſe oder koͤnne geſungen und geſpielet werden; als-
-            <lb/>dann iſt ſie unſere Leib-Arie. So viel liegt an der Ausuͤbung: ſie macht in der Muſic juſt
+            <lb/>dann iſt ſie unſere Leib-Arie. So viel liegt an der <term xml:id="t_ausuebung-1" corresp="#t_ausuebung">Ausuͤbung</term>: ſie macht in der Muſic juſt
             <lb/>den Unterſcheid, welchen Licht und Schatten haben; das ſind aber mit einander ſtrei-
             <lb/>tende Dinge. Alſo wolte ich denn auch inſonderheit dieſe Aufgabe mit einer gewiſ-
             <lb/>ſen Bewegung, nur nicht zu geſchwind, ſondern mit Bedacht, geſpielet wiſſen.
@@ -170,8 +170,8 @@
           <lb/><head>§. 5.</head>
           <p xml:id="p5-1" facs="#facsZone-p5-1">
             <lb/>Jedermann wird ſehen, daß, was <ref target="#measure-0000000161042882">auf der andern Seite dieſes <hi rendition="#aq">Probe</hi>-Stuͤ-
-            <lb/>ckes</ref> erſcheinet, eben daſſelbe Ding ſey, und nur eine andere Geſtalt durch die Kreu-
-            <lb/>tze an ſich genommen habe. Jch halte ſolche Verſetzungen fuͤr ſehr nuͤtzlich, und will
+            <lb/>ckes</ref> erſcheinet, eben daſſelbe Ding ſey, und nur eine andere Geſtalt durch die <term xml:id="t_kreuz-1" corresp="#t_kreuz">Kreu-
+            <lb/>tze</term> an ſich genommen habe. Jch halte ſolche <term xml:id="t_transposition-1" corresp="#t_transposition">Verſetzungen</term> fuͤr ſehr nuͤtzlich, und will
             <lb/>die Studierende gebeten haben, dergleichen vor ſich zu verſuchen, und die Stuͤcke, ſo
             <lb/>nicht verſetzt hierinn zu finden, auf dieſe Art, ſelbſt fleiſſig zu verſetzen: denn dadurch
             <lb/>veraͤndert man den Ton nicht.
@@ -204,7 +204,7 @@
               <corr type="corrigenda">taͤglicher</corr>
             </choice>
             Gaſt iſt, u. ſ. w. Jn Erwegung deſſen habe hier nur
-            <lb/>das Dis und Gis auf zweierley Art vorſtellen, die andern ſieben zuruͤck laſſen, und ei-
+            <lb/>das Dis und <term xml:id="t_gis_moll-1" corresp="#t_gis_moll">Gis</term> auf zweierley Art vorſtellen, die andern ſieben zuruͤck laſſen, und ei-
             <lb/>nem fleiſſigen General-Baſſiſten rathen wollen, ſein Heil ſelbſt daran zu verſuchen.
             <lb/>Es kan nicht ſchaden: dafuͤr will ich einſtehen. Daß ich inzwiſchen nur von neun To-
             <lb/>nen rede, die eine ſolche Verſetzung leiden, geſchiehet deßwegen, weil <hi rendition="#b">D, G</hi>, und <hi rendition="#b">A</hi>

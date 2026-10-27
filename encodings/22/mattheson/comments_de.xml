@@ -111,7 +111,7 @@
           zu bemercken, daß zwi-
           <lb />ſchen beiden das
           <ref target="#note-0000000845814796"><hi rendition="#b">h</hi></ref>
-          an- und mit einem kurtzen Triller vorſchlagen muß.
+          an- und mit einem kurtzen <term xml:id="t_triller-1" corresp="#t_triller">Triller</term> vorſchlagen muß.
         </p>
       </div>
 
@@ -120,7 +120,7 @@
         <p xml:id="p2-1">
           <lb />Weñ man hierna&#x0364;chſt alles fein reinlich, biß auf den
           <ref target="#note-0000002103583228">Abſatz im elfften Tact</ref>, gebracht
-          <lb />hat, wird eine Melodie zu erſinnen ſeyn, welche die rechte Hand ins Werck ſetzen kann,
+          <lb />hat, wird eine <term xml:id="t_kantabel-1" corresp="#t_kantabel">Melodie</term> zu erſinnen ſeyn, welche die rechte Hand ins Werck ſetzen kann,
           <lb />und damit etwa zehn Tacte, biß zum abermahligen
           <ref target="#note-0000000417006726">Abſatz in <hi rendition="#b">cis</hi></ref>, fortfahren mag,
           <lb />ohngefehr auf folgende Art:
@@ -141,7 +141,7 @@
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
           <lb />Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſtehet wiederum:
-          <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign>'</hi></ref>,
+          <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_kantabel-2" corresp="#t_kantabel #t_si_suona">ſi ſuona</term></foreign>'</hi></ref>,
           deſſen Bedeutung bekannt
           <lb />iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
           und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
