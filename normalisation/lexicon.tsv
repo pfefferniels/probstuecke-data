@@ -561,7 +561,6 @@ diſcret	diskret	cab	2
 dreygeschwaͤntzte	dreigeschwänzte	cab	2	
 dreygeſtrichene	dreigestrichene	cab	2	
 durchgefuͤhret	durchgeführt	cab	2	
-durgehen	durchgehen	cab	2	
 duͤrffe	dürfe	cab	2	
 eckel	ekel	cab	2	
 ehender	eher	cab	2	
@@ -592,7 +591,6 @@ führet	führt	cab	2
 fünfften	fünften	cab	2	
 fünfftes	fünftes	cab	2	
 fünffzehntes	fünfzehntes	cab	2	
-gafallen	geofallen	cab	2	
 galoppiren	galoppieren	cab	2	
 gantzes	ganzes	cab	2	
 gedencket	gedenkt	cab	2	
@@ -925,7 +923,6 @@ Octaven-Weise	Oktaven-Weise	cab	1
 Octavenweiſe	Oktavenweise	cab	1	
 Oertern	Orten	cab	1	
 Officin	Offizin	cab	1	
-Organiften-Probe	Organisten-Probe	cab	1	
 Organiſtens-Burſche	Organisten-Bursche	cab	1	
 Orgel-Wercken	Orgel-Werken	cab	1	
 Pancratz	Pankraz	cab	1	
@@ -1022,7 +1019,6 @@ Weilgen	Weilchen	edited	1	diminutive -gen = -chen
 Werckſtatt	Werkstatt	cab	1	
 Wilt	Willst	cab	1	
 Wolan	wohlan	cab	1	
-Wotte	Worte	edited	1	print or transcription error for Worte
 Wunderwercke	Wunderwerke	cab	1	
 Wuͤrckung	Wirkung	cab	1	
 Wuͤsten	Wüssten	cab	1	
@@ -1098,7 +1094,6 @@ aufstosse	aufstoße	cab	1
 aufstossende	aufstoßende	cab	1	
 aufſtoͤſſet	aufstößt	cab	1	
 aufſtöſſt	aufstößt	cab	1	
-ausfchlieſſen	ausschließen	cab	1	
 ausgefuͤhret	ausgeführt	cab	1	
 ausgenomen	ausgenommen	cab	1	
 ausgesetzet	ausgesetzt	cab	1	
@@ -1128,7 +1123,6 @@ beliegen	beliegen	edited	1	CAB: beliehen
 bemeldte	bemehlte	cab	1	
 bemeldten	bemehlten	cab	1	
 bemercke	bemerke	cab	1	
-besanden	befanden	cab	1	
 besaͤnfftigende	besänftigende	cab	1	
 besondre	besondere	cab	1	
 beurtheile	beurteile	cab	1	
@@ -1168,7 +1162,6 @@ daſſelbſt	daselbst	cab	1
 dedicirt	dediziert	cab	1	
 dein'	deine	cab	1	
 dependiret	dependiert	cab	1	
-derfelben	derselben	cab	1	
 dermaſſen	dermaßen	cab	1	
 deutlichers	deutlicheres	cab	1	
 diesesmahl	diesmal	cab	1	
@@ -1246,7 +1239,6 @@ exerciret	exerzieret	cab	1
 favoriſiren	favorisieren	cab	1	
 faͤhret	fährt	cab	1	
 faͤnget	fängt	cab	1	
-felbiges	selbiges	cab	1	
 findt	findet	cab	1	
 fleissigen	fleißigen	cab	1	
 fleissiger	fleißiger	cab	1	
@@ -1273,8 +1265,6 @@ gebrauchet	gebraucht	cab	1
 gedaucht	gedeucht	edited	1	from dünken; CAB: getaucht
 gedrucckt	gedruckt	cab	1	
 gefolget	gefolgt	cab	1	
-geftehet	gestehet	cab	1	
-geftimmet	gestimmt	cab	1	
 geführet	geführt	cab	1	
 geheiſſen	geheißen	cab	1	
 gehemmet	gehemmt	cab	1	
@@ -1299,6 +1289,7 @@ geſaget	gesagt	cab	1
 geſchenckt	geschenkt	cab	1	
 geſcholtne	gescholtene	cab	1	
 geſpuͤhret	gespürt	cab	1	
+geſtimmet	gestimmt	cab	1	
 gravirten	gravierten	cab	1	
 gravirtes	graviertes	cab	1	
 greifft	greift	cab	1	
@@ -1352,12 +1343,10 @@ iſts	ist es	cab	1	contraction
 iſſet	isst	cab	1	
 jedennoch	dennoch	cab	1	
 jederman	jedermann	cab	1	
-jerderzeit	jederzeit	cab	1	
 judicire	judiziere	cab	1	
 kans	kann es	cab	1	contraction
 kauffen	kaufen	cab	1	
 kennete	kennte	cab	1	
-kit	mit	edited	1	print or transcription error for mit
 kleineſten	kleinsten	cab	1	
 kom̃en	kommen	cab	1	
 kom̃t	kommt	cab	1	
@@ -1385,7 +1374,6 @@ mangelhafft	mangelhaft	cab	1
 mannierlich	manierlich	cab	1	
 mannierlichen	manierlichen	cab	1	
 mannierliches	manierliches	cab	1	
-mansehnlich	mannsehnlich	cab	1	
 maſſiveste	massivste	cab	1	
 mehrer	mehr	edited	1	mit mehrer Aufmerckſamkeit
 misbillige	missbillige	cab	1	
@@ -1410,10 +1398,8 @@ nachgeahmet	nachgeahmt	cab	1
 nachtheil	nachteil	cab	1	
 nechſten	nächsten	cab	1	
 neun-ſechszehntel	neun-Sechszehntele	cab	1	
-niht	nicht	edited	1	print or transcription error for nicht
 nim̃t	nimmt	cab	1	
 nocheinmahl	noch einmal	edited	1	CAB: nochmal
-nocht	noch	cab	1	
 nothwendigſte	notwendigste	cab	1	
 notirt	notiert	cab	1	
 noͤthige	nötige	cab	1	
@@ -1426,7 +1412,6 @@ oftmahls	oftmals	cab	1
 ohnlaͤngſt	unlängst	cab	1	
 operiren	operieren	cab	1	
 ordinaire	ordinäre	cab	1	
-oͤffentlih	öffentlich	cab	1	
 paarmahl	paarmal	cab	1	
 pag	pag	edited	1	abbreviation of pagina; CAB gave pak
 pardonniret	pardonieret	cab	1	
