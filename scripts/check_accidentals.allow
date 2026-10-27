@@ -11,3 +11,9 @@
 encodings/24/mattheson/music-example1.xml: ex-n23u287
 encodings/24/mattheson/music-example1.xml: ex-ngc9bwg
 encodings/24/mattheson/music-example1.xml: ex-n9z96h3
+
+# --- No. 4, realisation by J.-C. Dijoux -----------------------------------------
+# A modern edition encoded in MEI Basic, which has no editorial markup: the
+# cautionary accidentals the rules suggest cannot be supplied, and the file
+# has no modernised view.
+encodings/4/jcd/score.xml: *

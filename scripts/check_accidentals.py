@@ -20,13 +20,19 @@ follows modern accidental rules. Both come from one encoding:
     <reg resp="#pfeffer"><accid           replaces, e.g. the old flat that
     accid="n"/></reg></choice>            cancels a sharp
 
-The sounding pitch is @accid.ges (on the note or its accid) or else the
-written accidental. The script applies modern rules to it and reports every
-note whose encoded accidentals do not fit:
+The sounding pitch is @accid.ges (on the note or its accid), else the written
+accidental, else that of the last note of the same pitch and octave in the bar
+that has one of them, else the printed (not the modern) key signature. The
+script applies modern rules to it and reports every note whose encoded
+accidentals do not fit:
 
-  * the key signature is the one Verovio draws (keySig/@sig, @key.sig on
-    scoreDef or staffDef, keySig in a layer); @key.pname/@key.mode are ignored.
-    Old key signatures (e.g. "Dorian" ones) are kept, not modernised;
+  * the key signature is the one Verovio draws in the modernised view
+    (keySig/@sig, @key.sig or @keysig on scoreDef or staffDef, keySig in a
+    layer; a <choice> is read as ./reg): where the print has an old one
+    (e.g. a "Dorian" minor signature), the modern one is encoded as
+      <choice><orig/><reg resp="#pfeffer"><scoreDef><keySig sig="3f"/>
+      </scoreDef></reg></choice>
+    at the start of the section; @key.pname/@key.mode are ignored;
   * an accidental holds for the same pitch and octave until the barline, on the
     whole staff (all layers, in time order); a barline cancels it;
   * a note tied from the previous note needs no accidental; an alteration tied
@@ -39,7 +45,8 @@ note whose encoded accidentals do not fit:
         in the bar (on the first note of its pitch and octave after that);
       - if the same pitch was tied over the barline with another alteration.
     A printed accidental that repeats one of another layer of the same staff
-    is accepted as a courtesy, too.
+    is accepted as a courtesy, too, and so is a supplied cautionary one on a
+    note tied over the barline.
 
 Categories of reports:
 
@@ -65,8 +72,10 @@ accidental is taken to sound as the modern rules read it.
 Allowlist (default: scripts/check_accidentals.allow): one entry per line,
 
     encodings/<path>.xml: <xml:id of the note>
+    encodings/<path>.xml: *
 
-An entry covers every report on that note. Lines starting with '#' are
+An entry covers every report on that note, or with * on every note of the
+file. Lines starting with '#' are
 comments; every entry should be explained by one. Entries that no longer match
 a report are reported as stale (when their file is checked).
 
@@ -280,23 +289,34 @@ def layer_events(el, t, scale, out, reading, chord=None):
 
 
 def walk_score(score, reading):
-    """Yield scoreDef and measure elements in reading order."""
-    def walk(el):
+    """Yield (element, view) for scoreDef and measure elements in reading order.
+
+    view is 'both', or 'modern' / 'diplomatic' for a scoreDef in a branch of a
+    <choice> that only that view renders (e.g. a modern key signature).
+    """
+    def walk(el, view):
         for ch in el:
             tag = localname(ch)
             if tag in ('scoreDef', 'measure'):
-                yield ch
+                if tag == 'scoreDef' or view != 'diplomatic':
+                    yield ch, view
             elif tag in ('section', 'ending', 'lem', 'rdg') or tag in TRANSPARENT:
-                yield from walk(ch)
+                yield from walk(ch, view)
             elif tag == 'app':
                 k = reading.app(ch)
                 if k is not None:
-                    yield from walk(k)
+                    yield from walk(k, view)
             elif tag == 'choice':
-                k = reading.choice(ch)
-                if k is not None:
-                    yield from walk(k)
-    yield from walk(score)
+                modern, diplomatic = pick(ch, 'reg'), pick(ch, 'orig')
+                if modern is diplomatic:
+                    if modern is not None:
+                        yield from walk(modern, view)
+                    continue
+                if modern is not None and view != 'diplomatic':
+                    yield from walk(modern, 'modern')
+                if diplomatic is not None and view != 'modern':
+                    yield from walk(diplomatic, 'diplomatic')
+    yield from walk(score, 'both')
 
 
 def sig_of(el):
@@ -340,12 +360,16 @@ class Keys:
 def analyse_reading(tree, reading, tie_starts, tie_ends):
     results = []
     for score in tree.iter(MEI + 'score'):
-        keys = Keys()
+        keys = Keys()           # the key signature of the modernised view
+        printed_keys = Keys()   # the printed one, for the pitch of notes without @accid.ges
         prev_state = defaultdict(dict)    # staff -> {(p, o): alteration shown in the previous bar}
         tied_alter = defaultdict(dict)    # staff -> {(p, o): alteration of a note with a tie to the next}
-        for el in walk_score(score, reading):
+        for el, view in walk_score(score, reading):
             if localname(el) == 'scoreDef':
-                keys.update(el)
+                if view != 'diplomatic':
+                    keys.update(el)
+                if view != 'modern':
+                    printed_keys.update(el)
                 continue
             measure = el
             events = defaultdict(list)
@@ -362,13 +386,15 @@ def analyse_reading(tree, reading, tie_starts, tie_ends):
                 evs.sort(key=lambda x: (x[0], x[1]))
                 cur_layer = {}     # (p, o) -> layer of the note that showed the accidental
                 key = keys.of(n)
+                printed_key = printed_keys.of(n)
+                known = {}         # (p, o) -> last explicitly encoded alteration in this bar
                 last = prev_state[n]
                 cur = {}           # (p, o) -> alteration shown by an accidental in this bar
                 seen, seen_letter = set(), set()
                 tied_in = {}       # (p, o) -> alteration tied over the barline into this bar
                 for t, s, e, layer_n in evs:
                     if localname(e) == 'keySig':
-                        key = key_from_sig(e.get('sig'))
+                        key = printed_key = key_from_sig(e.get('sig'))
                         continue
                     note = Note(e, reading)
                     if not note.pname or not note.oct:
@@ -381,13 +407,21 @@ def analyse_reading(tree, reading, tie_starts, tie_ends):
                         alter = note.written_alter()
                     is_tie_end = e in tie_ends
                     if alter is None:
-                        alter = tied_alter[n].get(po, state) if is_tie_end else state
+                        # no @accid.ges and no sign: the pitch of the last note of this pitch
+                        # and octave in the bar with an explicit one, else the printed key
+                        alter = known.get(po, printed_key.get(p, 0))
+                        if is_tie_end:
+                            alter = tied_alter[n].get(po, alter)
+                    else:
+                        known[po] = alter
                     if e in tie_starts:
                         tied_alter[n][po] = alter
                     if is_tie_end:
+                        soft = set()
                         if po not in seen:
                             tied_in.setdefault(po, alter)
-                        results.append(Result(note, alter, None, [], True, measure, n, set()))
+                            soft.add('tied over the barline')     # a courtesy accidental is accepted
+                        results.append(Result(note, alter, None, [], True, measure, n, soft))
                         continue
                     reasons, soft = [], set()
                     if alter != state:
@@ -604,7 +638,9 @@ def main(argv=None):
         reports = []
         for rep in check(path):
             key = (rel, rep.result.note.el.get(XML_ID))
-            if key in allow:
+            if (rel, '*') in allow:
+                used.add((rel, '*'))
+            elif key in allow:
                 used.add(key)
             elif LEVELS.index(rep.level) >= lowest:
                 reports.append(rep)
@@ -624,7 +660,7 @@ def main(argv=None):
         print(f'{args.allow.name}:{number}: stale entry "{rel}: {ident}" matches no report; remove it')
     failed |= bool(stale)
     print(', '.join(f'{totals[lv]} {lv}' for lv in reversed(LEVELS)) + f' in {len(files)} MEI files, '
-          f'{len(used)} allowlisted notes, {len(stale)} stale allowlist entries.', file=sys.stderr)
+          f'{len(used)} allowlist entries used, {len(stale)} stale.', file=sys.stderr)
     return 1 if failed else 0
 
 
