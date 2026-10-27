@@ -110,7 +110,7 @@
         <zone ulx="1466" uly="1542" lrx="1999" lry="1828" xml:id="facsZone-staff-0000000399213573" />
         <zone ulx="99" uly="1900" lrx="712" lry="2174" xml:id="facsZone-staff-0000001684807662" />
         <zone ulx="681" uly="1900" lrx="1019" lry="2193" xml:id="facsZone-staff-0000001337169516" />
-        <zone ulx="967" uly="1900" lrx="2031" xml:id="facsZone-staff-0000002060769570" />
+        <zone ulx="967" uly="1900" lrx="1377" lry="2193" xml:id="facsZone-staff-0000002060769570" />
       </surface>
     </facsimile>
     <body>
