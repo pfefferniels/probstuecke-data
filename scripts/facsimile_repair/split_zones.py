@@ -22,6 +22,12 @@ its barlines, like the existing zones.
       shows m. 16 (b2 and a rest, x = 697-794). That zone goes to m. 16; the
       zone of m. 14 is split in the gap between the rest of m. 14 and the
       note of m. 15 (x = 594-596).
+  No. 17, p. 400, line 5: m. 18 (f3 d4 b2 | e3 c4 a2, figures 6 6) was
+      missing from the encoding when the zones were drawn; it was added in
+      May 2020 (2b6aa63) as a copy of m. 17, pointer included, so it showed
+      m. 17. Its zone lies between the barlines at x = 820-824 and
+      1106-1111, with the height of the zone of m. 17. The staff has no
+      xml:id; the zone is named after the measure.
 
 Usage: python3 scripts/facsimile_repair/split_zones.py [--apply]
 """
@@ -40,28 +46,32 @@ MARGIN = 15
 #   ('split', zone, x, new zone)                 zone keeps the part left of x (+MARGIN), new zone gets
 #                                                the part from x (-MARGIN) to the zone's right edge
 #   ('new', after zone, (ulx, uly, lrx, lry), new zone)   a new zone, written after the line of 'after zone'
-#   ('facs', staff xml:id, new @facs)            staff/@facs (the staff had none, or it is already new)
+#   ('facs', staff, old @facs or None, new @facs)  staff/@facs; the staff by its xml:id or as 'm<n>/s<n>'
 FIXES = {
     'encodings/2/mattheson/score.xml': [
         ('split', 'facsZone-m-1725', 1386, 'facsZone-m-1767'),
-        ('facs', 'm-1767', '#facsZone-m-1767'),
+        ('facs', 'm-1767', None, '#facsZone-m-1767'),
     ],
     'encodings/6/mattheson/score.xml': [
         ('split', 'facsZone-m-1217', 1539, 'facsZone-m-1250'),
-        ('facs', 'm-1250', '#facsZone-m-1250'),
+        ('facs', 'm-1250', None, '#facsZone-m-1250'),
     ],
     'encodings/8/mattheson/score.xml': [
         ('new', 'facsZone-m-289', (1382 - MARGIN, 1574, 1515 + MARGIN, 1810), 'facsZone-m-298'),
-        ('facs', 'm-298', '#facsZone-m-298'),
+        ('facs', 'm-298', None, '#facsZone-m-298'),
     ],
     'encodings/11/mattheson/score.xml': [
         ('split', 'facsZone-staff-0000000691022510', 1558, 'facsZone-staff-0000000435614713'),
-        ('facs', 'staff-0000000435614713', '#facsZone-staff-0000000435614713'),
+        ('facs', 'staff-0000000435614713', None, '#facsZone-staff-0000000435614713'),
     ],
     'encodings/15/mattheson/score.xml': [
         ('rename', (671, 915, 811, 1192), 'facsZone-staff-0000001897837758'),
         ('split', 'facsZone-staff-0000001233821212', 595, 'facsZone-staff-0000001976983187'),
-        ('facs', 'staff-0000001897837758', '#facsZone-staff-0000001897837758'),
+        ('facs', 'staff-0000001897837758', None, '#facsZone-staff-0000001897837758'),
+    ],
+    'encodings/17/mattheson/score.xml': [
+        ('new', 'facsZone-staff-0000001440923572', (822 - MARGIN, 1603, 1108 + MARGIN, 1967), 'facsZone-m18-staff2'),
+        ('facs', 'm18/s2', '#facsZone-staff-0000001440923572', '#facsZone-m18-staff2'),
     ],
 }
 
@@ -95,6 +105,22 @@ def insert_after(text, anchor_id, box, zid):
     tag = text[span[0]:span[1]]
     new_line = line.replace(tag, with_box(tag, box, zid))
     return text[:b] + new_line + text[b:]
+
+
+def staff_span(text, locator):
+    """Start tag of a staff, given by its xml:id or as 'm<measure n>/s<staff n>'."""
+    m = re.fullmatch(r'm(\w+)/s(\d+)', locator)
+    if not m:
+        return X.tag_span(text, 'staff', 'xml:id', locator)
+    measures = [h for h in re.finditer(r'<(?:\w+:)?measure\b[^<>]*>', text) if X.get_attr(h.group(0), 'n') == m.group(1)]
+    if len(measures) != 1:
+        raise SystemExit(f'expected one measure n="{m.group(1)}", found {len(measures)}')
+    end = text.index('</measure>', measures[0].end())
+    staffs = [h for h in re.finditer(r'<(?:\w+:)?staff\b[^<>]*>', text[:end]) if h.start() > measures[0].end()
+              and X.get_attr(h.group(0), 'n') == m.group(2)]
+    if len(staffs) != 1:
+        raise SystemExit(f'measure {m.group(1)}: expected one staff n="{m.group(2)}", found {len(staffs)}')
+    return staffs[0].span()
 
 
 def main():
@@ -142,16 +168,17 @@ def main():
                 log.append(f'new {new_id} {box}')
                 new = insert_after(new, anchor, box, new_id)
             elif op[0] == 'facs':
-                _, staff, value = op
-                span = X.tag_span(new, 'staff', 'xml:id', staff)
+                _, staff, old_value, value = op
+                span = staff_span(new, staff)
                 tag = new[span[0]:span[1]]
                 current = X.get_attr(tag, 'facs')
                 if current == value:
                     continue
-                if current is not None:
-                    raise SystemExit(f'{rel}: staff {staff} has @facs {current!r}')
-                log.append(f'staff {staff}: @facs {value}')
-                new = X.replace_span(new, span, X.add_attr(tag, 'facs', value, after='n'))
+                if current != old_value:
+                    raise SystemExit(f'{rel}: staff {staff} has @facs {current!r}, expected {old_value!r}')
+                log.append(f'staff {staff}: @facs {current} -> {value}')
+                tag = X.add_attr(tag, 'facs', value, after='n') if current is None else X.set_attr(tag, 'facs', value)
+                new = X.replace_span(new, span, tag)
         print(f'{rel}: ' + ('; '.join(log) if log else 'already done'))
         if do_apply and new != text:
             path.write_text(new, encoding='utf-8')
