@@ -40,3 +40,4 @@ First versioned release.
 - Page numbers of 14 page breaks corrected against the prints
 - Nos. 14 and 24 keep both notations in `score.xml` (with `mdiv/@label`); the duplicate `score-2.xml` files are removed. The second notation of No. 24 declared the wrong staff, which made Verovio crash
 - Two mistyped figures: No. 19, bar 37, and No. 22, first example, bar 7 (raised sixths)
+- `<graphic>` gives the page image (IIIF Image API) instead of the IIIF canvas, which moves to `surface/@corresp` (#31); the unused facsimile section of the English text of No. 5, on local images not in the repository, is removed

@@ -74,11 +74,11 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="2418" lrx="2006" xml:id="facs-p306">
-      <graphic width="2006px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/306" />
+    <surface ulx="0" uly="0" lry="2418" lrx="2006" xml:id="facs-p306" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/306">
+      <graphic width="2006px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00306/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lry="2408" lrx="1949" xml:id="facs-p307">
-      <graphic width="1949px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/307" />
+    <surface ulx="0" uly="0" lry="2408" lrx="1949" xml:id="facs-p307" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/307">
+      <graphic width="1949px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00307/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>

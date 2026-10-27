@@ -49,16 +49,6 @@ encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW888RKBRJ
 encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW8TAMDBPC5YDT11W3V6
 encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW8V10PK9H6M3SVKP57Y
 encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW98EGP1QZBQYAYWRXSH
-# 5/mattheson/comments_en.xml keeps an early (2019) facsimile on local images
-# (facsimile/bsb10598495_00410.svg.jpg to _00413, about 1000 px wide) that are
-# not in the repository. Its zones are linked to bars and paragraphs by
-# @corresp; nothing points to them and the website does not use them. Their
-# pixel space cannot be recovered exactly (scaled like the 2019 BSB images
-# they lie up to 100 px below the score's zones of the same bars).
-encodings/5/mattheson/comments_en.xml: graphic (line 107)
-encodings/5/mattheson/comments_en.xml: graphic (line 136)
-encodings/5/mattheson/comments_en.xml: graphic (line 158)
-encodings/5/mattheson/comments_en.xml: graphic (line 167)
 # No. 8: zones p2-1 and p2-1-2 frame §. 2 of the commentary (pp. 344-345),
 # which comments_de.xml does not transcribe.
 encodings/8/mattheson/comments_de.xml: zone-unused facsZone-p2-1

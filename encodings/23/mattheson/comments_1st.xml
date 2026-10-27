@@ -74,17 +74,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1974" lry="2424" xml:id="facs-p446">
-      <graphic width="1975px" height="2425px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446" />
+    <surface ulx="0" uly="0" lrx="1974" lry="2424" xml:id="facs-p446" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446">
+      <graphic width="1975px" height="2425px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00446/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1951" lry="2401" xml:id="facs-p447">
-      <graphic width="1952px" height="2402px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447" />
+    <surface ulx="0" uly="0" lrx="1951" lry="2401" xml:id="facs-p447" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447">
+      <graphic width="1952px" height="2402px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00447/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1969" lry="2419" xml:id="facs-p450">
-      <graphic width="1970px" height="2420px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/450" />
+    <surface ulx="0" uly="0" lrx="1969" lry="2419" xml:id="facs-p450" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/450">
+      <graphic width="1970px" height="2420px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00450/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1968" lry="2408" xml:id="facs-p451">
-      <graphic width="1969px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/451" />
+    <surface ulx="0" uly="0" lrx="1968" lry="2408" xml:id="facs-p451" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/451">
+      <graphic width="1969px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00451/full/full/0/default.jpg" />
     </surface>
 </facsimile>
   <text>
