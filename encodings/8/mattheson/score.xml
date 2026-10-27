@@ -1274,7 +1274,7 @@
                 </layer>
               </staff>
             </measure>
-            <pb source="#firstEdition" n="138" facs="#facs-p314" />
+            <pb source="#firstEdition" n="140" facs="#facs-p314" />
             <pb source="#secondEdition" n="342" facs="#facs-p404" />
             <measure xml:id="m-825" n="41">
               <staff xml:id="m-826" n="1">
@@ -1858,7 +1858,7 @@
                 </layer>
               </staff>
             </measure>
-            <pb source="#firstEdition" n="139" facs="#facs-p315" />
+            <pb source="#firstEdition" n="141" facs="#facs-p315" />
             <pb source="#secondEdition" n="343" facs="#facs-p405" />
             <measure xml:id="m-1233" n="59">
               <staff xml:id="m-1234" n="1">

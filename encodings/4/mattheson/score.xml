@@ -1014,7 +1014,7 @@
                       </orig>
                     </note>
                   </beam>
-                  <pb n="311" source="#secondEdition" facs="#facs-p383" />
+                  <pb n="321" source="#secondEdition" facs="#facs-p383" />
                   <pb n="121" source="#firstEdition" facs="#facs-p295" />
                   <beam>
                     <note xml:id="m-564" dur="16" oct="3" pname="b" />
@@ -2763,7 +2763,7 @@
               </harm>
             </measure>
             <pb n="323" source="#secondEdition" facs="#facs-p385" />
-            <pb n="287" source="#firstEdition" facs="#facs-p297" />
+            <pb n="123" source="#firstEdition" facs="#facs-p297" />
             <measure xml:id="m-1451" n="32">
               <staff n="1">
                 <layer>

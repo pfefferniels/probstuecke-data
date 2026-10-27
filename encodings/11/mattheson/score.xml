@@ -172,7 +172,7 @@
           </scoreDef>
           <section>
             <pb n="360" source="#secondEdition" facs="#facs-p422" />
-            <pb n="150" source="#firstEdition" facs="#facs-p368" />
+            <pb n="158" source="#firstEdition" facs="#facs-p368" />
             <measure xml:id="measure-0000002086967554" n="1">
               <staff xml:id="staff-0000000794094521" n="1">
                 <layer n="1">

@@ -1044,7 +1044,7 @@
                     <note xml:id="note-0000001508590448" dur="32" oct="4" pname="c" accid.ges="s" />
                   </beam>
                   <pb n="195" source="#firstEdition" facs="#facs-p415" />
-                  <pb n="400" source="#secondEdition" facs="#facs-p463" />
+                  <pb n="401" source="#secondEdition" facs="#facs-p463" />
                   <beam xml:id="beam-0000001360925142">
                     <note xml:id="note-0000000662546701" dur="32" oct="3" pname="d" />
                     <note xml:id="note-0000002057189359" dur="64" oct="3" pname="e" />

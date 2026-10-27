@@ -702,7 +702,7 @@
                     <note xml:id="m-337" dur="16" oct="4" pname="g" />
                   </beam>
                   <pb source="#secondEdition" n="303" facs="#facs-p365" />
-                  <pb source="#secondEdition" n="103" facs="#facs-p277" />
+                  <pb source="#firstEdition" n="103" facs="#facs-p277" />
                   <beam>
                     <note xml:id="m-338" dur="32" oct="4" pname="e" />
                     <note xml:id="m-340" dur="32" oct="4" pname="f">
