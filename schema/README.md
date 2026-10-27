@@ -10,7 +10,7 @@ The RELAX NG schemas (`.rng`) are generated from the ODD files (`.odd`) next to 
 
 | Schema | Source | Customisation of | Used by |
 | --- | --- | --- | --- |
-| `basisformat_customized.rng` | `basisformat_customized.odd` | DTA Base Format, TEI P5 | Transcriptions of the prints: `*/mattheson/comments_1st.xml` (1719), `*/mattheson/comments_de.xml` (1731), `frontpage/mattheson/*.xml` |
+| `basisformat_customized.rng` | `basisformat_customized.odd` | DTA Base Format, TEI P5 | Transcriptions of the prints: `*/mattheson/comments_1st.xml` (1719), `*/mattheson/comments_de.xml` (1731), `frontpage/mattheson/*.xml`, `register/register_1731.xml` |
 | `probstuecke-tei.rng` | `probstuecke-tei.odd` | TEI P5 | English translations (`*/mattheson/comments_en.xml`), notes on the realisations (`4/jcd/comment_fr.xml`, `*/pfeffer/comments_de.xml`, `*/molinaro/comments_*.xml`), `about/`, `guidelines/`, `indices/`, `3/mattheson/comments_merged.xml`, `1/mattheson/concordance.xml` |
 | `lesson_transcription.rng` | `lesson_transcription.odd` | TEI P5 | Transcriptions of lessons: `*/hill/comments_*.xml` |
 | `probstuecke-customization.rng` | `probstuecke-customization.odd` | MEI 4.0.1 | All MEI scores and music examples except `4/jcd/score.xml`; `10/mattheson/measure_annotations.xml` |

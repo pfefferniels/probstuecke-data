@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register" type="terms">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Index of Terms</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <persName>
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    Based on the Register of Mattheson’s <title>Grosse General-Baß-Schule</title> (Hamburg 1731,
+                    pp. 465–482), transcribed in <ref target="../register/register_1731.xml">register/register_1731.xml</ref>.
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    The index takes up every entry of Mattheson’s Register about a subject (“Sachen”) that refers
+                    to a page of the Ober-Classe (pp. 302–464). Entries about persons (“Nahmen”) and works are
+                    covered by the indices of persons, literature and musical works. Each <gi>item</gi> is one term:
+                    <gi>label</gi> with <att>type</att>="reg" gives the modern German form, <att>type</att>="orig"
+                    Mattheson’s headword as printed in the Register, <gi>gloss</gi> an English equivalent, and
+                    <gi>ptr</gi> with <att>type</att>="register" points to the Register entries the term is
+                    built from. Where Mattheson indexes one matter under several headwords (e.g. Fürsten, Printzen,
+                    Hertzogliche Personen), they are combined in one term.
+                </p>
+                <p>
+                    <gi>listRef</gi> lists the passages. A <gi>ref</gi> with <att>type</att>="register" stands for one
+                    page reference of the Register: <att>n</att> is Mattheson’s page, <att>corresp</att> the Register
+                    entry it comes from, <att>target</att> the place in the edition. References added by the editors
+                    have <att>type</att>="editorial". The content of a <gi>ref</gi> quotes the passage; <gi>term</gi>
+                    marks the word that is tagged in the transcription with <code>&lt;term corresp="#…"&gt;</code>.
+                    <code>scripts/tag_terms.py</code> does the tagging and completes <att>target</att>; a
+                    <att>target</att> without a fragment means that the word is not tagged yet (the transcriptions of
+                    Probstücke 8, 10–14, 16, 17 and 22 are being revised, their passages are tagged once the new
+                    transcriptions are in). Where no single word answers Mattheson’s reference, <att>target</att>
+                    points to the score, a music example, a paragraph, or only to the text of the Probstück.
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+          <list type="terms">
+          <item xml:id="t_a_dur">
+            <label type="reg">A-Dur</label>
+            <label type="orig">A dur</label>
+            <gloss xml:lang="en">A major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_a_dur ../register/register_1731.xml#reg_a_dur_2 ../register/register_1731.xml#reg_a_dur_3 ../register/register_1731.xml#reg_a_dur_4"/>
+            <listRef>
+              <ref type="register" n="400" corresp="../register/register_1731.xml#reg_a_dur_3" target="../17/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="402" corresp="../register/register_1731.xml#reg_a_dur_4" target="../17/mattheson/comments_de.xml">maͤchtig ist, muß diese <term>Ton-Art</term> nicht wenig hochhalten, weil</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_a_moll">
+            <label type="reg">a-Moll</label>
+            <label type="orig">A moll</label>
+            <gloss xml:lang="en">A minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_a_moll"/>
+            <listRef>
+              <ref type="register" n="316" corresp="../register/register_1731.xml#reg_a_moll" target="../3/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_abwechslung">
+            <label type="reg">Abwechslung</label>
+            <label type="orig">Abwechſelung</label>
+            <gloss xml:lang="en">variety, alternation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_abwechselung"/>
+            <listRef>
+              <ref type="register" n="328" corresp="../register/register_1731.xml#reg_abwechselung" target="../5/mattheson/comments_de.xml#t_abwechslung-1">Alle Muſic muß ihre <term>Abwechſlung</term> haben: und wenn lange</ref>
+              <ref type="register" n="374" corresp="../register/register_1731.xml#reg_abwechselung" target="../13/mattheson/comments_de.xml">angenehmen Veraͤnderungen und unaufhoͤrlichen <term>Abwechslungen</term>; allein es hat wol</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_akkompagnieren">
+            <label type="reg">akkompagnieren</label>
+            <label type="orig">Accompagniren</label>
+            <gloss xml:lang="en">to accompany</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_accompagniren ../register/register_1731.xml#reg_accompagniren_2 ../register/register_1731.xml#reg_accompagniren_3"/>
+            <listRef>
+              <ref type="editorial" n="315" target="../2/mattheson/comments_de.xml#t_akkompagnieren-1">Wirckung im Spielen und <term>Accompagnieren</term> zu thun iſt, und</ref>
+              <ref type="editorial" n="328" target="../5/mattheson/comments_de.xml#t_akkompagnieren-1">melden, das der Baß <term>accompagnirt</term> oder voll-greifft, die rechte</ref>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_accompagniren_3" target="../8/mattheson/comments_de.xml">koͤnnten ſie ſich ſelbſt <term>accompagniren</term>, aber es koͤmmt manchesmahl</ref>
+              <ref type="editorial" n="440" target="../24/mattheson/comments_de.xml#t_akkompagnieren-1">einem Organiſten auch das <term>Accompagnement</term> auf Clavicymbeln, und ich</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_akkord">
+            <label type="reg">Akkord</label>
+            <label type="orig">Accorde</label>
+            <gloss xml:lang="en">chord</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_accorde ../register/register_1731.xml#reg_accorde_2"/>
+            <listRef>
+              <ref type="register" n="349" corresp="../register/register_1731.xml#reg_accorde_2" target="../9/mattheson/comments_de.xml#t_akkord-1">mehrers, als die kahlen <term>Accorte</term> und Sexten, dazu ſpielen,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_algebraische_organisten">
+            <label type="reg">algebraische Organisten</label>
+            <label type="orig">Algebraiſche Organiſten</label>
+            <gloss xml:lang="en">“algebraic” organists</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_algebraische_organisten"/>
+            <listRef>
+              <ref type="register" n="388" corresp="../register/register_1731.xml#reg_algebraische_organisten" target="../15/mattheson/comments_de.xml#t_algebraische_organisten-1">ſchon weiſen, und die <term>Algebraiſten</term> werden ſie von ferne</ref>
+              <ref type="register" n="391" corresp="../register/register_1731.xml#reg_algebraische_organisten" target="../15/mattheson/comments_de.xml#t_algebraische_organisten-2">ſchoͤn laͤſt, wenn ein <term>algebraischer</term> Organiſte darinn ſtolpert.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_all_ottava">
+            <label type="reg">all’ottava</label>
+            <label type="orig">Ottava, all’</label>
+            <gloss xml:lang="en">in octaves</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ottava"/>
+            <listRef>
+              <ref type="register" n="314" corresp="../register/register_1731.xml#reg_ottava" target="../2/mattheson/comments_de.xml#t_all_ottava-1">in beiden Haͤnden mit <term>Octaven</term>, wechſelt ſodann, mit Sexten</ref>
+              <ref type="register" n="315" corresp="../register/register_1731.xml#reg_ottava" target="../2/mattheson/comments_de.xml#t_all_ottava-2">letzten Taͤcten, die alle <term>Octaven-Weiſe</term> koͤnnen geſpielet werden. Jch</ref>
+              <ref type="editorial" n="334" target="../6/mattheson/comments_de.xml#t_all_ottava-1">ſo muſt du wenigſtens <term>Octaven-Weiſe</term> damit verfahren, bis endlich</ref>
+              <ref type="editorial" n="423" target="../21/mattheson/comments_de.xml#t_all_ottava-1">Tertz oben im Diſcante <term>Octavenweiſe</term> ſpringen, und hernach eine</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_altschluessel">
+            <label type="reg">Altschlüssel</label>
+            <label type="orig">Alt-Zeichen</label>
+            <gloss xml:lang="en">alto clef</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_alt_zeichen"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_alt_zeichen" target="../7/mattheson/comments_de.xml#t_altschluessel-1">hat, das beſagte gemeine <term>Alt-Zeichen</term> hier offt zu gebrauchen.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_ambitus">
+            <label type="reg">Ambitus</label>
+            <label type="orig">Ambitus</label>
+            <gloss xml:lang="en">ambitus (compass of a key)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ambitus"/>
+            <listRef>
+              <ref type="register" n="339" corresp="../register/register_1731.xml#reg_ambitus" target="../7/mattheson/comments_de.xml#t_ambitus-1">hier gegeben, aus dem <term>Sprengel</term> zu weichen, und einen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_anfang">
+            <label type="reg">Anfang</label>
+            <label type="orig">Anfang</label>
+            <gloss xml:lang="en">opening, beginning</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_anfang"/>
+            <listRef>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_anfang" target="../17/mattheson/comments_de.xml">gegruͤndeten Ausspruch: Daß aller <term>Anfang</term> einfach, schlecht und deutlich</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_antizipation">
+            <label type="reg">Antizipation</label>
+            <label type="orig">Anticipatio</label>
+            <gloss xml:lang="en">anticipation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_anticipatio"/>
+            <listRef>
+              <ref type="register" n="317" corresp="../register/register_1731.xml#reg_anticipatio" target="../3/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="369" corresp="../register/register_1731.xml#reg_anticipatio" target="../12/mattheson/comments_de.xml">schon oben von dieser <term>Voraus-Nehmung</term> eines und anders erwehnet</ref>
+              <ref type="editorial" n="413" target="../19/mattheson/comments_de.xml#t_antizipation-1">folgenden Noten, welche nur <term>voraus genommen</term> werden. Den auſſerordentlichen Durchgang</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_anweisung">
+            <label type="reg">Anweisung</label>
+            <label type="orig">Anweiſungen</label>
+            <gloss xml:lang="en">instruction</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_anweisungen"/>
+            <listRef>
+              <ref type="register" n="333" corresp="../register/register_1731.xml#reg_anweisungen" target="../6/mattheson/comments_de.xml#t_anweisung-1">ſeyn wuͤrde. Mit ſolchen <term>Anweiſungen</term> gemahnet michs faſt eben,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_applikatur">
+            <label type="reg">Applikatur</label>
+            <label type="orig">Applicatio</label>
+            <gloss xml:lang="en">fingering</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_applicatio"/>
+            <listRef>
+              <ref type="register" n="318" corresp="../register/register_1731.xml#reg_applicatio" target="../3/mattheson/comments_de.xml#t_applikatur-1">Art der so genannten <term>Application</term> wird man auch finden.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_arpeggio">
+            <label type="reg">Arpeggio</label>
+            <label type="orig">Harpeggio</label>
+            <gloss xml:lang="en">arpeggio</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_harpeggio"/>
+            <listRef>
+              <ref type="register" n="307" corresp="../register/register_1731.xml#reg_harpeggio" target="../1/mattheson/comments_de.xml#music-example3"/>
+              <ref type="register" n="312" corresp="../register/register_1731.xml#reg_harpeggio" target="../2/mattheson/comments_de.xml#t_arpeggio-1">die pag. 307. angefuͤhrte <term>Brechung</term> mit Sexten in der</ref>
+              <ref type="register" n="313" corresp="../register/register_1731.xml#reg_harpeggio" target="../2/mattheson/comments_de.xml#t_arpeggio-2">kann deßwegen auch bemeldte <term>Brechung</term> wieder angebracht werden. Wo</ref>
+              <ref type="register" n="314" corresp="../register/register_1731.xml#reg_harpeggio" target="../2/mattheson/comments_de.xml#t_arpeggio-3">aber unzaͤhlige Veraͤnderungen und <term>gebrochene</term> Sachen anzubringen, die alle</ref>
+              <ref type="register" n="319" corresp="../register/register_1731.xml#reg_harpeggio" target="../3/mattheson/comments_de.xml#t_arpeggio-1">giebt eine gar angenehme <term>Brechung</term>. Jm siebenzehnten Tact aber</ref>
+              <ref type="editorial" n="334" target="../6/mattheson/comments_de.xml#t_arpeggio-1">in der Tiefe, die <term>Brechungen</term> aber in der Hoͤhe</ref>
+              <ref type="editorial" n="349" target="../9/mattheson/comments_de.xml#t_arpeggio-1">aus den vorhergehenden zunehmende <term>Brechung</term> haben, wobey die uͤberſtehende</ref>
+              <ref type="register" n="350" corresp="../register/register_1731.xml#reg_harpeggio" target="../9/mattheson/comments_de.xml#music-example1"/>
+              <ref type="register" n="351" corresp="../register/register_1731.xml#reg_harpeggio" target="../9/mattheson/comments_de.xml#music-example2"/>
+              <ref type="register" n="365" corresp="../register/register_1731.xml#reg_harpeggio" target="../11/mattheson/comments_de.xml">und Quinte ein solches <term>Brechen</term> haben, als die lincke</ref>
+              <ref type="register" n="376" corresp="../register/register_1731.xml#reg_harpeggio" target="../13/mattheson/comments_de.xml">Tertz mache, welche zu <term>Brechung</term> zu enge ist, wie</ref>
+              <ref type="register" n="380" corresp="../register/register_1731.xml#reg_harpeggio" target="../14/mattheson/comments_de.xml">versucht, und eine geschickte <term>Brechung</term> gantz durchgehen lassen, welches</ref>
+              <ref type="editorial" n="417" target="../20/mattheson/comments_de.xml#t_arpeggio-1">es gerne ein wenig <term>gebrochen</term>, und denn im fuͤnfften,</ref>
+              <ref type="register" n="418" corresp="../register/register_1731.xml#reg_harpeggio" target="../20/mattheson/comments_de.xml#t_arpeggio-2">Theil mit einem gewiſſen <term>Harpeggio</term> anfaͤnget, deutet ſolches allhie</ref>
+              <ref type="editorial" n="419" target="../20/mattheson/comments_de.xml#t_arpeggio-3">laſſen, nur mit einem <term>gebrochenen</term> Accord, und was ſonſten</ref>
+              <ref type="editorial" n="423" target="../21/mattheson/comments_de.xml#t_arpeggio-1">ſchon vollkommen in dem <term>Harpeggio</term> befindlich iſt, ſo haͤtte</ref>
+              <ref type="register" n="424" corresp="../register/register_1731.xml#reg_harpeggio" target="../21/mattheson/comments_de.xml#t_arpeggio-2">Baß wieder das obige <term>Harpeggio</term>: deßwegen mag auch die</ref>
+              <ref type="editorial" n="463" target="../24/mattheson/comments_de.xml#t_arpeggio-1">und dreiſſigſten Tact, etwas <term>gebrochenes</term> gar zierlich angebracht werden.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_as_dur">
+            <label type="reg">As-Dur</label>
+            <label type="orig">As dur</label>
+            <gloss xml:lang="en">A-flat major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_as_dur"/>
+            <listRef>
+              <ref type="register" n="366" corresp="../register/register_1731.xml#reg_as_dur" target="../12/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="371" corresp="../register/register_1731.xml#reg_as_dur" target="../12/mattheson/comments_de.xml">Sprengel des Gis oder <term>As-dur</term>, enthalten, und wer denselben</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_aufloesungszeichen">
+            <label type="reg">Auflösungszeichen (♮)</label>
+            <label type="orig">B quadratum, ♮</label>
+            <gloss xml:lang="en">natural sign</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_b"/>
+            <listRef>
+              <ref type="register" n="453" corresp="../register/register_1731.xml#reg_b" target="../24/mattheson/comments_de.xml#t_aufloesungszeichen-1">ein h, oder ein <term>viereckiges b</term>, geſetzet werde, wenn ein</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_augen">
+            <label type="reg">Augen</label>
+            <label type="orig">Augen</label>
+            <gloss xml:lang="en">the eyes (notation as seen)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_augen"/>
+            <listRef>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_augen" target="../24/mattheson/comments_de.xml#t_augen-1">leidlich düncken; aber die <term>Augen</term>, wovon hier eigentlich die</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_ausuebung">
+            <label type="reg">Ausübung</label>
+            <label type="orig">Ausuͤbung</label>
+            <gloss xml:lang="en">practice, performance</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ausuebung"/>
+            <listRef>
+              <ref type="register" n="381" corresp="../register/register_1731.xml#reg_ausuebung" target="../14/mattheson/comments_de.xml">viel liegt an der <term>Ausuͤbung</term>: sie macht in der</ref>
+              <ref type="register" n="457" corresp="../register/register_1731.xml#reg_ausuebung" target="../24/mattheson/comments_de.xml#t_ausuebung-1">nützlichen Erwegen zur wircklichen <term>Ausübung</term> gedeiet. und Kleinigkeiten, oder</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_auszierung">
+            <label type="reg">Auszierung</label>
+            <label type="orig">Auszierungen</label>
+            <gloss xml:lang="en">embellishment</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_auszierungen"/>
+            <listRef>
+              <ref type="register" n="325" corresp="../register/register_1731.xml#reg_auszierungen" target="../4/mattheson/comments_de.xml#t_auszierung-1">hoͤren laͤſt, billig eine <term>Ausſchmuͤckung</term> mit der rechten Hand</ref>
+              <ref type="register" n="328" corresp="../register/register_1731.xml#reg_auszierungen" target="../5/mattheson/comments_de.xml#t_auszierung-1">Vorſchrift, einem Liebhaber des <term>manierlichen</term> Spielens Gelegenheit geben wollen,</ref>
+              <ref type="register" n="333" corresp="../register/register_1731.xml#reg_auszierungen" target="../6/mattheson/comments_de.xml#p1-1"/>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_auszierungen" target="../24/mattheson/comments_de.xml#t_auszierung-1">wie durchgehends alle ſolche <term>Auſzierungen</term> und Schmückungen, nicht als</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_b_dur">
+            <label type="reg">B-Dur</label>
+            <label type="orig">B dur</label>
+            <gloss xml:lang="en">B-flat major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_b_dur"/>
+            <listRef>
+              <ref type="register" n="372" corresp="../register/register_1731.xml#reg_b_dur" target="../13/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_b_moll">
+            <label type="reg">b-Moll</label>
+            <label type="orig">B moll</label>
+            <gloss xml:lang="en">B-flat minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_b_moll"/>
+            <listRef>
+              <ref type="register" n="382" corresp="../register/register_1731.xml#reg_b_moll" target="../15/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="390" corresp="../register/register_1731.xml#reg_b_moll" target="../15/mattheson/comments_de.xml#aria-bottari"/>
+              <ref type="register" n="391" corresp="../register/register_1731.xml#reg_b_moll" target="../15/mattheson/comments_de.xml#aria-bottari"/>
+            </listRef>
+          </item>
+          <item xml:id="t_bassveraenderung">
+            <label type="reg">Bassveränderung</label>
+            <label type="orig">Baß-Veraͤnderungen</label>
+            <gloss xml:lang="en">bass variation, diminution</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_bass_veraenderungen"/>
+            <listRef>
+              <ref type="register" n="334" corresp="../register/register_1731.xml#reg_bass_veraenderungen" target="../6/mattheson/comments_de.xml#t_bassveraenderung-1">Die gewoͤhnlichen Gruͤnde der <term>Baß-Veraͤnderungen</term> ſind ſonſt diese, daß</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_bewegung_im_takt">
+            <label type="reg">Bewegung im Takt</label>
+            <label type="orig">Bewegung im Tact</label>
+            <gloss xml:lang="en">motion within the bar (tempo)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_bewegung_im_tact ../register/register_1731.xml#reg_bewegung_im_tact_2"/>
+            <listRef>
+              <ref type="register" n="375" corresp="../register/register_1731.xml#reg_bewegung_im_tact" target="../13/mattheson/comments_de.xml">Erfahrung, und wissen keine <term>Bewegung</term> zu unterscheiden dunckele Zeichen</ref>
+              <ref type="register" n="381" corresp="../register/register_1731.xml#reg_bewegung_im_tact_2" target="../14/mattheson/comments_de.xml">lassen, daß die besondere <term>Bewegung</term> und die Manier, womit</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_bezifferung">
+            <label type="reg">Bezifferung</label>
+            <label type="orig">Bezieferung</label>
+            <gloss xml:lang="en">figuring</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_bezieferung"/>
+            <listRef>
+              <ref type="register" n="356" corresp="../register/register_1731.xml#reg_bezieferung" target="../10/mattheson/comments_de.xml#aria-marcello"/>
+              <ref type="register" n="359" corresp="../register/register_1731.xml#reg_bezieferung" target="../10/mattheson/comments_de.xml">erfordert, diese Arie, ohne <term>Bezieferung</term>, richtig zu accompagniren: massen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_brechung">
+            <label type="reg">Brechung</label>
+            <label type="orig">Brechung</label>
+            <gloss xml:lang="en">breaking (of chords)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_brechung"/>
+            <listRef>
+              <ref type="register" n="434" corresp="../register/register_1731.xml#reg_brechung" target="../24/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_c_dur">
+            <label type="reg">C-Dur</label>
+            <label type="orig">C dur</label>
+            <gloss xml:lang="en">C major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_c_dur"/>
+            <listRef>
+              <ref type="register" n="326" corresp="../register/register_1731.xml#reg_c_dur" target="../5/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="329" corresp="../register/register_1731.xml#reg_c_dur" target="../5/mattheson/comments_de.xml#t_c_dur-1">dieſem harten und Gaſſen-maͤßigen <term>C dur</term> etwas zaͤrtliches und bewegliches</ref>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_c_dur" target="../24/mattheson/comments_de.xml#t_c_dur-1">als unſere Dorff-Organiſten ihr <term>C dur</term>, welches ſchier aus der</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_c_moll">
+            <label type="reg">c-Moll</label>
+            <label type="orig">C moll</label>
+            <gloss xml:lang="en">C minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_c_moll"/>
+            <listRef>
+              <ref type="register" n="346" corresp="../register/register_1731.xml#reg_c_moll" target="../9/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_cembalo">
+            <label type="reg">Cembalo</label>
+            <label type="orig">Gravecembalum</label>
+            <gloss xml:lang="en">harpsichord</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_gravecembalum"/>
+            <listRef>
+              <ref type="register" n="460" corresp="../register/register_1731.xml#reg_gravecembalum" target="../24/mattheson/comments_de.xml#t_cembalo-1">172. ein ſo genannte <term>Grauecembalum</term> vorſtellig macht und abmahlet,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_cis_dur">
+            <label type="reg">Cis-Dur</label>
+            <label type="orig">Cis dur</label>
+            <gloss xml:lang="en">C-sharp major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_cis_dur"/>
+            <listRef>
+              <ref type="register" n="434" corresp="../register/register_1731.xml#reg_cis_dur" target="../24/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="436" corresp="../register/register_1731.xml#reg_cis_dur" target="../24/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="438" corresp="../register/register_1731.xml#reg_cis_dur" target="../24/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_cis_moll">
+            <label type="reg">cis-Moll</label>
+            <label type="orig">Cis moll</label>
+            <gloss xml:lang="en">C-sharp minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_cis_moll"/>
+            <listRef>
+              <ref type="register" n="430" corresp="../register/register_1731.xml#reg_cis_moll" target="../23/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_d_dur">
+            <label type="reg">D-Dur</label>
+            <label type="orig">D dur</label>
+            <gloss xml:lang="en">D major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_d_dur"/>
+            <listRef>
+              <ref type="register" n="336" corresp="../register/register_1731.xml#reg_d_dur" target="../7/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_deutlichkeit">
+            <label type="reg">Deutlichkeit</label>
+            <label type="orig">Deutlichkeit</label>
+            <gloss xml:lang="en">clarity</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_deutlichkeit"/>
+            <listRef>
+              <ref type="register" n="409" corresp="../register/register_1731.xml#reg_deutlichkeit" target="../18/mattheson/comments_de.xml#t_deutlichkeit-1">ihr Abſehen auf die <term>Deutlichkeit</term> gerichtet hat. §. 8.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_dis_dur">
+            <label type="reg">Dis-Dur</label>
+            <label type="orig">Dis dur</label>
+            <gloss xml:lang="en">D-sharp major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_dis_dur"/>
+            <listRef>
+              <ref type="register" n="360" corresp="../register/register_1731.xml#reg_dis_dur" target="../11/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_dis_moll">
+            <label type="reg">dis-Moll</label>
+            <label type="orig">Dis moll</label>
+            <gloss xml:lang="en">D-sharp minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_dis_moll"/>
+            <listRef>
+              <ref type="register" n="378" corresp="../register/register_1731.xml#reg_dis_moll" target="../14/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="391" corresp="../register/register_1731.xml#reg_dis_moll" target="../15/mattheson/comments_de.xml#t_dis_moll-1">unerwartete Vorfaͤlle, mit dem <term>Dis mol</term> und Gis mol, an</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_doktor_der_musik">
+            <label type="reg">Doktor der Musik</label>
+            <label type="orig">Doctor der Muſic</label>
+            <gloss xml:lang="en">doctor of music</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_doctor"/>
+            <listRef>
+              <ref type="register" n="374" corresp="../register/register_1731.xml#reg_doctor" target="../13/mattheson/comments_de.xml">bewogen worden sind, ihren <term>Doctoren</term> und Professorn der Music,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_dorforganisten">
+            <label type="reg">Dorforganisten</label>
+            <label type="orig">Dorff-Organiſten</label>
+            <gloss xml:lang="en">village organists</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_dorff_organisten"/>
+            <listRef>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_dorff_organisten" target="../24/mattheson/comments_de.xml#t_dorforganisten-1">abfertigen werden, als unſere <term>Dorff-Organiſten</term> ihr C dur, welches</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_c_dreigestrichen">
+            <label type="reg">dreigestrichenes c</label>
+            <label type="orig">C, das dreigeſtrichene</label>
+            <gloss xml:lang="en">three-line c (c''')</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_c"/>
+            <listRef>
+              <ref type="register" n="349" corresp="../register/register_1731.xml#reg_c" target="../9/mattheson/comments_de.xml#t_c_dreigestrichen-1">ich im General-Baß das <term>dreygeſtrichene c</term> brauche; aber meine Vertheidigung</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_dreiklang">
+            <label type="reg">Dreiklang</label>
+            <label type="orig">Trias der Muſic</label>
+            <gloss xml:lang="en">triad</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_trias"/>
+            <listRef>
+              <ref type="register" n="376" corresp="../register/register_1731.xml#reg_trias" target="../13/mattheson/comments_de.xml">Fuͤrs andere, daß die <term>dreistimmige Harmonia</term> vor allen Dingen vollkommen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_drucknoten">
+            <label type="reg">Drucknoten</label>
+            <label type="orig">Druck-Noten</label>
+            <gloss xml:lang="en">printed notes (music type)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_druck_noten"/>
+            <listRef>
+              <ref type="register" n="315" corresp="../register/register_1731.xml#reg_druck_noten" target="../2/mattheson/comments_de.xml#t_drucknoten-1">Augenſchein, daß mit den <term>Druck-Noten</term> nicht anders hat moͤgen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_durchgang">
+            <label type="reg">Durchgang</label>
+            <label type="orig">Durchgang der Noten</label>
+            <gloss xml:lang="en">passing note</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_durchgang"/>
+            <listRef>
+              <ref type="editorial" n="408" target="../18/mattheson/comments_de.xml#t_durchgang-1">Theils die erſte Note <term>durchgehet</term>, welches ſelten alſo vorfaͤllt,</ref>
+              <ref type="editorial" n="412" target="../19/mattheson/comments_de.xml#t_durchgang-1">werden: weil ſie nemlich <term>durchgehet</term>, wenig ſonderliches zu bedeuten</ref>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_durchgang" target="../19/mattheson/comments_de.xml#t_durchgang-2">genommen werden. Den auſſerordentlichen <term>Durchgang</term> Tranſitum irregularem., oder die</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_e_dur">
+            <label type="reg">E-Dur</label>
+            <label type="orig">E dur</label>
+            <gloss xml:lang="en">E major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_e_dur"/>
+            <listRef>
+              <ref type="register" n="396" corresp="../register/register_1731.xml#reg_e_dur" target="../16/mattheson/comments_de.xml#aria-inquelseno"/>
+              <ref type="register" n="405" corresp="../register/register_1731.xml#reg_e_dur" target="../18/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_e_moll">
+            <label type="reg">e-Moll</label>
+            <label type="orig">E moll</label>
+            <gloss xml:lang="en">E minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_e_moll"/>
+            <listRef>
+              <ref type="register" n="320" corresp="../register/register_1731.xml#reg_e_moll" target="../4/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_enharmonisches_geschlecht">
+            <label type="reg">enharmonisches Geschlecht</label>
+            <label type="orig">Enharmoniſches Geſchlecht</label>
+            <label type="orig">Exempel im enharmoniſchen Geſchlecht</label>
+            <gloss xml:lang="en">enharmonic genus</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_enharmonisches_geschlecht ../register/register_1731.xml#reg_exempel"/>
+            <listRef>
+              <ref type="register" n="460" corresp="../register/register_1731.xml#reg_exempel" target="../24/mattheson/comments_de.xml#t_enharmonisches_geschlecht-1">wenn er von dem <term>enharmoniſchen</term> Geſchlecht de Muſ. Libr.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_ex_tempore">
+            <label type="reg">ex tempore</label>
+            <label type="orig">Ex tempore</label>
+            <gloss xml:lang="en">extempore, at sight</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ex_tempore"/>
+            <listRef>
+              <ref type="register" n="345" corresp="../register/register_1731.xml#reg_ex_tempore" target="../8/mattheson/comments_de.xml"><term>ex tempore</term></ref>
+              <ref type="register" n="346" corresp="../register/register_1731.xml#reg_ex_tempore" target="../9/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="442" corresp="../register/register_1731.xml#reg_ex_tempore" target="../24/mattheson/comments_de.xml#t_ex_tempore-1">vermiſſt, alles aus dem <term>Stegreiff</term>, ohne Unterſcheid, bey dem</ref>
+              <ref type="register" n="443" corresp="../register/register_1731.xml#reg_ex_tempore" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_f_dur">
+            <label type="reg">F-Dur</label>
+            <label type="orig">F dur</label>
+            <gloss xml:lang="en">F major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_f_dur"/>
+            <listRef>
+              <ref type="register" n="330" corresp="../register/register_1731.xml#reg_f_dur" target="../6/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_f_moll">
+            <label type="reg">f-Moll</label>
+            <label type="orig">F moll</label>
+            <gloss xml:lang="en">F minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_f_moll"/>
+            <listRef>
+              <ref type="register" n="352" corresp="../register/register_1731.xml#reg_f_moll" target="../10/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_fingerfertigkeit">
+            <label type="reg">Fingerfertigkeit</label>
+            <label type="orig">Fauſtfertigkeit</label>
+            <gloss xml:lang="en">manual dexterity</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_faustfertigkeit"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_faustfertigkeit" target="../7/mattheson/comments_de.xml#t_fingerfertigkeit-1">das iſt, auf das <term>allerhurtigſte</term>. §. 3. Hiebey kann</ref>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_faustfertigkeit" target="../8/mattheson/comments_de.xml">ſo wol in der <term>Fauſt-fertigkeit</term>, beruhet, ſo habe allhier</ref>
+              <ref type="register" n="433" corresp="../register/register_1731.xml#reg_faustfertigkeit" target="../23/mattheson/comments_de.xml#t_fingerfertigkeit-1">Griffen, bey der ho?chſten <term>Geſchwindigkeit</term>; man ho?ret es ſonſt</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_fis_dur">
+            <label type="reg">Fis-Dur</label>
+            <label type="orig">Fis dur</label>
+            <gloss xml:lang="en">F-sharp major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_fis_dur"/>
+            <listRef>
+              <ref type="register" n="426" corresp="../register/register_1731.xml#reg_fis_dur" target="../22/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_fis_moll">
+            <label type="reg">fis-Moll</label>
+            <label type="orig">Fis moll</label>
+            <gloss xml:lang="en">F-sharp minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_fis_moll"/>
+            <listRef>
+              <ref type="register" n="410" corresp="../register/register_1731.xml#reg_fis_moll" target="../19/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_fis_moll" target="../19/mattheson/comments_de.xml#t_fis_moll-1">und ſchreibet dabey: Rare. <term>Fis mol</term> iſt kuͤrtzer geſagt, und</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_franzosen">
+            <label type="reg">Franzosen</label>
+            <label type="orig">Frantzoſen</label>
+            <gloss xml:lang="en">the French</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_frantzosen"/>
+            <listRef>
+              <ref type="register" n="384" corresp="../register/register_1731.xml#reg_frantzosen" target="../15/mattheson/comments_de.xml#t_franzosen-1">Landes-Leute wollen von den <term>Frantzosen</term> ihren Fleiß, ihre Nettigkeit,</ref>
+              <ref type="register" n="385" corresp="../register/register_1731.xml#reg_frantzosen" target="../15/mattheson/comments_de.xml#t_franzosen-2">wol bemercken moͤgen diejenigen <term>Frantzoͤsiſchen</term> Virtuosen, von dem unlaͤngst</ref>
+              <ref type="register" n="386" corresp="../register/register_1731.xml#reg_frantzosen" target="../15/mattheson/comments_de.xml#p5-1"/>
+            </listRef>
+          </item>
+          <item xml:id="t_fugen">
+            <label type="reg">Fugen (Imitationen)</label>
+            <label type="orig">Fugen</label>
+            <gloss xml:lang="en">fugal entries</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_fugen"/>
+            <listRef>
+              <ref type="register" n="351" corresp="../register/register_1731.xml#reg_fugen" target="../9/mattheson/comments_de.xml#t_fugen-1">den Haupt-Satz oder die <term>Fugen</term> der Arie mit allen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_fuersten">
+            <label type="reg">Fürsten</label>
+            <label type="orig">Fuͤrſten</label>
+            <label type="orig">Printzen</label>
+            <label type="orig">Hertzogliche Perſonen</label>
+            <gloss xml:lang="en">princes</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_fuersten ../register/register_1731.xml#reg_printzen ../register/register_1731.xml#reg_hertzogliche_personen"/>
+            <listRef>
+              <ref type="register" n="409" corresp="../register/register_1731.xml#reg_fuersten" target="../18/mattheson/comments_de.xml#t_fuersten-1">eins der ſchoͤnſten. Freie <term>Fuͤrſten</term> zu finden, die muſicaliſchen</ref>
+              <ref type="register" n="409" corresp="../register/register_1731.xml#reg_printzen" target="../18/mattheson/comments_de.xml#t_fuersten-2">die der weiland Durchlauchtige <term>Printz</term> Ernſt, von Sachſen-Weymar, mit</ref>
+              <ref type="register" n="409" corresp="../register/register_1731.xml#reg_hertzogliche_personen" target="../18/mattheson/comments_de.xml#t_fuersten-3">laſſen, die der weiland <term>Durchlauchtige</term> Printz Ernſt, von Sachſen-Weymar,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_g_dur">
+            <label type="reg">G-Dur</label>
+            <label type="orig">G dur</label>
+            <gloss xml:lang="en">G major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_g_dur"/>
+            <listRef>
+              <ref type="register" n="340" corresp="../register/register_1731.xml#reg_g_dur" target="../8/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="343" corresp="../register/register_1731.xml#reg_g_dur" target="../8/mattheson/comments_de.xml">Buchs, von dieſem Ton, <term>G</term>, uͤberhaupt: Man koͤnne, bey</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_g_moll">
+            <label type="reg">g-Moll</label>
+            <label type="orig">G moll</label>
+            <gloss xml:lang="en">G minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_g_moll"/>
+            <listRef>
+              <ref type="register" n="308" corresp="../register/register_1731.xml#reg_g_moll" target="../2/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_galoppieren">
+            <label type="reg">Galoppieren</label>
+            <label type="orig">Galoppiren</label>
+            <gloss xml:lang="en">galloping</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_galoppiren"/>
+            <listRef>
+              <ref type="register" n="418" corresp="../register/register_1731.xml#reg_galoppiren" target="../20/mattheson/comments_de.xml#t_galoppieren-1">ſaͤumen, ſondern die Finger <term>galoppiren</term> laſſen. §. 3. Da</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_gehoer">
+            <label type="reg">Gehör</label>
+            <label type="orig">Gehoͤr</label>
+            <gloss xml:lang="en">hearing, the ear</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_gehoer"/>
+            <listRef>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_gehoer" target="../24/mattheson/comments_de.xml#t_gehoer-1">Iſt doch unfern unvollkommenen <term>Ohren</term> nichts vollkommenes nöthig, ſondern</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_geiger">
+            <label type="reg">Geiger</label>
+            <label type="orig">Geiger</label>
+            <gloss xml:lang="en">fiddlers</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_geiger"/>
+            <listRef>
+              <ref type="register" n="385" corresp="../register/register_1731.xml#reg_geiger" target="../15/mattheson/comments_de.xml#t_geiger-1">Sehen wir manchen Frantzoͤsischen <term>Geiger</term> an, welche gefaͤhrliche Striche</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_generalbass">
+            <label type="reg">Generalbass</label>
+            <label type="orig">General-Baß</label>
+            <gloss xml:lang="en">thoroughbass</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_general_bass"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_general_bass" target="../8/mattheson/comments_de.xml">nicht, das Haupt-Weſen des <term>General-Baſſes</term> koͤmmt auf die Begleitung</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_general_bass" target="../17/mattheson/comments_de.xml">Alleinspielen, die Eigenschafft des <term>General-Basses</term> nicht ausgesetzet, sondern nur</ref>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-1">Stück bey einem gewöhnlichen <term>General-Baß</term>, ſondern als eine beliebte</ref>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-2">nachtheil bringen. Denn der <term>General-Baß</term> iſt zu anders nichts</ref>
+              <ref type="register" n="464" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-3">mit vielen krummen Sprüngen, <term>verbrämen</term> alles hinten und vorn,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_geschwindigkeit">
+            <label type="reg">Geschwindigkeit</label>
+            <label type="orig">Geſchwindigkeit</label>
+            <gloss xml:lang="en">speed</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_geschwindigkeit"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_geschwindigkeit" target="../7/mattheson/comments_de.xml#t_geschwindigkeit-1">p. 58., von der <term>Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken</ref>
+              <ref type="register" n="433" corresp="../register/register_1731.xml#reg_geschwindigkeit" target="../23/mattheson/comments_de.xml#t_geschwindigkeit-1">General-Baß bedu?rffe keiner ſolchen <term>Geſchwindigkeit</term>, indem er nur ſteiff</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_gis_dur">
+            <label type="reg">Gis-Dur</label>
+            <label type="orig">Gis dur</label>
+            <gloss xml:lang="en">G-sharp major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_gis_dur"/>
+            <listRef>
+              <ref type="register" n="366" corresp="../register/register_1731.xml#reg_gis_dur" target="../12/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_gis_moll">
+            <label type="reg">gis-Moll</label>
+            <label type="orig">Gis moll</label>
+            <gloss xml:lang="en">G-sharp minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_gis_moll"/>
+            <listRef>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_gis_moll" target="../10/mattheson/comments_de.xml"/>
+              <ref type="register" n="381" corresp="../register/register_1731.xml#reg_gis_moll" target="../14/mattheson/comments_de.xml">nur das Dis und <term>Gis</term> auf zweierley Art vorstellen,</ref>
+              <ref type="register" n="392" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="398" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#aria-inquelseno"/>
+              <ref type="register" n="398" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#aria-inquelseno"/>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml">zu geben, wo das <term>Gis mol</term> starck herhaͤlt, und dazu</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_grillenfaengerei">
+            <label type="reg">Grillenfängerei</label>
+            <label type="orig">Grillenfaͤngerey</label>
+            <gloss xml:lang="en">idle speculation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_grillenfaengerey"/>
+            <listRef>
+              <ref type="register" n="457" corresp="../register/register_1731.xml#reg_grillenfaengerey" target="../24/mattheson/comments_de.xml#t_grillenfaengerei-1">wird dieſen anhang für <term>Grillenfängerey</term> Wenn der oberwehnte Staarſtecher</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_grundnoten">
+            <label type="reg">Grundnoten</label>
+            <label type="orig">Grund-Noten</label>
+            <gloss xml:lang="en">fundamental notes</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_grund_noten"/>
+            <listRef>
+              <ref type="register" n="334" corresp="../register/register_1731.xml#reg_grund_noten" target="../6/mattheson/comments_de.xml#t_grundnoten-1">Und ſolchemnach ſind die <term>Grund-Noten</term> im 9. 10. 11.</ref>
+              <ref type="register" n="335" corresp="../register/register_1731.xml#reg_grund_noten" target="../6/mattheson/comments_de.xml#t_grundnoten-2">melden ſich zwar die <term>Grund-Noten</term> gleich bey dem Niederſchlage</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_h_dur">
+            <label type="reg">H-Dur</label>
+            <label type="orig">H dur</label>
+            <gloss xml:lang="en">B major</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_h_dur"/>
+            <listRef>
+              <ref type="register" n="421" corresp="../register/register_1731.xml#reg_h_dur" target="../21/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="425" corresp="../register/register_1731.xml#reg_h_dur" target="../21/mattheson/comments_de.xml#t_h_dur-1">§. 6. Dieſer Ton, <term>H dur</term>, heiſſet, nach des Herrn</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_h_moll">
+            <label type="reg">h-Moll</label>
+            <label type="orig">H moll</label>
+            <gloss xml:lang="en">B minor</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_h_moll"/>
+            <listRef>
+              <ref type="register" n="414" corresp="../register/register_1731.xml#reg_h_moll" target="../20/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_hacken">
+            <label type="reg">Hacken</label>
+            <label type="orig">Hacken</label>
+            <gloss xml:lang="en">chopping (repeated chords with both hands)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_hacken"/>
+            <listRef>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_hacken" target="../10/mattheson/comments_de.xml"/>
+              <ref type="register" n="422" corresp="../register/register_1731.xml#reg_hacken" target="../21/mattheson/comments_de.xml#score"/>
+            </listRef>
+          </item>
+          <item xml:id="t_halbtoene">
+            <label type="reg">Halbtöne</label>
+            <label type="orig">Hemitonia</label>
+            <gloss xml:lang="en">semitones</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_hemitonia"/>
+            <listRef>
+              <ref type="register" n="394" corresp="../register/register_1731.xml#reg_hemitonia" target="../16/mattheson/comments_de.xml">in den so genannten <term>halben Tonen</term> gleichsam eine Zweideutigkeit stecke;</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_handsachen">
+            <label type="reg">Handsachen</label>
+            <label type="orig">Hand-Sachen</label>
+            <gloss xml:lang="en">keyboard pieces</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_hand_sachen"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_hand_sachen" target="../7/mattheson/comments_de.xml#t_handsachen-1">in Anſehung der Frantzoͤſiſchen <term>Hand-Sachen</term>, ob wol ſonſt alles</ref>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_hand_sachen" target="../8/mattheson/comments_de.xml"><term>hand-sachen</term></ref>
+            </listRef>
+          </item>
+          <item xml:id="t_harmonie">
+            <label type="reg">Harmonie</label>
+            <label type="orig">Harmonie</label>
+            <gloss xml:lang="en">harmony</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_harmonie"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_harmonie" target="../8/mattheson/comments_de.xml">behuͤlfflich ſeyn, nachgeben, die <term>Harmonie</term> zieren und fuͤllen, wo</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_imitation">
+            <label type="reg">Imitation</label>
+            <label type="orig">Imitatio</label>
+            <gloss xml:lang="en">imitation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_imitatio"/>
+            <listRef>
+              <ref type="editorial" n="307" target="../1/mattheson/comments_de.xml#t_imitation-1">rechte Hand der lincken <term>nachahmet</term>, und, nach Maßgabung des</ref>
+              <ref type="editorial" n="349" target="../9/mattheson/comments_de.xml#t_imitation-1">vom dreigeſtrichenen c zur <term>Nachahmung</term> ins zweigeſtrichene d herunter</ref>
+              <ref type="register" n="351" corresp="../register/register_1731.xml#reg_imitatio" target="../9/mattheson/comments_de.xml#t_imitation-2">auf ſeinem Clavier dabey <term>nachahmet</term>. Seine Worte lauten auf</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_instrumentalist">
+            <label type="reg">Instrumentalist</label>
+            <label type="orig">Jnſtrumentaliſt</label>
+            <gloss xml:lang="en">instrumentalist</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_jnstrumentalist"/>
+            <listRef>
+              <ref type="register" n="329" corresp="../register/register_1731.xml#reg_jnstrumentalist" target="../5/mattheson/comments_de.xml#t_instrumentalist-1">jeder General-Baſſiſt, ja jeder <term>Jnstrumentaliſt</term>, inne haben, und wenn</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_intervalle">
+            <label type="reg">Intervalle</label>
+            <label type="orig">Jntervalle</label>
+            <gloss xml:lang="en">intervals</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_jntervalle"/>
+            <listRef>
+              <ref type="register" n="357" corresp="../register/register_1731.xml#reg_jntervalle" target="../10/mattheson/comments_de.xml#aria-marcello"/>
+              <ref type="register" n="358" corresp="../register/register_1731.xml#reg_jntervalle" target="../10/mattheson/comments_de.xml#aria-marcello"/>
+            </listRef>
+          </item>
+          <item xml:id="t_kanonischer_satz">
+            <label type="reg">kanonischer Satz</label>
+            <label type="orig">Canoniſche Art zu ſetzen</label>
+            <gloss xml:lang="en">canonic writing</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_canonische_art_zu_setzen"/>
+            <listRef>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_canonische_art_zu_setzen" target="../10/mattheson/comments_de.xml">rechte der lincken auf <term>canonische</term> Art, daß ist, Note</ref>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_canonische_art_zu_setzen" target="../19/mattheson/comments_de.xml#t_kanonischer_satz-1">Hand ein paar Noten <term>canonicè</term> vorher ſpielen, und den</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kantabel">
+            <label type="reg">kantabel</label>
+            <label type="orig">Cantable, ſingbar</label>
+            <gloss xml:lang="en">cantabile, singing</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_cantable"/>
+            <listRef>
+              <ref type="register" n="328" corresp="../register/register_1731.xml#reg_cantable" target="../5/mattheson/comments_de.xml#t_kantabel-1">solo , auf das <term>allerſingbarſte</term> dabey einhergehet. Nun sind</ref>
+              <ref type="register" n="340" corresp="../register/register_1731.xml#reg_cantable" target="../8/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="364" corresp="../register/register_1731.xml#reg_cantable" target="../11/mattheson/comments_de.xml">aber ein wenig dazu <term>moduliere</term>, etwa folgender Gestalt: So</ref>
+              <ref type="register" n="365" corresp="../register/register_1731.xml#reg_cantable" target="../11/mattheson/comments_de.xml">rechte Hand gar manierlich <term>moduliren</term>, indem die lincke alle</ref>
+              <ref type="register" n="428" corresp="../register/register_1731.xml#reg_cantable" target="../22/mattheson/comments_de.xml">gebracht hat, wird eine <term>Melodie</term> zu erſinnen seyn, welche</ref>
+              <ref type="register" n="429" corresp="../register/register_1731.xml#reg_cantable" target="../22/mattheson/comments_de.xml"><term>si suona</term></ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kantatenfeinde">
+            <label type="reg">Kantatenfeinde</label>
+            <label type="orig">Cantaten-Feinde</label>
+            <gloss xml:lang="en">opponents of cantatas</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_cantaten_feinde"/>
+            <listRef>
+              <ref type="register" n="387" corresp="../register/register_1731.xml#reg_cantaten_feinde" target="../15/mattheson/comments_de.xml#t_kantatenfeinde-1">ꝛc. Das sind die <term>Cantaten-Feinde</term>, die Verfechter derjenigen groſſen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_klavier">
+            <label type="reg">Klavier</label>
+            <label type="orig">Clavier</label>
+            <gloss xml:lang="en">keyboard</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_clavier"/>
+            <listRef>
+              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_clavier" target="../16/mattheson/comments_de.xml">Denn die Hoffnung, ein <term>Clavier</term> zu verbessern, zu vermehren,</ref>
+              <ref type="register" n="447" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-1">vermeynten vielfältigen Mängel unſers <term>Claviers</term> wahrgenommen, und denſelben, durch</ref>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-2">ein ſo genannten chromatiſches <term>Clavier</term> verfertigen laſſen, darauf er</ref>
+              <ref type="register" n="461" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-3">mit ſich führen kann. <term>Griff-Taffeln</term> gehalten haben: ungeachtet es</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kleinigkeiten">
+            <label type="reg">Kleinigkeiten</label>
+            <label type="orig">Kleinigkeiten</label>
+            <gloss xml:lang="en">trifles</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_kleinigkeiten"/>
+            <listRef>
+              <ref type="register" n="457" corresp="../register/register_1731.xml#reg_kleinigkeiten" target="../24/mattheson/comments_de.xml#t_kleinigkeiten-1">wircklichen Ausübung gedeiet. und <term>Kleinigkeiten</term>, oder auch für überflüſſig</ref>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_kleinigkeiten" target="../24/mattheson/comments_de.xml#t_kleinigkeiten-2">Leute finden, die ſolche <term>Kleinigkeiten</term> für verächtlich hielten; ſo</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kommatische_einteilung">
+            <label type="reg">kommatische Einteilung</label>
+            <label type="orig">Commatiſche Eintheilung der Klaͤnge</label>
+            <gloss xml:lang="en">division (of the octave) by commas</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_commatische_eintheilung"/>
+            <listRef>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_commatische_eintheilung" target="../24/mattheson/comments_de.xml#t_kommatische_einteilung-1">Raum erfordern würde. Eine <term>commatiſche Eintheilung</term>, davon oben ſchon etwas</ref>
+              <ref type="register" n="459" corresp="../register/register_1731.xml#reg_commatische_eintheilung" target="../24/mattheson/comments_de.xml#t_kommatische_einteilung-2">ein Werck haben, das <term>commatiſch</term> heiſſen wollte. Und wenn,</ref>
+              <ref type="register" n="462" corresp="../register/register_1731.xml#reg_commatische_eintheilung" target="../24/mattheson/comments_de.xml#t_kommatische_einteilung-3">81 kleine Abſchnitte, oder <term>Commata</term> zergliedert; allein er ſetzt</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_komponist">
+            <label type="reg">Komponist</label>
+            <label type="orig">Componiſt</label>
+            <label type="orig">Componiſten</label>
+            <gloss xml:lang="en">composer</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_componist ../register/register_1731.xml#reg_componisten"/>
+            <listRef>
+              <ref type="register" n="386" corresp="../register/register_1731.xml#reg_componisten" target="../15/mattheson/comments_de.xml#t_komponist-1">eitlen Hochmuths bey den <term>Ton-Kuͤnſtlern</term> dieſer Art, und nichts</ref>
+              <ref type="register" n="442" corresp="../register/register_1731.xml#reg_componist" target="../24/mattheson/comments_de.xml#t_komponist-1">Sachen geſetzt, die der <term>Verfaſſer</term> ſelber zu bewerckſtelligen nicht</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kontrapunkt">
+            <label type="reg">Kontrapunkt</label>
+            <label type="orig">Contra-Puncte und Gegen-Saͤtze</label>
+            <gloss xml:lang="en">counterpoint</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_contra_puncte"/>
+            <listRef>
+              <ref type="register" n="325" corresp="../register/register_1731.xml#reg_contra_puncte" target="../4/mattheson/comments_de.xml#t_kontrapunkt-1">hiebey ein Liebhaber des <term>Contra-Puncts</term> anzumercken Gelegenheit nehmen; wiewol</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_konzert">
+            <label type="reg">Konzert</label>
+            <label type="orig">Concert</label>
+            <gloss xml:lang="en">concerto, ensemble piece</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_concert"/>
+            <listRef>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_concert" target="../24/mattheson/comments_de.xml#t_konzert-1">ſie glauben, ein gantzes <term>Concert</term> von Virtuoſen ſey ihrer</ref>
+              <ref type="register" n="464" corresp="../register/register_1731.xml#reg_concert" target="../24/mattheson/comments_de.xml#t_konzert-2">Unzeit kommen, und dem <term>Concert</term> überaus ſchädlich fallen, indem</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_kreuz">
+            <label type="reg">Kreuz</label>
+            <label type="orig">Kreutz</label>
+            <gloss xml:lang="en">sharp (sign)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_kreutz"/>
+            <listRef>
+              <ref type="register" n="381" corresp="../register/register_1731.xml#reg_kreutz" target="../14/mattheson/comments_de.xml">andere Gestalt durch die <term>Kreutze</term> an sich genommen habe.</ref>
+              <ref type="register" n="436" corresp="../register/register_1731.xml#reg_kreutz" target="../24/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="440" corresp="../register/register_1731.xml#reg_kreutz" target="../24/mattheson/comments_de.xml#t_kreuz-1">Bey Anſehung der vorgeſetzten <term>Kreutze</term> dieſes letzten Prob-Stückes fallen</ref>
+              <ref type="register" n="450" corresp="../register/register_1731.xml#reg_kreutz" target="../24/mattheson/comments_de.xml#t_kreuz-2">ſtarck, als die zwey <term>Kreutze</term>, eingeführet iſt, und zu</ref>
+              <ref type="register" n="452" corresp="../register/register_1731.xml#reg_kreutz" target="../24/mattheson/comments_de.xml#t_kreuz-3">haben z. E. das <term>Doppel-Kreutz</term>, oder die chromatiſche Dieſin</ref>
+              <ref type="register" n="456" corresp="../register/register_1731.xml#reg_kreutz" target="../24/mattheson/comments_de.xml#t_kreuz-4">ſich ebenfalls des einfachen <term>Kreutzes</term>, wieder den Marcelliſchen Sinn,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_lebensdauer_von_notenwerken">
+            <label type="reg">Lebensdauer von Notenwerken</label>
+            <label type="orig">Leben der Noten-Wercke</label>
+            <gloss xml:lang="en">life span of musical works</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_leben"/>
+            <listRef>
+              <ref type="register" n="444" corresp="../register/register_1731.xml#reg_leben" target="../24/mattheson/comments_de.xml#t_lebensdauer_von_notenwerken-1">ausgenomen) gemeiniglich nur das <term>Alter</term> eines Pferdes zu erreichen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_manieren">
+            <label type="reg">Manieren</label>
+            <label type="orig">Manieren</label>
+            <gloss xml:lang="en">ornaments</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_manieren"/>
+            <listRef>
+              <ref type="register" n="306" corresp="../register/register_1731.xml#reg_manieren" target="../1/mattheson/comments_de.xml#t_manieren-1">lincke Hand, bey dieſer <term>Ausſchmuͤckung</term>, die Zieffern und Accorde</ref>
+              <ref type="register" n="307" corresp="../register/register_1731.xml#reg_manieren" target="../1/mattheson/comments_de.xml#t_manieren-2">werde, etwa auf folgende <term>Manier</term>: Ferner wuͤſte ich, bey</ref>
+              <ref type="register" n="328" corresp="../register/register_1731.xml#reg_manieren" target="../5/mattheson/comments_de.xml#t_auszierung-1">Vorſchrift, einem Liebhaber des <term>manierlichen</term> Spielens Gelegenheit geben wollen,</ref>
+              <ref type="register" n="375" corresp="../register/register_1731.xml#reg_manieren" target="../13/mattheson/comments_de.xml"/>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_manieren" target="../19/mattheson/comments_de.xml#t_manieren-1">zwantzigſten faͤllt mir eine <term>Manier</term> ein, die in der</ref>
+              <ref type="register" n="418" corresp="../register/register_1731.xml#reg_manieren" target="../20/mattheson/comments_de.xml#p3-1"/>
+              <ref type="register" n="419" corresp="../register/register_1731.xml#reg_manieren" target="../20/mattheson/comments_de.xml#p6-1"/>
+              <ref type="register" n="428" corresp="../register/register_1731.xml#reg_manieren" target="../22/mattheson/comments_de.xml"/>
+              <ref type="register" n="429" corresp="../register/register_1731.xml#reg_manieren" target="../22/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_meister">
+            <label type="reg">Meister</label>
+            <label type="orig">Meiſter</label>
+            <gloss xml:lang="en">masters</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_meister"/>
+            <listRef>
+              <ref type="register" n="441" corresp="../register/register_1731.xml#reg_meister" target="../24/mattheson/comments_de.xml#t_meister-1">54. und 65. den <term>Meiſtern</term> von groſſer Einbildung geſagt</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_melodie">
+            <label type="reg">Melodie</label>
+            <label type="orig">Melodie</label>
+            <gloss xml:lang="en">melody</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_melodie"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_melodie" target="../8/mattheson/comments_de.xml">zur Abwechſelung, eine kleine <term>Melodie</term> einflieſſen lassen, wobey ein</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_direktoren">
+            <label type="reg">Musikdirektoren</label>
+            <label type="orig">Directores auf dem Chor</label>
+            <gloss xml:lang="en">music directors (of church music)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_directores"/>
+            <listRef>
+              <ref type="register" n="386" corresp="../register/register_1731.xml#reg_directores" target="../15/mattheson/comments_de.xml#t_direktoren-1">es aber, wenn man <term>Directores</term> finde, die gar nicht</ref>
+              <ref type="register" n="387" corresp="../register/register_1731.xml#reg_directores" target="../15/mattheson/comments_de.xml#t_direktoren-2">ſey, und da er <term>Director</term> Chori geweſen, haͤtter er</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_nachdruck">
+            <label type="reg">Nachdruck</label>
+            <label type="orig">Nachdruck</label>
+            <gloss xml:lang="en">stress, accent</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_nachdruck"/>
+            <listRef>
+              <ref type="register" n="408" corresp="../register/register_1731.xml#reg_nachdruck" target="../18/mattheson/comments_de.xml#t_nachdruck-1">auf welche Note der <term>Nachdruck</term>, oder der Accent faͤllt,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_nachgeben">
+            <label type="reg">Nachgeben</label>
+            <label type="orig">Nachgeben</label>
+            <gloss xml:lang="en">giving way (to the singer)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_nachgeben"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_nachgeben" target="../8/mattheson/comments_de.xml">Zeit ausweichen, behuͤlfflich ſeyn, <term>nachgeben</term>, die Harmonie zieren und</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_neunsechzehnteltakt">
+            <label type="reg">Neunsechzehnteltakt</label>
+            <label type="orig">Neunſechszehntel-Tact</label>
+            <gloss xml:lang="en">9/16 time</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_neunsechszehntel_tact"/>
+            <listRef>
+              <ref type="register" n="374" corresp="../register/register_1731.xml#reg_neunsechszehntel_tact" target="../13/mattheson/comments_de.xml">denen zu gefallen den <term>neun-sechszehntel-Tact</term> hersetzen, die ihn vielleicht</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_none">
+            <label type="reg">None</label>
+            <label type="orig">Nona</label>
+            <gloss xml:lang="en">ninth</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_nona"/>
+            <listRef>
+              <ref type="register" n="359" corresp="../register/register_1731.xml#reg_nona" target="../10/mattheson/comments_de.xml">Es ist eine kleine <term>None</term> in Ansehung der Grund-Stimme,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_notation">
+            <label type="reg">Notation</label>
+            <label type="orig">Notirung</label>
+            <gloss xml:lang="en">notation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_notirung"/>
+            <listRef>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_notirung" target="../16/mattheson/comments_de.xml"/>
+              <ref type="register" n="436" corresp="../register/register_1731.xml#reg_notirung" target="../24/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="446" corresp="../register/register_1731.xml#reg_notirung" target="../24/mattheson/comments_de.xml#t_notation-1">welches mir, wegen der <term>Notirnug</term>, abſonderlich bey dergleichen Tonen,</ref>
+              <ref type="register" n="450" corresp="../register/register_1731.xml#reg_notirung" target="../24/mattheson/comments_de.xml#t_notation-2">um den Nachkommen die <term>Notirung</term> einiger Tone deſto leichter</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_notenbuch">
+            <label type="reg">Notenbuch</label>
+            <label type="orig">Noten-Buch</label>
+            <gloss xml:lang="en">music book</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_noten_buch"/>
+            <listRef>
+              <ref type="register" n="305" corresp="../register/register_1731.xml#reg_noten_buch" target="../1/mattheson/comments_de.xml#t_notenbuch-1">geiſtliche Ehren-Verſammlungen, als ein <term>Noten-Buch</term> dazu erwehlen; ſintemahl allda</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_oktave">
+            <label type="reg">Oktave</label>
+            <label type="orig">Octave</label>
+            <gloss xml:lang="en">octave</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_octave"/>
+            <listRef>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_octave" target="../24/mattheson/comments_de.xml#t_oktave-1">haben ſchon die chromatiſche <term>Octaven</term>. Jch zweifle dannenhero, ob</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_oktavenvirtuose">
+            <label type="reg">Oktavenvirtuose</label>
+            <label type="orig">Octaven-Virtuoſe</label>
+            <gloss xml:lang="en">octave virtuoso</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_octaven_virtuose"/>
+            <listRef>
+              <ref type="register" n="433" corresp="../register/register_1731.xml#reg_octaven_virtuose" target="../23/mattheson/comments_de.xml#t_oktavenvirtuose-1">Hu?te dich aber vor <term>Octaven</term> und falſchen Griffen, bey</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_orgel">
+            <label type="reg">Orgel</label>
+            <label type="orig">Orgeln</label>
+            <gloss xml:lang="en">organ</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_orgeln"/>
+            <listRef>
+              <ref type="register" n="440" corresp="../register/register_1731.xml#reg_orgeln" target="../24/mattheson/comments_de.xml#t_orgel-1">billig, die Fehler einer <term>Orgel</term>, von den Fehlern eines</ref>
+              <ref type="register" n="460" corresp="../register/register_1731.xml#reg_orgeln" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_pferde">
+            <label type="reg">Pferde</label>
+            <label type="orig">Pferden</label>
+            <gloss xml:lang="en">horses</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_pferden"/>
+            <listRef>
+              <ref type="register" n="444" corresp="../register/register_1731.xml#reg_pferden" target="../24/mattheson/comments_de.xml#t_pferde-1">nur das Alter eines <term>Pferdes</term> zu erreichen pflegen, welches,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_praxis">
+            <label type="reg">Praxis</label>
+            <label type="orig">Praxis</label>
+            <gloss xml:lang="en">practice</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_praxis"/>
+            <listRef>
+              <ref type="register" n="442" corresp="../register/register_1731.xml#reg_praxis" target="../24/mattheson/comments_de.xml#t_praxis-1">Schrifften, die allerdings zur <term>Praxi</term> gehören, und lieſſe ſich,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_probe">
+            <label type="reg">Probe</label>
+            <label type="orig">Probe</label>
+            <gloss xml:lang="en">test, trial</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_probe"/>
+            <listRef>
+              <ref type="register" n="370" corresp="../register/register_1731.xml#reg_probe" target="../12/mattheson/comments_de.xml">beliebe man, bey einer <term>Probe</term>, auf den dritten Tact</ref>
+              <ref type="register" n="380" corresp="../register/register_1731.xml#reg_probe" target="../14/mattheson/comments_de.xml">hier ein wenig zur <term>probe</term> mit, daraus das uͤbrige</ref>
+              <ref type="register" n="417" corresp="../register/register_1731.xml#reg_probe" target="../20/mattheson/comments_de.xml#p1-1"/>
+              <ref type="register" n="441" corresp="../register/register_1731.xml#reg_probe" target="../24/mattheson/comments_de.xml#t_probe-1">er noch eine ſchärffere <term>Probe</term> als die gegenwärtige iſt,</ref>
+              <ref type="register" n="457" corresp="../register/register_1731.xml#reg_probe" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_quartsextakkord">
+            <label type="reg">Quartsextakkord</label>
+            <label type="orig">Sext und Quart</label>
+            <gloss xml:lang="en">six-four chord</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_sext_und_quart"/>
+            <listRef>
+              <ref type="register" n="315" corresp="../register/register_1731.xml#reg_sext_und_quart" target="../2/mattheson/comments_de.xml#p7-1"/>
+              <ref type="register" n="371" corresp="../register/register_1731.xml#reg_sext_und_quart" target="../12/mattheson/comments_de.xml">von dem Gebrauch der <term>Sext und Quart</term> sagen, in so fern</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_querstand">
+            <label type="reg">Querstand</label>
+            <label type="orig">Relatio falſa</label>
+            <gloss xml:lang="en">false relation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_relatio_falsa"/>
+            <listRef>
+              <ref type="register" n="369" corresp="../register/register_1731.xml#reg_relatio_falsa" target="../12/mattheson/comments_de.xml">zur Vermeidung einer sogenannten <term>falschen Relation</term> oder Klang-Folge in verschiedenen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_rang_der_kuenstler">
+            <label type="reg">Rang der Künstler</label>
+            <label type="orig">Rang der Kuͤnſtler</label>
+            <gloss xml:lang="en">rank of artists</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_rang_der_kuenstler"/>
+            <listRef>
+              <ref type="register" n="351" corresp="../register/register_1731.xml#reg_rang_der_kuenstler" target="../9/mattheson/comments_de.xml#t_rang_der_kuenstler-1">ein Meiſter vom erſten <term>Rang</term> ſeyn, dem ſolches gut</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_rechte_hand">
+            <label type="reg">rechte Hand</label>
+            <label type="orig">Hand, die rechte</label>
+            <gloss xml:lang="en">right hand</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_hand"/>
+            <listRef>
+              <ref type="register" n="433" corresp="../register/register_1731.xml#reg_hand" target="../23/mattheson/comments_de.xml#t_rechte_hand-1">verlange nicht, daß die <term>rechte Hand</term> das geringſte (auſſer ein</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_reinheit">
+            <label type="reg">Reinheit</label>
+            <label type="orig">Reinlichkeit im Spielen</label>
+            <gloss xml:lang="en">cleanness (of playing)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_reinlichkeit"/>
+            <listRef>
+              <ref type="register" n="345" corresp="../register/register_1731.xml#reg_reinlichkeit" target="../8/mattheson/comments_de.xml"><term>reine</term></ref>
+            </listRef>
+          </item>
+          <item xml:id="t_rezitativ">
+            <label type="reg">Rezitativ</label>
+            <label type="orig">Recitativ</label>
+            <gloss xml:lang="en">recitative</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_recitativ"/>
+            <listRef>
+              <ref type="register" n="446" corresp="../register/register_1731.xml#reg_recitativ" target="../24/mattheson/comments_de.xml#t_rezitativ-1">ſolche Ungeſchicklichkeit bey einem <term>Recitativ</term> nicht ſo ſehr vermercket</ref>
+              <ref type="register" n="447" corresp="../register/register_1731.xml#reg_recitativ" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_saenger">
+            <label type="reg">Sänger</label>
+            <label type="orig">Saͤnger</label>
+            <gloss xml:lang="en">singer</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_saenger"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_saenger" target="../8/mattheson/comments_de.xml">oder ob er dem <term>Saͤnger</term> einen Vorzug geben will?</ref>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_saenger" target="../24/mattheson/comments_de.xml#t_saenger-1">nichts verordnet, als dem <term>Sänger</term> Beiſtand zu leiſten; nicht</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_schleifer">
+            <label type="reg">Schleifer</label>
+            <label type="orig">Schleuffer</label>
+            <gloss xml:lang="en">slide (ornament)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_schleuffer"/>
+            <listRef>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_schleuffer" target="../19/mattheson/comments_de.xml#t_schleifer-1">man mehrentheils einen ſtarcken <term>Schleuffer</term> machen, und dem hohen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_schluesselwechsel">
+            <label type="reg">Schlüsselwechsel</label>
+            <label type="orig">Schluͤſſel-Veraͤnderung</label>
+            <gloss xml:lang="en">change of clefs</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_schluessel_veraenderung"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_schluessel_veraenderung" target="../7/mattheson/comments_de.xml#t_schluesselwechsel-1">wird ſchwerlich bey den <term>Schluͤſſeln</term> Schwierigkeit finden: maſſen die</ref>
+              <ref type="register" n="368" corresp="../register/register_1731.xml#reg_schluessel_veraenderung" target="../12/mattheson/comments_de.xml">die fremden oder fremd-vermeynten <term>Schluͤssel</term>: massen eben deßwegen, mit</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_sekunde">
+            <label type="reg">Sekunde</label>
+            <label type="orig">Secunden</label>
+            <gloss xml:lang="en">second</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_secunden"/>
+            <listRef>
+              <ref type="register" n="339" corresp="../register/register_1731.xml#reg_secunden" target="../7/mattheson/comments_de.xml#t_sekunde-1">einen Schluß in die <term>Secund</term> anzubringen, entſtehet daher, weil</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_septime">
+            <label type="reg">Septime</label>
+            <label type="orig">Septimen</label>
+            <gloss xml:lang="en">seventh</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_septimen"/>
+            <listRef>
+              <ref type="register" n="357" corresp="../register/register_1731.xml#reg_septimen" target="../10/mattheson/comments_de.xml#aria-marcello"/>
+              <ref type="register" n="359" corresp="../register/register_1731.xml#reg_septimen" target="../10/mattheson/comments_de.xml">ersten Absatzes in die <term>Septime</term> etwas merckwuͤrdiges, und nichts</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_sexte">
+            <label type="reg">Sexte</label>
+            <label type="orig">Sexten</label>
+            <gloss xml:lang="en">sixth</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_sexten"/>
+            <listRef>
+              <ref type="editorial" n="319" target="../3/mattheson/comments_de.xml#t_sexte-1">Quint in die Tertz, <term>Sexten-Weise</term>, aufwaͤrts geſprungen werden.</ref>
+              <ref type="editorial" n="335" target="../6/mattheson/comments_de.xml#t_sexte-1">guter Einrichtung, Tertzen- und <term>Sexten-Weise</term> mitnehmen, ſo wird es</ref>
+              <ref type="register" n="349" corresp="../register/register_1731.xml#reg_sexten" target="../9/mattheson/comments_de.xml#t_sexte-1">die kahlen Accorte und <term>Sexten</term>, dazu ſpielen, denn ſolches</ref>
+              <ref type="register" n="410" corresp="../register/register_1731.xml#reg_sexten" target="../19/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="412" corresp="../register/register_1731.xml#reg_sexten" target="../19/mattheson/comments_de.xml#t_sexte-1">Noten, entweder mit der <term>Sext</term> allein, oder mit der</ref>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_sexten" target="../19/mattheson/comments_de.xml#t_sexte-2">funffzehnten Tact haben die <term>Sexten</term> wiederum die Schule, und</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_si_suona">
+            <label type="reg">si suona</label>
+            <label type="orig">Si ſuona</label>
+            <gloss xml:lang="en">si suona (the right hand plays solo)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_si_suona"/>
+            <listRef>
+              <ref type="register" n="328" corresp="../register/register_1731.xml#reg_si_suona" target="../5/mattheson/comments_de.xml#t_si_suona-1">Orten, wo die Worte: <term>si ſuona</term>, befindlich ſind, welche auf</ref>
+              <ref type="register" n="429" corresp="../register/register_1731.xml#reg_si_suona" target="../22/mattheson/comments_de.xml">neunzehnten Tact ſtehet wiederum: <term>ſi ſuona</term>, deſſen Bedeutung bekannt iſt,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_signaturen">
+            <label type="reg">Signaturen (Generalbassbezifferung)</label>
+            <label type="orig">Signaturen</label>
+            <gloss xml:lang="en">thoroughbass figures</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_signaturen"/>
+            <listRef>
+              <ref type="register" n="318" corresp="../register/register_1731.xml#reg_signaturen" target="../3/mattheson/comments_de.xml#t_signaturen-1">eine oder die andere <term>Signatur</term> nicht eben ſo genau</ref>
+              <ref type="editorial" n="319" target="../3/mattheson/comments_de.xml#t_signaturen-2">rechte Hand, mit den <term>Signaturen</term> oder Accorden, auf die</ref>
+              <ref type="register" n="394" corresp="../register/register_1731.xml#reg_signaturen" target="../16/mattheson/comments_de.xml"/>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_signaturen" target="../16/mattheson/comments_de.xml">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
+              <ref type="register" n="440" corresp="../register/register_1731.xml#reg_signaturen" target="../24/mattheson/comments_de.xml#t_signaturen-1">Anfang des Syſtematis viel <term>Signa chromatica</term> oder ♭ ſähe: ich</ref>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_signaturen" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_singen">
+            <label type="reg">Singen</label>
+            <label type="orig">Singen</label>
+            <gloss xml:lang="en">singing</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_singen"/>
+            <listRef>
+              <ref type="register" n="329" corresp="../register/register_1731.xml#reg_singen" target="../5/mattheson/comments_de.xml#t_singen-1">aber die Wiſſenſchaft des <term>Singens</term> muß nicht nur ein</ref>
+              <ref type="register" n="329" corresp="../register/register_1731.xml#reg_singen" target="../5/mattheson/comments_de.xml#t_singen-2">werden, daß, wer nicht <term>ſingen</term> koͤnne, auch nicht zu</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_sinn_des_verfassers">
+            <label type="reg">Sinn des Verfassers</label>
+            <label type="orig">Sinn oder Meynung des Verfaſſers</label>
+            <gloss xml:lang="en">the author's intention</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_sinn"/>
+            <listRef>
+              <ref type="register" n="349" corresp="../register/register_1731.xml#reg_sinn" target="../9/mattheson/comments_de.xml#t_sinn_des_verfassers-1">die Sache nach dem <term>Sinne</term> des Verfaſſers ſpielen will.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_solmisation">
+            <label type="reg">Solmisation</label>
+            <label type="orig">Solmiſation</label>
+            <gloss xml:lang="en">solmization</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_solmisation"/>
+            <listRef>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_solmisation" target="../10/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_sonate">
+            <label type="reg">Sonate</label>
+            <label type="orig">Sonate</label>
+            <gloss xml:lang="en">sonata</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_sonate"/>
+            <listRef>
+              <ref type="register" n="443" corresp="../register/register_1731.xml#reg_sonate" target="../24/mattheson/comments_de.xml#t_sonate-1">Republick. Mit meiner unſchuldigen <term>Sonate</term> fürs Clavier habe ſchon</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_spielen">
+            <label type="reg">Spielen</label>
+            <label type="orig">Spielen</label>
+            <gloss xml:lang="en">playing</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_spielen"/>
+            <listRef>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_spielen" target="../17/mattheson/comments_de.xml">muß. Durch das schlechte <term>Spielen</term> wird hauptsaͤchlich verlangt, daß</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_springen">
+            <label type="reg">Springen</label>
+            <label type="orig">Springen</label>
+            <gloss xml:lang="en">leaping (on the keyboard)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_springen"/>
+            <listRef>
+              <ref type="register" n="417" corresp="../register/register_1731.xml#reg_springen" target="../20/mattheson/comments_de.xml#t_springen-1">1. Wer hier feſt <term>ſpringen</term> kann, der koͤmmt wol</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_springende_noten">
+            <label type="reg">springende Noten</label>
+            <label type="orig">Springende Noten</label>
+            <gloss xml:lang="en">leaps</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_springende_noten"/>
+            <listRef>
+              <ref type="register" n="368" corresp="../register/register_1731.xml#reg_springende_noten" target="../12/mattheson/comments_de.xml">sich vorsehen, wenn gewisse <term>Spruͤnge</term> aufstossen, deren man gleich</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_stolpern">
+            <label type="reg">Stolpern</label>
+            <label type="orig">Stolpern der Organiſten</label>
+            <gloss xml:lang="en">stumbling</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_stolpern"/>
+            <listRef>
+              <ref type="register" n="345" corresp="../register/register_1731.xml#reg_stolpern" target="../8/mattheson/comments_de.xml"><term>stolpern</term></ref>
+              <ref type="register" n="370" corresp="../register/register_1731.xml#reg_stolpern" target="../12/mattheson/comments_de.xml">stocket oder an ein <term>Stolpern</term> gehet, den Spieler zu</ref>
+              <ref type="register" n="380" corresp="../register/register_1731.xml#reg_stolpern" target="../14/mattheson/comments_de.xml">soll, duͤrffte hier leicht <term>stolpern</term>. Man hat sagen wollen,</ref>
+              <ref type="register" n="417" corresp="../register/register_1731.xml#reg_stolpern" target="../20/mattheson/comments_de.xml#t_stolpern-1">aber wird offt ſtraucheln, <term>ſtolpern</term>, oder unrechte Palmulen ergreiffen.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_studieren">
+            <label type="reg">Studieren</label>
+            <label type="orig">Studiren</label>
+            <gloss xml:lang="en">studying, practising</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_studiren"/>
+            <listRef>
+              <ref type="register" n="345" corresp="../register/register_1731.xml#reg_studiren" target="../8/mattheson/comments_de.xml"><term>studirt</term></ref>
+            </listRef>
+          </item>
+          <item xml:id="t_subsemitonien">
+            <label type="reg">Subsemitonien</label>
+            <label type="orig">Subſemitone</label>
+            <gloss xml:lang="en">subsemitones (split keys)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_subsemitone"/>
+            <listRef>
+              <ref type="register" n="460" corresp="../register/register_1731.xml#reg_subsemitone" target="../24/mattheson/comments_de.xml#t_subsemitonien-1">daß man der andern <term>Subſemitonen</term>, wie ſie mit Unfug</ref>
+              <ref type="register" n="464" corresp="../register/register_1731.xml#reg_subsemitone" target="../24/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_synkope">
+            <label type="reg">Synkope</label>
+            <label type="orig">Syncopation</label>
+            <gloss xml:lang="en">syncopation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_syncopation"/>
+            <listRef>
+              <ref type="editorial" n="307" target="../1/mattheson/comments_de.xml#t_synkope-1">als gewoͤhnlich, geſpielet und <term>ſyncopiret</term> werde, etwa auf folgende</ref>
+              <ref type="editorial" n="312" target="../2/mattheson/comments_de.xml#t_synkope-1">koͤnne: Selbige Art zu <term>syncopiren</term> iſt gantz leicht, und</ref>
+              <ref type="editorial" n="319" target="../3/mattheson/comments_de.xml#t_synkope-1">auf die vorige Weiſe <term>ſyncopirt</term>. Eben alſso wird es</ref>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_syncopation" target="../10/mattheson/comments_de.xml"/>
+              <ref type="register" n="423" corresp="../register/register_1731.xml#reg_syncopation" target="../21/mattheson/comments_de.xml#t_synkope-1">muß die rechte Hand <term>ſyncopiren</term>. §. 4. Bey Anhebung</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_syzygia_remota">
+            <label type="reg">Syzygia remota</label>
+            <label type="orig">Syzygia remota</label>
+            <gloss xml:lang="en">chord in open position</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_syzygia_remota"/>
+            <listRef>
+              <ref type="register" n="376" corresp="../register/register_1731.xml#reg_syzygia_remota" target="../13/mattheson/comments_de.xml">beide Arten man sonst <term>Syzygiam remotam</term>, d.i. eine solchen Accord,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_takt">
+            <label type="reg">Takt</label>
+            <label type="orig">Tact</label>
+            <gloss xml:lang="en">bar, metre, beat</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_tact"/>
+            <listRef>
+              <ref type="register" n="372" corresp="../register/register_1731.xml#reg_tact" target="../13/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="382" corresp="../register/register_1731.xml#reg_tact" target="../15/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="386" corresp="../register/register_1731.xml#reg_tact" target="../15/mattheson/comments_de.xml#t_takt-1">wieder den Fuß-Boden, den <term>Tact</term> zu geben; nahm aber</ref>
+              <ref type="register" n="387" corresp="../register/register_1731.xml#reg_tact" target="../15/mattheson/comments_de.xml#t_takt-2">der fuͤr ihn den <term>Tact</term> gegeben, und er haͤtte</ref>
+              <ref type="register" n="412" corresp="../register/register_1731.xml#reg_tact" target="../19/mattheson/comments_de.xml#t_takt-1">nun wohl ein wenig <term>Tactirens</term> noͤthig ſeyn, zumahl fuͤr</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_tasten">
+            <label type="reg">Tasten</label>
+            <label type="orig">Taſten</label>
+            <gloss xml:lang="en">keys (of the keyboard)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_tasten"/>
+            <listRef>
+              <ref type="register" n="458" corresp="../register/register_1731.xml#reg_tasten" target="../24/mattheson/comments_de.xml#t_tasten-1">und von dem verbo <term>taſten</term>, toucher, herleite, drückt es</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_temperatur">
+            <label type="reg">Temperatur</label>
+            <label type="orig">Temperatur</label>
+            <gloss xml:lang="en">temperament</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_temperatur"/>
+            <listRef>
+              <ref type="register" n="461" corresp="../register/register_1731.xml#reg_temperatur" target="../24/mattheson/comments_de.xml#t_temperatur-1">hätten ſie die rechte <term>Temperatur</term> noch nicht getroffen. Salin</ref>
+              <ref type="register" n="463" corresp="../register/register_1731.xml#reg_temperatur" target="../24/mattheson/comments_de.xml#t_temperatur-2">es mit einer guten <term>Temperatur</term> zufrieden iſt; ja, GOtt</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_terz">
+            <label type="reg">Terz</label>
+            <label type="orig">Tertz</label>
+            <gloss xml:lang="en">third</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_tertz"/>
+            <listRef>
+              <ref type="editorial" n="339" target="../7/mattheson/comments_de.xml#t_terz-1">Hand, es ſey nun <term>Tertzen-Weiſe</term>, (welches das meiſte ausmacht)</ref>
+              <ref type="register" n="423" corresp="../register/register_1731.xml#reg_tertz" target="../21/mattheson/comments_de.xml#t_terz-1">Zierrath zuwaͤchſt, wenn die <term>Tertzen</term> Note vor Note mitſpielen,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_theoretisch">
+            <label type="reg">theoretisch</label>
+            <label type="orig">Theoretiſche Schwierigkeiten</label>
+            <gloss xml:lang="en">theoretical</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_theoretische_schwierigkeiten"/>
+            <listRef>
+              <ref type="register" n="444" corresp="../register/register_1731.xml#reg_theoretische_schwierigkeiten" target="../24/mattheson/comments_de.xml#t_theoretisch-1">ist ja keine bloſſe <term>Theorie</term>, ſondern eine höhere Praxis,</ref>
+              <ref type="register" n="457" corresp="../register/register_1731.xml#reg_theoretische_schwierigkeiten" target="../24/mattheson/comments_de.xml#t_theoretisch-2">einen muſicaliſchen Grillenfänger und <term>Theoreticum</term> mit ſchlentern laſſen will,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_toccata">
+            <label type="reg">Toccata</label>
+            <label type="orig">Toccata</label>
+            <gloss xml:lang="en">toccata</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_toccata"/>
+            <listRef>
+              <ref type="register" n="312" corresp="../register/register_1731.xml#reg_toccata" target="../2/mattheson/comments_de.xml#t_toccata-1">kann an Statt einer <term>Toccata</term>, oder wenigſtens wie eine</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_ton">
+            <label type="reg">Ton (Tonart)</label>
+            <label type="orig">Ton</label>
+            <gloss xml:lang="en">key</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ton"/>
+            <listRef>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_ton" target="../19/mattheson/comments_de.xml#t_ton-1">St. Lambert nennet dieſen <term>Ton</term> p. 29.F ut Fa</ref>
+              <ref type="register" n="420" corresp="../register/register_1731.xml#reg_ton" target="../20/mattheson/comments_de.xml#t_ton-1">§. 8. Daß dieſer <term>Ton</term> in Franckreich was rares</ref>
+              <ref type="register" n="425" corresp="../register/register_1731.xml#reg_ton" target="../21/mattheson/comments_de.xml#t_ton-1">herſetzen: §. 6. Dieſer <term>Ton</term>, H dur, heiſſet, nach</ref>
+              <ref type="register" n="446" corresp="../register/register_1731.xml#reg_ton" target="../24/mattheson/comments_de.xml#t_ton-1">Notirnug, abſonderlich bey dergleichen <term>Tonen</term>, aufſtöſſt. Da ſtelle nur</ref>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_ton" target="../24/mattheson/comments_de.xml#t_ton-2">iſt auch mit den <term>Tonen</term> einiger maſſen eben ſo</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_transposition">
+            <label type="reg">Transposition</label>
+            <label type="orig">Verſetzung</label>
+            <gloss xml:lang="en">transposition</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_versetzung"/>
+            <listRef>
+              <ref type="register" n="381" corresp="../register/register_1731.xml#reg_versetzung" target="../14/mattheson/comments_de.xml">habe. Jch halte solche <term>Versetzungen</term> fuͤr sehr nuͤtzlich, und</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_treffen">
+            <label type="reg">Treffen</label>
+            <label type="orig">Treffen</label>
+            <gloss xml:lang="en">sight-reading</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_treffen"/>
+            <listRef>
+              <ref type="register" n="345" corresp="../register/register_1731.xml#reg_treffen" target="../8/mattheson/comments_de.xml"><term>treffen</term></ref>
+              <ref type="register" n="380" corresp="../register/register_1731.xml#reg_treffen" target="../14/mattheson/comments_de.xml">§. 1. MAncher vermeynter <term>Treffer</term>, wenn er das Ding</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_triller">
+            <label type="reg">Triller</label>
+            <label type="orig">Triller</label>
+            <gloss xml:lang="en">trill</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_triller"/>
+            <listRef>
+              <ref type="register" n="323" corresp="../register/register_1731.xml#reg_triller" target="../4/mattheson/comments_de.xml#t_triller-1">unterſten Octav, einen ſcharffen <term>Triller</term>. Der folgende Tact wird</ref>
+              <ref type="register" n="324" corresp="../register/register_1731.xml#reg_triller" target="../4/mattheson/comments_de.xml#t_triller-2">der erſten Note der <term>Triller</term> nicht vergeſſen werden; bey</ref>
+              <ref type="editorial" n="413" target="../19/mattheson/comments_de.xml#t_triller-1">da ſind: gute ſcharffe <term>Triller</term>, Vorſchlaͤge, Accente dergleichen) bey</ref>
+              <ref type="register" n="428" corresp="../register/register_1731.xml#reg_triller" target="../22/mattheson/comments_de.xml">und mit einem kurtzen <term>Triller</term> vorſchlagen muss. §. 2.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_umkehrung">
+            <label type="reg">Umkehrung</label>
+            <label type="orig">Umkehrung der Fugen-Saͤtze</label>
+            <gloss xml:lang="en">inversion</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_umkehrung"/>
+            <listRef>
+              <ref type="register" n="325" corresp="../register/register_1731.xml#reg_umkehrung" target="../4/mattheson/comments_de.xml#t_umkehrung-1">Saͤtze, ruͤckwerts und vorwerts, <term>umkehren</term> laſſen, ſolches wird zugleich</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_unterricht">
+            <label type="reg">Unterricht</label>
+            <label type="orig">Jnformiren</label>
+            <label type="orig">Unterricht</label>
+            <gloss xml:lang="en">teaching</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_jnformiren ../register/register_1731.xml#reg_unterricht"/>
+            <listRef>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_jnformiren" target="../7/mattheson/comments_de.xml#t_unterricht-1">waͤren die beſten zum <term>Unterricht</term>; ich aber halte dafuͤr,</ref>
+              <ref type="register" n="338" corresp="../register/register_1731.xml#reg_unterricht" target="../7/mattheson/comments_de.xml#t_unterricht-2">Arbeit, ſonderlich bey dem <term>Unterricht</term>, mitnehmen, und ſich gesagt</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_veraenderung">
+            <label type="reg">Veränderung</label>
+            <label type="orig">Veraͤnderung</label>
+            <gloss xml:lang="en">variation</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_veraenderung"/>
+            <listRef>
+              <ref type="register" n="325" corresp="../register/register_1731.xml#reg_veraenderung" target="../4/mattheson/comments_de.xml#t_veraenderung-1">faͤllt hier, mit noͤthiger <term>Veraͤnderung</term>, im ſechs- ſieben- auch</ref>
+              <ref type="register" n="334" corresp="../register/register_1731.xml#reg_veraenderung" target="../6/mattheson/comments_de.xml#t_veraenderung-1">ſind, darauf ſich die <term>Veraͤnderungen</term> oder Brechungen beziehen, dem</ref>
+              <ref type="register" n="374" corresp="../register/register_1731.xml#reg_veraenderung" target="../13/mattheson/comments_de.xml">Natur ist, nach angenehmen <term>Veraͤnderungen</term> und unaufhoͤrlichen Abwechslungen; allein</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_virtuose">
+            <label type="reg">Virtuose</label>
+            <label type="orig">Virtuoſen</label>
+            <gloss xml:lang="en">virtuoso</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_virtuosen"/>
+            <listRef>
+              <ref type="register" n="444" corresp="../register/register_1731.xml#reg_virtuosen" target="../24/mattheson/comments_de.xml#t_virtuose-1">etwan ein armes Dutzend <term>Flöten-Sonaten</term>, davon doch im musikaliſchen</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_vollkommenheit">
+            <label type="reg">Vollkommenheit</label>
+            <label type="orig">Vollkommenheit</label>
+            <gloss xml:lang="en">perfection</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_vollkommenheit"/>
+            <listRef>
+              <ref type="register" n="449" corresp="../register/register_1731.xml#reg_vollkommenheit" target="../24/mattheson/comments_de.xml#t_vollkommenheit-1">wären. Iſt doch unfern <term>unvollkommenen</term> Ohren nichts vollkommenes nöthig,</ref>
+              <ref type="register" n="462" corresp="../register/register_1731.xml#reg_vollkommenheit" target="../24/mattheson/comments_de.xml#t_vollkommenheit-2">die Zuſammenbindung der Harmonie <term>unvollkommen</term> und lahm ſeyn und</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_vollstimmigkeit">
+            <label type="reg">Vollstimmigkeit</label>
+            <label type="orig">Vollſtimmigkeit</label>
+            <gloss xml:lang="en">full-voiced playing</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_vollstimmigkeit"/>
+            <listRef>
+              <ref type="editorial" n="324" target="../4/mattheson/comments_de.xml#t_vollstimmigkeit-1">finden, und den Baß <term>vollſtimmig</term> mitfuͤhren kann. Jm zehnten</ref>
+              <ref type="editorial" n="334" target="../6/mattheson/comments_de.xml#t_vollstimmigkeit-1">treten; kanſt du die <term>Vollſtimmigkeit</term> nicht ſo geſchwinde finden,</ref>
+              <ref type="editorial" n="349" target="../9/mattheson/comments_de.xml#t_vollstimmigkeit-1">die Griffe gantz wol <term>vollſtimmig</term> bleiben koͤnnen. Wenns zur</ref>
+              <ref type="register" n="355" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../10/mattheson/comments_de.xml">Zeit geschehen muss, mit <term>vollstimmigen</term> Griffen im Baß. §.</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../17/mattheson/comments_de.xml">allemahl gesagt, nicht vergesse, <term>vollstimmig</term> dabey anzuschlagen: damit, auch</ref>
+              <ref type="editorial" n="408" target="../18/mattheson/comments_de.xml#t_vollstimmigkeit-1">jeder Note, angegriffen, und <term>vollſtimmig</term> zu Ende gebracht. §.</ref>
+              <ref type="register" n="409" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../18/mattheson/comments_de.xml#t_vollstimmigkeit-2">Hand alles auf das <term>vollſtimmigſte</term> anſchlagen muß, welches je</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_vorschlag">
+            <label type="reg">Vorschlag</label>
+            <label type="orig">Vorſchlag</label>
+            <gloss xml:lang="en">appoggiatura</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_vorschlag"/>
+            <listRef>
+              <ref type="register" n="319" corresp="../register/register_1731.xml#reg_vorschlag" target="../3/mattheson/comments_de.xml#p3-1"/>
+              <ref type="register" n="412" corresp="../register/register_1731.xml#reg_vorschlag" target="../19/mattheson/comments_de.xml#t_vorschlag-1">billig allhier nicht einmahl <term>vorgeſchlagen</term>; wiewol ich hievon den</ref>
+              <ref type="editorial" n="413" target="../19/mattheson/comments_de.xml#t_vorschlag-2">ſind: gute ſcharffe Triller, <term>Vorſchlaͤge</term>, Accente dergleichen) bey dem</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_vorurteile">
+            <label type="reg">Vorurteile</label>
+            <label type="orig">Vorurtheile</label>
+            <gloss xml:lang="en">prejudices</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_vorurtheile"/>
+            <listRef>
+              <ref type="register" n="333" corresp="../register/register_1731.xml#reg_vorurtheile" target="../6/mattheson/comments_de.xml#t_vorurteile-1">haͤtte. Das ſind lauter <term>vorgefaßte Meynungen</term>; ich bitte darum, man</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_wechselnoten">
+            <label type="reg">Wechselnoten</label>
+            <label type="orig">Noten, verwechſelte</label>
+            <gloss xml:lang="en">changing notes (note cambiate)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_noten"/>
+            <listRef>
+              <ref type="register" n="413" corresp="../register/register_1731.xml#reg_noten" target="../19/mattheson/comments_de.xml#t_wechselnoten-1">Tranſitum irregularem., oder die <term>verwechſelten Noten</term> Note cambiate. kann ein</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_wohlklang">
+            <label type="reg">Wohlklang und Übelklang</label>
+            <label type="orig">Uebel- und Wol-Laut</label>
+            <label type="orig">Wollaut</label>
+            <gloss xml:lang="en">euphony and cacophony</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_uebel ../register/register_1731.xml#reg_wollaut"/>
+            <listRef>
+              <ref type="register" n="333" corresp="../register/register_1731.xml#reg_uebel" target="../6/mattheson/comments_de.xml#t_wohlklang-1">Gruͤnden, als nach dem <term>Wol- oder Uebellaut</term>, die Einrichtung mag kuͤnſtlich,</ref>
+              <ref type="register" n="333" corresp="../register/register_1731.xml#reg_wollaut" target="../6/mattheson/comments_de.xml#t_wohlklang-1">Gruͤnden, als nach dem <term>Wol- oder Uebellaut</term>, die Einrichtung mag kuͤnſtlich,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_wunder">
+            <label type="reg">Wunder</label>
+            <label type="orig">Wunder</label>
+            <gloss xml:lang="en">wonders</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_wunder"/>
+            <listRef>
+              <ref type="register" n="386" corresp="../register/register_1731.xml#reg_wunder" target="../15/mattheson/comments_de.xml#t_wunder-1">deßwegen zusammen, daß ſie <term>Wunder-Dinge</term> vernehmen wolle: denn, welch</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_zeichen">
+            <label type="reg">Zeichen</label>
+            <label type="orig">Zeichen</label>
+            <gloss xml:lang="en">signs (in notation)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_zeichen"/>
+            <listRef>
+              <ref type="register" n="375" corresp="../register/register_1731.xml#reg_zeichen" target="../13/mattheson/comments_de.xml">werden kann, durch dunckle <term>Zeichen</term> zweifelhafft zu machen; wie</ref>
+              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml">Bescheidenheit dahin, daß nur <term>Zeichen</term> genug moͤgten angesetzt werden,</ref>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_zierrat">
+            <label type="reg">Zierrat</label>
+            <label type="orig">Zierrath</label>
+            <gloss xml:lang="en">ornament</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_zierrath"/>
+            <listRef>
+              <ref type="register" n="344" corresp="../register/register_1731.xml#reg_zierrath" target="../8/mattheson/comments_de.xml"/>
+            </listRef>
+          </item>
+          <item xml:id="t_ziffern">
+            <label type="reg">Ziffern</label>
+            <label type="orig">Ziefern</label>
+            <gloss xml:lang="en">figures (of the thoroughbass)</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_ziefern"/>
+            <listRef>
+              <ref type="editorial" n="306" target="../1/mattheson/comments_de.xml#t_ziffern-1">bey dieſer Ausſchmuͤckung, die <term>Zieffern</term> und Accorde mitgreiffen muͤsse,</ref>
+              <ref type="editorial" n="313" target="../2/mattheson/comments_de.xml#t_ziffern-1">die Accorde und uͤberſtehende <term>Zieffern</term> auf eine bequeme, oder</ref>
+              <ref type="register" n="318" corresp="../register/register_1731.xml#reg_ziefern" target="../3/mattheson/comments_de.xml#t_ziffern-1">ſpielen, wenn nicht mehr <term>Ziffern</term> vorkom̃en, als in dieſem</ref>
+              <ref type="editorial" n="334" target="../6/mattheson/comments_de.xml#t_ziffern-1">hin und wieder eine <term>Zieffer</term> ausgelassen waͤre, ſo wird</ref>
+              <ref type="editorial" n="349" target="../9/mattheson/comments_de.xml#t_ziffern-1">haben, wobey die uͤberſtehende <term>Ziefern</term> alle gantz genau mit</ref>
+              <ref type="editorial" n="423" target="../21/mattheson/comments_de.xml#t_ziffern-1">mitſpielen, dabey aber die <term>Zieffern</term> nicht vergeſſen werden muͤſſen,</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_zweivierteltakt">
+            <label type="reg">Zweivierteltakt</label>
+            <label type="orig">Zweiviertel-Tact</label>
+            <gloss xml:lang="en">2/4 time</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_zweiviertel_tact"/>
+            <listRef>
+              <ref type="register" n="382" corresp="../register/register_1731.xml#reg_zweiviertel_tact" target="../15/mattheson/comments_de.xml#score"/>
+              <ref type="register" n="384" corresp="../register/register_1731.xml#reg_zweiviertel_tact" target="../15/mattheson/comments_de.xml#t_zweivierteltakt-1">Worte Scherzando (ſchertzend, ſpielend, <term>taͤndelnd</term>) wohlbedaͤchtlich verſehen worden ist.</ref>
+            </listRef>
+          </item>
+          <item xml:id="t_zwischenspiel">
+            <label type="reg">Zwischenspiel</label>
+            <label type="orig">Zwiſchen-Spiel</label>
+            <gloss xml:lang="en">interlude</gloss>
+            <ptr type="register" target="../register/register_1731.xml#reg_zwischen_spiel"/>
+            <listRef>
+              <ref type="register" n="323" corresp="../register/register_1731.xml#reg_zwischen_spiel" target="../4/mattheson/comments_de.xml#t_zwischenspiel-1">das schon beſchriebene kleine <term>Zwischen-Spiel</term> dreimahl, durch ſteigende Grade,</ref>
+              <ref type="register" n="324" corresp="../register/register_1731.xml#reg_zwischen_spiel" target="../4/mattheson/comments_de.xml#t_zwischenspiel-2">im Diſcant das kleine <term>Zwischen-Spiel</term> alſo anzufangen: daſſelbe wird</ref>
+              <ref type="register" n="369" corresp="../register/register_1731.xml#reg_zwischen_spiel" target="../12/mattheson/comments_de.xml">herdurch fortgesetzet, und nach <term>zwischen-spielender</term> Abwechslung kleiner Neben-Saͤtze im</ref>
+            </listRef>
+          </item>
+          </list>
+        </body>
+    </text>
+</TEI>

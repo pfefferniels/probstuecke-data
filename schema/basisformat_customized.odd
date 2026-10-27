@@ -118,6 +118,16 @@
                     Editorial notes (<gi>note</gi>) should indicate the responsible editor using the <att>resp</att> attribute.
                 </p>
             </div>
+
+            <div>
+                <head>Index of Terms</head>
+
+                <p>
+                    Words listed in the index of terms (<ident>indices/terms.xml</ident>) are tagged with <gi>term</gi>,
+                    whose <att>corresp</att> points to the entry (several entries if the word is indexed under more than
+                    one). The tags are inserted by <ident>scripts/tag_terms.py</ident> from the quotations in the index.
+                </p>
+            </div>
         </front>
         <body>
             <p>This is the TEI Customization for the DTA 'base format', used by the DFG Project
@@ -125,7 +135,8 @@
             <schemaSpec ident="basisformat" docLang="en" prefix="tei_" start="TEI" xml:lang="en">
                 <!-- required modules -->
                 <!-- customization: added graphic and ptr -->
-                <moduleRef key="core" include="graphic ptr abbr add addrLine address author bibl biblScope cb choice cit corr date del editor email expan foreign gap head hi item l lb lg list listBibl measure milestone name note orig p pb pubPlace publisher q quote ref reg resp respStmt sic sp speaker stage title unclear"/>
+                <!-- customization: added term for the index of terms -->
+                <moduleRef key="core" include="graphic ptr abbr add addrLine address author bibl biblScope cb choice cit corr date del editor email expan foreign gap head hi item l lb lg list listBibl measure milestone name note orig p pb pubPlace publisher q quote ref reg resp respStmt sic sp speaker stage term title unclear"/>
                 <moduleRef key="header" include="abstract availability biblFull classCode edition editionStmt editorialDecl encodingDesc extent fileDesc handNote idno langUsage language licence notesStmt profileDesc publicationStmt rendition seriesStmt sourceDesc tagsDecl teiHeader textClass titleStmt"/>
                 <moduleRef key="tei"/>
                 <moduleRef key="textstructure" include="TEI argument back body byline closer dateline div docAuthor docDate docEdition docImprint docTitle epigraph floatingText front imprimatur opener postscript salute signed text titlePage titlePart trailer"/>
@@ -2610,6 +2621,25 @@
                        <attDef ident="resp" mode="delete"/>
                        <attDef ident="rend" mode="delete"/>
                        <attDef ident="sameAs" mode="delete"/>
+                   </attList>
+               </elementSpec>
+               <!-- customization: words indexed in encodings/indices/terms.xml; @corresp points to the entry
+                    ("#t_…"), several entries if the word is indexed under more than one -->
+               <elementSpec ident="term" module="core" mode="change">
+                   <desc>Wort oder Wendung, die im Sachregister (indices/terms.xml) verzeichnet ist</desc>
+                   <attList>
+                       <attDef ident="corresp" mode="change" usage="req"/>
+                       <attDef ident="n" mode="delete"/>
+                       <attDef ident="rendition" mode="delete"/>
+                       <attDef ident="rend" mode="delete"/>
+                       <attDef ident="facs" mode="delete"/>
+                       <attDef ident="sameAs" mode="delete"/>
+                       <attDef ident="cert" mode="delete"/>
+                       <attDef ident="target" mode="delete"/>
+                       <attDef ident="cRef" mode="delete"/>
+                       <attDef ident="ref" mode="delete"/>
+                       <attDef ident="key" mode="delete"/>
+                       <attDef ident="subtype" mode="delete"/>
                    </attList>
                </elementSpec>
                <elementSpec ident="title" module="core" mode="change">

@@ -126,15 +126,15 @@
         <head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           <lb/>Dis wenige iſt doch anzumercken, daß <ref target="#measure-0000000997653530">dem Anfange</ref> ein beſonderer Zierrath zu-
-          <lb/>waͤchſt, wenn  die Tertzen Note vor Note mitſpielen, dabey aber die Zieffern nicht
+          <lb/>waͤchſt, wenn  die <term xml:id="t_terz-1" corresp="#t_terz">Tertzen</term> Note vor Note mitſpielen, dabey aber die <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffern</term> nicht
           <lb/>vergeſſen werden muͤſſen, und der Baß in Octaven einhergehen kann. Weiter, da
-          <lb/>ohne dem die Harmonie ſchon vollkommen in dem <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> befindlich iſt, ſo haͤt-
+          <lb/>ohne dem die Harmonie ſchon vollkommen in dem <hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Harpeggio</term></foreign></hi> befindlich iſt, ſo haͤt-
           <lb/>te ich gerne, daß man vom
           <ref target="#measure-0000000735490332 #measure-0000001402480291 #measure-0000001795560838 #measure-0000000927409295">
             dritten bis ſechſten
           </ref>
           Tact nur die bloſſe Tertz oben im Diſ-
-          <lb/>cante Octavenweiſe ſpringen, und hernach eine kleine Pauſe folgen lieſſe: ſo wie die
+          <lb/>cante <term xml:id="t_all_ottava-1" corresp="#t_all_ottava">Octavenweiſe</term> ſpringen, und hernach eine kleine Pauſe folgen lieſſe: ſo wie die
           <lb/>Figur weiter unten im Baß vorkoͤmmt. Mich deucht, ſolches macht mehr Auf-
           <lb/>merckſamkeit bey dem Zuhoͤrer, als wenn man da immer und ewig mit lauter vol-
           <lb/>len Griffen auf einer Stelle weghackt.
@@ -160,7 +160,7 @@
           <ptr target="music-example1.xml"/>
         </notatedMusic>
         <p xml:id="p3-2" facs="#facsZone-p3-2">
-          <lb/>im <ref target="#measure-0000000725006538">dreyzehnten Tact</ref> kehrt ſichs um, und muß die rechte Hand ſyncopiren.
+          <lb/>im <ref target="#measure-0000000725006538">dreyzehnten Tact</ref> kehrt ſichs um, und muß die rechte Hand <term xml:id="t_synkope-1" corresp="#t_synkope">ſyncopiren</term>.
         </p>
       </div>
 
@@ -194,7 +194,7 @@
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/><ref target="#measure-0000000857212948">Bey dem fuͤnfften Tact des andern Theils</ref> hat der Baß wieder das obige
-          <lb/><hi rendition="#aq">Harpeggio</hi>: deßwegen mag auch die rechte Hand ihre Tertzen abermahl dabey in die
+          <lb/><hi rendition="#aq"><term xml:id="t_arpeggio-2" corresp="#t_arpeggio">Harpeggio</term></hi>: deßwegen mag auch die rechte Hand ihre Tertzen abermahl dabey in die
           <lb/>Octaven ſpringen laſſen. <ref target="#measure-0000000616519514">Bey dem ſiebenden</ref> giebt es eine Abwechſelung hierinnen.
           <lb/><ref target="#measure-0000001228700054">Jm neunten</ref> iſt der anfangende Haupt-Satz angebracht, wobey die beliebten
           <lb/>Tertzen ſich bey jeder Note hoͤren laſſen koͤnnen. Der <ref target="#measure-0000001484317561">elffte Tact</ref> erfordert
@@ -211,7 +211,7 @@
       <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          <lb/>Dieſer Ton, <hi rendition="#b">H dur</hi>, heiſſet, nach des
+          <lb/>Dieſer <term xml:id="t_ton-1" corresp="#t_ton">Ton</term>, <hi rendition="#b"><term xml:id="t_h_dur-1" corresp="#t_h_dur">H dur</term></hi>, heiſſet, nach des
           <persName corresp="#ed_dwf_j5x_qlb">Herrn von St. Lamberts</persName> rothwelſchen
           <note type="editorial" resp="#pfeffer">
             hier im Sinne von "unverständlich" gebraucht.

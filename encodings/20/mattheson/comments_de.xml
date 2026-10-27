@@ -124,14 +124,14 @@
       <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <hi rendition="#in">W</hi>er hier feſt ſpringen kann, der koͤmmt wol zu recht; ein anderer aber wird
-          offt ſtraucheln, ſtolpern, oder unrechte Palmulen
+          <hi rendition="#in">W</hi>er hier feſt <term xml:id="t_springen-1" corresp="#t_springen">ſpringen</term> kann, der koͤmmt wol zu recht; ein anderer aber wird
+          offt ſtraucheln, <term xml:id="t_stolpern-1" corresp="#t_stolpern">ſtolpern</term>, oder unrechte Palmulen
           <note type="editorial" resp="#pfeffer">
             Tasten (lat. palmulae)
           </note>
           ergreiffen. Zum Ende des
           <ref target="#measure-0000000174603578">vierten Tacts</ref> haͤtte
-          man es gerne ein wenig gebrochen, und denn im
+          man es gerne ein wenig <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">gebrochen</term>, und denn im
           <ref target="#measure-0000001411700064 #measure-0000000264878814 #measure-0000000328043882">fuͤnfften,
           ſechſten und ſiebenden</ref> auf
           dieſe Art:
@@ -160,14 +160,14 @@
           <pb n="418" facs="#facs-p480"/>
           <lb/>wie denn auch im <ref target="#measure-0000001425906512 #measure-0000000763300727">achtzehnten und neunzehnten</ref> dieſelbe Weiſe wieder vorkoͤmmt. Wer
           <lb/>aber im <ref target="#measure-0000001527420734">zwantzigſten</ref> und folgenden Menſuren nicht zu ſpaͤt erſcheinen will, der muſs
-          <lb/>nicht lange ſaͤumen, ſondern die Finger galoppiren laſſen.
+          <lb/>nicht lange ſaͤumen, ſondern die Finger <term xml:id="t_galoppieren-1" corresp="#t_galoppieren">galoppiren</term> laſſen.
         </p>
       </div>
 
       <div n="3">
         <head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1">
-          <lb/>Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi> anfaͤnget,</ref> deutet
+          <lb/>Da <ref target="#measure-0000000091997873">der andere Theil mit einem gewiſſen <hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_arpeggio-2" corresp="#t_arpeggio">Harpeggio</term></foreign></hi> anfaͤnget,</ref> deutet
           <lb/>ſolches allhie ſo viel an, daß die rechte Hand daher Gelegenheit ſuchen ſolle, es
           <lb/>nachzuahmen. Solches kann auch ſofort <ref target="#measure-0000001923958404">im andern Tact</ref> geſchehen, etwa fol-
           <lb/>gender Geſtalt:
@@ -221,7 +221,7 @@
         <head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Gleich darauf kann, bey dem ſtillhaltenden Baß, die rechte Hand ſich hoͤren
-          <lb/>laſſen, nur mit einem gebrochenen Accord, und was ſonſten uͤberſteht. Zum
+          <lb/>laſſen, nur mit einem <term xml:id="t_arpeggio-3" corresp="#t_arpeggio">gebrochenen</term> Accord, und was ſonſten uͤberſteht. Zum
           <lb/>Exempel:
         </p>
         <notatedMusic xml:id="music-example6" facs="#facsZone-music-example6">
@@ -246,7 +246,7 @@
       <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/>Daß dieſer Ton in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
+          <lb/>Daß dieſer <term xml:id="t_ton-1" corresp="#t_ton">Ton</term> in Franckreich was rares ſeyn muͤſſe, erſehe aus dem Lam-
           <lb/>bertiſchen<note place="foot" n="*)"><hi rendition="#aq"><foreign xml:lang="fra">
           <quote xml:id="lambert-quote" corresp="#lambert-quote-trans" xml:lang="fra">
             Le B Fa Si Beccarre etant un Ton, ſur lequel on compoſe rarement, il n'y a point

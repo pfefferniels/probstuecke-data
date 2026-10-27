@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2026-10-27T00:14:49Z. . 
+Schema generated from ODD source 2026-10-27T10:36:31Z. . 
 TEI Edition: P5 Version 4.12.0. Last updated on 28th July 2026, revision 113e933e2 
 TEI Edition Location: https://www.tei-c.org/Vault/P5/4.12.0/ 
   
@@ -2460,17 +2460,20 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
       <choice>
          <ref name="tei_ptr"/>
          <ref name="tei_ref"/>
+         <ref name="tei_listRef"/>
       </choice>
    </define>
    <define name="tei_model.ptrLike_alternation">
       <choice>
          <ref name="tei_ptr"/>
          <ref name="tei_ref"/>
+         <ref name="tei_listRef"/>
       </choice>
    </define>
    <define name="tei_model.ptrLike_sequence">
       <ref name="tei_ptr"/>
       <ref name="tei_ref"/>
+      <ref name="tei_listRef"/>
    </define>
    <define name="tei_model.ptrLike_sequenceOptional">
       <optional>
@@ -2478,6 +2481,9 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
       </optional>
       <optional>
          <ref name="tei_ref"/>
+      </optional>
+      <optional>
+         <ref name="tei_listRef"/>
       </optional>
    </define>
    <define name="tei_model.ptrLike_sequenceOptionalRepeatable">
@@ -2487,6 +2493,9 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
       <zeroOrMore>
          <ref name="tei_ref"/>
       </zeroOrMore>
+      <zeroOrMore>
+         <ref name="tei_listRef"/>
+      </zeroOrMore>
    </define>
    <define name="tei_model.ptrLike_sequenceRepeatable">
       <oneOrMore>
@@ -2494,6 +2503,9 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_ref"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_listRef"/>
       </oneOrMore>
    </define>
    <define name="tei_model.lPart">
@@ -7756,6 +7768,8 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">index of literature</a:documentation>
                   <value>musical-works</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">index of musical works</a:documentation>
+                  <value>terms</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">index of terms</a:documentation>
                   <value>realization</value>
                   <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">notes on a realisation</a:documentation>
                </choice>
@@ -11902,6 +11916,42 @@ Sample values include: 1] TEI (text encoding initiative); 2] DBK (docbook); 3] X
                </data>
             </attribute>
          </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_listRef">
+      <element name="listRef">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(list of references) supplies a list of significant references in the current document or elsewhere. [23.4.1. Description of Components 24.5.1. Making a Unified ODD]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <ref name="tei_desc"/>
+            </zeroOrMore>
+            <oneOrMore>
+               <ref name="tei_model.ptrLike"/>
+            </oneOrMore>
+         </group>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                  id="probstuecke-tei-listRef-TagDocsNestinglistRef-constraint-rule-34">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      xmlns:xi="http://www.w3.org/2001/XInclude"
+                      context="( tei:classSpec | tei:dataSpec | tei:elementSpec | tei:macroSpec | tei:moduleSpec | tei:schemaSpec | tei:specGrp )/tei:listRef">
+               <sch:report test="tei:listRef">In the context of tagset documentation, the &lt;listRef&gt; element must not self-nest.</sch:report>
+            </sch:rule>
+         </pattern>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                  id="probstuecke-tei-listRef-TagDocslistRefChildren-constraint-rule-35">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      xmlns:xi="http://www.w3.org/2001/XInclude"
+                      context="( tei:classSpec | tei:dataSpec | tei:elementSpec | tei:macroSpec | tei:moduleSpec | tei:schemaSpec | tei:specGrp )/tei:listRef/tei:ptr | ( tei:classSpec | tei:dataSpec | tei:elementSpec | tei:macroSpec | tei:moduleSpec | tei:schemaSpec | tei:specGrp )/tei:listRef/tei:ref">
+               <sch:assert test="@target and not( matches( @target,'\s') )">In the context of tagset documentation, each &lt;ptr&gt; or &lt;ref&gt; element inside a &lt;listRef&gt; must have a @target attribute with only 1 pointer as its value.</sch:assert>
+            </sch:rule>
+         </pattern>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
          <empty/>
       </element>
    </define>

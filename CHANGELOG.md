@@ -18,6 +18,10 @@ First versioned release.
 - `encodings/about/about_en.xml`: description of the edition, its sources, selection, editorial approach, credits and licences
 - Publisher and CC BY 4.0 licence statements in the index files
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
+- `encodings/register/register_1731.xml`: transcription of Mattheson's Register of the 1731 print (pp. 465–482, 527 entries), its entries linked to the indices
+- `encodings/indices/terms.xml`: index of terms based on the Register: 151 terms with Mattheson's headword, a modern German form and an English gloss, and 323 references to the Ober-Classe (289 from the Register, 34 added by the editors); the words are tagged with `<term corresp="#t_…">` in the 1731 commentary (Probstücke 8, 10–14, 16, 17 and 22 follow once their transcriptions are revised)
+- `scripts/tag_terms.py` to tag the passages of the index of terms; it only adds what is missing and can be run again after transcriptions change
+- `term` in the customisation of the DTA Base Format, `TEI/@type="terms"` and `listRef` in `probstuecke-tei.odd`; `check_references.py` also checks the pointers of `<term>`, of the Register and of the index of terms
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 
 ### Changed
