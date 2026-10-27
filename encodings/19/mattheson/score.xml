@@ -1322,7 +1322,9 @@
                   </beam>
                   <beam>
                     <note xml:id="note-0000001157036669" dur="8" oct="3" pname="d">
-                      <accid accid="s" />
+                      <orig>
+                        <accid accid="s" />
+                      </orig>
                     </note>
                     <note xml:id="note-0000001005872500" dur="8" oct="3" pname="g" accid.ges="s" />
                   </beam>
@@ -1884,7 +1886,13 @@
                     <note xml:id="note-0000001219539525" dur="8" oct="4" pname="g" accid.ges="s" />
                   </beam>
                   <beam>
-                    <note xml:id="note-0000000184017457" dur="8" oct="4" pname="a" />
+                    <note xml:id="note-0000000184017457" dur="8" oct="4" pname="a">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution" />
+                        </reg>
+                      </supplied>
+                    </note>
                     <note xml:id="note-0000000932829445" dur="8" oct="4" pname="g" accid.ges="s" />
                   </beam>
                 </layer>

@@ -6,7 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title></title>
-                <respStmt />
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
+                </respStmt>
             </titleStmt>
             <pubStmt>
               <respStmt>
@@ -41,6 +44,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="1s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure n="3" metcon="false">
                             <staff n="1">
                                 <layer n="1">
@@ -51,7 +62,9 @@
                                     <note dur="4" oct="5" pname="g" stem.dir="up" />
                                     <note dur="8" oct="5" pname="g" stem.dir="up" />
                                     <note dur="8" oct="5" pname="f" stem.dir="up">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                                 <layer n="2">
@@ -66,7 +79,9 @@
                                         <chord dur="8" stem.dir="down">
                                             <note oct="5" pname="d" />
                                             <note oct="5" pname="f">
-                                                <accid accid="s" accid.ges="s" />
+                                                <orig>
+                                                    <accid accid="s" accid.ges="s" />
+                                                </orig>
                                             </note>
                                         </chord>
                                         <chord dur="8" stem.dir="down">

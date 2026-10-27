@@ -715,7 +715,7 @@
                   <rest xml:id="rest-0000000892702269" dur="16" />
                   <beam>
                     <note xml:id="note-0000001464250098" dur="16" oct="4" pname="c" accid.ges="f" />
-                    <note xml:id="note-0000000206322233" dur="16" oct="4" pname="d">
+                    <note xml:id="note-0000000206322233" dur="16" oct="4" pname="d" accid.ges="f">
                       <supplied resp="#pfeffer">
                         <reg>
                           <accid accid="f" func="caution" />
@@ -819,7 +819,7 @@
                   <note xml:id="note-0000001237163418" dur="4" oct="4" pname="d" accid.ges="f">
                     <supplied resp="#pfeffer">
                       <reg>
-                        <accid accid="f" />
+                        <accid accid="f" func="caution" />
                       </reg>
                     </supplied>
                   </note>

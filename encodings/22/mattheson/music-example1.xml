@@ -50,6 +50,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="6s" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -103,7 +104,9 @@
                                     <rest xml:id="ex-0045779399" dur="8" />
                                     <note xml:id="ex-1284091865" dur="8" oct="3" pname="b" />
                                     <note xml:id="ex-0215422922" dur="4" oct="3" pname="e">
-                                        <accid accid="s" />
+                                        <orig>
+                                            <accid accid="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="ex-1613241718" dur="4" oct="3" pname="c" accid.ges="s" />
                                 </layer>
@@ -156,7 +159,9 @@
                                     <rest xml:id="ex-1228642729" dur="8" />
                                     <note xml:id="ex-0033123796" dur="8" oct="3" pname="b" />
                                     <note xml:id="ex-1262714702" dur="4" oct="3" pname="e">
-                                        <accid accid="s" />
+                                        <orig>
+                                            <accid accid="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="ex-1551864354" dur="4" oct="3" pname="c" accid.ges="s" />
                                 </layer>
@@ -271,7 +276,9 @@
                                     <beam>
                                         <note xml:id="ex-1318335263" dur="8" oct="3" pname="g" accid.ges="s" />
                                         <note xml:id="ex-2026936070" dur="8" oct="3" pname="e">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1490132215" dur="8" oct="3" pname="f" accid.ges="s" />
                                         <note xml:id="ex-1358431351" dur="8" oct="2" pname="f" accid.ges="s" />

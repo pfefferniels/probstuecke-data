@@ -78,6 +78,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="4s" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -129,7 +130,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000001180182945" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000575697650" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000000005700266" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -238,7 +241,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000001953290693" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001742051525" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000001278117971" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -371,7 +376,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000000585217839" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000604945921" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000001783249251" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -460,7 +467,9 @@
                                         </verse>
                                     </note>
                                     <note xml:id="note-0000001846882140" dur="8" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                         <verse xml:id="verse-0000000007691382" n="1">
                                             <syl wordpos="t">lo</syl>
                                         </verse>
@@ -470,7 +479,9 @@
                             <staff xml:id="staff-0000001179900661" n="2">
                                 <layer>
                                     <note xml:id="note-0000002109775846" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="note-0000000348219236" dur="8" oct="2" pname="b" />
                                 </layer>
@@ -482,9 +493,11 @@
                             <staff xml:id="staff-0000001586901545" n="1">
                                 <layer>
                                     <note xml:id="note-0000000273072535" dur="8" oct="4" pname="d" accid.ges="s">
-                                        <reg confidence="1" resp="#rettinghaus">
-                                            <accid enclose="brack" accid="s" />
-                                        </reg>
+                                        <supplied resp="#rettinghaus">
+                                            <reg confidence="1">
+                                                <accid enclose="brack" accid="s" func="caution" />
+                                            </reg>
+                                        </supplied>
                                     </note>
                                     <beam>
                                         <note xml:id="note-0000000193572469" dur="8" oct="4" pname="b">
@@ -543,7 +556,9 @@
                                             </verse>
                                         </note>
                                         <note xml:id="note-0000001696719886" dots="1" dur="8" oct="4" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001160311796" dur="32" oct="4" pname="e" />
                                         <note xml:id="note-0000000555145212" dur="32" oct="4" pname="f" accid.ges="s" />
@@ -554,7 +569,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000000173807874" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000006132381" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000000607816223" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -608,7 +625,9 @@
                                         <note xml:id="note-0000000543880196" dur="8" oct="4" pname="b" />
                                         <note xml:id="note-0000000110641855" dur="8" oct="5" pname="c" accid.ges="s" />
                                         <note xml:id="note-0000001087479438" dur="8" oct="5" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                 </layer>
@@ -641,7 +660,9 @@
                                 <layer>
                                     <note xml:id="note-0000001569902754" dur="4" oct="3" pname="e" />
                                     <note xml:id="note-0000001943317611" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -756,6 +777,11 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000000835862153" dur="8" oct="4" pname="d">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
                                             <verse xml:id="verse-0000001726887795" n="1">
                                                 <syl wordpos="t">
                                                     <choice>
@@ -785,6 +811,11 @@
                             <staff xml:id="staff-0000000467206295" n="1">
                                 <layer>
                                     <note xml:id="note-0000001902952142" dur="8" oct="4" pname="d">
+                                        <supplied resp="#pfeffer">
+                                            <reg>
+                                                <accid accid="n" />
+                                            </reg>
+                                        </supplied>
                                         <verse xml:id="verse-0000000182556279" n="1">
                                             <syl con="d" wordpos="m">scon</syl>
                                         </verse>
@@ -898,7 +929,9 @@
                                         </verse>
                                     </note>
                                     <note xml:id="note-0000001232001179" dur="4" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                         <verse xml:id="verse-0000000531617245" n="1">
                                             <syl wordpos="t">co</syl>
                                         </verse>
@@ -930,7 +963,9 @@
                             <staff xml:id="staff-0000000333208359" n="2">
                                 <layer>
                                     <note xml:id="note-0000000938916267" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="note-0000000301174358" dur="8" oct="2" pname="b" />
                                 </layer>
@@ -958,7 +993,9 @@
                                 <layer>
                                     <note xml:id="note-0000001523667070" dur="4" oct="3" pname="e" />
                                     <note xml:id="note-0000001473079153" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -984,7 +1021,9 @@
                                 <layer>
                                     <note xml:id="note-0000001816212617" dur="4" oct="3" pname="c" accid.ges="s" />
                                     <note xml:id="note-0000000392749226" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -1011,7 +1050,9 @@
                                 <layer>
                                     <note xml:id="note-0000001755276341" dur="4" oct="3" pname="e" />
                                     <note xml:id="note-0000001375765833" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -1037,7 +1078,9 @@
                                 <layer>
                                     <note xml:id="note-0000001430553108" dur="4" oct="3" pname="c" accid.ges="s" />
                                     <note xml:id="note-0000000556757254" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -1078,7 +1121,9 @@
                                         </verse>
                                     </note>
                                     <note xml:id="note-0000000939606410" dur="8" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                         <verse xml:id="verse-0000001352681566" n="1">
                                             <syl wordpos="t">lo</syl>
                                         </verse>
@@ -1155,7 +1200,9 @@
                             <staff xml:id="staff-0000000654598416" n="2" visible="true">
                                 <layer>
                                     <note xml:id="note-0000001014987676" dur="4" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="note-0000000626276110" dur="8" oct="4" pname="c" accid.ges="s" />
                                 </layer>
@@ -1170,7 +1217,9 @@
                                         <note xml:id="note-0000001555271594" dur="16" oct="4" pname="e" />
                                         <note xml:id="note-0000000964041228" dur="16" oct="4" pname="c" accid.ges="s" />
                                         <note xml:id="note-0000000289838260" dur="8" oct="4" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000930927696" dur="8" oct="4" pname="e" />
                                     </beam>
@@ -1189,7 +1238,9 @@
                                     <beam>
                                         <note xml:id="note-0000001520070728" dur="16" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="note-0000001499914770" dur="16" oct="4" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000421637967" dur="16" oct="4" pname="e" />
                                         <note xml:id="note-0000001423350835" dur="16" oct="4" pname="f" accid.ges="s" />
@@ -1203,7 +1254,9 @@
                             <staff xml:id="staff-0000000403573767" n="2">
                                 <layer>
                                     <note xml:id="note-0000000953459089" dur="8" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="note-0000001807585212" dur="4" oct="4" pname="c" accid.ges="s" />
                                 </layer>
@@ -1235,7 +1288,9 @@
                                         <note xml:id="note-0000000667112854" dots="1" dur="8" oct="3" pname="b" />
                                         <note xml:id="note-0000001333945178" dur="16" oct="4" pname="c" accid.ges="s" />
                                         <note xml:id="note-0000000465713095" dur="16" oct="4" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000002144690061" dur="16" oct="4" pname="e" />
                                     </beam>
@@ -1397,7 +1452,9 @@
                             <staff xml:id="staff-0000000090594024" n="2">
                                 <layer>
                                     <note xml:id="note-0000000194088722" dur="4" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <rest xml:id="rest-0000001598347536" dur="8" />
                                 </layer>
@@ -1490,7 +1547,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000001148174995" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000012497424" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000000464521844" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -1624,7 +1683,13 @@
                             </staff>
                             <staff xml:id="staff-0000000469055702" n="2">
                                 <layer>
-                                    <note xml:id="note-0000001524479805" dots="1" dur="4" oct="3" pname="d" />
+                                    <note xml:id="note-0000001524479805" dots="1" dur="4" oct="3" pname="d">
+                                        <supplied resp="#pfeffer">
+                                            <reg>
+                                                <accid accid="n" />
+                                            </reg>
+                                        </supplied>
+                                    </note>
                                 </layer>
                             </staff>
                         </measure>
@@ -1696,7 +1761,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000001789668234" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001101991897" dur="8" oct="2" pname="b" />
                                         <note xml:id="note-0000000636696175" dur="8" oct="3" pname="d" accid.ges="s" />
@@ -1745,7 +1812,9 @@
                             <staff xml:id="staff-0000001342901150" n="2">
                                 <layer>
                                     <note xml:id="note-0000001599682704" dots="1" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -1841,7 +1910,9 @@
                                     <beam>
                                         <note xml:id="note-0000000070571044" dur="8" oct="3" pname="e" />
                                         <note xml:id="note-0000000885725635" dur="8" oct="3" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001673593648" dur="8" oct="3" pname="c" accid.ges="s" />
                                     </beam>
@@ -1871,7 +1942,9 @@
                             <staff xml:id="staff-0000001316887348" n="2">
                                 <layer>
                                     <note xml:id="note-0000000169676868" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="note-0000001197295564" dur="8" oct="3" pname="e" />
                                 </layer>
@@ -1946,7 +2019,9 @@
                                 <layer>
                                     <note xml:id="note-0000000304443447" dur="8" oct="3" pname="c" accid.ges="s" />
                                     <note xml:id="note-0000001948245330" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>
@@ -1978,7 +2053,9 @@
                                         </verse>
                                     </note>
                                     <note xml:id="note-0000000948986914" dur="8" oct="4" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                         <verse xml:id="verse-0000000180334588" n="1">
                                             <syl>hò</syl>
                                         </verse>
@@ -2024,7 +2101,9 @@
                             <staff xml:id="staff-0000001909272058" n="2" visible="true">
                                 <layer>
                                     <note xml:id="note-0000001987986809" dur="4" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                     <rest xml:id="rest-0000000170271643" dur="8" />
                                 </layer>
@@ -2079,7 +2158,9 @@
                                 <layer>
                                     <beam>
                                         <note xml:id="note-0000000404774265" dur="8" oct="4" pname="d">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                             <verse xml:id="verse-0000000418434809" n="1">
                                                 <syl con="d" wordpos="i">fie</syl>
                                             </verse>
@@ -2093,10 +2174,12 @@
                             </staff>
                             <staff xml:id="staff-0000001579252876" n="2">
                                 <layer>
-                                    <note xml:id="note-0000001045565359" dur="4" oct="3" pname="f" accid.ges="ff">
-                                        <reg resp="#rettinghaus">
-                                            <accid enclose="brack" accid="x" />
-                                        </reg>
+                                    <note xml:id="note-0000001045565359" dur="4" oct="3" pname="f" accid.ges="ss">
+                                        <supplied resp="#rettinghaus">
+                                            <reg>
+                                                <accid enclose="brack" accid="x" />
+                                            </reg>
+                                        </supplied>
                                     </note>
                                     <rest xml:id="rest-0000001003455284" dur="8" />
                                 </layer>
@@ -2125,7 +2208,9 @@
                                 <layer>
                                     <note xml:id="note-0000000788381338" dur="4" oct="3" pname="g" accid.ges="s" />
                                     <note xml:id="note-0000000676362427" dur="8" oct="3" pname="d">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                             </staff>

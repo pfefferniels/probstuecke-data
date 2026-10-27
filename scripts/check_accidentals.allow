@@ -1,0 +1,19 @@
+# Allowlist for scripts/check_accidentals.py
+#
+# One entry per line: "<path>: <xml:id of the note>". An entry covers every
+# report on that note. Only notes whose accidentals are knowingly left as they
+# are belong here, each explained by the comment above it. The checker reports
+# entries that no longer match a report, so remove an entry once it is fixed.
+
+# --- No. 24, music example 1 (§ 17) -----------------------------------------
+# The example demonstrates the old use of a flat to cancel a sharp, so the
+# flats (sounding a natural) are kept in the modernised view, too.
+encodings/24/mattheson/music-example1.xml: ex-n23u287
+encodings/24/mattheson/music-example1.xml: ex-ngc9bwg
+encodings/24/mattheson/music-example1.xml: ex-n9z96h3
+
+# --- No. 4, realisation by J.-C. Dijoux -----------------------------------------
+# A modern edition encoded in MEI Basic, which has no editorial markup: the
+# cautionary accidentals the rules suggest cannot be supplied, and the file
+# has no modernised view.
+encodings/4/jcd/score.xml: *

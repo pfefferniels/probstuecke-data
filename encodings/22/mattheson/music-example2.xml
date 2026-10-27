@@ -49,6 +49,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="6s" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -82,7 +83,9 @@
                                         <note xml:id="ex-0698485021" dur="8" oct="4" pname="a" accid.ges="s" />
                                         <note xml:id="ex-1983440858" dur="16" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="ex-2041153767" dur="16" oct="4" pname="e">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <beam>
@@ -130,7 +133,9 @@
                                     <rest dur="8" />
                                     <note xml:id="ex-2097759491" dur="8" oct="3" pname="f" accid.ges="s" />
                                     <note xml:id="ex-2099986789" dur="4" oct="3" pname="e">
-                                        <accid accid="s" />
+                                        <orig>
+                                            <accid accid="s" />
+                                        </orig>
                                     </note>
                                     <note xml:id="ex-1934289221" dur="4" oct="3" pname="d" accid.ges="s" />
                                 </layer>
@@ -152,7 +157,9 @@
                                     <beam>
                                         <note xml:id="ex-0884707644" dur="8" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="ex-0375388257" dur="8" oct="4" pname="e">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <beam>
@@ -200,7 +207,9 @@
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0143385302" dur="4" oct="4" pname="e">
-                                        <accid accid="s" />
+                                        <orig>
+                                            <accid accid="s" />
+                                        </orig>
                                     </note>
                                     <rest dur="4" />
                                     <space dur="2" />

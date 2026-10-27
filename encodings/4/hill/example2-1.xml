@@ -6,7 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title></title>
-                <respStmt />
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
+                </respStmt>
             </titleStmt>
             <pubStmt>
               <respStmt>
@@ -44,6 +47,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="1s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">
@@ -56,7 +67,13 @@
                                     <rest dur="8" />
                                     <chord dur="8">
                                         <note oct="4" pname="b" />
-                                        <note oct="5" pname="f" />
+                                        <note oct="5" pname="f">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note oct="5" pname="b" />
                                     </chord>
                                     <rest dur="8" />
@@ -91,7 +108,13 @@
                                         <note oct="4" pname="d">
                                             <accid accid="s" accid.ges="s" />
                                         </note>
-                                        <note oct="4" pname="f" />
+                                        <note oct="4" pname="f">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                     </chord>
                                     <rest dur="8" />
                                     <rest dur="8" />
@@ -119,11 +142,23 @@
                                         <note oct="5" pname="e" />
                                     </chord>
                                     <beam>
-                                        <note dur="8" oct="5" pname="f" />
+                                        <note dur="8" oct="5" pname="f">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note dur="8" oct="5" pname="e" />
                                     </beam>
                                     <chord dots="1" dur="2">
-                                        <note oct="4" pname="f" />
+                                        <note oct="4" pname="f">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note oct="4" pname="b" />
                                         <note oct="5" pname="d">
                                             <accid accid="s" accid.ges="s" />
@@ -167,7 +202,9 @@
                                         <note dur="16" oct="3" pname="e" />
                                         <note dur="16" oct="3" pname="e" />
                                         <note dur="16" oct="3" pname="f">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note dur="32" oct="3" pname="g" />
                                         <note dur="32" oct="3" pname="b" />

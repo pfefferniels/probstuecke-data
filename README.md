@@ -35,6 +35,8 @@ JING_JAR=/path/to/jing.jar scripts/validate.sh
 
 The script exits with a non-zero status if a file is invalid or has no schema. [`schema/README.md`](schema/README.md) explains which schema applies to which files and how to regenerate the schemas after changing an ODD.
 
+`python3 scripts/check_references.py` checks the internal pointers and `python3 scripts/check_accidentals.py` the written accidentals of all MEI files (printed ones that modern notation does not need in `<orig>`, missing ones in `<supplied>`, cautionary ones with `@func="caution"`, modern key signatures as `<choice>`); the conventions are described in the scripts' docstrings. Both run in the GitHub Actions workflow, too.
+
 ## Index of terms
 
 `encodings/indices/terms.xml` modernises Mattheson's Register (transcribed in `encodings/register/register_1731.xml`) for the Ober-Classe: one entry per term with Mattheson's headword, a modern German form, an English gloss and the passages, each with Mattheson's page and a short quotation in which `<term>` marks the word. `scripts/tag_terms.py` tags these words in the transcriptions (`<term corresp="#t_…">`) and completes the pointers in `terms.xml`. It only adds what is missing, so after a transcription has been added or replaced, run

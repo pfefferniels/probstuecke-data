@@ -1050,7 +1050,7 @@
                     <note xml:id="m-404" dur="32" oct="3" pname="f">
                       <accid accid="s" />
                     </note>
-                    <note xml:id="m-406" dur="32" oct="3" pname="g">
+                    <note xml:id="m-406" dur="32" oct="3" pname="g" accid.ges="s">
                       <supplied resp="#pfeffer">
                         <accid accid="s" />
                       </supplied>
@@ -1109,7 +1109,13 @@
                         </reg>
                       </supplied>
                     </note>
-                    <note xml:id="m-429" dur="32" oct="4" pname="g" />
+                    <note xml:id="m-429" dur="32" oct="4" pname="g">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="n" func="caution" />
+                        </reg>
+                      </supplied>
+                    </note>
                   </beam>
                   <beam>
                     <note xml:id="m-430" dur="16" oct="4" pname="a" />
@@ -1287,13 +1293,7 @@
                   </beam>
                   <beam>
                     <note xml:id="m-491" dur="8" oct="3" pname="g" />
-                    <note xml:id="m-493" dur="8" oct="3" pname="d" accid.ges="s">
-                      <supplied resp="#pfeffer">
-                        <reg>
-                          <accid accid="s" />
-                        </reg>
-                      </supplied>
-                    </note>
+                    <note xml:id="m-493" dur="8" oct="3" pname="d" accid.ges="s" />
                   </beam>
                   <beam>
                     <note xml:id="m-495" dur="8" oct="3" pname="e" />
@@ -1372,7 +1372,7 @@
               <staff xml:id="m-512" n="2" facs="#facsZone-m-512">
                 <layer n="1">
                   <note xml:id="m-514" dur="4" oct="3" pname="g" />
-                  <note xml:id="m-515" dur="4" oct="3" pname="f">
+                  <note xml:id="m-515" dur="4" oct="3" pname="f" accid.ges="s">
                     <supplied resp="#pfeffer">
                       <accid accid="s" />
                     </supplied>

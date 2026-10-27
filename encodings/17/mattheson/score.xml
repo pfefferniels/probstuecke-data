@@ -1443,7 +1443,13 @@
               <staff xml:id="staff-0000001820054871" n="2" facs="#facsZone-staff-0000001820054871">
                 <layer xml:id="layer-0000000128116540" n="1">
                   <beam xml:id="beam-0000002009847189">
-                    <note xml:id="note-0000001961776003" dur="16" oct="3" pname="g" accid.ges="s" />
+                    <note xml:id="note-0000001961776003" dur="16" oct="3" pname="g" accid.ges="s">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="s" func="caution" />
+                        </reg>
+                      </supplied>
+                    </note>
                     <note xml:id="note-0000001615168618" dur="16" oct="4" pname="f" accid.ges="s" />
                     <note xml:id="note-0000001405731785" dur="16" oct="4" pname="e" />
                     <note xml:id="note-0000000624339754" dur="16" oct="4" pname="d" />
@@ -1530,7 +1536,7 @@
                   <note xml:id="note-0000000770169610" dur="4" oct="4" pname="c" accid.ges="s" />
                   <beam xml:id="beam-0000001690101135">
                     <note xml:id="note-0000001063459241" dur="32" oct="4" pname="c" accid.ges="s" />
-                    <note xml:id="note-0000000463324168" dur="32" oct="4" pname="c" />
+                    <note xml:id="note-0000000463324168" dur="32" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000000816801746" dur="32" oct="3" pname="b" />
                     <note xml:id="note-0000001314587640" dur="32" oct="4" pname="c" accid.ges="s" />
                   </beam>

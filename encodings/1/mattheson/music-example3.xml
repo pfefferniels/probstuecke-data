@@ -46,6 +46,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="1f" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -106,7 +107,9 @@
                                         <note xml:id="ex-1164" dur="16" oct="4" pname="d" />
                                         <note xml:id="ex-1166" dur="16" oct="4" pname="c" />
                                         <note xml:id="ex-1168" dur="16" oct="3" pname="b">
-                                            <accid xml:id="ex-1169" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1169" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1170" dur="32" oct="3" pname="a" />
                                         <note xml:id="ex-1171" dur="32" oct="3" pname="g" />

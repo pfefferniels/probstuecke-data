@@ -799,7 +799,7 @@
                     <note xml:id="note-0000000242744290" dur="8" oct="3" pname="a">
                       <supplied resp="#pfeffer">
                         <reg>
-                          <accid accid="n" />
+                          <accid accid="n" func="caution" />
                         </reg>
                       </supplied>
                     </note>
@@ -977,7 +977,7 @@
                     <note xml:id="note-0000000384938413" dur="8" oct="3" pname="d">
                       <supplied resp="#pfeffer">
                         <reg>
-                          <accid accid="n" />
+                          <accid accid="n" func="caution" />
                         </reg>
                       </supplied>
                     </note>

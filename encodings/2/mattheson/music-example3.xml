@@ -48,6 +48,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="2f" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -79,7 +80,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-1150" dur="32" oct="5" pname="e">
-                                            <accid xml:id="ex-1151" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1151" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1153" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1154" dur="32" oct="5" pname="c" />
@@ -142,7 +145,9 @@
                                     <beam>
                                         <note xml:id="ex-1123" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-1125" dur="32" oct="5" pname="e">
-                                            <accid xml:id="ex-1126" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1126" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1127" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-1128" dur="32" oct="5" pname="e" accid.ges="f" />

@@ -46,6 +46,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="1f" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -102,7 +103,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-539" dur="8" oct="2" pname="b">
-                                            <accid xml:id="ex-540" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-540" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-541" dur="8" oct="2" pname="a" />
                                     </beam>
@@ -186,13 +189,7 @@
                                         <note xml:id="ex-584" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-585" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-586" dur="32" oct="5" pname="c" />
-                                        <note xml:id="ex-587" dur="32" oct="4" pname="b" accid.ges="f">
-                                            <supplied resp="#pfeffer">
-                                                <reg>
-                                                    <accid accid="f" />
-                                                </reg>
-                                            </supplied>
-                                        </note>
+                                        <note xml:id="ex-587" dur="32" oct="4" pname="b" accid.ges="f" />
                                         <note xml:id="ex-589" dur="32" oct="4" pname="a" />
                                     </beam>
                                 </layer>
@@ -250,13 +247,7 @@
                                         </note>
                                         <note xml:id="ex-611" dur="32" oct="4" pname="e" />
                                         <note xml:id="ex-612" dur="32" oct="4" pname="g" accid.ges="s" />
-                                        <note xml:id="ex-614" dur="32" oct="4" pname="b" accid.ges="f">
-                                            <supplied resp="#pfeffer">
-                                                <reg>
-                                                    <accid accid="f" />
-                                                </reg>
-                                            </supplied>
-                                        </note>
+                                        <note xml:id="ex-614" dur="32" oct="4" pname="b" accid.ges="f" />
                                         <note xml:id="ex-616" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-617" dur="32" oct="4" pname="e" />
                                         <note xml:id="ex-618" dur="32" oct="4" pname="g">
@@ -294,7 +285,13 @@
                                                 </reg>
                                             </supplied>
                                         </note>
-                                        <note xml:id="ex-641" dur="8" oct="2" pname="b" />
+                                        <note xml:id="ex-641" dur="8" oct="2" pname="b">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                     </beam>
                                     <custos oct="2" pname="a" />
                                 </layer>

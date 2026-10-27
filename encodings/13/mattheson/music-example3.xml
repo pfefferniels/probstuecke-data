@@ -55,6 +55,7 @@
                             <orig />
                             <reg resp="#pfeffer">
                                 <scoreDef>
+                                    <keySig sig="2f" />
                                     <staffGrp>
                                         <staffDef n="1">
                                             <clef line="2" shape="G" />
@@ -69,7 +70,9 @@
                                     <beam place="below">
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="e">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>

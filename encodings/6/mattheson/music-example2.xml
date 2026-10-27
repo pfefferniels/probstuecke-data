@@ -72,7 +72,7 @@
                         <measure corresp="#m-1013" label="33">
                             <staff n="1">
                                 <layer>
-                                    <note dur="4" oct="2" pname="b" />
+                                    <note dur="4" oct="2" pname="b" accid.ges="f" />
                                     <note dur="2" oct="2" pname="g" />
                                 </layer>
                             </staff>
@@ -154,7 +154,7 @@
                         <measure corresp="#m-1177" label="38">
                             <staff n="1">
                                 <layer>
-                                    <note dur="2" oct="3" pname="b" />
+                                    <note dur="2" oct="3" pname="b" accid.ges="f" />
                                     <note dur="4" oct="3" pname="e" />
                                 </layer>
                             </staff>

@@ -878,10 +878,14 @@
                 <layer n="1">
                   <note xml:id="m-830" dur="4" oct="3" pname="f" />
                   <note xml:id="m-831" dur="4" oct="3" pname="g">
-                    <accid accid="n" />
+                    <orig>
+                      <accid accid="n" />
+                    </orig>
                   </note>
                   <note xml:id="m-833" dur="4" oct="2" pname="g">
-                    <accid accid="n" />
+                    <orig>
+                      <accid accid="n" />
+                    </orig>
                   </note>
                 </layer>
               </staff>

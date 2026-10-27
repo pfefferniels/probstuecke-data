@@ -20,13 +20,19 @@ follows modern accidental rules. Both come from one encoding:
     <reg resp="#pfeffer"><accid           replaces, e.g. the old flat that
     accid="n"/></reg></choice>            cancels a sharp
 
-The sounding pitch is @accid.ges (on the note or its accid) or else the
-written accidental. The script applies modern rules to it and reports every
-note whose encoded accidentals do not fit:
+The sounding pitch is @accid.ges (on the note or its accid), else the written
+accidental, else that of the last note of the same pitch and octave in the bar
+that has one of them, else the printed (not the modern) key signature. The
+script applies modern rules to it and reports every note whose encoded
+accidentals do not fit:
 
-  * the key signature is the one Verovio draws (keySig/@sig, @key.sig on
-    scoreDef or staffDef, keySig in a layer); @key.pname/@key.mode are ignored.
-    Old key signatures (e.g. "Dorian" ones) are kept, not modernised;
+  * the key signature is the one Verovio draws in the modernised view
+    (keySig/@sig, @key.sig or @keysig on scoreDef or staffDef, keySig in a
+    layer; a <choice> is read as ./reg): where the print has an old one
+    (e.g. a "Dorian" minor signature), the modern one is encoded as
+      <choice><orig/><reg resp="#pfeffer"><scoreDef><keySig sig="3f"/>
+      </scoreDef></reg></choice>
+    at the start of the section; @key.pname/@key.mode are ignored;
   * an accidental holds for the same pitch and octave until the barline, on the
     whole staff (all layers, in time order); a barline cancels it;
   * a note tied from the previous note needs no accidental; an alteration tied
@@ -39,7 +45,8 @@ note whose encoded accidentals do not fit:
         in the bar (on the first note of its pitch and octave after that);
       - if the same pitch was tied over the barline with another alteration.
     A printed accidental that repeats one of another layer of the same staff
-    is accepted as a courtesy, too.
+    is accepted as a courtesy, too, and so is a supplied cautionary one on a
+    note tied over the barline.
 
 Categories of reports:
 
@@ -62,14 +69,25 @@ script reports are encoding mistakes (e.g. a wrong @accid.ges). It does not
 check the pitch itself: a note without @accid.ges and without a written
 accidental is taken to sound as the modern rules read it.
 
-Usage:
-    python3 scripts/check_accidentals.py FILE...            # report
-    python3 scripts/check_accidentals.py --summary FILE...  # counts only
-    python3 scripts/check_accidentals.py --level error ...  # errors only
-    python3 scripts/check_accidentals.py $(find encodings -name '*example*.xml')
+Allowlist (default: scripts/check_accidentals.allow): one entry per line,
 
-Exit status: 1 if there is a report at or above --fail-level (default: error),
-0 otherwise.
+    encodings/<path>.xml: <xml:id of the note>
+    encodings/<path>.xml: *
+
+An entry covers every report on that note, or with * on every note of the
+file. Lines starting with '#' are
+comments; every entry should be explained by one. Entries that no longer match
+a report are reported as stale (when their file is checked).
+
+Usage:
+    python3 scripts/check_accidentals.py                    # all MEI files under encodings/
+    python3 scripts/check_accidentals.py FILE...            # some files
+    python3 scripts/check_accidentals.py --summary [FILE...] # counts only
+    python3 scripts/check_accidentals.py --level error ...  # errors only
+
+Exit status: 1 if there is a report at or above --fail-level (default:
+caution, i.e. any report), a stale allowlist entry or a malformed one; 0
+otherwise.
 """
 
 import argparse
@@ -93,6 +111,7 @@ TRANSPARENT = {'beam', 'graceGrp', 'bTrem', 'fTrem', 'ligature', 'lem', 'rdg', '
                'corr', 'sic', 'unclear', 'damage', 'restore', 'del', 'expan', 'abbr', 'subst'}
 EDITORIAL = {'reg', 'corr', 'add'}
 LEVELS = ('caution', 'warning', 'error')
+REPO = Path(__file__).resolve().parent.parent
 
 
 def localname(el):
@@ -270,30 +289,41 @@ def layer_events(el, t, scale, out, reading, chord=None):
 
 
 def walk_score(score, reading):
-    """Yield scoreDef and measure elements in reading order."""
-    def walk(el):
+    """Yield (element, view) for scoreDef and measure elements in reading order.
+
+    view is 'both', or 'modern' / 'diplomatic' for a scoreDef in a branch of a
+    <choice> that only that view renders (e.g. a modern key signature).
+    """
+    def walk(el, view):
         for ch in el:
             tag = localname(ch)
             if tag in ('scoreDef', 'measure'):
-                yield ch
+                if tag == 'scoreDef' or view != 'diplomatic':
+                    yield ch, view
             elif tag in ('section', 'ending', 'lem', 'rdg') or tag in TRANSPARENT:
-                yield from walk(ch)
+                yield from walk(ch, view)
             elif tag == 'app':
                 k = reading.app(ch)
                 if k is not None:
-                    yield from walk(k)
+                    yield from walk(k, view)
             elif tag == 'choice':
-                k = reading.choice(ch)
-                if k is not None:
-                    yield from walk(k)
-    yield from walk(score)
+                modern, diplomatic = pick(ch, 'reg'), pick(ch, 'orig')
+                if modern is diplomatic:
+                    if modern is not None:
+                        yield from walk(modern, view)
+                    continue
+                if modern is not None and view != 'diplomatic':
+                    yield from walk(modern, 'modern')
+                if diplomatic is not None and view != 'modern':
+                    yield from walk(diplomatic, 'diplomatic')
+    yield from walk(score, 'both')
 
 
 def sig_of(el):
     ks = el.find(MEI + 'keySig')
     if ks is not None and ks.get('sig') is not None:
         return ks.get('sig')
-    return el.get('key.sig')
+    return el.get('key.sig') or el.get('keysig')
 
 
 class Keys:
@@ -330,12 +360,16 @@ class Keys:
 def analyse_reading(tree, reading, tie_starts, tie_ends):
     results = []
     for score in tree.iter(MEI + 'score'):
-        keys = Keys()
+        keys = Keys()           # the key signature of the modernised view
+        printed_keys = Keys()   # the printed one, for the pitch of notes without @accid.ges
         prev_state = defaultdict(dict)    # staff -> {(p, o): alteration shown in the previous bar}
         tied_alter = defaultdict(dict)    # staff -> {(p, o): alteration of a note with a tie to the next}
-        for el in walk_score(score, reading):
+        for el, view in walk_score(score, reading):
             if localname(el) == 'scoreDef':
-                keys.update(el)
+                if view != 'diplomatic':
+                    keys.update(el)
+                if view != 'modern':
+                    printed_keys.update(el)
                 continue
             measure = el
             events = defaultdict(list)
@@ -352,13 +386,15 @@ def analyse_reading(tree, reading, tie_starts, tie_ends):
                 evs.sort(key=lambda x: (x[0], x[1]))
                 cur_layer = {}     # (p, o) -> layer of the note that showed the accidental
                 key = keys.of(n)
+                printed_key = printed_keys.of(n)
+                known = {}         # (p, o) -> last explicitly encoded alteration in this bar
                 last = prev_state[n]
                 cur = {}           # (p, o) -> alteration shown by an accidental in this bar
                 seen, seen_letter = set(), set()
                 tied_in = {}       # (p, o) -> alteration tied over the barline into this bar
                 for t, s, e, layer_n in evs:
                     if localname(e) == 'keySig':
-                        key = key_from_sig(e.get('sig'))
+                        key = printed_key = key_from_sig(e.get('sig'))
                         continue
                     note = Note(e, reading)
                     if not note.pname or not note.oct:
@@ -371,13 +407,21 @@ def analyse_reading(tree, reading, tie_starts, tie_ends):
                         alter = note.written_alter()
                     is_tie_end = e in tie_ends
                     if alter is None:
-                        alter = tied_alter[n].get(po, state) if is_tie_end else state
+                        # no @accid.ges and no sign: the pitch of the last note of this pitch
+                        # and octave in the bar with an explicit one, else the printed key
+                        alter = known.get(po, printed_key.get(p, 0))
+                        if is_tie_end:
+                            alter = tied_alter[n].get(po, alter)
+                    else:
+                        known[po] = alter
                     if e in tie_starts:
                         tied_alter[n][po] = alter
                     if is_tie_end:
+                        soft = set()
                         if po not in seen:
                             tied_in.setdefault(po, alter)
-                        results.append(Result(note, alter, None, [], True, measure, n, set()))
+                            soft.add('tied over the barline')     # a courtesy accidental is accepted
+                        results.append(Result(note, alter, None, [], True, measure, n, soft))
                         continue
                     reasons, soft = [], set()
                     if alter != state:
@@ -533,29 +577,90 @@ def describe(rep):
     return f'line {el.sourceline}: bar {label}, staff {r.staff}, {r.note.pname}{r.note.oct}{ident}: {rep.message}'
 
 
+def read_allowlist(path):
+    """Return ({(file, xml:id): line number}, [errors])."""
+    entries, errors = {}, []
+    if not path.is_file():
+        return entries, errors
+    for number, raw in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith('#'):
+            continue
+        file_part, sep, rest = line.partition(': ')
+        fields = rest.split()
+        if not sep or not fields or (len(fields) > 1 and not fields[1].startswith('#')):
+            errors.append(f'{path.name}:{number}: expected "<path>: <xml:id>", got {raw!r}')
+            continue
+        entries[(file_part.strip(), fields[0])] = number
+    return entries, errors
+
+
+def mei_files(root):
+    """All MEI documents under root."""
+    out = []
+    for path in sorted(root.rglob('*.xml')):
+        try:
+            for _, el in etree.iterparse(str(path), events=('start',), no_network=True, resolve_entities=False):
+                if el.tag == MEI + 'mei':
+                    out.append(path)
+                break
+        except etree.XMLSyntaxError:
+            continue
+    return out
+
+
+def relative(path):
+    try:
+        return Path(path).resolve().relative_to(REPO).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
-    ap.add_argument('files', nargs='+', type=Path)
+    ap.add_argument('files', nargs='*', type=Path, help='MEI files (default: all under encodings/)')
     ap.add_argument('--level', choices=LEVELS, default='caution', help='lowest level to report')
-    ap.add_argument('--fail-level', choices=LEVELS, default='error')
+    ap.add_argument('--fail-level', choices=LEVELS, default='caution')
     ap.add_argument('--summary', action='store_true', help='print counts per file and category only')
+    ap.add_argument('--allow', type=Path, default=REPO / 'scripts' / 'check_accidentals.allow',
+                    help='allowlist file (default: %(default)s)')
     args = ap.parse_args(argv)
+    files = args.files or mei_files(REPO / 'encodings')
+    allow, allow_errors = read_allowlist(args.allow)
     lowest = LEVELS.index(args.level)
-    failed = False
+    failed = bool(allow_errors)
     totals = Counter()
-    for path in args.files:
-        reports = [rep for rep in check(path) if LEVELS.index(rep.level) >= lowest]
+    used = set()
+    checked = set()
+    for path in files:
+        rel = relative(path)
+        checked.add(rel)
+        reports = []
+        for rep in check(path):
+            key = (rel, rep.result.note.el.get(XML_ID))
+            if (rel, '*') in allow:
+                used.add((rel, '*'))
+            elif key in allow:
+                used.add(key)
+            elif LEVELS.index(rep.level) >= lowest:
+                reports.append(rep)
         counts = Counter(rep.level for rep in reports)
         totals.update(counts)
         failed |= any(LEVELS.index(rep.level) >= LEVELS.index(args.fail_level) for rep in reports)
         if args.summary:
             if reports:
-                print(f'{path}: ' + ', '.join(f'{counts[lv]} {lv}' for lv in reversed(LEVELS) if counts[lv]))
+                print(f'{rel}: ' + ', '.join(f'{counts[lv]} {lv}' for lv in reversed(LEVELS) if counts[lv]))
             continue
         for rep in reports:
-            print(f'{path}: {rep.level}: {describe(rep)}')
-    print(', '.join(f'{totals[lv]} {lv}' for lv in reversed(LEVELS)) + f' in {len(args.files)} files',
-          file=sys.stderr)
+            print(f'{rel}: {rep.level}: {describe(rep)}')
+    for message in allow_errors:
+        print(message)
+    stale = sorted((number, key) for key, number in allow.items() if key[0] in checked and key not in used)
+    for number, (rel, ident) in stale:
+        print(f'{args.allow.name}:{number}: stale entry "{rel}: {ident}" matches no report; remove it')
+    failed |= bool(stale)
+    print(', '.join(f'{totals[lv]} {lv}' for lv in reversed(LEVELS)) + f' in {len(files)} MEI files, '
+          f'{len(used)} allowlist entries used, {len(stale)} stale.', file=sys.stderr)
     return 1 if failed else 0
 
 

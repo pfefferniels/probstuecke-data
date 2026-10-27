@@ -837,7 +837,7 @@
                     <note xml:id="m-517" dur="16" oct="4" pname="f" accid.ges="s">
                       <supplied resp="#pfeffer">
                         <reg>
-                          <accid accid="s" />
+                          <accid accid="s" func="caution" />
                         </reg>
                       </supplied>
                     </note>

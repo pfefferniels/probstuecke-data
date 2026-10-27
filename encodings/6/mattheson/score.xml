@@ -10,7 +10,7 @@
         </composer>
         <respStmt>
           <resp>Edited by</resp>
-          <persName role="editor">Niels Pfeffer</persName>
+          <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
           <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
         </respStmt>
       </titleStmt>
@@ -1023,7 +1023,9 @@
                     <note xml:id="m-671" dur="16" oct="4" pname="g" />
                     <note xml:id="m-672" dur="16" oct="4" pname="a" />
                     <note xml:id="m-673" dur="16" oct="4" pname="b">
-                      <accid accid="n" />
+                      <orig>
+                        <accid accid="n" />
+                      </orig>
                     </note>
                   </beam>
                   <beam>
@@ -1037,7 +1039,9 @@
                     <note xml:id="m-682" dur="16" oct="5" pname="d" />
                     <note xml:id="m-683" dur="16" oct="5" pname="c" />
                     <note xml:id="m-684" dur="16" oct="4" pname="b">
-                      <accid accid="n" />
+                      <orig>
+                        <accid accid="n" />
+                      </orig>
                     </note>
                   </beam>
                 </layer>
