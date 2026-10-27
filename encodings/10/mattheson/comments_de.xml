@@ -90,6 +90,9 @@
           <zone ulx="0" uly="1405" lry="1666" lrx="1848" xml:id="facsZone-p5-1"/>
           <zone ulx="0" uly="1633" lry="2300" lrx="1854" xml:id="facsZone-p6-1"/>
       </surface>
+      <surface ulx="0" uly="0" lrx="2029" lry="2522" xml:id="facs-p418" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418">
+          <graphic width="2029px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00418/full/full/0/default.jpg"/>
+      </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2519" xml:id="facs-p421" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421">
           <graphic width="1998px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00421/full/full/0/default.jpg"/>
           <zone ulx="20" uly="1220" lry="2365" lrx="1898" xml:id="facsZone-p7-1"/>
@@ -105,53 +108,59 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="354" facs="#facs-p416"/>
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
+      <lb/><head>Erlaͤuterung.</head>
       <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <ref target="#m-35 #m-57 #m-80 #m-105 #m-128"><hi rendition="#in">D</hi>Je erste Zeile dieses
-          Stuͤckes</ref> spielet man nur mit Octaven im Baß, und loͤset
-          <ref target="#fb-01-01 #fb-02-01 #fb-03-01 #fb-04-01">die Septime</ref> ein wenig zierlicher auf, als
-          gewoͤhnlich. Nach Verfliessung zweer Taͤcte, in der andern Zeile,
-          <ref target="#m-190">koͤmmt der Haupt-Satz wieder vor</ref>;
-          jedoch veraͤndert, wobey sonst nichts besonders zu bemercken. Jm
-          <ref target="#m-383">siebenzehnden Tact</ref> wolle man aber den daselbst anhebenden
-          Lauff wol in Acht nehmen, und sich denselben fest eindruͤcken, weil ihn die rechte Hand hernach gebrauchen wird.
+          <lb/><ref target="#m-35 #m-57 #m-80 #m-105 #m-128"><hi rendition="#in">D</hi>Je erſte Zeile dieſes <sic>Stickes</sic></ref> ſpielet man nur mit Octaven im Baß, und loͤſet <ref target="#fb-01-01 #fb-02-01 #fb-03-01 #fb-04-01">die
+          <lb/>Septime</ref> ein wenig zierlicher auf, als gewoͤhnlich. Nach Verflieſſung zweer
+          <lb/>Taͤcte, in der andern Zeile, <ref target="#m-190">koͤm̃t der Haupt-Satz wieder vor</ref>; jedoch veraͤndert,
+          <lb/>wobey ſonſt nichts beſonders zu bemercken. Jm <ref target="#m-383">ſiebenzehenden Tact</ref> wolle man aber
+          <lb/>den daſelbſt anhebenden Lauff wol in acht nehmen, und ſich denſelben feſt eindruͤcken,
+          <lb/>weil ihn die rechte Hand hernach gebrauchen wird.
         </p>
       </div>
 
       <div n="2">
-        <head>§. 2.</head>
+        <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          Bey dem <ref target="#m-478">ein und zwantzigsten Tact</ref> faͤllt der Haupt-Satz in die <hi rendition="#aq">Repercussion</hi>
-          der Quint, wobey abermahl, wann es nur fein rein gespielet wird, nichts buntes noͤthig ist. So dann hat man im
-          <ref target="#m-589">sechs und zwantzigstes Tact</ref> den oberwehnten Lauff in der rechten Hand, gleich mit dem Schlag
-          der Septime in die Quint anzubringen, und damit drey Tacte, bey vollen Griffen des Basses, fort zu fahren. Vom
-          <ref target="#m-662 #m-684 #m-710 #m-736">neun und zwantzigstes bis zum zwey und dreyßigsten Tact</ref> wird so
-          starck geschlagen, und zu jeder Note das gehoͤrige so vollstimmig angebracht, als nur immer moͤglich ist. Will man die
-          geschwinde Brechung mit beiden Haͤnden um einander hier gebrauchen, wird es nicht schaden koͤnnen.
+          <lb/>Bey dem <ref target="#m-478">ein und zwantzigſten Tact</ref> faͤllt der Haupt-Satz in die <hi rendition="#aq">Repercusſion</hi>
+          <lb/>der Quint, wobey abermahl, wann es nur fein rein geſpielet wird, nichts buntes noͤ-
+          <lb/>thig iſt. So dann hat man im <ref target="#m-589">ſechs und zwantzigſten Tact</ref> den oberwehnten Lauff
+          <lb/>in der rechten Hand, gleich mit dem Schlag der Septime in die Quint anzubringen,
+          <lb/>und damit drey Tacte, bey vollen Griffen des Baſſes, fort zu fahren. Vom <ref target="#m-662 #m-684 #m-710 #m-736">neun und
+          <lb/>zwantzigſten biß zwey und dreyßigſten Tact</ref> wird ſo ſtarck geſchlagen, und zu jeder
+          <lb/>Note das gehoͤrige ſo vollſtimmig angebracht, als nur immer moͤglich iſt. Will
+          <lb/>man die geſchwinde Brechung mit beiden Haͤnden um einander hier gebrauchen,
+          <lb/>wird es nicht ſchaden koͤnnen.
         </p>
       </div>
 
       <div n="3">
-        <head>§. 3.</head>
+        <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
-          Der <ref target="#m-758">drey und dreyßigste</ref> Tact hebt eine neue Erfindung an, und erfordert, daß die rechte der lincken
-          auf canonische Art, daß ist, Note vor Note, nachfolge, wenn diese erst drey Schritte vorausgenommen hat: und damit waͤhret
-          es bis zum <ref target="#m-890">sieben und dreyßigsten Tact</ref>, allwo die im <ref target="#m-297">dreizehnten Tact</ref> vorgewesene
-          Wendung, gleich als ein Zwischen-Spiel, durch die Quart wieder angebracht werden kann.
+          <lb/>Der <ref target="#m-758">drey und dreyßigſte</ref> Tact hebt eine neue Erfindung an, und erfordert,
+          <fw place="bottom" type="catch">daß</fw>
+          <pb n="355" facs="#facs-p417"/>
+          <lb/>daß die rechte der lincken auf canoniſche Art, daß iſt, Note vor Note, nachfolge,
+          <lb/>wenn dieſe erſt drey Schritte voraus genommen hat: und damit waͤhret es biß im <ref target="#m-890">ſie-
+          <lb/>ben und dreißigſten Tact</ref>, alwo die im <ref target="#m-297">dreizehenten Tact</ref> vorgeweſene Wendungen,
+          <lb/>gleich als ein Zwiſchen-Spiel, durch die Quart wieder angebracht werden.
         </p>
       </div>
 
       <div n="4">
-        <head>§. 4.</head>
+        <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          Nach Verfliessung vier Mensuren ergreifft der Bass abermahl den vorerwehnten Lauff in der Versetzung, welchen man sich
-          gleicher Gestalt wol zu mercken hat: weil er hernach nocheinmahl in der rechten Hand zu gebrauchen sein wird. Etwa im
-          <ref target="#m-1131">sechs und vierzigsten Tact</ref> ersieht man das erste Thema und zwar auf eine zweite Art veraͤndert,
-          wobey zu beobachten, daß die Septime und ihre Aufloͤsung auf dieselbe Weise veraͤndert und gebrochen werden koͤnnen, wie aus
-          beygesetztem mit mehrerm zu ersehen ist:
+          <lb/>Nach Verflieſſung vier Menſuren ergreifft der Baß abermahl den vorer-
+          <lb/>wehnten Lauff in der Verſetzung, welchen man ſich gleicher Geſtalt wol zu mercken
+          <lb/>hat: weil er hernach noch einmahl in der rechten Hand zu gebrauchen ſeyn wird.
+          <lb/>Etwa im <ref target="#m-1131">ſechs und viertzigſten Tact</ref> erſieht man das erſte Thema und zwar auf
+          <lb/>eine zweite Art veraͤndert, wobey zu beobachten, daß die Septime und ihre Auf-
+          <lb/>loͤſung auf dieſelbe Weiſe veraͤndert und gebrochen werden koͤnnen, wie aus beigeſetz-
+          <lb/>tem mit mehrerm zu erſehen iſt:
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
@@ -159,70 +168,74 @@
       </div>
 
       <div n="5">
-        <head>§. 5.</head>
+        <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          Nach diesem Satz kommt der offtgemeldete Lauff mit der rechten Hand gleich
-          zu dem <ref target="#m-1287">grossen C</ref> in der Quinte vor, und wird
-          damit biß in den vierten Tact fortgefahren;
-          jedoch, wie alle Zeit geschehen muss,
-          mit vollstimmigen Griffen im Baß.
+          <lb/>Nach dieſem Satz kommt der offtgemeldete Lauff mit der rechten Hand
+          <lb/>gleich zu dem <ref target="#m-1287">groſſen C</ref> in der Quinte vor, und wird damit biß in den vierten Tact
+          <lb/>fortgefahren; jedoch, wie allezeit geſchehen muß, mit vollſtimmigen Griffen im Baß.
         </p>
       </div>
 
       <div n="6">
-        <head>§. 6.</head>
+        <lb/><head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          Zum Beschluß folget was schon im <ref target="#m-662">neun und zwantzigsten</ref> biß <ref target="#m-736">zwey und dreyßigsten Tact</ref>
-          gewesen, und wird mit allen Kraͤfften, so vollstimmig als muͤglich, auch wol durch die Brechung mit beiden Haͤnden, gespielet.
-          Was dieser Brechung eigentlichen Gebrauch betrifft, angesehen dieselbe ein großes Geraͤusche mache, und die durchdringenste
-          Art zu spielen auf dem Clavier ist, so muß dieselbe nirgend anderst, als in vielstimmigen Sachen, wie da sind, starcke Concerten,
-          Ouverturen, Symphonien und Choͤre, angebracht werden, zumahl wo ein <hi rendition="#aq">forte</hi> und <hi rendition="#aq">tutti</hi>
-          stehet; denn sonst wuͤrde alles dadurch gar leicht uͤbertaͤubet und verdorben werden. Statt anzufuͤhrender Sachen aus fremden
-          Verfassern kan folgende Arie dienen.
+          <lb/>Zum Beſchluß folget was ſchon im <ref target="#m-662">neun und zwantzigſten</ref> biß <ref target="#m-736">zwey und dreiſ-
+          <lb/>ſigſten Tact</ref> geweſen, und wird mit allen Kraͤfften, ſo vollſtimmig als muͤglich, auch
+          <lb/>wol durch die Brechung mit beiden Haͤnden, geſpielet. Was dieſer Brechung eigent-
+          <lb/>lichen Gebrauch betrifft, angeſehen dieſelbe ein groſſes Geraͤuſche macht, und die
+          <lb/>durchdringenſte Art zu ſpielen auf dem Clavier iſt, ſo muß dieſelbe nirgend an-
+          <lb/>derſt, als in vielſtimmigen Sachen, wie da ſind, ſtarcke Concerten, Ouverturen,
+          <lb/>Symphonien, und Choͤre, angebracht werden, zumahl wo ein <hi rendition="#aq">forte</hi> und <hi rendition="#aq">tutti</hi> ſte-
+          <lb/>het; denn ſonſt wuͤrde alles dadurch gar leicht uͤbertaͤubet und verdorben werden.
+          <lb/>Statt anzufuͤhrender Sachen aus fremden Verfaſſern kan folgende Arie dienen.
         </p>
+        <fw place="bottom" type="catch"><hi rendition="#aq">Aria</hi></fw>
       </div>
 
       <div n="7">
         <!--
         <head>ARIA del <hi rendition="#i">Signore Marcello</hi>, Nobile Veneto.</head>
         -->
+        <pb n="356" facs="#facs-p418"/>
         <notatedMusic xml:id="aria-marcello">
           <ptr target="aria-marcello.xml"/>
         </notatedMusic>
+        <pb n="359" facs="#facs-p421"/>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
-          Jch lasse diese recht schoͤne Arie aus verschiedenen wichtigen Ursachen
-          hier einfliessen: (1) damit sich einer druͤber mache, und selbige
-          <hi rendition="#aq">solmisire</hi>; (2) weil ♭D, ♭G, ♭C und ♭F haͤuffig darinn
-          vorkommen; (3) weil der letzte Theil beides im <hi rendition="#aq">Dis mol</hi>
-          und <hi rendition="#aq">Gis mol</hi> theils moduliert, theils absetzet; (4) weil
-          es einen grossen Meister erfordert, diese Arie, ohne Bezieferung, richtig
-          zu accompagniren: massen dem
-          <ref target="#measure-1827916444">siebendem</ref>,
-          <ref target="#measure-1219466359">achten</ref>,
+          <lb/>Jch laſſe dieſe recht ſchoͤne Arie aus verſchiedenen wichtigen Urſachen hier ein-
+          <lb/>flieſſen: (1) damit ſich einer druͤber mache, und ſelbige ſolmiſire; (2) weil ♭D, ♭G,
+          <lb/>♭C und ♭F haͤuffig darinn vorkom̃en; (3) weil der letzte Theil beides im <hi rendition="#aq">Dis mol</hi> und
+          <lb/>im <hi rendition="#aq">Gis mol</hi> theils modulirt, theils abſetzet; (4) weil es einen groſſen Meiſter erfordert,
+          <lb/>dieſe Arie, ohne Bezieferung, richtig zu accompagniren: maſſen dem
+          <ref target="#measure-1827916444">ſiebenden</ref>,
+          <lb/><ref target="#measure-1219466359">achten</ref>,
           <ref target="#measure-1708734092">neunten</ref>
           und <ref target="#measure-0917306217">zehnten Tact</ref>
           keiner ihr Recht thun wird, der nicht aus dem
-          <ref target="#measure-0173914305">drey sechtzigsten</ref>
-          und folgenden ersehe, wie jene muͤssen behandelt werden; und (5) weil
-          <ref target="#staff-0093433268">auf der
-          vorhergehenden Seite, im andern Tact der zweiten Zeile, in der Sing-Stimme</ref>
-          und denn im zehnten und dreizehnten Tact des letzten Theils, das erstemahl
-          <ref target="#measure-2110501254"><hi rendition="#aq">pag. 358 tact. penult.</hi></ref> uͤber
+          <lb/><ref target="#measure-0173914305">drey und ſechtzigſten</ref>
+          und folgenden erſehe, wie jene muͤſſen behandelt werden; und
+          <lb/>(5) weil
+          <ref target="#staff-0093433268">auf der vorhergehenden Seite, im andern Tact der zweiten Zeile, in der
+          <lb/>Sing-Stimme</ref>, und denn im zehnten und dreizehnten Tact des letzten Theils, das
+          <lb/>erſtemahl
+          <ref target="#measure-2110501254"><hi rendition="#aq">pag. 358. tact. penult.</hi></ref> uͤber
           <ref target="#verse-0479962947">der Sylbe <hi rendition="#aq">ne</hi></ref>, das andermahl
-          <ref target="#measure-1850066416"><hi rendition="#aq">pag. 359 tact.</hi> 2.</ref>
-          uͤber <ref target="#verse-0656479847">der Sylbe <hi rendition="#aq">ven</hi></ref>
-          ein <hi rendition="#aq"><foreign xml:lang="lat">Intervallum</foreign></hi> vorkoͤmmt, das unter die sogenannte
-          gebraͤuchliche wol eben nicht zu zehlen ist, und dennoch weiset, wie sich
-          ein geschickter Meister dessen wol bedienen koͤnne. Es ist eine kleine None
-          in Ansehung der Grund-Stimme, und ich gestehe es gerne, die erste, die ich
-          damahls, in einer Melodie, auf solche Art, gefunden oder auch brauchbar
-          geglaubet habe. So ist auch der <ref target="#measure-1424025321">Schluß des ersten Absatzes</ref>
-          in die <ref target="#note-0527129810">Septime</ref> etwas merckwuͤrdiges, und nichts alltaͤgliches;
-          dass sie mich aber deswegen sonderlich entzuͤcken sollte,
-          zumahl, wann ich die Wiederholung betrachte,
-          kann ich eben nicht sagen: doch jeder hat seinen Geschmack.
+          <ref target="#measure-1850066416"><hi rendition="#aq">pag. 359.
+          <lb/>tact.</hi> 2.</ref>
+          uͤber <ref target="#verse-0656479847">der Sylbe <hi rendition="#aq">ven-</hi></ref>ein
+          <hi rendition="#aq"><foreign xml:lang="lat">Intervallum</foreign></hi> vorkoͤmmt, das unter die ſoge-
+          <lb/>nannte gebraͤuchliche wol eben nicht zu zehlen iſt, und dennoch weiſet, wie ſich
+          <lb/>ein geſchickter Meiſter deſſen wol bedienen koͤnne. Es iſt eine kleine None, in Anſehung
+          <lb/>der Grund-Stim̃e, und ich geſtehe es gerne, die erſte die ich damahls, in einer Melodie,
+          <lb/>auf ſolche Art, gefunden oder auch brauchbar geglaubet habe. So iſt auch der
+          <lb/><ref target="#measure-1424025321">Schluß des erſten Abſatzes</ref>
+          in die <ref target="#note-0527129810">Septime</ref> etwas merckwuͤrdiges, und nichts alltaͤg-
+          <lb/>liches; daß ſie mich aber deßwegen ſonderlich entzuͤcken ſolte, zumahl, wann ich
+          <lb/>die Wiederhohlung betrachte, kann ich eben nicht ſagen: doch jeder hat ſeinen Ge-
+          <lb/>ſchmack.
         </p>
       </div>
+      <fw place="bottom" type="catch">Elff-</fw>
     </div>
     </body>
   </text>
