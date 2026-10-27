@@ -62,14 +62,23 @@ script reports are encoding mistakes (e.g. a wrong @accid.ges). It does not
 check the pitch itself: a note without @accid.ges and without a written
 accidental is taken to sound as the modern rules read it.
 
-Usage:
-    python3 scripts/check_accidentals.py FILE...            # report
-    python3 scripts/check_accidentals.py --summary FILE...  # counts only
-    python3 scripts/check_accidentals.py --level error ...  # errors only
-    python3 scripts/check_accidentals.py $(find encodings -name '*example*.xml')
+Allowlist (default: scripts/check_accidentals.allow): one entry per line,
 
-Exit status: 1 if there is a report at or above --fail-level (default: error),
-0 otherwise.
+    encodings/<path>.xml: <xml:id of the note>
+
+An entry covers every report on that note. Lines starting with '#' are
+comments; every entry should be explained by one. Entries that no longer match
+a report are reported as stale (when their file is checked).
+
+Usage:
+    python3 scripts/check_accidentals.py                    # all MEI files under encodings/
+    python3 scripts/check_accidentals.py FILE...            # some files
+    python3 scripts/check_accidentals.py --summary [FILE...] # counts only
+    python3 scripts/check_accidentals.py --level error ...  # errors only
+
+Exit status: 1 if there is a report at or above --fail-level (default:
+caution, i.e. any report), a stale allowlist entry or a malformed one; 0
+otherwise.
 """
 
 import argparse
@@ -93,6 +102,7 @@ TRANSPARENT = {'beam', 'graceGrp', 'bTrem', 'fTrem', 'ligature', 'lem', 'rdg', '
                'corr', 'sic', 'unclear', 'damage', 'restore', 'del', 'expan', 'abbr', 'subst'}
 EDITORIAL = {'reg', 'corr', 'add'}
 LEVELS = ('caution', 'warning', 'error')
+REPO = Path(__file__).resolve().parent.parent
 
 
 def localname(el):
@@ -293,7 +303,7 @@ def sig_of(el):
     ks = el.find(MEI + 'keySig')
     if ks is not None and ks.get('sig') is not None:
         return ks.get('sig')
-    return el.get('key.sig')
+    return el.get('key.sig') or el.get('keysig')
 
 
 class Keys:
@@ -533,29 +543,88 @@ def describe(rep):
     return f'line {el.sourceline}: bar {label}, staff {r.staff}, {r.note.pname}{r.note.oct}{ident}: {rep.message}'
 
 
+def read_allowlist(path):
+    """Return ({(file, xml:id): line number}, [errors])."""
+    entries, errors = {}, []
+    if not path.is_file():
+        return entries, errors
+    for number, raw in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith('#'):
+            continue
+        file_part, sep, rest = line.partition(': ')
+        fields = rest.split()
+        if not sep or not fields or (len(fields) > 1 and not fields[1].startswith('#')):
+            errors.append(f'{path.name}:{number}: expected "<path>: <xml:id>", got {raw!r}')
+            continue
+        entries[(file_part.strip(), fields[0])] = number
+    return entries, errors
+
+
+def mei_files(root):
+    """All MEI documents under root."""
+    out = []
+    for path in sorted(root.rglob('*.xml')):
+        try:
+            for _, el in etree.iterparse(str(path), events=('start',), no_network=True, resolve_entities=False):
+                if el.tag == MEI + 'mei':
+                    out.append(path)
+                break
+        except etree.XMLSyntaxError:
+            continue
+    return out
+
+
+def relative(path):
+    try:
+        return Path(path).resolve().relative_to(REPO).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__.split('\n')[0])
-    ap.add_argument('files', nargs='+', type=Path)
+    ap.add_argument('files', nargs='*', type=Path, help='MEI files (default: all under encodings/)')
     ap.add_argument('--level', choices=LEVELS, default='caution', help='lowest level to report')
-    ap.add_argument('--fail-level', choices=LEVELS, default='error')
+    ap.add_argument('--fail-level', choices=LEVELS, default='caution')
     ap.add_argument('--summary', action='store_true', help='print counts per file and category only')
+    ap.add_argument('--allow', type=Path, default=REPO / 'scripts' / 'check_accidentals.allow',
+                    help='allowlist file (default: %(default)s)')
     args = ap.parse_args(argv)
+    files = args.files or mei_files(REPO / 'encodings')
+    allow, allow_errors = read_allowlist(args.allow)
     lowest = LEVELS.index(args.level)
-    failed = False
+    failed = bool(allow_errors)
     totals = Counter()
-    for path in args.files:
-        reports = [rep for rep in check(path) if LEVELS.index(rep.level) >= lowest]
+    used = set()
+    checked = set()
+    for path in files:
+        rel = relative(path)
+        checked.add(rel)
+        reports = []
+        for rep in check(path):
+            key = (rel, rep.result.note.el.get(XML_ID))
+            if key in allow:
+                used.add(key)
+            elif LEVELS.index(rep.level) >= lowest:
+                reports.append(rep)
         counts = Counter(rep.level for rep in reports)
         totals.update(counts)
         failed |= any(LEVELS.index(rep.level) >= LEVELS.index(args.fail_level) for rep in reports)
         if args.summary:
             if reports:
-                print(f'{path}: ' + ', '.join(f'{counts[lv]} {lv}' for lv in reversed(LEVELS) if counts[lv]))
+                print(f'{rel}: ' + ', '.join(f'{counts[lv]} {lv}' for lv in reversed(LEVELS) if counts[lv]))
             continue
         for rep in reports:
-            print(f'{path}: {rep.level}: {describe(rep)}')
-    print(', '.join(f'{totals[lv]} {lv}' for lv in reversed(LEVELS)) + f' in {len(args.files)} files',
-          file=sys.stderr)
+            print(f'{rel}: {rep.level}: {describe(rep)}')
+    for message in allow_errors:
+        print(message)
+    stale = sorted((number, key) for key, number in allow.items() if key[0] in checked and key not in used)
+    for number, (rel, ident) in stale:
+        print(f'{args.allow.name}:{number}: stale entry "{rel}: {ident}" matches no report; remove it')
+    failed |= bool(stale)
+    print(', '.join(f'{totals[lv]} {lv}' for lv in reversed(LEVELS)) + f' in {len(files)} MEI files, '
+          f'{len(used)} allowlisted notes, {len(stale)} stale allowlist entries.', file=sys.stderr)
     return 1 if failed else 0
 
 

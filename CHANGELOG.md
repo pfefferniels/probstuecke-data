@@ -11,7 +11,7 @@ First versioned release.
 - Every XML file declares a local RELAX NG schema and validates against it; new ODDs for the translations, notes and indices (`probstuecke-tei.odd`) and for `works.xml` (`probstuecke-worklist.odd`); the existing ODDs are adapted to the project's encoding practice
 - `scripts/validate.sh` to validate all encodings with Jing, `scripts/build-schemas.sh` to regenerate the schemas from the ODDs
 - `scripts/check_references.py` to check internal pointers (`@facs`, `ref/@target`, `ptr/@target`, index links), with an allowlist of known open cases
-- `scripts/check_accidentals.py` to check the written accidentals of the MEI encodings against the edition's convention for the diplomatic and the modernised view (`<orig>`, `<supplied>`/`<reg>`, `@func="caution"`), with the rules the full scores follow
+- `scripts/check_accidentals.py` to check the written accidentals of the MEI encodings against the edition's convention for the diplomatic and the modernised view (`<orig>`, `<supplied>`/`<reg>`, `@func="caution"`), with the rules the full scores follow and an allowlist of knowingly kept cases
 - Accidentals of the music examples encoded for the diplomatic and the modernised view as in the scores: superfluous printed ones in `<orig>`, missing and cautionary ones in `<supplied>`, so that the website can show the examples in modern notation, too
 - GitHub Actions workflow running both checks on pull requests and on `main`
 - `scripts/check_facsimile.py` to check the facsimile links (canvases, image sizes, zones against staves and barlines), and the scripts in `scripts/facsimile_repair/` that repaired them
