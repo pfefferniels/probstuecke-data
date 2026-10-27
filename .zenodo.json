@@ -1,16 +1,37 @@
 {
   "title": "Probstücke Digital: TEI and MEI encodings of Johann Mattheson's Prob-Stücke (1719/1731)",
   "upload_type": "dataset",
-  "description": "TEI and MEI encodings of the 24 Prob-Stücke from Johann Mattheson's Exemplarische Organisten-Probe (Hamburg 1719) and Grosse General-Baß-Schule (Hamburg 1731): the figured basses with the variants between both prints, diplomatic transcriptions of Mattheson's commentary, an English translation, lessons and realisations, and indices of persons, literature and musical works. The encodings are published at https://probstuecke-digital.de/.",
+  "version": "1.0.0",
+  "description": "<p>TEI and MEI encodings of the 24 Prob-Stücke of the Ober-Classe from Johann Mattheson's <i>Exemplarische Organisten-Probe</i> (Hamburg 1719) and <i>Grosse General-Baß-Schule</i> (Hamburg 1731): the figured basses with the variants between both prints and with modern clefs, key signatures and accidentals as editorial alternatives; diplomatic transcriptions of Mattheson's commentary in both prints, linked bar by bar to the score and to the page images of the Bayerische Staatsbibliothek; an English translation; lessons and realisations by Robert Hill, Larry Molinaro, Dijoux and Niels Pfeffer; Mattheson's Register of 1731; indices of persons, literature, musical works and terms; and the word list behind the modernised spelling.</p><p>The edition is published at <a href=\"https://probstuecke-digital.de/\">probstuecke-digital.de</a>.</p>",
   "creators": [
-    { "name": "Pfeffer, Niels" },
-    { "name": "Rettinghaus, Klaus" }
+    {
+      "name": "Pfeffer, Niels"
+    },
+    {
+      "name": "Rettinghaus, Klaus"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Hill, Robert",
+      "type": "Other"
+    },
+    {
+      "name": "Molinaro, Larry",
+      "type": "Other"
+    },
+    {
+      "name": "Dijoux",
+      "type": "Other"
+    }
   ],
   "license": "cc-by-4.0",
+  "language": "deu",
   "keywords": [
     "Johann Mattheson",
     "thoroughbass",
     "figured bass",
+    "Generalbass",
     "music theory",
     "digital edition",
     "TEI",
@@ -21,6 +42,21 @@
       "identifier": "https://probstuecke-digital.de/",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/pfefferniels/probstuecke-digital",
+      "relation": "isRequiredBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "urn:nbn:de:bvb:12-bsb10527431-0",
+      "relation": "isDerivedFrom",
+      "scheme": "urn"
+    },
+    {
+      "identifier": "urn:nbn:de:bvb:12-bsb10598495-7",
+      "relation": "isDerivedFrom",
+      "scheme": "urn"
     }
   ]
 }
