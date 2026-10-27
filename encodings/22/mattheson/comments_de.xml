@@ -140,11 +140,11 @@
       <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
-          <lb />Jm neunzehnten Tact ſtehet wiederum:
-          <ref target="#si-suona-1"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign>'</hi></ref>,
+          <lb />Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſtehet wiederum:
+          <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign>'</hi></ref>,
           deſſen Bedeutung bekannt
           <lb />iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
-          und wo <ref target="#tutti-1"><hi rendition="#aq">Tutti</hi></ref> eintritt,
+          und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
           da gehet es u&#x0364;ber alles, was nur wol klingt. <ref target="#measure-0000000574431491">Nach dem
           <lb />Schluß des erſten Theils</ref> fa&#x0364;nget die rechte Hand abermahl zu moduliren an, wovon
           <lb />dieſes ein Muſter ſeyn mag:

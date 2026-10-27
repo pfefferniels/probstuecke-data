@@ -159,10 +159,10 @@
       <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
-          <lb />Jm neuenzehnten Tact ſtehet wiederum
-          <ref target="#si-suona-1"><hi rendition="#aq">ſi ſuona</hi></ref>, deſſen Bedeutung be-
+          <lb />Jm neuenzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſtehet wiederum
+          <ref target="#si-suona-2"><hi rendition="#aq">ſi ſuona</hi></ref>, deſſen Bedeutung be-
           <lb />kandt iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
-          und wo <ref target="#tutti-1"><hi rendition="#aq">Tutti</hi></ref> eintritt,
+          und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
           da geht es über alles, was nur wohl klingt.
           <lb /><ref target="#measure-0000000574431491">Nach dem
           <lb />Schluß des erſten Theils</ref>, fänget die rechte Hand abermahl zu <hi rendition="#aq">modu
@@ -172,7 +172,8 @@
             <ptr target="music-example2.xml" />
           </notatedMusic>
 
-          <lb />Darauf hebt ſich das <hi rendition="#aq">Tutti</hi> an bis zur nächſten <hi rendition="#aq">Cadence</hi>, allwo ohngefehr auf
+          <lb />Darauf hebt ſich das <ref target="#tutti-3"><hi rendition="#aq">Tutti</hi></ref> an bis zur
+          <ref target="#measure-0000000387035804">nächſten <hi rendition="#aq">Cadence</hi></ref>, allwo ohngefehr auf
           <lb />dieſe Art mag gesſpielet werden:
 
           <notatedMusic xml:id="music-example3">
