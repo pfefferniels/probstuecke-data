@@ -76,6 +76,9 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
+    <surface ulx="0" uly="0" lrx="1991" lry="2521" xml:id="facs-p405" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/405">
+      <graphic width="1991px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00405/full/full/0/default.jpg"/>
+    </surface>
     <surface ulx="0" uly="0" lrx="2064" lry="2522" xml:id="facs-p406" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/406">
       <graphic width="2064px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00406/full/full/0/default.jpg"/>
       <zone ulx="119" uly="349" lry="1985" lrx="2001" xml:id="facsZone-p1-1"/>
@@ -96,22 +99,24 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="343" facs="#facs-p405"/>
       <div>
         <p>
-          Der oberwehnte <hi rendition="#b"><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
+          <lb/>Der oberwehnte <hi rendition="#b"><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
           ſagt, auf der 27ſten Seite ſeines Buchs, von
           <lb/>dieſem Ton, <hi rendition="#b">G</hi>, uͤberhaupt:
           <quote type="translation">
             <hi rendition="#b">Man koͤnne, bey deſſen Benennung, nicht wiſ-
-              <lb/>ſen oder unterſscheiden, ob er hart oder weich ſey, weil ihm die kleine
-              <lb/>Tertz eben ſo bequem oder natürlich falle, als die groſſe.
+              <lb/>ſen oder unterſcheiden, ob er hart oder weich ſey, weil ihm die kleine
+              <lb/>Tertz eben ſo bequem oder natuͤrlich falle, als die groſſe.
             </hi>
           </quote>
-          Ich halte aber
+          Jch halte aber
           <lb/>jedoch, mit Urlaub, dafuͤr, es ſey dem <hi rendition="#b">G</hi> die harte Tertz weit natuͤrlicher, als
           <lb/>die weiche; ob ich gleich nicht misbillige, daß man bey jeder Ton-Art mit Un-
-          <lb/>terſchied rede, und den gewöhnlichen Zuſatz, <hi rendition="#b">moll</hi> oder <hi rendition="#b">dur</hi>, gebrauche.
+          <lb/>terſchied rede, und den gewoͤhnlichen Zuſatz, <hi rendition="#b">moll</hi> oder <hi rendition="#b">dur</hi>, gebrauche.
         </p>
+        <fw place="bottom" type="catch">Er-</fw>
       </div>
 
       <pb n="344" facs="#facs-p406"/>
