@@ -272,14 +272,14 @@
                                     <f>6</f>
                                 </fb>
                             </harm>
-                            <harm place="above" staff="2" tstamp="3">
-                                <fb>
-                                    <f>´</f>
-                                </fb>
-                            </harm>
-                            <harm place="above" staff="2" tstamp="3.5">
+                            <harm place="above" staff="2" tstamp="2.5">
                                 <fb>
                                     <f>6</f>
+                                </fb>
+                            </harm>
+                            <harm place="above" staff="2" tstamp="3">
+                                <fb>
+                                    <f>6⃥</f>
                                 </fb>
                             </harm>
                         </measure>
