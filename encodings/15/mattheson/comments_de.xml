@@ -103,6 +103,9 @@
       <surface ulx="0" uly="0" lry="2526" lrx="2019" xml:id="facs-p452" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/452">
         <graphic width="2019px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00452/full/full/0/default.jpg" />
       </surface>
+      <surface ulx="0" uly="0" lry="2520" lrx="1982" xml:id="facs-p453" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/453">
+        <graphic width="1982px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00453/full/full/0/default.jpg" />
+      </surface>
   </facsimile>
   <text>
     <body>
@@ -408,6 +411,8 @@
           <ptr target="aria-bottari.xml"/>
         </notatedMusic>
       </div>
+      <!-- the aria fills pp. 388-391; its page breaks are in aria-bottari.xml -->
+      <pb n="391" facs="#facs-p453"/>
 
       <div n="9">
         <lb/><head>§. 9.</head>
