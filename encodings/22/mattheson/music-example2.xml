@@ -45,7 +45,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure metcon="false">
+                        <measure corresp="#measure-0000000574431491" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0231430992" dur="4" oct="4" pname="a" accid.ges="s" />
@@ -63,7 +63,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000779329225">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -98,7 +98,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000002104627708">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-2063066578" dur="4" oct="4" pname="a" accid.ges="s" />
@@ -134,7 +134,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000308121362">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -184,7 +184,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure right="invis">
+                        <measure corresp="#measure-0000000310600553" right="invis">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0143385302" dur="4" oct="4" pname="e">

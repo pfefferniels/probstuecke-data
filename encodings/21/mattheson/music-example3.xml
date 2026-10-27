@@ -40,7 +40,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="measure-0000001678222769" n="2">
+                        <measure xml:id="measure-0000001678222769" corresp="#measure-0000001256239430" n="2">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

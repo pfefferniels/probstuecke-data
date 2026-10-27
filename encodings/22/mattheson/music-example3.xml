@@ -45,7 +45,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure metcon="false">
+                        <measure corresp="#measure-0000000387035804" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <space dur="8" />
@@ -86,7 +86,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000001201972612">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -145,7 +145,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000001261694515">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0949067509" dur="4" oct="5" pname="c" accid.ges="s" />
@@ -189,7 +189,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000240302235">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0200917870" dur="4" oct="4" pname="a" accid.ges="s" />
@@ -234,7 +234,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000461833876">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

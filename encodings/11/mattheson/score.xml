@@ -1263,7 +1263,7 @@
                 </fb>
               </harm>
             </measure>
-            <measure n="23">
+            <measure xml:id="measure-0000002078803044" n="23">
               <staff n="1">
                 <layer n="1">
                   <orig>
@@ -1344,7 +1344,7 @@
                 </fb>
               </harm>
             </measure>
-            <measure n="24">
+            <measure xml:id="measure-0000001071915657" n="24">
               <staff n="1">
                 <layer n="1">
                   <beam>

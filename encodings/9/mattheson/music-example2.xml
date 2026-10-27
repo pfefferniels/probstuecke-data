@@ -46,7 +46,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure metcon="false">
+                        <measure corresp="#m-1334" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -91,7 +91,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="42">
+                        <measure corresp="#m-1372" n="42">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -178,7 +178,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="43">
+                        <measure corresp="#m-1412" n="43">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -249,7 +249,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="44">
+                        <measure corresp="#m-1451" n="44">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

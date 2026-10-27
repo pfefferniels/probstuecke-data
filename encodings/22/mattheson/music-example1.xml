@@ -215,7 +215,7 @@
                             </harm>
                         </measure>
                         <sb source="#secondEdition" />
-                        <measure>
+                        <measure corresp="#measure-0000001647854738">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -235,7 +235,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="6">
+                        <measure corresp="#measure-0000000795822713" n="6">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1732831217" dur="4" oct="5" pname="c" accid.ges="s" />
@@ -283,7 +283,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure n="7">
+                        <measure corresp="#measure-0000000188115704" n="7">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1910291872" dur="4" oct="4" pname="g" accid.ges="s" />
@@ -315,7 +315,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure right="invis" n="8">
+                        <measure corresp="#measure-0000001563112960" right="invis" n="8">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0388386246" dur="4" oct="4" pname="b">
