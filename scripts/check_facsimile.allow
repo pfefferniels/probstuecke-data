@@ -59,10 +59,6 @@ encodings/5/mattheson/comments_en.xml: graphic (line 107)
 encodings/5/mattheson/comments_en.xml: graphic (line 136)
 encodings/5/mattheson/comments_en.xml: graphic (line 158)
 encodings/5/mattheson/comments_en.xml: graphic (line 167)
-# No. 8: zones p2-1 and p2-1-2 frame §. 2 of the commentary (pp. 344-345),
-# which comments_de.xml does not transcribe.
-encodings/8/mattheson/comments_de.xml: zone-unused facsZone-p2-1
-encodings/8/mattheson/comments_de.xml: zone-unused facsZone-p2-1-2
 # Music examples inside a paragraph that goes on on the next page: the example
 # comes after the paragraph's last zone in the text. No. 18: example 1 in p6-1
 # (pp. 408-409); No. 20: example 2, beside the end of p2-1 on p. 417.
