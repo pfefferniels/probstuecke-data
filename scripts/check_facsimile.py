@@ -35,6 +35,9 @@ The script
        - the stored size of a surface (@lrx/@lry) equals that of its graphic;
        - the staff zones of an MEI file follow the order of the measures (left
          to right within a system, top to bottom on a page, page after page),
+         a staff has at most one zone per system (zone-split), and where the
+         staffs of a file have zones every staff with notes or rests has one
+         (a warning, staff-no-zone),
          and the zones of a TEI text follow the order of the text (a
          warning only: music examples may stand beside a paragraph);
   3. with --online, fetches info.json for every canvas used (cached in
@@ -191,6 +194,7 @@ class Document:
     zones: dict         # xml:id -> Zone
     refs: list          # all Refs in document order
     pointers: list      # (Ref, token, target or None)
+    unlinked: list = field(default_factory=list)   # MEI staffs with notes or rests but no @facs: (line, context, staff n)
 
 
 def local(el):
@@ -245,6 +249,11 @@ def read_document(path, base):
                 if zone.xml_id:
                     doc.zones[zone.xml_id] = zone
                     targets[zone.xml_id] = zone
+    if doc.kind == 'mei':
+        for staff in root.iter('{*}staff'):
+            if staff.get('facs') is None and any(local(e) in ('note', 'rest', 'chord', 'mRest')
+                                                 for e in staff.iter() if isinstance(e.tag, str)):
+                doc.unlinked.append((staff.sourceline, describe(staff), staff.get('n') or '-'))
     for el in root.iter():
         if not isinstance(el.tag, str) or el.get('facs') is None:
             continue
@@ -354,6 +363,7 @@ def check_offline(documents, report):
         check_pages(doc, report)
         if doc.kind == 'mei':
             check_staff_order(doc, report)
+            check_staff_zones(doc, report)
         else:
             check_text_order(doc, report)
 
@@ -481,6 +491,33 @@ def check_staff_order(doc, report):
                     report.warn(doc.path, z2.line, 'zone-order', z2.xml_id, f'{where}: next system but does not start further left')
             else:
                 report.error(doc.path, z2.line, 'zone-order', z2.xml_id, f'{where}: above the previous zone on the same page')
+
+
+def check_staff_zones(doc, report):
+    """A staff may continue on the next system, but not have two zones in one system; and where the
+    staffs of a file have zones, every staff with notes or rests should have one."""
+    linked_staffs = set()
+    for ref in doc.refs:
+        if ref.element not in ('staff', 'measure'):
+            continue
+        staff_n = re.search(r'staff (\S+)$', ref.context)
+        zones = [doc.zones.get(t[1:]) for t in dict.fromkeys(ref.tokens)]
+        zones = [z for z in zones if z is not None and z.box() is not None]
+        if zones:
+            linked_staffs.add(staff_n.group(1) if staff_n else '-')
+        for i, a in enumerate(zones):
+            for b in zones[i + 1:]:
+                if a.surface is not b.surface:
+                    continue
+                ba, bb = a.box(), b.box()
+                h = min(ba[3] - ba[1], bb[3] - bb[1])
+                if h > 0 and overlap(ba[1], ba[3], bb[1], bb[3]) >= 0.5 * h:
+                    report.error(doc.path, ref.line, 'zone-split', b.xml_id,
+                                 f'{ref.context}: {a.xml_id} and {b.xml_id} lie in the same system; '
+                                 f'one of them shows another measure')
+    for line, context, staff_n in doc.unlinked:
+        if staff_n in linked_staffs:
+            report.warn(doc.path, line, 'staff-no-zone', context, f'{context} has notes but no zone')
 
 
 def check_text_order(doc, report):
