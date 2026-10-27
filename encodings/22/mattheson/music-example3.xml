@@ -32,7 +32,7 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.accid="s" key.mode="major" meter.unit="4" mnum.visible="false">
+                    <scoreDef key.pname="f" key.accid="s" key.mode="major" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5" clef.shape="C" clef.line="1">
                                 <keySig sig="5s" />
@@ -50,10 +50,15 @@
                             <reg resp="#pfeffer">
                                 <scoreDef>
                                     <keySig sig="6s" />
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
                                 </scoreDef>
                             </reg>
                         </choice>
-                        <measure metcon="false">
+                        <measure corresp="#measure-0000000387035804" label="42" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <space dur="8" />
@@ -100,7 +105,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000001201972612" label="43">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -167,7 +172,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000001261694515" label="44">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0949067509" dur="4" oct="5" pname="c" accid.ges="s" />
@@ -215,7 +220,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000240302235" label="45">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-0200917870" dur="4" oct="4" pname="a" accid.ges="s" />
@@ -266,7 +271,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure>
+                        <measure corresp="#measure-0000000461833876" label="46">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -324,7 +329,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure right="invis">
+                        <measure right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="4" pname="a" />

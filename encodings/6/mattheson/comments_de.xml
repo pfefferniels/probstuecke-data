@@ -76,21 +76,21 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1999" lry="2531" xml:id="facs-p395">
-      <graphic width="1999px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/395"/>
+    <surface ulx="0" uly="0" lrx="1999" lry="2531" xml:id="facs-p395" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/395">
+      <graphic width="1999px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00395/full/full/0/default.jpg"/>
       <zone ulx="11" uly="357" lry="1749" lrx="1921" xml:id="facsZone-p1-1"/>
       <zone ulx="5" uly="1738" lry="2306" lrx="1921" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2021" lry="2536" xml:id="facs-p396">
-      <graphic width="2021px" height="2536px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/396"/>
+    <surface ulx="0" uly="0" lrx="2021" lry="2536" xml:id="facs-p396" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/396">
+      <graphic width="2021px" height="2536px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00396/full/full/0/default.jpg"/>
       <zone ulx="138" uly="190" lry="680" lrx="2017" xml:id="facsZone-p2-1-2"/>
       <zone ulx="131" uly="693" lry="1366" lrx="2021" xml:id="facsZone-p3-1"/>
       <zone ulx="385" uly="1345" lry="1641" lrx="1800" xml:id="facsZone-music-example1"/>
       <zone ulx="138" uly="1629" lry="1755" lrx="1936" xml:id="facsZone-p3-2"/>
       <zone ulx="135" uly="1731" lry="2327" lrx="2010" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1984" lry="2532" xml:id="facs-p397">
-      <graphic width="1984px" height="2532px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/397"/>
+    <surface ulx="0" uly="0" lrx="1984" lry="2532" xml:id="facs-p397" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/397">
+      <graphic width="1984px" height="2532px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00397/full/full/0/default.jpg"/>
       <zone ulx="18" uly="194" lry="712" lrx="1916" xml:id="facsZone-p4-1-2"/>
       <zone ulx="22" uly="695" lry="1302" lrx="1925" xml:id="facsZone-music-example2"/>
       <zone ulx="25" uly="1245" lry="1899" lrx="1931" xml:id="facsZone-p5-1"/>
@@ -126,14 +126,14 @@
             <lb/>koͤnnen. Mancher wird hiebey eben ſo eine Nase auffwerffen, als
             <hi rendition="#b"><persName corresp="#ed_lvw_2xx_qlb">Luthers</persName></hi> Ge-
             <lb/>sellschafft, wie er ihr das Ey ſtehend machte, und ſagen: <hi rendition="#b">O!</hi> iſt es nichts an-
-            <lb/>ders als das? ich dachte Wunder, was es ſeyn wuͤrde. Mit ſolchen Anwei-
-            <lb/>ſungen gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich verlan-
+            <lb/>ders als das? ich dachte Wunder, was es ſeyn wuͤrde. Mit ſolchen <term xml:id="t_anweisung-1" corresp="#t_anweisung">Anwei-
+            <lb/>ſungen</term> gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich verlan-
             <lb/>get, und, wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden. Erfaͤh-
             <lb/>ret man denn, daß es lauter gemeine Kraͤuter und Gewaͤchſe geweſen, so verliehrt
             <lb/>man ſchon die Hochachtung dafuͤr, ob das Mittel gleich noch ſo gute Wirckung
-            <lb/>gehabt haͤtte. Das ſind lauter vorgefaßte Meynungen; ich bitte darum, man lasse die-
+            <lb/>gehabt haͤtte. Das ſind lauter <term xml:id="t_vorurteile-1" corresp="#t_vorurteile">vorgefaßte Meynungen</term>; ich bitte darum, man lasse die-
             <lb/>ſelbe, ſonderlich in der Musik, fahren, und beurtheile die Sachen, gewiſſer maſſen, nach
-            <lb/>keinen anderen Gruͤnden, als nach dem Wol- oder Uebellaut, die Einrichtung mag
+            <lb/>keinen anderen Gruͤnden, als nach dem <term xml:id="t_wohlklang-1" corresp="#t_wohlklang">Wol- oder Uebellaut</term>, die Einrichtung mag
             <lb/>kuͤnſtlich, oder ſchlecht, bunt, oder einfaͤltig gerathen; gnug, wenn es gut klingt.
           </p>
         </div>
@@ -156,8 +156,8 @@
             <lb/>geſagt, es wuͤrde so kommen? Doch ſinge noch kein Sieges-Lied, mein guter Held, ehe
             <lb/>der Triumph da iſt; laß hoͤren, wie klingt es? Zoͤgere nicht, fahre fort, ey lieber,
             <lb/>fahre fort; bedencke die lincke Hand dabey; laß den Baß nicht ſo kahl daher tre-
-            <lb/>ten; kanſt du die Vollſtimmigkeit nicht ſo geſchwinde finden, ſo muſt du wenig-
-            <lb/>ſtens Octaven-Weiſe damit verfahren, bis endlich zum Schluß ins <hi rendition="#b">c</hi> mit Ehren
+            <lb/>ten; kanſt du die <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">Vollſtimmigkeit</term> nicht ſo geſchwinde finden, ſo muſt du wenig-
+            <lb/>ſtens <term xml:id="t_all_ottava-1" corresp="#t_all_ottava">Octaven-Weiſe</term> damit verfahren, bis endlich zum Schluß ins <hi rendition="#b">c</hi> mit Ehren
             <lb/>gelanget ſeyn wird.
           </p>
         </div>
@@ -165,7 +165,7 @@
         <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
-            Die gewoͤhnlichen Gruͤnde der Baß-Veraͤnderungen ſind ſonſt diese, daß
+            Die gewoͤhnlichen Gruͤnde der <term xml:id="t_bassveraenderung-1" corresp="#t_bassveraenderung">Baß-Veraͤnderungen</term> ſind ſonſt diese, daß
             <lb/>die Haupt-Noten vorher, die zufaͤlligen aber hintennach anſchlagen: doch bey
             <lb/>heutiger Art zu ſpielen, abſonderlich, wenn ſich das Clavier allein hoͤren laͤßt,
             <lb/>kehrt man es offt um, und macht es wie mit den Conſonanzen und Diſſonantzen,
@@ -173,8 +173,8 @@
             <hi rendition="#aq"><foreign xml:lang="ita">Note cambiate</foreign></hi> oder Wechsel-Noten
             zulaſſen: ob es gleich ſonſt
             <lb/>ſtarck wieder den Compositions-Bocks-Beutel laͤufft. Doch muͤſſen die Haupt-
-            <lb/>Noten, wenn ſie nachſchlagen, in der Tiefe, die Brechungen aber in der Hoͤhe
-            <lb/>vorgenommen werden. Und ſolchemnach ſind die Grund-Noten im
+            <lb/>Noten, wenn ſie nachſchlagen, in der Tiefe, die <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechungen</term> aber in der Hoͤhe
+            <lb/>vorgenommen werden. Und ſolchemnach ſind die <term xml:id="t_grundnoten-1" corresp="#t_grundnoten">Grund-Noten</term> im
             <ref target="#m-282">9.</ref> <ref target="#m-310">10.</ref> <ref target="#m-340">11.</ref>
             <lb/><ref target="#m-369">12.</ref>
             <ref target="#m-399">ꝛc.</ref> Tact des vorhabenden Exempels dieſe:
@@ -191,16 +191,16 @@
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
             Nun folgen neun biß zehn bunte Taͤcte im Baſſe; und obgleich hin und wieder
-            <lb/>eine Zieffer ausgelassen waͤre, ſo wird man doch wol urtheilen, wohin etwan
+            <lb/>eine <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffer</term> ausgelassen waͤre, ſo wird man doch wol urtheilen, wohin etwan
             <lb/>eine Sexte oder ♭5 gehoͤre. Wer auch gerne wiſſen will, was bey dieſen sogenann-
-            <lb/>ten bunten Taͤcten die eigentlichen Grund-Noten ſind, darauf ſich die Veraͤnderun-
-            <lb/>gen oder Brechungen beziehen, dem will ich ſie hier vor Augen legen, zumahl da
+            <lb/>ten bunten Taͤcten die eigentlichen Grund-Noten ſind, darauf ſich die <term xml:id="t_veraenderung-1" corresp="#t_veraenderung">Veraͤnderun-
+            <lb/>gen</term> oder Brechungen beziehen, dem will ich ſie hier vor Augen legen, zumahl da
             <lb/>nicht immer die erſten Noten im Tact die vornehmsten ſind, ſondern gar offt nur als
             <lb/>Fuͤll-Stimme da ſtehen. Jch habe geſagt, es waͤren neun bis zehn Taͤcte; in den vier
             <fw place="bottom" type="catch">er-</fw>
             <pb n="335" facs="#facs-p397"/>
 
-            erſten melden ſich zwar die Grund-Noten gleich bey dem Niederſchlage und Anfange
+            erſten melden ſich zwar die <term xml:id="t_grundnoten-2" corresp="#t_grundnoten">Grund-Noten</term> gleich bey dem Niederſchlage und Anfange
             <lb/>eines jeden Viertels; im fuͤnfften aber iſt es anders beſchaffen, und in den vier folgen-
             <lb/>den moͤgte mancher auch zweiffeln, ob er ſie oben oder unten ſuchen ſollte. Weil
             <lb/>denn nun ſehr viel an dieſem Unterricht von den Grund-Noten, bey dergleichen
@@ -234,7 +234,7 @@
             <lb/>chen, wenn er an
             <ref target="#m-1310">den fuͤnfften Tact der sogenannten ſchlechten Noten koͤmmt</ref>.
             <lb/>Kann einer nach dieſem die letzten zwoͤlff Taͤcte in der rechten Hand, bey guter
-            <lb/>Einrichtung, Tertzen- und Sexten-Weise mitnehmen, ſo wird es zu loben ſeyn,
+            <lb/>Einrichtung, Tertzen- und <term xml:id="t_sexte-1" corresp="#t_sexte">Sexten-Weise</term> mitnehmen, ſo wird es zu loben ſeyn,
             <lb/>und von ihm heiſſen koͤnnen: <hi rendition="#b">Er hat
             ſeine Sache ſchon recht gethan.</hi>
             </p>

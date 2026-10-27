@@ -62,16 +62,16 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="2430" lrx="1968" xml:id="facs-p392">
-        <graphic width="1968" height="2430" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/392" />
+      <surface ulx="0" uly="0" lry="2430" lrx="1968" xml:id="facs-p392" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/392">
+        <graphic width="1968" height="2430" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00392/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2405" lrx="1908" xml:id="facs-p393">
-        <graphic width="1908" height="2405" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/393" />
+      <surface ulx="0" uly="0" lry="2405" lrx="1908" xml:id="facs-p393" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/393">
+        <graphic width="1908" height="2405" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00393/full/full/0/default.jpg" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
-      <surface ulx="0" uly="0" lrx="2039" lry="2522" xml:id="facs-p440">
-        <graphic width="2039" height="2522" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440" />
+      <surface ulx="0" uly="0" lrx="2039" lry="2522" xml:id="facs-p440" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/440">
+        <graphic width="2039" height="2522" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00440/full/full/0/default.jpg" />
         <zone ulx="116" uly="328" lrx="879" lry="629" xml:id="facsZone-staff-0000001224809391" />
         <zone ulx="851" uly="328" lrx="1326" lry="632" xml:id="facsZone-staff-0000001899282970" />
         <zone ulx="1280" uly="328" lrx="2007" lry="644" xml:id="facsZone-staff-0000000763163693" />
@@ -98,8 +98,8 @@
         <zone ulx="797" uly="2214" lrx="1615" lry="2436" xml:id="facsZone-staff-0000000852787044" />
         <zone ulx="1572" uly="2214" lrx="1995" lry="2439" xml:id="facsZone-staff-0000000072021807" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1989" lry="2531" xml:id="facs-p441">
-        <graphic width="1989" height="2531" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/441" />
+      <surface ulx="0" uly="0" lrx="1989" lry="2531" xml:id="facs-p441" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/441">
+        <graphic width="1989" height="2531" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00441/full/full/0/default.jpg" />
         <zone ulx="52" uly="282" lrx="760" lry="584" xml:id="facsZone-staff-0000000411581427" />
         <zone ulx="735" uly="301" lrx="1180" lry="590" xml:id="facsZone-staff-0000000672493198" />
         <zone ulx="1134" uly="282" lrx="1591" lry="599" xml:id="facsZone-staff-0000001072596435" />

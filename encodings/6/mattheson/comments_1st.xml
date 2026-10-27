@@ -74,11 +74,11 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="2418" lrx="2006" xml:id="facs-p306">
-      <graphic width="2006px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/306" />
+    <surface ulx="0" uly="0" lry="2418" lrx="2006" xml:id="facs-p306" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/306">
+      <graphic width="2006px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00306/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lry="2408" lrx="1949" xml:id="facs-p307">
-      <graphic width="1949px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/307" />
+    <surface ulx="0" uly="0" lry="2408" lrx="1949" xml:id="facs-p307" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/307">
+      <graphic width="1949px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00307/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>
@@ -91,71 +91,85 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="132" facs="#facs-p306"/>
+      <div>
+        <p>
+          <lb/><hi rendition="#aq">
+            <abbr>Vid.</abbr> <hi rendition="#i"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
+            <name type="musicalWork" corresp="#ed_zqv_vrx_slb">Solil.</name> p. 2.
+          </hi>
+        </p>
+      </div>
+
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
-      <div n="1">
-        <head>§. 1.</head>
-        <p>
-          Es ist schon zuvor erinnert worden, daß alles, was man in diese <hi rendition="#aq">Pieçen</hi> der rechten Hand gerne beylegen
-          wollte, sich entweder vor oder hernach im Baß dergestalt befinden, daß es nur darff hervorgesuchet oder auch
-          <hi rendition="#aq">imiti</hi>ret werden. Hier moͤchte man nun gerne wissen, ob einer so viel Nachdencken haͤtte, nach dieser
-          Anweisung gegenwaͤrtiges Stuͤck zu <hi rendition="#aq">tractir</hi>en, oder ob ihm alles Haar-klein vorgeschrieben werden muͤsse? Wer
-          die Probe anstellen will, der lasse diese Erlaͤuterung so lange zuruͤck bleiben, bis er mercket, ob sein <hi rendition="#aq">Candidat</hi>
-          das rechte Fleckgen getroffen habe oder, nicht. Hat ers; <hi rendition="#aq">plaudite</hi>! Verfehlt ers; so wird ers muͤssen
-          geben lassen, und sich nach eingenommenem Unterricht weidlich wundern, daß er den Lunten nicht selber riechen koͤnnen.
-          Mancher wird eben so eine Nase auffwerffen, als <hi rendition="#aq"><persName corresp="#ed_lvw_2xx_qlb">Lutheri</persName></hi> Gesellschaft, wie er ihr das Ey stehend
-          machte, und sagten: O! ist es nichts anders als das? ich dachte Wunder, was es seyn wuͤrde. Mit solchen Anweisungen gemahnet
-          michs fast eben, wie mit Artzneyen, die man sehnlich verlanget, und wenn sie geholffen, gerne wissen
-          wolte, woraus sie bestanden. Erfaͤhret man denn, daß es lauter <hi rendition="#aq">ordinaire Ingredientien</hi> gewesen, so verliehret man
-          schon den <hi rendition="#aq">Respect</hi>
-          fuͤr die <hi rendition="#aq">Medicin</hi>, ob sie gleich noch so gute Wuͤrckung gehabt hat. Das sind lauter Vorurtheile; man lasse
-          dieselbe, sonderlich in der Musik, fahren, und judicire die Sachen, gewisser massen, nach keinen anderen <hi rendition="#aq">Principiis</hi>,
-          als nach dem Wohl- oder Übellaut, die Einrichtung mag kuͤnstlich oder schlecht, bunt oder einfaͤltig gerathen;
-          gnug, wenn es gut klingt.
-        </p>
-      </div>
-      <div n="2">
-        <head>§. 2.</head>
-        <p>
-          Geschaͤhe es nicht, ehrlichen Leuten zu gefallen, die sich dieses Werckleins auch bedienen moͤchten, ich kann versichern,
-          meine gute Organisten und ihre Bursche sollten noch
-          ein weilgen zappeln, ehe sie erfuͤhren, wo Bartold hier
-          die Most holet; Jch wuͤrde Anstand nehmen, ihnen sogleich zu sagen: daß die vierzehn Taͤcte, so der Baß vorher spielet, Note
-          vor Note in der rechten Hand <ref target="#m-456">zu den folgenden dreyzehn
-          Taͤcten nachgeholet</ref>, und nur zum <ref target="#m-903">vierzehnten</ref> und <ref target="#m-920">fuͤnffzehnten</ref>
-          ein wenig veraͤndert werden koͤnnen. Nun wurd mein Organiste dencken, ist das das schoͤne Geheimniß? Das ist ja was schlechtes!
-          Habe ichs nicht gesagt, es wuͤrde so kommen? Doch singe noch keine <hi rendition="#aq">Victorie</hi>, ehe der Triumph da; laß hoͤren, wie
-          klingt es? Zoͤgere nicht, <hi rendition="#aq">perge</hi>, mein lieber, <hi rendition="#aq">perge</hi>; bedencke die lincke Hand dabey;
-          laß den Baß nicht so kahl daher treten; Kanst du die <hi rendition="#aq">Concordantien</hi> nicht so geschwinde finden, must du
-          wenigsten Octaven-weiß damit <hi rendition="#aq">procedi</hi>ren,
-          bis endlich zur <hi rendition="#aq">Cadence</hi> ins <hi rendition="#b">c</hi> mit Ehren gelanget seyn wird.
-        </p>
-      </div>
+        <head>Erlaͤuterung.</head>
+        <div n="1">
+          <lb/><head>§. 1.</head>
+          <lb/><p xml:id="p1-1" facs="#facs-p306 #facs-p307">
+            <hi rendition="#in">E</hi>S iſt ſchon zuvor erinnert worden, daß alles, was man in dieſen <hi rendition="#aq">Pieçen</hi> der rechten Hand
+            <lb/>gerne beylegen wolte, ſich entweder vor oder hernach im Baß dergeſtalt befindet, daß es
+            <lb/>nur darff hervorgeſuchet oder auch imitiret werden. Hier moͤchte man nun gerne wiſſen,
+            <lb/>ob einer ſo viel Nachdencken haͤtte, nach dieſer Anweiſung gegenwaͤrtiges Stuͤck zu tractiren, oder
+            <lb/>ob ihm alles Haar-klein vorgeſchrieben werden muͤſſe? Wer die Probe anſtellen will, der laſſe dieſe
+            <fw place="bottom" type="catch">Erlaͤu-</fw>
+            <pb n="133" facs="#facs-p307"/>
+            <lb/>Erlaͤuterung ſo lange zuruͤck bleiben, bis er mercket, ob ſein <hi rendition="#aq">Candidat</hi> das rechte Fleckgen getrof-
+            <lb/>fen, oder nicht. Hat ers; <hi rendition="#aq"><foreign xml:lang="lat">plaudite</foreign></hi>! Verfehlt ers; ſo wird ers muͤſſen geben laſſen, und ſich nach
+            <lb/>eingenommenem Unterricht weidlich wundern, daß er den Lunten nicht ſelber riechen koͤnnen.
+            <lb/>Mancher wird eben ſo eine Naſe auffwerffen, als
+            <hi rendition="#aq"><persName corresp="#ed_lvw_2xx_qlb">Lutheri</persName></hi> Geſellſchafft, wie er ihr das Ey ſte-
+            <lb/>hend machte, und ſagen: O! iſt es nichts anders als das? ich dachte Wunder, was es ſeyn wuͤr-
+            <lb/>de. Mit ſolchen Anweiſungen gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich ver-
+            <lb/>langet, und wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden. Erfaͤhret man denn,
+            <lb/>daß es lauter <hi rendition="#aq">ordinaire Ingredientien</hi> geweſen, ſo verliehrt man ſchon den
+            <hi rendition="#aq">Reſpect</hi> fuͤr die <hi rendition="#aq">Me-
+            <lb/>dicin</hi>, ob ſie gleich noch ſo gute Wuͤrckung gehabt hat. Das ſind lauter Vorurtheile; man laſſe
+            <lb/>dieſelbe, ſonderlich in der Muſik, fahren, und <hi rendition="#aq">judici</hi>re die Sachen, gewiſſer maſſen, nach keinen an-
+            <lb/>dern <hi rendition="#aq">Principiis</hi>, als nach dem Wohl- oder Ubellaut, die Einrichtung mag kuͤnſtlich oder ſchlecht,
+            <lb/>bunt oder einfaͤltig gerathen; gnug, wenn es gut klingt.
+          </p>
+        </div>
+        <div n="2">
+          <lb/><head>§ 2.</head>
+          <lb/><p xml:id="p2-1" facs="#facs-p307">
+            Geſchaͤhe es nicht andern ehrlichen Leuten zu gefallen, die ſich dieſes Werckleins auch be-
+            <lb/>dienen moͤchten, ich kan verſichern, meine gute Organiſten und ihre Burſche ſolten noch ein weilgen
+            <lb/>zappeln, ehe ſie erfuͤhren, wo Bartold hier den Moſt holet; Jch wuͤrde Anſtand nehmen, ihnen ſo-
+            <lb/>gleich zu ſagen: daß die vierzehn Taͤcte, ſo der Baß vorher ſpielet, Note vor Note in der rechten
+            <lb/>Hand <ref target="#m-456">zu den folgenden dreyzehen Taͤcten nachgeholet</ref>, und nur zum
+            <ref target="#m-903">vierzehnten</ref> und <ref target="#m-920">funffzehnten</ref> ein
+            <lb/>wenig veraͤndert werden koͤñen. Nun wird mein Organiſte dencken, iſt das das ſchoͤne Geheimniß? Das
+            <lb/>iſt ja was ſchlechtes! Habe ichs nicht geſagt, es wuͤrde ſo kommen? Doch ſinge noch keine <hi rendition="#aq">Victo-
+            <lb/>rie</hi>, ehe der Triumph da; laß hoͤren, wie klingt es? Zoͤgere nicht,
+            <hi rendition="#aq"><foreign xml:lang="lat">perge</foreign></hi>, mein lieber,
+            <hi rendition="#aq"><foreign xml:lang="lat">perge</foreign></hi>;
+            <lb/>bedencke die lincke Hand dabey; laß den Baß nicht ſo kahl daher treten; Kanſt du die <hi rendition="#aq">Concor-
+            <lb/>dantien</hi> nicht ſo geſchwinde finden, muſt du wenigſtens Octaven-weiß damit <hi rendition="#aq">procedi</hi>ren, bis
+            <lb/>endlich zur <hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">c</hi> mit Ehren gelanget ſeyn wird.
+          </p>
+        </div>
 
-      <div n="3">
-        <head>§. 3.</head>
-        <p>
-          <ref target="#m-954">Nun sind</ref> noch neun bunte Taͤcte im Basse; und obgleich hin und
-          wieder eine <hi rendition="#aq">Species</hi> ausgelassen, so wird man
-          doch wohl urtheilen, wohin etwan eine Sexte oder <hi rendition="#aq">b</hi>5 gehoͤre.
-          Aber weiter im Text. Was schlaͤgst du denn zum <ref target="#m-1245"><hi rendition="#b">d</hi> und
-          dessen zweyen Viertel-Pausen?</ref> Ja, was zu den <ref target="#m-1265">folgenden</ref>
-          fuͤnff oder sechs Taͤcten? Nimm dirs aus den vorhergehenden, jedoch
-          dißmahl nicht Note vor Note; stolpere auch nicht, ich rathe dirs.
-          Du siehest wohl, daß in den neun Taͤcten, die ich (<hi rendition="#aq"><persName corresp="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih's
-          mir) bunt genennet, <ref target="#m-1110">nach dem sechsten Tact</ref> die <hi rendition="#aq"><foreign xml:lang="fra">Passage</foreign></hi> sich etwas
-          weniges umkehret; solches wird <hi rendition="#aq"><foreign xml:lang="fra">mon Maitre</foreign></hi>
-          auch belieben zu <hi rendition="#aq"><foreign xml:lang="lat">imitir</foreign></hi>en, wenn er an
-          <ref target="#m-1310">den fuͤnfften Tact der sogenannten schlechten Noten koͤmmt</ref>. Kann einer
-          nach diesem die letzten zwoͤlff Taͤcte in der rechten Hand, bey guter
-          <hi rendition="#aq">Proportion</hi>, Tertien- und Sexten-weiß mitnehmen,
-          so wird es zu loben seyn, und von ihm heissen koͤnnen; <hi rendition="#b">Er hat
-          sein Sach schon recht gethan.</hi>
-        </p>
+        <div n="3">
+          <lb/><head>§. 3.</head>
+          <lb/><p xml:id="p3-1" facs="#facs-p307">
+            <ref target="#m-954">Nun ſind</ref> noch neun bunte Taͤcte im Baſſe; und obgleich hin und wieder eine <hi rendition="#aq">Species</hi>
+            <lb/>ausgelaſſen, ſo wird man doch wohl urtheilen, wohin etwann eine Sexte oder <hi rendition="#aq">b5</hi> gehoͤre. Aber
+            <lb/>weiter im Text. Was ſchlaͤgſt du denn zum <ref target="#m-1245"><hi rendition="#aq">d</hi> und deſſen zweyen
+            Viertel-Pauſen?</ref> Ja, was zu
+            <lb/>den <ref target="#m-1265">folgenden</ref> fuͤnff oder ſechs Taͤcten? Nimm dirs aus den vorhergehenden, jedoch dißmahl nicht
+            <lb/>Note vor Note; ſtolpere auch nicht, ich rathe dirs. Du ſieheſt wohl, daß in den neun Taͤcten,
+            <lb/>die ich (<hi rendition="#aq"><persName corresp="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih mirs)
+            bunt genennet, <ref target="#m-1110">nach dem ſechſten Tact</ref> die
+            <hi rendition="#aq"><foreign xml:lang="fra">Paſſage</foreign></hi> ſich etwas we-
+            <lb/>niges umkehret; ſolches wird <hi rendition="#aq"><foreign xml:lang="fra">mon Maitre</foreign></hi>
+            auch belieben zu imitiren, wenn er an <ref target="#m-1310">den fuͤnfften
+            <lb/>Tact der ſogenannten ſchlechten Noten koͤmmt</ref>. Kañ einer nach dieſem die letzten zwoͤlff Taͤcte in
+            <lb/>der rechten Hand, bey guter <hi rendition="#aq">Proportion</hi>, Tertien- und Sexten-weiß mitnehmen, ſo wird es zu lo-
+            <lb/>ben ſeyn, und von ihm heiſſen koͤnnen; <hi rendition="#b">Er hat ſein Sach ſchon recht gethan.</hi>
+          </p>
+          <fw place="bottom" type="catch">Sieben-</fw>
+        </div>
       </div>
-
-
-    </div>
     </body>
   </text>
 </TEI>

@@ -31,11 +31,12 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef meter.unit="4" mnum.visible="false">
+                    <scoreDef mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="ex-lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="3s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>

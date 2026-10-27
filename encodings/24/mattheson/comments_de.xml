@@ -76,98 +76,98 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2058" lry="2524" xml:id="facs-p496">
-      <graphic width="2059px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/496" />
+    <surface ulx="0" uly="0" lrx="2058" lry="2524" xml:id="facs-p496" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/496">
+      <graphic width="2059px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00496/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2005" lry="2522" xml:id="facs-p497">
-      <graphic width="2006px" height="2523px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/497" />
+    <surface ulx="0" uly="0" lrx="2005" lry="2522" xml:id="facs-p497" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/497">
+      <graphic width="2006px" height="2523px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00497/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2019" lry="2530" xml:id="facs-p498">
-      <graphic width="2020px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/498" />
+    <surface ulx="0" uly="0" lrx="2019" lry="2530" xml:id="facs-p498" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/498">
+      <graphic width="2020px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00498/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2002" lry="2513" xml:id="facs-p499">
-      <graphic width="2003px" height="2514px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/499" />
+    <surface ulx="0" uly="0" lrx="2002" lry="2513" xml:id="facs-p499" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/499">
+      <graphic width="2003px" height="2514px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00499/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2043" lry="2516" xml:id="facs-p500">
-      <graphic width="2044px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/500" />
+    <surface ulx="0" uly="0" lrx="2043" lry="2516" xml:id="facs-p500" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/500">
+      <graphic width="2044px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00500/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1996" lry="2528" xml:id="facs-p501">
-      <graphic width="1997px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/501" />
+    <surface ulx="0" uly="0" lrx="1996" lry="2528" xml:id="facs-p501" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/501">
+      <graphic width="1997px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00501/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2051" lry="2524" xml:id="facs-p502">
-      <graphic width="2052px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502" />
+    <surface ulx="0" uly="0" lrx="2051" lry="2524" xml:id="facs-p502" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/502">
+      <graphic width="2052px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00502/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2001" lry="2524" xml:id="facs-p503">
-      <graphic width="2002px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/503" />
+    <surface ulx="0" uly="0" lrx="2001" lry="2524" xml:id="facs-p503" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/503">
+      <graphic width="2002px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00503/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2063" lry="2543" xml:id="facs-p504">
-      <graphic width="2064px" height="2544px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/504" />
+    <surface ulx="0" uly="0" lrx="2063" lry="2543" xml:id="facs-p504" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/504">
+      <graphic width="2064px" height="2544px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00504/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2014" lry="2537" xml:id="facs-p505">
-      <graphic width="2015px" height="2538px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/505" />
+    <surface ulx="0" uly="0" lrx="2014" lry="2537" xml:id="facs-p505" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/505">
+      <graphic width="2015px" height="2538px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00505/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2013" lry="2524" xml:id="facs-p506">
-      <graphic width="2014px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/506" />
+    <surface ulx="0" uly="0" lrx="2013" lry="2524" xml:id="facs-p506" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/506">
+      <graphic width="2014px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00506/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1994" lry="2517" xml:id="facs-p507">
-      <graphic width="1995px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/507" />
+    <surface ulx="0" uly="0" lrx="1994" lry="2517" xml:id="facs-p507" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/507">
+      <graphic width="1995px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00507/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2013" lry="2524" xml:id="facs-p508">
-      <graphic width="2014px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/508" />
+    <surface ulx="0" uly="0" lrx="2013" lry="2524" xml:id="facs-p508" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/508">
+      <graphic width="2014px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00508/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2003" lry="2521" xml:id="facs-p509">
-      <graphic width="2004px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/509" />
+    <surface ulx="0" uly="0" lrx="2003" lry="2521" xml:id="facs-p509" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/509">
+      <graphic width="2004px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00509/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2000" lry="2519" xml:id="facs-p510">
-      <graphic width="2001px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/510" />
+    <surface ulx="0" uly="0" lrx="2000" lry="2519" xml:id="facs-p510" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/510">
+      <graphic width="2001px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00510/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1997" lry="2513" xml:id="facs-p511">
-      <graphic width="1998px" height="2514px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/511" />
+    <surface ulx="0" uly="0" lrx="1997" lry="2513" xml:id="facs-p511" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/511">
+      <graphic width="1998px" height="2514px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00511/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2021" lry="2524" xml:id="facs-p512">
-      <graphic width="2022px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/512" />
+    <surface ulx="0" uly="0" lrx="2021" lry="2524" xml:id="facs-p512" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/512">
+      <graphic width="2022px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00512/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1993" lry="2519" xml:id="facs-p513">
-      <graphic width="1994px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/513" />
+    <surface ulx="0" uly="0" lrx="1993" lry="2519" xml:id="facs-p513" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/513">
+      <graphic width="1994px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00513/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2013" lry="2529" xml:id="facs-p514">
-      <graphic width="2014px" height="2530px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/514" />
+    <surface ulx="0" uly="0" lrx="2013" lry="2529" xml:id="facs-p514" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/514">
+      <graphic width="2014px" height="2530px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00514/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1997" lry="2516" xml:id="facs-p515">
-      <graphic width="1998px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/515" />
+    <surface ulx="0" uly="0" lrx="1997" lry="2516" xml:id="facs-p515" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/515">
+      <graphic width="1998px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00515/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2047" lry="2528" xml:id="facs-p516">
-      <graphic width="2048px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/516" />
+    <surface ulx="0" uly="0" lrx="2047" lry="2528" xml:id="facs-p516" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/516">
+      <graphic width="2048px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00516/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1994" lry="2530" xml:id="facs-p517">
-      <graphic width="1995px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/517" />
+    <surface ulx="0" uly="0" lrx="1994" lry="2530" xml:id="facs-p517" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/517">
+      <graphic width="1995px" height="2531px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00517/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2024" lry="2526" xml:id="facs-p518">
-      <graphic width="2025px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/518" />
+    <surface ulx="0" uly="0" lrx="2024" lry="2526" xml:id="facs-p518" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/518">
+      <graphic width="2025px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00518/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1990" lry="2517" xml:id="facs-p519">
-      <graphic width="1991px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/519" />
+    <surface ulx="0" uly="0" lrx="1990" lry="2517" xml:id="facs-p519" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/519">
+      <graphic width="1991px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00519/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2032" lry="2520" xml:id="facs-p520">
-      <graphic width="2033px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/520" />
+    <surface ulx="0" uly="0" lrx="2032" lry="2520" xml:id="facs-p520" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/520">
+      <graphic width="2033px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00520/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1988" lry="2517" xml:id="facs-p521">
-      <graphic width="1989px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/521" />
+    <surface ulx="0" uly="0" lrx="1988" lry="2517" xml:id="facs-p521" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/521">
+      <graphic width="1989px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00521/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2030" lry="2528" xml:id="facs-p522">
-      <graphic width="2031px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/522" />
+    <surface ulx="0" uly="0" lrx="2030" lry="2528" xml:id="facs-p522" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/522">
+      <graphic width="2031px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00522/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1972" lry="2503" xml:id="facs-p523">
-      <graphic width="1973px" height="2504px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/523" />
+    <surface ulx="0" uly="0" lrx="1972" lry="2503" xml:id="facs-p523" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/523">
+      <graphic width="1973px" height="2504px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00523/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2014" lry="2534" xml:id="facs-p524">
-      <graphic width="2015px" height="2535px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/524" />
+    <surface ulx="0" uly="0" lrx="2014" lry="2534" xml:id="facs-p524" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/524">
+      <graphic width="2015px" height="2535px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00524/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2000" lry="2516" xml:id="facs-p525">
-      <graphic width="2001px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/525" />
+    <surface ulx="0" uly="0" lrx="2000" lry="2516" xml:id="facs-p525" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/525">
+      <graphic width="2001px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00525/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2023" lry="2524" xml:id="facs-p526">
-      <graphic width="2024px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/526" />
+    <surface ulx="0" uly="0" lrx="2023" lry="2524" xml:id="facs-p526" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/526">
+      <graphic width="2024px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00526/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>
@@ -184,11 +184,11 @@
         <div n="1">
         <head>§. 1.</head>
         <p>
-          Bey Anſehung der vorgeſetzten Kreutze dieſes letzten Prob-Stückes fallen mir
+          Bey Anſehung der vorgeſetzten <term xml:id="t_kreuz-1" corresp="#t_kreuz">Kreutze</term> dieſes letzten Prob-Stückes fallen mir
           <lb /><persName corresp="#ed_scp_svx_qlb">Printzens</persName> Worte ein, die er im dritten Capitel des erſten Theils ſeines
           <hi rendition="#aq"><bibl corresp="#ed_pmp_1hl_tlb">Phrynidis</bibl></hi> alſo führet:
           <quote>Es lachte mir das Herz im Leibe, wenn ich im An-
-            <lb />fang des <hi rendition="#aq">Syſtematis</hi> viel <hi rendition="#aq">Signa chromatica</hi> oder ♭ ſähe: ich hielte den Organiſten,
+            <lb />fang des <hi rendition="#aq">Syſtematis</hi> viel <hi rendition="#aq"><term xml:id="t_signaturen-1" corresp="#t_signaturen">Signa chromatica</term></hi> oder ♭ ſähe: ich hielte den Organiſten,
             <lb />der einen ſo gezeichneten General-Baß nicht rein ſpielte, für einen Stümpler;
             <lb />da ich doch ſelbſt ein Ertz-Stümpler war, und nicht wuſte, daß ſo geſetzte Sachen
             <lb />auf keiner Orgel rein geſpielet werden können.
@@ -198,12 +198,12 @@
           <list rend="numbered">
             <item>(1) Daß man gar wol wiſſe, was auf einer Orgel rein geſpielet werden könne,
               <lb />oder nicht,</item>
-            <item>(2) Erfordert man von einem Organiſten auch das Accompagnement
+            <item>(2) Erfordert man von einem Organiſten auch das <term xml:id="t_akkompagnieren-1" corresp="#t_akkompagnieren">Accompagnement</term>
               <lb />auf Clavicymbeln, und ich ſage ungeſcheut, daß ich den Organiſten, der einen ſo
               <lb />gezeichneten General-Baß, wie dieſer iſt, nicht rein auf dem Clavier ſpielet, wo
               <lb />nicht für einen Stümpler, doch für einen ſchlechten Potentaten halte,</item>
             <item>(3) Unter-
-              <lb />ſcheidet man, wie billig, die Fehler einer Orgel, von den Fehlern eines Organiſten,
+              <lb />ſcheidet man, wie billig, die Fehler einer <term xml:id="t_orgel-1" corresp="#t_orgel">Orgel</term>, von den Fehlern eines Organiſten,
               <lb />und ſieht kein Menſch, wie eine übel-geſtimmte Orgel einen übelſpielenden Organi-
               <lb />ſten im geringſten entſchuldigen könne.</item>
           </list>
@@ -216,7 +216,7 @@
         <lb /><head>§. 2.</head>
         <lb /><p>
           Es iſt im <bibl corresp="#ed_bm4_fhl_tlb">Orcheſter, Erſter Eröffnung</bibl>, bey Gelegenheit dieſer chromatiſchen
-          <lb />Tone, pag. 54. und 65. den Meiſtern von groſſer Einbildung geſagt worden, daß
+          <lb />Tone, pag. 54. und 65. den <term xml:id="t_meister-1" corresp="#t_meister">Meiſtern</term> von groſſer Einbildung geſagt worden, daß
           <lb />man ihnen einen Baß vorlegen könne, deſſen fünff, ja zwo erſte Noten, falls dieſel-
           <lb />be ohne Anſtoß getroffen würden, zu ihrem ſonderbaren Lobe gereichen ſollten.
           <lb />Nun bin ich ſeit dem hie und da angezwacket worden, ſolches dereinſt zu bewerckſtel-
@@ -239,7 +239,7 @@
           <lb />aber ſich wircklich in die Schrancken einer Notwendigkeit und einer ernſtlichen For-
           <lb />derung einſchlieſſen laſſen) ſo mag doch ein ſolcher ſchon daraus, als aus einer Klaue,
           <lb />den gantzen Löwen kennen lernen, und ſeinen Geiſt prüfen, ob er noch eine ſchärffere
-          <lb />Probe als die gegenwärtige iſt, auſhalten wolle?
+          <lb /><term xml:id="t_probe-1" corresp="#t_probe">Probe</term> als die gegenwärtige iſt, auſhalten wolle?
         </p>
       </div>
 
@@ -263,18 +263,18 @@
           <lb />und mich von jedem Haluncken auf die Probe ſetzen laſſen müſſe: ſo ſehe doch nicht, was
           <lb />den ſcheelsüchtigen Leuten alles dieſes heiſſen würde. Denn erſtlich ſetze ich zum
           <lb />Grunde, daß einer ſolchen Probe niemand vernünfttiger Weiſe unterworffen ſeyn
-          <lb />kann, als der ſich aufunbedachtſame Art vermiſſt, alles aus dem Stegreiff, ohne Un-
+          <lb />kann, als der ſich aufunbedachtſame Art vermiſſt, alles aus dem <term xml:id="t_ex_tempore-1" corresp="#t_ex_tempore">Stegreiff</term>, ohne Un-
           <lb />terſcheid, bey dem erſten Anblick, wegſpielen zu können. So weit aber gibt man ſich
           <lb />diſſeits nicht ab; ſondern geſtehet gerne, daß, je mehr der Sache nachgeſonnen wird, je
           <lb />unerfahrner man ſich befinde. Es kann auch niemand ſo dencken oder ſprechen, als
           <lb />höchſt-unbedachtſame Menſchen, deren es die Menge gibt, und denen der Kopf zu recht
           <lb />gebracht werden muß. Geſetzt auch, jemand wäre ein bloſſer Verfaſſer musicaliſcher
-          <lb />Schrifften, die allerdings zur Praxi gehören, und lieſſe ſich, nebſt andern unnausſetzl-
+          <lb />Schrifften, die allerdings zur <term xml:id="t_praxis-1" corresp="#t_praxis">Praxi</term> gehören, und lieſſe ſich, nebſt andern unnausſetzl-
           <lb />chen Verrichtungen, die förmliche Einrichtung der Wiſſenſchaft, <hi rendition="#b">Melodien zu
           <lb />machen</hi>, dermaſſen angelegen ſeyn, daß die gehörige Fertigkeit auf dem Clavier eini-
           <lb />ger maſſen dadurch hindan geſetzet würde: wie folgt daraus ein bündiger Schluß,
           <lb />daß andere deßwegen zu entſchuldigen ſind? Es werden tausend Sachen geſetzt, die der
-          <lb />Verfaſſer ſelber zu bewerckſtelligen nicht gebunden ist, noch ſeyn kann. Man mögte ja
+          <lb /><term xml:id="t_komponist-1" corresp="#t_komponist">Verfaſſer</term> ſelber zu bewerckſtelligen nicht gebunden ist, noch ſeyn kann. Man mögte ja
           <lb />wol für einen Haupt-Violiniſten ein Solo verfertigen, das weder Teutſche noch Ita-
           <lb />liäniſche Capellmeiſter zu ſpielen geſchickt wären; dennoch wird es der beſagte Vir-
           <lb />tuoſe thun. Es würde einer gebeten, etwas ſonderbares auf Wind-Inſtrumente zu
@@ -311,7 +311,7 @@
           <lb />ten ſollte, man noch endlichſt damit fort zu kommen, und, der ſchlechteſte nicht
           <lb />zu ſeyn, hoffen wollte. Es ist ja wol niemand ſo einfältig, daß er ſich von Hud-
           <lb />lern weiß machen laſſe, es ſey die <bibl corresp="#ed_pnf_pcb_5lb">Organiſten-Probe</bibl> etwa wie die Platoniſche
-          <lb />Republick. Mit meiner unſchuldigen <name type="musicalWork" corresp="#ed_xlx_gfb_5lb">Sonate fürs Clavier</name> habe ſchon dergleichen
+          <lb />Republick. Mit meiner unſchuldigen <name type="musicalWork" corresp="#ed_xlx_gfb_5lb"><term xml:id="t_sonate-1" corresp="#t_sonate">Sonate</term> fürs Clavier</name> habe ſchon dergleichen
           <lb />Vorfälle erlebet, da es erſtlich hieß: Ich könne ſie ſelber nicht ſpielen; und wie
           <lb />dieſe Unwahrheit endlich, bey Gelegenheit öffentlicher Concerte, vor vielen Zuhö-
           <lb />rern zu Schanden wurde, wüſten die Tropffen ſonſt nichts zu ſagen, als: Ich hät-
@@ -406,16 +406,16 @@
           <lb />baren Sachen abgeben wird; und mit zween derſelben nähme ichs allemahl im Spie-
           <lb />len auf, ſowohl als im Schreiben; wenn auch noch ihrer vier dazu kamen. Und
           <lb />was ich ſolcher Geſtalt ſchreibe, wie <abbr>z. E.</abbr> dieſe Organiſten-Probe, ist ja keine bloſſe
-          <lb />Theorie, ſondern eine höhere Praxis, als die im Spielen oder Setzen beſtehet:
+          <lb /><term xml:id="t_theoretisch-1" corresp="#t_theoretisch">Theorie</term>, ſondern eine höhere Praxis, als die im Spielen oder Setzen beſtehet:
           <lb />denn alle meine Regeln ſind aus einer ehemahligen groſſen Uebung hergenommen,
           <lb />und gehen auch wieder dahin. Zwar mögte es eben niemand ſonderlich befremden,
-          <lb />wenn etwan ein armes <name type="musicalWork" corresp="#ed_rzg_cx1_5lb">Dutzend Flöten-Sonaten</name>, davon doch im <bibl corresp="#ed_ay3_5w1_5lb">musikaliſchen Pa-
+          <lb />wenn etwan ein armes <name type="musicalWork" corresp="#ed_rzg_cx1_5lb">Dutzend <term xml:id="t_virtuose-1" corresp="#t_virtuose">Flöten-Sonaten</term></name>, davon doch im <bibl corresp="#ed_ay3_5w1_5lb">musikaliſchen Pa-
           <lb />trioten</bibl>, pag. 232. ſo gar von
           <hi rendition="#b"><placeName ref="https://www.geonames.org/3067696">Praag</placeName></hi> aus,
           ein gutes Zeugnis ſtehet, nachdem es
           <lb />weit und breit über zehn Jahr nützlich gebraucht worden, endlich etwas unbrauchbar
           <lb />zu werden anfangen ſollte: in Betracht die lieben Noten-Wercke (Fugen und Vor-
-          <lb />ſchrifften ausgenomen) gemeiniglich nur das Alter eines Pferdes zu erreichen pflegen,
+          <lb />ſchrifften ausgenomen) gemeiniglich nur das <term xml:id="t_lebensdauer_von_notenwerken-1" corresp="#t_lebensdauer_von_notenwerken">Alter</term> eines <term xml:id="t_pferde-1" corresp="#t_pferde">Pferdes</term> zu erreichen pflegen,
           <lb />welches, wenn es ſein zehntes Jahr zurück gelegt hat, je länger je gelbere Zähne be-
           <lb />kömmt. Hiernächſt würde ich auch, nach den Regeln einer genauen Beſcheiden-
           <lb />heit, wol eben nicht läugnen, daß
@@ -517,8 +517,8 @@
         <lb />
         <p>
           Damit aber wiederum zum Wercke geſchritten werde, muß ich ben dieſem letzten E-
-          <lb />xempel das Bedencken nicht unerinnert laſſen, welches mir, wegen der Notirnug, abſon-
-          <lb />derlich bey dergleichen Tonen, aufſtöſſt. Da ſtelle nur zwar feſt, daß (nächft H dur, Cis
+          <lb />xempel das Bedencken nicht unerinnert laſſen, welches mir, wegen der <term xml:id="t_notation-1" corresp="#t_notation">Notirnug</term>, abſon-
+          <lb />derlich bey dergleichen <term xml:id="t_ton-1" corresp="#t_ton">Tonen</term>, aufſtöſſt. Da ſtelle nur zwar feſt, daß (nächft H dur, Cis
           <lb />moll, Gis dur, und B moll) dieſe viere, ſo wie ſie in der Ordnung folgen, die ſchwer-
           <lb />ſten ſeyn mögen, nehmlich: Fis dur,Gis moll, Dis moll, und endlich Cis dur.
           <lb />Es würde ſich aber vieles dabey leichter thun laſſen, wenn man nur Zeichen und
@@ -544,7 +544,7 @@
       <div n="7">
         <lb /><head>§. 7.</head>
         <lb /><p>
-          Nun mögte zwar wol ſolche Ungeſchicklichkeit bey einem Recitativ nicht ſo
+          Nun mögte zwar wol ſolche Ungeſchicklichkeit bey einem <term xml:id="t_rezitativ-1" corresp="#t_rezitativ">Recitativ</term> nicht ſo
           <fw place="bottom" type="catch">ſehr</fw>
           <pb facs="#facs-p509" n="447" />
 
@@ -560,7 +560,7 @@
         <lb /><p>
           Es haben ſchon, nebſt verſchiedenen andern, ſowol <persName corresp="#ed_knv_rsx_qlb">Kircher</persName>
           als <persName corresp="#ed_os2_1vx_qlb">Buliowſky</persName>,
-          <lb />zwar nicht ihre eigene, doch die vermeynten vielfältigen Mängel unſers Claviers wahrgenommen,
+          <lb />zwar nicht ihre eigene, doch die vermeynten vielfältigen Mängel unſers <term xml:id="t_klavier-1" corresp="#t_klavier">Claviers</term> wahrgenommen,
           <lb />und denſelben, durch drey Ordnungen der Palmulen, zu Hülffe
           <lb />zu kommen geſucht, da, anſtatt der zwölff Stuffen, womit ſich unſere Oktave bis-
           <lb />her behilfft, neunzehn ſeyn müsten, nemlich: ein Tangent zwiſchen h und c, einer
@@ -678,13 +678,13 @@
           Andere habens anfnoch andre Arten vorgeſchlagen und eingetheilet; aber ich
           <lb />ſage rund heraus, daß ich von allen dieſen Erfindungen ein gehorſamer Diener bin,
           <lb /><abbr>d.i.</abbr> nach dem heutigen Hof-Styl zu reden: ich halte gar nichts davon, und wenn
-          <lb />ſie auch noch ſo vollkommen wären. Iſt doch unfern unvollkommenen Ohren nichts
+          <lb />ſie auch noch ſo vollkommen wären. Iſt doch unfern <term xml:id="t_vollkommenheit-1" corresp="#t_vollkommenheit">unvollkommenen</term> <term xml:id="t_gehoer-1" corresp="#t_gehoer">Ohren</term> nichts
           <lb />vollkommenes nöthig, ſondern vielmehr gewiſſer maſſen zuwieder. Man hat,
           <lb />aller Vernünffteley ungeachtet, noch biß dieſen Tag keine Aenderung, mit Beſtand
           <lb />und allgemeiner Aufnahme, hierunter eingeführet; ſondern wir folgen noch immer
           <lb />der alten Einrichtung. Es läſſt ſich auch dieſelbe, vermittelſt einer geſchickten Tem-
           <lb />peratur (ob ſie eben gleich oder ungleich ſeyn ſoll, will ich nicht ſagen) unſern Ohren
-          <lb />gar leidlich düncken; aber die Augen, wovon hier eigentlich die Frage iſt, und durch
+          <lb />gar leidlich düncken; aber die <term xml:id="t_augen-1" corresp="#t_augen">Augen</term>, wovon hier eigentlich die Frage iſt, und durch
           <lb />deren Canal unſere ſpielende Finger gleichſam ihren gemeſſenen, ſchrtfftlichen Be-
           <lb />fehl empfangen, geben es nicht ſo guten Kauffs.
         </p>
@@ -695,9 +695,9 @@
         <p>
           Es ſtehet wol zu vermuthen, daß nach etlichen hundert Jahren, falls dieſe
           <lb />Welt noch ſo lange im Stande bleibet, die Componiſten und Virtuoſen das Cis
-          <lb />dur, B moll etc. eben ſo leicht abfertigen werden, als unſere Dorff-Organiſten
-          <lb />ihr C dur, welches ſchier aus der Mode zu ſeyn ſcheinet, und heutiges Tages eben
-          <lb />ſo ſelten, als vormahls häuffig, angetroffen wird. Es iſt auch mit den Tonen ei-
+          <lb />dur, B moll etc. eben ſo leicht abfertigen werden, als unſere <term xml:id="t_dorforganisten-1" corresp="#t_dorforganisten">Dorff-Organiſten</term>
+          <lb />ihr <term xml:id="t_c_dur-1" corresp="#t_c_dur">C dur</term>, welches ſchier aus der Mode zu ſeyn ſcheinet, und heutiges Tages eben
+          <lb />ſo ſelten, als vormahls häuffig, angetroffen wird. Es iſt auch mit den <term xml:id="t_ton-2" corresp="#t_ton">Tonen</term> ei-
           <lb />niger maſſen eben ſo bewandt, als mit andern Dingen, und <note
               n="(f)" place="foot">
               <hi rendition="#aq">
@@ -740,12 +740,12 @@
         <lb /><head>§. 13.</head>
         <p>
           Nun habe ich zwar, in der <bibl corresp="#ed_pnf_pcb_5lb">erſten Auflage dieſes Wercks</bibl>, um den Nachkommen
-          <lb />die Notirung einiger Tone deſto leichter zu machen, das Mittel zur Befriedigung
+          <lb />die <term xml:id="t_notation-2" corresp="#t_notation">Notirung</term> einiger Tone deſto leichter zu machen, das Mittel zur Befriedigung
           <lb />der Augen, mit dem nicht unbekannten einfachen Kreutzlein (x), Statt des zwey-
           <lb />fachen Doppel-Kreutzes (##), deſſen man ſich hier bedienet hat, wolmeynend vor-
           <lb />ſchlagen, und der Unförmlichkeit dieſer letzten Bezeichnung dadurch abhelffen wol-
           <lb />len: nicht, als ob ſolches was neues ſey, ſondern, weil es noch beyweitem nicht
-          <lb />ſo ſtarck, als die zwey Kreutze, eingeführet iſt, und zu wünſchen ſtünde, daß man
+          <lb />ſo ſtarck, als die zwey <term xml:id="t_kreuz-2" corresp="#t_kreuz">Kreutze</term>, eingeführet iſt, und zu wünſchen ſtünde, daß man
           <lb />ſich einmahl darüber recht vergliche. Denn bisher hat es mit dieſer Uneinigkeit
           <lb />noch ſoviel nicht zu ſagen, angceehen die Fälle ſelten vorkommen; aber weil es gantz gewiß
           <lb />geſchehen wird, daß ſie häuffiger nach dieſen Zeiten aufſtoſſen, ſo wäre wol eine fe-
@@ -851,7 +851,7 @@
           <lb />braven Mann, daß ich ihm ſeine angeführten Antiquitäts-Gründe wiederlegen
           <lb />ſollte, und will es lediglich auf des Leſers Urtheil ankommen laſſen; ob es gleich
           <lb />nichts unerhörtes wäre, ein altes Zeichen in einer neuen Deutung zu gebrauchen.
-          <lb />Wir haben <abbr>z. E.</abbr> das Doppel-Kreutz, oder die chromatiſche Dieſin #: von der-
+          <lb />Wir haben <abbr>z. E.</abbr> das <term xml:id="t_kreuz-3" corresp="#t_kreuz">Doppel-Kreutz</term>, oder die chromatiſche Dieſin #: von der-
           <lb />ſelben meynet <persName corresp="#ed_jlh_wvy_qlb">Zarlinus</persName>,
           <note n="(i)" place="foot">
             <hi rendition="#i">Zarlin. Vol. I. pag. 169.</hi>
@@ -878,7 +878,7 @@
         <lb /><p>
           Eben ein ſolcher Zwieſpalt regieret auch bisher in einem andern Stücklein der
           <lb />Notirung, da viele vornehme Componiſten unter uns es gar nicht gelten laſſen wol-
-          <lb />len, daß ein h, oder ein viereckiges b, geſetzet werde, wenn ein erhöheter oder er-
+          <lb />len, daß ein h, oder ein <term xml:id="t_aufloesungszeichen-1" corresp="#t_aufloesungszeichen">viereckiges b</term>, geſetzet werde, wenn ein erhöheter oder er-
           <lb />niedrigter Klang wiederum in ſeine gewöhnliche Stelle treten ſoll. Denn ſie ſe-
           <lb />tzen an deſſen Statt, noch immer das hergebrachte runde b, wenns hinunter gehet,
           <lb />oder das #, wenns hinauf ſteiget. Ich will auch deſwegen mit niemand Händel
@@ -1002,7 +1002,7 @@
           <lb />den Linien, gleich das eine ♯, von dem andern auf derſelben Stelle befindlichen,
           <lb />mittelſt eines Durſchnitts, abſcheidet und trennet. Mit dem ♭ hat er auch eine ſol-
           <lb />che Verdoppelung, und es kann die Sache in Erwegung gezogen werden. Seine
-          <lb />Sätze, bey welchen er ſich ebenfalls des einfachen Kreutzes, wieder den <persName corresp="#ed_tj3_cwx_qlb">Marcelliſchen</persName>
+          <lb />Sätze, bey welchen er ſich ebenfalls des einfachen <term xml:id="t_kreuz-4" corresp="#t_kreuz">Kreutzes</term>, wieder den <persName corresp="#ed_tj3_cwx_qlb">Marcelliſchen</persName>
           <lb />Sinn, bedienet, ſehen <abbr>Z.E.</abbr> ſo aus:
 
           <figure type="notatedMusic"></figure>
@@ -1046,18 +1046,18 @@
       <div n="23">
         <lb /><head>§. 23.</head>
         <p>
-          <lb />Mancher wird dieſen anhang für Grillenfängerey
+          <lb />Mancher wird dieſen anhang für <term xml:id="t_grillenfaengerei-1" corresp="#t_grillenfaengerei">Grillenfängerey</term>
           <note place="foot" n="*)">
             <lb />Wenn der oberwehnte Staarſtecher mir doch die Ehre thut, daß er mich endlich für einen
-            <lb />muſicaliſchen Grillenfänger und <hi rendition="#aq">Theoreticum</hi> mit ſchlentern laſſen will, ſo wird er wol
+            <lb />muſicaliſchen Grillenfänger und <hi rendition="#aq"><term xml:id="t_theoretisch-2" corresp="#t_theoretisch">Theoreticum</term></hi> mit ſchlentern laſſen will, ſo wird er wol
             <lb />ſchwerlich wiſſen, welcher Geſtalt in denen Leipziger Zeitungen von gelehrten Sachen be-
             <lb />reits <date when="1719">vor 13. Jahren</date> gerade das Gegentheil behauptet worden iſt. Es müste derjenige
             <lb />auch einen wunderlichen Begriff von der muſicaliſchen Theorie oder bloſſen Betrach-
             <lb />tung haben, der <abbr>z. E.</abbr> dieſe <hi rendition="#b">Groſſe General-Baß-Schule</hi> nicht hauptsächlich
             <lb />für ein practiſches Werck halten wollte, das durch nützlichen Erwegen zur wircklichen
-            <lb />Ausübung gedeiet.
+            <lb /><term xml:id="t_ausuebung-1" corresp="#t_ausuebung">Ausübung</term> gedeiet.
           </note>
-          und Kleinigkeiten, oder auch
+          und <term xml:id="t_kleinigkeiten-1" corresp="#t_kleinigkeiten">Kleinigkeiten</term>, oder auch
           <lb />für überflüſſig achten, und dabey glauben, man könne die Zeit wol mit wichtigern
           <lb />betrachtungen zu bringen ; allein, ein rechtſchaffener Liebhaber und ſeiner
           <lb />Wiſſenſchaft Befliſſener achtet es für keine Kleinigkeit, wenn er auch nur
@@ -1083,7 +1083,7 @@
           groſſen Mann:
           <quote type="translation" corresp="#morhof-quote" xml:id="morhof-quote-trans">
             <hi rendition="#b">Sollten ſich Leute finden,
-            <lb /> die ſolche Kleinigkeiten für verächtlich hielten; ſo mögen ſie wol wiſ-
+            <lb /> die ſolche <term xml:id="t_kleinigkeiten-2" corresp="#t_kleinigkeiten">Kleinigkeiten</term> für verächtlich hielten; ſo mögen ſie wol wiſ-
             <lb />ſen, daß nichts klein oder geringe ſeyn könne, welches mit dem Vor-
             <lb />theil der Jugend verbunden und verknüpfet iſt.</hi>
           </quote>
@@ -1104,22 +1104,22 @@
         <lb /><head>§. 24.</head>
         <p>
           <lb />Da mir übrigens vor einiger Zeit berichtet werden wollen, ob hätte ein
-          <lb />gewiſſer Freund in <placeName ref="https://www.geonames.org/6269131">Engeland</placeName> ſich ein ſo genannten chromatiſches Clavier verferti-
+          <lb />gewiſſer Freund in <placeName ref="https://www.geonames.org/6269131">Engeland</placeName> ſich ein ſo genannten chromatiſches <term xml:id="t_klavier-2" corresp="#t_klavier">Clavier</term> verferti-
           <lb />gen laſſen, darauf er Wunder-Dinge machen ſoll; ſo kann nicht umhin, mich dar-
           <lb />über zu erfreuen, und zu wünſchn, daß er viele Nachfolger haben möge. Wie
           <lb />ſolches Jnſtrument aber eignetlich beſchaffen ſey, davon habe keinen rechten
           <lb />Begriff: zumal mir der Nahme eines chromatiſchen Claviers kein Genügen ge-
-          <lb />ben kann. Denn alle unſere Claviere haben ſchon die chromatiſche Octaven. Jch
+          <lb />ben kann. Denn alle unſere Claviere haben ſchon die chromatiſche <term xml:id="t_oktave-1" corresp="#t_oktave">Octaven</term>. Jch
           <lb />zweifle dannenhero, ob es in enharmoniſche
           <note place="foot" n="c)">
             <lb />Wenn ich dieſes Wort, an ſtatt Palmul, Taxill, Tangent etc. einführe, und von dem ver-
-            <lb />bo <hi rendition="#b">taſten</hi>, <hi rendition="#aq">toucher</hi>, herleite,
+            <lb />bo <hi rendition="#b"><term xml:id="t_tasten-1" corresp="#t_tasten">taſten</term></hi>, <hi rendition="#aq">toucher</hi>, herleite,
             drückt es das Ding beſſer aus, als alle andre Wörter, und
             <lb />kömmt auch mit den ausländiſchen Benennungen der Taſtaturen überein.
           </note>
           <hi rendition="#b">Taſten</hi>, oder gar in lauter Com-
           <lb />mata habe zertheilet werden können, weil ſolches einen groſſen Raum erfordern
-          <lb />würde. Eine commatiſche Eintheilung, davon oben ſchon etwas erwehnet worden,
+          <lb />würde. Eine <term xml:id="t_kommatische_einteilung-1" corresp="#t_kommatische_einteilung">commatiſche Eintheilung</term>, davon oben ſchon etwas erwehnet worden,
           <lb />will ich doch, denen zu Gefallen, die gar keinen Begriff von der Sache haben, all-
           <lb />hie auf das gröbſte entwerffen. Jch ſage billig auf das gröbſte, weil mir nicht un-
           <fw place="bottom" type="catch">be-</fw>
@@ -1147,7 +1147,7 @@
         <lb /><head>§. 25.</head>
         <p>
           <lb />So viel Strichlein als nun hier befindlich ſind, ſo viel Taſten müste ein Werck
-          <lb />haben, das commatiſch heiſſen wollte. Und wenn, nach ſolchem Entwurff, 53.
+          <lb />haben, das <term xml:id="t_kommatische_einteilung-2" corresp="#t_kommatische_einteilung">commatiſch</term> heiſſen wollte. Und wenn, nach ſolchem Entwurff, 53.
           <lb />Grade in eine Octave kämen, ſo müste die gantze Griff-Tafel, von vier Octaven,
           <lb />welche unſer gebräuchliches Clavier aufweiſet, in weniger nicht, als in 112. Theil-
           <lb />gen zerſchnitten werden. Das würde in einem kleinen Raum thun, groſſe
@@ -1182,7 +1182,7 @@
               <bibl corresp="#ed_mgq_2wb_5lb"><hi rendition="#i">Zarl.</hi> Volum. I. Inſtit. harmon. pag. 172.</bibl>
             </hi>
           </note>
-          ein ſo genannte <hi rendition="#aq">Grauecembalum</hi> vor-
+          ein ſo genannte <hi rendition="#aq"><term xml:id="t_cembalo-1" corresp="#t_cembalo">Grauecembalum</term></hi> vor-
           <lb />ſtellig macht und abmahlet, daß er ſich Anno <hi rendition="#aq"><date when="1548">1548.</date></hi> zu
           <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>, von Meiſter
           <lb /><hi rendition="#aq"><persName corresp="#ed_mcb_nwb_5lb">Domenico Peſareſe</persName></hi>,
@@ -1204,7 +1204,7 @@
        <div n="27">
          <lb /><head>§. 27.</head>
          <p>
-           <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, wenn er von dem enharmoniſchen Geſchlecht
+           <lb /><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi>, wenn er von dem <term xml:id="t_enharmonisches_geschlecht-1" corresp="#t_enharmonisches_geschlecht">enharmoniſchen</term> Geſchlecht
            <note place="foot" n="f)">
             <hi rendition="#aq">
               <bibl corresp="#ed_h4c_wwb_5lb">de Muſ. Libr. III. cap. 8. pag. 126. 127.</bibl>
@@ -1225,7 +1225,7 @@
                 <abbr>Vid.</abbr> <choice><abbr>ej.</abbr><expan>ejusdem</expan></choice> <bibl corresp="#ed_h4c_wwb_5lb">Lib. III. de Muſ. cap. 27. pag. 166. circa med.</bibl>
               </hi>
            </note>
-           daß man der andern Subſemitonen, wie ſie mit Unfug
+           daß man der andern <term xml:id="t_subsemitonien-1" corresp="#t_subsemitonien">Subſemitonen</term>, wie ſie mit Unfug
            <lb />und auf verderbte Art genennet werden, gar wol entbehren könne; allein, zwe-
            <lb />en müste man doch nothwendig in jeder Octave hinzu thun, nemlich: eines bey
            <lb />dem <hi rendition="#b">dis</hi>, das andere aber bey dem <hi rendition="#b">gis</hi>, damit, wie er
@@ -1280,8 +1280,8 @@
             Man muß hier nicht die ſo genannten <hi rendition="#aq">Clavecins brisés</hi> verſtehen, die nur deſwegen ſo genannt
             <lb />werden, weil man ſie zuſammen legen, und auf Reiſen mit ſich führen kann.
           </note>
-          Griff-Taffeln gehalten haben:
-          <lb />ungeachtet es das Anſehen gewinnet, als hätten ſie die rechte Temperatur noch nicht
+          <term xml:id="t_klavier-3" corresp="#t_klavier">Griff-Taffeln</term> gehalten haben:
+          <lb />ungeachtet es das Anſehen gewinnet, als hätten ſie die rechte <term xml:id="t_temperatur-1" corresp="#t_temperatur">Temperatur</term> noch nicht
           <lb />getroffen. <hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> hatte dreierley Wege, ſein Comma zu theilen, dabey denn hal-
           <lb />be, dritten, viertel und ſiebtel herhalten muſten. <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> aber blieb bei den ſieben Theilgen
           <lb />allein, nach Maßgebung der ſieben diatoniſchen Stuffen. Jeder hat ſeine Urſachen,
@@ -1337,7 +1337,7 @@
             <lb />coeptum eſt, in quo reperitur omnis tonus in partes quinque diviſus.</hi> Der groſſe halbe
             <lb />Ton hat drey, und der kleine zwo Taſten. <hi rendition="#b"><persName corresp="#ed_rtv_wrx_qlb">Henfling</persName></hi>
             giebt zwar dem kleinen Ton fünff Theilgen,
-            und der gantzen Octave 38, welche er abermahl in 81 kleine Abſchnitte, oder Commata zerglie-
+            und der gantzen Octave 38, welche er abermahl in 81 kleine Abſchnitte, oder <term xml:id="t_kommatische_einteilung-3" corresp="#t_kommatische_einteilung">Commata</term> zerglie-
             <lb />dert; allein er ſetzt auſdrücklich dabey, man könne ſolche Einrichtung auf keinem Jnſtrument
             <lb />zur Ausübung bringen, ſondern es komme auf eine Temperatur an. <hi rendition="#aq"><abbr>vid.</abbr> <bibl corresp="#ed_wnr_txb_5lb">Miſcell. Berol. Vol.
             <lb />I. pag. 280</bibl></hi>.
@@ -1378,8 +1378,8 @@
             <persName>P. de Thyard</persName> de la Mus. p. 8. 9.
           </note>
           hundert oder tauſend ſo genannte Subſemitone in
-          <lb />ein Clavier machte, ſo wird doch die Zuſammenbindung der Harmonie unvollkom-
-          <lb />men und lahm ſeyn und bleiben. Jch bin auch, mit Unterwerffung an diejenigen, die
+          <lb />ein Clavier machte, ſo wird doch die Zuſammenbindung der Harmonie <term xml:id="t_vollkommenheit-2" corresp="#t_vollkommenheit">unvollkom-
+          <lb />men</term> und lahm ſeyn und bleiben. Jch bin auch, mit Unterwerffung an diejenigen, die
           <lb />klüger ſind, als ich, eben derſelben Meynung, und pflichte den Worten obgedachten Ver-
           <lb />faſſers bey, die er kurtz vorher anführet, alſo:
           <hi rendition="#b">
@@ -1387,7 +1387,7 @@
             <lb />lich geordnet, und unſer Gemüth alſo zugerichtet, daß es mit einer guten
             <fw type="catch" place="bottom">Tem-</fw>
             <pb facs="#facs-p525" n="463"/>
-            Temperatur zufrieden iſt; ja, GOtt hat alles, was in der Natur iſt, in die
+            <term xml:id="t_temperatur-2" corresp="#t_temperatur">Temperatur</term> zufrieden iſt; ja, GOtt hat alles, was in der Natur iſt, in die
             <lb />Temepratur geſetzt, warum wollten wir dieſelbe aus der Muſic ver-
             <lb />bannen und verwerffen, zumahl es nicht anders ſeyn kann.
           </hi>
@@ -1420,25 +1420,25 @@
           derſelben nur das gehörige oder überzeichnete angeſchlagen werde. Viele
           <lb />Künſte bey dergleichen Tonen ſehen zu laſſen, leidet der Umſtand bishero nicht; jedennoch könnte bey den
           <lb />Schlüſſen, als nehmlich, im
-          <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fünfften, ſechzehnten, und fünff und dreiſſigſten Tact</ref>, etwas gebrochenes gar
-          <lb />zierlich angebracht werden. Jch will es aber, wie durchgehends alle ſolche Auſzierungen und Schmü-
-          <lb />ckungen, nicht als ein nothwendig erfordertes Stück bey einem gewöhnlichen General-Baß, ſondern als
+          <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fünfften, ſechzehnten, und fünff und dreiſſigſten Tact</ref>, etwas <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">gebrochenes</term> gar
+          <lb />zierlich angebracht werden. Jch will es aber, wie durchgehends alle ſolche <term xml:id="t_auszierung-1" corresp="#t_auszierung">Auſzierungen</term> und Schmü-
+          <lb />ckungen, nicht als ein nothwendig erfordertes Stück bey einem gewöhnlichen <term xml:id="t_generalbass-1" corresp="#t_generalbass">General-Baß</term>, ſondern als
           <lb />eine beliebte und artige Zugabe bey der Probe, bey der Uebung, und bey erſehener Gelgenheit, betrachtet
           <lb />haben, weil ich völlig in dieſem Stück mit <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> übereinſtimme, da er ſich alſo heraus läſſt:
           <quote type="translation">
             <lb />Wenn die Bäſſe nicht mit vielen Noten überhäuffet ſind, ſondern, nach des Spielers Sinn, gar zu ſehr
             <lb />ſchleppen und zögern, mag er wol andre Noten hinzu thun, und mehr Figuren hervor bringen; da-
             <lb />fern er nur gewiß verſichert iſt, daß ſeine Zuſaätze der Melodie, inſonderheit aber der ſingenden Stim-
-            <lb />me keinen nachtheil bringen. Denn der General-Baß iſt zu anders nichts verordnet, als dem Sän-
-            <lb />ger Beiſtand zu leiſten; nicht aber deſſelben Beſtreben, durch ein unzeitiges Geklängel, zu hindern, oder
-            <lb />zu verſtellen. Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes Concert von Vir-
+            <lb />me keinen nachtheil bringen. Denn der <term xml:id="t_generalbass-2" corresp="#t_generalbass">General-Baß</term> iſt zu anders nichts verordnet, als dem <term xml:id="t_saenger-1" corresp="#t_saenger">Sän-
+            <lb />ger</term> Beiſtand zu leiſten; nicht aber deſſelben Beſtreben, durch ein unzeitiges Geklängel, zu hindern, oder
+            <lb />zu verſtellen. Es giebt Leute, die ſo viel von ſich ſelbſt halten, daß ſie glauben, ein gantzes <term xml:id="t_konzert-1" corresp="#t_konzert">Concert</term> von Vir-
             <fw type="catch" place="bottom">tuoſen</fw>
             <pb facs="#facs-p526" n="464" />
 
             <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſauer werden, vor allen andern hervorzuragen.
-            <lb />Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, verbrämen
+            <lb />Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, <term xml:id="t_generalbass-3" corresp="#t_generalbass">verbrämen</term>
             <lb />alles hinten und vorn, und bringen hunderterley Dinge an, die vielleicht an und für ſich ſelbſt ſehr
-            <lb />ſchön ſind, aber dennoch zur Unzeit kommen, und dem Concert überaus ſchädlich fallen, indem ſie
+            <lb />ſchön ſind, aber dennoch zur Unzeit kommen, und dem <term xml:id="t_konzert-2" corresp="#t_konzert">Concert</term> überaus ſchädlich fallen, indem ſie
             <lb />ſolchen Umſtänden zu nichts anders dienen, als die Kunſt-reiche Ruhmſucht und Eitelkeit des Spielers
             <lb />zu bezeugen. Wer demnach in einem Concert ſpielet, muß es ſo machen, da0 er der gantzen Verſamm-
             <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage. Denn,

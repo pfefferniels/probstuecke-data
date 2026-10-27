@@ -29,8 +29,8 @@
           This customization covers the TEI documents of Probstücke Digital that are not
           transcriptions of Mattheson's prints: the English translations of the commentary
           (<ident>comments_en.xml</ident>), the notes on the realisations by other musicians,
-          the editorial guidelines, the About text, the indices of persons, literature and
-          musical works, and some working files. The transcriptions of the prints of 1719 and
+          the editorial guidelines, the About text, the indices of persons, literature,
+          musical works and terms, and some working files. The transcriptions of the prints of 1719 and
           1731 use the customization of the DTA Base Format (<ident>basisformat_customized.odd</ident>),
           the transcriptions of lessons use <ident>lesson_transcription.odd</ident>.
         </p>
@@ -63,8 +63,8 @@
           <moduleRef key="transcr" include="facsimile fw surface zone"/>
           <!-- sourceDesc of the realisation by J.-C. Dijoux -->
           <moduleRef key="spoken" include="recording recordingStmt"/>
-          <!-- guidelines -->
-          <moduleRef key="tagdocs" include="att code egXML gi tag"/>
+          <!-- guidelines; listRef: index of terms -->
+          <moduleRef key="tagdocs" include="att code egXML gi listRef tag"/>
 
           <elementSpec ident="TEI" mode="change">
             <attList>
@@ -77,6 +77,7 @@
                   <valItem ident="persons"><desc versionDate="2026-10-27" xml:lang="en">index of persons</desc></valItem>
                   <valItem ident="bibliography"><desc versionDate="2026-10-27" xml:lang="en">index of literature</desc></valItem>
                   <valItem ident="musical-works"><desc versionDate="2026-10-27" xml:lang="en">index of musical works</desc></valItem>
+                  <valItem ident="terms"><desc versionDate="2026-10-27" xml:lang="en">index of terms</desc></valItem>
                   <valItem ident="realization"><desc versionDate="2026-10-27" xml:lang="en">notes on a realisation</desc></valItem>
                 </valList>
               </attDef>

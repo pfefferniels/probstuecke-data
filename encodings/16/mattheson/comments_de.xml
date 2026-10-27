@@ -76,21 +76,21 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="2019" lry="2525" xml:id="facs-p456">
-          <graphic width="2019px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/456"/>
+      <surface ulx="0" uly="0" lrx="2019" lry="2525" xml:id="facs-p456" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/456">
+          <graphic width="2019px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00456/full/full/0/default.jpg"/>
           <zone ulx="111" uly="228" lry="1080" lrx="2011" xml:id="facsZone-p1-1"/>
           <zone ulx="114" uly="1059" lry="1645" lrx="2008" xml:id="facsZone-p2-1"/>
           <zone ulx="114" uly="1612" lry="2316" lrx="2011" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="2001" lry="2520" xml:id="facs-p457">
-          <graphic width="2001px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/457"/>
+      <surface ulx="0" uly="0" lrx="2001" lry="2520" xml:id="facs-p457" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/457">
+          <graphic width="2001px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00457/full/full/0/default.jpg"/>
           <zone ulx="8" uly="181" lry="353" lrx="1930" xml:id="facsZone-p3-1-2"/>
           <zone ulx="8" uly="323" lry="1048" lrx="1937" xml:id="facsZone-p4-1"/>
           <zone ulx="5" uly="990" lry="1895" lrx="1943" xml:id="facsZone-p5-1"/>
           <zone ulx="15" uly="1846" lry="2315" lrx="1955" xml:id="facsZone-p6-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1989" lry="2518" xml:id="facs-p461">
-          <graphic width="1989px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/461"/>
+      <surface ulx="0" uly="0" lrx="1989" lry="2518" xml:id="facs-p461" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/461">
+          <graphic width="1989px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00461/full/full/0/default.jpg"/>
           <zone ulx="12" uly="248" lry="1504" lrx="1937" xml:id="facsZone-p7-1"/>
           <zone ulx="18" uly="1462" lry="2354" lrx="1940" xml:id="facsZone-p8-1"/>
       </surface>

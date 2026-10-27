@@ -31,20 +31,37 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.mode="minor" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="2s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="3" shape="F" />
                                 <keySig sig="2s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000457500404">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                        <staffDef n="2">
+                                            <clef line="4" shape="F" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000000457500404" label="39">
                             <staff n="1">
                                 <layer>
                                     <space xml:id="ex-000352642876" dur="4" />
@@ -77,7 +94,7 @@
                             </harm>
                             <tie xml:id="ex-001078877846" startid="#ex-001713630028" endid="#ex-001517531065" />
                         </measure>
-                        <measure corresp="#measure-0000002006850497" right="invis" metcon="false">
+                        <measure corresp="#measure-0000002006850497" label="40" right="invis" metcon="false">
                             <staff n="1">
                                 <layer>
                                     <beam>

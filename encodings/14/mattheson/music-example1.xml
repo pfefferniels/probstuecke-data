@@ -33,10 +33,10 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="rh" n="1" lines="5" label="Mattheson's annotations" meter.unit="8">
+                            <staffDef xml:id="rh" n="1" lines="5" label="Mattheson's annotations">
                                 <clef line="1" shape="C" />
                                 <keySig sig="5f" />
-                                <meterSig count="12" unit="8"/>
+                                <meterSig count="12" unit="8" form="invis"/>
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -46,10 +46,15 @@
                             <reg resp="#pfeffer">
                                 <scoreDef>
                                     <keySig sig="6f" />
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
                                 </scoreDef>
                             </reg>
                         </choice>
-                        <measure corresp="#measure-0000002110347575" label="Achter Tact">
+                        <measure corresp="#measure-0000002110347575" label="8" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="below">
@@ -78,7 +83,7 @@
                                 <rend fontstyle="normal">Achter Tact</rend>
                             </dir>
                         </measure>
-                        <measure corresp="#measure-0000000003979548" label="Neuter Tact." right="invis" metcon="false">
+                        <measure corresp="#measure-0000000003979548" label="9" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="below">

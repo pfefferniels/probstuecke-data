@@ -33,13 +33,15 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="rh" n="1" lines="5" meter.unit="8">
+                            <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="4s" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
-                            <staffDef xml:id="lh" n="2" lines="5" meter.unit="8">
+                            <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="4s" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -49,10 +51,15 @@
                             <reg resp="#pfeffer">
                                 <scoreDef>
                                     <keySig sig="5s" />
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
                                 </scoreDef>
                             </reg>
                         </choice>
-                        <measure xml:id="measure-0000001308114198" n="27">
+                        <measure xml:id="measure-0000001308114198" corresp="#measure-0000001484317561" label="27" n="27">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -96,7 +103,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000000149535750" n="28">
+                        <measure xml:id="measure-0000000149535750" corresp="#measure-0000000563896467" label="28" n="28">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -144,7 +151,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001499587639" n="29">
+                        <measure xml:id="measure-0000001499587639" corresp="#measure-0000002079229793" label="29" n="29">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -190,7 +197,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001087099039" n="30">
+                        <measure xml:id="measure-0000001087099039" corresp="#measure-0000000053423172" label="30" n="30">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -233,7 +240,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000000409081264" n="31">
+                        <measure xml:id="measure-0000000409081264" corresp="#measure-0000000969788585" label="31" n="31">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <beam>
@@ -273,7 +280,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001880433623" n="32">
+                        <measure xml:id="measure-0000001880433623" corresp="#measure-0000001330510407" label="32" n="32">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -323,7 +330,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000000518344254" n="33">
+                        <measure xml:id="measure-0000000518344254" corresp="#measure-0000001883385018" label="33" n="33">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -363,7 +370,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001476056427" n="34" right="end">
+                        <measure xml:id="measure-0000001476056427" corresp="#measure-0000000538446086" label="34" n="34" right="end">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

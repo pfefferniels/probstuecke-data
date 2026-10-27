@@ -76,23 +76,23 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2040" lry="2526" xml:id="facs-p490">
-      <graphic width="2041px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/490" />
+    <surface ulx="0" uly="0" lrx="2040" lry="2526" xml:id="facs-p490" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/490">
+      <graphic width="2041px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00490/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1983" lry="2529" xml:id="facs-p491">
-      <graphic width="1984px" height="2530px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/491" />
+    <surface ulx="0" uly="0" lrx="1983" lry="2529" xml:id="facs-p491" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/491">
+      <graphic width="1984px" height="2530px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00491/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2016" lry="2520" xml:id="facs-p492">
-      <graphic width="2017px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/492" />
+    <surface ulx="0" uly="0" lrx="2016" lry="2520" xml:id="facs-p492" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/492">
+      <graphic width="2017px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00492/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1982" lry="2521" xml:id="facs-p493">
-      <graphic width="1983px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/493" />
+    <surface ulx="0" uly="0" lrx="1982" lry="2521" xml:id="facs-p493" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/493">
+      <graphic width="1983px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00493/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2027" lry="2521" xml:id="facs-p494">
-      <graphic width="2028px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/494" />
+    <surface ulx="0" uly="0" lrx="2027" lry="2521" xml:id="facs-p494" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/494">
+      <graphic width="2028px" height="2522px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00494/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1987" lry="2524" xml:id="facs-p495">
-      <graphic width="1988px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/495" />
+    <surface ulx="0" uly="0" lrx="1987" lry="2524" xml:id="facs-p495" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/495">
+      <graphic width="1988px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00495/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>
@@ -168,11 +168,11 @@
       <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
-          <lb />Nun thue dein beſtes, und laß dich ho&#x0364;ren! Jch verlange nicht, daß die rech-
-          <lb />te Hand das geringſte (auſſer ein paar Tertzen dann und wann) machen ſoll, es
+          <lb />Nun thue dein beſtes, und laß dich ho&#x0364;ren! Jch verlange nicht, daß die <term xml:id="t_rechte_hand-1" corresp="#t_rechte_hand">rech-
+          <lb />te Hand</term> das geringſte (auſſer ein paar Tertzen dann und wann) machen ſoll, es
           <lb />wird auch keine Zeit dazu ſeyn, wenn das <hi rendition="#aq">preſto aſſai</hi> wol in acht genommen wer-
-          <lb />den ſoll. Hu&#x0364;te dich aber vor Octaven und falſchen Griffen, bey der ho&#x0364;chſten Ge-
-          <lb />ſchwindigkeit; man ho&#x0364;ret es ſonſt bald, und wenn noch ſo ſehr daru&#x0364;ber hingefahren
+          <lb />den ſoll. Hu&#x0364;te dich aber vor <term xml:id="t_oktavenvirtuose-1" corresp="#t_oktavenvirtuose">Octaven</term> und falſchen Griffen, bey der ho&#x0364;chſten <term xml:id="t_fingerfertigkeit-1" corresp="#t_fingerfertigkeit">Ge-
+          <lb />ſchwindigkeit</term>; man ho&#x0364;ret es ſonſt bald, und wenn noch ſo ſehr daru&#x0364;ber hingefahren
           <lb />wird. Es mo&#x0364;gte einem ankommen, daß du ihm etliche Tacte, inſonderheit die
           <lb />
           <ref target="#measure-0000000382832426 #measure-0000001511923609 #measure-0000001832895480 #measure-0000001416509068 #measure-0000001465555164 #measure-0000000450716618">
@@ -189,7 +189,7 @@
         <lb /><head>§. 5.</head>
         <p xml:id="p5-1">
           <lb />Den lieben Aeltlingen, die da lehren, der General-Baß bedu&#x0364;rffe keiner ſol-
-          <lb />chen Geſchwindigkeit, indem er nur ſteiff und feſt mit Spanischen Tritten einher ge-
+          <lb />chen <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term>, indem er nur ſteiff und feſt mit Spanischen Tritten einher ge-
           hen mu&#x0364;ſſe, will ich nur den eintzigen Umſtand und dieſe Frage, zum Nachsinnen,
           u&#x0364;berlaſſen: Da nemlich gar offt Worte zum Singen vorkommen, die ein Eilen,
           Lauffen, Rennen, eine groſſe Unruhe, Flu&#x0364;chtigkeit

@@ -77,15 +77,15 @@
   </teiHeader>
 
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2044" lry="2520" xml:id="facs-p390">
-      <graphic width="2044px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390"/>
+    <surface ulx="0" uly="0" lrx="2044" lry="2520" xml:id="facs-p390" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390">
+      <graphic width="2044px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00390/full/full/0/default.jpg"/>
       <zone ulx="96" uly="347" lry="763" lrx="2006" xml:id="facsZone-p1-1"/>
       <zone ulx="105" uly="730" lry="1776" lrx="2006" xml:id="facsZone-p2-1"/>
       <zone ulx="111" uly="1762" lry="2135" lrx="2009" xml:id="facsZone-p3-1"/>
       <zone ulx="111" uly="2102" lry="2308" lrx="2006" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p391">
-      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
+    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p391" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391">
+      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00391/full/full/0/default.jpg"/>
       <zone ulx="21" uly="168" lry="458" lrx="1927" xml:id="facsZone-p4-1-2"/>
       <zone ulx="18" uly="422" lry="1379" lrx="1909" xml:id="facsZone-p5-1"/>
       <zone ulx="21" uly="1349" lry="2139" lrx="1912" xml:id="facsZone-p6-1"/>
@@ -107,7 +107,7 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
-            <hi rendition="#in">M</hi>An wird des Lermens muͤde. Alle Muſic muß ihre Abwechſlung haben:
+            <hi rendition="#in">M</hi>An wird des Lermens muͤde. Alle Muſic muß ihre <term xml:id="t_abwechslung-1" corresp="#t_abwechslung">Abwechſlung</term> haben:
             <lb/> und wenn lange auf dem Clavier gedonnert worden iſt, ſo muß ei-
             <lb/>ne Stille kom̃en. Jch meyne, es muß eine ſuͤſſe, liebliche Melodie, auf
             <lb/>etwas rauſchendes und brauſendes, folgen.
@@ -117,22 +117,22 @@
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
             Damit auch hierunter kein Mangel verſpuͤhret werde, ſo hat man, in ge-
-            <lb/>genwaͤrtiger Vorſchrift, einem Liebhaber des manierlichen Spielens Gelegenheit
+            <lb/>genwaͤrtiger Vorſchrift, einem Liebhaber des <term xml:id="t_auszierung-1" corresp="#t_auszierung #t_manieren">manierlichen</term> Spielens Gelegenheit
             <lb/>geben wollen, ſeinen Vorrath auszulegen, nehmlich an den Orten, wo die Wor-
-            <lb/>te: <ref target="#si-suona-1 #si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">si ſuona</foreign></hi></ref>,
+            <lb/>te: <ref target="#si-suona-1 #si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_si_suona-1" corresp="#t_si_suona">si ſuona</term></foreign></hi></ref>,
             befindlich ſind, welche auf Teutsch heiſſen: <hi rendition="#b">Man ſpielet</hi>, und
             <lb/>zwar auf das beſte, <abbr>d.i.</abbr> man laͤſt ſich gantz beſonders mit der rechten Hand hoͤren. Hie-
             <lb/>von nun, und wie gedachtes Spielen ſoll eingerichtet ſeyn, etwas gewiſſes oder
             <lb/>eigentliches zu ſagen, iſt die lautere Unmuͤgligkeit: maſſen ſolches aus freien Ein-
             <lb/>faͤllen herflieſſen muß, und gar nicht gezwungen ſeyn will. So viel ist uͤberhaupt
-            <lb/>zu melden, <sic>das</sic> der Baß accompagnirt oder voll-greifft, die rechte Hand aber
+            <lb/>zu melden, <sic>das</sic> der Baß <term xml:id="t_akkompagnieren-1" corresp="#t_akkompagnieren">accompagnirt</term> oder voll-greifft, die rechte Hand aber
             <lb/>nur einſtimmig,
             <hi rendition="#aq">
               <choice resp="#pfeffer">
                 <abbr>i.e.</abbr>
                 <expan>id est</expan>
               </choice> solo
-            </hi>, auf das allerſingbarſte dabey einhergehet. Nun sind
+            </hi>, auf das <term xml:id="t_kantabel-1" corresp="#t_kantabel">allerſingbarſte</term> dabey einhergehet. Nun sind
             <lb/> gleichwol die Baß-Gaͤnge auch ſo leicht und natuͤrlich hier eingerichtet, daß einer ſehr
             <lb/>unerfahren ſeyn muͤſte, der nicht augenblicklich darzu eine geſchickte Ober-Stimme
             <lb/>erfinden ſollte: ſintemahl der bezieferte Grund alles ſelbſt angiebt, und jedem
@@ -163,7 +163,7 @@
           bey jedem Klimperer ein Trumpff iſt) waͤre ſonſt dieſe, daß, ſo wie man aus wei-
           <lb/>chen und betruͤbten Tonen was flieſſendes und munteres, mit Beifall, ſetzen und
           <lb/>ſpielen kann; alſo aus dieſem harten und Gaſſen-maͤßigen
-          <hi rendition="#b">C dur</hi> etwas zaͤrtli-
+          <hi rendition="#b"><term xml:id="t_c_dur-1" corresp="#t_c_dur">C dur</term></hi> etwas zaͤrtli-
           <lb/>ches und bewegliches nicht uͤbel klinge.
           <choice>
             <abbr>Z.E.</abbr>
@@ -176,8 +176,8 @@
       <div n="5">
         <lb/><head>§. 5.</head>
         <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
-          Uebrigens wird hierdurch der Satz bewieſen werden, <hi rendition="#b">daß, wer nicht ſin-
-          <lb/>gen koͤnne, auch nicht zu ſpielen wiſſe.</hi> Solches moͤgte manchem Organiſten
+          Uebrigens wird hierdurch der Satz bewieſen werden, <hi rendition="#b">daß, wer nicht <term xml:id="t_singen-2" corresp="#t_singen">ſin-
+          <lb/>gen</term> koͤnne, auch nicht zu ſpielen wiſſe.</hi> Solches moͤgte manchem Organiſten
           <lb/>ungereimt vorkommen, inſonderheit denen in Staͤdten, die nicht zugleich Kuͤ-
           <lb/>ſter-Amt mit verrichten; denn auf dem Lande iſt man aus Noth und Sparſam-
           <lb/>keit ſo beſcheiden, und widerſpricht mir hierin ſo wenig, daß auch beyde Aem-
@@ -203,8 +203,8 @@
           <lb/>muͤſte, wenn er geſchicklich ſpielen will; Denn es gibt viele wackere Leute, die doch
           <lb/>von der Natur keine Stimme zum Singen haben. Es ist auch nicht noͤthig, daß je-
           <lb/>dermann eben mit einer schoͤnen Kehle groß thun muͤſſe: den wenigſten ist ſie gege-
-          <lb/>ben; aber die Wiſſenſchaft des Singens muß nicht nur ein Componist, son-
-          <lb/>dern jeder General-Baſſiſt, ja jeder Jnstrumentaliſt, inne haben, und wenn ſein
+          <lb/>ben; aber die Wiſſenſchaft des <term xml:id="t_singen-1" corresp="#t_singen">Singens</term> muß nicht nur ein Componist, son-
+          <lb/>dern jeder General-Baſſiſt, ja jeder <term xml:id="t_instrumentalist-1" corresp="#t_instrumentalist">Jnstrumentaliſt</term>, inne haben, und wenn ſein
           <lb/>Hals gleich nichts nutzet, ſo muͤſſen doch ſeine ſingenden Gedancken den Fingern
           <lb/>ihren Befehl ertheilen; ſonſt ist alles hoͤltzern und todt. Es wuſſte dieſes schon
           <persName corresp="#ed_u2g_xgy_qlb">D.

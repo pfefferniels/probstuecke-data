@@ -33,9 +33,10 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="lh" n="1" lines="5" meter.unit="8">
+                            <staffDef xml:id="lh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="4s" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -45,10 +46,15 @@
                             <reg resp="#pfeffer">
                                 <scoreDef>
                                     <keySig sig="5s" />
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
                                 </scoreDef>
                             </reg>
                         </choice>
-                        <measure xml:id="measure-0000000106362395" n="1">
+                        <measure xml:id="measure-0000000106362395" corresp="#measure-0000001447102304" label="9" n="1">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -64,7 +70,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001533383766" n="2">
+                        <measure xml:id="measure-0000001533383766" corresp="#measure-0000000437350706" label="10" n="2">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -88,7 +94,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001374480566" n="3">
+                        <measure xml:id="measure-0000001374480566" corresp="#measure-0000001120652168" label="11" n="3">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -104,7 +110,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure xml:id="measure-0000001719282071" n="4">
+                        <measure xml:id="measure-0000001719282071" corresp="#measure-0000002097062477" label="12" n="4">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

@@ -91,17 +91,12 @@ encodings/4/hill/comments_de.xml: #example7
 # presto-000..presto-002. Needs a <tempo xml:id="presto-003"> in the MEI.
 encodings/5/mattheson/comments_de.xml: #presto-003
 
-# --- No. 11: bars 23 and 24 (3rd and 4th bar of the second part) have no IDs ---
-# The text refers to bars 3, 4 and 5 of the second part. Bar 25 resolves,
-# but in score.xml the <measure> and <staff> elements of bars 23 and 24 (and
-# everything inside them) carry no xml:id, and never did in this repository.
-# Fix in the MEI: measure n="23" xml:id="measure-0000002078803044", its staff
-# n="2" xml:id="staff-0000000633397600"; measure n="24"
-# xml:id="measure-0000001071915657", its staff n="2"
-# xml:id="staff-0000001023194498".
+# --- No. 11: the staves of bars 23 and 24 have no IDs --------------------------
+# The 1719 text refers to the bass staff of bars 23 and 24 (3rd and 4th bar of
+# the second part), but in score.xml their <staff> elements (and everything
+# inside them) carry no xml:id, and never did in this repository. The measures
+# got their IDs back from the music examples, which point to them. Fix in the
+# MEI: in bar 23, staff n="2" xml:id="staff-0000000633397600"; in bar 24,
+# staff n="2" xml:id="staff-0000001023194498" (their zones exist already).
 encodings/11/mattheson/comments_1st.xml: #staff-0000000633397600
 encodings/11/mattheson/comments_1st.xml: #staff-0000001023194498
-encodings/11/mattheson/comments_de.xml: #measure-0000002078803044
-encodings/11/mattheson/comments_de.xml: #measure-0000001071915657
-encodings/11/mattheson/comments_en.xml: #measure-0000002078803044
-encodings/11/mattheson/comments_en.xml: #measure-0000001071915657

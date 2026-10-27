@@ -76,32 +76,35 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="2038" lry="2520" xml:id="facs-p446">
-          <graphic width="2038px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/446"/>
+      <surface ulx="0" uly="0" lrx="2038" lry="2520" xml:id="facs-p446" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/446">
+          <graphic width="2038px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00446/full/full/0/default.jpg"/>
           <zone ulx="125" uly="195" lry="797" lrx="1995" xml:id="facsZone-p1-1"/>
           <zone ulx="119" uly="733" lry="1467" lrx="1992" xml:id="facsZone-p2-1"/>
           <zone ulx="113" uly="1385" lry="2373" lrx="1998" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="2002" lry="2524" xml:id="facs-p447">
-          <graphic width="2002px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/447"/>
+      <surface ulx="0" uly="0" lrx="2002" lry="2524" xml:id="facs-p447" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/447">
+          <graphic width="2002px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00447/full/full/0/default.jpg"/>
           <zone ulx="40" uly="154" lry="721" lrx="1915" xml:id="facsZone-p3-1-2"/>
           <zone ulx="31" uly="713" lry="1540" lrx="1915" xml:id="facsZone-p4-1"/>
           <zone ulx="36" uly="1504" lry="2047" lrx="1911" xml:id="facsZone-p5-1"/>
       </surface>
-      <surface ulx="0" uly="0" lry="2524" lrx="2001" xml:id="facs-p448">
-        <graphic width="2001px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/448" />
+      <surface ulx="0" uly="0" lry="2524" lrx="2001" xml:id="facs-p448" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/448">
+        <graphic width="2001px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00448/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2521" lrx="1996" xml:id="facs-p449">
-        <graphic width="1996px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/449" />
+      <surface ulx="0" uly="0" lry="2521" lrx="1996" xml:id="facs-p449" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/449">
+        <graphic width="1996px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00449/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2525" lrx="2017" xml:id="facs-p450">
-        <graphic width="2017px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/450" />
+      <surface ulx="0" uly="0" lry="2525" lrx="2017" xml:id="facs-p450" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/450">
+        <graphic width="2017px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00450/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2517" lrx="2004" xml:id="facs-p451">
-        <graphic width="2004px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/451" />
+      <surface ulx="0" uly="0" lry="2517" lrx="2004" xml:id="facs-p451" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/451">
+        <graphic width="2004px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00451/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2526" lrx="2019" xml:id="facs-p452">
-        <graphic width="2019px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/452" />
+      <surface ulx="0" uly="0" lry="2526" lrx="2019" xml:id="facs-p452" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/452">
+        <graphic width="2019px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00452/full/full/0/default.jpg" />
+      </surface>
+      <surface ulx="0" uly="0" lry="2520" lrx="1982" xml:id="facs-p453" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/453">
+        <graphic width="1982px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00453/full/full/0/default.jpg" />
       </surface>
   </facsimile>
   <text>
@@ -135,7 +138,7 @@
           <lb/>Fuͤrs erſte verlange ich, daß ſie mirs Danck wiſſen ſollen, daß ich dieſes
           <lb/>Funffzehnte Prob-Stuͤck eigentlich ihnen zu Gefallen geſetzet, damit die be-
           <lb/>liebte Bewegung ihrer Fuͤſſe nicht gar gehemmet werde, zu dem Ende es auch mit
-          <lb/>dem Worte <hi rendition="#aq">Scherzando</hi> (ſchertzend, ſpielend, taͤndelnd) wohlbedaͤchtlich verſehen wor-
+          <lb/>dem Worte <hi rendition="#aq">Scherzando</hi> (ſchertzend, ſpielend, <term xml:id="t_zweivierteltakt-1" corresp="#t_zweivierteltakt">taͤndelnd</term>) wohlbedaͤchtlich verſehen wor-
           <lb/>den ist. Fuͤrs andere bedinge mir aus, daß ſich niemand unterſtehe, in einem Tact
           <lb/>von zwey Vierteln, zweimahl nieder zu ſchlagen: denn ſolches waͤre ein Mißbrauch
           <lb/>meines Nachſehens. Fuͤrs dritte will ich mir ausgebeten haben, daß diejenigen,
@@ -148,7 +151,7 @@
       <div n="3">
         <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
-          <lb/>Es ist wunderlich! unſere Landes-Leute wollen von den Frantzosen ihren
+          <lb/>Es ist wunderlich! unſere Landes-Leute wollen von den <term xml:id="t_franzosen-1" corresp="#t_franzosen">Frantzosen</term> ihren
           <lb/>Fleiß, ihre Nettigkeit, ihre Fertigkeit in den Schluͤſſeln, ihre Einigkeit im Spielen
           <lb/>und andere gute Eigenschafften keineswegs erlernen; aber die Lufftstreiche, das
           <lb/>Auffheben, das Windfechten, die Verdrehungen, so ihrere etliche mit Haͤnden und
@@ -160,7 +163,7 @@
           <lb/>ſter bannen wolle; da er doch bißweilen lauter Zaͤrtlichkeit im Munde fuͤhret.
           <lb/>Das laͤcherlichſte iſt, er will ſolchen Leuten, im Schweiß ſeines Angeſichts und mit
           <lb/>rechten Graͤber-Tritten, den Tact vorſchlagen, die tausendmahl beſſer wiſſen, was
-          <lb/>Tact ſey, denn er ſelber. Sehen wir manchen Frantzoͤsischen Geiger an, welche ge-
+          <lb/>Tact ſey, denn er ſelber. Sehen wir manchen Frantzoͤsischen <term xml:id="t_geiger-1" corresp="#t_geiger">Geiger</term> an, welche ge-
           <fw place="bottom" type="catch">fähr-</fw>
           <pb n="385" facs="#facs-p447"/>
 
@@ -215,7 +218,7 @@
       <div n="5">
         <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Dieſes haͤtten wol bemercken moͤgen diejenigen Frantzoͤsiſchen Virtuosen,
+          <lb/>Dieſes haͤtten wol bemercken moͤgen diejenigen <term xml:id="t_franzosen-2" corresp="#t_franzosen">Frantzoͤsiſchen</term> Virtuosen,
           <lb/>von
           <choice>
             <sic>dem</sic>
@@ -238,7 +241,7 @@
           <lb/>Capellmeister haͤtte es, ohne den geringſten Verlust ſeiner Tactirungs-Ehre, koͤn-
           <lb/>nen geſchehen lassen; allein auch jener haͤtte lieber nachgeben ſollen, als leiden, daß der
           <lb/>Gottesdienst des beſten Zieraths ſeinetwegen beraubet wuͤrde. So aber iſt alles
-          <lb/>voller eitlen Hochmuths bey den Ton-Kuͤnſtlern dieſer Art, und nichts ſo heilig,
+          <lb/>voller eitlen Hochmuths bey den <term xml:id="t_komponist-1" corresp="#t_komponist">Ton-Kuͤnſtlern</term> dieſer Art, und nichts ſo heilig,
           <lb/>das ſie ſolcher Satans-Neigung nicht aufopffern ſollten. Es iſt ihnen wenig
           <lb/>daran gelegen, ob ein Christen-Menſch ſich durch ihre Geſchicklichkeit erbaue, o-
           <lb/>der an derſelben aͤrgere; wenn nur fein viele Zuhoͤrer herbey gelocket werden, die
@@ -256,7 +259,7 @@
             <quote type="translation" corresp="#basilius-quote" xml:id="basilius-quote-trans">
               Es kom-
               <lb/>me nemlich die Chriſtliche <sic>Gemeine</sic> nicht deßwegen zusammen, daß
-              <lb/>ſie Wunder-Dinge
+              <lb/>ſie <term xml:id="t_wunder-1" corresp="#t_wunder">Wunder-Dinge</term>
               vernehmen wolle:
             </quote>
           </hi> denn, welch Wunder iſts, daß ſich die
@@ -276,7 +279,7 @@
           <lb/>Bißher haben wir wieder die uͤbermaͤſſige Tactirungs-Luſt
           <note place="foot" n="(*)">
             <lb/><persName corresp="#ed_jtb_pfy_qlb">Lully</persName> hatte die Gewohnheit, mittelſt hefftiger Stoſſung seines Spanischen Rohrs wieder den
-            <lb/>Fuß-Boden, den Tact zu geben; nahm aber den Tod davon, wie seine Lebens-Beſchrei-
+            <lb/>Fuß-Boden, den <term xml:id="t_takt-1" corresp="#t_takt">Tact</term> zu geben; nahm aber den Tod davon, wie seine Lebens-Beſchrei-
             <lb/>bung berichtet. <hi rendition="#i"><hi rendition="#aq">
             <choice>
               <abbr>Vid.</abbr>
@@ -288,8 +291,8 @@
                <expan>Critica Musica</expan>
              </choice> T. I. pag. 183.</bibl></hi></hi>
           </note> und den da-
-          <lb/>bey vermachten gottlosen Ehr-Geitz geredet. Wie waͤre es aber, wenn man Di-
-          <lb/>rectores finde, die gar nicht einmahl den Tact ſelber fuͤhren koͤnnten? ſondern ei-
+          <lb/>bey vermachten gottlosen Ehr-Geitz geredet. Wie waͤre es aber, wenn man <term xml:id="t_direktoren-1" corresp="#t_direktoren">Di-
+          <lb/>rectores</term> finde, die gar nicht einmahl den Tact ſelber fuͤhren koͤnnten? ſondern ei-
           <lb/>nen andern dazu brauchen muͤſſten? Ein gelehrter Breſlauer, <persName corresp="#ed_bxd_xvx_qlb" full="abb">G.E.S.</persName>, schrieb den
           <lb/><date>28. Julii 1728</date> davon also:
           <fw type="catch" place="bottom">Jch</fw>
@@ -306,14 +309,14 @@
               Göttingen 1995. Die Fußnote taucht entsprechend in der ersten Auflage der Organisten-Probe von 
               1719 nicht auf.
             </note> in <placeName ref="https://www.geonames.org/2918632">Goͤttingen</placeName> gar wol kennet.
-            <lb/>Der berichtete mir, daß er der maſſiveste Kerl von der Welt ſey, und da er <hi rendition="#aq">Director
+            <lb/>Der berichtete mir, daß er der maſſiveste Kerl von der Welt ſey, und da er <hi rendition="#aq"><term xml:id="t_direktoren-2" corresp="#t_direktoren">Director</term>
             <lb/>Chori</hi> geweſen, haͤtter er nicht einmahl die Geſchicklichkeit gehabt zu dirigiren, ſon-
-            <lb/>dern einen andern hinſtellen muͤſſen, der fuͤr ihn den Tact gegeben, und er haͤtte
+            <lb/>dern einen andern hinſtellen muͤſſen, der fuͤr ihn den <term xml:id="t_takt-2" corresp="#t_takt">Tact</term> gegeben, und er haͤtte
             <lb/>bloß mit dem Fuß hinter jenem darein geſchlagen.
           </quote> ꝛc.
         </p>
         <p xml:id="p6-2">
-          <lb/>Das sind die Cantaten-Feinde, die Verfechter derjenigen groſſen Choral-Noten,
+          <lb/>Das sind die <term xml:id="t_kantatenfeinde-1" corresp="#t_kantatenfeinde">Cantaten-Feinde</term>, die Verfechter derjenigen groſſen Choral-Noten,
           <lb/>dabey kein Tact noͤthig iſt. Man kann es ihnen nicht ſonderlich verdencken, wenn
           <lb/>ſie das nicht leiden koͤnnen, was ſie nicht verſtehen. Und aus dieſer Erbarmungs-
           <lb/>reichen Urſache ſehe ich auch gerne in die Gelegenheit mit den bekannten <hi rendition="#b">Unſchul-
@@ -398,7 +401,7 @@
           <lb/>ihm ſolches vorleget: denn, das Ding ſiehet in der That ſo ſchlecht aus, als immer
           <lb/>moͤglich iſt. Jndeſſen wolte ich wol etwas daran wenden, wenn, im Beyſeyn eini-
           <lb/>ger Kenner, ein Pflaſter-Treter und eingebildeter Meiſter ſich damit bloß gaͤbe.
-          <lb/>Jch will die Stelle nicht nennen, ſie wird ſich ſchon weiſen, und die Algebraiſten wer-
+          <lb/>Jch will die Stelle nicht nennen, ſie wird ſich ſchon weiſen, und die <term xml:id="t_algebraische_organisten-1" corresp="#t_algebraische_organisten">Algebraiſten</term> wer-
           <lb/>den ſie von ferne riechen: inſodernheit der <placeName>Quedlinburger</placeName>
           Hof-Organist<note type="editorial" resp="#pfeffer"><persName corresp="#ed_u1q_mlx_qlb">Andreas Werckmeister.</persName></note>,
           der die Leu-
@@ -408,14 +411,16 @@
           <ptr target="aria-bottari.xml"/>
         </notatedMusic>
       </div>
+      <!-- the aria fills pp. 388-391; its page breaks are in aria-bottari.xml -->
+      <pb n="391" facs="#facs-p453"/>
 
       <div n="9">
         <lb/><head>§. 9.</head>
         <lb/><p xml:id="p9-1">
           <lb/>Zu mercken ist hiebey, daß <hi rendition="#b">C mol</hi> und <hi rendition="#b">f mol <abbr>ꝛc.</abbr></hi> eben den Sprengel
           <lb/>haben, und dannenhero gleich unerwartete Vorfaͤlle, mit dem
-          <hi rendition="#b">Dis mol</hi> und
-          <lb/><hi rendition="#b">Gis mol</hi>, an die Hand gehen. Da es denn ſchoͤn laͤſt, wenn ein algebraischer Orga-
+          <hi rendition="#b"><term xml:id="t_dis_moll-1" corresp="#t_dis_moll">Dis mol</term></hi> und
+          <lb/><hi rendition="#b">Gis mol</hi>, an die Hand gehen. Da es denn ſchoͤn laͤſt, wenn ein <term xml:id="t_algebraische_organisten-2" corresp="#t_algebraische_organisten">algebraischer</term> Orga-
           <lb/>niſte darinn ſtolpert.
         </p>
       </div>

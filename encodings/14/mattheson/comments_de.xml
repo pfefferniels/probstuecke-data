@@ -76,16 +76,16 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2004" lry="2523" xml:id="facs-p442">
-      <graphic width="2004px" height="2523px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/442"/>
+    <surface ulx="0" uly="0" lrx="2004" lry="2523" xml:id="facs-p442" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/442">
+      <graphic width="2004px" height="2523px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00442/full/full/0/default.jpg"/>
       <zone ulx="98" uly="221" lry="992" lrx="2004" xml:id="facsZone-p1-1"/>
       <zone ulx="83" uly="966" lry="1354" lrx="2004" xml:id="facsZone-p2-1"/>
       <zone ulx="80" uly="1309" lry="1651" lrx="2004" xml:id="facsZone-music-example1"/>
       <zone ulx="83" uly="1599" lry="2065" lrx="2004" xml:id="facsZone-p3-1"/>
       <zone ulx="92" uly="2013" lry="2333" lrx="2004" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1984" lry="2526" xml:id="facs-p443">
-      <graphic width="1984px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/443"/>
+    <surface ulx="0" uly="0" lrx="1984" lry="2526" xml:id="facs-p443" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/443">
+      <graphic width="1984px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00443/full/full/0/default.jpg"/>
       <zone ulx="14" uly="205" lry="791" lrx="1923" xml:id="facsZone-p4-1-2"/>
       <zone ulx="14" uly="746" lry="1242" lrx="1923" xml:id="facsZone-p5-1"/>
       <zone ulx="8" uly="1206" lry="2367" lrx="1923" xml:id="facsZone-p6-1"/>
@@ -101,103 +101,119 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="380" facs="#facs-p442"/>
       <div n="0" type="chapter">
-        <head>Erlaͤuterung.</head>
+        <lb/><head>Erlaͤuterung.</head>
         <div n="1">
-          <head>§. 1.</head>
+          <lb/><head>§. 1.</head>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
-            <hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b">Treffer</hi>, wenn er das
-            Ding so vor der Faust wegspielen soll, duͤrffte hier leicht stolpern. Man hat sagen
-            wollen, daß es eben nicht noͤthig gewesen waͤre, das Woͤrtlein <hi rendition="#aq"><foreign xml:lang="ita">Discretamente</foreign></hi> daruͤber zu setzen, weil es hie und da so
-            bedeutsam zu gehen duͤrffte, daß wenig oder nichts davon vernommen werden moͤgte. Das Wort
-            soll indessen so viel bedeuten, daß keiner zu plumpe, sondern erst fein bescheidentlich
-            erwege, wie und welcher Gestalt es anzugreiffen, daß er huͤbsch und vorsichtiglich
-            wandele, und sich nicht viel bruͤste. Wenn er auch gleich manchesmahl hie und da meynen
-            sollte, er sitze oben darauff, und wolle was daruͤber lachen: so kommt gantz unvermuthet
-            ein Stoß, der ihn aus dem Sattel hebt: und das hat er dann seiner Unbedachtsamkeit zu
-            dancken. </p>
+            <lb/><hi rendition="#in">M</hi>Ancher vermeynter <hi rendition="#b">Treffer</hi>, wenn er das Ding ſo vor der Fauſt wegſpielen
+            <lb/>ſoll, duͤrffte hier leicht ſtolpern. Man hat ſagen wollen, daß es eben nicht
+            <lb/>noͤhtig geweſen waͤre, das Woͤrtlein <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi> daruͤber zu ſetzen, weil
+            <lb/>es hie und da ſo bedachtſam zu gehen duͤrffte, daß wenig oder nichts davon vernom-
+            <lb/>men werden moͤgte. Das Wort ſoll indeſſen ſo viel bedeuten, daß keiner zu plumpe,
+            <lb/>ſondern erſt fein beſcheidentlich erwege, wie und welcher Geſtalt es anzugreiffen, daß
+            <lb/>er huͤbſch vorſichtiglich wandele, und ſich nicht viel bruͤſte. Wenn er auch gleich man-
+            <lb/>chesmahl hie und da meynen ſolte, er ſitze oben darauff, und wolle was daruͤber lachen;
+            <lb/>ſo kommt gantz unvermuhtet ein Stoß, der ihn aus dem Sattel hebt: und das hat er
+            <lb/>dann ſeiner Unbedachtſamkeit zu dancken.
+          </p>
         </div>
 
         <div n="2">
-          <head>§. 2.</head>
-          <p xml:id="p2-1" facs="#facsZone-p2-1"> Vom <ref target="#measure-0000002110347575">achten
-              Tact an</ref> kan es sein fein (wenn man will) in der rechten Hand variiret werden,
-            welches um so viel fremder klingt, da man es aus solchen Tonen nicht gewohnet ist. Jch
-            habe es versucht, und eine geschickte Brechung gantz durchgehen lassen, welches gut
-            geklungen hat. Will man aber wissen, wie es gemacht worden ist, so theile ich hier ein
-            wenig zur probe mit, daraus das uͤbrige mag beurtheilet werden. </p>
+          <lb/><head>§. 2.</head>
+          <p xml:id="p2-1" facs="#facsZone-p2-1">
+            <lb/>Vom <ref target="#measure-0000002110347575">achten Tact an</ref> kan es fein (wenn man will) in der rechten Hand varii-
+            <lb/>ret werden, welches um ſo viel fremder klingt, da man es aus ſolchen Tonen nicht ge-
+            <lb/>wohnet iſt. Jch habe es verſucht, und eine geſchickte Brechung gantz durchgehen laſſen,
+            <lb/>welches gut geklungen hat. Will man aber wiſſen, wie es gemacht worden iſt, ſo
+            <lb/>theile ich hier ein wenig zur Probe mit, daraus das uͤbrige mag beurtheilet werden.
+          </p>
           <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
             <ptr target="music-example1.xml"/>
           </notatedMusic>
         </div>
 
         <div n="3">
-          <head>§. 3.</head>
-          <p xml:id="p3-1" facs="#facsZone-p3-1"> Die Septimen im <ref target="#measure-0000000128472588">elfften</ref> und <ref target="#measure-0000001841425997">zwoͤlfften Tact</ref> lassen sich auch auf diese
-            Weise gar artig behandeln, und faͤllt die Aufloͤsung einen von selbsten in die Hand. Es
-            waͤre nur uͤberfluͤssig davon etwas herzusetzen, weil es auf die vorhin gewiesene Art
-            auslaͤufft. Man darf nur den rechten Griff thun, und die Finger einen um den andern
-            regen, so hat es schon seine Richtigkeit. Es ist eben nichts raren, auch nichts schweres
-            daran; dennoch lautet es wol. </p>
+          <lb/><head>§. 3.</head>
+          <p xml:id="p3-1" facs="#facsZone-p3-1">
+            <lb/>Die Septimen im <ref target="#measure-0000000128472588">elfften</ref> und <ref target="#measure-0000001841425997">zwoͤlfften Tact</ref> laſſen ſich auch auf dieſe Weiſe gar
+            <lb/>artig behandeln, und faͤllt die Aufloͤſung einem von ſelbſten in die Hand. Es waͤre nur
+            <lb/>uͤberfluͤſſig davon etwas herzuſetzen, weil es auf die vorhin gewieſene Art auslaͤufft.
+            <lb/>Man darff nur den rechten Griff thun, und die Finger einen um den andern regen, ſo
+            <lb/>hat es ſchon ſeine Richtigkeit. Es iſt eben nichts rares, auch nichts ſchweres daran;
+            <lb/>dennoch lautet es wol.
+          </p>
         </div>
 
         <div n="4">
-          <head>§. 4.</head>
-          <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2"> Ob nun gleich das <hi rendition="#aq"><foreign xml:lang="ita">Discretamente</foreign></hi>, nebst
-            vorangefuͤhrter Erklaͤrung, auch bedeuten moͤgte, daß sich niemand sonderlich zu uͤbereilen
-            haͤtte; so wolte ich dennoch nicht gerne, daß man einen Polnischen Tantz daraus machte:
-            das Prob-Stuͤck verliehrt sonst dadurch alle seine Anmuth. Jch kan dabey nicht unberuͤhret
-            lassen, daß die besondere Bewegung und die Manier, womit eine Sache herausgebracht wird,
-            derselben das rechte Leben geben, ohne welches alles rauh und hoͤltzern klingt. Wir
-            betrachten offtmahls eine unansehnliche Arie als etwas nichtswuͤrdiges, biß wir einst
-            hoͤren, mit welcher Art dieselbe muͤsse oder koͤnne gesungen und gespielet werden, alsdann
-            ist sie unsere Leib-Arie. So viel liegt an der Ausuͤbung: sie macht in der Music just den
-            Unterscheid, welches Licht und Schatten haben; das sind aber mit einander streindende
-            Dinge. Also wolte ich denn auch insonderheit diese Aufgabe mit einer gewissen Bewegung,
-            nur nicht zu geschwind, sondern mit Bedacht, gespielet wissen. </p>
+          <lb/><head>§. 4.</head>
+          <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
+            <lb/>Ob nun gleich das <hi rendition="#aq"><foreign xml:lang="ita">Diſcretamente</foreign></hi>, nebſt vorangefuͤhrter Erklaͤrung, auch be-
+            <lb/>deuten moͤgte, daß ſich niemand ſonderlich zu uͤbereilen haͤtte; ſo wolte ich dennoch
+            <lb/>nicht gerne, daß man einen Polniſchen Tantz daraus machte: das Prob-Stuͤck ver-
+            <fw place="bottom" type="catch">liehrt</fw>
+            <pb n="381" facs="#facs-p443"/>
+            <lb/>liehrt ſonſt dadurch alle ſeine Anmuth. Jch kan dabey nicht unberuͤhret laſſen, daß
+            <lb/>die beſondere Bewegung und die Manier, womit eine Sache herausgebracht wird,
+            <lb/>derſelben das rechte Leben geben, ohne welches alles rauh und hoͤltzern klingt. Wir be-
+            <lb/>trachten offtmahls eine unanſehnliche Arie, als etwas nichtswuͤrdiges, biß wir einſt
+            <lb/>hoͤren, mit welcher Art dieſelbe muͤſſe oder koͤnne geſungen und geſpielet werden; als-
+            <lb/>dann iſt ſie unſere Leib-Arie. So viel liegt an der Ausuͤbung: ſie macht in der Muſic juſt
+            <lb/>den Unterſcheid, welchen Licht und Schatten haben; das ſind aber mit einander ſtrei-
+            <lb/>tende Dinge. Alſo wolte ich denn auch inſonderheit dieſe Aufgabe mit einer gewiſ-
+            <lb/>ſen Bewegung, nur nicht zu geſchwind, ſondern mit Bedacht, geſpielet wiſſen.
+          </p>
         </div>
 
         <div n="5">
-          <head>§. 5.</head>
-          <p xml:id="p5-1" facs="#facsZone-p5-1"> Jedermann wird sehen, daß, was <ref target="#measure-0000000161042882">auf der andern Seite dieses Probe-Stuͤckes</ref>
-            erscheinet, eben dasselbe Ding sey, und nur eine andere Gestalt durch die Kreutze an
-            sich genommen habe. Jch halte solche Versetzungen fuͤr sehr nuͤtzlich, und will die
-            Studierende gebeten haben, der gleichen vor sich zu versuchen, und die Stuͤcke, so nicht
-            versetzt hierinn zu finden, auf diese Art, fleißig zu versetzen, denn dadurch veraͤndert
-            man den Ton nicht. </p>
+          <lb/><head>§. 5.</head>
+          <p xml:id="p5-1" facs="#facsZone-p5-1">
+            <lb/>Jedermann wird ſehen, daß, was <ref target="#measure-0000000161042882">auf der andern Seite dieſes <hi rendition="#aq">Probe</hi>-Stuͤ-
+            <lb/>ckes</ref> erſcheinet, eben daſſelbe Ding ſey, und nur eine andere Geſtalt durch die Kreu-
+            <lb/>tze an ſich genommen habe. Jch halte ſolche Verſetzungen fuͤr ſehr nuͤtzlich, und will
+            <lb/>die Studierende gebeten haben, dergleichen vor ſich zu verſuchen, und die Stuͤcke, ſo
+            <lb/>nicht verſetzt hierinn zu finden, auf dieſe Art, ſelbſt fleiſſig zu verſetzen: denn dadurch
+            <lb/>veraͤndert man den Ton nicht.
+          </p>
         </div>
 
         <div n="6">
-          <head>§. 6.</head>
-          <p xml:id="p6-2" facs="#facsZone-p6-1"> Daß ich aber verlangen sollte, man moͤgte alle neun Tone, die es leiden,
-            also versetzen, solches muß niemand hieraus schliessen; ob man sie sich gleich alle neun
-            wol bekannt machen darff, indem sie, als Verwandte, haͤuffig genug vorkommen. Das <hi rendition="#b">♯D</hi>, in Gegenhaltung mit dem <hi rendition="#b">♭E</hi> und denn
-            das <hi rendition="#b">♯G</hi>, in Betracht des <hi rendition="#b">♭A</hi>, scheinen mir
-            hierzu nothwendiger zu seyn, als die uͤbrigen sieben: welche dennoch der <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, und sonst noch
-            keiner, verzeichnet hat. Mit den beiden erwehnten Tonen hat es einegantz andere
-            Bewandtniß, als mit den uͤbrigen: denn <hi rendition="#b">♯D</hi> ist eben so gewoͤhnlich,
-            als <hi rendition="#b">♭E</hi>, und <hi rendition="#b">♯G</hi> koͤmt eben so offt vor,
+          <lb/><head>§. 6.</head>
+          <p xml:id="p6-2" facs="#facsZone-p6-1">
+            <lb/>Daß ich aber verlangen ſollte, man moͤgte alle neun Tone, die es leiden, alſo
+            <lb/>verſetzen, ſolches muß niemand hieraus ſchlieſſen; ob man ſie ſich gleich alle neun wol
+            <lb/>bekannt machen darff, indem ſie, als Verwandte, haͤuffig genug vorkommen. Das
+            <lb/><hi rendition="#b">♯D</hi>, in Gegenhaltung mit dem <hi rendition="#b">♭E</hi>, und denn
+            das <hi rendition="#b">♯G</hi>, in Betracht des <hi rendition="#b">♭A</hi>, ſcheinen
+            <lb/>mir hiezu nohtwendiger zu ſeyn, als die uͤbrigen ſieben: welche dennoch der <persName corresp="#ed_dwf_j5x_qlb">Herr von
+            <lb/>St. Lambert</persName>, und ſonſt noch keiner, verzeichnet hat. Mit den beiden erwehnten
+            <lb/>Tonen hat es eine gantz andere Bewandniß, als mit den uͤbrigen: denn <hi rendition="#b">♯D</hi> iſt eben
+            <lb/>ſo gewoͤhnlich, als <hi rendition="#b">♭E</hi>, und <hi rendition="#b">♯G</hi> koͤmt eben ſo offt vor,
             als <hi rendition="#b">♭A</hi>; dahingegen
             <hi rendition="#b">
               <choice>
                 <sic>H</sic>
                 <corr type="corrigenda">♯H</corr>
               </choice>
-            </hi> gar ein fremder,
+            </hi> gar
+            <lb/>ein fremder,
             <hi rendition="#b">C</hi> aber ein
             <choice>
               <sic>taͤglich</sic>
               <corr type="corrigenda">taͤglicher</corr>
             </choice>
-            Gast ist, u.s.w. Jn Erwegung dessen habe
-            hier nur das Dis und Gis auf zweierley Art vorstellen, die andern sieben zuruͤck lassen
-            und einem fleissigen General-Bassisten rathen wollen, sein Heil selbst daran zu
-            versuchen. Es kann nicht schaden, dafuͤr will ich einstehen. Daß ich inzwischen nur von
-            neun Tonen rede, die eine solche Versetzung leiden, geschiehet deswegen, weil <hi rendition="#b">D, G</hi> und <hi rendition="#b">A</hi> bißhero noch auf einerley Art
-            notiret worden sind, wenn einer von ihnen zum Fundament des Gesanges hat dienen sollen:
-            wie in der <bibl corresp="#ed_y43_m2l_tlb">zweiten Ero&#x0364;ffnung des Orchesters 
-            <lb /><hi rendition="#aq">p. 439. N<hi rendition="#sup">o</hi> 24.</hi></bibl> gezeiget worden ist. Ausser diesem Fall lassen sie sich sonst auch
-            <lb />mit zwey Kreutzen vor der Note ausdrucken. </p>
+            Gaſt iſt, u. ſ. w. Jn Erwegung deſſen habe hier nur
+            <lb/>das Dis und Gis auf zweierley Art vorſtellen, die andern ſieben zuruͤck laſſen, und ei-
+            <lb/>nem fleiſſigen General-Baſſiſten rathen wollen, ſein Heil ſelbſt daran zu verſuchen.
+            <lb/>Es kan nicht ſchaden: dafuͤr will ich einſtehen. Daß ich inzwiſchen nur von neun To-
+            <lb/>nen rede, die eine ſolche Verſetzung leiden, geſchiehet deßwegen, weil <hi rendition="#b">D, G</hi>, und <hi rendition="#b">A</hi>
+            <lb/>bißhero noch auf einerley Art notiret worden ſind, wenn einer von ihnen zum Funda-
+            <lb/>ment des Geſanges hat dienen ſollen: wie in der <bibl corresp="#ed_y43_m2l_tlb">zweiten Ero&#x0364;ffnung des Orcheſters
+            <lb/><hi rendition="#aq">p. 439. N<hi rendition="#sup">o</hi> 24.</hi></bibl> gezeiget worden iſt. Auſſer dieſem Fall laſſen ſie ſich ſonſt auch mit
+            <lb/>zwey Kreutzen vor der Note ausdrucken.
+          </p>
+          <fw place="bottom" type="catch">Funff-</fw>
         </div>
       </div>
     </body>

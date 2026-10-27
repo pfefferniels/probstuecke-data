@@ -31,10 +31,14 @@
         <body>
             <mdiv label="Example 2">
                 <score>
-                    <scoreDef key.pname="d" key.mode="minor" meter.unit="4" mnum.visible="false">
+                    <scoreDef key.pname="d" key.mode="minor" mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5"></staffDef>
-                            <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5"></staffDef>
+                            <staffDef xml:id="staffdef-variant-1" clef.shape="C" clef.line="1" n="1" lines="5">
+                                <meterSig count="4" unit="4" form="invis" />
+                            </staffDef>
+                            <staffDef xml:id="staffdef-bass" clef.shape="F" clef.line="4" n="2" lines="5">
+                                <meterSig count="4" unit="4" form="invis" />
+                            </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
@@ -43,11 +47,16 @@
                             <reg resp="#pfeffer">
                                 <scoreDef>
                                     <keySig sig="1f" />
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
                                 </scoreDef>
                             </reg>
                         </choice>
                         <sb />
-                        <measure corresp="#m-997">
+                        <measure corresp="#m-997" label="29">
                             <staff n="1">
                                 <layer n="1">
                                     <rest xml:id="ex-1001" dur="4" />
@@ -127,7 +136,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1027" right="invis" metcon="false">
+                        <measure corresp="#m-1027" label="30" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1037" dur="4" oct="5" pname="f">

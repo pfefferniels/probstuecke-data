@@ -76,29 +76,29 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2002" lry="2533" xml:id="facs-p374">
-      <graphic width="2002px" height="2533px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/374"/>
+    <surface ulx="0" uly="0" lrx="2002" lry="2533" xml:id="facs-p374" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/374">
+      <graphic width="2002px" height="2533px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00374/full/full/0/default.jpg"/>
       <zone ulx="81" uly="350" lry="1035" lrx="2002" xml:id="facsZone-p1-1"/>
       <zone ulx="78" uly="1017" lry="1418" lrx="2002" xml:id="facsZone-p2-1"/>
       <zone ulx="75" uly="1394" lry="2107" lrx="2002" xml:id="facsZone-music-example1"/>
       <zone ulx="72" uly="2080" lry="2301" lrx="2002" xml:id="facsZone-p2-2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1989" lry="2516" xml:id="facs-p375">
-      <graphic width="1989px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/375"/>
+    <surface ulx="0" uly="0" lrx="1989" lry="2516" xml:id="facs-p375" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/375">
+      <graphic width="1989px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00375/full/full/0/default.jpg"/>
       <zone ulx="22" uly="166" lry="307" lrx="1922" xml:id="facsZone-p2-2-2"/>
       <zone ulx="28" uly="305" lry="684" lrx="1916" xml:id="facsZone-p3-1"/>
       <zone ulx="31" uly="685" lry="1042" lrx="1941" xml:id="facsZone-p4-1"/>
       <zone ulx="22" uly="1031" lry="2155" lrx="1882" xml:id="facsZone-music-example2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2005" lry="2527" xml:id="facs-p376">
-      <graphic width="2005px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/376"/>
+    <surface ulx="0" uly="0" lrx="2005" lry="2527" xml:id="facs-p376" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/376">
+      <graphic width="2005px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00376/full/full/0/default.jpg"/>
       <zone ulx="111" uly="187" lry="662" lrx="1965" xml:id="facsZone-p5-1"/>
       <zone ulx="111" uly="660" lry="1233" lrx="1989" xml:id="facsZone-p6-1"/>
       <zone ulx="114" uly="1231" lry="1904" lrx="1968" xml:id="facsZone-music-example3"/>
       <zone ulx="111" uly="1874" lry="2290" lrx="1949" xml:id="facsZone-p7-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2004" lry="2518" xml:id="facs-p377">
-      <graphic width="2004px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/377"/>
+    <surface ulx="0" uly="0" lrx="2004" lry="2518" xml:id="facs-p377" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/377">
+      <graphic width="2004px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00377/full/full/0/default.jpg"/>
       <zone ulx="29" uly="180" lry="1307" lrx="1902" xml:id="facsZone-p7-1-2"/>
       <zone ulx="26" uly="1296" lry="2234" lrx="1908" xml:id="facsZone-p8-1"/>
     </surface>
@@ -120,7 +120,7 @@
           <head>§. 1.</head><lb/>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
             <hi rendition="#in">D</hi>Jeſes Prob-Stuͤck kann an Statt einer
-            <hi rendition="#aq"><foreign xml:lang="ita">Toccata</foreign></hi>, oder wenigſtens wie ei-<lb/>
+            <hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_toccata-1" corresp="#t_toccata">Toccata</term></foreign></hi>, oder wenigſtens wie ei-<lb/>
             ne gute <hi rendition="#aq"><foreign xml:lang="ita">Toccatina</foreign></hi>
             gebraucht werden, und geben ſchon im ersten Tact die<lb/>
             <ref target="#m-81 #m-84">beiden Achtel-Noten</ref> und
@@ -149,14 +149,14 @@
               da ſpringet man immer<lb/>
               Accord-Weiſe in der rechten Hand mit, und faͤngt von der Tertz an. Bey dem<lb/>
               <ref target="#m-269">ſechsten Tact</ref> wolle man mercken, daß die
-              <hi rendition="#aq">pag. 307.</hi> angefuͤhrte Brechung mit<lb/>
+              <hi rendition="#aq">pag. 307.</hi> angefuͤhrte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> mit<lb/>
               Sexten in der rechten Hand, folgender Geſtalt angebracht werden koͤnne:<lb/>
             </p>
             <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
               <ptr target="music-example1.xml"/>
             </notatedMusic>
             <p xml:id="p2-2" facs="#facsZone-p2-2 #facsZone-p2-2-2">
-              Selbige Art zu syncopiren iſt gantz leicht, und macht ein Aufſehen, als wenn<lb/>
+              Selbige Art zu <term xml:id="t_synkope-1" corresp="#t_synkope">syncopiren</term> iſt gantz leicht, und macht ein Aufſehen, als wenn<lb/>
               <fw place="bottom" type="catch">es</fw>
               <pb n="313" facs="#facs-p375"/>
               <choice>
@@ -172,7 +172,7 @@
             <p xml:id="p3-1" facs="#facsZone-p3-1">
               Jm <ref target="#m-433">neunten Tact</ref> koͤmmt dergleichen
               Gelegenheit abermahl vor, es kann deßwe-<lb/>
-              gen auch bemeldte Brechung wieder angebracht werden.
+              gen auch bemeldte <term xml:id="t_arpeggio-2" corresp="#t_arpeggio">Brechung</term> wieder angebracht werden.
               Wo der niedrige <ref target="#discant-ref">Diſcant-<lb/>
               Schluͤſſel</ref> einfaͤllt, und weiter hin,
               <ref target="#m-1267">wo der Baß denſelben Lauff in der Verſe-<lb/>
@@ -187,7 +187,7 @@
               <ref target="#m-635">Jm Anfange des andern Theils dieſes Prob-Stuͤcks</ref>, nach dem
               <ref target="#m-632">Endigungs-Zeichen<lb/>
               𝄐</ref> bricht man gantz fuͤglich die Accorde und uͤberſtehende
-              Zieffern auf eine bequeme,<lb/>
+              <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffern</term> auf eine bequeme,<lb/>
               oder langsame, bedaͤchtliche Art, bloß mit ſechszehntheilen,
               und faͤhret drey<lb/>
               Taͤcte damit fort. Soll ich meine Meynung mit Noten deutlicher <sic>endecken</sic>?<lb/>
@@ -225,8 +225,8 @@
                 <corr type="editorial" resp="#pfeffer">zu</corr>
               </choice> schlieſſen, daß, bey ſo bunter
               Art zu ſpielen, man da-<lb/>
-              ſelbſt nicht muͤßig ſeyn koͤnne. Es ſind aber unzaͤhlige Veraͤnderungen und ge-<lb/>
-              brochene Sachen anzubringen, die alle zu verzeichnen einen eigenen Band erfor-<lb/>
+              ſelbſt nicht muͤßig ſeyn koͤnne. Es ſind aber unzaͤhlige Veraͤnderungen und <term xml:id="t_arpeggio-3" corresp="#t_arpeggio">ge-<lb/>
+              brochene</term> Sachen anzubringen, die alle zu verzeichnen einen eigenen Band erfor-<lb/>
               derten. Will man ſich inzwischen auf die hiebeigefuͤgte Arten uͤben, so kann der<lb/>
               Nutz groß ſeyn. Denn dieſe Aufgaben ſind nicht nur ſo fuͤr ſich allein etwas<lb/>
               bunt eingerichtet; ſondern es ſind allgemeine Lehren darinnen begriffen, die man<lb/>
@@ -247,17 +247,17 @@
               ein und dreißig<lb/>
               sten;</ref><note type="editorial" resp="#pfeffer">32.</note>
               die <ref target="#m-1459">letzte Helffte deſſelben</ref> aber ſpielet man in beiden
-              Haͤnden mit Octaven,<lb/>
+              Haͤnden mit <term xml:id="t_all_ottava-1" corresp="#t_all_ottava">Octaven</term>,<lb/>
               wechſelt ſodann, mit Sexten und Octaven um, eine Clausul um die andere, bis zu den<lb/>
               <fw place="bottom" type="catch">drey</fw>
 
               <pb n="315" facs="#facs-p377"/>
-              <ref target="#m-1609">drey letzten Taͤcten</ref>, die alle Octaven-Weiſe koͤnnen geſpielet werden. Jch ſehe<lb/>
+              <ref target="#m-1609">drey letzten Taͤcten</ref>, die alle <term xml:id="t_all_ottava-2" corresp="#t_all_ottava">Octaven-Weiſe</term> koͤnnen geſpielet werden. Jch ſehe<lb/>
               ſchon zum Voraus, daß einigen, inſoderheit alten ſtarren Koͤpffen, bey dieſem<lb/>
               Octaven-Handel das Schuͤtteln ſtarck ankommen wird: weil ſie denken, diese<lb/>
               Weiſe zu ſpielen ſey ja gantz und gar wider die Kleider-Ordnung. Allein ſie moͤgen<lb/>
               dencken, was ihnen beliebet; wenn ſie nur glauben, daß mirs um nichts ſo ſehr, als<lb/>
-              um eine gute Wirckung im Spielen und Accompagnieren zu thun iſt, und daß ich<lb/>
+              um eine gute Wirckung im Spielen und <term xml:id="t_akkompagnieren-1" corresp="#t_akkompagnieren">Accompagnieren</term> zu thun iſt, und daß ich<lb/>
               nicht durch bloſſes Nachſinnen, ſondern aus langer ehmaligen Hand-Uebung, er-<lb/>
               fahren habe, wie gut ein ſolches Octaven-Weſen, inſoderheit bey ſtarcken Sachen,<lb/>
               in die Ohren falle. Jch habe aber auch befunden,
@@ -285,7 +285,7 @@
               ander uͤberliegende Quart-Seiten entworffen, nicht denckend, daß es im Druck<lb/>
               zweimahl ſo viel Raums erfodern, noch dem Spieler die verhaſſete Muͤhe des Um-<lb/>
               ſchlagens bey ſo geſchwinden Gaͤngen verurſachen solte. Jndeſſen weiſet es der Au-<lb/>
-              genſchein, daß mit den Druck-Noten nicht anders hat moͤgen verfahren werden:<lb/>
+              genſchein, daß mit den <term xml:id="t_drucknoten-1" corresp="#t_drucknoten">Druck-Noten</term> nicht anders hat moͤgen verfahren werden:<lb/>
               weil die dreigeſchwaͤntzte unter ihnen ſo ſehr viel Platz einnehmen, daß auch bißwei-<lb/>
               len nur ein halber Tact auf einer gantzen Zeile hat ſtehen koͤnnen. Jch beklage das<lb/>
               unfoͤrmliche Weſen derſelben Noten gar ſehr, weil es nicht nur ungeſchickt in die Au-<lb/>

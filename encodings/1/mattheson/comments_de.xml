@@ -76,19 +76,19 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2002" lry="2516" xml:id="facs-p367">
-      <graphic width="2002px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/367"/>
+    <surface ulx="0" uly="0" lrx="2002" lry="2516" xml:id="facs-p367" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/367">
+      <graphic width="2002px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00367/full/full/0/default.jpg"/>
       <zone ulx="26" uly="1036" lry="2039" lrx="1914" xml:id="facsZone-p1-1"/>
       <zone ulx="13" uly="2025" lry="2284" lrx="1883" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2043" lry="2525" xml:id="facs-p368">
-      <graphic width="2043px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/368"/>
+    <surface ulx="0" uly="0" lrx="2043" lry="2525" xml:id="facs-p368" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/368">
+      <graphic width="2043px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00368/full/full/0/default.jpg"/>
       <zone ulx="153" uly="179" lry="759" lrx="1998" xml:id="facsZone-p2-1-2"/>
       <zone ulx="150" uly="732" lry="2001" lrx="2016" xml:id="facsZone-music-example1"/>
       <zone ulx="150" uly="1968" lry="2307" lrx="2007" xml:id="facsZone-p2-2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p369">
-      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/369"/>
+    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p369" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/369">
+      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00369/full/full/0/default.jpg"/>
       <zone ulx="20" uly="175" lry="714" lrx="1883" xml:id="facsZone-p3-1"/>
       <zone ulx="18" uly="681" lry="1311" lrx="1893" xml:id="facsZone-music-example2"/>
       <zone ulx="20" uly="1296" lry="1580" lrx="1892" xml:id="facsZone-p4-1"/>
@@ -133,7 +133,7 @@
             <lb/>ten eine geſchwinde Spiel-Art, und zeigen vielmehr etwas freudiges, als betruͤb-
             <lb/>tes, an. Sollte aber fuͤrs andere, die ſchwartze Farbe hier bloß das Bild des Elen-
             <lb/>des bezeichnen, ſo moͤgte man lieber eine Kirche, oder andere geiſtliche Ehren-Ver-
-            <lb/>ſammlungen, als ein Noten-Buch dazu erwehlen; ſintemahl allda jederzeit mehr
+            <lb/>ſammlungen, als ein <term xml:id="t_notenbuch-1" corresp="#t_notenbuch">Noten-Buch</term> dazu erwehlen; ſintemahl allda jederzeit mehr
             <lb/>ſchwartze, als weiſſe Kleider anzutreffen ſind. Jch fuͤhre dieſes deswegen an, damit
             <lb/>keiner, bey den etwas ſchwartzen Noten dieſer Claſſe, dencken ſoll, er werde in die
             <lb/>Angst- oder Kreutz-Schule gefuͤhret; gantz und gar nicht, es darff niemand grauen:
@@ -166,7 +166,7 @@
             </notatedMusic>
           </figure>
           <p xml:id="p2-2" facs="#facsZone-p2-2">
-            <lb/>Daß die lincke Hand, bey dieſer Ausſchmuͤckung, die Zieffern und Accorde mitgreif-
+            <lb/>Daß die lincke Hand, bey dieſer <term xml:id="t_manieren-1" corresp="#t_manieren">Ausſchmuͤckung</term>, die <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffern</term> und Accorde mitgreif-
             <lb/>fen muͤsse, iſt hoffentlich ſchon genug geſaget worden, und haͤtte ich es mannig-
             <lb/>mahl gern im Baß just ſo hingeſetzt, als es ſeyn muß, wenn die Noten ſo wol in
             <lb/>einander koͤnnten gedruckt, als geſchrieben, oder auf Kupffer geſtochen werden.
@@ -185,7 +185,7 @@
             Jm <ref target="#m-873">fuͤnff und zwantzigſten Tact geht es wieder auf den vorigen Schlag.</ref>
             <lb/>Der <ref target="#m-1009 #m-1049 #m-1073">neun und zwantzigſte, dreyßigſte und ein und dreyßigſte Tact</ref>
             laſſen eine Um-
-            <lb/>wechslung zu, da die rechte Hand der lincken nachahmet, und, nach Maßgabung
+            <lb/>wechslung zu, da die rechte Hand der lincken <term xml:id="t_imitation-1" corresp="#t_imitation">nachahmet</term>, und, nach Maßgabung
             <lb/>des Haupt-Satzes,
             <ref target="#m-1019 #m-1051 #m-1060 #m-1075 #m-1083">zu den Vierteln</ref>
             moduliret. Wem es dunckel ſcheinet, der ſe-
@@ -210,7 +210,7 @@
             <lb/>Accorden, auch
             <ref target="#fb-1 #fb-2 #fb-3 #fb-4">Sexten und Quinten</ref>,
             etwas mehr, als gewoͤhnlich, geſpielet
-            <lb/>und ſyncopiret werde, etwa auf folgende Manier:
+            <lb/>und <term xml:id="t_synkope-1" corresp="#t_synkope">ſyncopiret</term> werde, etwa auf folgende <term xml:id="t_manieren-2" corresp="#t_manieren">Manier</term>:
           </p>
           <figure type="notatedMusic">
             <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">

@@ -74,26 +74,26 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1976" lry="2403" xml:id="facs-p428">
-      <graphic width="1977px" height="2404px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/428" />
+    <surface ulx="0" uly="0" lrx="1976" lry="2403" xml:id="facs-p428" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/428">
+      <graphic width="1977px" height="2404px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00428/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1908" lry="2397" xml:id="facs-p429">
-      <graphic width="1909px" height="2398px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/429" />
+    <surface ulx="0" uly="0" lrx="1908" lry="2397" xml:id="facs-p429" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/429">
+      <graphic width="1909px" height="2398px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00429/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2000" lry="2429" xml:id="facs-p430">
-      <graphic width="2001px" height="2430px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/430" />
+    <surface ulx="0" uly="0" lrx="2000" lry="2429" xml:id="facs-p430" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/430">
+      <graphic width="2001px" height="2430px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00430/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1971" lry="2409" xml:id="facs-p431">
-      <graphic width="1972px" height="2410px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/431" />
+    <surface ulx="0" uly="0" lrx="1971" lry="2409" xml:id="facs-p431" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/431">
+      <graphic width="1972px" height="2410px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00431/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1981" lry="2418" xml:id="facs-p432">
-      <graphic width="1982px" height="2419px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/432" />
+    <surface ulx="0" uly="0" lrx="1981" lry="2418" xml:id="facs-p432" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/432">
+      <graphic width="1982px" height="2419px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00432/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1970" lry="2387" xml:id="facs-p433">
-      <graphic width="1971px" height="2388px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/433" />
+    <surface ulx="0" uly="0" lrx="1970" lry="2387" xml:id="facs-p433" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/433">
+      <graphic width="1971px" height="2388px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00433/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lrx="1963" lry="2411" xml:id="facs-p434">
-      <graphic width="1964px" height="2412px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/434" />
+    <surface ulx="0" uly="0" lrx="1963" lry="2411" xml:id="facs-p434" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/434">
+      <graphic width="1964px" height="2412px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00434/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>

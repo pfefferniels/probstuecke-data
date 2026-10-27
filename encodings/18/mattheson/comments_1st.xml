@@ -7,22 +7,22 @@
         <title type="part">Mattheson: Der Ober-Classe Achtzehntes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <surname>Klaus</surname>
-            <forename>Rettinghaus</forename>
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -74,23 +74,23 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1968" lry="2418" xml:id="facs-p418" n="198">
-      <graphic width="1969px" height="2419px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/418" />
+    <surface ulx="0" uly="0" lrx="1968" lry="2418" xml:id="facs-p418" n="198" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/418">
+      <graphic width="1969px" height="2419px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00418/full/full/0/default.jpg" />
   </surface>
-  <surface ulx="0" uly="0" lrx="1917" lry="2415" xml:id="facs-p419" n="199">
-      <graphic width="1918px" height="2416px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/419" />
+  <surface ulx="0" uly="0" lrx="1917" lry="2415" xml:id="facs-p419" n="199" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/419">
+      <graphic width="1918px" height="2416px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00419/full/full/0/default.jpg" />
   </surface>
-  <surface ulx="0" uly="0" lrx="1974" lry="2406" xml:id="facs-p420" n="200">
-      <graphic width="1975px" height="2407px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/420" />
+  <surface ulx="0" uly="0" lrx="1974" lry="2406" xml:id="facs-p420" n="200" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/420">
+      <graphic width="1975px" height="2407px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00420/full/full/0/default.jpg" />
   </surface>
-  <surface ulx="0" uly="0" lrx="1935" lry="2398" xml:id="facs-p421" n="201">
-      <graphic width="1936px" height="2399px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/421" />
+  <surface ulx="0" uly="0" lrx="1935" lry="2398" xml:id="facs-p421" n="201" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/421">
+      <graphic width="1936px" height="2399px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00421/full/full/0/default.jpg" />
   </surface>
-  <surface ulx="0" uly="0" lrx="1961" lry="2408" xml:id="facs-p422" n="202">
-      <graphic width="1962px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/422" />
+  <surface ulx="0" uly="0" lrx="1961" lry="2408" xml:id="facs-p422" n="202" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/422">
+      <graphic width="1962px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00422/full/full/0/default.jpg" />
   </surface>
-  <surface ulx="0" uly="0" lrx="1909" lry="2384" xml:id="facs-p423" n="203">
-      <graphic width="1910px" height="2385px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/423" />
+  <surface ulx="0" uly="0" lrx="1909" lry="2384" xml:id="facs-p423" n="203" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/423">
+      <graphic width="1910px" height="2385px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00423/full/full/0/default.jpg" />
   </surface>
 </facsimile>
   <text>

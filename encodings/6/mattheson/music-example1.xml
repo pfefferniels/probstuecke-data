@@ -31,16 +31,29 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="f" key.mode="major" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="4" shape="C" />
                                 <keySig sig="1f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-282">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="4" shape="F" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#m-282" label="9">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="a" stem.dir="up" />
@@ -53,7 +66,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-310">
+                        <measure corresp="#m-310" label="10">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="g" stem.dir="up" />
@@ -65,7 +78,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-340">
+                        <measure corresp="#m-340" label="11">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="g" stem.dir="up" />
@@ -78,7 +91,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-369">
+                        <measure corresp="#m-369" label="12">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="f" stem.dir="up" />
@@ -90,7 +103,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-399">
+                        <measure corresp="#m-399" label="13">
                             <staff n="1">
                                 <layer>
                                     <note dur="2" oct="3" pname="f" stem.dir="up" />
@@ -103,7 +116,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-427" right="invis">
+                        <measure corresp="#m-427" label="14" right="invis">
                             <staff n="1">
                                 <layer>
                                     <note dots="1" dur="2" oct="3" pname="e" stem.dir="up" />

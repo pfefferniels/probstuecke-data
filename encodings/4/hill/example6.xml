@@ -52,7 +52,7 @@
                                 </scoreDef>
                             </reg>
                         </choice>
-                        <measure n="3">
+                        <measure n="3" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <space dur="4" />

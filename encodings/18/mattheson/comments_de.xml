@@ -76,22 +76,22 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1996" lry="2520" xml:id="facs-p469">
-          <graphic width="1996px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469"/>
+      <surface ulx="0" uly="0" lrx="1996" lry="2520" xml:id="facs-p469" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469">
+          <graphic width="1996px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00469/full/full/0/default.jpg"/>
           <zone ulx="33" uly="785" lry="1180" lrx="1949" xml:id="facsZone-p1-1"/>
           <zone ulx="27" uly="1135" lry="1779" lrx="1952" xml:id="facsZone-p2-1"/>
           <zone ulx="36" uly="1749" lry="2308" lrx="1952" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="2019" lry="2518" xml:id="facs-p470">
-          <graphic width="2019px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470"/>
+      <surface ulx="0" uly="0" lrx="2019" lry="2518" xml:id="facs-p470" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470">
+          <graphic width="2019px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00470/full/full/0/default.jpg"/>
           <zone ulx="57" uly="183" lry="417" lrx="2007" xml:id="facsZone-p3-1-2"/>
           <zone ulx="48" uly="403" lry="763" lrx="2004" xml:id="facsZone-p4-1"/>
           <zone ulx="50" uly="743" lry="1119" lrx="1987" xml:id="facsZone-p5-1"/>
           <zone ulx="48" uly="1116" lry="1693" lrx="1988" xml:id="facsZone-p6-1"/>
           <zone ulx="38" uly="1651" lry="2321" lrx="2000" xml:id="facsZone-music-example1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1975" lry="2545" xml:id="facs-p471">
-          <graphic width="1975px" height="2545px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471"/>
+      <surface ulx="0" uly="0" lrx="1975" lry="2545" xml:id="facs-p471" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471">
+          <graphic width="1975px" height="2545px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00471/full/full/0/default.jpg"/>
           <zone ulx="0" uly="281" lry="864" lrx="1885" xml:id="facsZone-music-example1-2"/>
           <zone ulx="0" uly="828" lry="1053" lrx="1897" xml:id="facsZone-p6-2"/>
           <zone ulx="3" uly="1641" lry="2344" lrx="1897" xml:id="facsZone-p8-1"/>
@@ -149,7 +149,7 @@
           <pb n="408" facs="#facs-p470"/>
           <lb/>als wenn nun ein niedriger Diſcant-Schluͤſſel davor ſtuͤnde. Die <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">folgenden vier
           <lb/>Taͤcte</ref>, biß zum Schluß des erſten Theils, werden gantz ſtarck, mit Zuſchlagung zu je-
-          <lb/>der Note, angegriffen, und vollſtimmig zu Ende gebracht.
+          <lb/>der Note, angegriffen, und <term xml:id="t_vollstimmigkeit-1" corresp="#t_vollstimmigkeit">vollſtimmig</term> zu Ende gebracht.
         </p>
       </div>
 
@@ -157,8 +157,8 @@
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/>Es ſtehet wol zu beobachten, daß im <ref target="#measure-0000001612761976">andern Tact des andern Theils</ref> die
-          <lb/>erſte Note durchgehet, welches ſelten alſo vorfaͤllt, und auf des Spielers Verſtand
-          <lb/>ankoͤmmt, da einer beobachten muß, auf welche Note der Nachdruck, oder der Ac-
+          <lb/>erſte Note <term xml:id="t_durchgang-1" corresp="#t_durchgang">durchgehet</term>, welches ſelten alſo vorfaͤllt, und auf des Spielers Verſtand
+          <lb/>ankoͤmmt, da einer beobachten muß, auf welche Note der <term xml:id="t_nachdruck-1" corresp="#t_nachdruck">Nachdruck</term>, oder der Ac-
           <lb/>cent faͤllt, welches hier nicht auf die erſte, ſondern auf die andere geſchieht, weil ſelbige
           <lb/>im ſteigen die letzte, und der Anfang eines neuen Ganges dabey vermacht iſt.
         </p>
@@ -190,7 +190,7 @@
             <ptr target="music-example1.xml"/>
           </notatedMusic>
           <pb n="409" facs="#facs-p471"/>
-          <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das vollſtimmigſte anſchla-
+          <lb/>Wobey jedoch unauſbleiblich die lincke Hand alles auf das <term xml:id="t_vollstimmigkeit-2" corresp="#t_vollstimmigkeit">vollſtimmigſte</term> anſchla-
           <lb/>gen muß, welches je und allewege feſt geſetzet wird.
         </p>
       </div>
@@ -205,7 +205,7 @@
           <lb/>natuͤrlicher Weiſe nicht ſo klar vorzutragen geſchickt ſey, als es wol offt einem Un-
           <lb/>kundigen noͤthig waͤre: dahero niemand zu verſtaͤndlich im Unterricht ſeyn kann, ſo,
           <lb/>daß auch wol gar eine kleine Weitlaͤuffigkeit und Wiederholung nicht gleich zu tadeln
-          <lb/>iſt, dafern ſie ihr Abſehen auf die Deutlichkeit gerichtet hat.
+          <lb/>iſt, dafern ſie ihr Abſehen auf die <term xml:id="t_deutlichkeit-1" corresp="#t_deutlichkeit">Deutlichkeit</term> gerichtet hat.
         </p>
       </div>
 
@@ -214,10 +214,10 @@
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Es hat der beruͤhmte <hi rendition="#b"><persName corresp="#ed_uyt_trx_qlb">Herr Telemann</persName></hi> ehemals
           <name type="musicalWork" ref="#ed_ilx_shj_vlb">ſechs Concerte</name> herauſge-
-          <lb/>geben, und gar ſauber in Kupffer ſtechen laſſen, die der weiland Durchlauchtige
-          <lb/><hi rendition="#b"><persName corresp="#ed_xxh_bgy_qlb">Printz Ernſt, von Sachſen-Weymar</persName></hi>, mit eigener Hand, und aus eigener
+          <lb/>geben, und gar ſauber in Kupffer ſtechen laſſen, die der weiland <term xml:id="t_fuersten-3" corresp="#t_fuersten">Durchlauchtige</term>
+          <lb/><hi rendition="#b"><persName corresp="#ed_xxh_bgy_qlb"><term xml:id="t_fuersten-2" corresp="#t_fuersten">Printz</term> Ernſt, von Sachſen-Weymar</persName></hi>, mit eigener Hand, und aus eigener
           <lb/>Erfindung geſetzet hat: in ſelbigen iſt das <hi rendition="#aq"><foreign xml:lang="ita">Concerto V.</foreign></hi> aus obigem Ton, und eins
-          <lb/>der ſchoͤnſten. Freie Fuͤrſten zu finden, die muſicaliſchen Schriften verfaſſen, und
+          <lb/>der ſchoͤnſten. Freie <term xml:id="t_fuersten-1" corresp="#t_fuersten">Fuͤrſten</term> zu finden, die muſicaliſchen Schriften verfaſſen, und
           <lb/>angefuͤhret werden koͤnnen, iſt ſonſt eine Sache, die nicht alle Tage aufſtoͤſſet;
           <lb/>der edlen Muſic aber einen ſonderbaren Vortheil giebt.
         </p>

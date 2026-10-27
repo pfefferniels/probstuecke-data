@@ -6,22 +6,22 @@
         <title type="part">Mattheson: Der Ober-Classe Dreizehntes Probstück</title>
         <editor>
           <persName xml:id="pfeffer">
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
         <editor>
           <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
-            <surname>Klaus</surname>
-            <forename>Rettinghaus</forename>
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -73,17 +73,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="2403" lrx="1982" xml:id="facs-p388">
-      <graphic width="1982px" height="2403px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/388" />
+    <surface ulx="0" uly="0" lry="2403" lrx="1982" xml:id="facs-p388" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/388">
+      <graphic width="1982px" height="2403px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00388/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lry="2415" lrx="1922" xml:id="facs-p389">
-      <graphic width="1922px" height="2415px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/389" />
+    <surface ulx="0" uly="0" lry="2415" lrx="1922" xml:id="facs-p389" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/389">
+      <graphic width="1922px" height="2415px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00389/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lry="2411" lrx="1966" xml:id="facs-p390">
-      <graphic width="1966px" height="2411px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/390" />
+    <surface ulx="0" uly="0" lry="2411" lrx="1966" xml:id="facs-p390" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/390">
+      <graphic width="1966px" height="2411px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00390/full/full/0/default.jpg" />
     </surface>
-    <surface ulx="0" uly="0" lry="2417" lrx="1921" xml:id="facs-p391">
-      <graphic width="1921px" height="2417px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/391" />
+    <surface ulx="0" uly="0" lry="2417" lrx="1921" xml:id="facs-p391" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/391">
+      <graphic width="1921px" height="2417px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00391/full/full/0/default.jpg" />
     </surface>
   </facsimile>
   <text>
@@ -258,7 +258,7 @@
         <lb/><head>§. 7.</head>
         <p xml:id="p7-1">
           <lb/>Vom
-          <ref target="#measure-0000000815808309">acht und zwantzigſten Tact</ref> an biß zu Ende moͤgen beyde Haͤnde
+          <ref target="#measure-0000000946035271">acht und zwantzigſten Tact</ref> an biß zu Ende moͤgen beyde Haͤnde
           <lb/><hi rendition="#aq">egalement</hi> ihre <hi rendition="#aq">Syncopation</hi> zuſammen fuͤhren, welches einen gar artigen <hi rendition="#aq">Effect</hi>
           <fw type="catch" place="bottom">thut,</fw>
           <pb n="173" facs="#facs-p391"/>

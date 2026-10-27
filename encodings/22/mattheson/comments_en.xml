@@ -7,16 +7,16 @@
         <title type="part">Mattheson: Der Ober-Classe zweiundzwanzigstes Probstück (english translation)</title>
         <editor role="translator">
           <persName xml:id="pfeffer">
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <persName>
-            <surname>Niels</surname>
-            <forename>Pfeffer</forename>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
           </persName>
         </publisher>
         <availability>
@@ -73,10 +73,10 @@
       <div n="3">
         <head>§. 3.</head>
         <p>
-          In the 19th measure, there is again a
-          <ref target="#si-suona-1">si suona</ref>, of which the meaning
+          In the 19th measure<note type="editorial" resp="#pfeffer">Measure 29, with the second <hi rendition="#i">si suona</hi>, is meant; measure 19 has none.</note>, there is again a
+          <ref target="#si-suona-2">si suona</ref>, of which the meaning
           is known,<note type="editorial" resp="#pfeffer">Cf. Probstück 5.</note> and where the
-          <ref target="#tutti-1">tutti</ref> enters, everything is possible <!-- ? -->
+          <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4">tutti</ref> enters, everything is possible <!-- ? -->
           which only sounds well.
           <ref target="#measure-0000000574431491">After the end of the first part</ref>,
           the right hand again begins to modulate, of which this may serve as an example: 

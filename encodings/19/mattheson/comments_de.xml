@@ -76,15 +76,15 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="2030" lry="2521" xml:id="facs-p474">
-          <graphic width="2030px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/474"/>
+      <surface ulx="0" uly="0" lrx="2030" lry="2521" xml:id="facs-p474" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/474">
+          <graphic width="2030px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00474/full/full/0/default.jpg"/>
           <zone ulx="109" uly="230" lry="769" lrx="2006" xml:id="facsZone-p1-1"/>
           <zone ulx="88" uly="733" lry="1233" lrx="2013" xml:id="facsZone-p2-1"/>
           <zone ulx="97" uly="1203" lry="1734" lrx="2022" xml:id="facsZone-p3-1"/>
           <zone ulx="103" uly="1710" lry="2305" lrx="2025" xml:id="facsZone-p4-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1983" lry="2527" xml:id="facs-p475">
-          <graphic width="1983px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/475"/>
+      <surface ulx="0" uly="0" lrx="1983" lry="2527" xml:id="facs-p475" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/475">
+          <graphic width="1983px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00475/full/full/0/default.jpg"/>
           <zone ulx="9" uly="189" lry="355" lrx="1931" xml:id="facsZone-p4-1-2"/>
           <zone ulx="5" uly="319" lry="1041" lrx="1936" xml:id="facsZone-p5-1"/>
           <zone ulx="12" uly="1017" lry="1696" lrx="1934" xml:id="facsZone-p6-1"/>
@@ -108,7 +108,7 @@
       <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <lb/><hi rendition="#in">H</hi>ier moͤgte nun wohl ein wenig Tactirens noͤthig ſeyn, zumahl fuͤr einen, der
+          <lb/><hi rendition="#in">H</hi>ier moͤgte nun wohl ein wenig <term xml:id="t_takt-1" corresp="#t_takt">Tactirens</term> noͤthig ſeyn, zumahl fuͤr einen, der
           <lb/>nicht feſt im Sattel ſitzt. Jch zweifle aber, ob ein ſolcher ſelber ſchlagen, oder
           <lb/>ſich den Tact lieber vorſchlagen laſſen wolle. Das letzte waͤre meines Erachtens,
           <lb/>das beſte, ſo koͤnnte man mit mehrer Aufmerckſamkeit das uͤbrige verrichten. Jn-
@@ -122,7 +122,7 @@
         <p xml:id="p2-1" facs="#facsZone-p2-1">
           <lb/>An den Orten dieſer Vorſchrift, wo die 6 ſo haͤuffig ſtehet, als wenns ihrer
           <lb/>aller Sammel-Platz waͤre, kann man, inſonderheit bey zweigeſchwaͤntzten Noten,
-          <lb/>entweder mit der Sext allein, oder mit der Tertz zukommen: doch ſo, daß, wenn
+          <lb/>entweder mit der <term xml:id="t_sexte-1" corresp="#t_sexte">Sext</term> allein, oder mit der Tertz zukommen: doch ſo, daß, wenn
           <lb/>die Sext die geſchwinden Noten mit ſpielet, die Tertz nicht mangele, ſondern lie-
           <lb/>ge; und im Gegentheil, wo die Tertzen mitlauffen, muß die Sext auch gegenwaͤr-
           <lb/>tig in der Hand ſeyn. An welchen Orten aber die Sext ſo geſchwinde abwechſelt, und
@@ -148,13 +148,13 @@
         <head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1 #facsZone-p4-1-2">
           <lb/>Wo der Satz mit einer Pauſe anfaͤngt, nemlich mit einem Achtel, da wird
-          <lb/>zu der darauf folgenden Note nichts, auch billig allhier nicht einmahl vorgeſchlagen;
+          <lb/>zu der darauf folgenden Note nichts, auch billig allhier nicht einmahl <term xml:id="t_vorschlag-1" corresp="#t_vorschlag">vorgeſchlagen</term>;
           <lb/>wiewol ich hievon den Anfang auſnehmen will, und rede nur von den Vorfaͤllen im
           <ref target="#rest-0000001531580152 #rest-0000001496543014 #rest-0000001713253157 #rest-0000001164364404 #rest-0000000844719707 #rest-0000001933121666 #rest-0000001173989907 #rest-0000001822354377 #rest-0000001679602312 #rest-0000001197851580 #rest-0000000964463351 #rest-0000000542946318 #rest-0000001539491416 #rest-0000002011106610 #rest-0000000875827094 #rest-0000001099723409">
           7. 8. 12. 19. 20. 21. 28. 29. 30. 31. 32. 41. 44. 45. 46. und 52ſten Tact</ref>. Nun faͤngt
           <lb/>zwar an allen dieſen Stellen der Tact nicht juſt mit der Pauſe an, es hat aber eben
           <lb/>die Urſach allda, daß zu der Note, welche auf die Pauſe folget, nichts muß geſchla-
-          <lb/>gen werden: weil ſie nemlich durchgehet, wenig ſonderliches zu bedeuten hat, und
+          <lb/>gen werden: weil ſie nemlich <term xml:id="t_durchgang-1" corresp="#t_durchgang">durchgehet</term>, wenig ſonderliches zu bedeuten hat, und
           <fw place="bottom" type="catch">nur</fw>
           <pb n="413" facs="#facs-p475"/>
           <lb/>nur nach der Abreiſſung gleichſam an Statt eines Haackens dienet, wodurch
@@ -165,13 +165,13 @@
       <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          <lb/>Jm <ref target="#measure-0000001060551138">funffzehnten Tact</ref> haben die Sexten wiederum die Schule, und liegen die
-          <lb/>Tertzen nur ſtille; Bey dem <ref target="#measure-0000001367850118">drey und zwantzigſten</ref> faͤllt mir eine Manier ein, die in
+          <lb/>Jm <ref target="#measure-0000001060551138">funffzehnten Tact</ref> haben die <term xml:id="t_sexte-2" corresp="#t_sexte">Sexten</term> wiederum die Schule, und liegen die
+          <lb/>Tertzen nur ſtille; Bey dem <ref target="#measure-0000001367850118">drey und zwantzigſten</ref> faͤllt mir eine <term xml:id="t_manieren-1" corresp="#t_manieren">Manier</term> ein, die in
           <lb/>der lincken Hand gar offt kann angebracht werden, um deſto mehr, weil uͤberhaupt
           <lb/>ſonſt ein groſſer Mangel am manierlichen Spielen (als da ſind: gute ſcharffe
-          <lb/>Triller, Vorſchlaͤge, Accente dergleichen) bey dem General-Baß geſpuͤhret
+          <lb/><term xml:id="t_triller-1" corresp="#t_triller">Triller</term>, <term xml:id="t_vorschlag-2" corresp="#t_vorschlag">Vorſchlaͤge</term>, Accente dergleichen) bey dem General-Baß geſpuͤhret
           <lb/>wird. Was ich hier verlange, betrifft den Sprung in die Tertz aufwaͤrts, allwo
-          <lb/>man mehrentheils <ref target="#mattheson-schleuffer">einen ſtarcken Schleuffer</ref> machen, und dem hohen Ton dadurch
+          <lb/>man mehrentheils <ref target="#mattheson-schleuffer">einen ſtarcken <term xml:id="t_schleifer-1" corresp="#t_schleifer">Schleuffer</term></ref> machen, und dem hohen Ton dadurch
           <lb/>eine ungemeine Staͤrcke geben kann. Es muß aber ſolcher Schleuffer nicht, wie et-
           <lb/>wa bey dem Singen, gezogen, ſondern kurtz und etwas hefftig gemacht werden, ge-
           <lb/>rade, als ob man die drey Finger zugleich hinſetzte, und nur einen nach
@@ -188,9 +188,9 @@
         <p xml:id="p6-1" facs="#facsZone-p6-1">
           <lb/>Jm <ref target="#measure-0000000452779095 #measure-0000002077720718">vier- und fuͤnff und dreiſſigſten</ref> Tact moͤgte jemand Wunder dencken, wo-
           <lb/>her ſich die harten Bezieferungen ſchrieben; es iſt aber die Sexte und der Accord zu den
-          <lb/>folgenden Noten, welche nur voraus genommen werden. Den auſſerordentlichen
-          <lb/>Durchgang<note place="foot" n="(*)">
-          <hi rendition="#aq"><foreign xml:lang="lat">Tranſitum irregularem.</foreign></hi></note>, oder die verwechſelten Noten<note place="foot" n="(**)">
+          <lb/>folgenden Noten, welche nur <term xml:id="t_antizipation-1" corresp="#t_antizipation">voraus genommen</term> werden. Den auſſerordentlichen
+          <lb/><term xml:id="t_durchgang-2" corresp="#t_durchgang">Durchgang</term><note place="foot" n="(*)">
+          <hi rendition="#aq"><foreign xml:lang="lat">Tranſitum irregularem.</foreign></hi></note>, oder die <term xml:id="t_wechselnoten-1" corresp="#t_wechselnoten">verwechſelten Noten</term><note place="foot" n="(**)">
           <hi rendition="#aq"><foreign xml:lang="ita">Note cambiate.</foreign></hi></note> kann ein jeder hier leicht erkennen.
           <lb/>Sie werden zwar manchem im Niederſchlage des Tacts etwas fremd vorkommen;
           <lb/>aber ſo lange es in der <bibl corresp="#ed_agf_ibx_5lb">hohen Schule der muſicaliſchen Compoſition</bibl> <hi rendition="#aq">p. 84.</hi> heiſſet: Auf
@@ -205,7 +205,7 @@
         <head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
           <lb/>Kan einer im <ref target="#measure-0000001126576291">ein und viertzigſten Tact</ref> mit der rechten Hand ein paar Noten
-          <lb/><hi rendition="#aq"><foreign xml:lang="ita">canonicè</foreign></hi> vorher ſpielen, und den Baß folgen laſſen, wird es nicht uͤbel ſtehen.
+          <lb/><hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_kanonischer_satz-1" corresp="#t_kanonischer_satz">canonicè</term></foreign></hi> vorher ſpielen, und den Baß folgen laſſen, wird es nicht uͤbel ſtehen.
           <lb/>Sonſt faͤllt wenig mehr zu mercken vor, das nicht mit dem, was bereits geſagt
           <lb/>worden, eine Verwandtſchaft haͤtte.
         </p>
@@ -214,8 +214,8 @@
       <div n="8">
         <head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          <lb/><persName corresp="#ed_dwf_j5x_qlb">Mſr. <hi rendition="#aq">St. Lambert</hi></persName> nennet dieſen Ton <hi rendition="#aq">p. 29.<foreign xml:lang="fra">F ut Fa Dièze mineur</foreign></hi>, und ſchrei-
-          <lb/>bet dabey: <hi rendition="#aq"><foreign xml:lang="fra">Rare</foreign></hi>. <hi rendition="#b">Fis mol</hi> iſt kuͤrtzer geſagt, und bey mir nichts rares.
+          <lb/><persName corresp="#ed_dwf_j5x_qlb">Mſr. <hi rendition="#aq">St. Lambert</hi></persName> nennet dieſen <term xml:id="t_ton-1" corresp="#t_ton">Ton</term> <hi rendition="#aq">p. 29.<foreign xml:lang="fra">F ut Fa Dièze mineur</foreign></hi>, und ſchrei-
+          <lb/>bet dabey: <hi rendition="#aq"><foreign xml:lang="fra">Rare</foreign></hi>. <hi rendition="#b"><term xml:id="t_fis_moll-1" corresp="#t_fis_moll">Fis mol</term></hi> iſt kuͤrtzer geſagt, und bey mir nichts rares.
         </p>
       </div>
       <fw place="bottom" type="catch">Zwan-</fw>

@@ -76,13 +76,13 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2039" lry="2519" xml:id="facs-p380">
-      <graphic width="2039px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/380"/>
+    <surface ulx="0" uly="0" lrx="2039" lry="2519" xml:id="facs-p380" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/380">
+      <graphic width="2039px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00380/full/full/0/default.jpg"/>
       <zone ulx="129" uly="345" lry="999" lrx="1995" xml:id="facsZone-p1-1"/>
       <zone ulx="127" uly="997" lry="2309" lrx="1981" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1999" lry="2510" xml:id="facs-p381">
-      <graphic width="1999px" height="2510px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/381"/>
+    <surface ulx="0" uly="0" lrx="1999" lry="2510" xml:id="facs-p381" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/381">
+      <graphic width="1999px" height="2510px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00381/full/full/0/default.jpg"/>
       <zone ulx="43" uly="154" lry="749" lrx="1928" xml:id="facsZone-p2-1-2"/>
       <zone ulx="31" uly="735" lry="1179" lrx="1925" xml:id="facsZone-p3-1"/>
       <zone ulx="362" uly="1158" lry="1729" lrx="1536" xml:id="facsZone-music-example1"/>
@@ -105,13 +105,13 @@
       <div n="1">
         <lb/><head>§. 1.</head>
         <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
-          <hi rendition="#in">D</hi>A iſt gut General-Baß ſpielen, wenn nicht mehr Ziffern vorkom̃en, als in
+          <hi rendition="#in">D</hi>A iſt gut General-Baß ſpielen, wenn nicht mehr <term xml:id="t_ziffern-1" corresp="#t_ziffern">Ziffern</term> vorkom̃en, als in
           <lb/>dieſem Exempel. Ey! wie wird ſich mancher freuen, daß die Zahlen ſo duͤn-
           <lb/>ne geſaͤet sind. Die Warheit zu geſtehen, ich muß den guten Leuten
           <lb/>auch dann und wann goͤnnen, daß sie Athem schoͤpffen; ſonſt wuͤrde es ihnen all-
           <lb/>zu ſauer. Es koͤnnte aber doch wol ſeyn, daß, in Betrachtung des Vortheils,
           <lb/>den wir nun vermeynen zu haben, indem ich in dieſer Claſſe keine Lehrlinge mehr,
-          <lb/>ſondern lauter Alt-Geſellen erkenne, eine oder die andere Signatur nicht eben ſo
+          <lb/>ſondern lauter Alt-Geſellen erkenne, eine oder die andere <term xml:id="t_signaturen-1" corresp="#t_signaturen">Signatur</term> nicht eben ſo
           <lb/>genau uͤbergeſchrieben, ſondern mit Fleiß weggelassen worden waͤre: damit auch der
           <lb/>Spieler ſein eignes Urtheil ſchaͤrffen, und ohne Stock gehen lerne.
         </p>
@@ -135,7 +135,7 @@
           <lb/>sters seiner offtermahls auf keine Weise uͤbereinkoͤmmt: alſo geht es auch mit
           <lb/>der Finger-Ordnung auf dem Clavier. So mancher als ſpielet, fast ſo manche
           <lb/>Art der so genannten
-          <hi rendition="#b"><foreign xml:lang="fra">Application</foreign></hi> wird man auch finden.
+          <hi rendition="#b"><foreign xml:lang="fra"><term xml:id="t_applikatur-1" corresp="#t_applikatur">Application</term></foreign></hi> wird man auch finden.
           Einer laͤufft mit vier,
           <lb/>der ander mit fuͤnff, etliche gar, und faſt eben ſo geſchwind, mit nur zween
           <lb/>Fingern. Es liegt auch nichts hieran; ſo lange man ſich nur eine gewisse Richt-
@@ -162,9 +162,9 @@
         <lb/><head>§. 3.</head>
         <lb/><p xml:id="p3-1" facs="#facsZone-p3-1">
           Jm <ref target="#m-420 #m-447">zehnten und folgenden Tact</ref> schlaͤgt die rechte Hand allemahl vor, wo
-          <lb/>die Pause ſtehet, solches giebt eine gar angenehme Brechung. Jm <ref target="#m-633">siebenzehnten Tact</ref>
+          <lb/>die Pause ſtehet, solches giebt eine gar angenehme <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term>. Jm <ref target="#m-633">siebenzehnten Tact</ref>
           <lb/>aber wird es umgekehret, und da ſchlaͤgt der Baß ſeine ehrbaren Viertel voran, wozu
-          <lb/>die rechte Hand, mit den Signaturen oder Accorden, auf die vorige Weiſe ſyncopirt.
+          <lb/>die rechte Hand, mit den <term xml:id="t_signaturen-2" corresp="#t_signaturen">Signaturen</term> oder Accorden, auf die vorige Weiſe <term xml:id="t_synkope-1" corresp="#t_synkope">ſyncopirt</term>.
           <lb/>Eben alſso wird es mit allen vorkommenden Vierteln gehalten, die durch Sech-
           <lb/>zehn-Theile abgeloͤſet werden, etwa auf dieſe Art:
         </p>
@@ -185,7 +185,7 @@
           <lb/>werden. Wenn demnach im
           <ref target="#m-956">ſechs und zwantzigſten Tact</ref> <hi rendition="#b">H dur</hi> ſtehet, muß
           <lb/>nicht von der Tertz, vielweniger von der Octave, ſondern bloß von der Quint in
-          <lb/>die Tertz, Sexten-Weise, aufwaͤrts geſprungen werden.
+          <lb/>die Tertz, <term xml:id="t_sexte-1" corresp="#t_sexte">Sexten-Weise</term>, aufwaͤrts geſprungen werden.
         </p>
         <fw place="bottom" type="catch">Vier-</fw>
       </div>

@@ -10,7 +10,11 @@ For every TEI file under encodings/ the script checks that
                   (these are the elements the website highlights); other
                   relative tokens must name existing files;
   3. ptr/@target  file references name existing files;
-  4. @corresp     '#ed_...' tokens name an xml:id in encodings/indices/*.xml.
+  4. @corresp     '#ed_...' and '#t_...' tokens, and the '#id' tokens of <term>
+                  (words tagged for the index of terms) and <item> (entries of
+                  Mattheson's Register), name an xml:id in encodings/indices/*.xml;
+                  tokens that name an XML file ('file.xml#id') name an existing
+                  file and xml:id.
 
 Problems are printed grouped by file. The exit status is 0 if there are none
 (apart from allowlisted ones), 1 if there are problems or stale allowlist
@@ -167,10 +171,15 @@ def check_tei(docs, path, rel, root, index_ids):
                     if error:
                         report(el, '@facs', token, f"neither a '#id' nor an existing file: {error}")
 
-        # 4. @corresp="#ed_..."
+        # 4. @corresp="#ed_...", <term corresp="#t_...">, @corresp="file.xml#id"
         for token in (el.get('corresp') or '').split():
-            if token.startswith('#ed_') and token[1:] not in index_ids:
+            if token.startswith('#') and token[1:] not in index_ids and (
+                    token.startswith(('#ed_', '#t_')) or el.tag in (TEI + 'term', TEI + 'item')):
                 report(el, '@corresp', token, f'no entry {token[1:]!r} in encodings/indices/*.xml')
+            elif classify(token) == 'file' and '.xml' in token:
+                error = check_file_token(docs, base_dir, token)
+                if error:
+                    report(el, '@corresp', token, error)
 
     # 2. ref/@target
     for ref in tei_elements(root, 'ref'):

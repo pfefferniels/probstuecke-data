@@ -76,14 +76,14 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2060" lry="2529" xml:id="facs-p400">
-      <graphic width="2060px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/400"/>
+    <surface ulx="0" uly="0" lrx="2060" lry="2529" xml:id="facs-p400" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/400">
+      <graphic width="2060px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00400/full/full/0/default.jpg"/>
       <zone ulx="115" uly="369" lry="1631" lrx="2027" xml:id="facsZone-p1-1"/>
       <zone ulx="112" uly="1617" lry="1928" lrx="2009" xml:id="facsZone-p2-1"/>
       <zone ulx="112" uly="1914" lry="2330" lrx="2030" xml:id="facsZone-p2-3"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1989" lry="2519" xml:id="facs-p401">
-      <graphic width="1989px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/401"/>
+    <surface ulx="0" uly="0" lrx="1989" lry="2519" xml:id="facs-p401" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/401">
+      <graphic width="1989px" height="2519px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00401/full/full/0/default.jpg"/>
       <zone ulx="37" uly="171" lry="717" lrx="1934" xml:id="facsZone-p3-1"/>
       <zone ulx="39" uly="697" lry="1409" lrx="1939" xml:id="facsZone-p4-1"/>
       <zone ulx="39" uly="1386" lry="1864" lrx="1930" xml:id="facsZone-p5-1"/>
@@ -111,12 +111,12 @@
             <lb/>die einen Alt ſingen: denn es ſchreyet alles den leidigen Diſcant. Bey ſo bewandten Umstaͤnden
             <lb/>lernet er nur ſeinen Schluͤssel kennen, und bekuͤmmert ſich dabey um keinen andern, als um den
             <lb/>Baß; damit iſt ſeine gantze Clavier-Weißheit aufgeschloſſen. Naͤchſt dieſem sind wir hier in Teut-
-            <lb/>schland guten Theils ſehr eckel, in Anſehung der Frantzoͤſiſchen Hand-Sachen, ob wol ſonſt alles an-
+            <lb/>schland guten Theils ſehr eckel, in Anſehung der Frantzoͤſiſchen <term xml:id="t_handsachen-1" corresp="#t_handsachen">Hand-Sachen</term>, ob wol ſonſt alles an-
             <lb/>dere, was Frantzoͤſiſch ſcheinet und heiſſet, angenommener und nachgeaͤffter Weiſe, auch ſo gar
             <lb/>das Tact-Pruͤgeln, bey uns willkommen ist. Jeder Lehrer vermeynet, seine eigene Geburten waͤ-
-            <lb/>ren die beſten zum Unterricht; ich aber halte dafuͤr, es mag einer noch ſo vortrefflich ſetzen, und
+            <lb/>ren die beſten zum <term xml:id="t_unterricht-1" corresp="#t_unterricht">Unterricht</term>; ich aber halte dafuͤr, es mag einer noch ſo vortrefflich ſetzen, und
             <lb/>wenn ers auch, ich weiß nicht wem, gleich thaͤte, ſoll er doch allezeit anderer Leute Arbeit, ſonder-
-            <lb/>lich bey dem Unterricht, mitnehmen, und ſich gesagt ſeyn laſſen:
+            <lb/>lich bey dem <term xml:id="t_unterricht-2" corresp="#t_unterricht">Unterricht</term>, mitnehmen, und ſich gesagt ſeyn laſſen:
             <quote xml:id="horaz-quote" corresp="#horaz-quote-trans" xml:lang="lat">
               <hi rendition="#aq">Nec tua laudabis studia,
               <lb/>aut aliena reprendes.</hi>
@@ -136,7 +136,7 @@
           </p>
           <lb/><p xml:id="p1-2">
             Wer nun in Frantzoͤſiſchen Hand-Stuͤcken etwas bewandert iſt, der wird ſchwerlich bey
-            <lb/>den Schluͤſſeln Schwierigkeit finden: maſſen die Veraͤnderung derſelben nirgend haͤuffiger vor-
+            <lb/>den <term xml:id="t_schluesselwechsel-1" corresp="#t_schluesselwechsel">Schluͤſſeln</term> Schwierigkeit finden: maſſen die Veraͤnderung derſelben nirgend haͤuffiger vor-
             <lb/>kommt, ob ſich gleich ſonſt die Sachen wol halten laſſen. Drittens schaͤmet ſich ein Knabe oder Bursche, der
             <lb/>einmahl dencket Organiſte zu werden, daß er ſolte eine Geige in die Hand nehmen, gerade, als waͤre
             <lb/>es ſchimpfflich; benimmt man aber dieſe abgeſchmackte Ehrfurcht ſeinem Untergebenen, und laͤſt ihn
@@ -144,7 +144,7 @@
             <hi rendition="#aq"><foreign xml:lang="ita">Braccio</foreign></hi>
             mitſpielen, ſo werden ihm die Schluͤſſel beſſer einge-
             <lb/>druckt und bekannt werden. Doch hievon fuͤr dißmahl genug; nur muß ich ſagen, daß dieſer Man-
-            <lb/>gel mich veranlaſſet hat, das beſagte gemeine Alt-Zeichen hier offt zu gebrauchen.
+            <lb/>gel mich veranlaſſet hat, das beſagte gemeine <term xml:id="t_altschluessel-1" corresp="#t_altschluessel">Alt-Zeichen</term> hier offt zu gebrauchen.
           </p>
         </div>
 
@@ -157,7 +157,7 @@
             <lb/>ren, wenn er das Exempel gleich, zum Versuch, etwas langſamer ſpielet. Dieſes ist von Studierenden zu
             <lb/>verſtehen. Einem ſeyn-wollenden Meiſter aber wird ſolche Freiheit nicht erlaubet: er mag das Stuͤck eine
             <lb/>Weile an- und durchſehen; ſetzt er aber die Hand an, ſo muß es gehen, wie es gehen ſoll, das iſt, auf
-            <lb/>das allerhurtigſte.
+            <lb/>das <term xml:id="t_fingerfertigkeit-1" corresp="#t_fingerfertigkeit">allerhurtigſte</term>.
           </p>
         </div>
 
@@ -167,7 +167,7 @@
             Hiebey kann ich nicht unberuͤhret laſſen, was der
             <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
             ſeinem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
-            <lb/>d'accompagnement p. 58.</hi></bibl>, von der Geſchwindigkeit fuͤr beſonders traͤge Gedancken fuͤhret. Jch
+            <lb/>d'accompagnement p. 58.</hi></bibl>, von der <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken fuͤhret. Jch
             <lb/>will die Worte immer verteutschen:
             <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
               <hi rendition="#b">
@@ -218,7 +218,7 @@
           <lb/><head>§. 4.</head>
           <lb/><p xml:id="p4-1" facs="#facsZone-p4-1">
             Es ſtehet uͤbrigens zu wissen, daß der gantze Schmuck dieſer Vorſchrift darin beruhet, wenn
-            <lb/>man Note vor Note mit der rechten Hand, es ſey nun Tertzen-Weiſe, (welches das meiſte ausmacht)
+            <lb/>man Note vor Note mit der rechten Hand, es ſey nun <term xml:id="t_terz-1" corresp="#t_terz">Tertzen-Weiſe</term>, (welches das meiſte ausmacht)
             <lb/>oder aber mit Sexten und Quarten, wie es dann und wann die Harmonie erfordert, ſo verfaͤhrt, daß
             <lb/>es immer ohne Abſatz fortgehe, als ob beide Haͤnde einerley ſpielten; da es doch ſehr verſchiedene Dinge
             <lb/>ſind. Wer es nicht recht begreifft, dem will ich ein Paar Taͤcte zu Gefallen zergliedern; da denn die
@@ -250,9 +250,9 @@
         <div n="5">
           <lb/><head>§. 5.</head>
           <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
-            Die Freiheit ſo ich mir ſonſt hier gegeben, aus dem Sprengel zu weichen, und
+            Die Freiheit ſo ich mir ſonſt hier gegeben, aus dem <term xml:id="t_ambitus-1" corresp="#t_ambitus">Sprengel</term> zu weichen, und
             <ref target="#note-0000000847506698 #note-0000000488499091">einen Schluß in
-            <lb/>die Secund anzubringen</ref>, entſtehet daher, weil ich endlich auch nicht gar der Mode abſagen mag;
+            <lb/>die <term xml:id="t_sekunde-1" corresp="#t_sekunde">Secund</term> anzubringen</ref>, entſtehet daher, weil ich endlich auch nicht gar der Mode abſagen mag;
             <lb/>da es ſonſt bey mir etwas rares iſt, allen ſelstſamen Artigkeiten Zutritt zu verſtatten. Dann und
             <lb/>wann laͤſt ſichs thun, ein Handwerck moͤgte ich nicht daraus machen. So iſt es auch mit der Secunde
             <lb/>bey den harten Tonen noch ziemlich natuͤrlich; aber nicht bey weichen, welche es lieber in die Septi-

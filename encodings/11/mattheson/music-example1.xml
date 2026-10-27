@@ -31,20 +31,37 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="e" key.accid="f" key.mode="major" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="G" />
                                 <keySig sig="3f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="3" shape="C" />
                                 <keySig sig="3f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000448770319">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                        <staffDef n="2">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000000448770319" label="4">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="4" oloc="5" ploc="a" />
@@ -122,7 +139,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001465389423">
+                        <measure corresp="#measure-0000001465389423" label="5">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="4" oct="5" pname="f" stem.dir="down" xml:id="ex-1769775861" />
@@ -201,7 +218,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001029700479">
+                        <measure corresp="#measure-0000001029700479" label="6">
                             <staff n="1">
                                 <layer n="1">
                                     <note dur="4" oct="5" pname="e" stem.dir="down" accid.ges="f" xml:id="ex-1193092165" />
@@ -282,7 +299,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure n="7" right="invis">
+                        <measure n="7" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="5" pname="d" />
