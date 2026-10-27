@@ -14,6 +14,7 @@ First versioned release.
 - `scripts/check_accidentals.py` to check the written accidentals of the MEI encodings against the edition's convention for the diplomatic and the modernised view (`<orig>`, `<supplied>`/`<reg>`, `@func="caution"`), with the rules the full scores follow
 - Accidentals of the music examples encoded for the diplomatic and the modernised view as in the scores: superfluous printed ones in `<orig>`, missing and cautionary ones in `<supplied>`, so that the website can show the examples in modern notation, too
 - GitHub Actions workflow running both checks on pull requests and on `main`
+- `scripts/check_facsimile.py` to check the facsimile links (canvases, image sizes, zones against staves and barlines), and the scripts in `scripts/facsimile_repair/` that repaired them
 - `encodings/about/about_en.xml`: description of the edition, its sources, selection, editorial approach, credits and licences
 - Publisher and CC BY 4.0 licence statements in the index files
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
@@ -35,3 +36,7 @@ First versioned release.
 - In the 1719 text of Probstück 12, "ſonſt" was encoded with combining e instead of ſ
 - Transcription errors checked against the prints: "Wotte", "kit", "niht", "gafallen", "durgehen", "oͤffentlih", "nocht", "jerderzeit", "weidloch", "mansehnlich", "besanden" (for Worte, mit, nicht, gefallen, durchgehen, oͤffentlich, noch, jederzeit, weidlich, man ſehnlich, beſtanden); f for ſ in "derfelben", "felbiges", "geftimmet", "geftehet", "Organiften-Probe", "ausfchlieſſen"; a missing hyphen in "brilli-ren" (Probstück 2, 1719)
 - In the second music example of Probstück 24, the e of bar 2 was encoded as e sharp; Mattheson's text (§ 19) says that it returns to e natural and that the composer left out the sign
+- Facsimile links: 183 surfaces pointed to the wrong BSB canvas and 349 declared outdated image sizes; the zones of the 1731 print, drawn on the images of 2019, are rescaled to today's images; damaged zones restored, zones attached to the wrong bars moved, missing bar zones added, and six commentary paragraphs linked to their zones
+- Page numbers of 14 page breaks corrected against the prints
+- Nos. 14 and 24 keep both notations in `score.xml` (with `mdiv/@label`); the duplicate `score-2.xml` files are removed. The second notation of No. 24 declared the wrong staff, which made Verovio crash
+- Two mistyped figures: No. 19, bar 37, and No. 22, first example, bar 7 (raised sixths)
