@@ -60,8 +60,8 @@
             <score xml:id="score-0000000976813279">
                <scoreDef xml:id="scoredef-0000001400937926">
                   <staffGrp xml:id="staffgrp-0000001692886313">
-                     <staffDef xml:id="P1" n="1" lines="5" ppq="256" clef.shape="G" clef.line="2" key.mode="major" key.sig="5f" meter.count="12" meter.unit="8" />
-                     <staffDef xml:id="P2" n="2" lines="5" ppq="256" clef.shape="F" clef.line="4" key.mode="major" key.sig="5f" meter.count="12" meter.unit="8" />
+                     <staffDef xml:id="P1" n="1" lines="5" clef.shape="G" clef.line="2" key.mode="major" key.sig="5f" meter.count="12" meter.unit="8" />
+                     <staffDef xml:id="P2" n="2" lines="5" clef.shape="F" clef.line="4" key.mode="major" key.sig="5f" meter.count="12" meter.unit="8" />
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000001676453731">
@@ -84,7 +84,7 @@
                               <note xml:id="note-0000001549588293" oct="4" pname="f" />
                            </chord>
                            <chord xml:id="chord-0000001868152105" dots="1" dur="4" stem.dir="up">
-                              <note xml:id="note-0000000876966230" oct="4" pname="d" color="#000000">
+                              <note xml:id="note-0000000876966230" oct="4" pname="d">
                                  <accid xml:id="accid-0000001519549216" accid="n" />
                               </note>
                               <note xml:id="note-0000000780668021" oct="4" pname="f" />
@@ -159,7 +159,7 @@
                            <note xml:id="note-0000001696047662" dur="8" oct="3" pname="b" stem.dir="up" accid.ges="f" />
                            <chord xml:id="chord-0000001030044939" dots="1" dur="4" stem.dir="up">
                               <note xml:id="note-0000000847365068" oct="3" pname="a" accid.ges="f" />
-                              <note xml:id="note-0000000598597350" oct="4" pname="d" color="#000000">
+                              <note xml:id="note-0000000598597350" oct="4" pname="d">
                                  <accid xml:id="accid-0000000143694491" accid="n" />
                               </note>
                            </chord>
@@ -190,7 +190,7 @@
                            <rest xml:id="rest-0000001323988485" dots="1" dur="4" />
                            <rest xml:id="rest-0000000767831043" dur="4" />
                            <chord xml:id="chord-0000000740828794" dur="8" stem.dir="down">
-                              <note xml:id="note-0000000417017573" oct="5" pname="c" color="#000000">
+                              <note xml:id="note-0000000417017573" oct="5" pname="c">
                                  <accid xml:id="accid-0000000047138341" accid="f" accid.ges="f" />
                               </note>
                               <note xml:id="note-0000000373977082" oct="5" pname="g" accid.ges="f" />
@@ -244,7 +244,7 @@
                            </chord>
                            <chord xml:id="chord-0000001682480765" dots="1" dur="4" stem.dir="down">
                               <note xml:id="note-0000000805724493" oct="4" pname="b" accid.ges="f" />
-                              <note xml:id="note-0000000522214057" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000000522214057" oct="5" pname="d">
                                  <accid xml:id="accid-0000000061629560" accid="n" />
                               </note>
                               <note xml:id="note-0000000388503994" oct="5" pname="f" />
@@ -290,7 +290,7 @@
                            </chord>
                            <chord xml:id="chord-0000000877519968" dots="1" dur="4" stem.dir="down">
                               <note xml:id="note-0000001737352766" oct="4" pname="a" accid.ges="f" />
-                              <note xml:id="note-0000000774677393" oct="5" pname="c" color="#000000">
+                              <note xml:id="note-0000000774677393" oct="5" pname="c">
                                  <accid xml:id="accid-0000001853207535" accid="f" accid.ges="f" />
                               </note>
                               <note xml:id="note-0000001300256505" oct="5" pname="e" accid.ges="f" />
@@ -335,7 +335,7 @@
                            <chord xml:id="chord-0000000980118232" dur="8" stem.dir="down">
                               <note xml:id="note-0000001151988470" oct="4" pname="a" accid.ges="f" />
                               <note xml:id="note-0000000893140544" oct="4" pname="b" accid.ges="f" />
-                              <note xml:id="note-0000001009161285" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000001009161285" oct="5" pname="d">
                                  <accid xml:id="accid-0000001576885834" accid="n" />
                               </note>
                               <note xml:id="note-0000001109281928" oct="5" pname="f" />
@@ -348,10 +348,10 @@
                            </chord>
                            <chord xml:id="chord-0000000309392463" dur="4" stem.dir="down">
                               <note xml:id="note-0000000948494662" oct="4" pname="g" accid.ges="f" />
-                              <note xml:id="note-0000001215756578" oct="4" pname="a" color="#000000">
+                              <note xml:id="note-0000001215756578" oct="4" pname="a">
                                  <accid xml:id="accid-0000002014842994" accid="n" />
                               </note>
-                              <note xml:id="note-0000000844352456" oct="5" pname="c" color="#000000">
+                              <note xml:id="note-0000000844352456" oct="5" pname="c">
                                  <accid xml:id="accid-0000001303004037" accid="n" />
                               </note>
                               <note xml:id="note-0000001968520566" oct="5" pname="e" accid.ges="f" />
@@ -395,7 +395,7 @@
                         <layer xml:id="layer-0000000072226356" n="1">
                            <beam xml:id="beam-0000000670622744">
                               <chord xml:id="chord-0000001968056423" dur="8" stem.dir="down">
-                                 <note xml:id="note-0000000234336727" oct="4" pname="a" color="#000000">
+                                 <note xml:id="note-0000000234336727" oct="4" pname="a">
                                     <accid xml:id="accid-0000000816216862" accid="n" />
                                  </note>
                                  <note xml:id="note-0000001218203329" oct="5" pname="c" />
@@ -406,13 +406,13 @@
                            </beam>
                            <rest xml:id="rest-0000000156289275" dur="8" />
                            <chord xml:id="chord-0000001927945798" dur="4" stem.dir="down">
-                              <note xml:id="note-0000000686549972" oct="4" pname="a" color="#000000">
+                              <note xml:id="note-0000000686549972" oct="4" pname="a">
                                  <accid xml:id="accid-0000001089720664" accid="f" accid.ges="f" />
                               </note>
-                              <note xml:id="note-0000001311897405" oct="5" pname="c" color="#000000">
+                              <note xml:id="note-0000001311897405" oct="5" pname="c">
                                  <accid xml:id="accid-0000000955235285" accid="f" accid.ges="f" />
                               </note>
-                              <note xml:id="note-0000000425998080" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000000425998080" oct="5" pname="d">
                                  <accid xml:id="accid-0000000231072052" accid="n" />
                               </note>
                               <note xml:id="note-0000001000653577" oct="5" pname="f" />
@@ -421,7 +421,7 @@
                               <note xml:id="note-0000000063841132" oct="5" pname="c" accid.ges="f" />
                               <note xml:id="note-0000002042713065" oct="5" pname="d" />
                               <note xml:id="note-0000002026339344" oct="5" pname="f" />
-                              <note xml:id="note-0000000578617156" oct="5" pname="a" color="#000000">
+                              <note xml:id="note-0000000578617156" oct="5" pname="a">
                                  <accid xml:id="accid-0000001184002071" accid="f" accid.ges="f" />
                               </note>
                            </chord>
@@ -451,7 +451,7 @@
                               <chord xml:id="chord-0000001588857149" dur="8" stem.dir="up">
                                  <note xml:id="note-0000000429454429" oct="4" pname="f" />
                                  <note xml:id="note-0000000691548351" oct="4" pname="a" accid.ges="f" />
-                                 <note xml:id="note-0000001443319147" oct="5" pname="d" color="#000000">
+                                 <note xml:id="note-0000001443319147" oct="5" pname="d">
                                     <accid xml:id="accid-0000000522490509" accid="n" />
                                  </note>
                               </chord>
@@ -972,7 +972,7 @@
                         <layer xml:id="layer-0000000562371792" n="1">
                            <beam xml:id="beam-0000001131211158">
                               <chord xml:id="chord-0000000698770477" dur="8" stem.dir="down">
-                                 <note xml:id="note-0000001910953227" oct="3" pname="a" color="#000000">
+                                 <note xml:id="note-0000001910953227" oct="3" pname="a">
                                     <accid xml:id="accid-0000000290544565" accid="n" />
                                  </note>
                                  <note xml:id="note-0000000926875989" oct="4" pname="c" />
@@ -1026,7 +1026,7 @@
                         <layer xml:id="layer-0000001642805449" n="1">
                            <chord xml:id="chord-0000001387860490" dots="1" dur="4" stem.dir="up">
                               <note xml:id="note-0000000927354784" oct="4" pname="e" accid.ges="f" />
-                              <note xml:id="note-0000000187048873" oct="4" pname="a" color="#000000">
+                              <note xml:id="note-0000000187048873" oct="4" pname="a">
                                  <accid xml:id="accid-0000001142676512" accid="n" />
                               </note>
                            </chord>
@@ -1098,17 +1098,17 @@
                            <chord xml:id="chord-0000002105027694" dur="8" stem.dir="down">
                               <note xml:id="note-0000001464612817" oct="4" pname="c" />
                               <note xml:id="note-0000002118122049" oct="4" pname="d" />
-                              <note xml:id="note-0000001180600257" oct="4" pname="f" color="#000000">
+                              <note xml:id="note-0000001180600257" oct="4" pname="f">
                                  <accid xml:id="accid-0000000014906664" accid="s" accid.ges="s" />
                               </note>
-                              <note xml:id="note-0000001436594244" oct="4" pname="a" color="#000000">
+                              <note xml:id="note-0000001436594244" oct="4" pname="a">
                                  <accid xml:id="accid-0000001726691591" accid="n" />
                               </note>
                            </chord>
                            <chord xml:id="chord-0000000295934048" dots="1" dur="4" stem.dir="down">
                               <note xml:id="note-0000000694609364" oct="3" pname="b" accid.ges="f" />
                               <note xml:id="note-0000001376663916" oct="4" pname="d" />
-                              <note xml:id="note-0000002017429138" oct="4" pname="g" color="#000000">
+                              <note xml:id="note-0000002017429138" oct="4" pname="g">
                                  <accid xml:id="accid-0000001571131878" accid="n" />
                               </note>
                            </chord>
@@ -1135,24 +1135,24 @@
                               <note xml:id="note-0000000958031077" oct="5" pname="b" accid.ges="f" />
                            </chord>
                            <chord xml:id="chord-0000000035982087" dots="1" dur="4" stem.dir="up">
-                              <note xml:id="note-0000000223514651" oct="5" pname="f" color="#000000">
+                              <note xml:id="note-0000000223514651" oct="5" pname="f">
                                  <accid xml:id="accid-0000001563488868" accid="n" />
                               </note>
-                              <note xml:id="note-0000000159322735" oct="5" pname="a" color="#000000">
+                              <note xml:id="note-0000000159322735" oct="5" pname="a">
                                  <accid xml:id="accid-0000001527237013" accid="f" accid.ges="f" />
                               </note>
                            </chord>
                            <rest xml:id="rest-0000001082179738" dur="4" />
                            <chord xml:id="chord-0000000481515515" dur="8" stem.dir="down">
-                              <note xml:id="note-0000000349919620" oct="5" pname="c" color="#000000">
+                              <note xml:id="note-0000000349919620" oct="5" pname="c">
                                  <accid xml:id="accid-0000000605668520" accid="n" />
                               </note>
-                              <note xml:id="note-0000000002346989" oct="5" pname="e" color="#000000">
+                              <note xml:id="note-0000000002346989" oct="5" pname="e">
                                  <accid xml:id="accid-0000000326005705" accid="f" accid.ges="f" />
                               </note>
                            </chord>
                            <chord xml:id="chord-0000000404306306" dur="4" stem.dir="down">
-                              <note xml:id="note-0000001619567672" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000001619567672" oct="5" pname="d">
                                  <accid xml:id="accid-0000001592287375" accid="n" />
                               </note>
                               <note xml:id="note-0000000724014324" oct="5" pname="f" />
@@ -1203,12 +1203,12 @@
                               <note xml:id="note-0000001082121914" oct="5" pname="b" accid.ges="f" />
                            </chord>
                            <chord xml:id="chord-0000000694082705" dots="1" dur="4" stem.dir="down">
-                              <note xml:id="note-0000002075765770" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000002075765770" oct="5" pname="d">
                                  <accid xml:id="accid-0000000228182085" accid="n" />
                               </note>
                               <note xml:id="note-0000001430910499" oct="5" pname="f" />
                               <note xml:id="note-0000000892727685" oct="5" pname="a" accid.ges="f" />
-                              <note xml:id="note-0000001874139653" oct="6" pname="c" color="#000000">
+                              <note xml:id="note-0000001874139653" oct="6" pname="c">
                                  <accid xml:id="accid-0000000286128584" accid="f" accid.ges="f" />
                               </note>
                            </chord>
@@ -1255,7 +1255,7 @@
                               </chord>
                               <chord xml:id="chord-0000000462051088" dur="8" stem.dir="down">
                                  <note xml:id="note-0000000876471412" oct="4" pname="a" accid.ges="f" />
-                                 <note xml:id="note-0000001619858642" oct="5" pname="c" color="#000000">
+                                 <note xml:id="note-0000001619858642" oct="5" pname="c">
                                     <accid xml:id="accid-0000001615721439" accid="f" accid.ges="f" />
                                  </note>
                                  <note xml:id="note-0000002114314092" oct="5" pname="f" />
@@ -1269,7 +1269,7 @@
                            <chord xml:id="chord-0000000093449062" dur="8" stem.dir="up">
                               <note xml:id="note-0000001981100843" oct="4" pname="f" />
                               <note xml:id="note-0000001299081673" oct="4" pname="b" accid.ges="f" />
-                              <note xml:id="note-0000002108463663" oct="5" pname="d" color="#000000">
+                              <note xml:id="note-0000002108463663" oct="5" pname="d">
                                  <accid xml:id="accid-0000000365529221" accid="n" />
                               </note>
                            </chord>

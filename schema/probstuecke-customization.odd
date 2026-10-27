@@ -106,7 +106,8 @@
         <moduleRef key="MEI.midi" except="noteOff midi metaText marker instrGrp instrDef cue hex chanPr chan cc noteOn port prog seqNum trkName vel" />
         <moduleRef key="MEI.namesdates" />
         <moduleRef key="MEI.ptrref" />
-        <moduleRef key="MEI.shared" except="actor ambitus ambNote analytic arranger artic caesura caption castGrp castItem castList cb colLayout clefGrp contributor creation dedicatee depth funder group height imprint lb lg librettist lyricist monogr eventList event ending dynam num pad parts phrase physLoc recipient relatedItem relation relationList repository speaker sponsor stack symbol width" />
+        <!-- lb is kept for line breaks in directives, e.g. "Da / Capo." in No. 22 -->
+        <moduleRef key="MEI.shared" except="actor ambitus ambNote analytic arranger artic caesura caption castGrp castItem castList cb colLayout clefGrp contributor creation dedicatee depth funder group height imprint lg librettist lyricist monogr eventList event ending dynam num pad parts phrase physLoc recipient relatedItem relation relationList repository speaker sponsor stack symbol width" />
         <moduleRef key="MEI.visual" />
 
         <!-- Include SVG -->
@@ -133,12 +134,24 @@
         <classSpec type="atts" ident="att.tabular" mode="delete" />
         <classSpec type="atts" ident="att.symbol.vis" mode="delete" />
 
+        <!-- accid and dot may appear inside editorial markup and inside readings
+             (app/lem/rdg) within a note, but not directly in a layer -->
         <classSpec ident="model.noteModifierLike" module="MEI.shared" type="model" mode="replace">
           <desc>Groups elements that modify note-like features.</desc>
           <classes>
             <memberOf key="model.editTransPart.music" />
+            <memberOf key="model.rdgPart.music" />
           </classes>
         </classSpec>
+
+        <!-- As in MEI 5, a custos may contain the accidental printed with it -->
+        <elementSpec ident="custos" module="MEI.shared" mode="change">
+          <content>
+            <rng:zeroOrMore>
+              <rng:ref name="accid" />
+            </rng:zeroOrMore>
+          </content>
+        </elementSpec>
       </schemaSpec>
     </body>
   </text>
