@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:rng="http://relaxng.org/ns/structure/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MEI Customization for the Work List of Probstücke Digital</title>
+        <respStmt>
+          <resp>Authored by</resp>
+          <name>Niels Pfeffer</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p />
+      </publicationStmt>
+      <sourceDesc>
+        <p />
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Scope</head>
+        <p>
+          <ident>encodings/works.xml</ident> lists the 24 Probstücke (<gi>work</gi>) and the texts
+          about each of them (<gi>expression</gi>: the editions of 1719 and 1731, the translation,
+          the realisations). The website builds its overview and the links between the versions
+          from this file. It is an MEI document that consists of a header only.
+        </p>
+        <p>
+          This customization of MEI 4.0.1 accepts the file as it is used by the website. It differs
+          from MEI in these points:
+          <list>
+            <item><gi>mei</gi> may consist of <gi>meiHead</gi> alone, without <gi>music</gi>;</item>
+            <item><gi>meiHead</gi> may lack <gi>fileDesc</gi>;</item>
+            <item><gi>expression</gi> does not need a <gi>title</gi>, since it is identified by
+              <att>data</att>, which points to the <att>xml:id</att> of the TEI document;</item>
+            <item><gi>language</gi> has an <att>ident</att> attribute with the ISO 639-2 code
+              of the language (e.g. <code>deu</code>), which the website reads.</item>
+          </list>
+        </p>
+      </div>
+      <div>
+        <head>Formal specification</head>
+        <schemaSpec ident="mei" ns="http://www.music-encoding.org/ns/mei" prefix="mei_" start="mei">
+          <moduleRef key="MEI" />
+          <moduleRef key="MEI.shared" />
+          <moduleRef key="MEI.header" />
+          <moduleRef key="MEI.frbr" />
+
+          <elementSpec ident="mei" module="MEI.shared" mode="change">
+            <content>
+              <rng:ref name="meiHead" />
+              <rng:optional>
+                <rng:ref name="music" />
+              </rng:optional>
+            </content>
+          </elementSpec>
+
+          <elementSpec ident="meiHead" module="MEI.header" mode="change">
+            <content>
+              <rng:zeroOrMore>
+                <rng:ref name="altId" />
+              </rng:zeroOrMore>
+              <rng:optional>
+                <rng:ref name="fileDesc" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="encodingDesc" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="workList" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="manifestationList" />
+              </rng:optional>
+              <rng:zeroOrMore>
+                <rng:ref name="extMeta" />
+              </rng:zeroOrMore>
+              <rng:optional>
+                <rng:ref name="revisionDesc" />
+              </rng:optional>
+            </content>
+          </elementSpec>
+
+          <elementSpec ident="expression" module="MEI.frbr" mode="change">
+            <content>
+              <rng:zeroOrMore>
+                <rng:ref name="model.headLike" />
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.identifierLike" />
+              </rng:zeroOrMore>
+              <!-- MEI: oneOrMore -->
+              <rng:zeroOrMore>
+                <rng:ref name="model.titleLike" />
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.respLikePart" />
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="model.workIdent" />
+              </rng:zeroOrMore>
+              <rng:zeroOrMore>
+                <rng:ref name="otherChar" />
+              </rng:zeroOrMore>
+              <rng:optional>
+                <rng:ref name="creation" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="history" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="langUsage" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="perfMedium" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="perfDuration" />
+              </rng:optional>
+              <rng:zeroOrMore>
+                <rng:ref name="extent" />
+              </rng:zeroOrMore>
+              <rng:optional>
+                <rng:ref name="scoreFormat" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="contents" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="context" />
+              </rng:optional>
+              <rng:zeroOrMore>
+                <rng:ref name="biblList" />
+              </rng:zeroOrMore>
+              <rng:optional>
+                <rng:ref name="notesStmt" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="classification" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="componentList" />
+              </rng:optional>
+              <rng:optional>
+                <rng:ref name="relationList" />
+              </rng:optional>
+              <rng:zeroOrMore>
+                <rng:ref name="extMeta" />
+              </rng:zeroOrMore>
+            </content>
+          </elementSpec>
+
+          <elementSpec ident="language" module="MEI.header" mode="change">
+            <attList>
+              <attDef ident="ident" mode="add" usage="opt">
+                <desc>ISO 639-2 code of the language, e.g. "deu".</desc>
+                <datatype>
+                  <rng:data type="language" />
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+        </schemaSpec>
+      </div>
+    </body>
+  </text>
+</TEI>
