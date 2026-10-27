@@ -35,9 +35,10 @@ The script
        - the stored size of a surface (@lrx/@lry) equals that of its graphic;
        - the staff zones of an MEI file follow the order of the measures (left
          to right within a system, top to bottom on a page, page after page),
-         a staff has at most one zone per system (zone-split), and where the
-         staffs of a file have zones every staff with notes or rests has one
-         (a warning, staff-no-zone),
+         a staff has at most one zone per system (zone-split), no two measures
+         share a zone (zone-shared), and where the staffs of a file have
+         zones every staff with notes or rests has one (a warning,
+         staff-no-zone),
          and the zones of a TEI text follow the order of the text (a
          warning only: music examples may stand beside a paragraph);
   3. with --online, fetches info.json for every canvas used (cached in
@@ -494,9 +495,11 @@ def check_staff_order(doc, report):
 
 
 def check_staff_zones(doc, report):
-    """A staff may continue on the next system, but not have two zones in one system; and where the
-    staffs of a file have zones, every staff with notes or rests should have one."""
+    """A staff may continue on the next system, but not have two zones in one system; two measures
+    do not share a zone; and where the staffs of a file have zones, every staff with notes or rests
+    should have one."""
     linked_staffs = set()
+    users = defaultdict(list)
     for ref in doc.refs:
         if ref.element not in ('staff', 'measure'):
             continue
@@ -505,6 +508,8 @@ def check_staff_zones(doc, report):
         zones = [z for z in zones if z is not None and z.box() is not None]
         if zones:
             linked_staffs.add(staff_n.group(1) if staff_n else '-')
+        for z in zones:
+            users[z.xml_id].append(ref)
         for i, a in enumerate(zones):
             for b in zones[i + 1:]:
                 if a.surface is not b.surface:
@@ -515,6 +520,11 @@ def check_staff_zones(doc, report):
                     report.error(doc.path, ref.line, 'zone-split', b.xml_id,
                                  f'{ref.context}: {a.xml_id} and {b.xml_id} lie in the same system; '
                                  f'one of them shows another measure')
+    for zone_id, refs in users.items():
+        for ref in refs[1:]:
+            if ref.context != refs[0].context:
+                report.error(doc.path, ref.line, 'zone-shared', zone_id,
+                             f'{ref.context} names {zone_id}, the zone of {refs[0].context}')
     for line, context, staff_n in doc.unlinked:
         if staff_n in linked_staffs:
             report.warn(doc.path, line, 'staff-no-zone', context, f'{context} has notes but no zone')
