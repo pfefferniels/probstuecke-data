@@ -64,7 +64,7 @@
             <ptr type="register" target="../register/register_1731.xml#reg_a_dur ../register/register_1731.xml#reg_a_dur_2 ../register/register_1731.xml#reg_a_dur_3 ../register/register_1731.xml#reg_a_dur_4"/>
             <listRef>
               <ref type="register" n="400" corresp="../register/register_1731.xml#reg_a_dur_3" target="../17/mattheson/comments_de.xml#score"/>
-              <ref type="register" n="402" corresp="../register/register_1731.xml#reg_a_dur_4" target="../17/mattheson/comments_de.xml">maͤchtig ist, muß diese <term>Ton-Art</term> nicht wenig hochhalten, weil</ref>
+              <ref type="register" n="402" corresp="../register/register_1731.xml#reg_a_dur_4" target="../17/mattheson/comments_de.xml#t_a_dur-1">maͤchtig ist, muß diese <term>Ton-Art</term> nicht wenig hochhalten, weil</ref>
             </listRef>
           </item>
           <item xml:id="t_a_moll">
@@ -153,7 +153,7 @@
             <gloss xml:lang="en">opening, beginning</gloss>
             <ptr type="register" target="../register/register_1731.xml#reg_anfang"/>
             <listRef>
-              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_anfang" target="../17/mattheson/comments_de.xml">gegruͤndeten Ausspruch: Daß aller <term>Anfang</term> einfach, schlecht und deutlich</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_anfang" target="../17/mattheson/comments_de.xml#t_anfang-1">gegruͤndeten Ausspruch: Daß aller <term>Anfang</term> einfach, schlecht und deutlich</ref>
             </listRef>
           </item>
           <item xml:id="t_antizipation">
@@ -636,7 +636,7 @@
             <ptr type="register" target="../register/register_1731.xml#reg_general_bass"/>
             <listRef>
               <ref type="register" n="344" corresp="../register/register_1731.xml#reg_general_bass" target="../8/mattheson/comments_de.xml#t_generalbass-1">nicht, das Haupt-Weſen des <term>General-Baſſes</term> koͤmmt auf die Begleitung</ref>
-              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_general_bass" target="../17/mattheson/comments_de.xml">Alleinspielen, die Eigenschafft des <term>General-Basses</term> nicht ausgesetzet, sondern nur</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_general_bass" target="../17/mattheson/comments_de.xml#t_generalbass-1">Alleinspielen, die Eigenschafft des <term>General-Baͤſſes</term> nicht ausgesetzet, sondern nur</ref>
               <ref type="register" n="463" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-1">Stück bey einem gewöhnlichen <term>General-Baß</term>, ſondern als eine beliebte</ref>
               <ref type="register" n="463" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-2">nachtheil bringen. Denn der <term>General-Baß</term> iſt zu anders nichts</ref>
               <ref type="register" n="464" corresp="../register/register_1731.xml#reg_general_bass" target="../24/mattheson/comments_de.xml#t_generalbass-3">mit vielen krummen Sprüngen, <term>verbrämen</term> alles hinten und vorn,</ref>
@@ -672,7 +672,7 @@
               <ref type="register" n="392" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#score"/>
               <ref type="register" n="398" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#aria-inquelseno"/>
               <ref type="register" n="398" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#aria-inquelseno"/>
-              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml">zu geben, wo das <term>Gis mol</term> starck herhaͤlt, und dazu</ref>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_gis_moll" target="../16/mattheson/comments_de.xml#t_gis_moll-1">zu geben, wo das <term>Gis mol</term> starck herhaͤlt, und dazu</ref>
             </listRef>
           </item>
           <item xml:id="t_grillenfaengerei">
@@ -729,7 +729,7 @@
             <gloss xml:lang="en">semitones</gloss>
             <ptr type="register" target="../register/register_1731.xml#reg_hemitonia"/>
             <listRef>
-              <ref type="register" n="394" corresp="../register/register_1731.xml#reg_hemitonia" target="../16/mattheson/comments_de.xml">in den so genannten <term>halben Tonen</term> gleichsam eine Zweideutigkeit stecke;</ref>
+              <ref type="register" n="394" corresp="../register/register_1731.xml#reg_hemitonia" target="../16/mattheson/comments_de.xml#t_halbtoene-1">in den so genannten <term>halben Tonen</term> gleichsam eine Zweideutigkeit stecke;</ref>
             </listRef>
           </item>
           <item xml:id="t_handsachen">
@@ -820,7 +820,7 @@
             <gloss xml:lang="en">keyboard</gloss>
             <ptr type="register" target="../register/register_1731.xml#reg_clavier"/>
             <listRef>
-              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_clavier" target="../16/mattheson/comments_de.xml">Denn die Hoffnung, ein <term>Clavier</term> zu verbessern, zu vermehren,</ref>
+              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_clavier" target="../16/mattheson/comments_de.xml#t_klavier-1">Denn die Hoffnung, ein <term>Clavier</term> zu verbessern, zu vermehren,</ref>
               <ref type="register" n="447" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-1">vermeynten vielfältigen Mängel unſers <term>Claviers</term> wahrgenommen, und denſelben, durch</ref>
               <ref type="register" n="458" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-2">ein ſo genannten chromatiſches <term>Clavier</term> verfertigen laſſen, darauf er</ref>
               <ref type="register" n="461" corresp="../register/register_1731.xml#reg_clavier" target="../24/mattheson/comments_de.xml#t_klavier-3">mit ſich führen kann. <term>Griff-Taffeln</term> gehalten haben: ungeachtet es</ref>
@@ -1198,7 +1198,7 @@
               <ref type="register" n="318" corresp="../register/register_1731.xml#reg_signaturen" target="../3/mattheson/comments_de.xml#t_signaturen-1">eine oder die andere <term>Signatur</term> nicht eben ſo genau</ref>
               <ref type="editorial" n="319" target="../3/mattheson/comments_de.xml#t_signaturen-2">rechte Hand, mit den <term>Signaturen</term> oder Accorden, auf die</ref>
               <ref type="register" n="394" corresp="../register/register_1731.xml#reg_signaturen" target="../16/mattheson/comments_de.xml"/>
-              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_signaturen" target="../16/mattheson/comments_de.xml">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_signaturen" target="../16/mattheson/comments_de.xml#t_signaturen-1">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
               <ref type="register" n="440" corresp="../register/register_1731.xml#reg_signaturen" target="../24/mattheson/comments_de.xml#t_signaturen-1">Anfang des Syſtematis viel <term>Signa chromatica</term> oder ♭ ſähe: ich</ref>
               <ref type="register" n="458" corresp="../register/register_1731.xml#reg_signaturen" target="../24/mattheson/comments_de.xml"/>
             </listRef>
@@ -1246,7 +1246,7 @@
             <gloss xml:lang="en">playing</gloss>
             <ptr type="register" target="../register/register_1731.xml#reg_spielen"/>
             <listRef>
-              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_spielen" target="../17/mattheson/comments_de.xml">muß. Durch das schlechte <term>Spielen</term> wird hauptsaͤchlich verlangt, daß</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_spielen" target="../17/mattheson/comments_de.xml#t_spielen-1">muß. Durch das schlechte <term>Spielen</term> wird hauptsaͤchlich verlangt, daß</ref>
             </listRef>
           </item>
           <item xml:id="t_springen">
@@ -1485,7 +1485,7 @@
               <ref type="editorial" n="334" target="../6/mattheson/comments_de.xml#t_vollstimmigkeit-1">treten; kanſt du die <term>Vollſtimmigkeit</term> nicht ſo geſchwinde finden,</ref>
               <ref type="editorial" n="349" target="../9/mattheson/comments_de.xml#t_vollstimmigkeit-1">die Griffe gantz wol <term>vollſtimmig</term> bleiben koͤnnen. Wenns zur</ref>
               <ref type="register" n="355" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../10/mattheson/comments_de.xml#t_vollstimmigkeit-1">Zeit geschehen muss, mit <term>vollstimmigen</term> Griffen im Baß. §.</ref>
-              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../17/mattheson/comments_de.xml">allemahl gesagt, nicht vergesse, <term>vollstimmig</term> dabey anzuschlagen: damit, auch</ref>
+              <ref type="register" n="403" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../17/mattheson/comments_de.xml#t_vollstimmigkeit-1">allemahl gesagt, nicht vergesse, <term>vollstimmig</term> dabey anzuschlagen: damit, auch</ref>
               <ref type="editorial" n="408" target="../18/mattheson/comments_de.xml#t_vollstimmigkeit-1">jeder Note, angegriffen, und <term>vollſtimmig</term> zu Ende gebracht. §.</ref>
               <ref type="register" n="409" corresp="../register/register_1731.xml#reg_vollstimmigkeit" target="../18/mattheson/comments_de.xml#t_vollstimmigkeit-2">Hand alles auf das <term>vollſtimmigſte</term> anſchlagen muß, welches je</ref>
             </listRef>
@@ -1546,8 +1546,8 @@
             <ptr type="register" target="../register/register_1731.xml#reg_zeichen"/>
             <listRef>
               <ref type="register" n="375" corresp="../register/register_1731.xml#reg_zeichen" target="../13/mattheson/comments_de.xml#t_zeichen-1">werden kann, durch dunckle <term>Zeichen</term> zweifelhafft zu machen; wie</ref>
-              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml">Bescheidenheit dahin, daß nur <term>Zeichen</term> genug moͤgten angesetzt werden,</ref>
-              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
+              <ref type="register" n="395" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml#t_zeichen-1">Bescheidenheit dahin, daß nur <term>Zeichen</term> genug moͤgten angesetzt werden,</ref>
+              <ref type="register" n="399" corresp="../register/register_1731.xml#reg_zeichen" target="../16/mattheson/comments_de.xml#t_signaturen-1">es uns wirchlich an <term>Zeichen</term> fehle, wenn wir in</ref>
             </listRef>
           </item>
           <item xml:id="t_zierrat">

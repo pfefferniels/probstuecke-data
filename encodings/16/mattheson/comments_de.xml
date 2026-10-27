@@ -131,7 +131,7 @@
       <div n="2">
         <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          <lb/>Man hat zwar lange wol gemercket, daß in den ſo genannten halben Tonen
+          <lb/>Man hat zwar lange wol gemercket, daß in den ſo genannten <term xml:id="t_halbtoene-1" corresp="#t_halbtoene">halben Tonen</term>
           <lb/>gleichſam eine Zweideutigkeit ſtecke; daß nemlich <hi rendition="#b">♯C</hi> ein ander Ding an ſich ſelbſten
           <lb/>ſey, als <hi rendition="#b">♭D</hi>; daß <hi rendition="#b">♯D</hi> vom <hi rendition="#b">♭E</hi> billig unterſchieden werden ſolte; daß <hi rendition="#b">♯E</hi> mit dem
           <lb/>gewoͤhnlichen <hi rendition="#b">F</hi> keine Gemeinſchafft hege. Sie haben gar recht erwieſen, daß <hi rendition="#b">♯F</hi>
@@ -191,9 +191,9 @@
             <sic>Gedanckeu</sic>
             <corr type="editorial" resp="#pfeffer">Gedancken</corr>
           </choice> gehen mit aller Beſcheidenheit dahin,
-          <lb/>daß nur Zeichen genug moͤgten angeſetzt werden, wodurch dergleichen Sachen ge-
+          <lb/>daß nur <term xml:id="t_zeichen-1" corresp="#t_zeichen">Zeichen</term> genug moͤgten angeſetzt werden, wodurch dergleichen Sachen ge-
           <lb/>ſchickt zu notiren: und zwar hauptſaͤchlich wegen beſagter Folgen. Denn die Hoff-
-          <lb/>nung, ein Clavier zu verbeſſern, zu vermehren, und zur <hi rendition="#b">Vollkommenheit</hi> zu
+          <lb/>nung, ein <term xml:id="t_klavier-1" corresp="#t_klavier">Clavier</term> zu verbeſſern, zu vermehren, und zur <hi rendition="#b">Vollkommenheit</hi> zu
           <lb/>bringen, muͤſſen wir fahren, und uns an einer guten Temperatur begnuͤgen laſſen:
           <lb/>weil es doch, ungeachtet vielfaͤltiger Vorſchlaͤge und Verſuche, mit dem Flick-
           <lb/>Werck der Tangenten nichts ſagen will; aber unſere Meynung durch Noten aus zu
@@ -244,7 +244,7 @@
           <lb/>Alt geſungen, geſetzt ſeyn muͤſſe, auch daß einige Jnſtrumente dabey gehoͤren; die ich
           <lb/>aber, ſamt etlichen zwiſchenkommenden Pauſen, hier fuͤr unnoͤthig gehalten habe.
           <lb/>Die Abſicht gehet nur dahin, ein Beiſpiel aus der taͤglichen Uebung zu geben, wo
-          <lb/>das <hi rendition="#b">Gis mol</hi> ſtarck herhaͤlt, und dazu ergreiffe ich, was mir am erſten, ja gleich-
+          <lb/>das <hi rendition="#b"><term xml:id="t_gis_moll-1" corresp="#t_gis_moll">Gis mol</term></hi> ſtarck herhaͤlt, und dazu ergreiffe ich, was mir am erſten, ja gleich-
           <lb/>ſam von ungefehr, in die Haͤnde faͤllt. Daß indeß <hi rendition="#b">♯G mol</hi> haͤuffiger auffſtoſſe,
           <lb/>als <hi rendition="#aq">♭</hi><hi rendition="#b">A mol</hi> iſt wahr: weil das erſte die kleine Tertz weſentlich, das andere
           <lb/>nur zufaͤlliger Weiſe fuͤhret; allein, es iſt doch einerley im Spielen, nur laͤſ-
@@ -265,7 +265,7 @@
         <p xml:id="p8-1" facs="#facsZone-p8-1">
           <lb/>Jch habe am Ende der vorhergehenden Erlaͤuterung geſagt, es ſollte in die-
           <lb/>ſer Arie gezeiget werden, daß wir unſre Meynung nicht allemahl, ohne Uebelſtand,
-          <lb/>mit Noten recht ausdrucken koͤnnen, und daß es uns wircklich an Zeichen fehle,
+          <lb/>mit Noten recht ausdrucken koͤnnen, und daß es uns wircklich an <term xml:id="t_signaturen-1" corresp="#t_signaturen #t_zeichen">Zeichen</term> fehle,
           <lb/>wenn wir in die unbewanderten Tone moduliren wollen. Das erhellet nun inſon-
           <lb/>derheit aus den beiden letzten Zeilen obeſagter Arie Sonnen-klar, weil daſelbſt eine No-
           <lb/>te fuͤnffmahl, ſo wol in der Sing-Stimme, als im Baß, vorkommt, die ein zweifa-
