@@ -140,7 +140,9 @@
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="e">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="d" />
                                     </beam>
@@ -169,7 +171,9 @@
                                 <layer n="1">
                                     <clef line="4" shape="C" />
                                     <note dur="4" oct="4" pname="e">
-                                        <accid accid="f" />
+                                        <orig>
+                                            <accid accid="f" />
+                                        </orig>
                                     </note>
                                     <rest dur="8" oloc="4" ploc="e" />
                                     <note dur="8" oct="4" pname="e" accid.ges="f" />
@@ -228,7 +232,9 @@
                                     <beam>
                                         <note dur="8" oct="5" pname="f" />
                                         <note dur="16" oct="5" pname="a">
-                                            <accid accid="n" oloc="5" ploc="g" />
+                                            <orig>
+                                                <accid accid="n" oloc="5" ploc="g" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="g" />
                                     </beam>
@@ -238,7 +244,9 @@
                                         </note>
                                         <note dur="16" oct="5" pname="a" />
                                         <note dur="16" oct="5" pname="e">
-                                            <accid accid="n" />
+                                            <orig>
+                                                <accid accid="n" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="a" />
                                     </beam>
@@ -321,7 +329,9 @@
                                     <beam>
                                         <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="a">
-                                            <accid accid="n" oloc="5" ploc="g" />
+                                            <orig>
+                                                <accid accid="n" oloc="5" ploc="g" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="g" />
                                         <note dur="16" oct="5" pname="f">

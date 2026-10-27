@@ -117,7 +117,7 @@
                             <staff n="1">
                                 <layer n="1">
                                     <note xml:id="ex-1037" dur="4" oct="5" pname="f">
-                                        <accid xml:id="ex-1038" accid="s" func="caution" />
+                                        <accid xml:id="ex-1038" accid="s" />
                                     </note>
                                     <rest xml:id="ex-1039" dur="16" />
                                     <beam xml:id="ex-1041">
@@ -125,7 +125,7 @@
                                         <note xml:id="ex-1042" dur="32" oct="5" pname="d" />
                                         <note xml:id="ex-1043" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-1045" dur="16" oct="5" pname="f">
-                                            <accid xml:id="ex-1046" accid="n" func="caution" />
+                                            <accid xml:id="ex-1046" accid="n" />
                                         </note>
                                     </beam>
                                     <note xml:id="ex-1047" dur="4" oct="5" pname="e" />
