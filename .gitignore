@@ -3,3 +3,5 @@
 facsimile_*.json
 *.xpr
 *-modernized.xml
+__pycache__/
+.facsimile-cache/
