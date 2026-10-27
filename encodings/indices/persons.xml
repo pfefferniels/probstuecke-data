@@ -448,15 +448,6 @@
                     <birth>1639</birth>
                     <death>1691</death>
                 </person>
-                <person xml:id="ed_rn1_2hy_qlb">
-                    <idno type="uri">http://d-nb.info/gnd/118784919</idno>
-                    <persName type="reg">
-                        <surname>Morhof</surname>
-                        <forename>Daniel Georg</forename>
-                    </persName>
-                    <birth>1639</birth>
-                    <death>1691</death>
-                </person>
                 <person xml:id="ed_khq_sfy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/132649241</idno>
                     <persName type="reg">
