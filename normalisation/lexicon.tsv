@@ -386,11 +386,13 @@ wuſte	wusste	cab	3
 zehlen	zählen	cab	3	
 zweyen	zweien	cab	3	
 zweyer	zweier	cab	3	
+zweyerley	zweierlei	cab	3	
 zwoͤlff	zwölf	cab	3	
 zwölff	zwölf	cab	3	
 zwölfften	zwölften	cab	3	
 ſchlieſſen	schließen	cab	3	
 ſchoͤpffen	schöpfen	cab	3	
+ſol	soll	cab	3	
 ſpecificiren	spezifizieren	cab	3	
 ſyncopiren	synkopieren	cab	3	
 Accent	Akzent	cab	2	
@@ -413,6 +415,7 @@ Clausulgen	Clausulchen	edited	2	diminutive -gen = -chen
 Clavier-Weißheit	Clavier-Weisheit	edited	2	issue #124: keep Clavier (CAB: Klavier-Weißheit)
 Componist	Komponist	cab	2	
 Componiſt	Komponist	cab	2	
+Confuſion	Konfusion	cab	2	
 Contra-Puncts	Contra-Punkts	cab	2	
 Danck	Dank	cab	2	
 Denckmahl	Denkmal	cab	2	
@@ -459,6 +462,7 @@ Koͤpffen	Köpfen	cab	2
 Kraͤfften	Kräften	cab	2	
 Kreutzes	Kreuzes	cab	2	
 Kuͤnſteleyen	Künsteleien	cab	2	
+Lection	Lektion	cab	2	
 Lermens	Lärmens	cab	2	
 Lincke	Linke	cab	2	
 Lufft-Schlaͤge	Luft-Schläge	cab	2	CAB also: Lufft-Schläge:1
@@ -493,6 +497,7 @@ Schleuffer	Schluffer	cab	2
 Schrifften	Schriften	cab	2	
 Schwartz	Schwarz	cab	2	
 Scribenten	Skribenten	cab	2	
+Scrupel	Skrupel	cab	2	
 Secretar	Sekretar	cab	2	
 Secund	Sekund	cab	2	
 Secunden	Sekunden	cab	2	
@@ -697,6 +702,8 @@ offtmahls	oftmals	cab	2
 oͤffters	öfters	cab	2	
 pfleget	pflegt	cab	2	
 probire	probiere	cab	2	
+proſtituiren	prostituieren	cab	2	
+raiſonniren	räsonnieren	cab	2	
 rathe	rate	cab	2	
 repetiret	repetieret	cab	2	
 sechszehnten	sechzehnten	cab	2	
@@ -739,6 +746,7 @@ wiederlegen	widerlegen	cab	2
 wircklichen	wirklichen	cab	2	
 wirds	wird es	cab	2	contraction
 wirfft	wirft	cab	2	
+wolten	wollten	cab	2	
 wuͤſte	wüsste	cab	2	
 zuwieder	zuwider	cab	2	
 zwantzig	zwanzig	cab	2	
@@ -754,6 +762,7 @@ zwölfftes	zwölftes	cab	2
 ſchreyet	schreiet	cab	2	
 ſechsmahl	sechsmal	cab	2	
 ſechszehntheilen	sechszehnteilen	cab	2	
+ſecundaria	secundaria	edited	2	kept: Latin
 ſeyn-wollenden	sein-wollenden	cab	2	
 ſiebenerley	siebenerlei	cab	2	
 ſieheſt	siehst	cab	2	
@@ -780,11 +789,13 @@ Andencken	Andenken	cab	1
 Andr	Andr	edited	1	kept: name
 Anticipation	Antizipation	cab	1	
 Anverwandtinn	Anverwandtin	cab	1	
+Artickel	Artikel	cab	1	
 Articul	Artikel	cab	1	
 Aufſchrifft	Aufschrift	cab	1	
 Autoris	Autoriss	cab	1	
 Auſzierungen	Auszierungen	edited	1	issue #124: CAB gave Aussierungen
 Auſſer	Außer	cab	1	
+BEy	Bei	edited	1	CAB: Bey
 Banckierer	Bankier	cab	1	
 Bauren	Bauern	cab	1	
 Bedenckens	Bedenkens	cab	1	
@@ -798,7 +809,9 @@ Bewandtnuͤs	Bewandtnis	cab	1
 Bewandtnuͤß	Bewandtnis	cab	1	
 Beweiß-Grund	Beweis-Grund	cab	1	
 Bewerckſtelligung	Bewerkstelligung	cab	1	
+Beyfall	Beifall	cab	1	
 Beywort	Beiwort	cab	1	
+Beyſtand	Beistand	cab	1	
 Bezieferungen	Bezifferungen	cab	1	
 Beſchimpffung	Beschimpfung	cab	1	
 Bibliotheck	Bibliothek	cab	1	
@@ -807,6 +820,7 @@ Bißher	Bisher	cab	1
 Blat	Blatt	cab	1	
 Blaſe-Jnſtrumenten	Blase-Instrumenten	cab	1	
 Brouilliren	Brouillieren	cab	1	
+Cadencen	Kadenzen	cab	1	
 Cadentz	Kadenz	cab	1	
 Cadentzen	Kadenzen	cab	1	
 Cadenzen	Kadenzen	cab	1	
@@ -821,6 +835,7 @@ Capelle	Kapelle	cab	1
 Capellen	Kapellen	cab	1	
 Charactere	Charaktere	cab	1	
 Charlatanerie	Scharlatanerie	cab	1	
+Clauſula	Clausula	edited	1	kept: Latin
 Clauſulæ	Clausulæ	edited	1	kept: Latin
 Claviaturen	Klaviaturen	cab	1	
 Clavicimbel	Klavizimbel	cab	1	
@@ -831,12 +846,15 @@ Clavier-Suiten	Klavier-Suiten	cab	1
 Clavieren	Clavieren	edited	1	issue #124: keep Clavier (CAB: Klavieren)
 Cluͤver	Clüver	edited	1	kept: name
 Collegium	Kollegium	cab	1	
+Comm	Comm	edited	1	kept: abbreviation (Commata)
 Commatiſche	Kommatische	cab	1	
 Componisten	Komponisten	cab	1	
 Componiſte	Komponist	cab	1	
 Compoſiteur	Kompositeur	cab	1	
 Compoſition	Komposition	cab	1	
 Compoſitionen	Kompositionen	cab	1	
+Connexion	Konnexion	cab	1	
+Context	Kontext	cab	1	
 Contorſiones	Kontorsiones	cab	1	
 Contra-Puncte	Contra-Punkte	cab	1	
 Contra-thema	Contra-Thema	cab	1	
@@ -845,6 +863,7 @@ Contrapunctiſt	Kontrapunktist	cab	1
 Conſequence	Konsequenz	cab	1	
 Conſonanzen	Konsonanzen	cab	1	
 Copiſten	Kopisten	cab	1	
+Credit	Kredit	cab	1	
 Creutz	Kreuz	cab	1	
 Creutz-Schule	Kreuz-Schule	cab	1	
 Creutze	Kreuze	cab	1	
@@ -857,8 +876,11 @@ DJeſes	Dieses	cab	1
 Dabey	Dabei	cab	1	
 Dahero	Daher	cab	1	
 Dan	Dan	edited	1	kept: name
+Diatonico-Chromaticæ	Diatonico-Chromaticæ	edited	1	kept: Latin
 Director	Direktor	cab	1	
 Diß	Dies	cab	1	
+Diſtinction	Distinktion	cab	1	
+Diſtinguiret	Distinguiert	edited	1	CAB: Distinguieret
 Diſſonantzen	Dissonanzen	cab	1	
 Doctor	Doktor	cab	1	
 Doctoren	Doktoren	cab	1	
@@ -877,9 +899,11 @@ Ehrgeitz	Ehrgeiz	cab	1
 Ehrgeitzes	Ehrgeizes	cab	1	
 Eigenſchafft	Eigenschaft	cab	1	
 Eigenſchafften	Eigenschaften	cab	1	
+Eintheilungen	Einteilungen	cab	1	
 Einwurff	Einwurf	cab	1	
 Emphaſis	Emphase	cab	1	
 Engeland	England	cab	1	
+Engellaͤndiſchen	englischen	edited	1	adjective; CAB: Englischen
 Erkenntniß	Erkenntnis	cab	1	
 Erklaͤhrung	Erklärung	cab	1	
 Erlaubniß	Erlaubnis	cab	1	
@@ -887,7 +911,9 @@ Erloͤsungs-Gedancken	Erlösungs-Gedanken	cab	1
 Erwegen	erwägen	cab	1	
 Erwehnung	Erwähnung	cab	1	
 Execution	Exekution	cab	1	
+Fang	Fang	edited	1	kept: noun; CAB: Fange
 Favorite	Favorite	edited	1	loanword in Antiqua
+Fedele	Fedele	edited	1	kept: Italian
 Fiebel	Fibel	cab	1	
 Fingirtes	Fingiertes	cab	1	
 Flick-Werck	Flick-Werk	cab	1	
@@ -909,6 +935,7 @@ Gelach	Gelache	cab	1
 Gelehrten-Lexicon	Gelehrten-Lexikon	cab	1	
 Gelgenheit	Gelegenheit	cab	1	
 Gemeinſchafft	Gemeinschaft	cab	1	
+Gemuͤth	Gemüt	cab	1	
 Gemuͤther	Gemüter	cab	1	
 Gemuͤths-Bewegungen	Gemüts-Bewegungen	cab	1	
 Gemüth	Gemüt	cab	1	
@@ -921,6 +948,7 @@ Gewuͤrtz	Gewürz	cab	1
 Geſandſchafften	Gesandtschaften	cab	1	
 Geſchicht	Geschichte	cab	1	
 Gleichniß	Gleichnis	cab	1	
+Goldſchmidt	Goldschmied	cab	1	
 Graduirten	Graduierten	cab	1	
 Gravité	Gravité	edited	1	French word
 Griff-Bret	Griff-Brett	cab	1	
@@ -939,6 +967,7 @@ Hammerſchmidt	Hammerschmidt	edited	1	name: keeps its spelling
 Hand-Uebung	Hand-Übung	cab	1	
 Hannoͤverſchen	Hannoverschen	cab	1	
 Hanthierung	Hantierung	cab	1	
+Harmoniæ	Harmoniæ	edited	1	kept: Latin
 Haupt-weſen	Haupt-Wesen	cab	1	
 Hauß	Haus	cab	1	
 Heiligthum	Heiligtum	cab	1	
@@ -949,6 +978,7 @@ Hertze	Herze	cab	1
 Hertzogliche	Herzogliche	cab	1	
 Hochmuth	Hochmut	cab	1	
 Hochmuths	Hochmuts	cab	1	
+Holuncken	Halunken	edited	1	CAB: Holunken
 Horen	Hören	cab	1	
 Huͤlffe	Hilfe	cab	1	
 Hyperbolæus	Hyperbolæus	edited	1	kept: name
@@ -971,6 +1001,7 @@ Jnſtrumental-Sachen	Instrumental-Sachen	cab	1
 Jnſtrumentaliſt	Instrumentalist	cab	1	
 Jrrthuͤmer	Irrtümer	cab	1	
 Jst	Ist	cab	1	
+Jtaliaͤner	Italiener	cab	1	
 Jtaliaͤniſcher	Italienischer	cab	1	
 Jtalien	Italien	cab	1	
 Jtalieniſchen	Italienischen	cab	1	
@@ -983,7 +1014,9 @@ Kauff	Kauf	cab	1
 Kauffs	Kaufs	cab	1	
 Klang-Geſchlechte	Klang-Geschlecht	cab	1	
 Klang-Stuffen	Klang-Stufen	cab	1	
+Klaͤng	Klänge	cab	1	
 Koͤmmt	Kommt	cab	1	
+Koͤnte	Könnte	edited	1	sentence start; CAB: könnte
 Koͤñt	Könnt	cab	1	
 Krafft	Kraft	cab	1	
 Kragen-Stoltz	Kragen-Stolz	cab	1	
@@ -995,6 +1028,7 @@ Kundſchafft	Kundschaft	cab	1
 Kuntz	Kunz	cab	1	
 Kupffer-Stecher	Kupfer-Stecher	cab	1	
 Kuͤnſteley	Künstelei	cab	1	
+Kuͤrtze	Kürze	cab	1	
 Kürtze	Kürze	cab	1	
 Lambertiſchen	Lambertischen	edited	1	issue #124: CAB gave Lombertischen
 Lauffen	Laufen	cab	1	
@@ -1019,6 +1053,7 @@ Mayn	Main	cab	1
 Maſſe	Maße	cab	1	
 Medicin	Medizin	cab	1	
 Melodey	Melodei	cab	1	
+Memoires	Memoires	edited	1	kept: French
 Merck	Merke	cab	1	
 Meynungen	Meinungen	cab	1	
 Miracul	Mirakel	cab	1	
@@ -1026,6 +1061,7 @@ Mittel-Claſſe	Mittelklasse	cab	1
 Miſbrauch	Mißbrauch	cab	1	
 Miſſethat	Missetat	cab	1	
 Modeniſchen	Modenischen	edited	1	adjective from Modena
+Moteten	Motetten	cab	1	
 Mothe	Mothe	edited	1	kept: name
 Musica	Musik	cab	1	
 Musick	Musik	cab	1	
@@ -1045,6 +1081,7 @@ Niedt	Niedt	edited	1	kept: name
 Noht	Not	cab	1	
 Noten-Wercke	Noten-Werke	cab	1	
 Notenſchreiberey	Notenschreiberei	cab	1	
+Nothwendigkeit	Notwendigkeit	cab	1	
 Notirungs-Zeichen	Notierungs-Zeichen	cab	1	
 Ober-Claſſe	Ober-Klasse	cab	1	
 Octaven-Gattung	Oktaven-Gattung	cab	1	
@@ -1057,6 +1094,7 @@ Officin	Offizin	cab	1
 Organiſten-Zunfft	Organisten-Zunft	cab	1	
 Organiſtens-Burſche	Organisten-Bursche	cab	1	
 Orgel-Wercken	Orgel-Werken	cab	1	
+Orgelwercken	Orgelwerken	cab	1	
 Palmulæ	Palmulæ	edited	1	kept: Latin
 Pancratz	Pankraz	cab	1	
 Pantelon	Pantelon	edited	1	kept: name
@@ -1068,8 +1106,10 @@ Praag	Prag	cab	1
 Prob	Prob	edited	1	as in Prob-Stück
 Professorn	Professoren	cab	1	
 Profeſſorn	Professoren	cab	1	
+Projecten	Projekten	cab	1	
 Præst.	Praest.	cab	1	
 Prætorius	Prætorius	edited	1	kept: name
+Puͤnctgen	Pünktchen	edited	1	diminutive -gen = -chen
 Pünctgen	Pünktchen	edited	1	diminutive -gen = -chen
 Pſalm-Werck	Psalm-Werk	cab	1	
 Quackſalberey	Quacksalberei	cab	1	
@@ -1081,14 +1121,18 @@ Reinigkeit	Reinheit	cab	1
 Rendesvous	Rendezvous	cab	1	
 Repercussion	Reperkussion	cab	1	
 Repercusſion	Reperkussion	cab	1	
+Republic	Republik	cab	1	
 Respect	Respekt	cab	1	
 Reſpect	Respekt	cab	1	
 Sach	Sache	cab	1	
 Sachẽ	Sachen	cab	1	
 Saltz	Salz	cab	1	
+Satisfaction	Satisfaktion	cab	1	
+Scavans	Scavans	edited	1	kept: French
 Schertzando	Scherzando	cab	1	
 Schertzen	Scherzen	cab	1	
 Schilderey	Schilderei	cab	1	
+Schimpff	Schimpf	cab	1	
 Schrancken	Schranken	cab	1	
 Schrifft	Schrift	cab	1	
 Schrifftſteller	Schriftsteller	cab	1	
@@ -1096,16 +1140,20 @@ Schuldener	Schuldner	cab	1
 Schwaͤbiſch-Haͤlliſche	Schwäbisch-Hällische	edited	1	CAB: Schwäbisch-hallische
 Sechzehn-Theile	Sächzehn-Teile	cab	1	
 Selbſt-Erkaͤnntniß	Selbst-Erkenntnis	cab	1	
+Solten	Sollten	edited	1	sentence start; CAB: sollten
 Sordinen	Sordinen	edited	1	kept: music term; CAB: Sardinen
+Speculation	Spekulation	cab	1	
 Stegreiff	Stegreif	cab	1	
 Steindorff	Steindorff	edited	1	kept: name
 Stickes	Stückes	edited	1	misprint in the print (No. 10, 1731)
 Studiren	Studieren	cab	1	
 Studirenden	Studierenden	cab	1	
+Stuͤmperey	Stümperei	cab	1	
 Styl	Stil	cab	1	
 Styls	Stils	cab	1	
 Stückgen	Stückchen	edited	1	diminutive -gen = -chen
 Stümperey	Stümperei	cab	1	
+Sylo	Sylo	edited	1	kept: Latin
 Syncopiren	Synkopieren	cab	1	
 Synonyma	Synonyme	cab	1	
 Syzygia	Syzygia	edited	1	kept: Latin
@@ -1122,6 +1170,7 @@ Tactschlagen	Taktschlagen	cab	1
 Telephanes	Telephanes	edited	1	name: keeps its spelling
 Temepratur	Temperatur	cab	1	
 Temepratur-Meiſter	Temperatur-Meister	cab	1	
+Temperaturæ	Temperaturæ	edited	1	kept: Latin
 Tertzen-Weise	Terzen-Weise	cab	1	
 Tertzen-Weiſe	Terzen-Weise	cab	1	
 Teuffel	Teufel	cab	1	
@@ -1152,6 +1201,7 @@ Ueberfluß	Überfluß	cab	1
 Uebermuth	Übermut	cab	1	
 Uebrigens	Übrigens	cab	1	
 Umkreiß	Umkreis	cab	1	
+Unerfahrner	Unerfahrener	cab	1	
 Uniſonis	Unisonis	edited	1	Latin word
 Uniſonus	Unisonus	edited	1	kept: Latin
 Unkuͤndigen	Unkundigen	cab	1	
@@ -1165,6 +1215,7 @@ Vertheidigung	Verteidigung	cab	1
 Verwandtschafft	Verwandtschaft	cab	1	
 Verwandſchafft	Verwandtschaft	cab	1	
 Verzeichniß	Verzeichnis	cab	1	
+Verzeichnuͤs	Verzeichnis	cab	1	
 Vice-Capellmeiſter	Vize-Kapellmeister	cab	1	
 Victorie	Victoria	cab	1	
 Violin	Violine	cab	1	
@@ -1185,13 +1236,16 @@ WEr	Wer	cab	1
 Weiber-Zeugniß	Weiber-Zeugnis	cab	1	
 Weilgen	Weilchen	edited	1	diminutive -gen = -chen
 Weißheit	Weisheit	cab	1	
+Wercken	Werken	cab	1	
 Werckzeugen	Werkzeugen	cab	1	
 Werckſtatt	Werkstatt	cab	1	
+Weymariſchen	Weimarischen	cab	1	
 Wilt	Willst	cab	1	
 Wiſſenſchafften	Wissenschaften	cab	1	
 Wol-Laut	Wohl-Laut	cab	1	
 Wolan	wohlan	cab	1	
 Wollaut	Wohllaut	cab	1	
+Woͤrtgen	Wörtchen	edited	1	diminutive -gen = -chen
 Wunderwercke	Wunderwerke	cab	1	
 Wurtzel-Zahlen	Wurzel-Zahlen	cab	1	
 Wuͤrckung	Wirkung	cab	1	
@@ -1224,6 +1278,7 @@ accompagnieret	akkompagnieret	cab	1
 accompagnire	akkompagniere	cab	1	
 accompagnirenden	akkompagnierenden	cab	1	
 accurat	akkurat	cab	1	
+accuraten	akkuraten	cab	1	
 accurateſte	akkurateste	cab	1	
 achtets	achtet es	edited	1	contraction
 admiriret	admirieret	cab	1	
@@ -1247,16 +1302,21 @@ alzu	allzu	cab	1
 alſso	also	cab	1	
 anatomiren	anatomieren	cab	1	
 andermahl	andermal	cab	1	
+andernmahl	andernmal	edited	1	CAB: anderenmal
 anderst	anders	cab	1	
 anderſt	anders	cab	1	
+angebothen	angeboten	cab	1	
 angerühret	angerührt	cab	1	
 angethan	angetan	cab	1	
 angewisen	angewiesen	cab	1	
+angewuͤnſchet	angewünscht	cab	1	
 angezeiget	angezeigt	cab	1	
 angezwacket	angezwackt	cab	1	
 angeſtellet	angestellt	cab	1	
+anitzo	anjetzt	cab	1	
 anjetzo	jetzt	cab	1	
 ankoͤmmt	ankommt	cab	1	
+ankoͤm̃t	ankommt	cab	1	
 ankömmt	ankommt	cab	1	
 anrathen	anraten	cab	1	
 anstoͤssig	anstößig	cab	1	
@@ -1265,7 +1325,9 @@ anticipirt	antizipiert	cab	1
 anſchlaͤget	anschlägt	cab	1	
 anſtoͤſſig	anstößig	cab	1	
 anſtoͤſſige	anstößige	cab	1	
+arieuſen	ariosen	cab	1	
 armſeelig	armselig	cab	1	
+auffgerichtet	aufgerichtet	cab	1	
 auffhalten	aufhalten	cab	1	
 auffhebte	aufhebt	cab	1	
 auffhuͤbe	aufhöbe	cab	1	
@@ -1277,11 +1339,13 @@ auffstöſſet	aufstößt	cab	1
 auffwaͤrts	aufwärts	cab	1	
 auffſchneideriſchen	aufschneiderischen	cab	1	
 auffſtoſſe	aufstoße	cab	1	
+auffſtoſſen	aufstoßen	cab	1	
 aufgeloͤſet	aufgelöst	cab	1	
 aufopffern	aufopfern	cab	1	
 aufstosse	aufstoße	cab	1	
 aufstossende	aufstoßende	cab	1	
 aufſtoſſende	aufstoßende	cab	1	
+aufſtoͤſt	aufstößt	cab	1	
 aufſtoͤſſet	aufstößt	cab	1	
 aufſtöſſt	aufstößt	cab	1	
 ausgefuͤhret	ausgeführt	cab	1	
@@ -1302,6 +1366,7 @@ auſſerordentlicher	außerordentlicher	cab	1
 aͤussern	äußeren	cab	1	
 aͤuſerlichen	äußerlichen	cab	1	
 aͤuſſern	äußeren	cab	1	
+aͤuſſerſten	äußersten	cab	1	
 bAs	bAs	edited	1	note name
 bedarff	bedarf	cab	1	
 beduͤrffe	bedürfe	cab	1	
@@ -1312,6 +1377,8 @@ behuͤlfflich	behilflich	cab	1
 beidemahl	beidemal	cab	1	
 bekandte	bekannte	cab	1	
 bekandten	bekannten	cab	1	
+bekoͤmmt	bekommt	cab	1	
+bekraͤfftigen	bekräftigen	cab	1	
 bekuͤm̃ert	bekümmert	cab	1	
 bekömmt	bekommt	cab	1	
 beliegen	beliegen	edited	1	CAB: beliehen
@@ -1323,6 +1390,7 @@ besaͤnfftigende	besänftigende	cab	1
 besondre	besondere	cab	1	
 beurtheile	beurteile	cab	1	
 beybringen	beibringen	cab	1	
+beyderley	beiderlei	cab	1	
 beygeleget	beigelegt	cab	1	
 beygeſetzet	beigesetzt	cab	1	
 beylaͤuffig	beiläufig	cab	1	
@@ -1347,38 +1415,52 @@ canonische	kanonische	cab	1
 canoniſche	kanonische	cab	1	
 certire	zertiere	cab	1	
 citiret	zitiert	cab	1	
+citirte	zitierte	cab	1	
 citirten	zitierten	cab	1	
 commatiſch	kommatisch	cab	1	
 commatiſchen	kommatischen	cab	1	
 commatiſches	kommatisches	cab	1	
 componiret	komponiert	cab	1	
 componirt	komponiert	cab	1	
+conferiren	konferieren	edited	1	CAB: conferieren
 conferiret	conferieret	cab	1	
+confundiren	konfundieren	cab	1	
 confundirt	konfundiert	cab	1	
 continuiren	kontinuieren	cab	1	
 continuirt	kontinuiert	cab	1	
+conſideration	Konsideration	edited	1	noun; CAB: konsideration
+creutzweiſe	kreuzweise	cab	1	
 curiren	kurieren	cab	1	
 curirt	kuriert	cab	1	
 dargethan	dargetan	cab	1	
 dariñ	darin	cab	1	
 dat	dat	edited	1	Low German proverb
 daſſelbſt	daselbst	cab	1	
+dediciren	dedizieren	cab	1	
 dedicirt	dediziert	cab	1	
+defendiren	defendieren	cab	1	
 definirt	definiert	cab	1	
 dein'	deine	cab	1	
+demonſtriren	demonstrieren	cab	1	
 demonſtriret	demonstrieret	cab	1	
+demonſtrirt	demonstriert	cab	1	
+dependiren	dependieren	cab	1	
 dependiret	dependiert	cab	1	
 dermaſſen	dermaßen	cab	1	
 deutlichers	deutlicheres	cab	1	
 dienete	diente	cab	1	
 diesesmahl	diesmal	cab	1	
+diesmahl	diesmal	cab	1	
 dieſesmahl	diesmal	cab	1	
 dieſeſmahl	diesmal	cab	1	
+dieſin	diesin	edited	1	kept: French
 dieſselbe	dieselbe	cab	1	
 differire	differiere	cab	1	
+differiren	differieren	cab	1	
 diminuiret	diminuieret	cab	1	
 dirigiren	dirigieren	cab	1	
 discret	diskret	cab	1	
+dividirt	dividiert	cab	1	
 diß	dies	cab	1	
 dißfalls	diesfalls	cab	1	
 diſtinguiret	distinguieret	cab	1	
@@ -1393,6 +1475,7 @@ dreigeſtrichenẽ	dreigestrichenen	cab	1
 dreimahlen	dreimalen	cab	1	
 dreizehenden	dreizehnten	cab	1	
 dreyen	drei	cab	1	
+dreyerley	dreierlei	cab	1	
 dreyfaches	dreifaches	cab	1	
 dreymahlen	dreimalen	cab	1	
 dreyzehen	dreizehn	cab	1	
@@ -1407,9 +1490,12 @@ dunckle	dunkle	cab	1
 durchdringenste	durchdringeneste	cab	1	
 durchdringenſte	durchdringeneste	cab	1	
 duͤrffen	dürfen	cab	1	
+duͤrffens	dürfens	cab	1	
+duͤrfften	dürften	cab	1	
 duͤrffteſt	dürftest	cab	1	
 düncken	dünken	cab	1	
 dürffens	dürfens	cab	1	
+ebenfals	ebenfalls	cab	1	
 ehemahligen	ehemaligen	cab	1	
 ehemahliger	ehemaliger	cab	1	
 ehemahls	ehemals	cab	1	
@@ -1425,16 +1511,20 @@ eingefuͤhret	eingeführt	cab	1
 eingeruͤcket	eingerückt	cab	1	
 eingerücket	eingerückt	cab	1	
 einigermaſſen	einigermaßen	cab	1	
+einlauffen	einlaufen	cab	1	
 eintheilet	einteilet	cab	1	
+eintheilete	einteilte	cab	1	
 eintheilte	einteilte	cab	1	
 eintzelner	einzelner	cab	1	
 eintziger	einziger	cab	1	
+einzutheilen	einzuteilen	cab	1	
 einſchlieſſen	einschließen	cab	1	
 einſiehet	einsieht	cab	1	
 einſmahls	einsmals	cab	1	
 einſten	einst	cab	1	
 elff	elf	cab	1	
 employiren	employieren	cab	1	
+enharmoniſch-getheilte	enharmonisch-geteilte	cab	1	
 entreffen	antreffen	edited	1	CAB: entraffen
 entwerffen	entwerfen	cab	1	
 erfahreneſten	erfahrensten	cab	1	
@@ -1444,6 +1534,7 @@ ergetzet	ergötzt	cab	1
 ergetzlichen	ergötzlichen	cab	1	
 erhohlen	erholen	cab	1	
 erhohlet	erholet	cab	1	
+erhoͤheter	erhöhter	cab	1	
 erhöheter	erhöhter	cab	1	
 erklaͤhren	erklären	cab	1	
 erstemahl	erstemal	cab	1	
@@ -1456,12 +1547,15 @@ erſtenmahl	erstenmal	cab	1
 etwañ	etwan	cab	1	
 evolviren	evolvieren	cab	1	
 excommuniciret	exkommuniziert	cab	1	
+executiren	exekutieren	cab	1	
 executirt	exekutiert	cab	1	
 exerciret	exerzieret	cab	1	
 favoriſiren	favorisieren	cab	1	
 faͤhret	fährt	cab	1	
 faͤnget	fängt	cab	1	
+fehlete	fehlte	cab	1	
 feſtgeſtellet	festgestellt	cab	1	
+figuriren	figurieren	cab	1	
 findt	findet	cab	1	
 fleissigen	fleißigen	cab	1	
 fleissiger	fleißiger	cab	1	
@@ -1485,18 +1579,22 @@ fur	für	cab	1
 fuͤnden	finden	cab	1	
 fuͤnffmahl	fünfmal	cab	1	
 fuͤrzutragen	vorzutragen	cab	1	
+fuͤrſehen	vorsehen	cab	1	
 fünff-faches	fünf-Faches	cab	1	
 gangen	gegangen	cab	1	
 gebilliget	gebilligt	cab	1	
+gebranche	gebranche	edited	1	kept: misprint (sic); CAB: gebrange
 gebrauchet	gebraucht	cab	1	
 gebrochnen	gebrochenen	cab	1	
 gedaucht	gedeucht	edited	1	from dünken; CAB: getaucht
 gedrucckt	gedruckt	cab	1	
+gedrucket	gedruckt	cab	1	
 gefolget	gefolgt	cab	1	
 gefuͤget	gefügt	cab	1	
 geführet	geführt	cab	1	
 geheiſſen	geheißen	cab	1	
 gehemmet	gehemmt	cab	1	
+gehohlet	geholt	cab	1	
 gelebet	gelebt	cab	1	
 gelehret	gelehrt	cab	1	
 gelernet	gelernt	cab	1	
@@ -1506,6 +1604,7 @@ gemercket	gemerkt	cab	1
 gemeynt	gemeint	cab	1	
 genanten	genannten	cab	1	
 geneiget	geneigt	cab	1	
+generaler	generaler	edited	1	kept: CAB: generale
 genugsam	genügsam	cab	1	
 genugſam	genügsam	cab	1	
 genöthiget	genötigt	cab	1	
@@ -1525,6 +1624,7 @@ gewohnliches	gewöhnliches	cab	1
 gezognen	gezogenen	cab	1	
 geſaget	gesagt	cab	1	
 geſchenckt	geschenkt	cab	1	
+geſchenckte	geschenkte	cab	1	
 geſchicht	geschieht	cab	1	
 geſcholtne	gescholtene	cab	1	
 geſpuͤhret	gespürt	cab	1	
@@ -1536,7 +1636,9 @@ gibts	gibt es	cab	1
 gravirten	gravierten	cab	1	
 gravirtes	graviertes	cab	1	
 greifft	greift	cab	1	
+groſſem	großem	cab	1	
 groſſes	großes	cab	1	
+groͤbern	gröberen	cab	1	
 groͤssern	größeren	cab	1	
 groͤſten	größten	cab	1	
 groͤſſern	größeren	cab	1	
@@ -1567,6 +1669,7 @@ hervorgesuchet	hervorgesucht	cab	1
 hervorgeſuchet	hervorgesucht	cab	1	
 hervorthun	hervortun	cab	1	
 het	het	edited	1	Low German proverb
+heut	heute	cab	1	
 hiemit	hiermit	cab	1	
 hiezu	hierzu	cab	1	
 hiher	hieher	cab	1	
@@ -1574,7 +1677,9 @@ hindan	hintan	cab	1
 hindangeſetzet	hintangesetzt	cab	1	
 hindangeſetzt	hintangesetzt	cab	1	
 hingeſetzet	hingesetzt	cab	1	
+hinzuthun	hinzutun	cab	1	
 hoͤchstnoͤthig	höchstnötig	cab	1	
+hoͤchſt-unbeſonnene	höchst-unbesonnene	edited	1	CAB: höchst-Unbesonnene
 hoͤchſtnoͤthig	höchstnötig	cab	1	
 hoͤrẽ	hören	cab	1	
 hunderterley	hunderterlei	cab	1	
@@ -1585,6 +1690,7 @@ ihrere	ihrer	cab	1
 illuſtriret	illustriert	cab	1	
 imgleichen	ingleichen	cab	1	
 imitiren	imitieren	cab	1	
+imitirt	imitiert	cab	1	
 imprimiren	imprimieren	cab	1	
 incapable	inkapable	cab	1	
 inconvenience	inconvenience	edited	1	kept: French
@@ -1597,9 +1703,12 @@ iſſet	isst	cab	1
 jedennoch	dennoch	cab	1	
 jederman	jedermann	cab	1	
 judicire	judiziere	cab	1	
+juſtificiren	justifizieren	cab	1	
 kans	kann es	cab	1	contraction
 kauffen	kaufen	cab	1	
+keinesweges	keineswegs	cab	1	
 kennete	kennte	cab	1	
+klaͤrer	klarer	cab	1	
 kleineſten	kleinsten	cab	1	
 kom̃en	kommen	cab	1	
 kom̃t	kommt	cab	1	
@@ -1608,8 +1717,11 @@ koͤnten	könnten	cab	1
 kreutzweiſe	kreuzweise	cab	1	
 kunnte	konnte	cab	1	
 kurtzum	kurzum	cab	1	
+kuͤnfftig	künftig	cab	1	
 kuͤnſtlich-eingetheilten	künstlich-eingeteilten	cab	1	
 kuͤrtzer	kürzer	cab	1	
+kuͤrtzern	kürzeren	cab	1	
+kuͤrtzlich	kürzlich	cab	1	
 kürtzlich	kürzlich	cab	1	
 langſsam	langsam	cab	1	
 lauffe	laufe	cab	1	
@@ -1625,6 +1737,7 @@ lehret	lehrt	cab	1
 letztern	letzteren	cab	1	
 lieſſen	ließen	cab	1	
 logarythmiſche	logarithmische	cab	1	
+loß	los	cab	1	
 läugnen	leugnen	cab	1	
 mahlte	malte	cab	1	
 mancherley	mancherlei	cab	1	
@@ -1635,6 +1748,7 @@ mannierliches	manierliches	cab	1
 maſſiveste	massivste	cab	1	
 mehrer	mehr	edited	1	mit mehrer Aufmerckſamkeit
 mercklich	merklich	cab	1	
+merckt	merkt	cab	1	
 merckwuͤrdige	merkwürdige	cab	1	
 misbillige	missbillige	cab	1	
 mittelſst	mittelst	cab	1	
@@ -1650,17 +1764,21 @@ muthwillige	mutwillige	cab	1
 muſicaliſch	musikalisch	cab	1	
 muſicaliſche	musikalische	cab	1	
 muſicaliſcher	musikalischer	cab	1	
+muſicaliſchere	musikalischere	cab	1	
 muſicaliſches	musikalisches	cab	1	
 muſiciren	musizieren	cab	1	
 muſt	musst	cab	1	
 muſten	mussten	cab	1	
 muͤſten	müssten	cab	1	
 müſſig	müßig	cab	1	
+nachdencken	nachdenken	cab	1	
 nachgeahmet	nachgeahmt	cab	1	
 nachtheil	nachteil	cab	1	
+nachtheilig	nachteilig	cab	1	
 nechſten	nächsten	cab	1	
 neun-ſechszehntel	neun-Sechszehntele	cab	1	
 neunerley	neunerlei	cab	1	
+nimmet	nimmt	cab	1	
 nim̃t	nimmt	cab	1	
 nnd	und	cab	1	
 nocheinmahl	noch einmal	edited	1	CAB: nochmal
@@ -1685,6 +1803,7 @@ pag	pag	edited	1	abbreviation of pagina; CAB gave pak
 pardonniret	pardonieret	cab	1	
 paſſionirt	passioniert	cab	1	
 paſſiren	passieren	cab	1	
+pecciren	peccieren	edited	1	CAB: pekzieren
 penetrire	penetriere	cab	1	
 pouſſiret	poussieret	cab	1	
 practicable	praktikable	cab	1	
@@ -1698,6 +1817,8 @@ procediren	prozedieren	cab	1
 producire	produziere	cab	1	
 proſtituirte	prostituierte	cab	1	
 prætendiren	prätendieren	cab	1	
+prætendirte	prätendierte	cab	1	
+præſtiren	prästieren	cab	1	
 quadriret	quadrieret	cab	1	
 quadrirt	quadriert	cab	1	
 quotidianes	quotidianes	edited	1	Latin word
@@ -1706,6 +1827,7 @@ recipirte	rezipierte	cab	1
 recommendire	rekommandiere	cab	1	
 recommendiret	rekommandieret	cab	1	
 reitzen	reizen	cab	1	
+relegiren	relegieren	cab	1	
 reſolviret	resolvieret	cab	1	
 reſolvirt	resolviert	cab	1	
 reſpirirt	respiriert	cab	1	
@@ -1730,6 +1852,7 @@ tausendmahl	tausendmal	cab	1
 taͤndlend	tändelnd	cab	1	
 temperiren	temperieren	cab	1	
 temperirte	temperierte	cab	1	
+teutſcher	deutscher	cab	1	
 theilet	teilet	cab	1	
 theilt	teilt	cab	1	
 thoͤrichte	törichte	cab	1	
@@ -1738,10 +1861,13 @@ thöricht	töricht	cab	1
 tiefeſten	tiefsten	cab	1	
 todter	toter	cab	1	
 toucher	toucher	edited	1	French word
+tractire	traktiere	cab	1	
 tractiren	traktieren	cab	1	
 tranſponirte	transponierte	cab	1	
 trit	tritt	cab	1	
 umgekehret	umgekehrt	cab	1	
+unbekandt	unbekannt	cab	1	
+unbekandten	unbekannten	cab	1	
 undanckbar	undankbar	cab	1	
 unerfahrner	unerfahrener	cab	1	
 ungefuͤllete	ungefüllte	cab	1	
@@ -1764,9 +1890,12 @@ unvorgreiffliche	unvorgreifliche	cab	1
 unzehlich	unzelich	cab	1	
 unzehliche	unzählige	cab	1	
 unzehlige	unzählige	cab	1	
+unſrer	unserer	cab	1	
 urtheile	urteile	cab	1	
+uͤbel-temperirte	übel-temperierte	cab	1	
 uͤbereinkoͤmmt	übereinkommt	cab	1	
 uͤbereinkoͤm̃t	übereinkommt	cab	1	
+uͤberhaͤuffen	überhäufen	cab	1	
 uͤbermaͤſſige	übermäßige	cab	1	
 uͤbermaͤſſiger	übermäßiger	cab	1	
 uͤbersiehet	übersieht	cab	1	
@@ -1780,8 +1909,10 @@ verlohrenen	verlorenen	cab	1
 vermercket	vermerket	cab	1	
 vermeynten	vermeinten	cab	1	
 vermeynter	vermeinter	cab	1	
+vermuthe	vermute	cab	1	
 vermuthet	vermutet	cab	1	
 vernuͤnfftig	vernünftig	cab	1	
+vernuͤnfftiger	vernünftiger	cab	1	
 vernünfftiger	vernünftiger	cab	1	
 vernünfttiger	vernünftiger	cab	1	
 verteutſchet	verdeutscht	cab	1	
@@ -1796,6 +1927,7 @@ verſuͤſſet	versüßet	cab	1
 vieleicht	vielleicht	cab	1	
 vielfaͤrbige	vielfarbige	cab	1	
 vielfaͤrbigten	vielfarbigen	cab	1	
+vierdte	vierte	cab	1	
 viereckigt	viereckig	cab	1	
 viereckte	viereckige	cab	1	
 viererley	viererlei	cab	1	
@@ -1807,6 +1939,7 @@ vollenkommen	vollkommen	cab	1
 vollkomenſte	vollkommenste	cab	1	
 vorgemeldte	vorgemeldete	cab	1	
 vorgestellet	vorgestellt	cab	1	
+vorgeſetzet	vorgesetzt	cab	1	
 vorgeſtellet	vorgestellt	cab	1	
 vorher-geſchenckte	vorhergeschenkt	cab	1	
 vorhero	vorher	cab	1	
@@ -1827,6 +1960,7 @@ werth	wert	cab	1
 weyland	weiland	cab	1	
 wichtigern	wichtigeren	cab	1	
 wiederhohlet	wiederholt	cab	1	
+wiederhohltem	wiederholtem	cab	1	
 wiederrathen	widerraten	edited	1	CAB: wiederraten
 wievielerley	wievielerlei	cab	1	
 wirchlich	wirklich	cab	1	
@@ -1851,6 +1985,9 @@ wuͤſten	wüssten	cab	1
 wünſchn	wünschen	cab	1	
 wüste	wüsste	cab	1	
 wüſten	wüssten	cab	1	
+zancken	zanken	cab	1	
+zehen	zehn	cab	1	
+zehnmahl	zehnmal	cab	1	
 zerreissen	zerreißen	cab	1	
 zerreiſſen	zerreißen	cab	1	
 zertheilet	zerteilet	cab	1	
@@ -1868,6 +2005,7 @@ zweiffelhaft	zweifelhaft	cab	1
 zweiffelten	zweifelten	cab	1	
 zweifflen	zweifle	cab	1	
 zweigeſchwaͤntzten	zweigeschwänzten	cab	1	
+zweyfache	zweifache	cab	1	
 zweyfachen	zweifachen	cab	1	
 zweyfaches	zweifaches	cab	1	
 zweygeſchwaͤntzten	zweigeschwänzten	cab	1	
@@ -1880,6 +2018,7 @@ zweyſtimmig	zweistimmig	cab	1
 zwischen-spielender	zwischen-Spielender	cab	1	
 zwiſchen-ſpielenden	zwischen-Spielenden	cab	1	
 zwiſchen-ſpielender	zwischen-Spielender	cab	1	
+zwoͤlffteln	zwölfteln	cab	1	
 zwölffte	zwölfte	cab	1	
 äuſſern	äußeren	cab	1	
 äuſſerſten	äußersten	cab	1	
@@ -1889,6 +2028,7 @@ zwölffte	zwölfte	cab	1
 überhäuffet	überhäufet	cab	1	
 überhäufften	überhäuften	cab	1	
 überſiehet	übersieht	cab	1	
+ſahe	sah	cab	1	
 ſammt	samt	cab	1	
 ſaubern	sauberen	cab	1	
 ſaͤumſeelige	säumselige	cab	1	
@@ -1897,6 +2037,7 @@ zwölffte	zwölfte	cab	1
 ſcharffe	scharfe	cab	1	
 ſcharffes	scharfes	cab	1	
 ſcharffſinnige	scharfsinnige	cab	1	
+ſchaͤrffere	schärfere	cab	1	
 ſchlieſſe	schließe	cab	1	
 ſchlieſſet	schließet	cab	1	
 ſchmincke	schminke	cab	1	
@@ -1906,8 +2047,10 @@ zwölffte	zwölfte	cab	1
 ſehẽ	sehen	cab	1	
 ſelbsten	selbst	cab	1	
 ſen	sein	cab	1	
+ſepariret	separiert	edited	1	CAB: separieret
 ſolls	soll es	cab	1	contraction
 ſolmiſire	solmisiere	cab	1	
+ſonderbahren	sonderbaren	cab	1	
 ſonderlichs	sonderliches	cab	1	
 ſouverainen	souveränen	cab	1	
 ſowol	sowohl	cab	1	
@@ -1917,10 +2060,13 @@ zwölffte	zwölfte	cab	1
 ſtarck-ruͤckenden	stark-rückenden	cab	1	
 ſtarcke	starke	cab	1	
 ſtarckes	starkes	cab	1	
+ſtaͤrckere	stärkere	cab	1	
 ſtaͤrckeren	stärkeren	cab	1	
 ſtaͤrckern	stärkeren	cab	1	
 ſteiff	steif	cab	1	
 ſtinckt	stinkt	cab	1	
+ſtoltze	stolze	cab	1	
+ſtoͤſſt	stößt	cab	1	
 ſtudirt	studiert	cab	1	
 ſtärckere	stärkere	cab	1	
 ſuccediren	sukzedieren	cab	1	

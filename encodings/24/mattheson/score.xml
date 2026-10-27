@@ -71,6 +71,15 @@
       <surface ulx="0" uly="0" lry="2430" lrx="1967" xml:id="facs-p454" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/454">
         <graphic width="1967" height="2430" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00454/full/full/0/default.jpg" />
       </surface>
+      <surface ulx="0" uly="0" lry="2421" lrx="2009" xml:id="facs-p456" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/456">
+        <graphic width="2009" height="2421" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00456/full/full/0/default.jpg" />
+      </surface>
+      <surface ulx="0" uly="0" lry="2405" lrx="1899" xml:id="facs-p457" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/457">
+        <graphic width="1899" height="2405" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00457/full/full/0/default.jpg" />
+      </surface>
+      <surface ulx="0" uly="0" lry="2418" lrx="1963" xml:id="facs-p458" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/458">
+        <graphic width="1963" height="2418" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00458/full/full/0/default.jpg" />
+      </surface>
     </facsimile>
     <body>
       <mdiv n="1" label="D♭ major">
@@ -87,6 +96,7 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="230" source="#firstEdition" facs="#facs-p452" />
             <choice>
               <orig />
               <reg resp="#pfeffer">
@@ -871,6 +881,7 @@
                 </fb>
               </harm>
             </measure>
+            <pb n="231" source="#firstEdition" facs="#facs-p453" />
             <measure xml:id="measure-0000001265165097" n="23">
               <staff n="2">
                 <layer n="1">
@@ -1238,21 +1249,26 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
-              <harm place="above" staff="2" tstamp="2.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
-              <harm place="above" staff="2" tstamp="3.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="2.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition"></rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
@@ -1394,13 +1410,24 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <supplied resp="#rettinghaus">
-                <harm place="above" staff="2" tstamp="3.0">
-                  <fb>
-                    <f>6</f>
-                  </fb>
-                </harm>
-              </supplied>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <supplied resp="#rettinghaus">
+                    <harm place="above" staff="2" tstamp="4.0">
+                      <fb>
+                        <f>6</f>
+                      </fb>
+                    </harm>
+                  </supplied>
+                </lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000493740974" n="36">
               <staff n="2">
@@ -1463,6 +1490,17 @@
                   </beam>
                 </layer>
               </staff>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition"></lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6</f>
+                      <f>4</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
@@ -1704,9 +1742,17 @@
                 <layer n="1">
                   <note xml:id="note-0000002067369048" dur="4" oct="3" pname="a" accid.ges="f" />
                   <note xml:id="note-0000001694250206" dur="4" oct="2" pname="a" accid.ges="f" />
-                  <supplied resp="#pfeffer" corresp="#rest-0000000055185116">
-                    <rest xml:id="rest-0000001170724136" dur="4" />
-                  </supplied>
+                  <app resp="#pfeffer">
+                    <lem source="#secondEdition">
+                      <supplied resp="#pfeffer" corresp="#rest-0000000055185116">
+                        <rest xml:id="rest-0000001170724136" dur="4" />
+                      </supplied>
+                    </lem>
+                    <rdg source="#firstEdition">
+                      <rest dur="4" />
+                    </rdg>
+                  </app>
+                  <pb n="232" source="#firstEdition" facs="#facs-p454" />
                   <beam>
                     <note xml:id="note-0000002097349952" dots="1" dur="8" oct="4" pname="d" accid.ges="f" />
                     <note xml:id="note-0000001595936764" dur="16" oct="3" pname="d" accid.ges="f" />
@@ -1745,11 +1791,16 @@
                   <f>7</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="4.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition"></rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000002107539468" n="45">
               <staff n="2">
@@ -1785,21 +1836,37 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="2.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
-              <harm place="above" staff="2" tstamp="3.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
-              <harm place="above" staff="2" tstamp="4.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="2.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000001839542913" n="46">
               <staff n="2">
@@ -1840,16 +1907,21 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
-              <harm place="above" staff="2" tstamp="4.0">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition"></rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000601026268" n="47">
               <staff n="2">
@@ -1880,16 +1952,40 @@
                   </orig>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6</f>
+                      <f>4</f>
+                      <f>2</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>6</f>
                 </fb>
               </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition"></lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>6</f>
+                      <f>4</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000496458078" n="48">
               <staff n="2">
@@ -2003,6 +2099,7 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <pb n="234" source="#firstEdition" facs="#facs-p456" />
             <measure xml:id="measure-0000000764616467" n="1">
               <staff n="2">
                 <layer n="1">
@@ -2740,6 +2837,7 @@
                 </fb>
               </harm>
             </measure>
+            <pb n="235" source="#firstEdition" facs="#facs-p457" />
             <measure xml:id="measure-0000001820696360" n="23">
               <staff n="2">
                 <layer n="1">
@@ -2932,11 +3030,23 @@
                   <f>♯</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="3.0">
-                <fb>
-                  <f>6⃥</f>
-                </fb>
-              </harm>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>6⃥</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#firstEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <f>6⃥</f>
+                      <f>4</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="measure-0000000446436528" n="28">
               <staff n="2">
@@ -2980,9 +3090,22 @@
                     <note xml:id="note-0000001209947930" dots="1" dur="8" oct="3" pname="f">
                       <accid accid="x" accid.ges="ss" />
                     </note>
-                    <note xml:id="note-0000001326635735" dur="16" oct="2" pname="f">
-                      <accid accid="x" accid.ges="ss" />
-                    </note>
+                    <app resp="#pfeffer">
+                      <lem source="#secondEdition">
+                        <note xml:id="note-0000001326635735" dur="16" oct="2" pname="f" accid.ges="ss">
+                          <supplied resp="#pfeffer">
+                            <reg>
+                              <accid accid="x" />
+                            </reg>
+                          </supplied>
+                        </note>
+                      </lem>
+                      <rdg source="#firstEdition">
+                        <note dur="16" oct="2" pname="f">
+                          <accid accid="x" accid.ges="ss" />
+                        </note>
+                      </rdg>
+                    </app>
                   </beam>
                   <beam>
                     <note xml:id="note-0000000377147855" dots="1" dur="8" oct="3" pname="f" accid.ges="ss" />
@@ -3083,34 +3206,39 @@
                   </beam>
                 </layer>
               </staff>
-              <supplied resp="#rettinghaus">
-                <harm place="above" staff="2" tstamp="1.0">
-                  <fb>
-                    <f>7</f>
-                  </fb>
-                </harm>
-                <harm place="above" staff="2" tstamp="2.0">
-                  <fb>
-                    <f>7</f>
-                  </fb>
-                </harm>
-              </supplied>
-              <choice>
-                <corr resp="#rettinghaus">
-                  <harm place="above" staff="2" tstamp="3.0">
-                    <fb>
-                      <f>6</f>
-                    </fb>
-                  </harm>
-                </corr>
-                <sic>
-                  <harm place="above" staff="2" tstamp="3.5">
-                    <fb>
-                      <f>6</f>
-                    </fb>
-                  </harm>
-                </sic>
-              </choice>
+              <app resp="#pfeffer">
+                <lem source="#secondEdition">
+                  <supplied resp="#rettinghaus">
+                    <harm place="above" staff="2" tstamp="1.0">
+                      <fb>
+                        <f>7</f>
+                      </fb>
+                    </harm>
+                    <harm place="above" staff="2" tstamp="2.0">
+                      <fb>
+                        <f>7</f>
+                      </fb>
+                    </harm>
+                  </supplied>
+                  <choice>
+                    <corr resp="#rettinghaus">
+                      <harm place="above" staff="2" tstamp="3.0">
+                        <fb>
+                          <f>6</f>
+                        </fb>
+                      </harm>
+                    </corr>
+                    <sic>
+                      <harm place="above" staff="2" tstamp="3.5">
+                        <fb>
+                          <f>6</f>
+                        </fb>
+                      </harm>
+                    </sic>
+                  </choice>
+                </lem>
+                <rdg source="#firstEdition"></rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4.0">
                 <fb>
                   <f>6</f>
@@ -3522,6 +3650,7 @@
                   <note xml:id="note-0000001272325229" dur="4" oct="3" pname="g" accid.ges="s" />
                   <note xml:id="note-0000001948255782" dur="4" oct="2" pname="g" accid.ges="s" />
                   <rest xml:id="rest-0000000055185116" dur="4" />
+                  <pb n="236" source="#firstEdition" facs="#facs-p458" />
                   <beam>
                     <note xml:id="note-0000000156498351" dots="1" dur="8" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000000025314840" dur="16" oct="3" pname="c" accid.ges="s" />

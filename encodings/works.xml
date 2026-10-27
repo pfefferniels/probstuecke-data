@@ -687,6 +687,12 @@
                     <incipCode>%F-4$bBEAD@C %F-4 {,8.D,6D}{,8.E,6E}{(,8F,8bG,8A)}{(,8B'8C'8D)}/{,8.E,6E}{,8.F,6F}{(,8bG,8A,8B)}{('8C'8D'8E)}/{,8.F,6F}{,8.bG,6G}{(,8A,8B'8C)}{('8D'8E'8F)}/{,8.bG,6G}{,8.A,6A}{(,8B'8C'8D)}{('8E'8F'8bG)}/</incipCode>
                 </incip>
                 <expressionList>
+                    <expression type="edition" data="#ps24-001">
+                        <creation startdate="1719" />
+                        <langUsage>
+                            <language ident="deu">German</language>
+                        </langUsage>
+                    </expression>
                     <expression type="edition" data="#ps24-002">
                         <creation startdate="1731" />
                         <langUsage>

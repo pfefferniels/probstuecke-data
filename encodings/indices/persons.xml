@@ -116,6 +116,15 @@
                     <birth/>
                     <death>1711</death>
                 </person>
+                <person xml:id="ed_b8r_r1t_mlb">
+                    <idno type="uri">http://d-nb.info/gnd/118675052</idno>
+                    <persName type="reg">
+                        <surname>Bussy-Rabutin</surname>
+                        <forename>Roger de</forename>
+                    </persName>
+                    <birth>1618</birth>
+                    <death>1693</death>
+                </person>
                 <person xml:id="ed_dvy_pvy_qlb">
                     <idno type="uri">http://d-nb.info/gnd/121397963</idno>
                     <persName type="reg">
@@ -591,6 +600,15 @@
                     </persName>
                     <birth>1666</birth>
                     <death>1738</death>
+                </person>
+                <person xml:id="ed_s9n_c4a_mlb">
+                    <idno type="uri">http://d-nb.info/gnd/139696865</idno>
+                    <persName type="reg">
+                        <surname>Sinn</surname>
+                        <forename>Christoph Albert</forename>
+                    </persName>
+                    <birth>1680</birth>
+                    <death>1729</death>
                 </person>
                 <person xml:id="ed_exd_n2j_vlb">
                     <idno type="uri">http://d-nb.info/gnd/135280303</idno>

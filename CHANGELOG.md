@@ -26,6 +26,7 @@ First versioned release.
 - `term` in the customisation of the DTA Base Format, `TEI/@type="terms"` and `listRef` in `probstuecke-tei.odd`; `check_references.py` also checks the pointers of `<term>`, of the Register and of the index of terms
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 - The realisations of Nos. 10 and 14 by Niels Pfeffer and of Nos. 20 and 21 by Larry Molinaro, and Robert Hill's lesson on No. 16, are expressions of their works in `works.xml` (`ps10-004`, `ps14-004`, `ps16-004`, `ps20-004`, `ps21-004`), so that the website shows them with their scores and recordings
+- The 1719 version of No. 24 (`ps24-001`, pp. 230–256 of the first edition): the commentary is transcribed diplomatically (`24/mattheson/comments_1st.xml`) and the score encodes the readings of the 1719 print; Bussy-Rabutin and Sinn in the index of persons
 
 ### Changed
 
