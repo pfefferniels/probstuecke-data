@@ -74,20 +74,20 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1879" lrx="1579" xml:id="facs-p286">
-      <graphic width="1579px" height="1879px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/286" />
+    <surface ulx="0" uly="0" lry="1879" lrx="1579" xml:id="facs-p285">
+      <graphic width="1579px" height="1879px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/285" />
     </surface>
-    <surface ulx="0" uly="0" lry="1896" lrx="1579" xml:id="facs-p287">
-      <graphic width="1579px" height="1896px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/287" />
+    <surface ulx="0" uly="0" lry="1896" lrx="1579" xml:id="facs-p286">
+      <graphic width="1579px" height="1896px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/286" />
     </surface>
-    <surface ulx="0" uly="0" lry="1882" lrx="1579" xml:id="facs-p288">
-      <graphic width="1579px" height="1882px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/288" />
+    <surface ulx="0" uly="0" lry="1882" lrx="1579" xml:id="facs-p287">
+      <graphic width="1579px" height="1882px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/287" />
     </surface>
-    <surface ulx="0" uly="0" lry="1906" lrx="1579" xml:id="facs-p289">
-      <graphic width="1579px" height="1906px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/289" />
+    <surface ulx="0" uly="0" lry="1906" lrx="1579" xml:id="facs-p288">
+      <graphic width="1579px" height="1906px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/288" />
     </surface>
-    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p290">
-      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/290" />
+    <surface ulx="0" uly="0" lry="1868" lrx="1579" xml:id="facs-p289">
+      <graphic width="1579px" height="1868px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/289" />
     </surface>
   </facsimile>
   <text>

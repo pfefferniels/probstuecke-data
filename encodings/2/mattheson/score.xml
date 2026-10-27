@@ -62,7 +62,7 @@
   <music>
     <facsimile decls="#firstEdition">
       <surface ulx="0" uly="0" lrx="1999" lry="2375" xml:id="facs-p282">
-        <graphic width="1999" height="2375" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00282/full/full/0/default.jpg" />
+        <graphic width="1999" height="2375" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/282" />
       </surface>
       <surface ulx="0" uly="0" lrx="1992" lry="2389" xml:id="facs-p283">
         <graphic width="1992" height="2389" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/283" />

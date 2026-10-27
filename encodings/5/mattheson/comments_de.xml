@@ -77,15 +77,15 @@
   </teiHeader>
 
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2412" xml:id="facs-p391">
-      <graphic width="1998px" height="2412px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2412" xml:id="facs-p390">
+      <graphic width="1998px" height="2412px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390"/>
       <zone ulx="87" uly="323" lry="727" lrx="1941" xml:id="facsZone-p1-1"/>
       <zone ulx="96" uly="695" lry="1711" lrx="1941" xml:id="facsZone-p2-1"/>
       <zone ulx="102" uly="1697" lry="2059" lrx="1944" xml:id="facsZone-p3-1"/>
       <zone ulx="102" uly="2027" lry="2227" lrx="1941" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2435" xml:id="facs-p392">
-      <graphic width="1998px" height="2435px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/392"/>
+    <surface ulx="0" uly="0" lrx="1998" lry="2435" xml:id="facs-p391">
+      <graphic width="1998px" height="2435px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
       <zone ulx="51" uly="167" lry="448" lrx="1902" xml:id="facsZone-p4-1-2"/>
       <zone ulx="48" uly="413" lry="1342" lrx="1884" xml:id="facsZone-p5-1"/>
       <zone ulx="51" uly="1313" lry="2080" lrx="1887" xml:id="facsZone-p6-1"/>
@@ -101,7 +101,7 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb n="329" facs="#facs-p391"/>
+      <pb n="329" facs="#facs-p390"/>
       <div n="0" type="chapter">
         <head>Erlaͤuterung.</head>
         <div n="1">

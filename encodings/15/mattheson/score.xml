@@ -62,11 +62,11 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="2380" lrx="1940" xml:id="facs-p392">
-        <graphic width="1940" height="2380" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/392" />
+      <surface ulx="0" uly="0" lry="2380" lrx="1940" xml:id="facs-p398">
+        <graphic width="1940" height="2380" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/398" />
       </surface>
-      <surface ulx="0" uly="0" lry="2369" lrx="1970" xml:id="facs-p393">
-        <graphic width="1970" height="2369" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/393" />
+      <surface ulx="0" uly="0" lry="2369" lrx="1970" xml:id="facs-p399">
+        <graphic width="1970" height="2369" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/399" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
@@ -188,7 +188,7 @@
           </scoreDef>
           <section>
             <pb n="382" source="#secondEdition" facs="#facs-p444" />
-            <pb n="174" source="#firstEdition" facs="#facs-p392" />
+            <pb n="174" source="#firstEdition" facs="#facs-p398" />
             <measure xml:id="measure-0000000308092062" metcon="false">
               <staff xml:id="staff-0000000951353407" n="1">
                 <layer n="1">
