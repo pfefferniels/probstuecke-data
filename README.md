@@ -49,7 +49,7 @@ The English translation can be compared with the 1731 text sentence by sentence.
 <s corresp="comments_de.xml#p1-1-s2">To me it appeared very ridiculous.</s>
 ```
 
-A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon; line and page breaks and notes stay inside the sentence they fall in. The website shows aligned translations side by side with the original. `python3 scripts/check_alignment.py` checks that every pointer names a sentence, that every sentence of the original is translated and that the order is kept. So far Probstück 1 is aligned.
+A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon; line and page breaks and notes stay inside the sentence they fall in. On the website, the sentences of the original stand small and grey beneath the sentences of an aligned translation (readers can hide them). `python3 scripts/check_alignment.py` checks that every pointer names a sentence, that every sentence of the original is translated and that the order is kept. So far Probstück 1 is aligned.
 
 ## Index of terms
 

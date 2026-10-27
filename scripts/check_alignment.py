@@ -8,7 +8,7 @@ sentence or sentences of the original that it renders:
     comments_en.xml   <s corresp="comments_de.xml#p1-1-s2">Whether or not …</s>
                       <s corresp="comments_de.xml#p1-1-s2">To me it appeared …</s>
 
-The website shows the two side by side, sentence by sentence. For every TEI
+The website shows the original between the lines of the translation. For every TEI
 file with such sentences the script checks that
 
   1. each @corresp token of an <s> names an <s> of an existing file;

@@ -48,7 +48,7 @@
           A translation may be divided into sentences (<gi>s</gi>) whose <att>corresp</att> points to
           the sentence or sentences of the original they render, e.g.
           <code>&lt;s corresp="comments_de.xml#p1-1-s2"&gt;</code>. The website then shows the
-          translation and the original side by side, sentence by sentence.
+          original between the lines of the translation, sentence by sentence.
         </p>
       </div>
       <div>
