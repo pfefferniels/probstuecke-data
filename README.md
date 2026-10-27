@@ -16,6 +16,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/<n>/<name>/` | Lessons and realisations by other musicians, with their own scores and notes |
 | `encodings/works.xml` | List of works and their expressions (MEI `workList`); drives the website's overview |
 | `encodings/indices/` | Indices of persons, literature and musical works (TEI) |
+| `encodings/register/register_1731.xml` | Mattheson's Register of the 1731 print (pp. 465–482), transcribed (TEI, DTA Base Format) |
 | `encodings/guidelines/` | Editorial guidelines (TEI) |
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |

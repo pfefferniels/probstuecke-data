@@ -15,6 +15,7 @@ First versioned release.
 - `encodings/about/about_en.xml`: description of the edition, its sources, selection, editorial approach, credits and licences
 - Publisher and CC BY 4.0 licence statements in the index files
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
+- `encodings/register/register_1731.xml`: transcription of Mattheson's Register of the 1731 print (pp. 465–482, 527 entries), its entries about persons and works linked to the indices
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 
 ### Fixed
