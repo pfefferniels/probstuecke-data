@@ -140,7 +140,7 @@
                             <trill layer="1" staff="2" tstamp="1"/>
                             <trill layer="1" staff="1" tstamp="7"/>
                         </measure>
-                        <measure n="3">
+                        <measure n="3" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <chord dur="8">

@@ -31,11 +31,12 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef meter.unit="8" mnum.visible="false">
+                    <scoreDef mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="2s" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
@@ -105,7 +106,9 @@
                         </measure>
                         <scoreDef>
                             <staffGrp>
-                                <staffDef n="2" meter.unit="4" />
+                                <staffDef n="2">
+                                    <meterSig count="3" unit="4" form="invis" />
+                                </staffDef>
                             </staffGrp>
                         </scoreDef>
                         <measure xml:id="ex-mj83yxm">
@@ -132,7 +135,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure xml:id="ex-mim84g5" right="invis">
+                        <measure xml:id="ex-mim84g5" right="invis" metcon="false">
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-n9z96h3" dur="2" oct="2" pname="a">

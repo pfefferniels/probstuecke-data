@@ -20,7 +20,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
 | `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
-| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record, and `image_urls.py`, which turns a `<graphic>` that names a IIIF canvas into the image URL the encodings use (with the canvas in `surface/@corresp`) |
+| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_accidentals.py` checks the written accidentals against the edition's convention, `label_example_bars.py` labels the bars of the music examples with the bar numbers of the piece they quote, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record, and `image_urls.py`, which turns a `<graphic>` that names a IIIF canvas into the image URL the encodings use (with the canvas in `surface/@corresp`) |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 

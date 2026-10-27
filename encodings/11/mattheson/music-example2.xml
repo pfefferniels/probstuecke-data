@@ -31,20 +31,34 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="e" key.accid="f" key.mode="major" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="e" key.accid="f" key.mode="major" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="3f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="3f" />
+                                <meterSig count="3" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000002078803044">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000002078803044" label="23">
                             <staff n="1">
                                 <layer n="1">
                                     <rest dur="16" staff="2" oloc="3" ploc="f" />
@@ -76,7 +90,14 @@
                                         <note dur="16" oct="3" pname="c" stem.dir="down" />
                                         <note dur="16" oct="3" pname="e" stem.dir="down" accid.ges="f" />
                                     </beam>
-                                    <clef line="4" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <beam>
                                         <note dur="16" oct="3" pname="g" stem.dir="down" />
                                         <note dur="16" oct="4" pname="c" stem.dir="down" />
@@ -114,7 +135,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#measure-0000001071915657">
+                        <measure corresp="#measure-0000001071915657" label="24">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -138,7 +159,14 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef line="4" shape="F" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="F" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="4" shape="F" />
+                                        </reg>
+                                    </choice>
                                     <beam>
                                         <note dur="16" oct="4" pname="e" stem.dir="down" accid.ges="f" />
                                         <note dur="16" oct="2" pname="e" stem.dir="up" accid.ges="f" staff="2" />
@@ -173,7 +201,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure right="invis">
+                        <measure right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="5" pname="e" />

@@ -37,17 +37,29 @@
                                 <clef line="1" shape="C" />
                                 <!-- second edition only shows e flat -->
                                 <keySig sig="2f" />
-                                <meterSig count="4" unit="4" sym="common" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="2f" type="supplied" />
-                                <meterSig count="4" unit="4" sym="common" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-1220">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#m-1220" label="37">
                             <staff n="1">
                                 <layer n="1">
                                     <supplied resp="#rettinghaus">
@@ -133,7 +145,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1253">
+                        <measure corresp="#m-1253" label="38">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -169,7 +181,14 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <clef line="4" shape="C" />
+                                    <choice>
+                                        <orig>
+                                            <clef line="4" shape="C" />
+                                        </orig>
+                                        <reg resp="#pfeffer">
+                                            <clef line="2" shape="G" />
+                                        </reg>
+                                    </choice>
                                     <note dur="4" oct="4" pname="e">
                                         <orig>
                                             <accid accid="f" />
@@ -218,7 +237,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1295">
+                        <measure corresp="#m-1295" label="39">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -323,7 +342,7 @@
                                 </fb>
                             </harm>
                         </measure>
-                        <measure corresp="#m-1334" right="invis" metcon="false">
+                        <measure corresp="#m-1334" label="40" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

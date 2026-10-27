@@ -31,16 +31,29 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.mode="minor" meter.unit="4" midi.bpm="90" mnum.visible="false">
+                    <scoreDef key.pname="b" key.mode="minor" midi.bpm="90" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="G" />
                                 <keySig sig="3s" />
+                                <meterSig count="4" unit="4" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000001822556232">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000001822556232" label="34">
                             <staff n="1">
                                 <layer>
                                     <supplied resp="#pfeffer">

@@ -36,19 +36,33 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.accid="f" key.mode="major" meter.unit="16" midi.bpm="100" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="1f" />
+                                <meterSig count="9" unit="16" form="invis" />
                             </staffDef>
                             <staffDef xml:id="lh" n="2" lines="5">
                                 <clef line="4" shape="F" />
                                 <keySig sig="1f" />
+                                <meterSig count="9" unit="16" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">

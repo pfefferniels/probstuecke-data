@@ -44,7 +44,7 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure n="1">
+                        <measure n="1" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <space dur="2" />
