@@ -40,3 +40,5 @@ First versioned release.
 - Page numbers of 14 page breaks corrected against the prints
 - Nos. 14 and 24 keep both notations in `score.xml` (with `mdiv/@label`); the duplicate `score-2.xml` files are removed. The second notation of No. 24 declared the wrong staff, which made Verovio crash
 - Two mistyped figures: No. 19, bar 37, and No. 22, first example, bar 7 (raised sixths)
+- Double sharps checked against the prints and the figures: in Nos. 21 and 22 (and in No. 21, ex. 4, and No. 22, ex. 3) Mattheson's cross on a note that is already sharp means a double sharp; every note it affects now has `@accid.ges`, crosses the print has were added and two sharps it does not have removed (No. 21, m. 28; No. 21, ex. 4, m. 28); No. 22, m. 42 and m. 45, sound g double sharp, not g sharp. The notes after double sharps in Nos. 14, 18 and 24 have `@accid.ges`, too, and a double sharp in the aria of No. 16 was encoded as a double flat
+- The editorial sharps on A in the bass of No. 21 (mm. 17, 20, 24, 32, 34) were shown in the diplomatic view; they are in `<supplied>` now

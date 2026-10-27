@@ -66,7 +66,9 @@
                                 <layer n="1">
                                     <space dur="8" />
                                     <note xml:id="ex-0515689851" dur="8" oct="4" pname="d" accid.ges="s" />
-                                    <note xml:id="ex-0887129665" dur="4" oct="3" pname="g" accid.ges="s" />
+                                    <note xml:id="ex-0887129665" dur="4" oct="3" pname="g">
+                                        <accid accid="x" accid.ges="ss" />
+                                    </note>
                                     <note xml:id="ex-1223620052" dur="4" oct="3" pname="e">
                                         <accid accid="s" />
                                     </note>
@@ -124,7 +126,9 @@
                                     <note xml:id="ex-0308114131" dur="4" oct="3" pname="a" accid.ges="s" />
                                     <rest xml:id="rest-0000000201486798" dur="8" />
                                     <note xml:id="ex-1253371980" dur="8" oct="3" pname="a" accid.ges="s" />
-                                    <note xml:id="ex-0269475148" dur="4" oct="3" pname="g" accid.ges="s" />
+                                    <note xml:id="ex-0269475148" dur="4" oct="3" pname="g">
+                                        <accid accid="x" accid.ges="ss" />
+                                    </note>
                                     <note xml:id="ex-1878384312" dur="4" oct="3" pname="e">
                                         <accid accid="s" />
                                     </note>
@@ -163,12 +167,16 @@
                                         <note xml:id="ex-1279815619" dur="8" oct="4" pname="g">
                                             <accid accid="x" accid.ges="ss" />
                                         </note>
-                                        <note xml:id="ex-0945770246" dur="8" oct="4" pname="g" />
-                                        <note xml:id="ex-1053362068" dots="1" dur="8" oct="4" pname="g" />
+                                        <note xml:id="ex-0945770246" dur="8" oct="4" pname="g" accid.ges="ss" />
+                                        <note xml:id="ex-1053362068" dots="1" dur="8" oct="4" pname="g" accid.ges="ss" />
                                         <note xml:id="ex-1445602563" dur="32" oct="4" pname="f">
                                             <accid accid="x" accid.ges="ss" />
                                         </note>
-                                        <note xml:id="ex-0861103122" dur="32" oct="4" pname="g" />
+                                        <note xml:id="ex-0861103122" dur="32" oct="4" pname="g">
+                                            <orig>
+                                                <accid accid="x" accid.ges="ss" />
+                                            </orig>
+                                        </note>
                                     </beam>
                                 </layer>
                             </staff>
@@ -222,9 +230,11 @@
                                     <note xml:id="ex-0635738981" dur="4" oct="4" pname="c" accid.ges="s" />
                                     <rest xml:id="rest-0000002063328014" dur="8" />
                                     <note xml:id="ex-1966976573" dur="8" oct="4" pname="c" accid.ges="s" />
-                                    <note xml:id="ex-1408088508" dur="4" oct="3" pname="g" accid.ges="s" />
+                                    <note xml:id="ex-1408088508" dur="4" oct="3" pname="g">
+                                        <accid accid="x" accid.ges="ss" />
+                                    </note>
                                     <rest xml:id="rest-0000000625072641" dur="8" />
-                                    <note xml:id="ex-1862040361" dur="8" oct="3" pname="g" accid.ges="s" />
+                                    <note xml:id="ex-1862040361" dur="8" oct="3" pname="g" accid.ges="ss" />
                                 </layer>
                             </staff>
                             <harm place='above' staff="2" tstamp="1">

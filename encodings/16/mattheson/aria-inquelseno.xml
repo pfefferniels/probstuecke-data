@@ -2067,10 +2067,12 @@
                             </staff>
                             <staff xml:id="staff-0000001579252876" n="2">
                                 <layer>
-                                    <note xml:id="note-0000001045565359" dur="4" oct="3" pname="f" accid.ges="ff">
-                                        <reg resp="#rettinghaus">
-                                            <accid enclose="brack" accid="x" />
-                                        </reg>
+                                    <note xml:id="note-0000001045565359" dur="4" oct="3" pname="f" accid.ges="ss">
+                                        <supplied resp="#rettinghaus">
+                                            <reg>
+                                                <accid enclose="brack" accid="x" />
+                                            </reg>
+                                        </supplied>
                                     </note>
                                     <rest xml:id="rest-0000001003455284" dur="8" />
                                 </layer>

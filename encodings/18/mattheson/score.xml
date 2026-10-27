@@ -2011,7 +2011,7 @@
                       <accid accid="x" accid.ges="ss" />
                     </note>
                     <note xml:id="note-0000001881981737" dur="16" oct="2" pname="a" accid.ges="s" />
-                    <note xml:id="note-0000001675678933" dur="16" oct="3" pname="f" />
+                    <note xml:id="note-0000001675678933" dur="16" oct="3" pname="f" accid.ges="ss" />
                   </beam>
                 </layer>
               </staff>
