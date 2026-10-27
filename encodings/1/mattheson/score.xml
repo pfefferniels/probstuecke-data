@@ -61,17 +61,17 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lrx="1985" lry="2375" xml:id="facs-p276">
-        <graphic width="1985" height="2375" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/276" />
+      <surface ulx="0" uly="0" lrx="1964" lry="2402" xml:id="facs-p276">
+        <graphic width="1964" height="2402" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/276" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1975" lry="2372" xml:id="facs-p277">
-        <graphic width="1975" height="2372" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/277" />
+      <surface ulx="0" uly="0" lrx="1942" lry="2414" xml:id="facs-p277">
+        <graphic width="1942" height="2414" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/277" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1969" lry="2401" xml:id="facs-p278">
-        <graphic width="1969" height="2401" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/278" />
+      <surface ulx="0" uly="0" lrx="1980" lry="2393" xml:id="facs-p278">
+        <graphic width="1980" height="2393" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/278" />
       </surface>
-      <surface ulx="0" uly="0" lrx="1973" lry="2335" xml:id="facs-p279">
-        <graphic width="1973" height="2335" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/279" />
+      <surface ulx="0" uly="0" lrx="1935" lry="2403" xml:id="facs-p279">
+        <graphic width="1935" height="2403" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/279" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">

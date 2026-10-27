@@ -74,23 +74,23 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lry="1916" lrx="1579" xml:id="facs-p408">
-      <graphic width="1579px" height="1916px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/408" />
+    <surface ulx="0" uly="0" lry="2421" lrx="1965" xml:id="facs-p408">
+      <graphic width="1965px" height="2421px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/408" />
     </surface>
-    <surface ulx="0" uly="0" lry="1888" lrx="1579" xml:id="facs-p409">
-      <graphic width="1579px" height="1888px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/409" />
+    <surface ulx="0" uly="0" lry="2395" lrx="1934" xml:id="facs-p409">
+      <graphic width="1934px" height="2395px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/409" />
     </surface>
-    <surface ulx="0" uly="0" lry="1939" lrx="1579" xml:id="facs-p410">
-      <graphic width="1579px" height="1939px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/410" />
+    <surface ulx="0" uly="0" lry="2397" lrx="1943" xml:id="facs-p410">
+      <graphic width="1943px" height="2397px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/410" />
     </surface>
-    <surface ulx="0" uly="0" lry="1865" lrx="1579" xml:id="facs-p411">
-      <graphic width="1579px" height="1865px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/411" />
+    <surface ulx="0" uly="0" lry="2411" lrx="1920" xml:id="facs-p411">
+      <graphic width="1920px" height="2411px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/411" />
     </surface>
-    <surface ulx="0" uly="0" lry="1915" lrx="1579" xml:id="facs-p412">
-      <graphic width="1579px" height="1915px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/412" />
+    <surface ulx="0" uly="0" lry="2416" lrx="1971" xml:id="facs-p412">
+      <graphic width="1971px" height="2416px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/412" />
     </surface>
-    <surface ulx="0" uly="0" lry="1904" lrx="1579" xml:id="facs-p413">
-      <graphic width="1579px" height="1904px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/413" />
+    <surface ulx="0" uly="0" lry="2413" lrx="1932" xml:id="facs-p413">
+      <graphic width="1932px" height="2413px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/413" />
     </surface>
   </facsimile>
   <text>

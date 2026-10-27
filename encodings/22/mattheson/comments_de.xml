@@ -76,17 +76,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2007" lry="2480" xml:id="facs-p488">
-      <graphic width="2008px" height="2481px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/488" />
+    <surface ulx="0" uly="0" lrx="2010" lry="2533" xml:id="facs-p488">
+      <graphic width="2011px" height="2534px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/488" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2067" lry="2490" xml:id="facs-p489">
-      <graphic width="2068px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/489" />
+    <surface ulx="0" uly="0" lrx="1981" lry="2527" xml:id="facs-p489">
+      <graphic width="1982px" height="2528px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/489" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2063" lry="2519" xml:id="facs-p490">
-      <graphic width="2064px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/490" />
+    <surface ulx="0" uly="0" lrx="2040" lry="2526" xml:id="facs-p490">
+      <graphic width="2041px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/490" />
     </surface>
-    <surface ulx="0" uly="0" lrx="2056" lry="2490" xml:id="facs-p491">
-      <graphic width="2057px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/491" />
+    <surface ulx="0" uly="0" lrx="1983" lry="2529" xml:id="facs-p491">
+      <graphic width="1984px" height="2530px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/491" />
     </surface>
   </facsimile>
   <text>

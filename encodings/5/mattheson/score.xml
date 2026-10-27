@@ -61,11 +61,11 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="2339" lrx="1950" xml:id="facs-p300">
-        <graphic width="1950" height="2339" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/300" />
+      <surface ulx="0" uly="0" lry="2417" lrx="1996" xml:id="facs-p300">
+        <graphic width="1996" height="2417" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/300" />
       </surface>
-      <surface ulx="0" uly="0" lry="2373" lrx="2026" xml:id="facs-p301">
-        <graphic width="2026" height="2373" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/301" />
+      <surface ulx="0" uly="0" lry="2403" lrx="1926" xml:id="facs-p301">
+        <graphic width="1926" height="2403" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/301" />
       </surface>
     </facsimile>
     <facsimile decls="#secondEdition">
