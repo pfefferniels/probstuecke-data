@@ -77,7 +77,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-637" dur="8" oct="4" pname="e">
-                                            <accid xml:id="ex-638" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-638" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-639" dur="8" oct="4" pname="c" />
                                     </beam>
@@ -104,7 +106,9 @@
                                         <note xml:id="ex-657" dur="16" oct="5" pname="g" />
                                         <note xml:id="ex-659" dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note xml:id="ex-661" dur="16" oct="5" pname="e">
-                                            <accid xml:id="ex-662" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-662" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-663" dur="16" oct="5" pname="g" />
                                     </beam>
@@ -125,7 +129,9 @@
                                     <beam>
                                         <note xml:id="ex-672" dur="8" oct="4" pname="f" />
                                         <note xml:id="ex-674" dur="8" oct="4" pname="e">
-                                            <accid xml:id="ex-675" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-675" accid="f" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <beam>
@@ -164,7 +170,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-701" dur="16" oct="5" pname="e">
-                                            <accid xml:id="ex-702" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-702" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-704" dur="16" oct="4" pname="g" />
                                         <note xml:id="ex-705" dur="16" oct="5" pname="c" />

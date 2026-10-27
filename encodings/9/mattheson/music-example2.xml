@@ -64,7 +64,11 @@
                                         <note dur="16" oct="5" pname="c" />
                                     </beam>
                                     <beam>
-                                        <note dur="16" oct="4" pname="a" accid="f" />
+                    <note dur="16" oct="4" pname="a" accid.ges="f">
+                        <orig>
+                            <accid accid="f" />
+                        </orig>
+                    </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
@@ -104,7 +108,9 @@
                                 <layer n="1">
                                     <beam>
                                         <note dur="16" oct="4" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="g" />
@@ -205,7 +211,9 @@
                                     <beam>
                                         <note dur="16" oct="5" pname="c" />
                                         <note dur="16" oct="4" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="4" pname="g" />
                                         <note dur="16" oct="4" pname="a" accid.ges="f" />
@@ -225,7 +233,9 @@
                                     <note dur="8" oct="3" pname="e" accid.ges="f" />
                                     <sb source="#firstEdition #secondEdition" />
                                     <note dur="4" oct="3" pname="a">
-                                        <accid accid="f" />
+                                        <orig>
+                                            <accid accid="f" />
+                                        </orig>
                                     </note>
                                     <rest dur="8" oloc="3" ploc="f" />
                                     <note dur="8" oct="3" pname="a" accid.ges="f" />

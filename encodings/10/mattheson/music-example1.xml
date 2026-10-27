@@ -110,7 +110,9 @@
                                         <note xml:id="ex-1178" dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note xml:id="ex-1181" dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note xml:id="ex-1183" dur="16" oct="5" pname="d">
-                                            <accid xml:id="ex-1184" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1184" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1185" dur="16" oct="5" pname="d" accid.ges="f" />
                                         <note xml:id="ex-1187" dur="16" oct="4" pname="a" accid.ges="f" />
@@ -158,12 +160,16 @@
                                 <layer n="1">
                                     <chord xml:id="ex-1209" dots="1" dur="4">
                                         <note xml:id="ex-1215" oct="5" pname="d">
-                                            <accid xml:id="ex-1216" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1216" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1213" oct="4" pname="a" dots="0" accid.ges="f" />
                                         <note xml:id="ex-1212" oct="4" pname="f" dots="0" />
                                         <note xml:id="ex-1210" oct="4" pname="d" dots="0">
-                                            <accid xml:id="ex-1211" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1211" accid="f" />
+                                            </orig>
                                         </note>
                                     </chord>
                                     <beam>
@@ -180,7 +186,9 @@
                                 <layer n="1">
                                     <beam>
                                         <note xml:id="ex-1229" dur="16" oct="3" pname="d">
-                                            <accid xml:id="ex-1230" accid="f" />
+                                            <orig>
+                                                <accid xml:id="ex-1230" accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="ex-1232" dur="16" oct="3" pname="d" accid.ges="f" />
                                         <note xml:id="ex-1234" dur="16" oct="2" pname="a" accid.ges="f" />

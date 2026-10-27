@@ -535,7 +535,9 @@
                   <beam>
                     <note dur="16" oct="5" pname="g" />
                     <note dur="16" oct="5" pname="e">
-                      <accid accid="f" />
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
                     </note>
                     <note dur="16" oct="5" pname="e" accid.ges="f" />
                   </beam>
@@ -1253,7 +1255,7 @@
                   </beam>
                   <beam>
                     <note xml:id="note-0000000124123485" dur="16" oct="4" pname="d" />
-                    <note xml:id="note-0000000284556096" dur="16" oct="3" pname="b">
+                    <note xml:id="note-0000000284556096" dur="16" oct="3" pname="b" accid.ges="f">
                       <supplied resp="#pfeffer">
                         <reg>
                           <accid accid="f" func="caution" />

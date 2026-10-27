@@ -1443,7 +1443,13 @@
               <staff xml:id="staff-0000001820054871" n="2" facs="#facsZone-staff-0000001820054871">
                 <layer xml:id="layer-0000000128116540" n="1">
                   <beam xml:id="beam-0000002009847189">
-                    <note xml:id="note-0000001961776003" dur="16" oct="3" pname="g" accid.ges="s" />
+                    <note xml:id="note-0000001961776003" dur="16" oct="3" pname="g" accid.ges="s">
+                      <supplied resp="#pfeffer">
+                        <reg>
+                          <accid accid="s" func="caution" />
+                        </reg>
+                      </supplied>
+                    </note>
                     <note xml:id="note-0000001615168618" dur="16" oct="4" pname="f" accid.ges="s" />
                     <note xml:id="note-0000001405731785" dur="16" oct="4" pname="e" />
                     <note xml:id="note-0000000624339754" dur="16" oct="4" pname="d" />

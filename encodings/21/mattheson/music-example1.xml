@@ -69,10 +69,14 @@
                                 <layer n="1">
                                     <beam>
                                         <note xml:id="note-0000001917578385" dur="8" oct="5" pname="a">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000000710752645" dur="8" oct="4" pname="a">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <rest xml:id="rest-0000001465444882" dur="8" />
@@ -105,10 +109,14 @@
                                 <layer n="1">
                                     <beam>
                                         <note xml:id="note-0000002001939040" dur="8" oct="5" pname="a">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001078975426" dur="8" oct="4" pname="a">
-                                            <accid accid="s" />
+                                            <orig>
+                                                <accid accid="s" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <rest xml:id="rest-0000000919156099" dur="8" />

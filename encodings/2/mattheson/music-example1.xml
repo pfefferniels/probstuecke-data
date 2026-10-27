@@ -65,7 +65,13 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="ex-284" dur="32" oct="4" pname="g" />
-                                        <note xml:id="ex-286" dur="32" oct="5" pname="e" />
+                                        <note xml:id="ex-286" dur="32" oct="5" pname="e">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note xml:id="ex-287" dur="32" oct="4" pname="g" />
                                         <note xml:id="ex-288" dur="32" oct="5" pname="e" />
                                         <note xml:id="ex-289" dur="32" oct="4" pname="g" />
@@ -84,7 +90,13 @@
                                         <note xml:id="ex-301" dur="32" oct="5" pname="d" />
                                     </beam>
                                     <beam>
-                                        <note xml:id="ex-302" dur="32" oct="4" pname="e" />
+                                        <note xml:id="ex-302" dur="32" oct="4" pname="e">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note xml:id="ex-304" dur="32" oct="5" pname="c" />
                                         <note xml:id="ex-305" dur="32" oct="4" pname="e" />
                                         <note xml:id="ex-306" dur="32" oct="5" pname="c" />
@@ -106,7 +118,13 @@
                                     <beam>
                                         <note xml:id="ex-319" dur="16" oct="4" pname="c" />
                                         <note xml:id="ex-321" dur="16" oct="3" pname="c" />
-                                        <note xml:id="ex-322" dur="16" oct="3" pname="e" />
+                                        <note xml:id="ex-322" dur="16" oct="3" pname="e">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note xml:id="ex-323" dur="16" oct="3" pname="c" />
                                     </beam>
                                     <beam>

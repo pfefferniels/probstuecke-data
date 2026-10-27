@@ -78,7 +78,13 @@
                                                 <note xml:id="ex-1007a" dur="16" oct="5" pname="g" />
                                             </lem>
                                             <rdg source="#firstEdition">
-                                                <note xml:id="ex-1007a-err" dur="16" oct="5" pname="b" />
+                                                <note xml:id="ex-1007a-err" dur="16" oct="5" pname="b">
+                                                    <supplied resp="#pfeffer">
+                                                        <reg>
+                                                            <accid accid="n" />
+                                                        </reg>
+                                                    </supplied>
+                                                </note>
                                             </rdg>
                                         </app>
                                     </beam>
@@ -144,7 +150,13 @@
                                     <beam xml:id="ex-1053">
                                         <note xml:id="ex-1052" dur="16" oct="3" pname="d" />
                                         <note xml:id="ex-1054" dur="16" oct="4" pname="d" />
-                                        <note xml:id="ex-1055" dur="32" oct="3" pname="b" accid.ges="n" />
+                                        <note xml:id="ex-1055" dur="32" oct="3" pname="b" accid.ges="n">
+                                            <supplied resp="#pfeffer">
+                                                <reg>
+                                                    <accid accid="n" />
+                                                </reg>
+                                            </supplied>
+                                        </note>
                                         <note xml:id="ex-1057" dur="32" oct="4" pname="c">
                                             <supplied resp="#pfeffer">
                                                 <accid xml:id="ex-1058" accid="n" func="caution" />

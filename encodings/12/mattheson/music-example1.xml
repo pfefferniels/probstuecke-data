@@ -101,7 +101,9 @@
                                         <note xml:id="note-0000001556428466" dur="16" oct="4" pname="e" accid.ges="f" />
                                         <note xml:id="note-0000000566117093" dur="16" oct="4" pname="c" />
                                         <note xml:id="note-0000002134182339" dur="16" oct="3" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000001515471197" dur="16" oct="3" pname="g" />
                                         <note xml:id="note-0000000869110749" dur="16" oct="3" pname="e" accid.ges="f" />
@@ -137,7 +139,9 @@
                                         <note xml:id="note-0000000686266437" dur="16" oct="4" pname="e" accid.ges="f" />
                                         <note xml:id="note-0000001501099337" dur="16" oct="4" pname="c" />
                                         <note xml:id="note-0000000425736248" dur="16" oct="3" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                         <note xml:id="note-0000002074251922" dur="16" oct="3" pname="g" />
                                         <note xml:id="note-0000000206826465" dur="16" oct="3" pname="e" accid.ges="f" />
@@ -290,7 +294,9 @@
                                         </verse>
                                     </note>
                                     <note xml:id="note-0000000356531527" dur="8" oct="4" pname="a">
-                                        <accid accid="f" />
+                                        <orig>
+                                            <accid accid="f" />
+                                        </orig>
                                         <verse xml:id="verse-0000000831526538" n="1">
                                             <syl xml:id="syl-0000000131810328" con="d" wordpos="i">guar</syl>
                                         </verse>
@@ -309,7 +315,9 @@
                                         <note xml:id="note-0000001605372567" dur="8" oct="2" pname="b" accid.ges="f" />
                                         <note xml:id="note-0000000186676218" dur="8" oct="3" pname="c" />
                                         <note xml:id="note-0000001853142348" dur="8" oct="2" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                     </beam>
                                 </layer>
@@ -369,7 +377,9 @@
                                     </beam>
                                     <beam>
                                         <note xml:id="note-0000001193426154" dur="16" oct="4" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                             <verse xml:id="verse-0000000705525399" n="1">
                                                 <syl xml:id="syl-0000000424637030" con="d" wordpos="i">guar</syl>
                                             </verse>
@@ -428,7 +438,9 @@
                                             </verse>
                                         </note>
                                         <note xml:id="note-0000000827767468" dur="16" oct="4" pname="a">
-                                            <accid accid="f" />
+                                            <orig>
+                                                <accid accid="f" />
+                                            </orig>
                                         </note>
                                     </beam>
                                     <note xml:id="note-0000001704526613" dur="4" oct="4" pname="b" accid.ges="f">

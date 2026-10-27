@@ -62,7 +62,9 @@
                                     <note dur="4" oct="5" pname="g" stem.dir="up" />
                                     <note dur="8" oct="5" pname="g" stem.dir="up" />
                                     <note dur="8" oct="5" pname="f" stem.dir="up">
-                                        <accid accid="s" accid.ges="s" />
+                                        <orig>
+                                            <accid accid="s" accid.ges="s" />
+                                        </orig>
                                     </note>
                                 </layer>
                                 <layer n="2">
@@ -77,7 +79,9 @@
                                         <chord dur="8" stem.dir="down">
                                             <note oct="5" pname="d" />
                                             <note oct="5" pname="f">
-                                                <accid accid="s" accid.ges="s" />
+                                                <orig>
+                                                    <accid accid="s" accid.ges="s" />
+                                                </orig>
                                             </note>
                                         </chord>
                                         <chord dur="8" stem.dir="down">

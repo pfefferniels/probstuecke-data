@@ -973,7 +973,9 @@
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000002119637720" dur="16" oct="3" pname="a">
-                      <accid accid="f" />
+                      <orig>
+                        <accid accid="f" />
+                      </orig>
                     </note>
                     <note xml:id="note-0000000196488871" dur="16" oct="4" pname="e" accid.ges="f" />
                     <note xml:id="note-0000000118674681" dur="16" oct="4" pname="e" accid.ges="f" />

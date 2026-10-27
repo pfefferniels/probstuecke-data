@@ -86,7 +86,9 @@
                                             <note oct="5" pname="c" />
                                             <note oct="5" pname="d" />
                                             <note oct="5" pname="f">
-                                                <accid accid="s" accid.ges="s" />
+                                                <orig>
+                                                    <accid accid="s" accid.ges="s" />
+                                                </orig>
                                             </note>
                                             <note oct="5" pname="a" />
                                         </chord>
@@ -148,7 +150,9 @@
                                         <note dur="16" oct="3" pname="e" stem.dir="down" />
                                         <note dur="16" oct="3" pname="e" stem.dir="down" />
                                         <note dur="16" oct="3" pname="f" stem.dir="down">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note dur="32" oct="3" pname="g" stem.dir="down" />
                                         <note dur="32" oct="3" pname="b" stem.dir="down" />
@@ -202,7 +206,9 @@
                                         <note dur="16" oct="4" pname="a" stem.dir="up" />
                                         <note dur="32" oct="4" pname="g" stem.dir="up" />
                                         <note dur="32" oct="4" pname="f" stem.dir="up">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note dur="32" oct="4" pname="g" stem.dir="up" />
                                         <note dur="32" oct="4" pname="e" stem.dir="up" />
@@ -244,7 +250,9 @@
                                     <rest dur="16" />
                                     <beam>
                                         <note dur="16" oct="3" pname="f" stem.dir="up">
-                                            <accid accid="s" accid.ges="s" />
+                                            <orig>
+                                                <accid accid="s" accid.ges="s" />
+                                            </orig>
                                         </note>
                                         <note dur="16" oct="3" pname="f" stem.dir="up" accid.ges="s" />
                                         <note dur="16" oct="3" pname="e" stem.dir="up" />
