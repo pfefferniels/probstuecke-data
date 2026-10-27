@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps20-004" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="part">Description of Realization</title>
+        <title type="part">Realisation of Probstück 20 by Larry Molinaro</title>
         <editor>
           <persName xml:id="rettinghaus">
             <surname>Rettinghaus</surname>
@@ -34,12 +34,21 @@
   </teiHeader>
   <text>
     <body>
-      <p>
-        This realization of the first half was recorded by <persName>Larry Molinaro</persName>.
+      <div type="score">
+        <figure type="notatedMusic">
+          <notatedMusic xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
 
-        <media mimeType="audio/ogg" url="recording.ogg" />
-      </p>
+      <div type="chapter">
+        <p>
+          This realization of the first half was recorded by <persName>Larry Molinaro</persName>.
 
+          <media mimeType="audio/ogg" url="recording.ogg" />
+        </p>
+      </div>
     </body>
   </text>
 </TEI>
