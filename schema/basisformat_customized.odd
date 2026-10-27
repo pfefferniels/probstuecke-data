@@ -120,6 +120,18 @@
             </div>
 
             <div>
+                <head>Sentences</head>
+
+                <p>
+                    The text of the 1731 print may be divided into sentences (<gi>s</gi>, each with an
+                    <att>xml:id</att> of the form <code>p1-1-s1</code>: the paragraph's ID and the number of the
+                    sentence in it), so that the English translation can point to the sentence it renders. A sentence
+                    ends with a full stop, a question mark or an exclamation mark; colons and semicolons do not end it.
+                    Line and page breaks, catchwords and notes stay inside the sentence they fall in.
+                </p>
+            </div>
+
+            <div>
                 <head>Index of Terms</head>
 
                 <p>
@@ -147,6 +159,8 @@
                 <moduleRef key="figures" include="cell figure formula notatedMusic row table"/>
                 <!-- customization: added g for music symbols (SMuFL code points) in the running text -->
                 <moduleRef key="gaiji" include="g"/>
+                <!-- customization: added s for the sentences that the translation points to -->
+                <moduleRef key="analysis" include="s"/>
                 <moduleRef key="linking" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
                 <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository typeDesc"/>
                 <moduleRef key="namesdates" include="addName country forename genName nameLink orgName persName placeName roleName surname"/>
@@ -166,6 +180,8 @@
                 <!-- customization: keep the att.coordinated class -->
 
                 <classSpec ident="att.damaged" module="tei" mode="delete" type="atts"/>
+                <!-- customization: the analysis module is only included for s, not for @ana -->
+                <classSpec ident="att.global.analytic" module="analysis" mode="delete" type="atts"/>
                 <classSpec ident="att.datable" module="tei" mode="change" type="atts">
                     <!-- includes att.datable.w3c -->
                     <attList>

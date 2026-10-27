@@ -21,7 +21,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
 | `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
-| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_accidentals.py` checks the written accidentals against the edition's convention, `label_example_bars.py` labels the bars of the music examples with the bar numbers of the piece they quote, `tag_terms.py` tags the passages listed in the index of terms, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record, and `image_urls.py`, which turns a `<graphic>` that names a IIIF canvas into the image URL the encodings use (with the canvas in `surface/@corresp`) |
+| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_accidentals.py` checks the written accidentals against the edition's convention, `label_example_bars.py` labels the bars of the music examples with the bar numbers of the piece they quote, `tag_terms.py` tags the passages listed in the index of terms, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `check_alignment.py` checks the alignment of the translations with the original, sentence by sentence; `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record, and `image_urls.py`, which turns a `<graphic>` that names a IIIF canvas into the image URL the encodings use (with the canvas in `surface/@corresp`) |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 
@@ -36,6 +36,20 @@ JING_JAR=/path/to/jing.jar scripts/validate.sh
 The script exits with a non-zero status if a file is invalid or has no schema. [`schema/README.md`](schema/README.md) explains which schema applies to which files and how to regenerate the schemas after changing an ODD.
 
 `python3 scripts/check_references.py` checks the internal pointers and `python3 scripts/check_accidentals.py` the written accidentals of all MEI files (printed ones that modern notation does not need in `<orig>`, missing ones in `<supplied>`, cautionary ones with `@func="caution"`, modern key signatures as `<choice>`); the conventions are described in the scripts' docstrings. Both run in the GitHub Actions workflow, too.
+
+## Alignment of the translation
+
+The English translation can be compared with the 1731 text sentence by sentence. Both are divided into sentences (`<s>`): those of the original carry an ID made of the paragraph's ID and their number in it, those of the translation point with `@corresp` to the sentence they render. A German sentence that the translation splits into two is pointed to twice; an English sentence that renders two German ones points to both:
+
+```xml
+<!-- comments_de.xml -->
+<s xml:id="p1-1-s2">Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn; mir iſt es ſehr laͤcherlich vorgekommen.</s>
+<!-- comments_en.xml -->
+<s corresp="comments_de.xml#p1-1-s2">Whether or not the simile is lopsided, we will leave to rest.</s>
+<s corresp="comments_de.xml#p1-1-s2">To me it appeared very ridiculous.</s>
+```
+
+A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon; line and page breaks and notes stay inside the sentence they fall in. The website shows aligned translations side by side with the original. `python3 scripts/check_alignment.py` checks that every pointer names a sentence, that every sentence of the original is translated and that the order is kept. So far Probstück 1 is aligned.
 
 ## Index of terms
 

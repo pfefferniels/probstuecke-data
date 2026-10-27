@@ -44,6 +44,12 @@
           entries are linked with <att>corresp</att>; <gi>ref</gi> points into the MEI encoding
           with <att>target</att>.
         </p>
+        <p>
+          A translation may be divided into sentences (<gi>s</gi>) whose <att>corresp</att> points to
+          the sentence or sentences of the original they render, e.g.
+          <code>&lt;s corresp="comments_de.xml#p1-1-s2"&gt;</code>. The website then shows the
+          translation and the original side by side, sentence by sentence.
+        </p>
       </div>
       <div>
         <head>Formal specification</head>
@@ -58,7 +64,8 @@
           <moduleRef key="linking" include="link standOff"/>
           <!-- comments_merged.xml -->
           <moduleRef key="textcrit" include="app lem rdg"/>
-          <moduleRef key="analysis" include="pc"/>
+          <!-- s: sentences of the translations, aligned with the original -->
+          <moduleRef key="analysis" include="pc s"/>
           <!-- facsimile of the 1731 print in 5/mattheson/comments_en.xml, catchwords -->
           <moduleRef key="transcr" include="facsimile fw surface zone"/>
           <!-- sourceDesc of the realisation by J.-C. Dijoux -->

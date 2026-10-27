@@ -111,7 +111,7 @@
         <div n="1">
           <lb/><head>§. 1.</head><lb/>
           <p xml:id="p1-1" facs="#facsZone-p1-1">
-            <lb/><hi rendition="#in">J</hi>Ener Geiſtliche wollte die truͤbſeligen Zeiten des menſchlichen Lebens gerne
+            <lb/><s xml:id="p1-1-s1"><hi rendition="#in">J</hi>Ener Geiſtliche wollte die truͤbſeligen Zeiten des menſchlichen Lebens gerne
             <lb/>mit etwas vergleichen, und ſagte: Sie waͤren wie ein muſicaliſches Buch,
             <lb/>darin gemeinglich mehr ſchwartze, als weiſſe Noten gefunden wuͤr-
             <lb/>den; ſeine Meynung war, man treffe
@@ -127,24 +127,24 @@
               <bibl>
                 <hi rendition="#i">Wohl-Bebauter Rosen-Thal</hi>, Nürnberg 1679
               </bibl>, findet.
-            </note>
-            Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn;
-            <lb/>mir iſt es ſehr laͤcherlich vorgekommen. Denn erſtlich bedeuten die ſchwartzen No-
+            </note></s>
+            <s xml:id="p1-1-s2">Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn;
+            <lb/>mir iſt es ſehr laͤcherlich vorgekommen.</s> <s xml:id="p1-1-s3">Denn erſtlich bedeuten die ſchwartzen No-
             <lb/>ten eine geſchwinde Spiel-Art, und zeigen vielmehr etwas freudiges, als betruͤb-
-            <lb/>tes, an. Sollte aber fuͤrs andere, die ſchwartze Farbe hier bloß das Bild des Elen-
+            <lb/>tes, an.</s> <s xml:id="p1-1-s4">Sollte aber fuͤrs andere, die ſchwartze Farbe hier bloß das Bild des Elen-
             <lb/>des bezeichnen, ſo moͤgte man lieber eine Kirche, oder andere geiſtliche Ehren-Ver-
             <lb/>ſammlungen, als ein <term xml:id="t_notenbuch-1" corresp="#t_notenbuch">Noten-Buch</term> dazu erwehlen; ſintemahl allda jederzeit mehr
-            <lb/>ſchwartze, als weiſſe Kleider anzutreffen ſind. Jch fuͤhre dieſes deswegen an, damit
+            <lb/>ſchwartze, als weiſſe Kleider anzutreffen ſind.</s> <s xml:id="p1-1-s5">Jch fuͤhre dieſes deswegen an, damit
             <lb/>keiner, bey den etwas ſchwartzen Noten dieſer Claſſe, dencken ſoll, er werde in die
             <lb/>Angst- oder Kreutz-Schule gefuͤhret; gantz und gar nicht, es darff niemand grauen:
             <lb/>denn unſre Noten ſind lauter Merckmahle eines muntern Gemuͤthes, eines hurti-
-            gen Geiſtes, und eines froͤhlichen Hertzens. Friſch daran, iſt hier das beſte Mittel.
+            gen Geiſtes, und eines froͤhlichen Hertzens.</s> <s xml:id="p1-1-s6">Friſch daran, iſt hier das beſte Mittel.</s>
           </p>
         </div>
         <div n="2">
           <lb/><head>§. 2.</head>
           <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
-            <lb/>Die
+            <lb/><s xml:id="p2-1-s1">Die
             <ref target="#m-536 #m-538 #m-539 #m-541 #m-542 #m-545 #m-547 #m-548 #m-592 #m-594 #m-596 #m-597 #m-599 #m-601 #m-638 #m-641 #m-643 #m-645 #m-647 #m-648">
             Achtel, oder ſchlechte Noten, im ſechszehnten, ſiebenzehnten und achtzehn-
             <lb/>ten Tact</ref>, geben ſchon von ſelbſten zu verſtehen, daß allda mit der rechten Hand
@@ -154,11 +154,11 @@
             <lb/>ſeyn ſoll, das muß aus den vorhergehenden Saͤtzen abgenommen werden: ſinte-
             <lb/>mahl dieſe Arbeit ſo eingerichtet iſt, daß alles in derselben Aufgabe entweder ſchon vor-
             <lb/>geweſen, oder doch bald erſcheinet, was etwan auſſerordentliches gemacht werden
-            <lb/>ſoll. So werden auch die Sachen, jedes Stuͤck fuͤr ſich, ſo natuͤrlich zusammen hangen,
+            <lb/>ſoll.</s> <s xml:id="p2-1-s2">So werden auch die Sachen, jedes Stuͤck fuͤr ſich, ſo natuͤrlich zusammen hangen,
             <lb/>auch vom Haupt-Satz ſo wenig abweichen, daß es gar leicht faͤllt, die rechte Mey-
-            <lb/>nung zu treffen. Damit ich gleichwol nicht abermahl beſchuldiget werde, als haͤtte
+            <lb/>nung zu treffen.</s> <s xml:id="p2-1-s3">Damit ich gleichwol nicht abermahl beſchuldiget werde, als haͤtte
             <lb/>ich Raͤtsel aufgeben wollen, ſo mag dieſes wenige zu weiterem Nachdencken eine Anlei-
-            <lb/>tung geben:
+            <lb/>tung geben:</s>
           </p>
           <figure type="notatedMusic">
             <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
@@ -166,10 +166,10 @@
             </notatedMusic>
           </figure>
           <p xml:id="p2-2" facs="#facsZone-p2-2">
-            <lb/>Daß die lincke Hand, bey dieſer <term xml:id="t_manieren-1" corresp="#t_manieren">Ausſchmuͤckung</term>, die <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffern</term> und Accorde mitgreif-
+            <lb/><s xml:id="p2-2-s1">Daß die lincke Hand, bey dieſer <term xml:id="t_manieren-1" corresp="#t_manieren">Ausſchmuͤckung</term>, die <term xml:id="t_ziffern-1" corresp="#t_ziffern">Zieffern</term> und Accorde mitgreif-
             <lb/>fen muͤsse, iſt hoffentlich ſchon genug geſaget worden, und haͤtte ich es mannig-
             <lb/>mahl gern im Baß just ſo hingeſetzt, als es ſeyn muß, wenn die Noten ſo wol in
-            <lb/>einander koͤnnten gedruckt, als geſchrieben, oder auf Kupffer geſtochen werden.
+            <lb/>einander koͤnnten gedruckt, als geſchrieben, oder auf Kupffer geſtochen werden.</s>
           </p>
         </div>
 
@@ -177,19 +177,19 @@
           <pb n="307" facs="#facs-p369"/>
           <lb/><head>§. 3.</head><lb/>
           <p xml:id="p3-1" facs="#facsZone-p3-1">
-            <lb/>Jm <ref target="#m-785">drey und zwantzigſten Tact</ref> koͤmmt wieder eben dergleichen Gelegenheit
-            <lb/>vor, daß man alſo nur das vorhergehende deswegen um Rath zu fragen hat. Jm
+            <lb/><s xml:id="p3-1-s1">Jm <ref target="#m-785">drey und zwantzigſten Tact</ref> koͤmmt wieder eben dergleichen Gelegenheit
+            <lb/>vor, daß man alſo nur das vorhergehende deswegen um Rath zu fragen hat.</s> <s xml:id="p3-1-s2">Jm
             <ref target="#m-832">vier und zwantzigſten Tact</ref> koͤnnen
             <ref target="#m-804">Tertzen</ref> angebracht werden; jedoch bey vollen
-            <lb/>Griffen.
-            Jm <ref target="#m-873">fuͤnff und zwantzigſten Tact geht es wieder auf den vorigen Schlag.</ref>
-            <lb/>Der <ref target="#m-1009 #m-1049 #m-1073">neun und zwantzigſte, dreyßigſte und ein und dreyßigſte Tact</ref>
+            <lb/>Griffen.</s>
+            <s xml:id="p3-1-s3">Jm <ref target="#m-873">fuͤnff und zwantzigſten Tact geht es wieder auf den vorigen Schlag.</ref></s>
+            <lb/><s xml:id="p3-1-s4">Der <ref target="#m-1009 #m-1049 #m-1073">neun und zwantzigſte, dreyßigſte und ein und dreyßigſte Tact</ref>
             laſſen eine Um-
             <lb/>wechslung zu, da die rechte Hand der lincken <term xml:id="t_imitation-1" corresp="#t_imitation">nachahmet</term>, und, nach Maßgabung
             <lb/>des Haupt-Satzes,
             <ref target="#m-1019 #m-1051 #m-1060 #m-1075 #m-1083">zu den Vierteln</ref>
-            moduliret. Wem es dunckel ſcheinet, der ſe-
-            <lb/>he dieſe Zeile an:
+            moduliret.</s> <s xml:id="p3-1-s5">Wem es dunckel ſcheinet, der ſe-
+            <lb/>he dieſe Zeile an:</s>
           </p>
           <figure type="notatedMusic">
             <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
@@ -206,11 +206,11 @@
         <div n="4">
           <lb/><head>§. 4.</head><lb/>
           <p xml:id="p4-1" facs="#facsZone-p4-1">
-            <lb/>Jm <ref target="#m-1162">drey und dreißigſten Tact</ref> moͤgte es nicht uͤbel klingen, wenn mit den
+            <lb/><s xml:id="p4-1-s1">Jm <ref target="#m-1162">drey und dreißigſten Tact</ref> moͤgte es nicht uͤbel klingen, wenn mit den
             <lb/>Accorden, auch
             <ref target="#fb-1 #fb-2 #fb-3 #fb-4">Sexten und Quinten</ref>,
             etwas mehr, als gewoͤhnlich, geſpielet
-            <lb/>und <term xml:id="t_synkope-1" corresp="#t_synkope">ſyncopiret</term> werde, etwa auf folgende <term xml:id="t_manieren-2" corresp="#t_manieren">Manier</term>:
+            <lb/>und <term xml:id="t_synkope-1" corresp="#t_synkope">ſyncopiret</term> werde, etwa auf folgende <term xml:id="t_manieren-2" corresp="#t_manieren">Manier</term>:</s>
           </p>
           <figure type="notatedMusic">
             <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
@@ -218,8 +218,8 @@
             </notatedMusic>
           </figure>
           <p xml:id="p4-2" facs="#facsZone-p4-2">
-            <lb/>Ferner wuͤſte ich, bey dieſer Vorſchrifft, nichts mehr weder zu erinnern, noch zu erleich-
-            <lb/>tern.
+            <lb/><s xml:id="p4-2-s1">Ferner wuͤſte ich, bey dieſer Vorſchrifft, nichts mehr weder zu erinnern, noch zu erleich-
+            <lb/>tern.</s>
             <fw place="bottom" type="catch">Zwey</fw>
           </p>
         </div>

@@ -44,3 +44,6 @@ jobs:
 
       - name: Check the facsimile links
         run: python scripts/check_facsimile.py
+
+      - name: Check the alignment of the translations
+        run: python scripts/check_alignment.py
