@@ -76,17 +76,17 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2441" xml:id="facs-p446">
-          <graphic width="1998px" height="2441px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/446"/>
-          <zone ulx="135" uly="173" lry="757" lrx="1950" xml:id="facsZone-p1-1"/>
-          <zone ulx="129" uly="695" lry="1408" lrx="1947" xml:id="facsZone-p2-1"/>
-          <zone ulx="123" uly="1328" lry="2287" lrx="1953" xml:id="facsZone-p3-1"/>
+      <surface ulx="0" uly="0" lrx="2038" lry="2520" xml:id="facs-p446">
+          <graphic width="2038px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/446"/>
+          <zone ulx="125" uly="195" lry="797" lrx="1995" xml:id="facsZone-p1-1"/>
+          <zone ulx="119" uly="733" lry="1467" lrx="1992" xml:id="facsZone-p2-1"/>
+          <zone ulx="113" uly="1385" lry="2373" lrx="1998" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2423" xml:id="facs-p447">
-          <graphic width="1998px" height="2423px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/447"/>
-          <zone ulx="66" uly="185" lry="736" lrx="1887" xml:id="facsZone-p3-1-2"/>
-          <zone ulx="57" uly="728" lry="1531" lrx="1887" xml:id="facsZone-p4-1"/>
-          <zone ulx="62" uly="1496" lry="2023" lrx="1883" xml:id="facsZone-p5-1"/>
+      <surface ulx="0" uly="0" lrx="2002" lry="2524" xml:id="facs-p447">
+          <graphic width="2002px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/447"/>
+          <zone ulx="40" uly="154" lry="721" lrx="1915" xml:id="facsZone-p3-1-2"/>
+          <zone ulx="31" uly="713" lry="1540" lrx="1915" xml:id="facsZone-p4-1"/>
+          <zone ulx="36" uly="1504" lry="2047" lrx="1911" xml:id="facsZone-p5-1"/>
       </surface>
       <surface ulx="0" uly="0" lry="2485" lrx="1998" xml:id="facs-p448">
         <graphic width="1998px" height="2485px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/448" />

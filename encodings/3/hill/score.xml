@@ -61,63 +61,63 @@
     </meiHead>
     <music>
         <facsimile decls="#secondEdition">
-            <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p378">
-                <graphic width="1998" height="2396" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/378" />
-                <zone ulx="103" uly="302" lrx="962" lry="568" xml:id="facsZone-m-62" />
-                <zone ulx="919" uly="254" lrx="1937" lry="548" xml:id="facsZone-m-102" />
-                <zone ulx="107" uly="552" lrx="790" lry="822" xml:id="facsZone-m-144" />
-                <zone ulx="735" uly="536" lrx="1326" lry="830" xml:id="facsZone-m-176" />
-                <zone ulx="1306" uly="560" lrx="1945" lry="802" xml:id="facsZone-m-223" />
-                <zone ulx="91" uly="830" lrx="946" lry="1092" xml:id="facsZone-m-263" />
-                <zone ulx="891" uly="802" lrx="1929" lry="1112" xml:id="facsZone-m-293" />
-                <zone ulx="103" uly="1076" lrx="882" lry="1378" xml:id="facsZone-m-341" />
-                <zone ulx="839" uly="1081" lrx="1278" lry="1407" xml:id="facsZone-m-390" />
-                <zone ulx="1258" uly="1101" lrx="1957" lry="1403" xml:id="facsZone-m-420" />
-                <zone ulx="99" uly="1383" lrx="726" lry="1681" xml:id="facsZone-m-447" />
-                <zone ulx="687" uly="1379" lrx="1194" lry="1681" xml:id="facsZone-m-470" />
-                <zone ulx="1162" uly="1387" lrx="1949" lry="1673" xml:id="facsZone-m-494" />
-                <zone ulx="99" uly="1633" lrx="790" lry="1927" xml:id="facsZone-m-523" />
-                <zone ulx="751" uly="1649" lrx="1274" lry="1919" xml:id="facsZone-m-556" />
-                <zone ulx="1242" uly="1661" lrx="1945" lry="1947" xml:id="facsZone-m-586" />
-                <zone ulx="103" uly="1911" lrx="362" lry="2213" xml:id="facsZone-m-633" />
-                <zone ulx="323" uly="1952" lrx="502" lry="2206" xml:id="facsZone-m-676" />
-                <zone ulx="487" uly="1936" lrx="638" lry="2230" xml:id="facsZone-m-726" />
-                <zone ulx="607" uly="1940" lrx="762" lry="2238" xml:id="facsZone-m-778" />
-                <zone ulx="731" uly="1907" lrx="898" lry="2241" xml:id="facsZone-m-828" />
-                <zone ulx="855" uly="1928" lrx="1362" lry="2218" xml:id="facsZone-m-842" />
-                <zone ulx="1330" uly="1940" lrx="1965" lry="2226" xml:id="facsZone-m-866" />
+            <surface ulx="0" uly="0" lrx="2005" lry="2533" xml:id="facs-p378">
+                <graphic width="2005" height="2533" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/378" />
+                <zone ulx="82" uly="354" lrx="973" lry="630" xml:id="facsZone-m-62" />
+                <zone ulx="929" uly="304" lrx="1985" lry="609" xml:id="facsZone-m-102" />
+                <zone ulx="86" uly="613" lrx="795" lry="894" xml:id="facsZone-m-144" />
+                <zone ulx="738" uly="597" lrx="1351" lry="902" xml:id="facsZone-m-176" />
+                <zone ulx="1330" uly="622" lrx="1994" lry="873" xml:id="facsZone-m-223" />
+                <zone ulx="69" uly="902" lrx="957" lry="1174" xml:id="facsZone-m-263" />
+                <zone ulx="900" uly="873" lrx="1977" lry="1195" xml:id="facsZone-m-293" />
+                <zone ulx="82" uly="1157" lrx="890" lry="1471" xml:id="facsZone-m-341" />
+                <zone ulx="846" uly="1162" lrx="1301" lry="1501" xml:id="facsZone-m-390" />
+                <zone ulx="1281" uly="1183" lrx="2005" lry="1497" xml:id="facsZone-m-420" />
+                <zone ulx="78" uly="1476" lrx="728" lry="1785" xml:id="facsZone-m-447" />
+                <zone ulx="688" uly="1472" lrx="1214" lry="1785" xml:id="facsZone-m-470" />
+                <zone ulx="1181" uly="1480" lrx="1998" lry="1777" xml:id="facsZone-m-494" />
+                <zone ulx="78" uly="1735" lrx="795" lry="2040" xml:id="facsZone-m-523" />
+                <zone ulx="754" uly="1752" lrx="1297" lry="2032" xml:id="facsZone-m-556" />
+                <zone ulx="1264" uly="1764" lrx="1994" lry="2061" xml:id="facsZone-m-586" />
+                <zone ulx="82" uly="2024" lrx="351" lry="2337" xml:id="facsZone-m-633" />
+                <zone ulx="310" uly="2066" lrx="496" lry="2330" xml:id="facsZone-m-676" />
+                <zone ulx="480" uly="2050" lrx="637" lry="2355" xml:id="facsZone-m-726" />
+                <zone ulx="605" uly="2054" lrx="766" lry="2363" xml:id="facsZone-m-778" />
+                <zone ulx="734" uly="2020" lrx="907" lry="2366" xml:id="facsZone-m-828" />
+                <zone ulx="862" uly="2041" lrx="1388" lry="2342" xml:id="facsZone-m-842" />
+                <zone ulx="1355" uly="2054" lrx="2005" lry="2351" xml:id="facsZone-m-866" />
             </surface>
-            <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p379">
-                <graphic width="1998" height="2396" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/379" />
-                <zone ulx="57" uly="140" lrx="780" lry="421" xml:id="facsZone-m-891" />
-                <zone ulx="747" uly="188" lrx="1344" lry="439" xml:id="facsZone-m-915" />
-                <zone ulx="1308" uly="185" lrx="1548" lry="442" xml:id="facsZone-m-956" />
-                <zone ulx="1521" uly="209" lrx="1872" lry="445" xml:id="facsZone-m-999" />
-                <zone ulx="57" uly="422" lrx="705" lry="658" xml:id="facsZone-m-1032" />
-                <zone ulx="669" uly="431" lrx="1251" lry="673" xml:id="facsZone-m-1071" />
-                <zone ulx="1221" uly="425" lrx="1878" lry="679" xml:id="facsZone-m-1115" />
-                <zone ulx="51" uly="647" lrx="771" lry="916" xml:id="facsZone-m-1150" />
-                <zone ulx="738" uly="656" lrx="1860" lry="922" xml:id="facsZone-m-1185" />
-                <zone ulx="51" uly="869" lrx="792" lry="1174" xml:id="facsZone-m-1225" />
-                <zone ulx="741" uly="905" lrx="1305" lry="1174" xml:id="facsZone-m-1260" />
-                <zone ulx="1245" uly="902" lrx="1590" lry="1186" xml:id="facsZone-m-1296" />
-                <zone ulx="1563" uly="929" lrx="1869" lry="1168" xml:id="facsZone-m-1323" />
-                <zone ulx="66" uly="1154" lrx="339" lry="1393" xml:id="facsZone-m-1347" />
-                <zone ulx="297" uly="1130" lrx="483" lry="1402" xml:id="facsZone-m-1370" />
-                <zone ulx="450" uly="1106" lrx="630" lry="1402" xml:id="facsZone-m-1396" />
-                <zone ulx="597" uly="1178" lrx="1218" lry="1438" xml:id="facsZone-m-1412" />
-                <zone ulx="1176" uly="1172" lrx="1875" lry="1426" xml:id="facsZone-m-1437" />
-                <zone ulx="54" uly="1409" lrx="756" lry="1660" xml:id="facsZone-m-1462" />
-                <zone ulx="705" uly="1403" lrx="1401" lry="1663" xml:id="facsZone-m-1490" />
-                <zone ulx="1365" uly="1424" lrx="1599" lry="1654" xml:id="facsZone-m-1531" />
-                <zone ulx="1566" uly="1403" lrx="1878" lry="1675" xml:id="facsZone-m-1565" />
-                <zone ulx="48" uly="1631" lrx="357" lry="1897" xml:id="facsZone-m-1595" />
-                <zone ulx="318" uly="1667" lrx="918" lry="1930" xml:id="facsZone-m-1619" />
-                <zone ulx="888" uly="1661" lrx="1578" lry="1960" xml:id="facsZone-m-1663" />
-                <zone ulx="1539" uly="1619" lrx="1878" lry="1936" xml:id="facsZone-m-1701" />
-                <zone ulx="48" uly="1916" lrx="351" lry="2197" xml:id="facsZone-m-1735" />
-                <zone ulx="294" uly="1895" lrx="858" lry="2197" xml:id="facsZone-m-1767" />
-                <zone ulx="828" uly="1910" lrx="1893" lry="2260" xml:id="facsZone-m-1816" />
+            <surface ulx="0" uly="0" lrx="1962" lry="2523" xml:id="facs-p379">
+                <graphic width="1962" height="2523" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/379" />
+                <zone ulx="7" uly="155" lrx="756" lry="446" xml:id="facsZone-m-891" />
+                <zone ulx="722" uly="205" lrx="1341" lry="465" xml:id="facsZone-m-915" />
+                <zone ulx="1304" uly="202" lrx="1553" lry="468" xml:id="facsZone-m-956" />
+                <zone ulx="1525" uly="226" lrx="1888" lry="471" xml:id="facsZone-m-999" />
+                <zone ulx="7" uly="447" lrx="679" lry="692" xml:id="facsZone-m-1032" />
+                <zone ulx="641" uly="457" lrx="1245" lry="707" xml:id="facsZone-m-1071" />
+                <zone ulx="1214" uly="450" lrx="1895" lry="714" xml:id="facsZone-m-1115" />
+                <zone ulx="1" uly="680" lrx="747" lry="959" xml:id="facsZone-m-1150" />
+                <zone ulx="713" uly="690" lrx="1876" lry="965" xml:id="facsZone-m-1185" />
+                <zone ulx="1" uly="911" lrx="769" lry="1227" xml:id="facsZone-m-1225" />
+                <zone ulx="716" uly="948" lrx="1301" lry="1227" xml:id="facsZone-m-1260" />
+                <zone ulx="1238" uly="945" lrx="1596" lry="1239" xml:id="facsZone-m-1296" />
+                <zone ulx="1568" uly="973" lrx="1885" lry="1220" xml:id="facsZone-m-1323" />
+                <zone ulx="16" uly="1206" lrx="299" lry="1454" xml:id="facsZone-m-1347" />
+                <zone ulx="256" uly="1181" lrx="449" lry="1463" xml:id="facsZone-m-1370" />
+                <zone ulx="414" uly="1156" lrx="601" lry="1463" xml:id="facsZone-m-1396" />
+                <zone ulx="567" uly="1231" lrx="1210" lry="1500" xml:id="facsZone-m-1412" />
+                <zone ulx="1167" uly="1225" lrx="1891" lry="1488" xml:id="facsZone-m-1437" />
+                <zone ulx="4" uly="1470" lrx="732" lry="1730" xml:id="facsZone-m-1462" />
+                <zone ulx="679" uly="1464" lrx="1400" lry="1733" xml:id="facsZone-m-1490" />
+                <zone ulx="1363" uly="1486" lrx="1605" lry="1724" xml:id="facsZone-m-1531" />
+                <zone ulx="1571" uly="1464" lrx="1895" lry="1746" xml:id="facsZone-m-1565" />
+                <zone ulx="0" uly="1700" lrx="318" lry="1976" xml:id="facsZone-m-1595" />
+                <zone ulx="278" uly="1738" lrx="900" lry="2010" xml:id="facsZone-m-1619" />
+                <zone ulx="868" uly="1731" lrx="1584" lry="2041" xml:id="facsZone-m-1663" />
+                <zone ulx="1543" uly="1688" lrx="1895" lry="2016" xml:id="facsZone-m-1701" />
+                <zone ulx="0" uly="1996" lrx="312" lry="2287" xml:id="facsZone-m-1735" />
+                <zone ulx="253" uly="1974" lrx="837" lry="2287" xml:id="facsZone-m-1767" />
+                <zone ulx="806" uly="1990" lrx="1910" lry="2352" xml:id="facsZone-m-1816" />
             </surface>
         </facsimile>
         <body>

@@ -77,18 +77,18 @@
   </teiHeader>
 
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1998" lry="2412" xml:id="facs-p390">
-      <graphic width="1998px" height="2412px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390"/>
-      <zone ulx="87" uly="323" lry="727" lrx="1941" xml:id="facsZone-p1-1"/>
-      <zone ulx="96" uly="695" lry="1711" lrx="1941" xml:id="facsZone-p2-1"/>
-      <zone ulx="102" uly="1697" lry="2059" lrx="1944" xml:id="facsZone-p3-1"/>
-      <zone ulx="102" uly="2027" lry="2227" lrx="1941" xml:id="facsZone-p4-1"/>
+    <surface ulx="0" uly="0" lrx="2044" lry="2520" xml:id="facs-p390">
+      <graphic width="2044px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/390"/>
+      <zone ulx="96" uly="347" lry="763" lrx="2006" xml:id="facsZone-p1-1"/>
+      <zone ulx="105" uly="730" lry="1776" lrx="2006" xml:id="facsZone-p2-1"/>
+      <zone ulx="111" uly="1762" lry="2135" lrx="2009" xml:id="facsZone-p3-1"/>
+      <zone ulx="111" uly="2102" lry="2308" lrx="2006" xml:id="facsZone-p4-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1998" lry="2435" xml:id="facs-p391">
-      <graphic width="1998px" height="2435px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
-      <zone ulx="51" uly="167" lry="448" lrx="1902" xml:id="facsZone-p4-1-2"/>
-      <zone ulx="48" uly="413" lry="1342" lrx="1884" xml:id="facsZone-p5-1"/>
-      <zone ulx="51" uly="1313" lry="2080" lrx="1887" xml:id="facsZone-p6-1"/>
+    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p391">
+      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/391"/>
+      <zone ulx="21" uly="168" lry="458" lrx="1927" xml:id="facsZone-p4-1-2"/>
+      <zone ulx="18" uly="422" lry="1379" lrx="1909" xml:id="facsZone-p5-1"/>
+      <zone ulx="21" uly="1349" lry="2139" lrx="1912" xml:id="facsZone-p6-1"/>
     </surface>
   </facsimile>
   <text>

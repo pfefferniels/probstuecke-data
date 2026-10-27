@@ -76,26 +76,26 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2427" xml:id="facs-p469">
-          <graphic width="1998px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469"/>
-          <zone ulx="75" uly="749" lry="1132" lrx="1935" xml:id="facsZone-p1-1"/>
-          <zone ulx="69" uly="1088" lry="1714" lrx="1938" xml:id="facsZone-p2-1"/>
-          <zone ulx="78" uly="1685" lry="2227" lrx="1938" xml:id="facsZone-p3-1"/>
+      <surface ulx="0" uly="0" lrx="1996" lry="2520" xml:id="facs-p469">
+          <graphic width="1996px" height="2520px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/469"/>
+          <zone ulx="33" uly="785" lry="1180" lrx="1949" xml:id="facsZone-p1-1"/>
+          <zone ulx="27" uly="1135" lry="1779" lrx="1952" xml:id="facsZone-p2-1"/>
+          <zone ulx="36" uly="1749" lry="2308" lrx="1952" xml:id="facsZone-p3-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2491" xml:id="facs-p470">
-          <graphic width="1998px" height="2491px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470"/>
-          <zone ulx="69" uly="173" lry="400" lrx="1962" xml:id="facsZone-p3-1-2"/>
-          <zone ulx="60" uly="386" lry="736" lrx="1959" xml:id="facsZone-p4-1"/>
-          <zone ulx="62" uly="716" lry="1081" lrx="1943" xml:id="facsZone-p5-1"/>
-          <zone ulx="60" uly="1079" lry="1639" lrx="1944" xml:id="facsZone-p6-1"/>
-          <zone ulx="51" uly="1598" lry="2248" lrx="1956" xml:id="facsZone-music-example1"/>
+      <surface ulx="0" uly="0" lrx="2019" lry="2518" xml:id="facs-p470">
+          <graphic width="2019px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/470"/>
+          <zone ulx="57" uly="183" lry="417" lrx="2007" xml:id="facsZone-p3-1-2"/>
+          <zone ulx="48" uly="403" lry="763" lrx="2004" xml:id="facsZone-p4-1"/>
+          <zone ulx="50" uly="743" lry="1119" lrx="1987" xml:id="facsZone-p5-1"/>
+          <zone ulx="48" uly="1116" lry="1693" lrx="1988" xml:id="facsZone-p6-1"/>
+          <zone ulx="38" uly="1651" lry="2321" lrx="2000" xml:id="facsZone-music-example1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2452" xml:id="facs-p471">
-          <graphic width="1998px" height="2452px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471"/>
-          <zone ulx="21" uly="236" lry="802" lrx="1857" xml:id="facsZone-music-example1-2"/>
-          <zone ulx="24" uly="767" lry="985" lrx="1869" xml:id="facsZone-p6-2"/>
-          <zone ulx="30" uly="1556" lry="2239" lrx="1869" xml:id="facsZone-p8-1"/>
-          <zone ulx="27" uly="956" lry="1576" lrx="1872" xml:id="facsZone-p7-1"/>
+      <surface ulx="0" uly="0" lrx="1975" lry="2545" xml:id="facs-p471">
+          <graphic width="1975px" height="2545px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/471"/>
+          <zone ulx="0" uly="281" lry="864" lrx="1885" xml:id="facsZone-music-example1-2"/>
+          <zone ulx="0" uly="828" lry="1053" lrx="1897" xml:id="facsZone-p6-2"/>
+          <zone ulx="3" uly="1641" lry="2344" lrx="1897" xml:id="facsZone-p8-1"/>
+          <zone ulx="0" uly="1023" lry="1662" lrx="1900" xml:id="facsZone-p7-1"/>
       </surface>
   </facsimile>
   <text>

@@ -76,20 +76,20 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-      <surface ulx="0" uly="0" lrx="1998" lry="2464" xml:id="facs-p474">
-          <graphic width="1998px" height="2464px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/474"/>
-          <zone ulx="108" uly="224" lry="748" lrx="1950" xml:id="facsZone-p1-1"/>
-          <zone ulx="87" uly="713" lry="1198" lrx="1956" xml:id="facsZone-p2-1"/>
-          <zone ulx="96" uly="1169" lry="1684" lrx="1965" xml:id="facsZone-p3-1"/>
-          <zone ulx="102" uly="1661" lry="2239" lrx="1968" xml:id="facsZone-p4-1"/>
+      <surface ulx="0" uly="0" lrx="2030" lry="2521" xml:id="facs-p474">
+          <graphic width="2030px" height="2521px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/474"/>
+          <zone ulx="109" uly="230" lry="769" lrx="2006" xml:id="facsZone-p1-1"/>
+          <zone ulx="88" uly="733" lry="1233" lrx="2013" xml:id="facsZone-p2-1"/>
+          <zone ulx="97" uly="1203" lry="1734" lrx="2022" xml:id="facsZone-p3-1"/>
+          <zone ulx="103" uly="1710" lry="2305" lrx="2025" xml:id="facsZone-p4-1"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="1998" lry="2441" xml:id="facs-p475">
-          <graphic width="1998px" height="2441px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/475"/>
-          <zone ulx="66" uly="182" lry="343" lrx="1932" xml:id="facsZone-p4-1-2"/>
-          <zone ulx="62" uly="308" lry="1009" lrx="1937" xml:id="facsZone-p5-1"/>
-          <zone ulx="69" uly="986" lry="1645" lrx="1935" xml:id="facsZone-p6-1"/>
-          <zone ulx="54" uly="1601" lry="1921" lrx="1935" xml:id="facsZone-p7-1"/>
-          <zone ulx="51" uly="1880" lry="2155" lrx="1929" xml:id="facsZone-p8-1"/>
+      <surface ulx="0" uly="0" lrx="1983" lry="2527" xml:id="facs-p475">
+          <graphic width="1983px" height="2527px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/475"/>
+          <zone ulx="9" uly="189" lry="355" lrx="1931" xml:id="facsZone-p4-1-2"/>
+          <zone ulx="5" uly="319" lry="1041" lrx="1936" xml:id="facsZone-p5-1"/>
+          <zone ulx="12" uly="1017" lry="1696" lrx="1934" xml:id="facsZone-p6-1"/>
+          <zone ulx="0" uly="1651" lry="1980" lrx="1934" xml:id="facsZone-p7-1"/>
+          <zone ulx="0" uly="1938" lry="2221" lrx="1928" xml:id="facsZone-p8-1"/>
       </surface>
   </facsimile>
   <text>
