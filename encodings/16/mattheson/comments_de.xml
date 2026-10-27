@@ -89,6 +89,9 @@
           <zone ulx="5" uly="990" lry="1895" lrx="1943" xml:id="facsZone-p5-1"/>
           <zone ulx="15" uly="1846" lry="2315" lrx="1955" xml:id="facsZone-p6-1"/>
       </surface>
+      <surface ulx="0" uly="0" lrx="2031" lry="2524" xml:id="facs-p458" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/458">
+          <graphic width="2031px" height="2524px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00458/full/full/0/default.jpg"/>
+      </surface>
       <surface ulx="0" uly="0" lrx="1989" lry="2518" xml:id="facs-p461" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/461">
           <graphic width="1989px" height="2518px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00461/full/full/0/default.jpg"/>
           <zone ulx="12" uly="248" lry="1504" lrx="1937" xml:id="facsZone-p7-1"/>
@@ -105,114 +108,122 @@
           </notatedMusic>
         </figure>
       </div>
+      <pb n="394" facs="#facs-p456"/>
       <div n="0" type="chapter">
-      <head>Erlaͤuterung.</head>
+      <lb/><head>Erlaͤuterung.</head>
       <div n="1">
-        <head>§. 1.</head>
+        <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <hi rendition="#in">J</hi>N der Mittel-Classe dieser grossen General-Baß-Schule ist gegenwaͤrtiger
-          Ton anders notiret worden, als hier, da es doch (nach der Einrichtung des
-          gewoͤhnlichen Claviers zu reden) derselbe Tangent ist. Es wird wohlbedaͤchtig
-          gesagt, <hi rendition="#b">nach der gewoͤhnlichen Einrichtung unserer Claviere</hi>:
-          denn es schon genugsam mathematisch von andern erwiesen worden ist, daß
-          <hi rendition="#b">♯G</hi> sonst ein gantz anderer Ton sey, als <hi rendition="#b">♭A</hi>. Jch
-          fuͤge hinzu: daß man es auch natuͤrlich darthun koͤnne: massen die Eigenschafft
-          des ersten Tons eine kleine Tertz erfordert, und also eigentlich weich ist;
-          der andere aber von selbsten die grosse Tertz haben muß, einfolglich von
-          Natur hart ist, welches ein und derselbe Ton zugleich nicht seyn kan.
-          Was hier fuͤr harmonische Ursachen Stich halten, ist noch nicht bekannt;
-          in der Praxi aber stehet der Satz fest.
+          <lb/><hi rendition="#in">J</hi>N der Mittel-Claſſe dieſer groſſen General-Baß-Schule iſt gegenwaͤrti-
+          <lb/>ger Ton anders notiret worden, als hier, da es doch (nach der Einrichtung des
+          <lb/>gewoͤhnlichen Claviers zu reden) derſelbe Tangent iſt. Es wird wolbedaͤcht-
+          <lb/>lich geſagt, <hi rendition="#b">nach der gewoͤhnlichen Einrichtung unſerer Claviere</hi>: denn es
+          <lb/>ſchon genugſam mathematiſch von andern erwieſen worden iſt, daß <hi rendition="#b">♯G</hi> ſonſt ein
+          <lb/>gantz anderer Ton ſey, als <hi rendition="#b">♭A</hi>. Jch fuͤge hinzu: daß man es auch natuͤrlich dar-
+          <lb/>thun koͤnne: maſſen die Eigenſchafft des erſten Tons eine kleine Tertz erfodert, und al-
+          <lb/>ſo eigentlich weich iſt; der andere aber von ſelbſten die groſſe Tertz haben muß, ein-
+          <lb/>folglich von Natur hart iſt, welches ein und derſelbe Ton zugleich nicht ſeyn kan.
+          <lb/>Was hier fuͤr harmoniſche Urſachen Stich halten, iſt noch nicht bekannt; in der
+          <lb/>Praxi aber ſtehet der Satz feſt.
         </p>
       </div>
 
       <div n="2">
-        <head>§. 2.</head>
+        <lb/><head>§. 2.</head>
         <p xml:id="p2-1" facs="#facsZone-p2-1">
-          Man hat zwar lange wol gemercket, daß in den so genannten halben Tonen
-          gleichsam eine Zweideutigkeit stecke; daß nemlich <hi rendition="#b">♯C</hi> ein
-          ander Ding an sich selbsten sey, als <hi rendition="#b">♭D</hi>; daß <hi rendition="#b">♯D</hi>
-          vom <hi rendition="#b">♭E</hi> billig unterschieden werden solte; daß <hi rendition="#b">♯E</hi>
-          mit dem gewoͤhnlichen <hi rendition="#b">f</hi> keine Gemeinschaft hege. Sie haben
-          gar recht erwiesen, daß <hi rendition="#b">♯F</hi> nicht <hi rendition="#b">♭G</hi> sey; daß
-          <hi rendition="#b">♭A</hi> und <hi rendition="#b">♯G</hi> im Grunde nicht einerley; daß
-          <hi rendition="#b">♭H</hi> was ganz anders sagen wolle, als <hi rendition="#b">♯A</hi>,
-          und daß endlich <hi rendition="#b">♯H</hi> keine Verwandtschafft haben koͤnne mit dem
-          ordentlichen <hi rendition="#b">C</hi>: denn darinn bestehet ein Stuͤck der enharmonischen
-          Octave, wobon die Vorbereitung, oder unterste Classe, weitlaͤuffig gehandelt
-          hat.
+          <lb/>Man hat zwar lange wol gemercket, daß in den ſo genannten halben Tonen
+          <lb/>gleichſam eine Zweideutigkeit ſtecke; daß nemlich <hi rendition="#b">♯C</hi> ein ander Ding an ſich ſelbſten
+          <lb/>ſey, als <hi rendition="#b">♭D</hi>; daß <hi rendition="#b">♯D</hi> vom <hi rendition="#b">♭E</hi> billig unterſchieden werden ſolte; daß <hi rendition="#b">♯E</hi> mit dem
+          <lb/>gewoͤhnlichen <hi rendition="#b">F</hi> keine Gemeinſchafft hege. Sie haben gar recht erwieſen, daß <hi rendition="#b">♯F</hi>
+          <lb/>nicht <hi rendition="#b">♭G</hi> ſey; daß <hi rendition="#b">♭A</hi> und <hi rendition="#b">♯G</hi> im Grunde nicht einerley; daß <hi rendition="#b">♭H</hi> gantz was an-
+          <lb/>ders ſagen wolle, als <hi rendition="#b">♯A</hi>, und daß endlich <hi rendition="#b">♯H</hi> keine Verwandſchafft haben koͤnne
+          <lb/>mit dem ordentlichen <hi rendition="#b">C</hi>: denn darinn beſtehet ein Stuͤck der enharmoniſchen Octa-
+          <lb/>ve, wovon die Vorbereitung, oder unterſte Claſſe, weitlaͤuffig gehandelt hat.
         </p>
       </div>
 
       <div n="3">
-        <head>§. 3.</head>
+        <lb/><head>§. 3.</head>
         <p xml:id="p3-1" facs="#facsZone-p3-1 #facsZone-p3-1-2">
-          Allein so weit sind unsere Ausbesserer noch nicht gegangen, dß sie auch
-          <hi rendition="#b">♭C</hi> vom <hi rendition="#b">H</hi> unterschieden, und <hi rendition="#b">♭F</hi>
-          nicht mit <hi rendition="#b">E</hi> vermengt, oder daß, gleichwie <hi rendition="#b">C</hi>
-          und <hi rendition="#b">f</hi> auf verschiedene Art koͤnnen notiret werden, dieselbe auch,
-          wo nicht eigene, nebenliegende Stuffen, (die ich gerne im Kauff geben will)
-          doch wenigstens eine andere Bezeichnung erfordern solten: welches doch,
-          besonders in denjenigen Ton-Arten, die verdeckter Weise ins enharmonische
-          Klang-Geschlecht ausweichen, hoͤchstnoͤthig ist, und derowegen davon mit
-          mehrern zum Beschluß dieses Werckes wird geredet, auch gewiesen werden,
-          was sonst fuͤr Ungelegenheit im Schreiben daraus entstehet.
+          <lb/>Allein ſo weit ſind unſere Ausbeſſerer noch nicht gegangen, daß ſie auch <hi rendition="#b">♭C</hi><note place="foot" n="*">
+            <lb/><hi rendition="#b"><persName corresp="#ed_os2_1vx_qlb">Buliowski</persName></hi> gedencket daran aus dem <persName corresp="#ed_dvy_pvy_qlb">Capricorno</persName>,
+            <hi rendition="#i"><hi rendition="#aq">vid. <bibl>Emendat. Organ. pag. 23.</bibl></hi></hi>
+          </note>
+          <lb/>vom <hi rendition="#b">H</hi> unterſchieden, und <hi rendition="#b">♭F</hi> nicht mit <hi rendition="#b">E</hi> vermengt, oder daß, gleichwie <hi rendition="#b">C</hi> und
+          <lb/><hi rendition="#b">F</hi> auf verſchiedene Art koͤnnen notiret werden, dieſelbe auch, wo nicht eigene, neben-
+          <lb/>liegende Stuffen, (die ich gerne im Kauff geben will) doch wenigſtens eine an-
+          <lb/>dere Bezeichnung erfordern ſolten: welches doch, beſonders in denjenigen Ton-Ar-
+          <lb/>ten, die verdeckter Weiſe ins enharmoniſche Klang-Geſchlecht ausweichen, hoͤchſtnoͤ-
+          <lb/>thig iſt, und derowegen davon mit mehrern zum Beſchluß dieſes Werckes wird
+          <fw place="bottom" type="catch">geredet</fw>
+          <pb n="395" facs="#facs-p457"/>
+          <lb/>geredet, auch gewieſen werden, was ſonſt fuͤr Ungelegenheit im Schreiben dar-
+          <lb/>aus entſtehet.
         </p>
       </div>
 
       <div n="4">
-        <head>§. 4.</head>
+        <lb/><head>§. 4.</head>
         <p xml:id="p4-1" facs="#facsZone-p4-1">
-          Unsere Vorfahren, wie sie ihre Anmerckungen uͤber den Mangel der Tone gemachet,
-          u. vermeynet haben, daß dem Clavier bey den halben Stuffen noch sieben Tangenten
-          in jeder Octave fehlten, sind wol schwerlich auf die Gedancken gerathen, daß
-          man nach ihrer Zeit aus solchen halben Stuffen, (geschweige aus ihren Bruͤchen)
-          jemahls ein Stuͤck setzen wuͤrde, zumahl da <persName corresp="#ed_dvy_pvy_qlb">Capricornus</persName>
-          und <persName corresp="#ed_jlh_wvy_qlb">Bernhardi</persName> sich in diesem Werck schon wacker
-          umgesehen, und fast fuͤr unmoͤglich gehalten haben, daß es weiter koͤnne
-          getrieben werden; wie doch zu Tage lieget: sie haben nur die Folgen
-          oder Ausweichungen der andern gewoͤhnlichen Tone betrachtet, und nach
-          solchem Grund-Satz ihre Anmerckungen fuͤr unumstoͤßlich auch unentbehrlich
-          ausgegeben: welches doch ein Jrrthum ist.
+          <lb/>Unſere Vorfahren, wie ſie ihre Anmerckungen uͤber den Mangel der Tone gema-
+          <lb/>chet, u. vermeynet haben, daß dem Clavier bey den halben Stuffen noch ſieben Tangen-
+          <lb/>ten in jeder Octave fehlten, ſind wol ſchwerlich auf die Gedancken gerathen, daß man
+          <lb/>nach ihrer Zeit aus ſolchen halben Stuffen, (geſchweige aus ihren Bruͤchen) je-
+          <lb/>mahls ein Stuͤck ſetzen wuͤrde, zumahl da <hi rendition="#aq"><persName corresp="#ed_dvy_pvy_qlb">Capricornus</persName></hi>
+          und <hi rendition="#aq"><persName corresp="#ed_jlh_wvy_qlb">Bernhardi</persName></hi> ſich in die-
+          <lb/>ſem Werck ſchon wacker umgeſehen, und faſt fuͤr unmuͤglich gehalten haben, daß es
+          <lb/>weiter koͤnne getrieben werden; wie doch zu Tage lieget: ſie haben nur die Folgen
+          <lb/>oder Ausweichungen der andern gewoͤhnlichen Tone betrachtet, und nach ſolchem
+          <lb/>Grund-Satz ihre Anmerckungen fuͤr unumſtoͤßlich auch unentbehrlich ausgegeben;
+          <lb/>welches doch ein Jrrthum iſt.
         </p>
 
       </div>
 
       <div n="5">
-        <head>§. 5.</head>
+        <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
-          Eben so wenig als unser einer glauben mag, daß nach diesem aus dem <hi rendition="#b">♯E</hi>
-          in so weit es vom <hi rendition="#b">F</hi> unterschieden ist, etwas zum Vorschein kommen
-          sollte, eben so leicht kann es doch geschehen; und wolte ich nicht Buͤrge
-          dafuͤr seyn, noch verlangen, daß man deswegen sonderliche grosse Aenderungen
-          im Jnstrumente machen solte, denn die helffen uns nichts; meine Gedancken
-          gehen mit aller Bescheidenheit dahin, daß nur Zeichen genug moͤgten angesetzt
-          werden, wodurch dergleichen Sachen geschickt zu notiren: und zwar hauptsaͤchlich
-          wegen besagter Folgen. Denn die Hoffnung, ein Clavier zu verbessern, zu vermehren,
-          und zur <hi rendition="#b">Vollkommenheit</hi> zu bringen, muͤssen wir fahren, und uns
-          an einer guten Temperatur begnuͤgen lassen: weil es doch, ungeachtet vielfaͤltiger
-          Vorschlaͤge und Versuche, mit dem Flick-Werck der Tangenten nichts sagen will;
-          aber unsere Meynung durch Noten auszudruͤcken duͤrffte wol nicht schaden: und
-          das koͤnnen wir nicht einmahl recht thun, wie bey dem letzten Exempel dieser
-          Classe, ja gleich in folgender Arie, gewiesen werden soll.
+          <lb/>Eben ſo wenig als unſer einer glauben mag, daß nach dieſem aus dem <hi rendition="#b">♯E</hi>,
+          <lb/>in ſo weit es vom <hi rendition="#b">F</hi> unterſchieden iſt, etwas zum Vorſchein kommen ſolte, eben ſo
+          <lb/>leicht kañ es doch geſchehen; und wolte ich nicht Buͤrge dafuͤr ſeyn, noch verlangen,
+          <lb/>daß man deswegen ſonderliche groſſe Aenderungen im Jnſtrumente machen ſolte,
+          <lb/>denn die helffen uns nichts; meine <choice>
+            <sic>Gedanckeu</sic>
+            <corr type="editorial" resp="#pfeffer">Gedancken</corr>
+          </choice> gehen mit aller Beſcheidenheit dahin,
+          <lb/>daß nur Zeichen genug moͤgten angeſetzt werden, wodurch dergleichen Sachen ge-
+          <lb/>ſchickt zu notiren: und zwar hauptſaͤchlich wegen beſagter Folgen. Denn die Hoff-
+          <lb/>nung, ein Clavier zu verbeſſern, zu vermehren, und zur <hi rendition="#b">Vollkommenheit</hi> zu
+          <lb/>bringen, muͤſſen wir fahren, und uns an einer guten Temperatur begnuͤgen laſſen:
+          <lb/>weil es doch, ungeachtet vielfaͤltiger Vorſchlaͤge und Verſuche, mit dem Flick-
+          <lb/>Werck der Tangenten nichts ſagen will; aber unſere Meynung durch Noten aus zu
+          <lb/>druͤcken duͤrffte wol nicht ſchaden: und das koͤnnen wir nicht einmahl recht thun, wie
+          <lb/>bey dem letzten Exempel dieſer Claſſe, ja gleich in folgender Arie, gewieſen werden ſoll.
         </p>
       </div>
 
       <div n="6">
-        <head>§. 6.</head>
+        <lb/><head>§. 6.</head>
         <p xml:id="p6-1" facs="#facsZone-p6-1">
-          Mit wenigem ist sonst anzudeuten, daß vom
-          <ref target="#measure-0000001123115174">5ten Tact dieses Prob-Stuͤcks</ref>
-          bis am
-          <ref target="#measure-0000000741277401">dritten des letzten Theils</ref>,
-          so dann wieder vom
-          <ref target="#measure-0000001490618817">10ten besagten Theils</ref> bis an den
+          <lb/>Mit wenigem iſt ſonſt <choice>
+            <sic>anzndeuten</sic>
+            <corr type="editorial" resp="#pfeffer">anzudeuten</corr>
+          </choice>, daß vom
+          <ref target="#measure-0000001123115174">5ten Tact dieſes <hi rendition="#b">Prob-Stuͤcks</hi></ref>
+          <lb/>bis am
+          <ref target="#measure-0000000741277401">dritten des letzten Theils</ref>;
+          ſo dann wieder vom
+          <ref target="#measure-0000001490618817">10ten beſagten Theils</ref> bis an
+          <lb/>den
           <ref target="#measure-0000000205329913">17ten</ref> alles gar manierlich in der
-          rechten Hand gespielet, bey den vorkommenden 6/4 aber eine
-          zierliche Brechung angebracht werden koͤnne; uͤbrigens braucht es keiner
-          grossen Kuͤnste.
+          rechten Hand geſpielet, bey den vorkommen-
+          <lb/>den 6/4 aber eine zierliche Brechung angebracht werden koͤnne; uͤbrigens braucht
+          <lb/>es keiner groſſen Kuͤnſte.
         </p>
+        <fw place="bottom" type="catch">Aria,</fw>
 
         <p xml:id="p6-2">
+          <pb n="396" facs="#facs-p458"/>
           <!--
           <hi rendition="#b">ARIA.</hi>
           -->
@@ -220,50 +231,50 @@
             <ptr target="aria-inquelseno.xml"/>
           </notatedMusic>
         </p>
+        <fw place="bottom" type="catch">§. 7.</fw>
       </div>
 
       <div n="7">
-        <head>§. 7.</head>
+        <pb n="399" facs="#facs-p461"/>
+        <lb/><head>§. 7.</head>
         <p xml:id="p7-1" facs="#facsZone-p7-1">
-          Diese <hi rendition="#aq"><foreign xml:lang="ita">Aria</foreign></hi> habe ich bey einer vornehmen Person, welche
-          aus Jtalien hieher gekommen, angetroffen, ohne zu wissen, wer Verfasser
-          davon sey.<note type="editorial">Auch bislang konnte der Komponist nicht ermittelt werden.</note> Man sieht wol, daß sie entweder fuͤr einen Verschnittenen, oder
-          sonst fuͤr jemand, der den hohen Alt gesungen, gesetzt seyn muͤsse, auch
-          daß einige Jnstrumente dabey gehoͤren: die ich aber, samt etlichen
-          zwischenkommenden Pausen, hier fuͤr unnoͤthig gehalten habe. Die Absicht
-          gehet nun dahin, ein Beispiel aus der taͤglichen Uebung zu geben, wo das
-          <hi rendition="#b">Gis mol</hi> starck herhaͤlt, und dazu ergriffe ich, was mir am
-          ersten, ja gleichsam von ungefehr, in die Haͤnde faͤllt. Daß indeß <hi rendition="#b">♯G mol</hi>
-          haͤuffiger aufstosse, als <hi rendition="#aq">♭</hi><hi rendition="#b">A mol</hi> ist wahr: weil das erste die kleine
-          Tertz wesentlich, das andere nur zufaͤlliger Weise fuͤhret; allein, es ist doch
-          einerley im Spielen, nur laͤsset sich das letztere reiner auffschreiben, darum
-          hat mans hier im Prob-Stuͤcke gewehlet. Einen schoͤnen Satz aber, aus dem
-          <hi rendition="#aq">b</hi><hi rendition="#b">A dur</hi>, finde ich in <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Mossi</persName></hi> seinem
-          Wercke, <hi rendition="#aq">pag. 34</hi>, welches zu mercken bitte, weil es mir bey dem Zwoͤlfften
-          Prob-Stuͤcke dieser Classe nicht beigefallen ist. Einen andern Satz aber, aus
-          dem <hi rendition="#b">♯G dur</hi> trifft man bey eben selbigem Componisten <hi rendition="#aq">pag. 59</hi> an,
-          wodurch meine obige Anmerckungen bewiesen sind. Besagtes Werck, das hier
-          angefuͤhret, und als ein Exempel vorgestellet wird, bestehet in zwoͤlff Sonaten mit
-          einer Violin und dem Basse, zu <placeName ref="https://www.geonames.org/2759794">Amsterdam</placeName> in Kupffer gestochen, und der Verfasser
-          heisset: <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Giovanni Mossi</persName></hi>.
+          <lb/>Dieſe <hi rendition="#aq"><foreign xml:lang="ita">Aria</foreign></hi> habe ich bey einer vornehmen Perſon, welche aus Jtalien hieher ge-
+          <lb/>kommen, angetroffen, ohne zu wiſſen, wer Verfaſſer davon ſey.<note type="editorial">Auch bislang konnte der Komponist nicht ermittelt werden.</note> Man ſieht wol,
+          <lb/>daß ſie entweder fuͤr einen Verſchnittenen, oder ſonſt fuͤr jemand, der den hohen
+          <lb/>Alt geſungen, geſetzt ſeyn muͤſſe, auch daß einige Jnſtrumente dabey gehoͤren; die ich
+          <lb/>aber, ſamt etlichen zwiſchenkommenden Pauſen, hier fuͤr unnoͤthig gehalten habe.
+          <lb/>Die Abſicht gehet nur dahin, ein Beiſpiel aus der taͤglichen Uebung zu geben, wo
+          <lb/>das <hi rendition="#b">Gis mol</hi> ſtarck herhaͤlt, und dazu ergreiffe ich, was mir am erſten, ja gleich-
+          <lb/>ſam von ungefehr, in die Haͤnde faͤllt. Daß indeß <hi rendition="#b">♯G mol</hi> haͤuffiger auffſtoſſe,
+          <lb/>als <hi rendition="#aq">♭</hi><hi rendition="#b">A mol</hi> iſt wahr: weil das erſte die kleine Tertz weſentlich, das andere
+          <lb/>nur zufaͤlliger Weiſe fuͤhret; allein, es iſt doch einerley im Spielen, nur laͤſ-
+          <lb/>ſet ſich das letztere reiner aufſchreiben, darum hat mans hier im Prob-Stuͤcke ge-
+          <lb/>wehlet. Einen ſchoͤnen Satz aber, aus dem <hi rendition="#aq">♭</hi><hi rendition="#b">A dur</hi>, finde ich in <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Moſſi</persName></hi> ſeinem
+          <lb/>Wercke, <hi rendition="#aq">pag. 34</hi>, welches zu mercken bitte, weil es mir bey dem Zwoͤlfften
+          <lb/>Prob-Stuͤcke dieſer Claſſe nicht beigefallen iſt. Einen andern Satz aber, aus
+          <lb/>dem <hi rendition="#b">♯G dur</hi> trifft man bey eben ſelbigem Componiſten <hi rendition="#aq">pag. 59.</hi> an, wodurch meine
+          <lb/>obige Anmerckungen bewieſen ſind. Beſagtes Werck, das hier angefuͤhret, und
+          <lb/>als ein Exempel vorgeſtellet wird, beſtehet in zwoͤlff Sonaten mit einer Violin und
+          <lb/>dem Baſſe, zu <placeName ref="https://www.geonames.org/2759794">Amſterdam</placeName> in Kupffer geſtochen, und der Verfaſſer heiſſet: <hi rendition="#aq"><persName corresp="#ed_khq_sfy_qlb">Gio-
+          <lb/>vanni Moſſi</persName></hi>.
         </p>
       </div>
 
       <div n="8">
-        <head>§. 8.</head>
+        <lb/><head>§. 8.</head>
         <p xml:id="p8-1" facs="#facsZone-p8-1">
-          Jch habe am Ende der vorhergehenden Erlaͤuterung gesagt, es sollte in dieser
-          Arie gezeiget werden, daß wir unsre Meynung nicht allemahl, ohne Uebelstand,
-          mit Noten recht ausdrucken koͤnnen, und daß es uns wirchlich an Zeichen fehle,
-          wenn wir in die unbewanderten Tone modulieren wollen. Das erhellet nun insonderheit
-          aus den beiden letzten Zeilen obesagter Arie Sonnen-klar, weil daselbst eine
-          Note fuͤnffmahl, so wol in der Sing-Stimme, als im Baß vorkommt, die ein
-          zweifaches Kreutz (♯♯) vor sich hat, und ein so genannten <hi rendition="#b">g</hi>
-          bedeutet, welches ist allerdings (ob es gleich die gewoͤhnliche Schreib-Art ist)
-          fuͤr einen Uebelstand halte, und zum Beschluß dieses Wercks meine Ursachen und
-          Mittel, so gut ich sie begriffe, und im Vorrath habe, nebst mehr Exempeln,
-          beibringen werden.
+          <lb/>Jch habe am Ende der vorhergehenden Erlaͤuterung geſagt, es ſollte in die-
+          <lb/>ſer Arie gezeiget werden, daß wir unſre Meynung nicht allemahl, ohne Uebelſtand,
+          <lb/>mit Noten recht ausdrucken koͤnnen, und daß es uns wircklich an Zeichen fehle,
+          <lb/>wenn wir in die unbewanderten Tone moduliren wollen. Das erhellet nun inſon-
+          <lb/>derheit aus den beiden letzten Zeilen obeſagter Arie Sonnen-klar, weil daſelbſt eine No-
+          <lb/>te fuͤnffmahl, ſo wol in der Sing-Stimme, als im Baß, vorkommt, die ein zweifa-
+          <lb/>ches Kreutz (♯♯) vor ſich hat, und ein ſo genanntes <hi rendition="#b">g</hi> bedeutet, welches ich allerdings
+          <lb/>(ob es gleich die gewoͤhnliche Schreib-Art iſt) fuͤr einen Uebelſtand halte, und zum
+          <lb/>Beſchluß dieſes Wercks meine Urſachen und Mittel, ſo gut ich ſie begreiffe, und im
+          <lb/>Vorrath habe, nebſt mehr Exempeln, beibringen werde.
         </p>
+        <fw place="bottom" type="catch">Sieben-</fw>
       </div>
     </div>
     </body>
