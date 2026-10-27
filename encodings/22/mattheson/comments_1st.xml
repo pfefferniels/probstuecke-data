@@ -103,18 +103,57 @@
           </notatedMusic>
         </figure>
       </div>
-      <pb facs="#facs-p443" n="223" />
+      <pb n="221" facs="#facs-p441"/>
+      <div>
+        <lb /><head>Anmerckungen.</head>
+        <div n="1">
+          <lb /><head>§. 1.</head>
+          <lb /><p xml:id="anm-p1-1">
+            <hi rendition="#in">W</hi>Eil dieſe <hi rendition="#aq">Pieçe</hi> im Druck nicht fu&#x0364;glich auf zwo Seiten gantz zu bringen war, hat man lieber
+            <lb />hier mit einer langen und <hi rendition="#aq"><foreign xml:lang="lat">final</foreign></hi>-Note auffho&#x0364;ren, als hernach mitten in der Melodie, wo es
+            <lb />ſich gar nicht ſchicket, abbrechen und umkehren wollen.
+          </p>
+        </div>
+        <div n="2">
+          <lb /><head>§. 2.</head>
+          <p xml:id="anm-p2-1">
+            <!-- no new line beginning after title -->
+            Ob gleich bisher in verſchiedenen Exempeln, <hi rendition="#aq"><foreign xml:lang="lat">propter juniores</foreign></hi>, eine gewiſſe einfa&#x0364;ltige Art
+            <lb />zu <hi rendition="#aq">notiren</hi> bey den <hi rendition="#aq">chromati</hi>ſchen Tonen erwa&#x0364;hlet worden, die etwas unfo&#x0364;rmlich ſcheinet, ungeachtet
+            <lb />ſie den meiſten leichter vorko&#x0364;mmt als die <hi rendition="#aq">recipirte</hi>, wie mich ſolches die Erfahrung o&#x0364;ffters gelehret hat,
+            <lb />indem ein mittelma&#x0364;ßiger Spieler Z. E. weniger bey dieſen Noten ſtutzen wird:
+            <notatedMusic xml:id="anm-music-example1" facs="#facs-p441">
+              <ptr target="anm-music-example1.xml"/>
+            </notatedMusic>
+            <lb />Als bey folgenden:
+            <notatedMusic xml:id="anm-music-example2" facs="#facs-p441">
+              <ptr target="anm-music-example2.xml"/>
+            </notatedMusic>
+            <lb />So hat man doch Urſach zu dencken, daß dieſe gebrauchte <hi rendition="#aq"><foreign xml:lang="fra">Complaiſance</foreign></hi> nunmehro wohl auffho&#x0364;ren
+            <lb />mo&#x0364;ge, und daß einer, der in ſeiner Probe bis hieher glu&#x0364;cklich fortgekommen iſt, die Kinder-Schuh
+            <lb />nun meiſtens vertreten haben, und wiſſen mu&#x0364;ſſe, daß die <hi rendition="#aq"><foreign xml:lang="lat">Intervalla</foreign></hi> nicht ſo wohl nach den <hi rendition="#aq"><foreign xml:lang="lat">Signis</foreign></hi>, als
+            <lb />nach ihrer eigentlichen Maaſſe und <hi rendition="#aq">Proportion</hi> zu beurtheilen ſind. Derowegen iſt in gegenwa&#x0364;rti-
+            <lb />gem und nachfolgenden Prob-Stu&#x0364;cken die bey vielen beru&#x0364;hmten <hi rendition="#aq">Virtuoſen</hi> gebra&#x0364;uchliche Weiſe, mit
+            <lb />dem zweyfachen Creutze (♯♯) eingefu&#x0364;hret worden; dabey man ſich doch ſeine <hi rendition="#aq"><foreign xml:lang="lat">Dubia</foreign></hi> vorbeha&#x0364;lt, und
+            <lb />ſelbige einigermaſſen, zum Beſchluß dieſes Werckes, zu ero&#x0364;rtern ſuchen, anbey inſonderheit we-
+            <lb />gen Notirung des <hi rendition="#aq"><foreign xml:lang="lat">Fis duri</foreign></hi> etwas merckwu&#x0364;rdiges erinnern wird, das hier keinen Raum findet.
+          </p>
+        </div>
+      </div>
+      <pb n="222" facs="#facs-p442"/>
+      <fw place="bottom" type="catch">Erla&#x0364;u-</fw>
+      <pb n="223" facs="#facs-p443"/>
 
       <div n="0" type="chapter">
       <lb /><head>Erla&#x0364;uterung.</head>
       <div n="1">
         <lb /><head>§. 1.</head>
         <p xml:id="p1-1">
-          <lb /><hi rendition="#in">D</hi>Amit ja niemand ſich zu beſchweren haben möge, daß bey diesem <hi rendition="#b">Prob-
-          <lb />Stück</hi> die Claves ihm Verwirrung verurſachen, ſo iſt gantz und gar
+          <lb /><hi rendition="#in">D</hi>Amit ja niemand ſich zu beſchweren haben mo&#x0364;ge, daß bey dieſem <hi rendition="#b">Prob-
+          <lb />Stu&#x0364;ck</hi> die <hi rendition="#aq">Claves</hi> ihm Verwirrung verurſachen, ſo iſt gantz und gar
           <lb />davon <hi rendition="#aq">abſtrahi</hi>ret und nur ein eintziges mahl das <ref target="#clef-001">Tenor-Zeichen</ref>, et-
-          <lb />wann anderthalb Tact lang, eingerücket worden. Man hat auch beſtmüglichſt
-          <lb />auf die natürlichſte Ausweichung des Tons ſein Abſehen gerichtet und keine <hi rendition="#aq">Clau-
+          <lb />wann anderthalb Tact lang, eingeru&#x0364;cket worden. Man hat auch beſtmu&#x0364;glichſt
+          <lb />auf die natu&#x0364;rlichſte Ausweichung des Tons ſein Abſehen gerichtet und keine <hi rendition="#aq">Clau-
           <lb />ſulam peregrinam</hi> angebracht.
         </p>
       </div>
@@ -122,24 +161,22 @@
       <div n="2">
         <lb /><head>§. 2.</head>
         <p xml:id="p2-1">
-            <!-- no new line beginning after title -->
-          Das war, was ſich in gegenwärtiger <hi rendition="#aq">Pieçe</hi> nicht befindet; nun wollen
-          <lb />wir mit wenigen dasjenige betrachten, was darinnen vorkömmt. Erſtlich
-          <lb />muß bey dem Fall aus dem <ref target="#note-0000001105515864"><hi rendition="#aq">#c</hi></ref>
+          <!-- no new line beginning after title -->
+          Das war, was ſich in gegenwa&#x0364;rtiger <hi rendition="#aq">Pieçe</hi> nicht befindet; nun wollen
+          <lb />wir mit wenigen dasjenige betrachten, was darinnen vorko&#x0364;mmt. Erſtlich
+          <lb />muß bey dem Fall aus dem <ref target="#note-0000001105515864"><hi rendition="#aq">cis</hi></ref>
           ins <ref target="#note-0000000438118919"><hi rendition="#aq">b</hi></ref>
-          bemercket werden, daß zwischen beyden
-          <lb />das
-          <ref target="#note-0000000845814796"><hi rendition="#aq">h</hi></ref>
-          an- und mit einem kleinen <hi rendition="#aq">Trillo</hi> vorſchlagen muss,
-          ſonſt würde es höl-
-          <lb />zern ſchicken. Vors andere, wenn man alles fein rein bis auf die
+          bemercket werden, daß zwiſchen beyden
+          <lb />das <ref target="#note-0000000845814796"><hi rendition="#aq">h</hi></ref>
+          an- und mit einem kleinen <hi rendition="#aq">Trillo</hi> vorſchlagen muß, ſonſt wu&#x0364;rde es ho&#x0364;l-
+          <lb />tzern klingen. Vors andere, wenn man alles fein rein bis auf die
           <ref target="#note-0000002103583228"><hi rendition="#aq">Cadence</hi> in
           <lb />den elfften Tact</ref> gebracht hat, ſo wird nach Belieben (nicht daß es eben unum-
-          <lb />gänglich ſey) die rechte Hand oder vielmehr der Kopff ſeine <hi rendition="#aq">Melodie</hi>, wie es zu
-          <lb />ſingen ſeyn möchte, zu erſinnen wiſſen, welche unmaßgeblich auf diese Schlag
+          <lb />ga&#x0364;nglich ſey) die rechte Hand oder vielmehr der Kopff ſeine <hi rendition="#aq">Melodie</hi>, wie es zu
+          <lb />ſingen ſeyn mo&#x0364;chte, zu erſinnen wiſſen, welche unmaßgeblich auf dieſen Schlag
           <lb />einzurichten, womit ſie dann ein Tact oder zehn bis zur
-          <ref target="#note-0000000417006726"><hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">cis</hi></ref> <hi rendition="#aq">con-
-          <lb />tinuiret</hi> werden mag:
+          <ref target="#note-0000000417006726"><hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">cis</hi></ref> <hi rendition="#aq">con-</hi>
+          <lb />tinuiret werden mag:
           <note type="editorial" resp="#pfeffer">
             Im folgenden Notenbeispiel setzt Mattheson die Taktstriche um einen
             halben Takt versetzt.
@@ -147,66 +184,67 @@
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
           </notatedMusic>
-          <pb facs="#facs-p444" n="224" />
-          <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollstimmigkeit des Baſſes
-          <lb />und Beobachtung der <hi rendition="#aq">Signaturen</hi> in der lincken Hand keines weges ausge-
+          <fw place="bottom" type="catch">Jn-</fw>
+          <pb n="224" facs="#facs-p444"/>
+          <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollſtimmigkeit des Baſſes
+          <lb />und Beobachtung der <hi rendition="#aq">Signatu</hi>ren in der lincken Hand, keines weges ausge-
           <lb />ſetzet werden.
         </p>
       </div>
 
-      <pb facs="#facs-p444" n="224" />
-
       <div n="3">
         <lb /><head>§. 3.</head>
         <p xml:id="p3-1">
-          <lb />Jm neuenzehnten Tact ſtehet wiederum
-          <ref target="#si-suona-1"><hi rendition="#aq">ſi ſuona</hi></ref>, deſſen Bedeutung be-
+          <lb />Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſteht wiederum
+          <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign></hi></ref>, deſſen Bedeutung be-
           <lb />kandt iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
-          und wo <ref target="#tutti-1"><hi rendition="#aq">Tutti</hi></ref> eintritt,
-          da geht es über alles, was nur wohl klingt.
-          <lb /><ref target="#measure-0000000574431491">Nach dem
-          <lb />Schluß des erſten Theils</ref>, fänget die rechte Hand abermahl zu <hi rendition="#aq">modu
-          <lb />liren</hi> an, wovon dieſes ein Muſter ſeyn mag:
+          und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
+          da geht es u&#x0364;ber alles, was nur wohl klingt.
+          <lb /><ref target="#measure-0000000574431491">Nach dem Schluß des erſten Theils</ref>
+          fa&#x0364;nget die rechte Hand abermahl zu <hi rendition="#aq">modu-</hi>
+          <lb />liren an, wovon dieſes ein Muſter ſeyn mag:
 
           <notatedMusic xml:id="music-example2">
             <ptr target="music-example2.xml" />
           </notatedMusic>
 
-          <lb />Darauf hebt ſich das <hi rendition="#aq">Tutti</hi> an bis zur nächſten <hi rendition="#aq">Cadence</hi>, allwo ohngefehr auf
-          <lb />dieſe Art mag gesſpielet werden:
+          <lb />Darauf hebt ſich das <ref target="#tutti-3"><hi rendition="#aq">Tutti</hi></ref> an bis zur
+          <ref target="#measure-0000000387035804">na&#x0364;chſten <hi rendition="#aq">Cadence</hi></ref>, allwo ohngefehr auf
+          <lb />dieſe Art mag geſpielet werden:
 
           <notatedMusic xml:id="music-example3">
             <ptr target="music-example3.xml" />
           </notatedMusic>
-          <!--<pb facs="#facs-p445" n="225" />-->
         </p>
       </div>
 
-      <div n="3">
+      <pb n="225" facs="#facs-p445"/>
+
+      <div n="4">
         <lb /><head>§. 4.</head>
         <p xml:id="p4-1">
-          <lb />Ich wiederhole nochmahls, daß es keine <hi rendition="#aq">Sanctio pragmatica</hi> ſen, eben
+          <lb />Jch wiederhole nochmahls, daß es keine <hi rendition="#aq"><foreign xml:lang="lat">Sanctio pragmatica</foreign></hi> ſey, eben
           <lb />dieſe Noten, ſo wie hier ſtehen, an bemeldten Oertern zu ſpielen; denn es wird
-          <lb />unmüglich ſeyn, daß einer unter hundert es juſt ſo treffe. Es iſt alles nur zur
+          <lb />unmu&#x0364;glich ſeyn, daß einer unter hundert es juſt ſo treffe. Es iſt alles nur zur
           <lb />Nachricht hingeſetzet worden, und wer ſich der Probe unternimmt, kan ſchon
-          <lb />etwas beffers <hi rendition="#aq">extemporifiren</hi>, anbey dadurch zu erkennen geben, daß die Sel-
+          <lb />etwas beſſers <hi rendition="#aq">extemporiſiren</hi>, anbey dadurch zu erkennen geben, daß die Sel-
           <lb />tenheit des Tons ſeinen Geiſt nicht feſſelt, ſondern, daß er, derſelben ungeachtet,
-          <lb />freye <hi rendition="#aq">Fantaiſie</hi> habe, und nach Gefallen mit dem Clavier ſchalten könne. Wenn
+          <lb />freye <hi rendition="#aq">Fantaiſie</hi> habe, und nach Gefallen mit dem Clavier ſchalten ko&#x0364;nne. Wenn
           <lb />ſelbiges reine geſtimmet iſt, ſo wird es ſchon gut aus dem <hi rendition="#aq">Fis dur</hi> klingen, da-
-          <lb />fern ein <hi rendition="#aq">habiler</hi> Meiſter darüber kömmt; ſtimmt das Inſtrument aber nicht/
+          <lb />fern ein <hi rendition="#aq">habiler</hi> Meiſter daru&#x0364;ber ko&#x0364;mmt; ſtimmt das Jnſtrument aber nicht,
           <lb />ſo kan es auch aus dem gemeinſten Straſſen-Ton nicht gut klingen, und wenn ein
-          <lb /><hi rendition="#aq">Orpheus</hi> ſelber ſpielte. Gibt ſich inzwiſchen einer für Meiſter aus, ſo muß er
-          <lb />hier <hi rendition="#aq">extemporifiren</hi> können; denn ſolche Leute, hauptsächlich unter den Organi-
-          <lb />ſten, zu prüfen, iſt hier der erſte und fürnehmſte Zweck; dahingegen der Un-
-          <lb />terricht nur beyläuffig gehandelt und <hi rendition="#aq">ſecundo loco</hi> geſetzt wird. Es kan und mag
-          <lb />zwar ein jeder, wie in der Vorbereitung geſagt worden, ſich ohne Zeugen ſelbſt prü-
-          <lb />fen; aber weil uns doch die Eigen-Liebe gar zu ſehr anhängt, und man gerne mit
-          <lb />ſeinen eigenen Fehlern durch die Finger ſiehet, ſo wäre mein Rath, erſt ins geheim,
+          <lb /><hi rendition="#aq">Orpheus</hi> ſelber ſpielte. Gibt ſich inzwiſchen einer fu&#x0364;r Meiſter aus, ſo muß er
+          <lb />hier <hi rendition="#aq">extemporiſiren</hi> ko&#x0364;nnen; denn ſolche Leute, hauptſa&#x0364;chlich unter den Organi-
+          <lb />ſten, zu pru&#x0364;fen, iſt hier der erſte und fu&#x0364;rnehmſte Zweck; dahingegen der Un-
+          <lb />terricht nur beyla&#x0364;uffig gehandelt und <hi rendition="#aq"><foreign xml:lang="lat">ſecundo loco</foreign></hi> geſetzt wird. Es kan und mag
+          <lb />zwar ein jeder, wie in der Vorbereitung geſagt worden, ſich ohne Zeugen ſelbſt pru&#x0364;-
+          <lb />fen; aber weil uns doch die Eigen-Liebe gar zu ſehr anha&#x0364;ngt, und man gerne mit
+          <lb />ſeinen eigenen Fehlern durch die Finger ſiehet, ſo wa&#x0364;re mein Rath, erſt ins geheim,
           <lb />hernach mit Zuziehung eines unpartheyiſchen Kenners, die Probe anzuſtellen.
         </p>
       </div>
 
-      <fw place="bottom" type="catch">Drei-</fw>
+      <fw place="bottom" type="catch">Drey</fw>
 
     </div>
     </body>
