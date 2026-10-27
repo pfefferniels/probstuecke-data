@@ -19,6 +19,7 @@ First versioned release.
 - Publisher and CC BY 4.0 licence statements in the index files
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
+- The realisations of Nos. 10 and 14 by Niels Pfeffer and of Nos. 20 and 21 by Larry Molinaro, and Robert Hill's lesson on No. 16, are expressions of their works in `works.xml` (`ps10-004`, `ps14-004`, `ps16-004`, `ps20-004`, `ps21-004`), so that the website shows them with their scores and recordings
 
 ### Changed
 
@@ -26,6 +27,9 @@ First versioned release.
 - Music examples: bars that quote the piece carry the number of the quoted bar as `@label` (in No. 14 instead of the words "Achter Tact", "Neuter Tact."), shown on the website instead of a local numbering (probstuecke-digital#81); `scripts/label_example_bars.py` sets these labels, and CI checks them
 - Music examples: every example has a full meter, encoded like the scores' as a `<meterSig>` in each `<staffDef>`, invisible where the print shows none (only one example of No. 24 shows C); the visible meters of the examples in Nos. 9 and 14 were not in the prints. Bars that do not fill the meter (upbeats, cut-off bars) have `@metcon="false"`, also in Robert Hill's examples of No. 4 (#30)
 - Music examples: modern clefs for the website's modern view, as in the scores (`<choice>` of `<orig>` and `<reg>`): soprano, alto and tenor clefs become treble clefs (the tenor clef of the low passage in No. 6 a bass clef), the French violin clef a treble clef, the baritone clef a bass clef. Initial clefs, which MEI 4.0.1 allows in no `<choice>` inside `<staffDef>`, are modernised by a `<scoreDef>` in the `<reg>` of a `<choice>` at the start of the section. The same for the arias quoted in Nos. 10, 15 and 16, whose voices are in soprano and alto clefs
+- Lessons and realisations follow the conventions of the other texts: the score in a `<div type="score">` with `<figure type="notatedMusic">` (Robert Hill's lessons on Nos. 3 and 4 refer to it, but did not embed it; the notes on the realisations of Nos. 10, 14, 20 and 21 had no link to theirs), the text in a division of its own; a `<head>` in the figure says what a score that is not Mattheson's shows. `lesson_transcription.odd` allows `figure` and documents `ptr[@type="audio"]`
+- Robert Hill's lessons: the participants with their IDs and roles in `particDesc/listPerson` instead of a `listPerson` in the body; all playing as `<kinesic type="playing">` (some was `<incident>`); language codes in BCP 47 (`de`, `en` instead of `ger`, `eng`); dates in the headings written out (No. 16 had 03/06/2019 for 3 June, Nos. 3 and 4 the American order); the empty `<notatedMusic>` after Robert Hill's playing in No. 16, which is not transcribed, is a comment
+- Titles of the notes on the realisations name piece and musician instead of "Description of Realization" and "JCD, PS 4"
 
 ### Fixed
 
@@ -48,3 +52,4 @@ First versioned release.
 - Nos. 14 and 24 keep both notations in `score.xml` (with `mdiv/@label`); the duplicate `score-2.xml` files are removed. The second notation of No. 24 declared the wrong staff, which made Verovio crash
 - Two mistyped figures: No. 19, bar 37, and No. 22, first example, bar 7 (raised sixths)
 - `<graphic>` gives the page image (IIIF Image API) instead of the IIIF canvas, which moves to `surface/@corresp` (#31); the unused facsimile section of the English text of No. 5, on local images not in the repository, is removed
+- In Robert Hill's lesson on No. 4, "Mit Zäsur würde das gehen" points again to the student's playing (example 7), whose ID was lost when the examples became `ptr[@type="transcription"]`; the transcription of the bass variation is no longer inside the `<ref>` to the bars it varies; one description of the student's playing named him again ("Student spielt …") after `@who`
