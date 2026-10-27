@@ -20,7 +20,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
 | `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
-| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes) |
+| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 

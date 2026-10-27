@@ -18,7 +18,9 @@ no @lry. They get the coordinates of the zone with the same xml:id in
 3/mattheson/score.xml (same @ulx/@uly), after the repair of that file.
 
 All coordinates are in the pixel space of the 2019 images, like the other
-zones; they are rescaled to the current images in a later step.
+zones; they are rescaled to the current images in a later step
+(rescale_zones.py). Run after that step, the script finds other @ulx/@uly
+and stops at the first zone without changing anything.
 
 Usage: python3 scripts/facsimile_repair/restore_zones.py [--apply]
 """

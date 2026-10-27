@@ -49,6 +49,9 @@ def main():
                 X.tag_span(text, 'zone', 'xml:id', token[1:])      # the zone must exist
             span = X.tag_span(text, 'p', 'xml:id', pid)
             tag = text[span[0]:span[1]]
+            if X.get_attr(tag, 'facs') == new:
+                print(f'{rel}: {pid} already points to {new}')
+                continue
             if X.get_attr(tag, 'facs') != old:
                 raise SystemExit(f'{rel}: {pid} has @facs {X.get_attr(tag, "facs")!r}, expected {old!r}')
             new_tag = X.add_attr(tag, 'facs', new, after='xml:id') if old is None else X.set_attr(tag, 'facs', new)
