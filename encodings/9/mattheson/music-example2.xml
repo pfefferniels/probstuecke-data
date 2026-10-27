@@ -50,16 +50,16 @@
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
-                                        <note dur="16" oct="5" pname="e" />
+                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="5" pname="c" />
-                                        <note dur="16" oct="4" pname="b" />
+                                        <note dur="16" oct="4" pname="b" accid.ges="f" />
                                         <note dur="16" oct="5" pname="c" />
                                     </beam>
                                     <beam>
                                         <note dur="16" oct="4" pname="a" accid="f" />
-                                        <note dur="16" oct="5" pname="e" />
+                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note dur="16" oct="4" pname="g" />
-                                        <note dur="16" oct="5" pname="e" />
+                                        <note dur="16" oct="5" pname="e" accid.ges="f" />
                                     </beam>
                                 </layer>
                             </staff>
@@ -212,15 +212,15 @@
                             </staff>
                             <staff n="2">
                                 <layer n="1">
-                                    <note dur="4" oct="3" pname="e" />
+                                    <note dur="4" oct="3" pname="e" accid.ges="f" />
                                     <rest dur="8" oloc="3" ploc="d" />
-                                    <note dur="8" oct="3" pname="e" />
+                                    <note dur="8" oct="3" pname="e" accid.ges="f" />
                                     <sb source="#firstEdition #secondEdition" />
                                     <note dur="4" oct="3" pname="a">
                                         <accid accid="f" />
                                     </note>
                                     <rest dur="8" oloc="3" ploc="f" />
-                                    <note dur="8" oct="3" pname="a" />
+                                    <note dur="8" oct="3" pname="a" accid.ges="f" />
                                 </layer>
                             </staff>
                             <harm place="above" staff="2" tstamp="1">

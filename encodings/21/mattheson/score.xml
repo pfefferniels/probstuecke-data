@@ -1107,7 +1107,7 @@
                 <layer n="1">
                   <beam>
                     <note xml:id="note-0000000685170152" dur="8" oct="3" pname="d" accid.ges="s" />
-                    <note xml:id="note-0000001500144441" dur="8" oct="3" pname="c" />
+                    <note xml:id="note-0000001500144441" dur="8" oct="3" pname="c" accid.ges="s" />
                     <note xml:id="note-0000002043791936" dur="8" oct="2" pname="b" />
                   </beam>
                   <note xml:id="note-0000000202057301" dur="4" oct="2" pname="a">

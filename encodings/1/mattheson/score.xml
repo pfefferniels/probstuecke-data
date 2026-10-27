@@ -2526,9 +2526,7 @@
                     <note xml:id="m-1300" dur="32" oct="2" pname="g" />
                     <note xml:id="m-1301" dur="16" oct="2" pname="a" />
                     <note xml:id="m-1302" dur="32" oct="2" pname="b">
-                      <orig>
-                        <accid accid="n" />
-                      </orig>
+                      <accid accid="n" />
                     </note>
                     <note xml:id="m-1304" dur="32" oct="3" pname="c">
                       <accid accid="s" />

@@ -59,7 +59,7 @@
                                 <layer n="2">
                                     <space dur="4" dots="1" />
                                     <chord dur="4" dots="1">
-                                        <note xml:id="ex-118" oct="4" pname="f" />
+                                        <note xml:id="ex-118" oct="4" pname="f" accid.ges="s" />
                                         <note xml:id="ex-116" oct="4" pname="d">
                                             <accid accid="s" />
                                         </note>

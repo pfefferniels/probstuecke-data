@@ -2581,7 +2581,7 @@
                                                 <syl con="d" wordpos="i">ven</syl>
                                             </verse>
                                         </note>
-                                        <note xml:id="note-2053022836" dur="8" oct="4" pname="b" />
+                                        <note xml:id="note-2053022836" dur="8" oct="4" pname="b" accid.ges="f" />
                                     </beam>
                                     <note xml:id="note-1038504155" dur="8" oct="5" pname="c">
                                         <verse xml:lang="ita" xml:id="verse-1081654634" n="1">

@@ -1530,7 +1530,7 @@
                   <note xml:id="note-0000000770169610" dur="4" oct="4" pname="c" accid.ges="s" />
                   <beam xml:id="beam-0000001690101135">
                     <note xml:id="note-0000001063459241" dur="32" oct="4" pname="c" accid.ges="s" />
-                    <note xml:id="note-0000000463324168" dur="32" oct="4" pname="c" />
+                    <note xml:id="note-0000000463324168" dur="32" oct="4" pname="c" accid.ges="s" />
                     <note xml:id="note-0000000816801746" dur="32" oct="3" pname="b" />
                     <note xml:id="note-0000001314587640" dur="32" oct="4" pname="c" accid.ges="s" />
                   </beam>

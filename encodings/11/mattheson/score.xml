@@ -317,14 +317,14 @@
                   <rest dur="4" />
                   <rest dur="16" />
                   <beam>
-                    <note dur="16" oct="5" pname="a" stem.dir="down" />
-                    <note dur="16" oct="5" pname="b" stem.dir="down" />
-                    <note dur="16" oct="5" pname="a" stem.dir="down" />
+                    <note dur="16" oct="5" pname="a" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="b" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="a" stem.dir="down" accid.ges="f" />
                   </beam>
                   <beam>
-                    <note dur="8" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                    <note dur="8" oct="5" pname="g" stem.dir="down" />
                     <note dur="16" oct="5" pname="f" stem.dir="down" />
-                    <note dur="16" oct="5" pname="e" stem.dir="down" />
+                    <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
                   </beam>
                 </layer>
               </staff>
@@ -385,14 +385,14 @@
                   <note dur="4" oct="5" pname="f" xml:id="note-1769775861" />
                   <beam>
                     <note dur="16" oct="5" pname="f" xml:id="note-1881082125" />
-                    <note dur="16" oct="5" pname="g" accid.ges="f" />
-                    <note dur="16" oct="5" pname="a" />
-                    <note dur="16" oct="5" pname="g" accid.ges="f" />
+                    <note dur="16" oct="5" pname="g" />
+                    <note dur="16" oct="5" pname="a" accid.ges="f" />
+                    <note dur="16" oct="5" pname="g" />
                   </beam>
                   <beam>
                     <note dur="8" oct="5" pname="f" stem.dir="down" />
-                    <note dur="16" oct="5" pname="e" stem.dir="down" />
-                    <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="d" stem.dir="down" />
                   </beam>
                 </layer>
               </staff>
@@ -451,16 +451,16 @@
             <measure xml:id="measure-0000001029700479" n="6">
               <staff n="1">
                 <layer n="1">
-                  <note dur="4" oct="5" pname="e" stem.dir="down" xml:id="note-1193092165" />
+                  <note dur="4" oct="5" pname="e" stem.dir="down" xml:id="note-1193092165" accid.ges="f" />
                   <beam>
-                    <note dur="16" oct="5" pname="e" stem.dir="down" xml:id="note-0802666718" />
+                    <note dur="16" oct="5" pname="e" stem.dir="down" xml:id="note-0802666718" accid.ges="f" />
                     <note dur="16" oct="5" pname="f" stem.dir="down" />
-                    <note dur="16" oct="5" pname="g" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="g" stem.dir="down" />
                     <note dur="16" oct="5" pname="f" stem.dir="down" />
                   </beam>
                   <beam>
-                    <note dur="8" oct="5" pname="e" stem.dir="down" />
-                    <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                    <note dur="8" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="d" stem.dir="down" />
                     <note dur="16" oct="5" pname="c" stem.dir="up" />
                   </beam>
                 </layer>
@@ -1115,14 +1115,14 @@
                   <rest dur="4" />
                   <rest dur="16" />
                   <beam>
-                    <note dur="16" oct="5" pname="a" />
-                    <note dur="16" oct="5" pname="b" />
-                    <note dur="16" oct="5" pname="a" />
+                    <note dur="16" oct="5" pname="a" accid.ges="f" />
+                    <note dur="16" oct="5" pname="b" accid.ges="f" />
+                    <note dur="16" oct="5" pname="a" accid.ges="f" />
                   </beam>
                   <beam>
-                    <note dur="8" oct="5" pname="g" accid.ges="f" />
+                    <note dur="8" oct="5" pname="g" />
                     <note dur="16" oct="5" pname="f" />
-                    <note dur="16" oct="5" pname="e" />
+                    <note dur="16" oct="5" pname="e" accid.ges="f" />
                   </beam>
                 </layer>
               </staff>
@@ -1199,14 +1199,14 @@
                   <note dur="4" oct="5" pname="f" xml:id="note-1769775861-2" />
                   <beam>
                     <note dur="16" oct="5" pname="f" xml:id="note-1881082125-2" />
-                    <note dur="16" oct="5" pname="g" accid.ges="f" />
-                    <note dur="16" oct="5" pname="a" />
-                    <note dur="16" oct="5" pname="g" accid.ges="f" />
+                    <note dur="16" oct="5" pname="g" />
+                    <note dur="16" oct="5" pname="a" accid.ges="f" />
+                    <note dur="16" oct="5" pname="g" />
                   </beam>
                   <beam>
                     <note dur="8" oct="5" pname="f" stem.dir="down" />
-                    <note dur="16" oct="5" pname="e" stem.dir="down" />
-                    <note dur="16" oct="5" pname="d" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="e" stem.dir="down" accid.ges="f" />
+                    <note dur="16" oct="5" pname="d" stem.dir="down" />
                   </beam>
                 </layer>
               </staff>
@@ -2079,9 +2079,9 @@
                   <rest dur="4" />
                   <rest dur="16" />
                   <beam>
-                    <note dur="16" oct="5" pname="b" />
+                    <note dur="16" oct="5" pname="b" accid.ges="f" />
                     <note dur="16" oct="6" pname="c" />
-                    <note dur="16" oct="5" pname="b" />
+                    <note dur="16" oct="5" pname="b" accid.ges="f" />
                   </beam>
                   <beam>
                     <note dur="8" oct="5" pname="a" accid.ges="f" />
@@ -2866,7 +2866,7 @@
                     <clef line="4" shape="F" />
                   </orig>
                   <beam>
-                    <note xml:id="note-0000002421310378" dur="8" oct="3" pname="b" />
+                    <note xml:id="note-0000002421310378" dur="8" oct="3" pname="b" accid.ges="f" />
                     <note xml:id="note-0000000146903277" dur="8" oct="3" pname="a">
                       <accid accid="n" />
                     </note>

@@ -152,7 +152,7 @@
                                         <note xml:id="ex-1215" oct="5" pname="d">
                                             <accid xml:id="ex-1216" accid="f" />
                                         </note>
-                                        <note xml:id="ex-1213" oct="4" pname="a" dots="0" />
+                                        <note xml:id="ex-1213" oct="4" pname="a" dots="0" accid.ges="f" />
                                         <note xml:id="ex-1212" oct="4" pname="f" dots="0" />
                                         <note xml:id="ex-1210" oct="4" pname="d" dots="0">
                                             <accid xml:id="ex-1211" accid="f" />
