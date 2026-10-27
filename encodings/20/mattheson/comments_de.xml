@@ -81,7 +81,7 @@
           <zone ulx="48" uly="1157" lry="1516" lrx="1920" xml:id="facsZone-p1-1"/>
           <zone ulx="288" uly="1490" lry="1810" lrx="1611" xml:id="facsZone-music-example1"/>
           <zone ulx="39" uly="1751" lry="1918" lrx="1932" xml:id="facsZone-p1-2"/>
-          <zone ulx="45" uly="1895" lry="439" lrx="1932" xml:id="facsZone-p2-1"/>
+          <zone ulx="45" uly="1895" lry="2251" lrx="1494" xml:id="facsZone-p2-1"/>
           <zone ulx="1473" uly="1892" lry="2221" lrx="1917" xml:id="facsZone-music-example2"/>
       </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2426" xml:id="facs-p480">

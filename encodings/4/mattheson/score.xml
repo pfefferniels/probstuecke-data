@@ -116,13 +116,13 @@
         <zone ulx="102" uly="260" lrx="1017" lry="604" xml:id="facsZone-m-1007" />
         <zone ulx="987" uly="215" lrx="1941" lry="535" xml:id="facsZone-m-1032" />
         <zone ulx="99" uly="608" lrx="984" lry="925" xml:id="facsZone-m-1032-2" />
-        <zone ulx="945" uly="602" lrx="1950" lry="1867" xml:id="facsZone-m-1090" />
+        <zone ulx="945" uly="602" lrx="1929" lry="895" xml:id="facsZone-m-1090" />
         <zone ulx="105" uly="950" lrx="855" lry="1231" xml:id="facsZone-m-1177" />
         <zone ulx="822" uly="908" lrx="1947" lry="1210" xml:id="facsZone-m-1218" />
         <zone ulx="90" uly="1250" lrx="1311" lry="1537" xml:id="facsZone-m-1284" />
         <zone ulx="1266" uly="1208" lrx="1941" lry="1561" xml:id="facsZone-m-1333" />
         <zone ulx="120" uly="1598" lrx="939" lry="1903" xml:id="facsZone-m-1333-2" />
-        <zone ulx="897" uly="1565" lrx="1868" xml:id="facsZone-m-1090-2" />
+        <zone ulx="897" uly="1565" lrx="1950" lry="1867" xml:id="facsZone-m-1090-2" />
         <zone ulx="123" uly="1892" lrx="1959" lry="2245" xml:id="facsZone-m-1411" />
       </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2416" xml:id="facs-p385">

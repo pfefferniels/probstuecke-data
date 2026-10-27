@@ -125,7 +125,7 @@
         <zone ulx="93" uly="1532" lrx="753" lry="1849" xml:id="facsZone-m-1096-2" />
         <zone ulx="714" uly="1508" lrx="1929" lry="1861" xml:id="facsZone-m-1162" />
         <zone ulx="93" uly="1820" lrx="1212" lry="2155" xml:id="facsZone-m-1198" />
-        <zone ulx="1158" uly="1865" lrx="966" lry="517" xml:id="facsZone-m-1230" />
+        <zone ulx="1158" uly="1865" lrx="1929" lry="2197" xml:id="facsZone-m-1230" />
       </surface>
       <surface ulx="0" uly="0" lrx="1998" lry="2396" xml:id="facs-p367">
         <graphic width="1998" height="2396" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/367" />
