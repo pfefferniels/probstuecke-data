@@ -142,7 +142,7 @@
           <ref target="#measure-0000001029700479">ſechſten Tact</ref>
           gienge auch wol unmaßgeblich dahin,
           <lb/>daß die Accorde und uͤberſtehende Zieffern bloß in der lincken Hand blieben, die rechte
-          <lb/>aber ein wenig dazu modulirte, etwa folgender geſtalt:
+          <lb/>aber ein wenig dazu <term xml:id="t_kantabel-2" corresp="#t_kantabel">modulirte</term>, etwa folgender geſtalt:
         </p>
         <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
           <ptr target="music-example1.xml"/>
@@ -197,7 +197,7 @@
         <p xml:id="p4-1" facs="#facsZone-p4-1">
           <lb/>Der <ref target="#measure-0000000233971040">zehnte Tact des letzten Theils</ref> will in der
           rechten Hand mit der Sext
-          <lb/>und Quinte ein ſolches Brechen haben, als die lincke im vorhergehenden
+          <lb/>und Quinte ein ſolches <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechen</term> haben, als die lincke im vorhergehenden
           gefuͤhret
           <lb/>hat.
           <ref target="#measure-0000000560025628">Jm zwoͤlfften</ref> findet es abermahl Statt.
@@ -227,7 +227,7 @@
           <ref target="#measure-0000000919086642">vier und dreyſſigſten</ref> aber biß an den
           <ref target="#measure-0000000608266780">acht und
           <lb/>dreyſſigſten</ref> kann die rechte Hand gar manierlich
-          moduliren, indem die lincke alle
+          <term xml:id="t_kantabel-1" corresp="#t_kantabel">moduliren</term>, indem die lincke alle
           <lb/>Ziefern abfertiget; und das moͤgte ohngefehr
           ſo angehen:
         </p>

@@ -120,11 +120,11 @@
       <div n="1">
         <lb/><head>§. 1.</head>
         <p xml:id="p1-1" facs="#facsZone-p1-1">
-          <lb/><hi rendition="#in">E</hi>S beſtrebet ſich zwar alles, was in der Natur iſt, nach angenehmen Ver-
-          <lb/>aͤnderungen und unaufhoͤrlichen Abwechſelungen; allein es hat wol keine
+          <lb/><hi rendition="#in">E</hi>S beſtrebet ſich zwar alles, was in der Natur iſt, nach angenehmen <term xml:id="t_veraenderung-1" corresp="#t_veraenderung">Ver-
+          <lb/>aͤnderungen</term> und unaufhoͤrlichen <term xml:id="t_abwechslung-1" corresp="#t_abwechslung">Abwechſelungen</term>; allein es hat wol keine
           <lb/>Wiſſenſchafft dieſen Umſtand in einer groͤſſern Maſſe, als eben die Muſic.
           <lb/>Ob nun die Groß-Britanniſchen hohen Schulen aus ſothaner Urſache etwa bewo-
-          <lb/>gen worden ſind, ihren Doctoren und Profeſſorn der Muſic, vor allen andern
+          <lb/>gen worden ſind, ihren <term xml:id="t_doktor_der_musik-1" corresp="#t_doktor_der_musik">Doctoren</term> und Profeſſorn der Muſic, vor allen andern
           <lb/>Graduirten, eine abſonderliche bunte, verbluͤmte oder vielfaͤrbige Joſephs-Klei-
           <lb/>dung beizulegen, will ich itzo nicht ausmachen; in unſerer Schule aber will es itzo
           <lb/>noͤthig ſeyn, mit gegenwaͤrtiger ergetzlichen Vorſchrifft eine kleine Veraͤnderung
@@ -138,7 +138,7 @@
         <p xml:id="p2-1" facs="#facsZone-p2-1 #facsZone-p2-1-2">
           <lb/>Ob man nun ſchon alles hierinn mit dem neun-achtel-Tact gantz wol haͤt-
           <lb/>te beſtellen, und nur ein <hi rendition="#aq"><foreign xml:lang="ita">Allegro</foreign></hi> dabey ſetzen koͤnnen; ſo kann es doch nicht ſcha-
-          <lb/>den, daß wir auch denen zu gefallen den neun-ſechszehntel-Tact herſetzen, die ihn viel-
+          <lb/>den, daß wir auch denen zu gefallen den <term xml:id="t_neunsechzehnteltakt-1" corresp="#t_neunsechzehnteltakt">neun-ſechszehntel-Tact</term> herſetzen, die ihn viel-
           <lb/>leicht nimmer, oder doch ſelten, geſehen haben, und ſich dannenhero, wenn er ihnen
           <lb/>einmahl unvermuthet begegnen ſolte, ein wenig fuͤrchten moͤgten. Es heiſſet zwar:
           <lb/><hi rendition="#b">Man ſoll ohne Noht die zu einer Wiſſenſchafft gehoͤrigen Dinge nicht
@@ -147,7 +147,7 @@
           <fw place="bottom" type="catch">che</fw>
           <pb n="375" facs="#facs-p437"/>
           <lb/><hi rendition="#b">che mit ſchlechten, deutlichen Noten geſchrieben werden kann, durch
-          <lb/>dunckle Zeichen zweifelhafft zu machen</hi>; wie ſolches der Schwaͤbiſch-Haͤlli-
+          <lb/>dunckle <term xml:id="t_zeichen-1" corresp="#t_zeichen">Zeichen</term> zweifelhafft zu machen</hi>; wie ſolches der Schwaͤbiſch-Haͤlli-
           <lb/>ſche <hi rendition="#aq"><foreign xml:lang="ita">Cantor</foreign></hi>, <persName corresp="#ed_esw_kxx_qlb">Herr <hi rendition="#i">Majer</hi></persName>,
           in ſeinem <hi rendition="#aq"><bibl corresp="#ed_tyg_hdl_tlb">Hodego Muſico, p. 28.</bibl></hi> kluͤglich anfuͤhret. Al-
           <lb/>lein, erſtlich muß man, um geſchwinde Sachen recht auszudrucken, auch geſchwinde
@@ -156,7 +156,7 @@
           <lb/><hi rendition="#b">wieder den Strom ſchwimmen.</hi> Und (3) werden hier keine <note place="foot" n="*" xml:id="fn-01">
             <lb/>Die Zeichen 2/4 2/8 und 2 ſind im geringſten nicht dunckel, ſondern ſehr einfach und natuͤrlich; die aber
             <lb/>meynen, man koͤnne es, Statt derſelben, mit dem gewoͤhnlichen C allein beſtellen, irren ſich,
-            <lb/>haben keine Erfahrung, und wiſſen keine Bewegung zu unterſcheiden.</note> dunckele Zei-
+            <lb/>haben keine Erfahrung, und wiſſen keine <term xml:id="t_bewegung_im_takt-1" corresp="#t_bewegung_im_takt">Bewegung</term> zu unterſcheiden.</note> dunckele Zei-
           <lb/>chen vorkommen. Die aͤuſerliche Geſtalt eines muſicaliſchen Stuͤcks iſt offt verfuͤh-
           <lb/>riſch. Denn wie mancher General-Baß leicht ausſiehet, und es doch nicht iſt; alſo
           <lb/>gibt es auch bißweilen bunte Baͤſſe, dem Anſehen nach, die doch gar nicht gefaͤhr-
@@ -223,11 +223,11 @@
           <ref target="#measure-0000000813644631">zwoͤlfften</ref> aber
           muß man ſich, und ſo durchgehends bey allen
           <lb/>Accorden, vorſehen, erſtlich, daß der Zwiſchen-Raum keine Tertz mache, welche zur
-          <lb/>Brechung zu enge iſt, wie oben ſchon angemercket worden. Fuͤrs andere, daß die
-          <lb/>dreiſtimmige Harmonia vor allen Dingen vollkommen ſey, da es denn nicht anders
+          <lb/><term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> zu enge iſt, wie oben ſchon angemercket worden. Fuͤrs andere, daß die
+          <lb/><term xml:id="t_dreiklang-1" corresp="#t_dreiklang">dreiſtimmige Harmonia</term> vor allen Dingen vollkommen ſey, da es denn nicht anders
           <lb/>folgen kann, wenn dieſe beide Stuͤcke beobachtet werden, als daß die Syncopation
           <lb/>von unten jederzeit ihre Accorden in der Quint, von oben aber in der Tertz anhebe, wel-
-          <lb/>che beide Arten man ſonſt <hi rendition="#aq"><foreign xml:lang="lat">Syzygiam remotam</foreign></hi>,
+          <lb/>che beide Arten man ſonſt <hi rendition="#aq"><foreign xml:lang="lat"><term xml:id="t_syzygia_remota-1" corresp="#t_syzygia_remota">Syzygiam remotam</term></foreign></hi>,
           <abbr>d. i.</abbr> eine ſolchen Accord, deſſen Theile
           <lb/>etwas entfernet ſind, zu nennen pfleget. Kommen aber zween Accorde Stuffen-
           <lb/>Weiſe auf einander, es ſey im Auff- oder Niederſteigen, und man wolte denn beide-

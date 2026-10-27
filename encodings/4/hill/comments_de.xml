@@ -38,375 +38,380 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-       <language ident="ger">German</language>
-       <language ident="eng">English</language>
+        <language ident="de">German</language>
+        <language ident="en">English</language>
       </langUsage>
-			<particDesc>
-				<person>
-					<persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
-				</person>
-				<person>
-					<persName>Niels Pfeffer</persName>
-				</person>
-			</particDesc>
-			<settingDesc>
-				<setting>
-					<date when-iso="2019-05-17">17 May 2019</date>
-					<name type="place">Hochschule für Musik</name>
-					<name type="city">Freiburg im Breisgau, Germany</name>
-				</setting>
-			</settingDesc>
-		</profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="rh" role="teacher">
+            <persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
+          </person>
+          <person xml:id="np" role="student">
+            <persName>Niels Pfeffer</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <setting>
+          <date when-iso="2019-05-17">17 May 2019</date>
+          <name type="place">Hochschule für Musik</name>
+          <name type="city">Freiburg im Breisgau, Germany</name>
+        </setting>
+      </settingDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>
-        <title type="full">
-          <title type="main">
-            Lesson on Prob-Stück 4
+      <div type="score">
+        <figure type="notatedMusic">
+          <head xml:lang="en">Partial realisation by Robert Hill, transcribed from the lesson</head>
+          <notatedMusic xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+
+      <div type="transcription">
+        <head>
+          <title type="full">
+            <title type="main">
+              Lesson on Prob-Stück 4
+            </title>
+            <title type="sub">
+              <name type="place">MH Freiburg</name>,
+              <date when="2019-05-17">17 May 2019</date>
+            </title>
           </title>
-          <title type="sub">
-            <name type="place">MH Freiburg</name>,
-            <date when="2019-05-17">05/17/2019</date>
-          </title>
-        </title>
-      </head>
+        </head>
 
-      <listPerson>
-        <person xml:id="rh" role="teacher">
-          <persName ref="http://d-nb.info/gnd/12461261X">Robert Hill</persName>
-        </person>
-        <person xml:id="np" role="student">
-          <persName>Niels Pfeffer</persName>
-        </person>
-      </listPerson>
+        <kinesic who="#np" type="playing" rend="hidden"><desc>spielt</desc></kinesic>
 
-      <incident who="#np" rend="hidden"><desc>spielt</desc></incident>
+        <u who="#rh">
+          Das Problem ist, dass er dieses Probstück so homogen schreibt.
+          Es gibt nicht so viele Möglichkeiten, etwas anderes zu tun, als er vorschreibt.
+          Wenn er sagt <q type="written">mit kurzen Schlägen</q>,
+          mach es wirklich kurz.
+          <q type="written">Ungebrochen</q> heißt <q type="soCalled">unverziert</q>,
+          denke ich, aber
+          auf jeden Fall mehr in diese Richtung als in die andere.
 
-      <u who="#rh">
-        Das Problem ist, dass er dieses Probstück so homogen schreibt.
-        Es gibt nicht so viele Möglichkeiten, etwas anderes zu tun, als er vorschreibt.
-        Wenn er sagt <q type="written">mit kurzen Schlägen</q>,
-        mach es wirklich kurz.
-        <q type="written">Ungebrochen</q> heißt <q type="soCalled">unverziert</q>,
-        denke ich, aber
-        auf jeden Fall mehr in diese Richtung als in die andere.
+          Ich würde es auch nicht arpeggieren. Wie voll ist <q type="written">voll</q>?
+        </u>
 
-        Ich würde es auch nicht arpeggieren. Wie voll ist <q type="written">voll</q>?
-      </u>
+        <u who="#rh">
+          Kannst du es so spielen, dass es noch mehr klingt wie ein Barockorchester so etwas tun würde?
+          Es scheint mir sehr orchesterhaft zu sein, wie der Anfang eines italienischen Concerto.
+        </u>
 
-      <u who="#rh">
-        Kannst du es so spielen, dass es noch mehr klingt wie ein Barockorchester so etwas tun würde?
-        Es scheint mir sehr orchesterhaft zu sein, wie der Anfang eines italienischen Concerto.
-      </u>
-
-      <u who="#rh">
-        Ich würde auch nicht in eine tiefere Lage gehen.
-      </u>
-
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt Takt 1
-
-          <ptr type="audio" mimeType="audio/ogg" target="example1.ogg" />
-        </desc>
-      </kinesic>
-
-      <u who="#rh">
-        Also was ich jetzt hier tue, ist –
+        <u who="#rh">
+          Ich würde auch nicht in eine tiefere Lage gehen.
+        </u>
 
         <kinesic who="#rh" type="playing">
           <desc>
-            spielt die <ref target="#m1-001 #m1-002 #m1-003 #m1-004">ersten zwei Akkorde mit etwas übergehaltenen Außenstimmen.</ref>
+            spielt Takt 1
 
-            <ptr type="audio" mimeType="audio/ogg" target="example2.ogg" />
+            <ptr type="audio" mimeType="audio/ogg" target="example1.ogg" />
           </desc>
         </kinesic>
 
-        – sodass die Außenstimmen länger resonieren können.
-      </u>
+        <u who="#rh">
+          Also was ich jetzt hier tue, ist –
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt Takte 1–3. <ref target="#tempo-001">Takt 2 im ritardando</ref>, <ref target="#tempo-002">Takt 3 a tempo</ref>.
+          <kinesic who="#rh" type="playing">
+            <desc>
+              spielt die <ref target="#m1-001 #m1-002 #m1-003 #m1-004">ersten zwei Akkorde mit etwas übergehaltenen Außenstimmen.</ref>
 
-          <ptr type="audio" mimeType="audio/ogg" target="example2-1.ogg" />
-          <ptr type="transcription" target="example2-1.xml" />
-        </desc>
-      </kinesic>
+              <ptr type="audio" mimeType="audio/ogg" target="example2.ogg" />
+            </desc>
+          </kinesic>
 
-      <u who="#rh">
-        Die <ref target="#m2-001 #m2-002">Akkordangebung am Anfang vom zweiten Takt</ref> würde ich
-        etwas weicher gestalten, sodass es
-        den Charakter schon wechselt.
+          – sodass die Außenstimmen länger resonieren können.
+        </u>
 
-        Das dürfte eher in seinem Sinne sein, als tiefer und dicker zu spielen.
-      </u>
-
-      <u who="#rh">
-        Jetzt zu <ref target="#m3">Takt 3</ref>.
-
-        Ich finde das Problem liegt darin, wie man den Akkorden und dem Akkordsatz
-        einen besonderen Charakter geben kann.
-        <q type="written">Verlangt einen besonderen Diskant</q>. Was will er damit sagen?
-        Ich gehe davon aus, dass das
-        <q type="written">so stark wie möglich</q>
-        als Kontrast zum
-        <q type="written">besonderen Diskant</q>
-        gedacht ist.
-        Kannst du ab Takt 3 nur die rechte Hand spielen?
-      </u>
-
-      <kinesic who="#np" type="playing">
-        <desc>
-          Student spielt nur mit rechter Hand.
-        </desc>
-      </kinesic>
-
-      <u who="#rh">
-        Und wenn das etwas mehr einen sostenuto-Charakter hätte? Und tanzender und
-        etwas mehr aus dem 12/8 herausholend?
-
-        <kinesic who="#rh" type="playing">
-          <desc>spielt T. 3 erstes Viertel</desc>
-        </kinesic>
-
-        <kinesic who="#rh" type="playing">
-          <desc>spielt T. 3 erstes Viertel erneut, <ref target="#m3-001 #m3-002">e-fis</ref> überlegato</desc>
-        </kinesic>
-        <kinesic who="#rh" type="playing">
-          <desc>spielt T. 3 erstes Viertel in Oktaven.</desc>
-        </kinesic>
         <kinesic who="#rh" type="playing">
           <desc>
-            spielt erneut T. 3 erste zwei Viertel in Oktaven,
-            verdoppelte Noten wie z.B.
-            <ref target="#m3-000 #m3-001">e-e</ref> und
-            <ref target="#m3-003 #m3-004">d-d</ref> legato,
-            quantitativer Akzent <ref target="#m3-005 #m3-006">auf den höchsten Tönen</ref>
-            und agogischer Verkürzung der <ref target="#m3-007 #m3-008 #m3-009 #m3-010">32stel-Noten</ref>.
+            spielt Takte 1–3. <ref target="#tempo-001">Takt 2 im ritardando</ref>, <ref target="#tempo-002">Takt 3 a tempo</ref>.
 
-            <ptr type="audio" mimeType="audio/ogg" target="example3.ogg"/>
+            <ptr type="audio" mimeType="audio/ogg" target="example2-1.ogg" />
+            <ptr type="transcription" target="example2-1.xml" />
           </desc>
         </kinesic>
-      </u>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt mit gleicher agogischer Gestalt nur linke Hand.
-        </desc>
-      </kinesic>
+        <u who="#rh">
+          Die <ref target="#m2-001 #m2-002">Akkordangebung am Anfang vom zweiten Takt</ref> würde ich
+          etwas weicher gestalten, sodass es
+          den Charakter schon wechselt.
 
-      <u who="#rh" trans="latching">
-        Etwas gesanglichlicher.
-      </u>
+          Das dürfte eher in seinem Sinne sein, als tiefer und dicker zu spielen.
+        </u>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          <ref target="#m3 #m4">spielt ab T. 3 zunächst nur linke Hand,
-            dann mit rechter Hand jeden Akkord arpeggiando bis T. 4 Mitte</ref>.
+        <u who="#rh">
+          Jetzt zu <ref target="#m3">Takt 3</ref>.
 
-          <ptr type="transcription" target="example4.xml" />
-          <ptr type="audio" mimeType="audio/ogg" target="example4.ogg" />
-        </desc>
-      </kinesic>
+          Ich finde das Problem liegt darin, wie man den Akkorden und dem Akkordsatz
+          einen besonderen Charakter geben kann.
+          <q type="written">Verlangt einen besonderen Diskant</q>. Was will er damit sagen?
+          Ich gehe davon aus, dass das
+          <q type="written">so stark wie möglich</q>
+          als Kontrast zum
+          <q type="written">besonderen Diskant</q>
+          gedacht ist.
+          Kannst du ab Takt 3 nur die rechte Hand spielen?
+        </u>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt <ref target="#m4-000 #m4-001">T. 4 zweite Hälfte</ref>.
+        <kinesic who="#np" type="playing">
+          <desc>
+            spielt nur mit rechter Hand.
+          </desc>
+        </kinesic>
 
-          <ptr type="transcription" target="example5.xml" />
-        </desc>
-      </kinesic>
+        <u who="#rh">
+          Und wenn das etwas mehr einen sostenuto-Charakter hätte? Und tanzender und
+          etwas mehr aus dem 12/8 herausholend?
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt erneut T. 3, nur rechte Hand, arpeggiando.
-        </desc>
-      </kinesic>
+          <kinesic who="#rh" type="playing">
+            <desc>spielt T. 3 erstes Viertel</desc>
+          </kinesic>
 
-      <u who="#rh">Es klingt noch zu laut.</u>
+          <kinesic who="#rh" type="playing">
+            <desc>spielt T. 3 erstes Viertel erneut, <ref target="#m3-001 #m3-002">e-fis</ref> überlegato</desc>
+          </kinesic>
+          <kinesic who="#rh" type="playing">
+            <desc>spielt T. 3 erstes Viertel in Oktaven.</desc>
+          </kinesic>
+          <kinesic who="#rh" type="playing">
+            <desc>
+              spielt erneut T. 3 erste zwei Viertel in Oktaven,
+              verdoppelte Noten wie z.B.
+              <ref target="#m3-000 #m3-001">e-e</ref> und
+              <ref target="#m3-003 #m3-004">d-d</ref> legato,
+              quantitativer Akzent <ref target="#m3-005 #m3-006">auf den höchsten Tönen</ref>
+              und agogischer Verkürzung der <ref target="#m3-007 #m3-008 #m3-009 #m3-010">32stel-Noten</ref>.
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt T. 3 nur rechte Hand mit mehr Bindungen:
-          <ptr type="transcription" target="example6.xml" />
-          <ptr type="audio" mimeType="audio/ogg" target="example6.ogg" />
-        </desc>
-      </kinesic>
+              <ptr type="audio" mimeType="audio/ogg" target="example3.ogg"/>
+            </desc>
+          </kinesic>
+        </u>
 
-      <u who="#rh">So klingt es lieblicher.</u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt mit gleicher agogischer Gestalt nur linke Hand.
+          </desc>
+        </kinesic>
 
-      <kinesic who="#rh" type="playing">
-        <desc>spielt</desc>
-      </kinesic>
+        <u who="#rh" trans="latching">
+          Etwas gesanglichlicher.
+        </u>
 
-      <u who="#rh">
-        Und wie ist die harmonische Verbindung zwischen
-        <ref target="#m5-000">hier</ref>
-        und <ref target="#m-250 #m-251">da</ref>?
-      </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            <ref target="#m3 #m4">spielt ab T. 3 zunächst nur linke Hand,
+              dann mit rechter Hand jeden Akkord arpeggiando bis T. 4 Mitte</ref>.
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt eine Partimentoreduktion
-        </desc>
-      </kinesic>
+            <ptr type="transcription" target="example4.xml" />
+            <ptr type="audio" mimeType="audio/ogg" target="example4.ogg" />
+          </desc>
+        </kinesic>
 
-      <u who="#rh">
-        Man darf nicht das <ref target="#m-253">d</ref>, sondern muss das <ref target="#m-254">c</ref> als Instanz nehmen.
-      </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt <ref target="#m4-000 #m4-001">T. 4 zweite Hälfte</ref>.
 
-      <kinesic who="#rh" type="playing">
-        <desc>spielt Übergang von Takt 5 auf 6.</desc>
-      </kinesic>
+            <ptr type="transcription" target="example5.xml" />
+          </desc>
+        </kinesic>
 
-      <kinesic who="#np" type="playing">
-        <desc>
-          spielt erneut den Übergang, aber Takt 6 harmonisch verändert:
-          <ptr type="transcription" target="example7.xml" />
-        </desc>
-      </kinesic>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt erneut T. 3, nur rechte Hand, arpeggiando.
+          </desc>
+        </kinesic>
 
-      <u who="#rh">
-        Mit Zäsur würde <ref target="#example7">das</ref> gehen.
-      </u>
+        <u who="#rh">Es klingt noch zu laut.</u>
 
-      <u who="#rh">
-        Es ist besser, wenn du <ref target="#m-251">hier</ref> aus dem Obermanual zurückkommst,
-         dann ist es plausibler.
-      </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt T. 3 nur rechte Hand mit mehr Bindungen:
+            <ptr type="transcription" target="example6.xml" />
+            <ptr type="audio" mimeType="audio/ogg" target="example6.ogg" />
+          </desc>
+        </kinesic>
 
-      <u who="#np">Und an der Stelle:</u>
+        <u who="#rh">So klingt es lieblicher.</u>
 
-      <kinesic who="#np" type="playing">
-        <desc>wechselt <ref target="#m-298">auf der 1 von Takt 7</ref> ins Obermanual.</desc>
-      </kinesic>
+        <kinesic who="#rh" type="playing">
+          <desc>spielt</desc>
+        </kinesic>
 
-      <u who="#rh">
-        Ich würde das in den Bass nehmen,
-        weil es so häufig in dieser  Lage gewesen ist.
-      </u>
+        <u who="#rh">
+          Und wie ist die harmonische Verbindung zwischen
+          <ref target="#m5-000">hier</ref>
+          und <ref target="#m-250 #m-251">da</ref>?
+        </u>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt <ref target="#m-327">Takt 8</ref> und nimmt die von Mattheson vorgesehene
-          Figuration in den Bass:
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt eine Partimentoreduktion
+          </desc>
+        </kinesic>
 
-          <ptr type="transcription" target="example8.xml" />
-        </desc>
-      </kinesic>
+        <u who="#rh">
+          Man darf nicht das <ref target="#m-253">d</ref>, sondern muss das <ref target="#m-254">c</ref> als Instanz nehmen.
+        </u>
 
-      <u who="#rh">
-        Kennst du das Prelude der aus B-Dur-Suite von
-          <persName corresp="#ed_lhv_3sx_qlb">Händel</persName>?
-      </u>
+        <kinesic who="#rh" type="playing">
+          <desc>spielt Übergang von Takt 5 auf 6.</desc>
+        </kinesic>
 
-      <kinesic who="#rh" type="playing">
-        <desc>spielt den Anfang des B-Dur-Preludes</desc>
-      </kinesic>
+        <kinesic who="#np" type="playing">
+          <desc>
+            spielt erneut den Übergang, aber Takt 6 harmonisch verändert:
+            <ptr type="transcription" target="example7.xml" xml:id="example7" />
+          </desc>
+        </kinesic>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt <ref target="#m10">T. 10.</ref>
+        <u who="#rh">
+          Mit Zäsur würde <ref target="#example7">das</ref> gehen.
+        </u>
 
-          <ptr type="transcription" target="example10.xml" />
-          <ptr type="audio" mimeType="audio/ogg" target="example10.ogg" />
-        </desc>
-      </kinesic>
+        <u who="#rh">
+          Es ist besser, wenn du <ref target="#m-251">hier</ref> aus dem Obermanual zurückkommst,
+           dann ist es plausibler.
+        </u>
 
-      <kinesic who="#np" type="playing">
-        <desc>spielt bis T. 12</desc>
-      </kinesic>
-      <u who="#rh">
-        Und dann <ref target="#m12">hier</ref> die rechte Hand eine Oktave tiefer, während die linke Hand bleibt. Die rechte
-        Hand also als tiefe Solostimme gedacht.
-      </u>
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt ab <ref target="#m12">T. 12</ref> auf zwei Manualen:
-          <ptr type="transcription" target="example11.xml" />
-        </desc>
-      </kinesic>
+        <u who="#np">Und an der Stelle:</u>
 
-      <incident who="#rh">
-        <desc><ref target="#m-637">spielt T. 14 Schlag 4</ref> auf Obermanual als Echo.</desc>
-      </incident>
+        <kinesic who="#np" type="playing">
+          <desc>wechselt <ref target="#m-298">auf der 1 von Takt 7</ref> ins Obermanual.</desc>
+        </kinesic>
+
+        <u who="#rh">
+          Ich würde das in den Bass nehmen,
+          weil es so häufig in dieser  Lage gewesen ist.
+        </u>
+
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt <ref target="#m-327">Takt 8</ref> und nimmt die von Mattheson vorgesehene
+            Figuration in den Bass:
+
+            <ptr type="transcription" target="example8.xml" />
+          </desc>
+        </kinesic>
+
+        <u who="#rh">
+          Kennst du das Prelude der aus B-Dur-Suite von
+            <persName corresp="#ed_lhv_3sx_qlb">Händel</persName>?
+        </u>
+
+        <kinesic who="#rh" type="playing">
+          <desc>spielt den Anfang des B-Dur-Preludes</desc>
+        </kinesic>
+
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt <ref target="#m10">T. 10.</ref>
+
+            <ptr type="transcription" target="example10.xml" />
+            <ptr type="audio" mimeType="audio/ogg" target="example10.ogg" />
+          </desc>
+        </kinesic>
+
+        <kinesic who="#np" type="playing">
+          <desc>spielt bis T. 12</desc>
+        </kinesic>
+        <u who="#rh">
+          Und dann <ref target="#m12">hier</ref> die rechte Hand eine Oktave tiefer, während die linke Hand bleibt. Die rechte
+          Hand also als tiefe Solostimme gedacht.
+        </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt ab <ref target="#m12">T. 12</ref> auf zwei Manualen:
+            <ptr type="transcription" target="example11.xml" />
+          </desc>
+        </kinesic>
+
+        <kinesic who="#rh" type="playing">
+          <desc><ref target="#m-637">spielt T. 14 Schlag 4</ref> auf Obermanual als Echo.</desc>
+        </kinesic>
 
 
-      <u who="#rh">
-        <foreign xml:lang="eng">
-          I think, the more you take it as a sketch, the happier you'll be. Apparently because
-          it's just too crude, it's not worked out, it's not even an attempt to really
-          work it out.
-          You could say it's a set of ideas, and he writes them down and he does not
-          really care what you do with them, as long as it
-          is in the <distinct xml:lang="ger">Sinne</distinct> of the piece which is –
-          it is a platform of your imagination. I think the more you look at it like that the
-          happier you'll be.
-        </foreign>
-      </u>
+        <u who="#rh">
+          <foreign xml:lang="en">
+            I think, the more you take it as a sketch, the happier you'll be. Apparently because
+            it's just too crude, it's not worked out, it's not even an attempt to really
+            work it out.
+            You could say it's a set of ideas, and he writes them down and he does not
+            really care what you do with them, as long as it
+            is in the <distinct xml:lang="de">Sinne</distinct> of the piece which is –
+            it is a platform of your imagination. I think the more you look at it like that the
+            happier you'll be.
+          </foreign>
+        </u>
 
-      <u who="#rh">
-        Here are arpeggios <gap reason='inaudible' />
-      </u>
-      <incident who="#rh">
-        <desc>
-          spielt <ref target="#m21 #m22">T. 21f.</ref>, ab
-          <ref target="#ex9-001">G</ref> auf Obermanual:
-          <ptr type="transcription" target="example9.xml" />
-        </desc>
-      </incident>
+        <u who="#rh">
+          Here are arpeggios <gap reason='inaudible' />
+        </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt <ref target="#m21 #m22">T. 21f.</ref>, ab
+            <ref target="#ex9-001">G</ref> auf Obermanual:
+            <ptr type="transcription" target="example9.xml" />
+          </desc>
+        </kinesic>
 
-      <incident who="#np">
-        <desc>spielt T. 21–24</desc>
-      </incident>
+        <kinesic who="#np" type="playing">
+          <desc>spielt T. 21–24</desc>
+        </kinesic>
 
-      <u who="#rh">
-        Vielleicht
-        das hier laut und das leise?
-        Dass also die rechte Hand oben ist
-        an <ref target="#m-1032">dieser Stelle</ref>.
-        Und etwas Vergleichbares hier. Das hier unten, <ref target="#m-1007">das</ref> oben.
-      </u>
+        <u who="#rh">
+          Vielleicht
+          das hier laut und das leise?
+          Dass also die rechte Hand oben ist
+          an <ref target="#m-1032">dieser Stelle</ref>.
+          Und etwas Vergleichbares hier. Das hier unten, <ref target="#m-1007">das</ref> oben.
+        </u>
 
-      <kinesic who="#rh" type="playing">
-        <desc>
-          spielt in T. 23 linke Hand auf Ober- und rechte Hand auf Untermanual
-          und in T. 24 umgekehrt.
-        </desc>
-      </kinesic>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt in T. 23 linke Hand auf Ober- und rechte Hand auf Untermanual
+            und in T. 24 umgekehrt.
+          </desc>
+        </kinesic>
 
-      <u who="#rh">
-        <ref target="#m-1114 #m-1115 #m-1179 #m-1180">Das</ref> ist die Variation auf
-        diesen ersten Anfang. Vielleicht muss man
-        die linke Hand immer noch ein bisschen "trocken" spielen.
-      </u>
-      <incident who="#np">
-        <desc>spielt ab T. 25 Mitte linke Hand mit "trockenen" Arpeggi.</desc>
-      </incident>
+        <u who="#rh">
+          <ref target="#m-1114 #m-1115 #m-1179 #m-1180">Das</ref> ist die Variation auf
+          diesen ersten Anfang. Vielleicht muss man
+          die linke Hand immer noch ein bisschen "trocken" spielen.
+        </u>
+        <kinesic who="#np" type="playing">
+          <desc>spielt ab T. 25 Mitte linke Hand mit "trockenen" Arpeggi.</desc>
+        </kinesic>
 
-      <u who="#rh">
-        Ich habe überlegt, ob mittlerweile
-        bei dieser Stelle die linke Hand nicht umgeschrieben
-        werden könnte, weil es so häufig wiederholt wird.
-      </u>
-      <kinesic who="#rh" type="playing">
-        <desc>spielt <ref target="#m26-000 #m26-001 #m27-000 #m27-001">ab T. 26 Mitte mit Bassvariation:
-          <ptr type="transcription" target="example12.xml" />
-          <note type="editorial" resp="#pfeffer">
-          Die folgende Figuration wurde in den Noten leicht angepasst,
-          um in den 12/8-Takt zu passen.
-        </note></ref>
-        </desc>
-      </kinesic>
+        <u who="#rh">
+          Ich habe überlegt, ob mittlerweile
+          bei dieser Stelle die linke Hand nicht umgeschrieben
+          werden könnte, weil es so häufig wiederholt wird.
+        </u>
+        <kinesic who="#rh" type="playing">
+          <desc>
+            spielt <ref target="#m26-000 #m26-001 #m27-000 #m27-001">ab T. 26 Mitte mit Bassvariation:
+              <note type="editorial" resp="#pfeffer">
+                Die folgende Figuration wurde in den Noten leicht angepasst,
+                um in den 12/8-Takt zu passen.
+              </note></ref>
+            <ptr type="transcription" target="example12.xml" />
+          </desc>
+        </kinesic>
 
-      <u who="#rh">
-        <foreign xml:lang="eng">Something that seems to have another variation character on the bass and
-        also sustains this basic idea of a singing.
-        It is actually quite</foreign> lieblich.
-        Nicht so grob und schroff, sondern freundlicher.
-      </u>
+        <u who="#rh">
+          <foreign xml:lang="en">Something that seems to have another variation character on the bass and
+          also sustains this basic idea of a singing.
+          It is actually quite</foreign> lieblich.
+          Nicht so grob und schroff, sondern freundlicher.
+        </u>
+      </div>
     </body>
   </text>
 </TEI>

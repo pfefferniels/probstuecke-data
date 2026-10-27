@@ -13,7 +13,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/<n>/mattheson/comments_de.xml` | Mattheson's commentary in the 1731 print (TEI, DTA Base Format) |
 | `encodings/<n>/mattheson/comments_en.xml` | English translation of the 1731 commentary (TEI) |
 | `encodings/<n>/mattheson/music-example*.xml` | Music examples within the commentary (MEI) |
-| `encodings/<n>/<name>/` | Lessons and realisations by other musicians, with their own scores and notes |
+| `encodings/<n>/<name>/` | Lessons and realisations by other musicians: the transcription of a lesson or notes on a realisation (TEI), its score and music examples (MEI) and audio recordings |
 | `encodings/works.xml` | List of works and their expressions (MEI `workList`); drives the website's overview |
 | `encodings/indices/` | Indices of persons, literature, musical works and terms (TEI); the index of terms (`terms.xml`) is based on Mattheson's Register |
 | `encodings/register/register_1731.xml` | Mattheson's Register of the 1731 print (pp. 465–482), transcribed (TEI, DTA Base Format) |
