@@ -111,10 +111,12 @@
           described in the <ref target="/guidelines/">editorial guidelines</ref>.
         </p>
         <p>
-          For easier reading, the website shows the 1719 and 1731 commentaries in modernised spelling. The modernisation
-          is produced automatically by CAB, the normalisation service of the Deutsches Textarchiv, and has not been
-          checked word by word. Point at a word to see its original spelling. The diplomatic transcription itself is
-          contained in the TEI files, which can be downloaded from every page.
+          For easier reading, the website shows the 1719 and 1731 commentaries in modernised spelling. The modern forms
+          come from a word list kept with the data (<ref target="https://github.com/pfefferniels/probstuecke-data/tree/main/normalisation">normalisation/lexicon.tsv</ref>);
+          words not listed only get the long s and the umlauts in modern form. Names and foreign words keep their
+          spelling. The word list was started from the normalisation service CAB of the Deutsches Textarchiv and is
+          being reviewed; not every entry has been checked yet. Point at a word to see its original spelling. The
+          diplomatic transcription itself is contained in the TEI files, which can be downloaded from every page.
         </p>
       </div>
 
@@ -140,7 +142,8 @@
           <item>Page images: Bayerische Staatsbibliothek, Munich.</item>
           <item>
             Software: <ref target="https://www.verovio.org/">Verovio</ref> for music notation,
-            <ref target="https://www.deutschestextarchiv.de/doku/software#cab">CAB</ref> for spelling modernisation,
+            <ref target="https://www.deutschestextarchiv.de/doku/software#cab">CAB</ref> for the first version of the
+            normalisation word list,
             <ref target="https://pagefind.app/">Pagefind</ref> for search.
           </item>
         </list>

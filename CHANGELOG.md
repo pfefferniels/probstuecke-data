@@ -15,6 +15,7 @@ First versioned release.
 - `encodings/about/about_en.xml`: description of the edition, its sources, selection, editorial approach, credits and licences
 - Publisher and CC BY 4.0 licence statements in the index files
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
+- `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 
 ### Fixed
 
@@ -29,3 +30,4 @@ First versioned release.
 - Name order of Aristoxenus and Benedetto Marcello in the indices
 - 57 broken pointers: `@facs` to undefined zones (1719 texts now point to the page where no zone exists), and `ref/@target` to IDs from older versions of the scores or without `#`
 - Wrong staff numbers in the score of Probstück 19 and in the fourth music example of Probstück 21, which made Verovio crash and broke all pages of both pieces
+- In the 1719 text of Probstück 12, "ſonſt" was encoded with combining e instead of ſ
