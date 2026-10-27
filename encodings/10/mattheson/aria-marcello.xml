@@ -91,6 +91,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section xml:id="section-1262235770">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="4f" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <pb source="#firstEdition" n="154" />
                         <pb source="#secondEdition" n="356" facs="#facs-p418" />
                         <measure xml:id="measure-0685332484" metcon="false">

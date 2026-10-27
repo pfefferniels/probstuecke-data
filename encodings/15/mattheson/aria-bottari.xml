@@ -77,6 +77,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="2f" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <sb source="#firstEdition #secondEdition" />
                         <measure xml:id="measure-0000001822460048" n="1">
                             <staff xml:id="staff-0000001633302891" n="1">

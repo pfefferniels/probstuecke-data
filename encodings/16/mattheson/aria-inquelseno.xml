@@ -74,6 +74,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="4s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <pb source="#firstEdition" n="190" />
                         <pb source="#secondEdition" n="396" />
                         <measure xml:id="measure-0000000239654491" n="1">

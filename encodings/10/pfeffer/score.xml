@@ -76,6 +76,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="4f" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">

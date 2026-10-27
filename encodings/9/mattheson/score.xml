@@ -10,7 +10,7 @@
         </composer>
         <respStmt>
           <resp>Edited by</resp>
-          <persName role="editor">Niels Pfeffer</persName>
+          <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
           <persName role="editor" xml:id="rettinghaus">Klaus Rettinghaus</persName>
         </respStmt>
       </titleStmt>
@@ -162,6 +162,14 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <choice>
+              <orig />
+              <reg resp="#pfeffer">
+                <scoreDef>
+                  <keySig sig="3f" />
+                </scoreDef>
+              </reg>
+            </choice>
             <pb n="346" source="#secondEdition" facs="#facs-p408" />
             <pb n="144" source="#firstEdition" facs="#facs-p318" />
             <measure xml:id="m-35" metcon="false">

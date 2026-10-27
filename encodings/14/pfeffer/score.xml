@@ -65,6 +65,14 @@
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-0000001676453731">
+                  <choice>
+                     <orig />
+                     <reg resp="#pfeffer">
+                        <scoreDef>
+                           <keySig sig="6f" />
+                        </scoreDef>
+                     </reg>
+                  </choice>
                   <measure xml:id="measure-0000001620153983" n="1">
                      <staff xml:id="staff-0000000935625177" n="1">
                         <layer xml:id="layer-0000000553554597" n="1">

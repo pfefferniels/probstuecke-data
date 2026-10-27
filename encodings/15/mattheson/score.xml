@@ -187,6 +187,14 @@
             </staffGrp>
           </scoreDef>
           <section>
+            <choice>
+              <orig />
+              <reg resp="#pfeffer">
+                <scoreDef>
+                  <keySig sig="5f" />
+                </scoreDef>
+              </reg>
+            </choice>
             <pb n="382" source="#secondEdition" facs="#facs-p444" />
             <pb n="178" source="#firstEdition" facs="#facs-p398" />
             <measure xml:id="measure-0000000308092062" metcon="false">

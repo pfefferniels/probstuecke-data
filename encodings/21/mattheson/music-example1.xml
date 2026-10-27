@@ -40,6 +40,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="5s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure xml:id="measure-0000000106362395" n="1">
                             <staff n="1">
                                 <layer n="1">

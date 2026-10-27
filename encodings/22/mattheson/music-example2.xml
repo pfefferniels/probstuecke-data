@@ -45,6 +45,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="6s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure metcon="false">
                             <staff n="1">
                                 <layer n="1">

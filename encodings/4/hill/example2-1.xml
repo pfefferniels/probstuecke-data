@@ -6,7 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title></title>
-                <respStmt />
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <persName role="editor" xml:id="pfeffer">Niels Pfeffer</persName>
+                </respStmt>
             </titleStmt>
             <pubStmt>
               <respStmt>
@@ -44,6 +47,14 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <keySig sig="1s" />
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <measure n="1">
                             <staff n="1">
                                 <layer n="1">
