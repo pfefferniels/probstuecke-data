@@ -134,12 +134,15 @@
                 <moduleRef key="drama" include="actor castGroup castItem castList role roleDesc spGrp"/>
                 <!-- customization: added notatedMusic -->
                 <moduleRef key="figures" include="cell figure formula notatedMusic row table"/>
+                <!-- customization: added g for music symbols (SMuFL code points) in the running text -->
+                <moduleRef key="gaiji" include="g"/>
                 <moduleRef key="linking" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
                 <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository typeDesc"/>
                 <moduleRef key="namesdates" include="addName country forename genName nameLink orgName persName placeName roleName surname"/>
                 <moduleRef key="textcrit" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
                 <!-- customization: added facsimile, surface and zone -->
-                <moduleRef key="transcr" include="facsimile surface zone fw metamark space subst supplied"/>
+                <!-- customization: added surplus for words repeated by mistake in the print -->
+                <moduleRef key="transcr" include="facsimile surface zone fw metamark space subst supplied surplus"/>
 
                 <classSpec ident="att.breaking" module="tei" mode="delete" type="atts"/>
                 <classSpec ident="att.canonical" module="tei" mode="change" type="atts">
@@ -443,6 +446,8 @@
                        <attDef ident="sameAs" mode="delete"/>
                        <attDef ident="cert" mode="delete"/>
                        <attDef ident="resp" mode="delete"/>
+                       <!-- customization: index links use @corresp (see persName, name), not @ref -->
+                       <attDef ident="ref" mode="delete"/>
                     </attList>
                </elementSpec>
                <elementSpec ident="body" module="textstructure" mode="change">
@@ -675,6 +680,8 @@
                                <valItem ident="index"><desc>Verzeichnis</desc></valItem>
                                <valItem ident="poem"><desc>Gedicht</desc></valItem>
                                <valItem ident="scene"><desc>Szene im Drama</desc></valItem>
+                               <!-- customization: add score -->
+                               <valItem ident="score"><desc>Notentext des Prob-Stücks (head und notatedMusic, das auf die MEI-Codierung verweist)</desc></valItem>
                                <!-- Level 3 -->
                                <valItem ident="chapter"><desc>(Level 3:) Kapitel</desc></valItem>
                                <valItem ident="diaryEntry"><desc>(Level 3:) Tagebucheintrag</desc></valItem>
@@ -942,6 +949,22 @@
                        <attDef ident="cert" mode="delete"/>
                        <attDef ident="resp" mode="delete"/>
                        <attDef ident="rend" mode="delete"/>
+                   </attList>
+               </elementSpec>
+               <!-- customization: g (added above) carries a music symbol as a SMuFL code point -->
+               <elementSpec ident="g" module="gaiji" mode="change">
+                   <attList>
+                       <attDef ident="type" mode="change" usage="req">
+                           <valList type="closed" mode="replace">
+                               <valItem ident="smufl"><desc>Zeichen aus dem Private-Use-Bereich der Standard Music Font Layout (SMuFL)</desc></valItem>
+                           </valList>
+                       </attDef>
+                       <attDef ident="subtype" mode="delete"/>
+                       <attDef ident="n" mode="delete"/>
+                       <attDef ident="facs" mode="delete"/>
+                       <attDef ident="sameAs" mode="delete"/>
+                       <attDef ident="cert" mode="delete"/>
+                       <attDef ident="resp" mode="delete"/>
                    </attList>
                </elementSpec>
                <elementSpec ident="head" module="core" mode="change">
@@ -1250,7 +1273,9 @@
                </elementSpec>
                <elementSpec ident="pb" module="core" mode="change">
                    <attList>
-                       <attDef ident="facs" mode="change" usage="req"/>
+                       <!-- customization: recommend (instead of require) facs, since not every
+                            page break is linked to a facsimile page -->
+                       <attDef ident="facs" mode="change" usage="rec"/>
                        <attDef ident="type" mode="delete"/>
                        <attDef ident="subtype" mode="delete"/>
                        <attDef ident="ed" mode="delete"/>
@@ -1580,11 +1605,9 @@
                        <attDef ident="next" mode="delete"/>
                        <attDef ident="corresp" mode="delete"/>
                        <attDef ident="sameAs" mode="delete"/>
-                       <attDef ident="xml:id" mode="change" usage="opt">
-                           <valList type="closed" mode="replace">
-                               <valItem ident="dtabf"><desc>DTA-Basisformat; notwendig für die Verwendung des DTA-oXygen-Frameworks DTAoX</desc></valItem>
-                           </valList>
-                       </attDef>
+                       <!-- customization: xml:id holds the expression ID (e.g. ps1-002) by which the
+                            website and encodings/works.xml identify the text; the DTABf restricts it to "dtabf" -->
+                       <attDef ident="xml:id" mode="change" usage="opt"/>
                        <attDef ident="rend" mode="delete"/>
                        <attDef ident="cert" mode="delete"/>
                        <attDef ident="resp" mode="delete"/>

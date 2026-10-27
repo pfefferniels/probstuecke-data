@@ -100,6 +100,8 @@
           <moduleRef key="namesdates" except="birth death faith floruit"/>
           <moduleRef key="linking" except="ab"/>
           <moduleRef key="corpus" except="derivation factuality"/>
+          <!-- music examples played in the lesson, pointing to their MEI encoding -->
+          <moduleRef key="figures" include="notatedMusic"/>
           <elementSpec ident="foreign" mode="change">
             <attList>
               <attDef ident="xml:lang" mode="change" usage="req"/>
@@ -133,7 +135,8 @@
           </elementSpec>
           <elementSpec ident="person" mode="change">
             <attList>
-              <attDef ident="role" mode="change" usage="req">
+              <!-- recommended, not required: the participants in particDesc are listed without a role -->
+              <attDef ident="role" mode="change" usage="rec">
                 <valList type="semi" mode="change">
                   <valItem mode="add" ident="teacher"/>
                   <valItem mode="add" ident="student"/>

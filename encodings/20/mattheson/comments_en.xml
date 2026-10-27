@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps20-003">
   <teiHeader>
     <fileDesc>
@@ -157,7 +157,7 @@
           <ref target="#clef-0000000962308835">At the beginning of the low bass clef</ref>, however,
           one plays only on every fourth note, and where
           the bass moves in quarters, this variation is played in the discant: 
-          <notatedMusic xml:id="music-example7" facs="#facsZone-music-example7">
+          <notatedMusic xml:id="music-example7">
             <ptr target="music-example7.xml"/>
           </notatedMusic>
         </p>

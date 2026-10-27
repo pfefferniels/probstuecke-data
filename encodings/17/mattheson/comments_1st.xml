@@ -146,7 +146,7 @@
           <head>§. 4.</head>
           <p xml:id="p4-1">
             Was ferner Tactum
-            <ref target="#measure-0000001566794317 measure-0000000710803525 #beam-0000000083916412">6, 7, und die Helffte des achten</ref> betrifft, ſo kan
+            <ref target="#measure-0000001566794317 #measure-0000000710803525 #beam-0000000083916412">6, 7, und die Helffte des achten</ref> betrifft, ſo kan
             <lb/>man ſich ſchon dabey ein wenig mehr Freyheit nehmen, und ſolche nicht nur mit
             <lb/>verdoppelter Octave in der lincken Hand spielen, ſondern auch in der rechten
             <lb/>ſtatt einmahl, wohl dreymahl zu je 6 Noten das in Haͤnden habende oder bezeich-
@@ -158,7 +158,7 @@
         
         <div n="5">
           <lb/><head>§. 5.</head>
-          <p xml:id="p5-1" facs="#facsZone-p5-1">
+          <p xml:id="p5-1" facs="#facs-p417">
             Der <ref target="#measure-0000001500448157">fuͤnffzehnte Tact</ref> gibt ſchon, wegen der ſchlechten Noten Nachdencken
             <lb/>und Anlaß, nach Belieben (nicht daß es eben ſeyn muß) das <hi rendition="#aq">Subjectum</hi> in der
             <lb/>rechten Hand, mit eben den Noten womit der Anfang gemacht, zu ergreiffen;

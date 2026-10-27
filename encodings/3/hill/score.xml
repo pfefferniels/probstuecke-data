@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/4.0.0/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../../schema/probstuecke-customization.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="4.0.0">
     <meiHead>
         <fileDesc>
@@ -852,7 +852,7 @@
                                         <note xml:id="m-1042" dur="16" oct="3" pname="g" stem.dir="up" />
                                         <note xml:id="m-1043" dur="16" oct="3" pname="e" stem.dir="up" />
                                     </beam>
-                                    <rest xml:id="m-1044" dur="16" oct="2" />
+                                    <rest xml:id="m-1044" dur="16" />
                                     <beam>
                                         <note xml:id="m-1046" dur="16" oct="3" pname="e" stem.dir="up" />
                                         <note xml:id="m-1047" dur="16" oct="3" pname="g" stem.dir="up" />

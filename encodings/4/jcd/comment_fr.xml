@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="realization" xml:id="ps4-005">
     <teiHeader>
         <fileDesc>
@@ -28,6 +29,7 @@
                 <recordingStmt>
                     <recording type="audio">
                         <respStmt>
+                            <resp>Edited by</resp>
                             <persName>Niels Pfeffer</persName>
                         </respStmt>
                     </recording>

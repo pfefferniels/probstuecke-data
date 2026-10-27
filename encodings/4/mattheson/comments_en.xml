@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps4-003">
   <teiHeader>
     <fileDesc>
@@ -47,7 +48,7 @@
           The first <ref target="#m-41 #m-42 #m-44 #m-45">four notes</ref> of this piece are to be
           played unbroken, with four full and short strokes, and on the
           <ref target="#m-50">fifth</ref> one should do a sharp trill in the lowest octave.          
-          The <ref target="#m-137 m-142 m-144 m-146 m-152 m-154">first six notes</ref>
+          The <ref target="#m-137 #m-142 #m-144 #m-146 #m-152 #m-154">first six notes</ref>
           in the fourth measure must be doubled with octaves,
           and this figure which immediately follows in the bass by transposition
           <note type="editorial" resp="#pfeffer">

@@ -19,9 +19,20 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/guidelines/` | Editorial guidelines (TEI) |
 | `encodings/about/` | Description of the edition shown on the website's About page (TEI) |
 | `encodings/frontpage/` | Transcriptions of the title pages |
-| `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI |
+| `schema/` | ODD customisations and RELAX NG schemas for TEI and MEI (see [`schema/README.md`](schema/README.md)) |
+| `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
+
+## Validation
+
+Every XML file under `encodings/` declares its schema in an `<?xml-model?>` processing instruction. To validate all of them with [Jing](https://github.com/relaxng/jing-trang), run
+
+```sh
+JING_JAR=/path/to/jing.jar scripts/validate.sh
+```
+
+The script exits with a non-zero status if a file is invalid or has no schema. [`schema/README.md`](schema/README.md) explains which schema applies to which files and how to regenerate the schemas after changing an ODD.
 
 ## Licence
 

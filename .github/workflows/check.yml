@@ -1,0 +1,37 @@
+name: Check encodings
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Download Jing
+        run: curl -sSfL -o "$RUNNER_TEMP/jing.jar" https://repo1.maven.org/maven2/org/relaxng/jing/20241231/jing-20241231.jar
+
+      - name: Validate against the schemas
+        env:
+          JING_JAR: ${{ runner.temp }}/jing.jar
+        run: scripts/validate.sh
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check internal references
+        run: |
+          pip install lxml
+          python scripts/check_references.py

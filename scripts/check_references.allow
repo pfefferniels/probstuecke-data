@@ -1,0 +1,107 @@
+# Allowlist for scripts/check_references.py
+#
+# One entry per line: "<path>: <pointer>", the pointer exactly as written in the
+# attribute. An entry covers every occurrence of that pointer in that file.
+# Only pointers that are knowingly left open belong here, each explained by the
+# comment above it. The checker reports entries that no longer match a problem,
+# so remove an entry once its case is fixed.
+
+# --- No. 3, legacy merged edition (not used by the website) -----------------
+# The file embeds only music-example1.xml, not score.xml, so its refs (which
+# are correct IDs in 3/mattheson/score.xml) cannot resolve; it has no
+# <facsimile>, so its @facs cannot resolve either. Fixing it would mean
+# restructuring a file that is no longer published.
+encodings/3/mattheson/comments_merged.xml: #facs-p403
+encodings/3/mattheson/comments_merged.xml: #facsZone-music-example1
+encodings/3/mattheson/comments_merged.xml: #facsZone-p4-1
+encodings/3/mattheson/comments_merged.xml: #m-420
+encodings/3/mattheson/comments_merged.xml: #m-447
+encodings/3/mattheson/comments_merged.xml: #m-633
+encodings/3/mattheson/comments_merged.xml: #m-956
+
+# --- No. 3, lesson by Robert Hill -----------------------------------------------
+# The refs are correct IDs in 3/hill/score.xml (bass staff of bars 1, 10 and 14),
+# but the lesson embeds only the five transcriptions, not score.xml. They resolve
+# once the file gets a <div type="score"> with notatedMusic/ptr[@target="score.xml"].
+encodings/3/hill/comments_en.xml: #m-62
+encodings/3/hill/comments_en.xml: #m-420
+encodings/3/hill/comments_en.xml: #m-523
+
+# --- No. 4, lesson by Robert Hill -----------------------------------------------
+# All of these are IDs in 4/hill/score.xml ("Partial Realization of Probstück 4
+# by R. Hill"), which the lesson does not embed: it has no notatedMusic at all
+# (its transcriptions are linked by ptr[@type="transcription"] inside
+# kinesic/desc). They resolve once the score is embedded via notatedMusic; the
+# lesson_transcription schema does not allow notatedMusic yet.
+encodings/4/hill/comments_de.xml: #m1-001
+encodings/4/hill/comments_de.xml: #m1-002
+encodings/4/hill/comments_de.xml: #m1-003
+encodings/4/hill/comments_de.xml: #m1-004
+encodings/4/hill/comments_de.xml: #tempo-001
+encodings/4/hill/comments_de.xml: #tempo-002
+encodings/4/hill/comments_de.xml: #m2-001
+encodings/4/hill/comments_de.xml: #m2-002
+encodings/4/hill/comments_de.xml: #m3
+encodings/4/hill/comments_de.xml: #m3-001
+encodings/4/hill/comments_de.xml: #m3-002
+encodings/4/hill/comments_de.xml: #m3-000
+encodings/4/hill/comments_de.xml: #m3-003
+encodings/4/hill/comments_de.xml: #m3-004
+encodings/4/hill/comments_de.xml: #m3-005
+encodings/4/hill/comments_de.xml: #m3-006
+encodings/4/hill/comments_de.xml: #m3-007
+encodings/4/hill/comments_de.xml: #m3-008
+encodings/4/hill/comments_de.xml: #m3-009
+encodings/4/hill/comments_de.xml: #m3-010
+encodings/4/hill/comments_de.xml: #m4
+encodings/4/hill/comments_de.xml: #m4-000
+encodings/4/hill/comments_de.xml: #m4-001
+encodings/4/hill/comments_de.xml: #m5-000
+encodings/4/hill/comments_de.xml: #m-250
+encodings/4/hill/comments_de.xml: #m-251
+encodings/4/hill/comments_de.xml: #m-253
+encodings/4/hill/comments_de.xml: #m-254
+encodings/4/hill/comments_de.xml: #m-298
+encodings/4/hill/comments_de.xml: #m-327
+encodings/4/hill/comments_de.xml: #m10
+encodings/4/hill/comments_de.xml: #m12
+encodings/4/hill/comments_de.xml: #m-637
+encodings/4/hill/comments_de.xml: #m21
+encodings/4/hill/comments_de.xml: #m22
+encodings/4/hill/comments_de.xml: #ex9-001
+encodings/4/hill/comments_de.xml: #m-1032
+encodings/4/hill/comments_de.xml: #m-1007
+encodings/4/hill/comments_de.xml: #m-1114
+encodings/4/hill/comments_de.xml: #m-1115
+encodings/4/hill/comments_de.xml: #m-1179
+encodings/4/hill/comments_de.xml: #m-1180
+encodings/4/hill/comments_de.xml: #m26-000
+encodings/4/hill/comments_de.xml: #m26-001
+encodings/4/hill/comments_de.xml: #m27-000
+encodings/4/hill/comments_de.xml: #m27-001
+# "Mit Zäsur würde <ref target="#example7">das</ref> gehen" pointed at
+# <notatedMusic xml:id="example7"> (the student's example7.xml), which was lost
+# when notatedMusic became kinesic/desc/ptr[@type="transcription"] (30106ef).
+# No element carries that ID any more; example7.xml has no xml:ids.
+encodings/4/hill/comments_de.xml: #example7
+
+# --- No. 5, 1731: fourth Presto not encoded -----------------------------------
+# "Wo das Presto befindlich" points to all Presto marks. The print has four
+# (bars 1, 10, 20 and one after the adagio on p. 327); score.xml encodes only
+# presto-000..presto-002. Needs a <tempo xml:id="presto-003"> in the MEI.
+encodings/5/mattheson/comments_de.xml: #presto-003
+
+# --- No. 11: bars 23 and 24 (3rd and 4th bar of the second part) have no IDs ---
+# The text refers to bars 3, 4 and 5 of the second part. Bar 25 resolves,
+# but in score.xml the <measure> and <staff> elements of bars 23 and 24 (and
+# everything inside them) carry no xml:id, and never did in this repository.
+# Fix in the MEI: measure n="23" xml:id="measure-0000002078803044", its staff
+# n="2" xml:id="staff-0000000633397600"; measure n="24"
+# xml:id="measure-0000001071915657", its staff n="2"
+# xml:id="staff-0000001023194498".
+encodings/11/mattheson/comments_1st.xml: #staff-0000000633397600
+encodings/11/mattheson/comments_1st.xml: #staff-0000001023194498
+encodings/11/mattheson/comments_de.xml: #measure-0000002078803044
+encodings/11/mattheson/comments_de.xml: #measure-0000001071915657
+encodings/11/mattheson/comments_en.xml: #measure-0000002078803044
+encodings/11/mattheson/comments_en.xml: #measure-0000001071915657
