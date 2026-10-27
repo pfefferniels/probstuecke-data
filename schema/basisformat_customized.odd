@@ -126,8 +126,11 @@
                     The text of the 1731 print may be divided into sentences (<gi>s</gi>, each with an
                     <att>xml:id</att> of the form <code>p1-1-s1</code>: the paragraph's ID and the number of the
                     sentence in it), so that the English translation can point to the sentence it renders. A sentence
-                    ends with a full stop, a question mark or an exclamation mark; colons and semicolons do not end it.
-                    Line and page breaks, catchwords and notes stay inside the sentence they fall in.
+                    ends with a full stop, a question mark or an exclamation mark; colons and semicolons do not end it,
+                    nor does a question or exclamation mark followed by a lowercase word. Line and page breaks,
+                    catchwords, notes and cited titles (<gi>bibl</gi>, which <gi>s</gi> allows besides the content of
+                    TEI) stay inside the sentence they fall in. A quotation of several sentences that ends its sentence
+                    is divided inside the <gi>quote</gi>; the lead-in up to it is then a sentence of its own.
                 </p>
             </div>
 
@@ -178,6 +181,20 @@
                 </classSpec>
 
                 <!-- customization: keep the att.coordinated class -->
+
+                <elementSpec ident="s" mode="change">
+                  <!-- TEI: macro.phraseSeq; customization: also bibl, for a title cited in the running text of a sentence -->
+                  <content>
+                    <alternate minOccurs="0" maxOccurs="unbounded">
+                      <textNode/>
+                      <classRef key="model.gLike"/>
+                      <classRef key="model.attributable"/>
+                      <classRef key="model.phrase"/>
+                      <classRef key="model.global"/>
+                      <elementRef key="bibl"/>
+                    </alternate>
+                  </content>
+                </elementSpec>
 
                 <classSpec ident="att.damaged" module="tei" mode="delete" type="atts"/>
                 <!-- customization: the analysis module is only included for s, not for @ana -->

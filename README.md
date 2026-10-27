@@ -49,7 +49,9 @@ The English translation can be compared with the 1731 text sentence by sentence.
 <s corresp="comments_de.xml#p1-1-s2">To me it appeared very ridiculous.</s>
 ```
 
-A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon; line and page breaks and notes stay inside the sentence they fall in. On the website, the sentences of the original stand small and grey beneath the sentences of an aligned translation (readers can hide them). `python3 scripts/check_alignment.py` checks that every pointer names a sentence, that every sentence of the original is translated and that the order is kept. So far Probstück 1 is aligned.
+A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon, and not with a question or exclamation mark followed by a lowercase word, with which Mattheson continues the sentence ("O! iſt es nichts anders als das? ich dachte …"). Line and page breaks, notes and cited titles (`<bibl>`) stay inside the sentence they fall in. A quotation of several sentences that ends its sentence is divided inside the `<quote>`; the lead-in up to it ("… da er ſich alſo heraus läſſt:") is then a sentence of its own. Where the translation leaves a German sentence out, the neighbouring English sentence points to it as well, so that it is still shown.
+
+On the website, the sentences of the original stand small and grey beneath the sentences of an aligned translation (readers can hide them). `python3 scripts/check_alignment.py` checks that every pointer names a sentence, that every sentence of the original is translated and that the order is kept. All 24 translations are aligned; in No. 24 only §. 31 is translated, so only its sentences are divided.
 
 ## Index of terms
 

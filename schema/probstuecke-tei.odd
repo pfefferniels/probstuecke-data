@@ -73,6 +73,20 @@
           <!-- guidelines; listRef: index of terms -->
           <moduleRef key="tagdocs" include="att code egXML gi listRef tag"/>
 
+          <elementSpec ident="s" mode="change">
+            <!-- TEI: macro.phraseSeq; customization: also bibl, for a title cited in the running text of a sentence -->
+            <content>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <textNode/>
+                <classRef key="model.gLike"/>
+                <classRef key="model.attributable"/>
+                <classRef key="model.phrase"/>
+                <classRef key="model.global"/>
+                <elementRef key="bibl"/>
+              </alternate>
+            </content>
+          </elementSpec>
+
           <elementSpec ident="TEI" mode="change">
             <attList>
               <attDef ident="type" mode="change">
