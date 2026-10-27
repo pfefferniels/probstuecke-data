@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI Customization for Probstücke Digital</title>
+        <respStmt>
+          <resp>Authored by</resp>
+          <name>Niels Pfeffer</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No source; this was originally written from scratch in digital form.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Scope</head>
+        <p>
+          This customization covers the TEI documents of Probstücke Digital that are not
+          transcriptions of Mattheson's prints: the English translations of the commentary
+          (<ident>comments_en.xml</ident>), the notes on the realisations by other musicians,
+          the editorial guidelines, the About text, the indices of persons, literature and
+          musical works, and some working files. The transcriptions of the prints of 1719 and
+          1731 use the customization of the DTA Base Format (<ident>basisformat_customized.odd</ident>),
+          the transcriptions of lessons use <ident>lesson_transcription.odd</ident>.
+        </p>
+        <p>
+          The schema keeps the modules core, header, textstructure and namesdates of TEI P5
+          and adds only those elements of other modules that the documents use. It follows the
+          conventions that the website relies on: the root element carries the expression ID
+          (e.g. <code>ps1-003</code>) in <att>xml:id</att> or, for the special documents, a
+          <att>type</att>; the score is given in <code>&lt;div type="score"&gt;</code> with a
+          <gi>head</gi> and a <gi>notatedMusic</gi> that points to the MEI encoding; index
+          entries are linked with <att>corresp</att>; <gi>ref</gi> points into the MEI encoding
+          with <att>target</att>.
+        </p>
+      </div>
+      <div>
+        <head>Formal specification</head>
+        <schemaSpec ident="probstuecke-tei" prefix="tei_" start="TEI" docLang="en">
+          <moduleRef key="tei"/>
+          <moduleRef key="core"/>
+          <moduleRef key="header"/>
+          <moduleRef key="textstructure"/>
+          <moduleRef key="namesdates"/>
+          <moduleRef key="figures" include="figure notatedMusic"/>
+          <!-- concordance.xml -->
+          <moduleRef key="linking" include="link standOff"/>
+          <!-- comments_merged.xml -->
+          <moduleRef key="textcrit" include="app lem rdg"/>
+          <moduleRef key="analysis" include="pc"/>
+          <!-- facsimile of the 1731 print in 5/mattheson/comments_en.xml, catchwords -->
+          <moduleRef key="transcr" include="facsimile fw surface zone"/>
+          <!-- sourceDesc of the realisation by J.-C. Dijoux -->
+          <moduleRef key="spoken" include="recording recordingStmt"/>
+          <!-- guidelines -->
+          <moduleRef key="tagdocs" include="att code egXML gi tag"/>
+
+          <elementSpec ident="TEI" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <desc versionDate="2026-10-27" xml:lang="en">marks the documents that the website
+                  does not treat as an expression of a Probstück</desc>
+                <valList type="closed" mode="replace">
+                  <valItem ident="about"><desc versionDate="2026-10-27" xml:lang="en">text of the About page</desc></valItem>
+                  <valItem ident="guideline"><desc versionDate="2026-10-27" xml:lang="en">editorial guidelines</desc></valItem>
+                  <valItem ident="persons"><desc versionDate="2026-10-27" xml:lang="en">index of persons</desc></valItem>
+                  <valItem ident="bibliography"><desc versionDate="2026-10-27" xml:lang="en">index of literature</desc></valItem>
+                  <valItem ident="musical-works"><desc versionDate="2026-10-27" xml:lang="en">index of musical works</desc></valItem>
+                  <valItem ident="realization"><desc versionDate="2026-10-27" xml:lang="en">notes on a realisation</desc></valItem>
+                </valList>
+              </attDef>
+              <!-- marks the indices as registers for the ediarum framework in oXygen -->
+              <attDef ident="doctype" ns="http://www.telota.de" mode="add" usage="opt">
+                <desc versionDate="2026-10-27" xml:lang="en">document type for the ediarum framework</desc>
+                <datatype><rng:ref name="teidata.enumerated"/></datatype>
+                <valList type="closed">
+                  <valItem ident="register"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="div" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="score"><desc versionDate="2026-10-27" xml:lang="en">the score of the Probstück: a <gi>head</gi> and a <gi>notatedMusic</gi> pointing to the MEI encoding</desc></valItem>
+                  <valItem ident="chapter"><desc versionDate="2026-10-27" xml:lang="en">the commentary (Erläuterung) or the notes</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="head" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="title"><desc versionDate="2026-10-27" xml:lang="en">title of the Probstück in the score division</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="note" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="editorial"><desc versionDate="2026-10-27" xml:lang="en">note by the editor or translator; give the author in <att>resp</att></desc></valItem>
+                  <valItem ident="footnote"><desc versionDate="2026-10-27" xml:lang="en">footnote of the original text</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="figure" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="notatedMusic"><desc versionDate="2026-10-27" xml:lang="en">music example or score</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <elementSpec ident="notatedMusic" mode="change">
+            <attList>
+              <attDef ident="type" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="fullPage"><desc versionDate="2026-10-27" xml:lang="en">the score of the Probstück</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+
+          <!-- the same rendition values as in the DTA Base Format, which the website styles -->
+          <classSpec ident="att.global.rendition" type="atts" mode="change">
+            <attList>
+              <attDef ident="rendition" mode="change">
+                <valList type="closed" mode="replace">
+                  <valItem ident="#aq"><desc versionDate="2026-10-27" xml:lang="en">Antiqua in a Fraktur text</desc></valItem>
+                  <valItem ident="#b"><desc versionDate="2026-10-27" xml:lang="en">bold</desc></valItem>
+                  <valItem ident="#blue"><desc versionDate="2026-10-27" xml:lang="en">blue</desc></valItem>
+                  <valItem ident="#bottomBraced"><desc versionDate="2026-10-27" xml:lang="en">horizontal brace below</desc></valItem>
+                  <valItem ident="#c"><desc versionDate="2026-10-27" xml:lang="en">centred</desc></valItem>
+                  <valItem ident="#et"><desc versionDate="2026-10-27" xml:lang="en">indented</desc></valItem>
+                  <valItem ident="#et2"><desc versionDate="2026-10-27" xml:lang="en">indented twice</desc></valItem>
+                  <valItem ident="#et3"><desc versionDate="2026-10-27" xml:lang="en">indented three times</desc></valItem>
+                  <valItem ident="#f"><desc versionDate="2026-10-27" xml:lang="en">Fraktur in an Antiqua text</desc></valItem>
+                  <valItem ident="#fr"><desc versionDate="2026-10-27" xml:lang="en">change of Fraktur type</desc></valItem>
+                  <valItem ident="#g"><desc versionDate="2026-10-27" xml:lang="en">letter-spaced</desc></valItem>
+                  <valItem ident="#i"><desc versionDate="2026-10-27" xml:lang="en">italic</desc></valItem>
+                  <valItem ident="#in"><desc versionDate="2026-10-27" xml:lang="en">initial</desc></valItem>
+                  <valItem ident="#k"><desc versionDate="2026-10-27" xml:lang="en">small capitals</desc></valItem>
+                  <valItem ident="#larger"><desc versionDate="2026-10-27" xml:lang="en">larger than the main text</desc></valItem>
+                  <valItem ident="#leftBraced"><desc versionDate="2026-10-27" xml:lang="en">vertical brace on the left</desc></valItem>
+                  <valItem ident="#red"><desc versionDate="2026-10-27" xml:lang="en">red</desc></valItem>
+                  <valItem ident="#right"><desc versionDate="2026-10-27" xml:lang="en">right-aligned</desc></valItem>
+                  <valItem ident="#rightBraced"><desc versionDate="2026-10-27" xml:lang="en">vertical brace on the right</desc></valItem>
+                  <valItem ident="#s"><desc versionDate="2026-10-27" xml:lang="en">struck through</desc></valItem>
+                  <valItem ident="#smaller"><desc versionDate="2026-10-27" xml:lang="en">smaller than the main text</desc></valItem>
+                  <valItem ident="#sub"><desc versionDate="2026-10-27" xml:lang="en">subscript</desc></valItem>
+                  <valItem ident="#sup"><desc versionDate="2026-10-27" xml:lang="en">superscript</desc></valItem>
+                  <valItem ident="#topBraced"><desc versionDate="2026-10-27" xml:lang="en">horizontal brace above</desc></valItem>
+                  <valItem ident="#u"><desc versionDate="2026-10-27" xml:lang="en">underlined</desc></valItem>
+                  <valItem ident="#uu"><desc versionDate="2026-10-27" xml:lang="en">double underlined</desc></valItem>
+                  <valItem ident="#v"><desc versionDate="2026-10-27" xml:lang="en">printed vertically</desc></valItem>
+                </valList>
+              </attDef>
+            </attList>
+          </classSpec>
+        </schemaSpec>
+      </div>
+    </body>
+  </text>
+</TEI>
