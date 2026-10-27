@@ -47,7 +47,8 @@ import xmledit as X  # noqa: E402
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent.parent
 XML_ID = '{http://www.w3.org/XML/1998/namespace}id'
-CANVAS_RE = re.compile(r'https://api\.digitale-sammlungen\.de/iiif/presentation/v2/(bsb\d+)/canvas/(\d+)$')
+# the canvas (until image_urls.py) or the image of the page
+CANVAS_RE = re.compile(r'https://api\.digitale-sammlungen\.de/iiif/(?:presentation/v2/(bsb\d+)/canvas/(\d+)|image/v2/(bsb\d+)_(\d+)/full/full/0/default\.jpg)$')
 BSB_1731 = 'bsb10598495'
 
 
@@ -158,7 +159,7 @@ def main():
             m = CANVAS_RE.match(url)
             if not m:
                 continue          # not a BSB canvas (legacy local images of 5/mattheson/comments_en.xml)
-            bsb, canvas = m.group(1), int(m.group(2))
+            bsb, canvas = m.group(1) or m.group(3), int(m.group(2) or m.group(4))
             sid = surface.get(XML_ID)
             zones = [z for z in surface.iter('{*}zone')]
             if zones and declared_size(new_text, sid) == SIZES[(bsb, canvas)]:

@@ -31,18 +31,32 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="f" key.accid="n" key.mode="minor" meter.unit="8" midi.bpm="100" mnum.visible="false">
+                    <scoreDef key.pname="f" key.accid="n" key.mode="minor" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
                             <staffDef clef.shape="C" clef.line="1" n="1" lines="5">
                                 <keySig sig="3f" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                             <staffDef clef.shape="F" clef.line="4" n="2" lines="5">
                                 <keySig sig="3f" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#m-1131">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#m-1131" label="46">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1134" dots="1" dur="4">
@@ -89,7 +103,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure corresp="#m-1165">
+                        <measure corresp="#m-1165" label="47">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1169" dots="1" dur="4">
@@ -145,7 +159,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure xml:id="ex-1206" n="48" corresp="#m-1206">
+                        <measure xml:id="ex-1206" n="48" corresp="#m-1206" label="48">
                             <staff n="1">
                                 <layer n="1">
                                     <chord xml:id="ex-1209" dots="1" dur="4">
@@ -198,7 +212,7 @@
                                 </harm>
                             </supplied>
                         </measure>
-                        <measure right="invis">
+                        <measure right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <custos oct="5" pname="c" />

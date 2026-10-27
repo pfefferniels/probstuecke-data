@@ -20,8 +20,8 @@
     </meiHead>
     <music>
         <facsimile>
-            <surface xml:id="surface_01DRXXBW793Y78RN1NJJH4NB9M" n="1" ulx="0" uly="0" lrx="2028" lry="2521">
-                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418" width="2029px" height="2522px"/>
+            <surface xml:id="surface_01DRXXBW793Y78RN1NJJH4NB9M" n="1" ulx="0" uly="0" lrx="2028" lry="2521" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418">
+                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00418/full/full/0/default.jpg" width="2029px" height="2522px"/>
                 <zone xml:id="zone_01DRXXBW7E4XNNV0DNXTPBYDCT" type="measure" ulx="141" uly="278" lrx="580" lry="824"/>
                 <zone xml:id="zone_01DRXXBW7F9YPJER7FX9G3GMZJ" type="measure" ulx="536" uly="299" lrx="789" lry="817"/>
                 <zone xml:id="zone_01DRXXBW7FZ4JZ2EP16HWFV5VD" type="measure" ulx="734" uly="358" lrx="1004" lry="831"/>
@@ -60,8 +60,8 @@
                 <zone xml:id="zone_01DRXXBW7ZW3JMZXM8ACQ72SBN" type="measure" ulx="1462" uly="1790" lrx="1669" lry="2001"/>
                 <zone xml:id="zone_01DRXXBW80EHBTZCVGGDYXQTGK" type="measure" ulx="1619" uly="1789" lrx="1868" lry="2289"/>
             </surface>
-            <surface xml:id="surface_01DRXXBW81W088TTEG7KJBF5N4" n="2" ulx="0" uly="0" lrx="1992" lry="2519">
-                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/419" width="1993px" height="2520px"/>
+            <surface xml:id="surface_01DRXXBW81W088TTEG7KJBF5N4" n="2" ulx="0" uly="0" lrx="1992" lry="2519" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/419">
+                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00419/full/full/0/default.jpg" width="1993px" height="2520px"/>
                 <zone xml:id="zone_01DRXXBW8107NBV76QSZ7DG6EH" type="measure" ulx="63" uly="201" lrx="450" lry="731"/>
                 <zone xml:id="zone_01DRXXBW81JHV1T1QHCBCF4EZS" type="measure" ulx="69" uly="227" lrx="447" lry="492"/>
                 <zone xml:id="zone_01DRXXBW82AE77NPNKHR4KV3JE" type="measure" ulx="401" uly="270" lrx="630" lry="743"/>
@@ -126,8 +126,8 @@
                 <zone xml:id="zone_01DRXXBW8RGA1KPMPQ671RWY5Q" type="measure" ulx="1521" uly="2035" lrx="1760" lry="2350"/>
                 <zone xml:id="zone_01DRXXBW8RNN4R5SJDE6WRVGCA" type="measure" ulx="1720" uly="2038" lrx="1892" lry="2327"/>
             </surface>
-            <surface xml:id="surface_01DRXXBW8SPTS35QF40HT64APP" n="3" ulx="0" uly="0" lrx="2022" lry="2518">
-                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/420" width="2023px" height="2519px"/>
+            <surface xml:id="surface_01DRXXBW8SPTS35QF40HT64APP" n="3" ulx="0" uly="0" lrx="2022" lry="2518" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/420">
+                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00420/full/full/0/default.jpg" width="2023px" height="2519px"/>
                 <zone xml:id="zone_01DRXXBW8T6ZCD3M2KKS2F77GB" type="measure" ulx="110" uly="242" lrx="573" lry="743"/>
                 <zone xml:id="zone_01DRXXBW8T3N5W0JP49XWM60S9" type="measure" ulx="505" uly="259" lrx="820" lry="465"/>
                 <zone xml:id="zone_01DRXXBW8TAMDBPC5YDT11W3V6" type="measure" ulx="508" uly="290" lrx="811" lry="717"/>
@@ -182,8 +182,8 @@
                 <zone xml:id="zone_01DRXXBW9GX13XRVZ4NKXHSMAV" type="measure" ulx="1360" uly="2011" lrx="1641" lry="2318"/>
                 <zone xml:id="zone_01DRXXBW9J87B4BKSEVMH90Y57" type="measure" ulx="1585" uly="2032" lrx="1828" lry="2304"/>
             </surface>
-            <surface xml:id="surface_01DRXXBW9KP46SYD696V2YR4R6" n="4" ulx="0" uly="0" lrx="1997" lry="2518">
-                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421" width="1998px" height="2519px"/>
+            <surface xml:id="surface_01DRXXBW9KP46SYD696V2YR4R6" n="4" ulx="0" uly="0" lrx="1997" lry="2518" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421">
+                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00421/full/full/0/default.jpg" width="1998px" height="2519px"/>
                 <zone xml:id="zone_01DRXXBW9M4RK25XHWCFB9Q60X" type="measure" ulx="83" uly="229" lrx="604" lry="725"/>
                 <zone xml:id="zone_01DRXXBW9MTMR1TPQF9HA0RAQW" type="measure" ulx="554" uly="225" lrx="827" lry="715"/>
                 <zone xml:id="zone_01DRXXBW9MTS8Z737EAVN9JVHN" type="measure" ulx="783" uly="234" lrx="1043" lry="724"/>

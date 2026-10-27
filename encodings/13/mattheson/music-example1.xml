@@ -31,16 +31,29 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.accid="f" key.mode="major" meter.unit="16" midi.bpm="100" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="1f" />
+                                <meterSig count="9" unit="16" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000001263987989">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000001263987989" label="11">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>
@@ -63,7 +76,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure corresp="#measure-0000001431729815" right="invis" metcon="false">
+                        <measure corresp="#measure-0000001431729815" label="12" right="invis" metcon="false">
                             <staff n="1">
                                 <layer n="1">
                                     <chord dur="4">

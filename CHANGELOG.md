@@ -20,6 +20,13 @@ First versioned release.
 - `CITATION.cff` and `.zenodo.json` for citation and archiving
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 
+### Changed
+
+- Music examples: bars that quote the piece point to the quoted bar of the score with `@corresp` in Nos. 9, 20, 21 and 22 as well; the pointers in No. 18 named IDs that no longer exist in the score. Bars 23 and 24 of the score of No. 11 have their IDs back, so that the examples and the commentary can point to them
+- Music examples: bars that quote the piece carry the number of the quoted bar as `@label` (in No. 14 instead of the words "Achter Tact", "Neuter Tact."), shown on the website instead of a local numbering (probstuecke-digital#81); `scripts/label_example_bars.py` sets these labels, and CI checks them
+- Music examples: every example has a full meter, encoded like the scores' as a `<meterSig>` in each `<staffDef>`, invisible where the print shows none (only one example of No. 24 shows C); the visible meters of the examples in Nos. 9 and 14 were not in the prints. Bars that do not fill the meter (upbeats, cut-off bars) have `@metcon="false"`, also in Robert Hill's examples of No. 4 (#30)
+- Music examples: modern clefs for the website's modern view, as in the scores (`<choice>` of `<orig>` and `<reg>`): soprano, alto and tenor clefs become treble clefs (the tenor clef of the low passage in No. 6 a bass clef), the French violin clef a treble clef, the baritone clef a bass clef. Initial clefs, which MEI 4.0.1 allows in no `<choice>` inside `<staffDef>`, are modernised by a `<scoreDef>` in the `<reg>` of a `<choice>` at the start of the section. The same for the arias quoted in Nos. 10, 15 and 16, whose voices are in soprano and alto clefs
+
 ### Fixed
 
 - Encoding errors found by schema validation, among them: the missing treble clefs in an example of Robert Hill's lesson on Probstück 3; the link from St. Lambert's *Traité* in the 1719 text of Probstück 7 to the bibliography; a wrong rendition in the 1719 text of Probstück 22
@@ -40,3 +47,4 @@ First versioned release.
 - Page numbers of 14 page breaks corrected against the prints
 - Nos. 14 and 24 keep both notations in `score.xml` (with `mdiv/@label`); the duplicate `score-2.xml` files are removed. The second notation of No. 24 declared the wrong staff, which made Verovio crash
 - Two mistyped figures: No. 19, bar 37, and No. 22, first example, bar 7 (raised sixths)
+- `<graphic>` gives the page image (IIIF Image API) instead of the IIIF canvas, which moves to `surface/@corresp` (#31); the unused facsimile section of the English text of No. 5, on local images not in the repository, is removed

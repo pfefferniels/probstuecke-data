@@ -7,9 +7,11 @@ Bayerische Staatsbibliothek (BSB), served by its IIIF APIs:
     1719  Exemplarische Organisten-Probe  Mus.th. 977 a  bsb10527431
     1731  Grosse General-Baß-Schule       Mus.th. 978 a  bsb10598495
 
-A <surface> stands for one page image. Its <graphic> names the IIIF canvas
-(@target in MEI, @url in TEI: .../iiif/presentation/v2/<bsb-id>/canvas/<n>);
-its <zone>s are pixel rectangles on that image. The website shows the zones
+A <surface> stands for one page image. Its <graphic> gives the image (@target
+in MEI, @url in TEI: .../iiif/image/v2/<bsb-id>_<n:05d>/full/full/0/default.jpg)
+and the surface's @corresp the IIIF canvas of the page
+(.../iiif/presentation/v2/<bsb-id>/canvas/<n>); its <zone>s are pixel
+rectangles on that image. The website shows the zones
 of a staff (staff/@facs in MEI) by requesting
 
     https://api.digitale-sammlungen.de/iiif/image/v2/<bsb-id>_<n:05d>/<ulx>,<uly>,<w>,<h>/pct:50/0/color.jpg
@@ -23,7 +25,8 @@ The script
      them (--inventory FILE writes the list as tab-separated values);
   2. checks offline that
        - every @facs pointer names a <zone> or <surface> of the same file;
-       - every graphic names a canvas of one of the two prints, in the
+       - every graphic names an image of one of the two prints, the surface
+         names the canvas of the same image, the print is the one
          print the MEI <facsimile decls> gives, and the surface's xml:id
          (facs-p<n>) and, in TEI, its @n (page) agree with it;
        - the canvas is a page of the file's Prob-Stück in that print and not
@@ -85,6 +88,7 @@ PARSER = etree.XMLParser(resolve_entities=False, no_network=True, load_dtd=False
 PRINTS = {'bsb10527431': '1719', 'bsb10598495': '1731'}
 DECLS = {'#firstEdition': '1719', '#secondEdition': '1731'}
 CANVAS_URL = re.compile(r'^https://api\.digitale-sammlungen\.de/iiif/presentation/v2/(bsb\d{8})/canvas/(\d+)$')
+IMAGE_URL = re.compile(r'^https://api\.digitale-sammlungen\.de/iiif/image/v2/(bsb\d{8})_(\d{5})/full/full/0/default\.jpg$')
 IMAGE_API = 'https://api.digitale-sammlungen.de/iiif/image/v2'
 
 # Printed pages and canvases, read from the page numbers and headings on the
@@ -160,6 +164,7 @@ class Surface:
     xml_id: str
     n: str              # surface/@n
     url: str
+    corresp: str        # surface/@corresp: the IIIF canvas
     bsb: str            # BSB identifier or ''
     canvas: int         # canvas number or 0
     print: str          # '1719', '1731' or ''
@@ -235,9 +240,10 @@ def read_document(path, base):
             if graphic is not None:
                 url = graphic.get('target') or graphic.get('url') or ''
                 gsize = (to_int(graphic.get('width')), to_int(graphic.get('height')))
-            cm = CANVAS_URL.match(url)
+            cm = IMAGE_URL.match(url)
             bsb, canvas = (cm.group(1), int(cm.group(2))) if cm else ('', 0)
-            surface = Surface(rel, s.sourceline, s.get(XML_ID) or '', s.get('n') or '', url, bsb, canvas,
+            surface = Surface(rel, s.sourceline, s.get(XML_ID) or '', s.get('n') or '', url, s.get('corresp') or '',
+                              bsb, canvas,
                               PRINTS.get(bsb, ''), facsimile.get('decls') or '',
                               (to_int(s.get('lrx')), to_int(s.get('lry'))), gsize)
             doc.surfaces.append(surface)
@@ -384,9 +390,12 @@ def check_surfaces(doc, report):
     for s in doc.surfaces:
         name = s.xml_id or f'(line {s.line})'
         if not s.bsb:
-            report.error(doc.path, s.line, 'graphic', name, f'surface {name}: graphic {s.url!r} is not a BSB IIIF canvas')
+            hint = ' (a canvas: run scripts/facsimile_repair/image_urls.py)' if CANVAS_URL.match(s.url) else ''
+            report.error(doc.path, s.line, 'graphic', name, f'surface {name}: graphic {s.url!r} is not a BSB IIIF image{hint}')
         elif not s.print:
             report.error(doc.path, s.line, 'graphic', name, f'surface {name}: unknown BSB identifier {s.bsb}')
+        elif s.corresp != f'https://api.digitale-sammlungen.de/iiif/presentation/v2/{s.bsb}/canvas/{s.canvas}':
+            report.error(doc.path, s.line, 'canvas', name, f'surface {name}: @corresp {s.corresp!r} is not the canvas of its image')
         if s.decls in DECLS and s.print and DECLS[s.decls] != s.print:
             report.error(doc.path, s.line, 'print', name, f'surface {name}: canvas of the {s.print} print in <facsimile decls="{s.decls}">')
         m = re.fullmatch(r'facs-p(\d+)', s.xml_id)

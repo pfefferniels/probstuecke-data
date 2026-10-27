@@ -31,16 +31,29 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef key.pname="b" key.accid="f" key.mode="major" meter.unit="16" midi.bpm="100" mnum.visible="false">
+                    <scoreDef key.pname="b" key.accid="f" key.mode="major" midi.bpm="100" mnum.visible="false">
                         <staffGrp>
                             <staffDef xml:id="rh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="1f" />
+                                <meterSig count="9" unit="16" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure corresp="#measure-0000000720476607">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure corresp="#measure-0000000720476607" label="38">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <beam place="above">
@@ -62,7 +75,7 @@
                             </staff>
                             <dir staff="1" place="below">Achter Tact.</dir>
                         </measure>
-                        <measure corresp="#measure-0000000902537430">
+                        <measure corresp="#measure-0000000902537430" label="39">
                             <staff n="1">
                                 <layer n="1">
                                     <beam place="above">

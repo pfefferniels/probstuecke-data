@@ -33,14 +33,27 @@
                 <score>
                     <scoreDef mnum.visible="false">
                         <staffGrp>
-                            <staffDef xml:id="lh" n="1" lines="5" meter.unit="8">
+                            <staffDef xml:id="lh" n="1" lines="5">
                                 <clef line="1" shape="C" />
                                 <keySig sig="4s" />
+                                <meterSig count="6" unit="8" form="invis" />
                             </staffDef>
                         </staffGrp>
                     </scoreDef>
                     <section>
-                        <measure xml:id="measure-0000001678222769" n="2">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
+                        <measure xml:id="measure-0000001678222769" corresp="#measure-0000001256239430" label="17" n="2">
                             <staff n="1">
                                 <layer n="1">
                                     <beam>

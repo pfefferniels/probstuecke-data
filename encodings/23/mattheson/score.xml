@@ -62,11 +62,11 @@
   </meiHead>
   <music>
     <facsimile decls="#firstEdition">
-      <surface ulx="0" uly="0" lry="2425" lrx="1975" xml:id="facs-p446">
-        <graphic width="1975" height="2425" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446" />
+      <surface ulx="0" uly="0" lry="2425" lrx="1975" xml:id="facs-p446" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/446">
+        <graphic width="1975" height="2425" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00446/full/full/0/default.jpg" />
       </surface>
-      <surface ulx="0" uly="0" lry="2402" lrx="1952" xml:id="facs-p447">
-        <graphic width="1952" height="2402" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447" />
+      <surface ulx="0" uly="0" lry="2402" lrx="1952" xml:id="facs-p447" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/447">
+        <graphic width="1952" height="2402" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00447/full/full/0/default.jpg" />
       </surface>
     </facsimile>
     <body>

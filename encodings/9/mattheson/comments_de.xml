@@ -76,18 +76,18 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="1982" lry="2529" xml:id="facs-p411">
-      <graphic width="1982px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/411"/>
+    <surface ulx="0" uly="0" lrx="1982" lry="2529" xml:id="facs-p411" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/411">
+      <graphic width="1982px" height="2529px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00411/full/full/0/default.jpg"/>
       <zone ulx="17" uly="361" lry="1887" lrx="1905" xml:id="facsZone-p1-1"/>
       <zone ulx="0" uly="1857" lry="2344" lrx="1884" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2053" lry="2526" xml:id="facs-p412">
-      <graphic width="2053px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/412"/>
+    <surface ulx="0" uly="0" lrx="2053" lry="2526" xml:id="facs-p412" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/412">
+      <graphic width="2053px" height="2526px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00412/full/full/0/default.jpg"/>
       <zone ulx="94" uly="247" lry="1664" lrx="1991" xml:id="facsZone-music-example1"/>
       <zone ulx="94" uly="1709" lry="2335" lrx="1988" xml:id="facsZone-p3-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1974" lry="2528" xml:id="facs-p413">
-      <graphic width="1974px" height="2528px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/413"/>
+    <surface ulx="0" uly="0" lrx="1974" lry="2528" xml:id="facs-p413" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/413">
+      <graphic width="1974px" height="2528px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00413/full/full/0/default.jpg"/>
       <zone ulx="27" uly="199" lry="1137" lrx="1918" xml:id="facsZone-music-example2"/>
       <zone ulx="25" uly="1113" lry="1860" lrx="1909" xml:id="facsZone-p3-2"/>
       <zone ulx="27" uly="1842" lry="2058" lrx="1911" xml:id="facsZone-p4-1"/>

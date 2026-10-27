@@ -76,19 +76,19 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface ulx="0" uly="0" lrx="2002" lry="2516" xml:id="facs-p367">
-      <graphic width="2002px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/367"/>
+    <surface ulx="0" uly="0" lrx="2002" lry="2516" xml:id="facs-p367" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/367">
+      <graphic width="2002px" height="2516px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00367/full/full/0/default.jpg"/>
       <zone ulx="26" uly="1036" lry="2039" lrx="1914" xml:id="facsZone-p1-1"/>
       <zone ulx="13" uly="2025" lry="2284" lrx="1883" xml:id="facsZone-p2-1"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="2043" lry="2525" xml:id="facs-p368">
-      <graphic width="2043px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/368"/>
+    <surface ulx="0" uly="0" lrx="2043" lry="2525" xml:id="facs-p368" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/368">
+      <graphic width="2043px" height="2525px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00368/full/full/0/default.jpg"/>
       <zone ulx="153" uly="179" lry="759" lrx="1998" xml:id="facsZone-p2-1-2"/>
       <zone ulx="150" uly="732" lry="2001" lrx="2016" xml:id="facsZone-music-example1"/>
       <zone ulx="150" uly="1968" lry="2307" lrx="2007" xml:id="facsZone-p2-2"/>
     </surface>
-    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p369">
-      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/369"/>
+    <surface ulx="0" uly="0" lrx="1993" lry="2517" xml:id="facs-p369" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/369">
+      <graphic width="1993px" height="2517px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00369/full/full/0/default.jpg"/>
       <zone ulx="20" uly="175" lry="714" lrx="1883" xml:id="facsZone-p3-1"/>
       <zone ulx="18" uly="681" lry="1311" lrx="1893" xml:id="facsZone-music-example2"/>
       <zone ulx="20" uly="1296" lry="1580" lrx="1892" xml:id="facsZone-p4-1"/>

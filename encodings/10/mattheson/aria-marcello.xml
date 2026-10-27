@@ -59,17 +59,17 @@
     </meiHead>
     <music>
         <facsimile decls="#secondEdition">
-            <surface xml:id="facs-p418" n="1" ulx="0" uly="0" lrx="2028" lry="2521">
-                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418" width="2029px" height="2522px" />
+            <surface xml:id="facs-p418" n="1" ulx="0" uly="0" lrx="2028" lry="2521" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/418">
+                <graphic xml:id="graphic_01DRXXBW7CCJ95KSPMFMF07877" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00418/full/full/0/default.jpg" width="2029px" height="2522px" />
             </surface>
-            <surface xml:id="facs-p419" n="2" ulx="0" uly="0" lrx="1992" lry="2519">
-                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/419" width="1993px" height="2520px" />
+            <surface xml:id="facs-p419" n="2" ulx="0" uly="0" lrx="1992" lry="2519" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/419">
+                <graphic xml:id="graphic_01DRXXBW81G647M2MA67QV8N86" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00419/full/full/0/default.jpg" width="1993px" height="2520px" />
             </surface>
-            <surface xml:id="facs-p420" n="3" ulx="0" uly="0" lrx="2022" lry="2518">
-                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/420" width="2023px" height="2519px" />
+            <surface xml:id="facs-p420" n="3" ulx="0" uly="0" lrx="2022" lry="2518" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/420">
+                <graphic xml:id="graphic_01DRXXBW8TDF2VZZ3FDRVB0FQW" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00420/full/full/0/default.jpg" width="2023px" height="2519px" />
             </surface>
-            <surface xml:id="facs-p421" n="4" ulx="0" uly="0" lrx="1997" lry="2518">
-                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421" width="1998px" height="2519px" />
+            <surface xml:id="facs-p421" n="4" ulx="0" uly="0" lrx="1997" lry="2518" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/421">
+                <graphic xml:id="graphic_01DRXXBW9M0QVTHNDK5X37HXE3" target="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00421/full/full/0/default.jpg" width="1998px" height="2519px" />
             </surface>
         </facsimile>
         <body>
@@ -91,6 +91,18 @@
                         </staffGrp>
                     </scoreDef>
                     <section xml:id="section-1262235770">
+                        <choice>
+                            <orig />
+                            <reg resp="#pfeffer">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <clef line="2" shape="G" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </reg>
+                        </choice>
                         <pb source="#firstEdition" n="154" />
                         <pb source="#secondEdition" n="356" facs="#facs-p418" />
                         <measure xml:id="measure-0685332484" metcon="false">

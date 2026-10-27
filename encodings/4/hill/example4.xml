@@ -181,7 +181,7 @@
                                 </layer>
                             </staff>
                         </measure>
-                        <measure n="4">
+                        <measure n="4" metcon="false">
                             <staff n="1" visible="true">
                                 <layer n="1">
                                     <rest dur="16" />
