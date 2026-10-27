@@ -2,7 +2,7 @@
 
 Notable changes to the encodings. Each version corresponds to a tagged release of this repository.
 
-## 1.0.0 (unreleased)
+## 1.0.0 (2026-10-27)
 
 First versioned release.
 

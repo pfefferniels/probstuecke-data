@@ -3,6 +3,7 @@ message: "If you use these encodings, please cite them as below."
 type: dataset
 title: "Probstücke Digital: TEI and MEI encodings of Johann Mattheson's Prob-Stücke (1719/1731)"
 version: 1.0.0
+date-released: 2026-10-27
 authors:
   - family-names: Pfeffer
     given-names: Niels

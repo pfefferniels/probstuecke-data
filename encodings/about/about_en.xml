@@ -47,19 +47,22 @@
         <list>
           <item>
             The figured basses of all 24 Prob-Stücke, encoded in MEI. One encoding per piece records both prints. Where
-            they differ, both readings are encoded, and each page shows the reading of the print it belongs to.
+            they differ, both readings are encoded, and each page shows the reading of the print it belongs to. Modern
+            clefs, key signatures and accidentals are encoded as editorial alternatives to the printed ones, so that the
+            music can be shown in the original or in modern notation.
           </item>
           <item>
-            Diplomatic transcriptions of Mattheson’s commentary from both prints, encoded in TEI: 23 from 1719 and 24 from
-            1731. For Probstück 24 only the 1731 commentary is included.
+            Diplomatic transcriptions of Mattheson’s commentary from both prints, encoded in TEI: all 24 from 1719 and
+            all 24 from 1731.
           </item>
           <item>
             An English translation of the commentary by Niels Pfeffer, made from the 1731 text.
           </item>
           <item>
             Lessons and realisations: two lessons that Robert Hill gave on Probstücke 3 and 4 at the Hochschule für Musik
-            Freiburg in May 2019, transcribed from audio recordings, and a realisation of Probstück 4 by Dijoux with
-            notes in French.
+            Freiburg in May 2019 and one on Probstück 16 in June 2019, transcribed from audio recordings; a realisation
+            of Probstück 4 by Dijoux with notes in French; realisations of Probstücke 10 and 14 by Niels Pfeffer and of
+            Probstücke 20 and 21 by Larry Molinaro, with recordings.
           </item>
           <item>
             Editorial notes, and indices of the persons, literature and musical works mentioned in the commentary, linked
@@ -133,9 +136,11 @@
         <p>
           On each page the score is on the left and the commentary on the right. Highlighted passages in the commentary
           refer to bars, notes or figures in the score: point at a passage to see them marked in the score, or at a marked
-          element in the score to find the passage. Point at a line of music to see it in the original print. The buttons
-          above the score switch between original and modern clefs, show or hide the upper staff with the right-hand
-          passages notated in the print, and add or remove empty staves for writing out a realisation.
+          element in the score to find the passage. Point at a line of music to see it in the original print. On a touch
+          screen, tap instead of pointing, and tap a selected line of music again to see the print. The buttons above
+          the score switch between the original notation and modern clefs and accidentals, show or hide the upper staff
+          with the right-hand passages notated in the print, and add or remove empty staves for writing out a
+          realisation.
         </p>
       </div>
 
@@ -144,8 +149,10 @@
         <list>
           <item>Edited by Niels Pfeffer and Klaus Rettinghaus.</item>
           <item>English translation: Niels Pfeffer.</item>
-          <item>Lessons on Probstücke 3 and 4: Robert Hill with Niels Pfeffer; transcription by Niels Pfeffer.</item>
+          <item>Lessons on Probstücke 3, 4 and 16: Robert Hill with Niels Pfeffer; transcription by Niels Pfeffer.</item>
           <item>Realisation of Probstück 4: Dijoux; encoding by Niels Pfeffer.</item>
+          <item>Realisations of Probstücke 10 and 14: Niels Pfeffer.</item>
+          <item>Realisations of Probstücke 20 and 21: Larry Molinaro; encoding by Niels Pfeffer and Klaus Rettinghaus.</item>
           <item>Website: Niels Pfeffer.</item>
           <item>Page images: Bayerische Staatsbibliothek, Munich.</item>
           <item>
