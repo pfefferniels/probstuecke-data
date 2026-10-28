@@ -162,7 +162,7 @@
                 <moduleRef key="figures" include="cell figure formula notatedMusic row table"/>
                 <!-- customization: added g for music symbols (SMuFL code points) in the running text -->
                 <moduleRef key="gaiji" include="g"/>
-                <!-- customization: added s for the sentences that the translation points to -->
+                <!-- customization: added s for the sentences of the 1731 print, which the translation and the 1719 print point to, and for those of the 1719 print -->
                 <moduleRef key="analysis" include="s"/>
                 <moduleRef key="linking" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
                 <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository typeDesc"/>

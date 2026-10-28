@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps24-001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe vierundzwantzigstes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1719.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1" />
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1966" lry="2429" xml:id="facs-p454" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/454">
+      <graphic width="1967px" height="2430px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00454/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1966" lry="2408" xml:id="facs-p455" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/455">
+      <graphic width="1967px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00455/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1962" lry="2417" xml:id="facs-p458" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/458">
+      <graphic width="1963px" height="2418px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00458/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1903" lry="2393" xml:id="facs-p459" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/459">
+      <graphic width="1904px" height="2394px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00459/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2002" lry="2416" xml:id="facs-p460" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/460">
+      <graphic width="2003px" height="2417px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00460/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1966" lry="2407" xml:id="facs-p461" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/461">
+      <graphic width="1967px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00461/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1951" lry="2419" xml:id="facs-p462" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/462">
+      <graphic width="1952px" height="2420px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00462/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1898" lry="2402" xml:id="facs-p463" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/463">
+      <graphic width="1899px" height="2403px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00463/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1965" lry="2420" xml:id="facs-p464" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/464">
+      <graphic width="1966px" height="2421px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00464/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1960" lry="2416" xml:id="facs-p465" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/465">
+      <graphic width="1961px" height="2417px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00465/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1960" lry="2424" xml:id="facs-p466" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/466">
+      <graphic width="1961px" height="2425px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00466/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1903" lry="2401" xml:id="facs-p467" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/467">
+      <graphic width="1904px" height="2402px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00467/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1928" lry="2422" xml:id="facs-p468" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/468">
+      <graphic width="1929px" height="2423px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00468/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1961" lry="2415" xml:id="facs-p469" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/469">
+      <graphic width="1962px" height="2416px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00469/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1982" lry="2415" xml:id="facs-p470" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/470">
+      <graphic width="1983px" height="2416px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00470/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1867" lry="2406" xml:id="facs-p471" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/471">
+      <graphic width="1868px" height="2407px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00471/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1997" lry="2435" xml:id="facs-p472" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/472">
+      <graphic width="1998px" height="2436px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00472/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1903" lry="2401" xml:id="facs-p473" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/473">
+      <graphic width="1904px" height="2402px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00473/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1930" lry="2424" xml:id="facs-p474" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/474">
+      <graphic width="1931px" height="2425px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00474/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1928" lry="2398" xml:id="facs-p475" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/475">
+      <graphic width="1929px" height="2399px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00475/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1928" lry="2424" xml:id="facs-p476" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/476">
+      <graphic width="1929px" height="2425px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00476/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1952" lry="2407" xml:id="facs-p477" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/477">
+      <graphic width="1953px" height="2408px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00477/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1968" lry="2435" xml:id="facs-p478" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/478">
+      <graphic width="1969px" height="2436px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00478/full/full/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="score">
+        <head>Der Ober-Classe vierundzwantzigstes und letztes Prob-Stück.</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+
+      <pb facs="#facs-p454" n="232" />
+      <div>
+        <lb /><head>NOTA.</head>
+        <p xml:id="p0-1">
+          <lb /><s xml:id="p0-1-s1"><hi rendition="#in">W</hi>Enn im <hi rendition="#aq"><bibl corresp="#ed_y43_m2l_tlb">Orch. II. pag. 438.</bibl></hi> gelehret worden, daß alle <hi rendition="#aq">Modi</hi>, deren Haupt-
+          <lb />Ton ein Creutz vor ſich hat, von Natur <hi rendition="#aq">minores</hi> oder <hi rendition="#aq">molles</hi> ſind, das
+          <lb />iſt, ſie erfordern natuͤrlicher Weiſe, die kleinen oder weichen Tertien;
+          <lb />Hergegen, daß alle <hi rendition="#aq">Modi</hi>, deren Haupt-Ton ein b vor der Note fuͤhret, von Na-
+          <lb />tur <hi rendition="#aq">majores</hi> oder <hi rendition="#aq">duri</hi> ſind, und alſo natuͤrlicher Weiſe die groſſen oder harten Ter-
+          <lb />tien zu ſich nehmen: So iſt leicht zu erachten, daß, wenn ich Z. E. <hi rendition="#aq">Cis dur</hi> waͤhlen,
+          <lb />und ein <hi rendition="#aq">Specimen</hi> daraus zu Papier bringen will, es natuͤrlicher ſey, ſolches mit
+          <lb />dem <hi rendition="#aq">bD</hi>, als mit dem ♯<hi rendition="#aq">C</hi> zu verrichten.</s> <s xml:id="p0-1-s2">Den&#x0303; das <hi rendition="#aq">bD</hi> erfordert von ſelbſten <hi rendition="#aq">Terti-
+          <lb />am majorem</hi>, und darff ſolche (als das rechte f) im <hi rendition="#aq">Syſtemate</hi> nicht durch ein ab-
+          <lb />ſonderliches Zeichen bemercket werden.</s> <s xml:id="p0-1-s3">♯<hi rendition="#aq">C</hi> hergegen, wenn es ſoll <hi rendition="#aq">dur</hi> ſeyn,
+          <lb />muß <hi rendition="#aq">per dieſin dur</hi> gemacht werden, weil es ſonſt, ſeiner Natur nach, <hi rendition="#aq">moll</hi> iſt,
+          <lb />Und kan aus dieſem <hi rendition="#aq">Principio</hi> auf die uͤbrigen ungewohnte Tone geſchloſſen wer-
+          <lb />den, wie nemlich dieſelbe am bequemſten zu notiren ſind.</s> <s xml:id="p0-1-s4">Wir haben uns hier
+          <lb />die Bequemlichkeit eben nicht allenthalben vorgeſetzet, zumahl da es auf Proben an-
+          <lb />koͤm&#x0303;t.</s> <s xml:id="p0-1-s5">Ferner hat man bey dem <hi rendition="#aq">bD</hi> das <hi rendition="#aq">C</hi>, als <hi rendition="#aq">ſeptimam majorem</hi>, gantz natuͤr-
+          <lb />lich, und darff ſich nicht mit ſo viel Creutzen, derer aufs wenigſte ſieben ſeyn muͤſſen,
+          <lb />ſchleppen.</s> <s xml:id="p0-1-s6">Doch werden an deren ſtatt fuͤnff b noͤthig ſeyn, die manchem eben ſo
+          <lb />ſpaniſch vorkommen duͤrfften, ob gleich die <hi rendition="#aq">Tertia</hi> und <hi rendition="#aq">Septima majores</hi> rein blei-
+          <lb />ben.</s> <s xml:id="p0-1-s7">Der Gang ins <hi rendition="#aq">B moll</hi>, welcher beym <hi rendition="#aq">Cis dur Clauſula ſecundaria</hi> iſt, faͤllt
+          <fw type="catch" place="bottom">auch</fw>
+          <pb facs="#facs-p455" n="233" />
+          <lb />auch beſſer ins Auge, wenn <hi rendition="#aq">bD</hi> zum Grunde ſtehet, als wenns ♯<hi rendition="#aq">C</hi> iſt.</s> <s xml:id="p0-1-s8">Und
+          <lb />was noch ſonſt vor <hi rendition="#aq">Raiſons</hi> dieſer <hi rendition="#aq">Diſtinction</hi> halber auffſtoſſen moͤchten.</s> <s xml:id="p0-1-s9">Z. E.
+          <lb />die Vermeidung der verdoppelten Creutze vor einer Note. &#xA75B;c.</s>
+        </p>
+        <p xml:id="p0-2">
+          <lb /><s xml:id="p0-2-s1">Ob aber <hi rendition="#aq">Fis dur</hi>, wenn ſolches durch <hi rendition="#aq">bG exprimi</hi>ret wird, eben den Vortheil
+          <lb />habe, daran ſolte faſt zweifeln.</s> <s xml:id="p0-2-s2">Denn es will auch bey dieſer <hi rendition="#aq">Obſervation</hi> das be-
+          <lb />kannte: <hi rendition="#aq"><foreign xml:lang="lat">nulla regula ſine exceptione</foreign></hi>, ſtatt haben, maſſen, ob alles gleich gar gut
+          <lb />bey dem <hi rendition="#aq">bH, bA, bE,</hi> und <hi rendition="#aq">bD</hi> eintrifft, ſo nimmet ſich doch, wie es ſcheint, das eintzi-
+          <lb />ge <hi rendition="#aq">Fis dur</hi> davon aus.</s> <s xml:id="p0-2-s3"><hi rendition="#aq">Cis dur</hi>, wenn ♯<hi rendition="#aq">C</hi> zum Grunde ſtehet, erfordert 6 biß 7
+          <lb />Creutze.</s> <s xml:id="p0-2-s4">Hergegen darff <hi rendition="#aq">bD</hi> nur 5 b haben; welches eine groſſe <hi rendition="#aq">Avantage</hi> im
+          <lb />Schreiben und Spielen bringt.</s> <s xml:id="p0-2-s5"><hi rendition="#aq">Dis dur</hi>, wenn ♯<hi rendition="#aq">D</hi> zum Grunde geſetzt werden
+          <lb />ſolte, erfordert nicht nur gleichfalls 7 Creutze, ſondern im dritten Grad gar ein
+          <lb />zweyfaches.</s> <s xml:id="p0-2-s6">Hergegen darff <hi rendition="#aq">bE</hi> mehr nicht als nur 3 b haben.</s> <s xml:id="p0-2-s7">Ferner, wenn
+          <lb />beym <hi rendition="#aq">Gis dur</hi> ♯<hi rendition="#aq">G</hi> zum Fundament gebraucht wuͤrde, muͤſten abermahl 7 Creutze,
+          <lb />und noch uͤberdem ein zweyfaches im ſiebenden Grad herhalten; dahingegen, wenn
+          <lb /><hi rendition="#aq">bA pro baſi</hi> befindlich, nicht mehr als 4 b noͤthig ſind.</s> <s xml:id="p0-2-s8">Was das <hi rendition="#aq">B</hi> anlanget, ſo ſiehet
+          <lb />ein jeder die <hi rendition="#aq">Inconvenience</hi> leicht, wenn ♯<hi rendition="#aq">A</hi> den Grund Ton andeuten ſolte; denn
+          <lb />da gehoͤren nicht nur wiederum 7 Creutze, ſondern noch uͤberdem 3 verdoppelte oder
+          <lb />zweyfache, im dritten, ſechſten und ſiebenden Grade, dazu; welches ein abſcheuliches
+          <lb />Weſen geben wuͤrde: hingegen beſtellet es <hi rendition="#aq">bH</hi> mit 2 b auf das allerbeſte.</s> <s xml:id="p0-2-s9">Nur
+          <lb />das eintzige <hi rendition="#aq">Fis dur</hi> ſcheinet gleichſam <hi rendition="#aq"><foreign xml:lang="lat">anceps</foreign></hi> zu ſeyn, ſintemahl, ob ich ♯<hi rendition="#aq">F</hi> oder <hi rendition="#aq">bG</hi>
+          <lb />zum Grunde ſetze, eines Theils 6 Creutze, und andern Theils 6 b erfordert werden;
+          <lb />wobey doch dieſer Unterſchied: daß bey den Creutzen die Quarta unbezeichnet
+          <lb />und frey bleibet, bey den bb aber nur die <hi rendition="#aq">Septima</hi> natuͤrlich iſt; wodurch,
+          <lb />meines Erachtens, den Creutzen, in dieſem Stuͤcke, ein Vortheil zuwaͤchſt,
+          <lb />weil man mehr mit der <hi rendition="#aq">Quarta</hi> als mit der <hi rendition="#aq">Septima</hi> (inſonderheit <hi rendition="#aq">Ma-
+          <lb />jori</hi>, wie ſie hier iſt) zu thun hat, deßwegen ich lieber beym ♯<hi rendition="#aq">F</hi> bleiben wollen.</s>
+          <lb /><s xml:id="p0-2-s10">Wegen des <hi rendition="#aq">Dis mollis</hi> aber halte ich gewiß dafuͤr, daß es aus obigem <hi rendition="#aq">Principio</hi>
+          <lb />beſſer und natuͤrlicher ſey, ſelbiges durch ♯<hi rendition="#aq">D</hi>; das <hi rendition="#aq">Dis dur</hi> aber, wie gewoͤhn-
+          <lb />lich, durch <hi rendition="#aq">bE</hi> zu <hi rendition="#aq">exprimiren</hi>.</s> <s xml:id="p0-2-s11">Doch hindert ſolches nicht, daß man es nicht
+          <lb />auch umkehren, und ſo wohl <hi rendition="#aq">Cis dur</hi> durch ♯<hi rendition="#aq">C</hi>, als <hi rendition="#aq">Dis dur</hi> durch ♯<hi rendition="#aq">D</hi> aufzeich-
+          <lb />nen koͤnne; nur ſcheint es ſo <hi rendition="#aq"><foreign xml:lang="fra">commode</foreign></hi> und <hi rendition="#aq"><foreign xml:lang="fra">naturel</foreign></hi> nicht.</s> <s xml:id="p0-2-s12">Ein Meiſter muß
+          <lb />es auf alle Art wiſſen, denn es koͤmmt <hi rendition="#aq">affinaliter</hi> taͤglich vor; und damit es ein
+          <lb />Schuͤler lerne, findet er hier, nebſt den Uhrſachen, das <hi rendition="#aq">Cis dur</hi>, zum Exem-
+          <lb />pel, auf beyderley Weiſe, da er denn waͤhlen kan, was ihm am beſten anſtehet.</s>
+          <lb /><s xml:id="p0-2-s13"><hi rendition="#b">Jch wuͤrde das erſte erkieſen.</hi></s>
+        </p>
+        <fw type="catch" place="bottom">Daſ-</fw>
+      </div>
+
+      <pb facs="#facs-p458" n="236" />
+      <div n="0" type="chapter">
+        <lb /><head>Erlaͤuterung.</head>
+      <div n="1">
+        <lb /><head>§. 1.</head>
+        <p xml:id="p1-1">
+          <lb /><s xml:id="p1-1-s1" corresp="comments_1731.xml#p1-1-s1"><hi rendition="#in">B</hi>Ey Anſehung der vorgeſetzten Creutze dieſes letzten Prob-Stuͤckes fal-
+          <lb />len mir <persName corresp="#ed_scp_svx_qlb"><hi rendition="#b">Printzens</hi></persName> Worte ein, die er im dritten Capitel des erſten Theils
+          <lb />ſeines <hi rendition="#aq"><bibl corresp="#ed_pmp_1hl_tlb">Phrynidis</bibl></hi> alſo fuͤhret: <quote>„Es lachte mir das Hertz im Leibe, wenn ich
+          <lb />„im Anfang des <hi rendition="#aq">Syſtematis</hi> viel <hi rendition="#aq">Signa chromatica</hi> oder b ſahe: Ja ich hielte den Or-
+          <lb />„ganiſten, der einen ſo gezeichneten General-Baß nicht rein ſpielte, fuͤr einen
+          <lb />„Stuͤmpler, da ich doch ſelbſt ein Ertz-Stuͤmpler war, und nicht wuſte, daß ſo
+          <lb />„geſetzte Sachen auf keiner Orgel rein geſpielet werden koͤnnen.“</quote></s> <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2 comments_1731.xml#p1-1-s3">Hieruͤber <hi rendition="#aq">gloſſi-</hi>
+          <lb />re ich kuͤrtzlich ſo: (1) Jſt uns wohl bekandt, was auf einer Orgel rein geſpielet
+          <lb />werden koͤnne oder nicht.</s> <s xml:id="p1-1-s3" corresp="comments_1731.xml#p1-1-s4">(2) Erfordert man von einem Organiſten auch das
+          <lb /><hi rendition="#aq">Accompagnement</hi> auf Clavicymbeln, und ich ſage ungeſcheut, daß ich den Or-
+          <lb />ganiſten, der einen ſo gezeichneten General-Baß, wie dieſer iſt, nicht rein auf dem
+          <lb />Clavier ſpielet, wo nicht fuͤr einen Stuͤmpler, doch fuͤr einen ſchlechten Potenta-
+          <lb />ten halte.</s> <s xml:id="p1-1-s4" corresp="comments_1731.xml#p1-1-s5">(3) <hi rendition="#aq">Diſtingui</hi>ret man zwiſchen die Fehler einer Orgel und die Fehler ei-
+          <lb />nes Organiſten, wie billig, und ſieht kein Menſch, wie eine uͤbel-<hi rendition="#aq">temperi</hi>rte Orgel
+          <lb />einen uͤbelſpielenden Organiſten im geringſten entſchuldigen koͤnne.</s>
+        </p>
+      </div>
+
+      <fw type="catch" place="bottom">Jm</fw>
+      <pb facs="#facs-p459" n="237" />
+      <div n="2">
+        <lb /><head>§. 2.</head>
+        <p xml:id="p2-1">
+          <lb /><s xml:id="p2-1-s1" corresp="comments_1731.xml#p2-1-s1">Jn meinem <bibl corresp="#ed_bm4_fhl_tlb"><hi rendition="#aq">Orcheſtre</hi>, Erſter Eroͤffnung</bibl>, iſt bey Gelegenheit dieſer <hi rendition="#aq">chro-
+          <lb />mati</hi>ſchen Tone, <hi rendition="#aq">pag. 64</hi> und <hi rendition="#aq">65</hi>, den Meiſtern von groſſer <hi rendition="#aq">Suffiſance</hi> geſagt wor-
+          <lb />den, daß man ihnen einen Baß vorlegen koͤnne, deſſen fuͤnff, ja zwey erſte
+          <lb />Noten, falls dieſelbe <hi rendition="#aq"><foreign xml:lang="lat">ſine hæſitatione</foreign></hi> getroffen wuͤrden, zu ihrem ſonderbahren
+          <lb />Lobe gereichen ſolten.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p2-1-s2">Nun bin ich ſeit dem hie und da angezwacket worden,
+          <lb />ſolches dereinſt zu bewerckſtelligen, und zwar mit einer gegenſeitigen <hi rendition="#aq"><foreign xml:lang="fra">Air</foreign></hi>, die da
+          <lb />gleichſam ſagen wolte: Es ſtuͤnde was darum zu lachen.</s>
+        </p>
+      </div>
+
+      <div n="3">
+        <lb /><head>§. 3.</head>
+        <p xml:id="p3-1">
+          <lb /><s xml:id="p3-1-s1" corresp="comments_1731.xml#p3-1-s1">Wie weit ſich dergleichen Leute nun <hi rendition="#aq">proſtitu</hi>iren wuͤrden, wenn, bey einer
+          <lb />oͤffentlichen Verſammlung, ihre Bloͤſſe ſolcher Geſtalt etwan entdecket werden
+          <lb />moͤchte (denn <hi rendition="#aq"><foreign xml:lang="lat">privatim</foreign></hi> verbindet dieſer <hi rendition="#aq"><foreign xml:lang="fra">defi</foreign></hi> zu nichts) das laſſe an ſeinem Or-
+          <lb />te geſtellet bleiben.</s> <s xml:id="p3-1-s2" corresp="comments_1731.xml#p3-1-s2">Bisher hat man Bedencken getragen, Anſtalt zu ihrer Be-
+          <lb />ſchimpffung zu machen, welches ſonſt leicht geſchehen koͤnte.</s> <s xml:id="p3-1-s3" corresp="comments_1731.xml#p3-1-s3">Jndeſſen, ob gleich
+          <lb />der Baß, den man damahls eben <hi rendition="#aq"><foreign xml:lang="fra">en veüe</foreign></hi> gehabt, hierinn gar nicht anzutreffen,
+          <lb />und noch gantz anders klingt, als dieſe <hi rendition="#b">Prob-Stuͤcke</hi> (angeſehen jener bloß
+          <lb />zum Poſſen geſetzt iſt, und hundert dergleichen geſetzt werden moͤgen; dieſe aber
+          <lb />wuͤrcklich ſich in die Schrancken einer Nothwendigkeit und eines ernſtlichen <hi rendition="#aq">Re-
+          <lb />quiſiti</hi> einſchlieſſen laſſen) ſo mag doch ein ſolcher ſchon daraus, <hi rendition="#aq"><foreign xml:lang="lat">quaſi ex ungue,
+          <lb />leonem</foreign></hi> kennen lernen, und ſeinen Geiſt pruͤfen, ob er noch eine ſchaͤrffere Probe,
+          <lb />als gegenwaͤrtige, aushalten wolle?</s> <s xml:id="p3-1-s4">Und ſo viel ſey dieſen Herrn vorgetragen.</s>
+        </p>
+      </div>
+
+      <div n="4">
+        <lb /><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb /><s xml:id="p4-1-s1" corresp="comments_1731.xml#p4-1-s1">Solten ſich aber auch die <hi rendition="#aq">Sceptici</hi> und Anhaͤnger der <hi rendition="#aq">Pyrrhonismi</hi> gar ver-
+          <lb />lauten laſſen, ſie zweiffelten, ob der <hi rendition="#aq">Autor</hi> ſelber die Sachen, dadurch er andere
+          <lb />probiren wolle, ſpielen koͤnte, wie denn vernehme, daß ſich hiedurch viele <hi rendition="#aq">Idio-
+          <lb />ten</hi> ſchon eine <hi rendition="#aq"><foreign xml:lang="fra">Trophée</foreign></hi> auffgerichtet zu haben vermeynen; So dienet mit we-
+          <lb />nigen auf dieſen liederlichen Einwurff zur Nachricht, daß, wenn derſelbe auch
+          <lb />gleich nicht mit hundert lebendigen Zeugen den Augenblick zu vernichten, und der-
+          <lb />jenigen keiner mehr in der Welt waͤre, denen ich die Ehre gehabt meine geringfuͤgi-
+          <lb />ge <hi rendition="#aq">Information</hi> eben uͤber dieſes Werck mitzutheilen, wenn, ſage ich, keiner meiner
+          <lb /><hi rendition="#aq"><foreign xml:lang="fra">ecoliers</foreign></hi> hier præſtiren koͤnte, was man dem <hi rendition="#aq">Autori</hi> und <hi rendition="#aq"><foreign xml:lang="fra">Maitre</foreign></hi> ſelbſt nicht zu-
+          <lb />trauet, welches, da es ja wahr, jenen ein groſſer Schimpff ſeyn mag, die
+          <fw type="catch" place="bottom">Mei-</fw>
+          <pb facs="#facs-p460" n="238" />
+          <lb />Meiſter ſeyn wollen, und es nicht koͤnnen; Wenn ich gleich hier, ſo zu reden, keine
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">Exceptionem fori</foreign></hi> machen koͤnte, und mich von jedem Holuncken auf die Probe
+          <lb />ſetzen laſſen muͤſte, ſo ſehe doch nicht, was den Suͤndern alles dieſes helffen wuͤr-
+          <lb />de.</s> <s xml:id="p4-1-s2" corresp="comments_1731.xml#p4-1-s2">Denn erſtlich ſetze zum Grunde, daß einer ſolche Probe niemand <hi rendition="#aq"><foreign xml:lang="fra">raiſonna-
+          <lb />blement</foreign></hi> unterworffen ſeyn kan, als der ſich unbedachtſamer Weiſe vermißt, al-
+          <lb />les aus dem Stegreiff, ohne Unterſcheid, <hi rendition="#aq"><foreign xml:lang="lat">ex tempore</foreign></hi> wegſpielen zu koͤnnen.</s> <s xml:id="p4-1-s3" corresp="comments_1731.xml#p4-1-s3">So
+          <lb />weit aber gibt man ſich diſſeits nicht ab; ſondern geſteht gerne, daß, je mehr der
+          <lb />Sache nachgedacht wird, je unerfahrner man ſich befinde.</s> <s xml:id="p4-1-s4" corresp="comments_1731.xml#p4-1-s4">Es kan auch niemand
+          <lb />ſo dencken oder ſprechen, als hoͤchſt-unbeſonnene Menſchen, deren es die Menge
+          <lb />gibt, und denen der Kopff zu rechte gebracht werden muß.</s> <s xml:id="p4-1-s5" corresp="comments_1731.xml#p4-1-s5">Geſetzt auch, man
+          <lb />waͤre ein bloſſer <hi rendition="#aq">Componiſte</hi>, und lieſſe ſich, nebſt andern unausſetzlichen Verrich-
+          <lb />tungen, das <hi rendition="#aq"><foreign xml:lang="lat">Studium melopoeticum</foreign></hi> ſo angelegen ſeyn, daß die gehoͤrige <hi rendition="#aq">Praxis</hi>
+          <lb />des Claviers einiger maſſen dadurch hindan geſetzet wuͤrde, ſo daß, was wohl ehe
+          <lb />fertig von der Fauſt weggegangen, aus Mangel der Ubung, anitzo nicht ſo gar
+          <lb />glatt heraus kaͤme; Wie folgt daraus ein buͤndiger Schluß, daß andere deßwe-
+          <lb />gen zu entſchuldigen ſind.</s> <s xml:id="p4-1-s6" corresp="comments_1731.xml#p4-1-s6">Man ſetzet tauſend Sachen, die der <hi rendition="#aq">Autor</hi> ſelber zu
+          <lb /><hi rendition="#aq">executi</hi>ren nicht gebunden iſt, noch ſeyn kan.</s> <s xml:id="p4-1-s7" corresp="comments_1731.xml#p4-1-s7">Jch koͤnte wohl vor dem hauptferti-
+          <lb />gen <hi rendition="#aq">Virtuo</hi>ſen, <hi rendition="#aq">Monſr.</hi> <persName><hi rendition="#b">Loſen</hi>, <hi rendition="#aq">Jun.</hi></persName> ein <hi rendition="#aq">Violino Solo</hi> ſetzen, daß weder ich noch
+          <lb />zehen andere zu ſpielen <hi rendition="#aq"><foreign xml:lang="fra">capable</foreign></hi>; deßwegen wird ers doch thun.</s> <s xml:id="p4-1-s8" corresp="comments_1731.xml#p4-1-s8">Es baͤte mich,
+          <lb />zum Exempel, der <hi rendition="#aq"><foreign xml:lang="fra">habile</foreign></hi> Kuͤnſtler, <persName><hi rendition="#aq">Monſieur</hi> <hi rendition="#b">Keiſer</hi></persName>, ich moͤchte ihm ein <hi rendition="#aq">Solo</hi>
+          <lb />vor die Floͤte ſetzen (darauf er wie ein Vogel iſt) ſo wuͤrde mich wohl nicht unterſte-
+          <lb />hen ſelbiges zu ſpielen, ob ich gleich ſonſt eine ſehr troͤſtliche Geige und ſtoltze Floͤte
+          <lb /><hi rendition="#aq">tracti</hi>re; Hergegen ihm wuͤrde die Wegerung verdacht werden.</s> <s xml:id="p4-1-s9" corresp="comments_1731.xml#p4-1-s9">Tauſend der-
+          <lb />gleichen waͤren anzufuͤhren, wenn man ſich dißfalls zu <hi rendition="#aq">juſtifici</hi>ren noͤthig haͤtte;
+          <lb />allein, jedermann wird von ſelbſten ſchlieſſen, daß das <hi rendition="#aq">Argument</hi> falſch ſey, wenn
+          <lb />man ſagte: Der <hi rendition="#aq">Autor</hi> kan dieſe <hi rendition="#aq"><foreign xml:lang="fra">Pieçen</foreign></hi> ſelber nur ſo <hi rendition="#aq"><foreign xml:lang="lat">taliter qualiter</foreign></hi> ſpielen,
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">ergo</foreign></hi>, duͤrffens andere gar nicht koͤnnen.</s> <s xml:id="p4-1-s10" corresp="comments_1731.xml#p4-1-s10">Es iſt hier die Frage nicht, was der
+          <lb /><hi rendition="#aq">Autor</hi> kan, ſondern was der eingebildete Burſche kan, der ein <hi rendition="#aq"><foreign xml:lang="lat">Omniſcius</foreign></hi> ſeyn
+          <lb />will?</s> <s xml:id="p4-1-s11" corresp="comments_1731.xml#p4-1-s12">Damit er aber nicht meyne, ich wolle es gar von mir lehnen, ſo will ich doch,
+          <lb />ohne eintzigen Ruhm, hiemit verſichert haben, daß, wenn es auf eine Probe an-
+          <lb />kommen ſolte, man noch endlich wohl damit fortzukommen, und der ſchlechteſte
+          <lb />nicht zu ſeyn, hoffen wolte.</s> <s xml:id="p4-1-s12" corresp="comments_1731.xml#p4-1-s13">Es wird ja niemand ſo naͤrriſch ſeyn, daß er ſich
+          <lb />von Hudlern weiß machen laſſe, es ſey die <hi rendition="#b"><bibl corresp="#ed_pnf_pcb_5lb">Organiſten-Probe</bibl></hi> etwan wie die
+          <fw type="catch" place="bottom">Pla-</fw>
+          <pb facs="#facs-p461" n="239" />
+          <lb />Platoniſche <hi rendition="#aq">Republic</hi>.</s> <s xml:id="p4-1-s13" corresp="comments_1731.xml#p4-1-s14">Mit meiner unſchuldigen <name type="musicalWork" corresp="#ed_xlx_gfb_5lb"><hi rendition="#i">Sonata</hi> <hi rendition="#b">vors Clavier</hi></name> habe
+          <lb />ſchon dergleichen <hi rendition="#aq"><foreign xml:lang="lat">Fata</foreign></hi> erlebet, da es erſtlich hieß: Jch koͤnne ſie ſelber nicht ſpie-
+          <lb />len; und wie dieſe Unwahrheit endlich, bey Gelegenheit oͤffentlicher <hi rendition="#aq">Concerte</hi>,
+          <lb />vor vielen Zuhoͤrern zu Schanden wurde, wuſten die Tropffen ſonſt nichts zu ſa-
+          <lb />gen: Als ich haͤtte gut ſpielens; es waͤre meine eigene Arbeit; andere wuͤrdens
+          <lb />wohl bleiben laſſen; deßwegen haͤtte ich die <hi rendition="#aq">Sonata</hi> mir auch ſelber <hi rendition="#aq"><foreign xml:lang="lat">indirecte</foreign></hi>
+          <lb /><hi rendition="#aq">dedici</hi>ren wollen, mit den Worten: <hi rendition="#aq"><foreign xml:lang="fra">Dediée à celui qui la jouera le mieux</foreign></hi>, und
+          <lb />was des abgeſchmackten Zeuges mehr war, welches wohl ein Frauenzim&#x0303;er <hi rendition="#aq"><foreign xml:lang="lat">mathe-
+          <lb />matice</foreign></hi>, das iſt zu ſagen: mit Spielen, widerlegen kan.</s> <s xml:id="p4-1-s14" corresp="comments_1731.xml#p4-1-s15">Nun ſtelle mir ſchon vor,
+          <lb />daß die Pflaſter-Treter nicht viel anders <hi rendition="#aq">raiſonni</hi>ren werden, wenn ſie Gelegen-
+          <lb />heit haben ſolten, ihre uͤber gegenwaͤrtige Arbeit gehabte Traͤume vernichtet zu
+          <lb />ſehen.</s> <s xml:id="p4-1-s15" corresp="comments_1731.xml#p4-1-s16">Wollen ſie doch mein <name type="musicalWork" corresp="#ed_cx1_yqx_slb"><hi rendition="#b">Harmoniſches Denckmahl</hi></name> nicht gelten laſſen,
+          <lb />vielweniger ihren Schuͤlern zu kauffen anrathen, unter dem Vorwand: Die
+          <lb />Sachen koͤnten wegen der Schluͤſſel und anderer Umſtaͤnde hier zu Lande, <hi rendition="#aq"><foreign xml:lang="lat">quod
+          <lb />mirum</foreign></hi>, nicht gebraucht werden; da doch die wahre Urſache iſt, daß die guten
+          <lb />Helden nicht <hi rendition="#aq"><foreign xml:lang="fra">capables</foreign></hi> ſind, die <hi rendition="#aq">Suiten</hi> zu ſpielen.</s> <s xml:id="p4-1-s16" corresp="comments_1731.xml#p4-1-s17">Und derowegen, ihre Unwiſſen-
+          <lb />heit zu beſchoͤnen, einfaͤltigen Leuten einpraͤgen wollen, der <hi rendition="#aq">Autor</hi> ſey eben ſo
+          <lb />ein Schoͤps wie ſie, und koͤnne ſein eigen Machwerck ſelbſt nicht ſpielen, alsdann
+          <lb />vermeynen ſie ſich recht wohl verantwortet zu haben.</s> <s xml:id="p4-1-s17" corresp="comments_1731.xml#p4-1-s18">O! moͤchte ich doch die Freu-
+          <lb />de ſehen, daß ſolche <hi rendition="#aq"><foreign xml:lang="fra">Pygmées</foreign></hi>, ihrer jaͤmmerlichen Stuͤmperey und <surplus reason="repeated">und</surplus> ungeſcheu-
+          <lb />ten <hi rendition="#aq"><foreign xml:lang="fra">mediſance</foreign></hi> wegen, einſt durch dieſe gegenwaͤrtige ſchlechte <hi rendition="#b">Prob-Stuͤcke</hi>
+          <lb />ſchamroth gemacht wuͤrden! ich hoffe es.</s>
+        </p>
+      </div>
+
+      <div n="5">
+        <lb /><head>§. 5.</head>
+        <p xml:id="p5-1">
+          <lb /><s xml:id="p5-1-s1" corresp="comments_1731.xml#p6-1-s1">Damit aber wiederum zum <hi rendition="#aq"><foreign xml:lang="fra">Propos</foreign></hi> geſchritten werde, muß ich bey dieſem
+          <lb />letzten Exempel den <hi rendition="#aq">Scrupel</hi> nicht unerinnert laſſen, der mir, wegen der <hi rendition="#aq">Signaturen</hi>,
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">in ſpecie</foreign></hi> bey dergleichen Tonen, aufſtoͤſt.</s> <s xml:id="p5-1-s2" corresp="comments_1731.xml#p6-1-s2">Da ſtelle nun zwar feſt, daß naͤchſt <hi rendition="#aq">H dur</hi>,
+          <lb /><hi rendition="#aq">Cis moll</hi>, <hi rendition="#aq">Gis dur</hi>, und <hi rendition="#aq">B moll</hi>, dieſe viere, ſo wie ſie in der Ordnung folge&#x0303;, die ſchwer-
+          <lb />ſten ſeyn moͤgen, nemlich: <hi rendition="#aq">Fis dur</hi>, <hi rendition="#aq">Gis moll</hi>, <hi rendition="#aq">Dis moll</hi>, und endlich <hi rendition="#aq">Cis dur</hi>.</s> <s xml:id="p5-1-s3" corresp="comments_1731.xml#p6-1-s3">Es wuͤr-
+          <lb />de ſich aber vieles dabey leichter thun laſſen, wenn man nur <hi rendition="#aq">Signa</hi> und Noten genug
+          <lb />haͤtte, alles zu <hi rendition="#aq">exprimi</hi>ren.</s> <s xml:id="p5-1-s4" corresp="comments_1731.xml#p6-1-s4 comments_1731.xml#p6-1-s5">Daß wir aber ſolches nicht haben, will ich beweiſen,
+          <lb />und zwar nur, Kuͤrtze halber, nach Maßgebung gegenwaͤrtiger letzten <hi rendition="#aq"><foreign xml:lang="fra">Pieçe</foreign></hi>, zu-
+          <lb />mahl die mit b bezeichnete, der <hi rendition="#aq">Inconvenience</hi> nicht ſo ſehr unterworffen zu ſeyn
+          <lb />ſcheinen, Jch habe aber dieſes Prob-Stuͤck <hi rendition="#aq">expreſſe</hi> auf die Art notiret, wie es
+          <fw type="catch" place="bottom">vie-</fw>
+          <pb facs="#facs-p462" n="240" />
+          <lb />viele groſſe Meiſter thun (davon ich hernach Exempel anfuͤhren will) damit einer
+          <lb />ſehe, ob ihm dieſe oder die <hi rendition="#aq">p. 55, 89</hi> und <hi rendition="#aq">216</hi> gebrauchte Weiſe am bequemſten.</s> <s xml:id="p5-1-s5" corresp="comments_1731.xml#p6-1-s6">Mir
+          <lb />gefallen ſie beyde nicht recht.</s> <s xml:id="p5-1-s6" corresp="comments_1731.xml#p6-1-s7">Denn da findet man im <ref target="#measure-0000000757918812">neunten Tact</ref> dieſes Exempels
+          <lb />ein <hi rendition="#aq">a</hi>, welches ausſiehet, als ſey es ein <hi rendition="#aq">gis</hi>.</s> <s xml:id="p5-1-s7" corresp="comments_1731.xml#p6-1-s8">Ein gleiches <hi rendition="#aq">g</hi> trifft man an im <ref target="#measure-0000001902389584 #measure-0000001970287854 #measure-0000000737409305 #measure-0000002052761829 #measure-0000000282283820">dreyzehn-
+          <lb />ten, vierzehnten, funffzehnten, ſechszehnten und achtzehnten Tact</ref> des erſten Theils.</s>
+          <lb /><s xml:id="p5-1-s8" corresp="comments_1731.xml#p6-1-s8"><hi rendition="#aq">It.</hi> im <ref target="#measure-0000001848293689 #measure-0000001820696360 #measure-0000000016163823 #measure-0000001700473557 #measure-0000000216118412 #measure-0000000094332557 #measure-0000001711379764 #measure-0000001097449125 #measure-0000001025439776">erſten, zweyten, dritten, vierdten, ſechſten, achten, neunten, elfften und
+          <lb />dreyzehnten Tact</ref> des andern Theils, welches wie ein <hi rendition="#aq">fis</hi> in die Augen faͤllt.</s> <s xml:id="p5-1-s9" corresp="comments_1731.xml#p6-1-s9">Es
+          <lb />ſtoͤſſt im <ref target="#measure-0000001820696360 #measure-0000000216118412 #measure-0000001025439776">zweyten, ſechſten und dreyzehnten Tact</ref> des zweyten Theils <sic>in</sic> <hi rendition="#aq">e</hi> auf, wel-
+          <lb />ches eben ſo fremd iſt, anbey im <ref target="#measure-0000000216118412 #measure-0000000094332557">ſechſten und achten Tact</ref> beſagten Theils ein gewiſ-
+          <lb />ſes <hi rendition="#aq">d</hi>, das auch nicht <hi rendition="#aq">legitim</hi> heiſſen kan. &#xA75B;c.</s>
+        </p>
+      </div>
+
+      <div n="6">
+        <lb /><head>§. 6.</head>
+        <p xml:id="p6-1">
+          <lb /><s xml:id="p6-1-s1" corresp="comments_1731.xml#p7-1-s1">Nun moͤchte zwar ſolche <hi rendition="#aq">Inconvenience</hi> beym <hi rendition="#aq">Recitativo</hi> nicht ſo ſtarck er-
+          <lb />ſcheinen, weil das <hi rendition="#aq">Accompagnement</hi> alda nicht ſo genau aneinander haͤnget;
+          <lb />aber in <hi rendition="#aq">arieu</hi>ſen Sachen ſiehet es wuͤrcklich ſehr mangelhafft aus, welches niemand
+          <lb />widerſprechen kan.</s> <s xml:id="p6-1-s2" corresp="comments_1731.xml#p7-1-s2">Wie dieſem Mangel aber abzuhelffen, das iſt eine Frage.</s>
+        </p>
+      </div>
+
+      <div n="7">
+        <lb /><head>§. 7.</head>
+        <p xml:id="p7-1">
+          <lb /><s xml:id="p7-1-s1" corresp="comments_1731.xml#p8-1-s1 comments_1731.xml#p8-1-s2 comments_1731.xml#p8-1-s3">Es haben ſchon, nebſt verſchiedenen andern, ſowohl <hi rendition="#aq"><persName corresp="#ed_knv_rsx_qlb">Kircherus</persName></hi> als <hi rendition="#aq"><persName corresp="#ed_os2_1vx_qlb">Buliows-
+          <lb />ki</persName></hi>, zwar nicht ihre eigene, doch die vermeinten vielfaͤltigen Maͤngel unſers Claviers
+          <lb />wahrgenommen, und denſelben geſucht durch die drey Ordnungen der <hi rendition="#aq">Palmularum</hi>
+          <lb />zu Huͤlffe zu kommen, da, anſtatt der 12 <hi rendition="#aq">Intervallen</hi>, womit ſich unſere <hi rendition="#aq">Octave</hi> be-
+          <lb />hilfft, neunzehn ſeyn muͤſten, nemlich: eine <hi rendition="#aq">Clavis</hi> zwiſchen <hi rendition="#aq">h</hi> und <hi rendition="#aq">c</hi>, eine uͤber dem
+          <lb /><hi rendition="#aq">cis</hi>, eine uͤber dem <hi rendition="#aq">dis</hi>, denn zwiſchen <hi rendition="#aq">e</hi> und <hi rendition="#aq">f</hi>, uͤber dem <hi rendition="#aq">fis</hi>, <hi rendition="#aq">gis</hi> und <hi rendition="#aq">b</hi>, (welches ei-
+          <lb />gentlich ins <hi rendition="#aq"><foreign xml:lang="lat">genus enharmonicum</foreign></hi> treten heiſt) ſo will doch ſolche <hi rendition="#aq">prætendir</hi>te <hi rendition="#aq">E-
+          <lb />mendation</hi> noch lange nicht zureichen, ſondern entdecket nur immer mehr was
+          <lb />daran fehlet, und wenn wir die <hi rendition="#aq"><foreign xml:lang="lat">Octavam diatono-chromatico-enharmonicam</foreign></hi>,
+          <lb />der gemeinen Meinung nach, recht vollſtaͤndig haben wolten, ſo muͤſten, <hi rendition="#aq"><foreign xml:lang="lat">ſecundum
+          <lb /><persName corresp="#ed_knv_rsx_qlb">Kircheri</persName> Syſtema</foreign></hi>, 24 <hi rendition="#aq">Intervalla</hi> daraus werden. <hi rendition="#aq"><abbr>vid.</abbr> <abbr>ej.</abbr> <bibl corresp="#ed_wcp_pz1_5lb">Muſurg.</bibl> pag. 150.</hi></s> <s xml:id="p7-1-s2" corresp="comments_1731.xml#p9-1-s1">Ja,
+          <lb />wenn wir noch weiter gehen, und <hi rendition="#aq"><foreign xml:lang="lat">per commata</foreign> procedi</hi>ren, ſo kommen gar 47 <hi rendition="#aq">In-
+          <lb />tervalla</hi> in einer eintzigen <hi rendition="#aq">Octave</hi> fuͤr.</s> <s xml:id="p7-1-s3" corresp="comments_1731.xml#p11-1-s2">Allein, obgleich die <hi rendition="#aq"><foreign xml:lang="lat">ratio</foreign></hi> hier <hi rendition="#aq"><foreign xml:lang="lat">eadem</foreign></hi> iſt, ſo
+          <lb />iſt doch etwas vollkommenes (geſetzt es ſey vollkommen) unſern unvollkomme-
+          <lb />nen Ohren nicht noͤthig, ſondern in gewiſſen Stuͤcken zuwider, und wolte ich die
+          <lb /><hi rendition="#aq">Confuſion</hi> ſehen, die einer haben wuͤrde, auf einem ſolchen Clavier zu ſpielen, er
+          <lb />muͤſte denn von neuem in die Schule gehen, und das waͤre eben keine Schande.</s>
+          <fw type="catch" place="bottom">Bey</fw>
+          <pb facs="#facs-p463" n="241" />
+          <lb /><s xml:id="p7-1-s4">Bey wem aber?</s> <s xml:id="p7-1-s5" corresp="comments_1731.xml#p11-1-s3">Es iſt auch, allem <hi rendition="#aq">raiſonni</hi>ren ungeachtet, noch biß <hi rendition="#aq">dato</hi> keine
+          <lb />Aenderung hierinnen, mit Beſtand und <hi rendition="#aq">generaler</hi> Aufnahme, vorgenom&#x0303;en, wie-
+          <lb />wohl ſolches beym erſten Anblick nicht unrecht zu ſeyn ſcheinet; ſondern wir folgen
+          <lb />dem alten Satz: <hi rendition="#aq"><foreign xml:lang="lat">Uſus eſt Tyrannus.</foreign></hi></s> <s xml:id="p7-1-s6" corresp="comments_1731.xml#p11-1-s4">Es laͤſt ſich auch, vermittelſt einer geſchick-
+          <lb />ten <hi rendition="#aq">Temperatur</hi> (davon <persName corresp="#ed_u1q_mlx_qlb"><hi rendition="#b">Werckmeiſter</hi></persName> etwas gutes, <persName corresp="#ed_g1w_hxy_qlb"><hi rendition="#b">Neidhardt</hi></persName> aber etwas
+          <lb />beſſers ans Licht gegeben) unſer Gehoͤr handeln und leicht befriedigen; aber die
+          <lb />Augen, durch deren Canal, beym Spielen, unſere Finger gleichſam ihre <hi rendition="#aq"><foreign xml:lang="fra">Ordre</foreign></hi> em-
+          <lb />pfangen, geben es nicht ſo guten Kauffs, und davon nur iſt hier die Rede.</s>
+        </p>
+      </div>
+
+      <div n="8">
+        <lb /><head>§. 8.</head>
+        <p xml:id="p8-1">
+          <lb /><s xml:id="p8-1-s1">Jch wolte wohl ein kleines Mittel zu ihrer Befriedigung vorſchlagen; al-
+          <lb />lein, wer weiß, ob es angenommen wird.</s> <s xml:id="p8-1-s2">Zu ſolchen <hi rendition="#aq">Projecten</hi> gehoͤret nicht nur
+          <lb />ein allgemeiner <hi rendition="#aq">Credit</hi>, und die daraus folgende <hi rendition="#aq">Approbation</hi>; ſondern es <hi rendition="#aq">depen-
+          <lb />di</hi>ren dergleichen Sachen, eben ſo wohl als andere, ſo zu reden, von einer gewiſſen <hi rendition="#aq"><foreign xml:lang="fra">Fa-
+          <lb />talité</foreign></hi>.</s> <s xml:id="p8-1-s3">Jndeſſen, da wir heutiges Tages aus vielen Tonen ſpielen, die den Alten
+          <lb />unbekandt geweſen ſind, ſo moͤchten auch unſere Nachkommen vielleicht der Sache
+          <lb />mehr nachdencken als wir, und wuͤrde eine kleine Handleitung bey ihnen nicht un-
+          <lb />willkommen ſeyn.</s>
+        </p>
+      </div>
+
+      <div n="9">
+        <lb /><head>§. 9.</head>
+        <p xml:id="p9-1">
+          <lb /><s xml:id="p9-1-s1" corresp="comments_1731.xml#p12-1-s1">Jch vermuthe mir gantz gewiß, daß nach etlich hundert Jahren, wenns der
+          <lb />juͤngſte Tag nicht verhindert, die <hi rendition="#aq">Muſici</hi> das <hi rendition="#aq">Cis dur</hi> und <hi rendition="#aq">Gis moll</hi> eben ſo leicht
+          <lb /><hi rendition="#aq">tracti</hi>ren werden, als unſere Dorff-Organiſten das <hi rendition="#aq">C dur</hi>; ja, ich halte ſie werden
+          <lb />ſich dieſes letzten Tons wohl gar ſchaͤmen, wie ich denn ſchon bemercket habe, daß er
+          <lb />ſich in <hi rendition="#aq">galanter Compoſition</hi> wenig oder gar nicht mehr ſehen laͤſt.</s> <s xml:id="p9-1-s2">Es liegen Z. E.
+          <lb />eben wie ich dieſes ſchreibe, bey mir ungefehr auf dem Tiſche, die <name type="musicalWork" corresp="#ed_ilx_shj_vlb"><hi rendition="#b">Fuͤrſtl. Weyma-
+          <lb />riſchen</hi> <hi rendition="#aq">Concerte</hi></name>, und <name type="musicalWork" corresp="#ed_vbj_1hj_vlb"><hi rendition="#aq">L’Eſtro Armonico</hi></name> von <persName corresp="#ed_ntr_ghy_qlb"><hi rendition="#aq">Vivaldi</hi></persName>, in welchen beyden Wercken
+          <lb />kein Stuͤck aus dem <hi rendition="#aq">C dur</hi>, in jedem aber ein <hi rendition="#aq">Concert</hi> aus dem <hi rendition="#aq">E dur</hi> vorkommt,
+          <lb />darinn ſich ♯<hi rendition="#aq">H</hi>, ♯<hi rendition="#aq">E</hi>, ♯<hi rendition="#aq">A</hi>, <hi rendition="#aq">Cis dur</hi>, <hi rendition="#aq">Cis moll</hi>, <hi rendition="#aq">Gis dur</hi>, <hi rendition="#aq">Gis moll</hi>, <hi rendition="#aq">Fis dur</hi>, <hi rendition="#aq">&amp;c.</hi> auff
+          <lb />allen Seiten und Zeilen finden laſſen.</s> <s xml:id="p9-1-s3">Wenn ich die Muͤhe nehmen wolte, weiter
+          <lb />nach zu forſchen, duͤrffte ſich das <hi rendition="#aq"><foreign xml:lang="lat">Exilium</foreign></hi> des <hi rendition="#aq">C dur</hi> noch klaͤrer zeigen, und meine
+          <lb />obige Anmerckung bekraͤfftigen; falls auch aus <hi rendition="#aq"><foreign xml:lang="lat"><sic>præreritis</sic> ad futurum</foreign></hi> zu ſchlieſ-
+          <lb />ſen erlaubet iſt, wird meine Muthmaſſung wohl nicht ſo gar ungereimt ſeyn.</s> <s xml:id="p9-1-s4" corresp="comments_1731.xml#p12-1-s2"><hi rendition="#aq"><foreign xml:lang="fra">Ce
+          <lb />qui faiſoit honneur il y a cent an, eſt en quelque maniere honteux aujourdhui.</foreign></hi></s>
+          <fw type="catch" place="bottom">i. e.</fw>
+          <pb facs="#facs-p464" n="242" />
+          <lb /><s xml:id="p9-1-s5" corresp="comments_1731.xml#p12-1-s2"><hi rendition="#aq"><abbr>i. e.</abbr></hi> Was fuͤr hundert Jahren eine Ehre war, deſſen ſchaͤmet man ſich heut zu Tage
+          <lb />einiger maſſen; ſo ſagt der beruͤhmte <persName corresp="#ed_b8r_r1t_mlb"><hi rendition="#aq">Comte de Buſſy</hi></persName> <hi rendition="#aq">pag. 105.</hi> ſeiner <bibl corresp="#ed_nhc_gbb_5lb"><hi rendition="#aq">Memoires</hi></bibl>.</s>
+        </p>
+      </div>
+
+      <div n="10">
+        <lb /><head>§. 10.</head>
+        <p xml:id="p10-1">
+          <lb /><s xml:id="p10-1-s1" corresp="comments_1731.xml#p12-1-s3"><persName corresp="#ed_dwf_j5x_qlb"><hi rendition="#aq">Monſr. de St. Lambert</hi></persName> pflichtet meinen Gedancken, auf eine <hi rendition="#aq">muſicali</hi>ſchere
+          <lb />Weiſe als <persName corresp="#ed_b8r_r1t_mlb"><hi rendition="#aq">Buſſy</hi></persName>, ziemlich bey, wenn er in offt angefuͤhrtem <bibl corresp="#ed_hfr_2cl_tlb"><hi rendition="#aq">Tractat</hi> vom General-
+          <lb />Baß</bibl>, <hi rendition="#aq">pag. 27</hi> von unſern Tonen ſo redet:</s> <hi rendition="#aq"><quote xml:lang="fra" xml:id="lambert-quote" corresp="#lambert-quote-trans"><s xml:id="p10-1-s2"><foreign xml:lang="fra">Parmi ces Tons il y en a qui ſont d’un
+          <lb />plus grand uſage que les autres.</foreign></s> <s xml:id="p10-1-s3"><foreign xml:lang="fra">Il y en a meme quelques uns, qui n’ont <hi rendition="#i">peute-
+          <lb />tre</hi> jamais eté mis en oeuvre (cela veut dire, pour fondement abſolu d’une pieçe)
+          <lb />mais je n’en ai voulu omettre aucun dans la demonſtration, parce que la plus part
+          <lb />de nos Compoſiteurs en employant maintenant pluſieurs, qui n’etoient point en
+          <lb />uſage auparavant, il ſe pourra faire, NB. <hi rendition="#i">qu’ils viendront enfin à les rendre
+          <lb />TOUS auſſi communs les uns que les autres.</hi></foreign></s></quote></hi> <s xml:id="p10-1-s4"><abbr>D. i.</abbr></s> <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote"><s xml:id="p10-1-s5" corresp="comments_1731.xml#p12-1-s4 comments_1731.xml#p12-1-s5">Es giebt unter dieſen Tonen
+          <lb />etliche, die gebraͤuchlicher ſind als die andern; ja, es ſind gar einige darunter, die
+          <lb />noch <hi rendition="#b">vielleicht</hi> niemahls zum Grunde eines Stuͤckes gelegt worden. (<hi rendition="#aq"><abbr>vid.</abbr></hi> die
+          <lb />Vorbereitung)</s> <s xml:id="p10-1-s6" corresp="comments_1731.xml#p12-1-s5">Dennoch habe deren keine in dem Verzeichnuͤs auslaſſen wollen,
+          <lb />(ich auch hier nicht,) weil (<hi rendition="#aq"><foreign xml:lang="lat">ratio</foreign></hi>) die meiſten heutigen <hi rendition="#aq">Compoſiteurs</hi> ſchon viele
+          <lb />davon mitnehmen, die vormahls nicht <hi rendition="#aq"><foreign xml:lang="lat">in uſu</foreign></hi> waren, und <hi rendition="#aq">NB.</hi> es gar wohl kommen
+          <lb />koͤnte, <hi rendition="#b">daß der eine Ton mit der Zeit eben ſo gemein und gebraͤuchlich
+          <lb />wuͤrde, als der andere.</hi></s></quote>
+        </p>
+      </div>
+
+      <div n="11">
+        <lb /><head>§. 11.</head>
+        <p xml:id="p11-1">
+          <lb /><s xml:id="p11-1-s1" corresp="comments_1731.xml#p13-1-s1">Um aber wieder zu unſerm kleinen Vorſchlag zu kehren, wie waͤre es, wenn
+          <lb />wir uns der nicht unbekandten einfachen <hi rendition="#aq">chromatum</hi> bey der Notirung der oben
+          <lb />§. 5. angefuͤhrten Tone bedienten, und ob gleich ſchon ein gewoͤhnliches Doppel-
+          <lb />Creutz ♯ vorne auf dem <hi rendition="#aq">Syſtemate</hi> vorgeſchrieben ſtuͤnde, noch ein ſolches einfa-
+          <lb />ches <hi rendition="#aq">x</hi> bey der Note ſelbſt hin zu ſetzten?</s> <s xml:id="p11-1-s2">Denn ſo lieſſe ſich der vorhin <hi rendition="#aq">citi</hi>rte <ref target="#measure-0000000757918812">neunte
+          <lb />Tact</ref> dieſes letzten Exempels alſo notiren:</s>
+          <figure type="notatedMusic" facs="#facs-p464">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: der neunte Takt der Cis-dur-Fassung, mit einem einfachen x vor dem g.</note>
+          </figure>
+          <lb /><s xml:id="p11-1-s3">Und mit dem <ref target="#measure-0000001902389584 #measure-0000001970287854 #measure-0000000737409305 #measure-0000002052761829">dreyzehnten, vierzehnten, funffzehnten und ſechszehnten Tact</ref> wuͤrde
+          <lb />es folgende Geſtalt gewinnen:</s>
+          <fw type="catch" place="bottom">Hier-</fw>
+          <pb facs="#facs-p465" n="243" />
+          <figure type="notatedMusic" facs="#facs-p465">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: der dreizehnte bis sechzehnte und der achtzehnte Takt der Cis-dur-Fassung in zwei Systemen, mit einem einfachen x vor dem f; über den Takten ihre Nummern (13.) bis (16.) und (18.).</note>
+          </figure>
+          <lb /><s xml:id="p11-1-s4">Hiernaͤchſt moͤchten auch die im andern Theil des <hi rendition="#b">Prob-Stuͤckes</hi> bemeldte Taͤcte,
+          <lb />nemlich: Der <ref target="#measure-0000001848293689 #measure-0000001820696360 #measure-0000000016163823 #measure-0000001700473557 #measure-0000000216118412 #measure-0000000094332557 #measure-0000001711379764 #measure-0000001097449125 #measure-0000001025439776">erſte, zweyte, dritte, vierdte, ſechſte, achte, neunte, elffte und drey-
+          <lb />zehnte</ref>, beſſer, auf dieſe Art, ins Auge fallen:</s>
+          <figure type="notatedMusic" facs="#facs-p465">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: der erste bis vierte, sechste, achte, neunte, elfte und dreizehnte Takt des zweiten Teils der Cis-dur-Fassung in drei Systemen, mit einem einfachen x vor den doppelt erhöhten Noten; über den Takten ihre Nummern (1.) bis (13.).</note>
+          </figure>
+        </p>
+      </div>
+
+      <div n="12">
+        <lb /><head>§. 12.</head>
+        <p xml:id="p12-1">
+          <lb /><s xml:id="p12-1-s1" corresp="comments_1731.xml#p13-1-s3">Keinem will ich indeſſen dieſes Mittel aufdringen, ſondern mich vielmehr
+          <lb />nach deſſen Meinung richten, der mit guten Gruͤnden ein bequemers zu erſinnen
+          <lb />und vorzuſchlagen weiß, damit aus der Sache zu kommen ſey.</s> <s xml:id="p12-1-s2" corresp="comments_1731.xml#p13-1-s4">Man koͤnte zwar
+          <lb />wohl an ſtatt des <hi rendition="#aq">x</hi> das <hi rendition="#aq"><foreign xml:lang="lat">chroma triplex</foreign></hi> <g type="smufl">&#xE265;</g><note type="editorial" resp="#pfeffer">Im Druck ein Kreuz aus je drei sich kreuzenden Strichen.</note> nehmen, allein ich halte dafuͤr, es ſiehet
+          <fw type="catch" place="bottom">dem</fw>
+          <pb facs="#facs-p466" n="244" />
+          <lb />dem ♯ mehr aͤhnlich als das <hi rendition="#aq">x</hi>, und erfordert mehr Schreibens und mehr
+          <lb />Raums, ſonſt moͤchte es gleich viel gelten.</s> <s xml:id="p12-1-s3" corresp="comments_1731.xml#p13-1-s5">Von groſſen Meiſtern habe Exempel, daß
+          <lb />ſie bey ſolchen Faͤllen, wenn gleich ſchon ein ♯ vorne auf <hi rendition="#aq">Syſtemate</hi> geſtanden, noch
+          <lb />eins, eben dergleichen Art, vor der Note die zum andernmahl erhoͤhet werden ſol, hin
+          <lb />zu ſetze&#x0303;, ſo wie ichs hier und anderswo <hi rendition="#aq">imiti</hi>rt habe; obs aber gut und zu <hi rendition="#aq">defendi</hi>ren
+          <lb />ſey, weiß ich nicht.</s> <s xml:id="p12-1-s4">Ein erfahrner ſieht und merckt die Meinung leicht, ein Unerfahr-
+          <lb />ner aber wird dabey ſtutzen.</s> <s xml:id="p12-1-s5" corresp="comments_1731.xml#p13-1-s5">Jch will ein paar Taͤcte herſetzen, darinn ein <hi rendition="#aq">f</hi> vier-
+          <lb />mahl vorkom&#x0303;t, das ſchon ein ♯ vorne auf den Linien hat, und noch eins, eben der-
+          <lb />gleichen, bey der Note zu ſich nimmt, damit endlich ein <hi rendition="#aq">g</hi> daraus werde, und an ſol-
+          <lb />chen Orten haͤtte ich lieber, wenn es thunlich waͤre, das <hi rendition="#aq">x</hi>; doch jedem ſeine
+          <lb />Meinung.</s>
+          <figure type="notatedMusic" facs="#facs-p466">
+            <p><hi rendition="#aq">Del Sig<hi rendition="#sup">re</hi>.</hi> <persName corresp="#ed_lhv_3sx_qlb"><hi rendition="#aq">Hendel</hi></persName>.</p>
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: zwei Akkoladen aus Oberstimme im Violinschlüssel und Baß, mit Kreuzen vorgezeichnet; Noten mit einem zweiten ♯ sind mit Sternchen bezeichnet.</note>
+            <p><hi rendition="#aq">&amp;c.</hi></p>
+          </figure>
+          <fw type="catch" place="bottom">Del</fw>
+          <pb facs="#facs-p467" n="245" />
+          <figure type="notatedMusic" facs="#facs-p467">
+            <p><hi rendition="#aq">Del Sig<hi rendition="#sup">re</hi></hi> <persName corresp="#ed_qr2_hxx_qlb">Heinchen</persName>, <hi rendition="#aq">nella Cantata:</hi>
+            <lb /><hi rendition="#aq"><hi rendition="#i"><name type="musicalWork">Bella, ti laſcio</name> &amp;c.</hi></hi></p>
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: Singstimme im Sopranschlüssel mit dem Text „do - len - - - - te“ und Baß, zunächst im C-, dann im F-Schlüssel, mit Ziffern; doppelt erhöhte Noten haben ein zweites ♯.</note>
+            <p><hi rendition="#aq">&amp;c.</hi></p>
+            <p><hi rendition="#aq">Conf. p. 192. 193.</hi></p>
+          </figure>
+        </p>
+      </div>
+
+      <div n="13">
+        <lb /><head>§. 13.</head>
+        <p xml:id="p13-1">
+          <lb /><s xml:id="p13-1-s1" corresp="comments_1731.xml#p13-1-s5">Meine erſte <hi rendition="#aq"><foreign xml:lang="fra">Raiſon</foreign></hi>, warum ich lieber das <hi rendition="#aq">x</hi> einmahl, als das ♯ zwey-
+          <lb />mahl haͤtte, iſt dieſe: Weil ich mit dem <hi rendition="#aq">x</hi>, auch ohne vorgeſetztem ♯, meine <hi rendition="#aq">Inten-
+          <lb />tion</hi>, wie und wo ich nur will, es ſey in welchem <hi rendition="#aq">Syſtemate</hi> es wolle, entdecken und
+          <lb />mit leichter Muͤhe an den Tag geben kan; <note place="foot" n="a)">
+            Von Erfindung des ♯ hat <persName corresp="#ed_jlh_wvy_qlb"><hi rendition="#aq">Zarlinus</hi></persName> eine artige Muthmaſſung, daß man nemlich mit dieſen vier
+            <lb />creutzweiſe geflochtenen Strichlein die Erhoͤhung durch vier <hi rendition="#aq">Commata</hi> habe anzeigen wol-
+            <lb />len, welches ungefehr ein <hi rendition="#aq"><foreign xml:lang="lat">hemitonium minus</foreign></hi> betragen mag. <hi rendition="#aq"><abbr>vid.</abbr> <hi rendition="#i"><persName corresp="#ed_jlh_wvy_qlb">Zarlin.</persName></hi> Vol. I. p. 169.</hi>
+          </note> welches in Sachen, da geſchwind aus
+          <lb />einem Ton in den andern gearbeitet wird, und nicht allemahl alles vorne auf den
+          <lb />Linien angedeutet werden kan, von groſſem Nutzen ſeyn muß: dahingegen, wenn
+          <lb />ich ein wiederholtes ♯ gebrauche, nothwendig eins derſelben ſchon wuͤrcklich vorne
+          <lb />auf dem <hi rendition="#aq">Syſtemate</hi> ſtehen muß, und alſo zwey <hi rendition="#aq">ſigna</hi> fuͤr eins noͤthig ſind, die <hi rendition="#aq"><foreign xml:lang="lat">fi-
+          <lb />gura &amp; poteſtate</foreign></hi> nicht; aber doch <hi rendition="#aq"><foreign xml:lang="lat">locatione</foreign></hi> von einander <hi rendition="#aq">differi</hi>ren, und ziem-
+          <lb />lich ferne gehohlet werden muͤſſen.</s> <s xml:id="p13-1-s2">Wenn ich nun auf dieſe Art Z. E. das <hi rendition="#aq">gis</hi> um
+          <lb />einen halben Ton erhoͤhen, und ein <hi rendition="#aq">a</hi> daraus machen wolte,
+          <lb />muͤſte es, wenn vorne auf den Linien nichts befindlich, alſo
+          <lb />unfoͤrmlich gezeichnet werden:
+          <figure type="notatedMusic" facs="#facs-p467">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel ohne Vorzeichnung zwei ♯ vor der Note g.</note>
+          </figure>
+          <lb />Da es doch auf jene Art bequemer,
+          <lb />und nur dieſes erfordert wuͤrde:</s>
+          <figure type="notatedMusic" facs="#facs-p467">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel ein einfaches x vor der Note g.</note>
+          </figure>
+        </p>
+      </div>
+
+      <fw type="catch" place="bottom">§. 14.</fw>
+      <pb facs="#facs-p468" n="246" />
+      <div n="14">
+        <lb /><head>§. 14.</head>
+        <p xml:id="p14-1">
+          <lb /><s xml:id="p14-1-s1" corresp="comments_1731.xml#p13-1-s5">Meine andere <hi rendition="#aq"><foreign xml:lang="lat">Ratio</foreign></hi>, warum ich lieber ein <hi rendition="#aq">x</hi> als zwey ♯ ♯ haͤtte, iſt die-
+          <lb />ſe: weil mir deutlicher ſcheinet, zweyerley Sachen auch mit zweyerley <hi rendition="#aq"><foreign xml:lang="lat">ſignis</foreign></hi>,
+          <lb />als zweyerley Sachen mit einem und einerley doppelten oder wiederhohltem <hi rendition="#aq"><foreign xml:lang="lat">ſi-
+          <lb />gno</foreign></hi> zu bemercken.</s> <s xml:id="p14-1-s2" corresp="comments_1731.xml#p16-1-s6">Denn ob ich zwar, wie oben erwieſen, allerdings dafuͤr hal-
+          <lb />te, daß man die <hi rendition="#aq"><foreign xml:lang="lat">ſigna</foreign></hi> (<hi rendition="#b">ohne Noth</hi>) nicht vermehre, ſo erfordert doch eben die-
+          <lb />ſe Noth, wenn <hi rendition="#aq"><foreign xml:lang="lat">Res ſignata</foreign></hi> nicht dieſelbe <hi rendition="#aq"><foreign xml:lang="lat">Res</foreign></hi> bleibet, (wie wenn aus <hi rendition="#aq">gis</hi> ein <hi rendition="#aq">a</hi>
+          <lb />wird) oder, wenn durch das Zeichen ein <hi rendition="#aq"><foreign xml:lang="lat">æquivocum</foreign></hi> entſtehet, daß ſo dann, ver-
+          <lb />nuͤnfftiger Weiſe, das <hi rendition="#aq"><foreign xml:lang="lat">ſignum</foreign></hi> nicht eben daſſelbe <hi rendition="#aq"><foreign xml:lang="lat">ſignum</foreign></hi> bleiben koͤnne, ſondern
+          <lb />nothwendig ein Abzeichen haben muͤſſe.</s>
+        </p>
+      </div>
+
+      <div n="15">
+        <lb /><head>§. 15.</head>
+        <p xml:id="p15-1">
+          <lb /><s xml:id="p15-1-s1" corresp="comments_1731.xml#p17-1-s1 comments_1731.xml#p17-1-s2">Aus eben dieſer Urſache bediene ich mich ſonſt gerne des ♮, wenn ein er-
+          <lb />hoͤheter oder erniedrigter Ton wiederum in ſeine natuͤrliche Stelle treten ſoll (wie
+          <lb />es denn die neueſten Jtaliaͤner auch thun) ob es gleich von gar vornehmen <hi rendition="#aq">Com-
+          <lb />poſitoribus</hi> nicht allerdings angenommen, ſondern an deſſen Statt noch immer
+          <lb />das hergebrachte und gewoͤhnliche <hi rendition="#aq">b</hi> und ♯, nachdem der Ton erniedriget oder er-
+          <lb />hoͤhet werden ſoll, hingeſetzet wird.</s> <s xml:id="p15-1-s2" corresp="comments_1731.xml#p17-1-s3">Jch will auch deswegen mit keinem Haͤn-
+          <lb />del anfangen, noch jemand, dem es ſo gelehret worden, und der es nun ſo ge-
+          <lb />wohnt, meiſtern, weil es eine Sache iſt, die nur <hi rendition="#aq"><foreign xml:lang="lat">ad infimam Muſices partem,
+          <lb />nempe ſignatoriam</foreign></hi>, gehoͤret.</s> <s xml:id="p15-1-s3" corresp="comments_1731.xml#p17-1-s4">Allein, es koͤmmt mir doch, mit Erlaubniß, deut-
+          <lb />licher fuͤr, wenn Z. E. aus einem <hi rendition="#aq">b</hi> wieder ein <hi rendition="#aq">h</hi> werden ſoll, daß man ♮ und
+          <lb />nicht ♯ dazu <sic>gebranche</sic>.</s> <s xml:id="p15-1-s4" corresp="comments_1731.xml#p17-1-s5">Denn, wenn ein ♯ fuͤrs <hi rendition="#aq">h</hi> ſtehet, bedeutet es eigentlich <hi rendition="#aq">c</hi>,
+          <lb />und ſo mit den uͤbrigen.</s> <s xml:id="p15-1-s5" corresp="comments_1731.xml#p17-1-s6">Zwar, wer den <hi rendition="#aq"><foreign xml:lang="lat">Ambitum</foreign></hi> kennet, und die <hi rendition="#aq">Connexion</hi>
+          <lb />der Melodie, inſonderheit aber das vorhergehende und folgende betrachtet, ſiehet
+          <lb />leicht, was bey ſolcher Gelegenheit des <hi rendition="#aq">Autoris</hi> Meinung ſey; Allein ein jeder,
+          <lb />voraus ein <hi rendition="#aq">Incipient</hi>, hat ſo viel Nachdenckens und Erfahrung nicht, ja, es koͤn-
+          <lb />nen Saͤtze vorkommen, da es der muſicaliſche <hi rendition="#aq">Context</hi> nicht ſo gar deutlich weiſet,
+          <lb />und der beſte verfuͤhret werden kan.</s> <s xml:id="p15-1-s6" corresp="comments_1731.xml#p17-1-s7">Z. E.
+          <lb /><hi rendition="#aq">Del Sig<hi rendition="#sup">re</hi>. <persName corresp="#ed_fy5_r5x_qlb">Ceſare</persName><note type="editorial" resp="#pfeffer"><abbr>i. e.</abbr> Keiser</note>. nell’Opera <name type="musicalWork" corresp="#ed_sbs_x2c_tlb"><hi rendition="#i">Inganno Fedele</hi></name>.</hi></s>
+          <notatedMusic xml:id="music-example1" facs="#facs-p468">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <fw type="catch" place="bottom">§. 16.</fw>
+      <pb facs="#facs-p469" n="247" />
+      <div n="16">
+        <lb /><head>§. 16.</head>
+        <p xml:id="p16-1">
+          <lb /><s xml:id="p16-1-s1" corresp="comments_1731.xml#p18-1-s1">Wenn nun eine ſolchergeſtalt bezeichnete Note, nach ihrer eigentlichen
+          <lb />Bedeutung, juſt ſo beſchaffen iſt, daß ſie fremd und <hi rendition="#aq"><foreign xml:lang="fra">mal à propos</foreign></hi> klingen wuͤrde,
+          <lb />ſo kan man noch bald mercken, daß der Verfaſſer eine ſolche Note nicht gemeynet
+          <lb />habe; iſt es aber ein <hi rendition="#aq">bA</hi> oder <hi rendition="#aq">bE</hi>, als welche gar gewoͤhnlich vorfallen, ſo gibt es
+          <lb />wuͤrcklich <hi rendition="#aq">Confuſion</hi>, wie ich ſolches inſonderheit bey unpartheyiſchen <hi rendition="#aq"><foreign xml:lang="fra">ecoliers</foreign></hi>
+          <lb />ſelbſt offt mit Verdruß erfahren habe.</s> <s xml:id="p16-1-s2" corresp="comments_1731.xml#p18-1-s2"><hi rendition="#b">Alles, was einen Jrrthum und Ver-
+          <lb />druß verurſachen kan, das ſoll und muß abgeſchaffet werden.</hi></s> <s xml:id="p16-1-s3" corresp="comments_1731.xml#p18-1-s3">So lautet
+          <lb />in <persName corresp="#ed_scp_svx_qlb"><hi rendition="#b">Printzens</hi></persName> <bibl corresp="#ed_pmp_1hl_tlb">Satyr. Componiſten</bibl>, <hi rendition="#aq">Parte II. Cap. VI.</hi> das zweyte <hi rendition="#aq">Axioma</hi>, und
+          <lb />das vierte, ſo auch hieher gehoͤret, iſt ſo eingerichtet: <hi rendition="#b">Ein jedes Zeichen ſoll von
+          <lb />dem andern unterſchieden ſeyn; das iſt, es ſoll nicht zwey oder mehr,
+          <lb />ſondern nur ein Ding andeuten.</hi></s>
+        </p>
+      </div>
+
+      <div n="17">
+        <lb /><head>§. 17.</head>
+        <p xml:id="p17-1">
+          <lb /><s xml:id="p17-1-s1" corresp="comments_1731.xml#p19-1-s1">Oben ſtehen Exempel vom <hi rendition="#aq">bA</hi>; Bey dem <hi rendition="#aq">e</hi> ſiehet es noch wunderlicher
+          <lb />aus, wenn daſſelbe durch ein ♯ erhoͤhet worden und wieder zuruͤck in ſeine natuͤr-
+          <lb />liche Stelle treten ſoll; deßwegen ich auch bemercke, daß der <persName corresp="#ed_fy5_r5x_qlb">Herr Capellmeiſter
+          <lb /><hi rendition="#b">Keiſer</hi></persName> das <hi rendition="#aq">b</hi> lieber gar dabey weggelaſſen hat, wenn er <hi rendition="#aq">pag. 54.</hi> <name type="musicalWork" corresp="#ed_sbs_x2c_tlb"><hi rendition="#aq"><foreign xml:lang="ita">del’Inganno fe-
+          <lb />dele</foreign></hi></name> folgenden Satz anbringet:</s>
+          <notatedMusic xml:id="music-example2" facs="#facs-p469">
+            <ptr target="music-example2.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="18">
+        <lb /><head>§. 18.</head>
+        <p xml:id="p18-1">
+          <lb /><s xml:id="p18-1-s1" corresp="comments_1731.xml#p20-1-s1">Dahingegen wohlgedachter <hi rendition="#aq">Autor</hi> ſich des ♮, nicht nur bey dem eigentlichen
+          <lb /><hi rendition="#aq">h</hi>, ſondern auch bey dem <hi rendition="#aq">e</hi> gar vielfaͤltig bedienet <note place="foot" n="(*)">
+            <hi rendition="#aq"><abbr>Vid.</abbr></hi> <name type="musicalWork" corresp="#ed_sbs_x2c_tlb"><hi rendition="#b">Erleſene Saͤtze</hi></name> <hi rendition="#aq">pag. 41. &amp; 55.</hi>
+          </note> wenn ſolche <hi rendition="#aq">Claves</hi> vom <hi rendition="#aq">b</hi>
+          <lb />oder <hi rendition="#aq">dis</hi> wieder hinauf in ihre natuͤrliche Stelle treten ſollen; wodurch denn ja
+          <lb />der <hi rendition="#aq"><foreign xml:lang="lat">uſus</foreign></hi> des ♮ ſattſam gebilliget und <hi rendition="#aq"><foreign xml:lang="lat">aſcendendo</foreign></hi> behauptet wird, weil ſich an
+          <lb />ſolchen Orten das ſonſt alles erhoͤhende ♯ nicht gerne meldet.</s> <s xml:id="p18-1-s2" corresp="comments_1731.xml#p20-1-s2">Was nun aber ſol-
+          <lb />chergeſtalt das ♯ <hi rendition="#aq"><foreign xml:lang="lat">aſcendendo</foreign></hi> verliehret, wenn die Note ihren natuͤrlichen oder
+          <lb />gewoͤhnlichen Klang wieder haben ſoll, das kan auch billig dem <hi rendition="#aq">b</hi> <hi rendition="#aq"><foreign xml:lang="lat"><sic>deſcendo</sic></foreign></hi> entzo-
+          <lb />gen, und in dieſem Fall lieber das ♮ genommen werden, weil bey beyden Vor-
+          <fw type="catch" place="bottom">faͤl-</fw>
+          <pb facs="#facs-p470" n="248" />
+          <lb />faͤllen, ſo wohl im Steigen als Fallen, der Endzweck einerley iſt, nemlich dieſer:
+          <lb /><hi rendition="#b">Daß die Note ihren vorigen alten und gewoͤhnlichen Sitz, es ſey fal-
+          <lb />lend oder ſteigend, wieder einnehmen ſoll.</hi> <note place="foot" n="a)">
+            Daher es denn ein Jrrthum iſt, wenn man ſchreibet: das ♮ erhoͤhe, und das ♯ auch.
+            <lb />Warum ſolte man zwey <hi rendition="#aq"><foreign xml:lang="lat">ſigna</foreign></hi> zum Erhoͤhen haben, da es eins beſtellen kan? Aber es verhaͤlt
+            <lb />ſich nicht ſo, ſondern wie geſagt: Das ♮ hebt alle Erhoͤh- und Erniedrigung auf, und zeiget
+            <lb />an, daß die Note wieder in ihre rechte Natur trete.
+          </note></s> <s xml:id="p18-1-s3" corresp="comments_1731.xml#p20-1-s6">Koͤnte ſolches das <hi rendition="#aq">b</hi> oder ♯
+          <lb />allenthalben fuͤglich und ohne Zweydeutung verrichten, ſo moͤchte man des ♮
+          <lb />gerne muͤßig gehen; <hi rendition="#aq"><foreign xml:lang="lat">nam ſigna non ſunt multiplicanda præter neceſſitatem</foreign></hi>,
+          <lb />allein wir haben aus obigen wahrgenommen, daß es ſich nicht gar zu wohl thun
+          <lb />laſſe; dahero, weil das ♮ allen Zweifel hebet, und man es an einem Orte ohne
+          <lb /><hi rendition="#aq">Scrupel</hi> gebrauchet, ſoll man es von dem andern, da es einerley Zweck und Ab-
+          <lb />ſicht fuͤhret, keines weges <hi rendition="#aq">relegi</hi>ren.</s> <s xml:id="p18-1-s4" corresp="comments_1731.xml#p20-1-s7">Jſt demnach das ♯ <hi rendition="#aq"><foreign xml:lang="lat">ſignum intenſionis</foreign></hi>, das
+          <lb /><hi rendition="#aq">b</hi> <hi rendition="#aq"><foreign xml:lang="lat">ſignum remiſſionis</foreign></hi>, und das ♮ <hi rendition="#aq"><foreign xml:lang="lat">ſignum reſtitutionis</foreign></hi>, damit alſo ein jedes Zei-
+          <lb />chen ſeine eigentliche Bedeutung, und jedes Ding ſein eigentliches Zeichen habe.</s>
+        </p>
+      </div>
+
+      <div n="19">
+        <lb /><head>§. 19.</head>
+        <p xml:id="p19-1">
+          <lb /><s xml:id="p19-1-s1" corresp="comments_1731.xml#p21-1-s1">Jch kehre wieder zum <hi rendition="#aq"><foreign xml:lang="fra">Propos</foreign></hi> wegen der <hi rendition="#aq">Chromatum</hi>, und bemercke,
+          <lb />daß <persName corresp="#ed_dwf_j5x_qlb"><hi rendition="#aq">Mſr. de St. Lambert</hi></persName> noch eine andere <hi rendition="#aq">Invention</hi> hat, da er nemlich, vorne
+          <lb />auf den Linien, gleich das eine ♯, von dem andern auf derſelben Stelle befindlichen,
+          <lb />mittelſt eines Durchſchnitts, <hi rendition="#aq">ſepari</hi>ret.</s> <s xml:id="p19-1-s2" corresp="comments_1731.xml#p21-1-s2">Mit dem <hi rendition="#aq">b</hi> hat er auch eine ſolche Ver-
+          <lb />doppelung, und kan die Sache in <hi rendition="#aq">conſideration</hi> gezogen werden.</s> <s xml:id="p19-1-s3" corresp="comments_1731.xml#p21-1-s3">Seine <hi rendition="#aq">Sy-
+          <lb />ſtemata</hi>, bey welchen er ſich ebenfals des <hi rendition="#aq">x</hi> bedienet, ſehen Z. E. ſo aus:</s>
+          <figure type="notatedMusic" facs="#facs-p470">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel eine Vorzeichnung aus Kreuzen, darüber ein x; nach einem Taktstrich zwei weitere Kreuze und das Zeichen ₵.</note>
+            <p><hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Dieze mineur.</foreign></hi>
+            <lb />Nach unſrer Redens-Art: <hi rendition="#aq">C mol</hi>, dafuͤr
+            <lb />es ſchwerlich jemand ſo leicht anſehen ſolte.</p>
+          </figure>
+          <figure type="notatedMusic" facs="#facs-p470">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel eine Vorzeichnung aus ♭; nach einem Taktstrich zwei weitere ♭ und das Zeichen ₵.</note>
+            <p><hi rendition="#aq"><foreign xml:lang="fra">G Re Sol Be mol mineur</foreign></hi>
+            <lb />Jn unſerm kuͤrtzern <hi rendition="#aq"><sic>Sylo</sic></hi>: <hi rendition="#aq">Fis mol.</hi></p>
+          </figure>
+          <fw type="catch" place="bottom">Oder</fw>
+          <pb facs="#facs-p471" n="249" />
+          <lb /><s xml:id="p19-1-s4" corresp="comments_1731.xml#p21-1-s4">Oder noch ein paar ſtaͤrckere:</s>
+          <figure type="notatedMusic" facs="#facs-p471">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel eine Vorzeichnung aus Kreuzen, darüber ein x; nach einem Taktstrich vier weitere Kreuze.</note>
+            <p><hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Dieze majeur</foreign></hi>
+            <lb /><hi rendition="#aq">(<foreign xml:lang="lat">laconicè</foreign> C dur.)</hi></p>
+          </figure>
+          <figure type="notatedMusic" facs="#facs-p471">
+            <note type="editorial" resp="#pfeffer">Notenbeispiel, nicht codiert: im Baßschlüssel eine Vorzeichnung aus ♭; nach einem Taktstrich vier weitere ♭.</note>
+            <p><hi rendition="#aq"><foreign xml:lang="fra">F ut Fa Be mol mineur.</foreign></hi>
+            <lb /><hi rendition="#aq">(<abbr>i. e.</abbr> E mol.)</hi></p>
+          </figure>
+          <lb /><s xml:id="p19-1-s5" corresp="comments_1731.xml#p21-1-s5">Er bringet gleichwohl nur den <hi rendition="#aq"><foreign xml:lang="lat">Ambitum ſimpliciſſimum</foreign></hi>, oder die <hi rendition="#aq"><foreign xml:lang="lat">Gradus Octa-
+          <lb />væ diatonæ</foreign></hi>, und ſonſt kein Exempel vor.</s> <s xml:id="p19-1-s6" corresp="comments_1731.xml#p21-1-s6">Ob aber dieſe Verdoppelung der ♯ und
+          <lb /><hi rendition="#aq">b</hi> nicht mehr Verwirrung machet, als wenn obberuͤhrter maſſen die <hi rendition="#aq"><foreign xml:lang="lat">Chordæ ele-
+          <lb />gantiores</foreign></hi> mit einem <hi rendition="#aq">x</hi>, in dem Lauff der Melodie, bezeichnet wuͤrden, laſſe jedem
+          <lb />zum Urtheil uͤber.</s> <s xml:id="p19-1-s7" corresp="comments_1731.xml#p22-1-s1">Wenn auch eine Verdoppelung des <hi rendition="#aq">b</hi> noͤthig waͤre, (welches
+          <lb />ich noch nicht erlebet) ſo koͤnte etwan, <hi rendition="#aq"><foreign xml:lang="lat">cum pace aliter ſentientium</foreign></hi>, das β dazu
+          <lb />genommen werden, weil doch kurtzum alles Griechiſch ſeyn ſolle.</s> <s xml:id="p19-1-s8" corresp="comments_1731.xml#p22-1-s2">Jch will <hi rendition="#aq"><foreign xml:lang="fra">par
+          <lb />curioſité</foreign></hi> ein Exempel zweyer <hi rendition="#aq">bb</hi> vor einer Note geben:</s>
+          <notatedMusic xml:id="music-example3" facs="#facs-p471">
+            <ptr target="music-example3.xml"/>
+          </notatedMusic>
+        </p>
+      </div>
+
+      <div n="20">
+        <lb /><head>§. 20.</head>
+        <p xml:id="p20-1">
+          <lb /><s xml:id="p20-1-s1" corresp="comments_1731.xml#p23-1-s1">Mancher wird dieſen <hi rendition="#aq">Diſcours</hi> fuͤr Grillenfaͤngerey und Kleinigkeiten, oder auch
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">pro nimio</foreign></hi> achte&#x0303;, und dabey glaube&#x0303;, man koͤnne die Zeit wol mit wichtigern Betrach-
+          <fw type="catch" place="bottom">tun-</fw>
+          <pb facs="#facs-p472" n="250" />
+          <lb />tungen zubringe&#x0303;; Allein, ein rechtſchaffener Liebhaber und ſeiner Wiſſenſchafft Be-
+          <lb />fliſſener achtet es fuͤr keine Kleinigkeit, wen&#x0303; er auch nur ein eintziges Puͤnctgen in der
+          <lb />Sache, der er ergeben iſt, wo nicht verbeſſert, wenigſtens, wenn ihm etwas fehlet,
+          <lb />den Mangel entdecket.</s> <s xml:id="p20-1-s2" corresp="comments_1731.xml#p23-1-s2">Jſt ſonſt niemand damit gedienet, ſo kan es vielleicht der Ju-
+          <lb />gend nutzen.</s> <s xml:id="p20-1-s3" corresp="comments_1731.xml#p23-1-s3">Jch ſpreche mit jenem groſſen Mann: <hi rendition="#aq"><quote xml:lang="lat"><foreign xml:lang="lat">Quod ſi forte erunt, qui has mi-
+          <lb />nutias contemnendas judicaverint, illi ſciant, nihil minutum aut leve eſſe, quod
+          <lb />cum juventutis commodo conjunctum eſt.</foreign></quote> <bibl corresp="#ed_m4n_mvb_5lb"><hi rendition="#i"><persName corresp="#ed_fwn_dvb_5lb">Morhoff.</persName> Polyhiſt.</hi> T. I. L. II. c. 13.
+          <lb />c. 23.</bibl></hi></s> <s xml:id="p20-1-s4" corresp="comments_1731.xml#p23-1-s4">Zu dem finde ich in <persName corresp="#ed_scp_svx_qlb"><hi rendition="#b">Printzens</hi></persName> <bibl corresp="#ed_pmp_1hl_tlb"><hi rendition="#aq">Phrynide</hi></bibl> eine <hi rendition="#aq">Lection</hi>, eine ziemliche
+          <lb />ſcharffe <hi rendition="#aq">Lection</hi>, die hieher gehoͤret, da es <hi rendition="#aq">P. II c. 19. §. 15.</hi> ſo lautet:</s> <quote><s xml:id="p20-1-s5" corresp="comments_1731.xml#p23-1-s4">„Es ſoll
+          <lb />„ſich einer fuͤrſehen, daß er nichtes ſetze, das nicht ſeinen Grund in <hi rendition="#aq"><foreign xml:lang="lat">Muſica ſigna-
+          <lb />„toria</foreign></hi> habe.</s> <s xml:id="p20-1-s6" corresp="comments_1731.xml#p23-1-s4">Denn diejenigen, ſo hierinn <hi rendition="#aq">pecci</hi>ren, <hi rendition="#aq">proſtituir</hi>en ſich nicht we-
+          <lb />„nig; weil zu vermuthen, daß <hi rendition="#aq">NB.</hi> der, ſo in ſolchen <hi rendition="#b">geringen Dingen</hi> ver-
+          <lb />„ſtoͤſſet, gewiß ſonſt auch nicht viel verſtehe.“</s></quote> <s xml:id="p20-1-s7">So weit <persName corresp="#ed_scp_svx_qlb"><hi rendition="#b">Printz</hi></persName>.</s>
+        </p>
+      </div>
+
+      <div n="21">
+        <lb /><head>§. 21.</head>
+        <p xml:id="p21-1">
+          <lb /><s xml:id="p21-1-s1" corresp="comments_1731.xml#p24-1-s1">Da mir bey Schlieſſung dieſes Wercks berichtet werden wollen, ob haͤtte
+          <lb />ein gewiſſer Freund in Engeland, ein teutſcher <hi rendition="#aq"><foreign xml:lang="lat">Licentiatus Muſices</foreign></hi>, ſich <hi rendition="#i">ein</hi> ſo
+          <lb />genanntes <hi rendition="#aq">chromati</hi>ſches Clavier verfertigen laſſen, darauf er <hi rendition="#aq"><foreign xml:lang="fra">merveille</foreign></hi> machen
+          <lb />ſoll; ſo kan nicht umhin mich daruͤber zu erfreuen, und zu wuͤnſchen, daß er viele
+          <lb />Nachfolger haben moͤge.</s> <s xml:id="p21-1-s2" corresp="comments_1731.xml#p24-1-s2 comments_1731.xml#p24-1-s3 comments_1731.xml#p24-1-s4">Wie ein ſolches <hi rendition="#aq">Inſtrument</hi> aber eigentlich beſchaffen
+          <lb />ſey, davon habe keine rechte <hi rendition="#aq"><foreign xml:lang="fra">Idée</foreign></hi>; zumahl mir der Nahme eines <hi rendition="#aq">chromati</hi>ſchen
+          <lb />Claviers keine <hi rendition="#aq">Satisfaction</hi> geben kan, denn alle unſere Claviere haben ſchon die
+          <lb /><hi rendition="#aq">chromati</hi>ſche <hi rendition="#aq">Octaven</hi>; Zweifele dannenhero, ob es in <hi rendition="#aq">enharmoni</hi>ſche <hi rendition="#aq"><foreign xml:lang="lat">claves</foreign></hi> oder
+          <lb />gar in lauter <hi rendition="#aq"><foreign xml:lang="lat">commata</foreign></hi> habe <hi rendition="#aq">dividirt</hi> werden koͤnnen, weil ſolches einen groſſen
+          <lb />Raum erfordern wuͤrde.</s> <s xml:id="p21-1-s3" corresp="comments_1731.xml#p24-1-s5">Eine <hi rendition="#aq">commati</hi>ſche Eintheilung, davon oben §. 7. et-
+          <lb />was erwehnet worden, will ich doch denen zu gefallen, die gar keinen Begriff von
+          <lb />der Sache haben, allhie auf das groͤbſte <note place="foot" n="(*)">
+            Jch ſage auf das <hi rendition="#b">Groͤbſte</hi>, weil mir nicht unbekannt, daß <hi rendition="#aq"><foreign xml:lang="lat">Tonus minor</foreign> 8--9</hi> mehr als
+            <lb />acht, und weniger als 9 <hi rendition="#aq"><foreign xml:lang="lat">commata</foreign></hi>, <hi rendition="#aq"><abbr>it.</abbr></hi> daß das <hi rendition="#aq"><foreign xml:lang="lat">hemitonium minus</foreign></hi> mehr als drey, und
+            <lb />weniger als 4 <hi rendition="#aq"><foreign xml:lang="lat">commata</foreign></hi> begreifft, einfolglich das Ding noch nicht recht ausgemacht iſt.
+            <lb /><hi rendition="#aq"><abbr>Vid.</abbr> <bibl corresp="#ed_mgq_2wb_5lb"><hi rendition="#i"><persName corresp="#ed_jlh_wvy_qlb">Zarlin.</persName></hi> Vol. I. p. 169.</bibl> <bibl><hi rendition="#i"><persName corresp="#ed_j5y_1xy_qlb">Boet.</persName></hi> L. III. c. 14. &amp; 15.</bibl></hi> Derowegen man dieſe rude Vor-
+            <lb />bildung ja nicht mit der <hi rendition="#aq">accuraten Demonſtration</hi> aller und jeder <hi rendition="#aq"><foreign xml:lang="lat">Intervallorum</foreign></hi> bey heu-
+            <lb />tiger Schwebung <hi rendition="#aq">confundi</hi>ren noch vergleichen muß.
+          </note> entwerffen:</s>
+          <fw type="catch" place="bottom">Diat.</fw>
+          <pb facs="#facs-p473" n="251" />
+          <figure facs="#facs-p473">
+            <p><hi rendition="#aq">Diat. C D E F G A H c</hi>
+            <lb /><hi rendition="#aq">Chrom. Cis Dis Fis Gis B</hi>
+            <lb /><hi rendition="#aq">Comm.</hi></p>
+            <note type="editorial" resp="#pfeffer">Schema, nicht wiedergegeben: über einer Reihe von Strichlein, den Commata (Comm.), die chromatischen (Chrom.) und darüber die diatonischen Stufen (Diat.) einer Octave.</note>
+          </figure>
+        </p>
+      </div>
+
+      <div n="22">
+        <lb /><head>§. 22.</head>
+        <p xml:id="p22-1">
+          <lb /><s xml:id="p22-1-s1" corresp="comments_1731.xml#p25-1-s1">So viel Strichlein als nun zwiſchen jedem Buchſtaben befindlich, ſo viel
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">claves</foreign></hi> oder <hi rendition="#aq"><foreign xml:lang="lat">palmulæ</foreign></hi>, (<hi rendition="#aq"><foreign xml:lang="lat">Gallis</foreign> <hi rendition="#i"><foreign xml:lang="fra">touches</foreign></hi></hi>) muͤſten zwiſchem jedem gebraͤuchlichen
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">Intervallo</foreign></hi> eingeſchaltet werden, falls man ein <hi rendition="#aq">commati</hi>ſches <note place="foot" n="a)">
+            Es kan ſeyn, daß derjenige, von dem ich den Bericht des Engellaͤndiſchen <hi rendition="#aq"><foreign xml:lang="lat">Archicymbali</foreign></hi> habe,
+            <lb />an ſtatt eines <hi rendition="#aq">commati</hi>ſchen Claviers, von einem <hi rendition="#aq">chromati</hi>ſchen geſprochen.
+          </note> Werck hervor
+          <lb />bringen wolte.</s> <s xml:id="p22-1-s2" corresp="comments_1731.xml#p25-1-s2 comments_1731.xml#p25-1-s3">Daß demnach, wenn 53 in eine <hi rendition="#aq">Octave</hi> kaͤmen, nothwendig das
+          <lb />gantze Clavier, von vier <hi rendition="#aq">Octaven</hi>, weniger nicht, als 112 <hi rendition="#aq"><foreign xml:lang="lat">claves</foreign></hi> haben wuͤrde,
+          <lb />welches, <hi rendition="#aq"><foreign xml:lang="lat">in compendio</foreign></hi> zu thun, Kunſt erfordern duͤrffte, doch nicht ſo viel, als
+          <lb />richtig darauf zu ſpielen.</s>
+        </p>
+      </div>
+
+      <div n="23">
+        <lb /><head>§. 23.</head>
+        <p xml:id="p23-1">
+          <lb /><s xml:id="p23-1-s1" corresp="comments_1731.xml#p25-1-s5"><persName corresp="#ed_u1q_mlx_qlb"><hi rendition="#b">Werckmeiſter</hi></persName> macht in ſeiner <bibl corresp="#ed_dbx_tvb_5lb">Temperatur</bibl> (nur zur <hi rendition="#aq">Demonſtration</hi>)
+          <lb />zwantzig <hi rendition="#aq"><foreign xml:lang="lat">Intervalla</foreign></hi> <note place="foot" n="b)">
+            <hi rendition="#aq"><abbr>Vid.</abbr> §. 7. pag. 240.</hi>
+          </note>, <persName corresp="#ed_g1w_hxy_qlb"><hi rendition="#b">Neidhardt</hi></persName> aber ſechs und zwantzig; welches im gan-
+          <lb />tzen Clavier, nach der erſten Art 80, und nach der andern 104. <hi rendition="#aq"><foreign xml:lang="lat">Claves</foreign></hi> betragen
+          <lb />wuͤrde; aber dennoch ſtarck in die <hi rendition="#aq">commati</hi>ſche Eintheilung treten muͤſte.</s> <s xml:id="p23-1-s2" corresp="comments_1731.xml#p25-1-s6">Wir
+          <lb />behelffen uns inzwiſchen vors erſte noch mit 48 <hi rendition="#aq"><foreign xml:lang="fra">touches</foreign></hi>, in vier <hi rendition="#aq">Octaven</hi>, und ha-
+          <lb />ben beyde Haͤnde voll damit zu thun.</s>
+        </p>
+      </div>
+
+      <div n="24">
+        <lb /><head>§. 24.</head>
+        <p xml:id="p24-1">
+          <lb /><s xml:id="p24-1-s1" corresp="comments_1731.xml#p26-1-s1"><persName corresp="#ed_jlh_wvy_qlb"><hi rendition="#i">Zarlinus</hi></persName> und <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#i">Salinas</hi></persName>, zwey der beſten <hi rendition="#aq"><foreign xml:lang="lat">Autorum Muſicorum</foreign></hi>, hielten
+          <lb />nicht gar viel von dergleichen zerhackten Clavieren, die man in ſo ſchrecklich viele
+          <lb /><hi rendition="#aq"><foreign xml:lang="lat">Intervalla</foreign></hi> eintheilete, ob wohl der erſte <note place="foot" n="c)">
+            <hi rendition="#aq"><bibl corresp="#ed_mgq_2wb_5lb">Volum. I. Inſtit. harmon. pag. 172.</bibl></hi>
+          </note> ein <hi rendition="#aq">Grauecembalum</hi> vorſtellig macht
+          <lb />und abmahlet, das er ſich Anno 1548 zu Venedig, von Meiſter <persName corresp="#ed_mcb_nwb_5lb"><hi rendition="#aq">Domenico Peſa-
+          <fw type="catch" place="bottom">re-</fw>
+          <pb facs="#facs-p474" n="252" />
+          <lb />reſe</hi></persName>, verfertigen laſſen, und vermuthlich nicht ſo wohl zum Spielen, als ſtatt eines
+          <lb /><sic>Probier-Seins</sic> (wie ſeine Worte lauten) gebraucht hat.</s> <s xml:id="p24-1-s2" corresp="comments_1731.xml#p26-1-s2">Es enthaͤlt daſſelbige
+          <lb />zwo <hi rendition="#aq">Octaven</hi>, in deren jeder, <hi rendition="#aq"><foreign xml:lang="lat">incluſivè</foreign></hi>, 20 <hi rendition="#aq"><foreign xml:lang="fra">touches</foreign></hi>, oder <hi rendition="#aq"><foreign xml:lang="lat">claves</foreign></hi>, uͤberhaupt aber
+          <lb />39 befindlich.</s> <s xml:id="p24-1-s3" corresp="comments_1731.xml#p26-1-s3">Es faͤngt unten vom <hi rendition="#aq">A</hi> an, und geht biß ins <hi rendition="#aq">aa</hi>, nach der damahls
+          <lb />uͤblichen Weiſe; hat in jeder <hi rendition="#aq">Octave</hi> ein gebrochenes <hi rendition="#aq">b</hi>, ein <hi rendition="#aq"><foreign xml:lang="lat">Intervallum</foreign></hi> zwiſchen <hi rendition="#aq">h</hi>
+          <lb />und <hi rendition="#aq">c</hi>, ein doppeltes <hi rendition="#aq">cis</hi> und <hi rendition="#aq">dis</hi>, ein <hi rendition="#aq"><foreign xml:lang="lat">Intervallum</foreign></hi> zwiſchen <hi rendition="#aq">e</hi> und <hi rendition="#aq">f</hi>, und ein doppel-
+          <lb />tes <hi rendition="#aq">fis</hi> und <hi rendition="#aq">gis</hi>, jedoch nur in zwey Ordnungen oder Reihen der <hi rendition="#aq"><foreign xml:lang="lat">Palmularum</foreign></hi>, <note place="foot" n="d)">
+            <hi rendition="#aq"><abbr>Vid.</abbr> §. 7. pag. 240.</hi>
+          </note> de-
+          <lb />ren oberſte getheilet iſt, ausgenommen in den <hi rendition="#aq"><foreign xml:lang="fra">touches</foreign></hi> zwiſchen <hi rendition="#aq">H</hi> und <hi rendition="#aq">c</hi>.</s> <s xml:id="p24-1-s4" corresp="comments_1731.xml#p26-1-s3"><hi rendition="#aq"><foreign xml:lang="lat">Item</foreign></hi>
+          <lb />zwiſchen <hi rendition="#aq">e</hi> und <hi rendition="#aq">f</hi>, als die da nur halb ſo breit, und ungetheilet ſind.</s>
+        </p>
+      </div>
+
+      <div n="25">
+        <lb /><head>§. 25.</head>
+        <p xml:id="p25-1">
+          <lb /><s xml:id="p25-1-s1" corresp="comments_1731.xml#p27-1-s1"><persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinas</hi></persName>, wenn er von dem <hi rendition="#aq"><foreign xml:lang="lat">genere enharmonico</foreign></hi> <note place="foot" n="e)">
+            <hi rendition="#aq"><bibl corresp="#ed_h4c_wwb_5lb">de Muſ. Lib. III. cap. 8. pag. 126. 127.</bibl></hi>
+          </note> handelt, und <hi rendition="#aq"><foreign xml:lang="lat">Exempla
+          <lb />practica</foreign></hi>, als Meſſen, Moteten und Madrigalien anfuͤhret, die in ſolchem <hi rendition="#aq"><foreign xml:lang="lat">Genere</foreign></hi>
+          <lb />wuͤrcklich, und <hi rendition="#aq"><foreign xml:lang="lat">in ſpecie</foreign></hi> von <persName corresp="#ed_zt2_z1f_5lb"><hi rendition="#i">Joanne Montoni</hi></persName>, geſetzt worden, gedencket: er habe
+          <lb />ſolche <hi rendition="#aq">enharmoni</hi>ſch-getheilte Jnſtrumente zu Florenz geſehen und gehoͤret; das
+          <lb />allervollkommenſte aber ſolcher Art, bey ſich zu Salamanca, welches in Rom ge-
+          <lb />macht, und auf welchem alle drey <hi rendition="#aq"><foreign xml:lang="lat">Genera</foreign></hi> mit Fleiß <hi rendition="#i">demonſtrirt</hi> worden. <note place="foot" n="f)">
+            Von der <hi rendition="#aq">Demonſtration</hi> redet er; aber vom Spielen ſagt er kein Wort.
+          </note></s> <s xml:id="p25-1-s2" corresp="comments_1731.xml#p27-1-s2">Er
+          <lb />giebt aber keinen Abriß noch fernere Beſchreibung dieſes Jnſtruments, daß man
+          <lb />alſo nicht weiß, ob es mit dem <persName corresp="#ed_jlh_wvy_qlb"><hi rendition="#aq">Zarlini</hi>ſchen</persName> einerley, oder von demſelben noch un-
+          <lb />terſchieden ſey.</s>
+        </p>
+      </div>
+
+      <div n="26">
+        <lb /><head>§. 26.</head>
+        <p xml:id="p26-1">
+          <lb /><s xml:id="p26-1-s1" corresp="comments_1731.xml#p27-1-s3">Des <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinæ</hi></persName> Meinung geht ſonſt dahin, <note place="foot" n="g)">
+            <hi rendition="#aq"><abbr>Vid.</abbr> <abbr>ej.</abbr> <bibl corresp="#ed_h4c_wwb_5lb">Lib. III. de Muſ. cap. 27. pag. 166. circa med.</bibl></hi>
+          </note> daß man der andern <hi rendition="#aq">Subſemi-
+          <lb />tonien</hi> (wie ſie <hi rendition="#aq"><foreign xml:lang="lat">corrupte</foreign></hi> genennet werden) gar wohl entbehren koͤnne; allein,
+          <lb />zwey muͤſte man doch nothwendig in jeder <hi rendition="#aq">Octava</hi> hinzuthun, nemlich: eines bey
+          <lb />dem <hi rendition="#aq">dis</hi>, das andere aber bey dem <hi rendition="#aq">gis</hi>, damit nicht (wie er ſpricht) <hi rendition="#aq"><quote xml:lang="lat"><foreign xml:lang="lat">quod nunc
+          <lb />Inſtrumentorum defectui meritò adſcribitur, tunc ipſius <hi rendition="#i">Organiſtæ</hi> culpæ
+          <lb />tribuetur.</foreign></quote></hi></s> <s xml:id="p26-1-s2" corresp="comments_1731.xml#p27-1-s4">Man findet auch noch hin und wieder dieſe <hi rendition="#aq">Diſpoſition</hi> in alten Orgel-
+          <lb />wercken, Z. E. hier in Hamburg bey der Marie Magdalenen Kirche.</s> <s xml:id="p26-1-s3" corresp="comments_1731.xml#p27-1-s5">Wobey
+          <fw type="catch" place="bottom">denn</fw>
+          <pb facs="#facs-p475" n="253" />
+          <lb />denn einer anmercken kan, daß der Mann, welcher ſolche Eintheilungen verordnet,
+          <lb />blind geweſen; <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinas</hi></persName> geheiſſen; als Abt zu <hi rendition="#aq">St. Pancratii</hi>; und auf der <hi rendition="#aq">Academie</hi> zu
+          <lb /><hi rendition="#aq">Salamanca</hi> in Spanien als <hi rendition="#aq"><foreign xml:lang="lat">Profeſſor Muſicæ</foreign></hi> geſtanden, von welcher ſeiner <hi rendition="#aq">Profeſ-
+          <lb />ſion</hi> er ſieben ſchoͤne Buͤcher <hi rendition="#aq"><foreign xml:lang="lat">in Folio</foreign></hi> heraus gehen laſſen, die Anno 1577. daſelbſt
+          <lb />gedrucket worden ſind.</s>
+        </p>
+      </div>
+
+      <div n="27">
+        <head>§. 27.</head>
+        <p xml:id="p27-1">
+          <lb /><s xml:id="p27-1-s1" corresp="comments_1731.xml#p28-1-s1">Gewiß iſt es indeß, daß obige beyde beruͤhmte <hi rendition="#aq">Autores</hi> durchgehends mehr
+          <lb />von einem guten <hi rendition="#aq">Temperament</hi>, als ſolchen, meiſt zur <hi rendition="#aq">Speculation</hi> dienlichen, ge-
+          <lb />brochenen <note place="foot" n="a)">
+            Keiner muß hier unter den gebrochenen Jnſtrumenten etwan die <hi rendition="#aq"><foreign xml:lang="fra">Claveçins briſés</foreign></hi> verſtehen; denn dieſe kan man
+            <lb />zuſammen legen und auf Reiſen mit ſich fuͤhren; jene aber werden nur in Anſehen der vielfaͤltigen <hi rendition="#aq"><foreign xml:lang="lat">palmu-
+            <lb />larum</foreign></hi> ſo genennet.
+          </note> Jnſtrumenten gehalten haben, wiewohl ihnen die rechte <hi rendition="#aq"><foreign xml:lang="lat">Temperatura</foreign></hi>
+          <lb />fehlete.</s> <s xml:id="p27-1-s2" corresp="comments_1731.xml#p28-1-s2">Denn, da hat <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinas</hi></persName> dreyerley Wege, das <hi rendition="#aq"><foreign xml:lang="lat">Comma</foreign></hi> einzutheilen, die er
+          <lb />ſo wohl <hi rendition="#aq"><foreign xml:lang="lat">ſeparatim</foreign></hi> als <hi rendition="#aq"><foreign xml:lang="lat">conjunctim</foreign></hi> zu behaupten meynet, nemlich: in 2, 3, und
+          <lb />5. Theile; dabey denn halbe, drittel, viertel und ſiebtel <hi rendition="#aq"><foreign xml:lang="lat">Commata</foreign></hi> herhalten muͤſſen.</s>
+          <lb /><s xml:id="p27-1-s3" corresp="comments_1731.xml#p28-1-s3"><persName corresp="#ed_jlh_wvy_qlb"><hi rendition="#aq">Zarlinus</hi></persName> aber bleibt bey ſieben <hi rendition="#aq"><foreign xml:lang="lat">particulis</foreign></hi> allein, nach Maßgebung der ſieben dia-
+          <lb />toniſchen Klaͤnge.</s>
+        </p>
+      </div>
+
+      <div n="28">
+        <head>§. 28.</head>
+        <p xml:id="p28-1">
+          <lb /><s xml:id="p28-1-s1" corresp="comments_1731.xml#p28-1-s4">Ein jeder hat nun hiebey ſeine <hi rendition="#aq"><foreign xml:lang="lat">rationes</foreign></hi>, und arbeitet mit halben und <hi rendition="#aq">Quart-
+          <lb />Commatibus</hi> drauf loß, daß es einem Wunder nehmen moͤchte; ſie zancken ſich, dem
+          <lb />Anſehen nach, auch wohl ein bißgen darum, wer von ihnen der erſte Erfinder dieſer
+          <lb />groben Streiche ſeyn ſoll, (wie etwann der Goldſchmidt und ſein Junge, die ſich
+          <lb />einander in den Haaren fielen wegen eines kuͤnfftig zu findenden Stuͤck Goldes)
+          <lb />wobey <persName corresp="#ed_o3z_5hy_qlb"><hi rendition="#aq">Ludovicus Follianus</hi></persName> vom <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salina</hi></persName> <hi rendition="#aq">pag. 164. &amp; 228.</hi> einen Fang be-
+          <lb />koͤmmt, <persName corresp="#ed_jlh_wvy_qlb"><hi rendition="#aq">Zarlinus</hi></persName> hergegen, mit ſeinen zwoͤlff Fehlern, <hi rendition="#aq">pag. 232. ſeq.</hi>
+          <lb />noch ziemlich glimpflich abgefertiget wird.</s> <s xml:id="p28-1-s2" corresp="comments_1731.xml#p28-1-s6">Wir wiſſen aber nunmehro,
+          <lb />GOtt Lob! daß man, nach Maßgebung der zwoͤlff <hi rendition="#aq">chromati</hi>ſchen Klaͤng, mit
+          <lb />zwoͤlffteln vom <hi rendition="#aq"><foreign xml:lang="lat">commate</foreign></hi>, und mit keiner andern Eintheilung, zu verfahrene habe,
+          <lb />wenn ein gutes und leidliches <hi rendition="#aq">Temperament</hi> ſoll getroffen werden.</s> <s xml:id="p28-1-s3">Welches wir,
+          <lb />der Erfindung nach, dem <persName corresp="#ed_g1w_hxy_qlb">Herrn Neidhardt</persName> zu dancken haben.</s> <s xml:id="p28-1-s4" corresp="comments_1731.xml#p28-1-s8">Mich ſoll verlan-
+          <lb />gen, wer es dereinſt in allen Stuͤcken <hi rendition="#aq"><foreign xml:lang="lat">ad Praxin</foreign></hi> bringen wird.</s> <s xml:id="p28-1-s5">Die Herren <hi rendition="#aq"><foreign xml:lang="lat">Geo-
+          <lb />metræ</foreign></hi> werden es ſchwerlich thun.</s> <s xml:id="p28-1-s6" corresp="comments_1731.xml#p28-1-s8">Wie geſagt: <hi rendition="#aq"><foreign xml:lang="lat">Aurium ſuperbiſſimum judi-
+          <lb />cium</foreign></hi> muß gebraucht werden.</s>
+        </p>
+      </div>
+
+      <div n="29">
+        <lb /><head>§. 29.</head>
+        <p xml:id="p29-1">
+          <lb /><s xml:id="p29-1-s1" corresp="comments_1731.xml#p29-1-s1"><persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinas</hi></persName> ſchreibt ſonſt im dritten Buch ſeiner Muſic ein gantzes Capitel <note place="foot" n="b)">
+            Es iſt das ſieben und zwantzigſte Capitel des dritten Buchs.
+          </note>
+          <lb />uͤber die Erfindung eines Jnſtruments, das die <hi rendition="#aq">Octavam</hi> in <sic>13</sic><note type="editorial" resp="#pfeffer">Lies: 31; so in der Ausgabe von 1731.</note> Theile darleget,
+          <fw type="catch" place="bottom">und</fw>
+          <pb facs="#facs-p476" n="254" />
+          <lb />und <hi rendition="#aq">refuti</hi>ret es unter folgendem Titel: <hi rendition="#aq"><foreign xml:lang="lat">De prava conſtitutione cujusdam Inſtru-
+          <lb />menti, quod in Italia citra quadraginta annos fabricari cœptum eſt, in quo repe-
+          <lb />ritur omnis Tonus in partes quinque diviſus.</foreign></hi></s> <s xml:id="p29-1-s2" corresp="comments_1731.xml#p29-1-s2">Nach ihm hat <persName corresp="#ed_kyg_jgy_qlb"><hi rendition="#aq">Merſennus</hi></persName> auch
+          <lb />den Lunten gerochen, und haͤlt eben ſo wenig davon.</s> <s xml:id="p29-1-s3" corresp="comments_1731.xml#p29-1-s3">Das Jnſtrument hat man
+          <lb /><hi rendition="#aq">Archicymbalum</hi> geheiſſen, und iſt geweſen <hi rendition="#aq"><foreign xml:lang="lat">incerti Autoris</foreign></hi>.</s> <s xml:id="p29-1-s4" corresp="comments_1731.xml#p29-1-s4"><persName corresp="#ed_c22_mgy_qlb"><hi rendition="#aq">Monſr. Huygens</hi></persName>
+          <lb />glaubet zwar, daß ſich beyde, <persName corresp="#ed_rpk_l2y_qlb"><hi rendition="#aq">Salinas</hi></persName> und <persName corresp="#ed_kyg_jgy_qlb"><hi rendition="#aq">Merſennus</hi></persName>, betrogen haben, er aber al-
+          <lb />lein auf dem rechten Wege ſey, und die 31 gleiche Theile der <hi rendition="#aq"><foreign xml:lang="lat">Octavæ</foreign></hi> nicht nur <hi rendition="#aq">de-
+          <lb />monſtriren</hi>, <note place="foot" n="b)">
+            <hi rendition="#aq"><foreign xml:lang="fra">Voy.</foreign> <bibl corresp="#ed_ne8_ak3_gpr">Hiſtoire des Ouvrages des Scavans, Octobre, 1691.</bibl></hi>
+          </note> ſondern leicht, <hi rendition="#aq"><foreign xml:lang="lat">neſcio quo azylo ignorantiæ</foreign></hi>, ich weiß nicht mit
+          <lb />welcher Art aufgeſetzter und beweglicher Claviere, <hi rendition="#aq"><foreign xml:lang="lat">ad Praxin</foreign></hi> bringen koͤnne.</s> <s xml:id="p29-1-s5" corresp="comments_1731.xml#p29-1-s5">Al-
+          <lb />lein, weil der gute und gelehrte Mann noch immer mit <hi rendition="#aq">Quart-commaten</hi> und groͤ-
+          <lb />bern Sachen handelt, mag ich ihm keinen Beyfall geben, wenn er auch die <hi rendition="#aq">loga-
+          <lb />rythmi</hi>ſche Rechnung beſſer, als ein Menſch in der Welt, verſtuͤnde; Halte es herge-
+          <lb />gen in dieſem Stuͤck zehnmahl lieber mit einer guten <hi rendition="#aq"><foreign xml:lang="lat">Temperatura</foreign></hi>, <hi rendition="#i">es muͤſte</hi> denn
+          <lb />erſt naͤhere Nachricht einlauffen.</s>
+        </p>
+      </div>
+
+      <div n="30">
+        <lb /><head>§. 30.</head>
+        <p xml:id="p30-1">
+          <lb /><s xml:id="p30-1-s1" corresp="comments_1731.xml#p30-1-s1">Denn, wenn man auch (ſagt <persName corresp="#ed_u1q_mlx_qlb"><hi rendition="#b">Werckmeiſter</hi></persName> <hi rendition="#aq">pag. 70.</hi> ſeiner <bibl corresp="#ed_dbx_tvb_5lb"><hi rendition="#aq">Temperaturæ
+          <lb />Monochordi</hi></bibl>) 100, oder 1000 <hi rendition="#aq">Subſemitonia</hi> in ein Clavier machte, ſo wird doch
+          <lb />die Zuſammenbindung der <hi rendition="#aq">Harmoniæ</hi> unvollkommen und lahm ſeyn und bleiben.</s>
+          <lb /><s xml:id="p30-1-s2" corresp="comments_1731.xml#p30-1-s2">Jch bin auch, mit <hi rendition="#aq">Submiſſion</hi> vor diejenigen die kluͤger ſind, eben derſelben Mei-
+          <lb />nung, und pflichte den Worten obgedachten <hi rendition="#aq">Autoris</hi> bey, die er kurtz vorher anfuͤh-
+          <lb />ret, alſo: <quote><hi rendition="#b">Darum hat es GOtt ſo weißlich geordnet, und unſer Ge-
+          <lb />muͤth alſo zugerichtet, daß es <hi rendition="#i">NB.</hi> mit einer guten Temperatur zu frie-
+          <lb />den iſt; ja, GOtt hat alles, was in der Natur iſt, in die Temperatur
+          <lb />geſetzt, warum wolten wir dieſelbe aus der Muſic verbannen und ver-
+          <lb />werffen, <sic>znmahl</sic> es nicht anders ſeyn kan. &#xA75B;c.</hi></quote></s> <s xml:id="p30-1-s3" corresp="comments_1731.xml#p30-1-s3">Der <persName corresp="#ed_g1w_hxy_qlb">Hr. <hi rendition="#b">Neidhardt</hi></persName> in ſeiner
+          <lb /><bibl corresp="#ed_jjz_syb_5lb">beſten und leichteſten Temperatur</bibl> <hi rendition="#aq">p. 27.</hi> gibt es auf dieſe Art:</s> <quote><hi rendition="#b"><s xml:id="p30-1-s4" corresp="comments_1731.xml#p30-1-s4">Es bleibet aus-
+          <lb />gemacht, daß es wieder alle Gruͤnde der Natur lauffe, eine reine <hi rendition="#i">Scalam
+          <lb />Diatonico-Chromaticam</hi> zu wuͤnſchen, geſchweige zu haben.</s> <s xml:id="p30-1-s5" corresp="comments_1731.xml#p30-1-s5">Man kan
+          <lb />ja die <hi rendition="#i">Diatonicam</hi> nicht einmahl reine haben, welche man doch bey Er-
+          <lb />findung einer <hi rendition="#i">Diatonico-Chromaticæ</hi> zum Grund ſetzen muß. &#xA75B;c.</s></hi></quote> <s xml:id="p30-1-s6">Hiebey
+          <lb />mag der geneigte Leſer <hi rendition="#aq">conferi</hi>ren, was in unſerer Vorbereitung <hi rendition="#aq">§. CLXII. ſeq.</hi>
+          <lb />von der <hi rendition="#aq"><foreign xml:lang="lat">Temperatura Practica</foreign></hi> des <persName corresp="#ed_s9n_c4a_mlb">Herrn <hi rendition="#b">Sinnes</hi></persName> angefuͤhret worden iſt.</s>
+        </p>
+      </div>
+
+      <fw type="catch" place="bottom">§. 31.</fw>
+      <pb facs="#facs-p477" n="255" />
+      <div n="31">
+        <lb /><head>§. 31.</head>
+        <p xml:id="p31-1">
+          <lb /><s xml:id="p31-1-s1" corresp="comments_1731.xml#p31-1-s1">Was ſonſt bey unſerm letzten Prob-Stuͤck inſonderheit zu erinnern vorfallen
+          <lb />moͤchte, iſt wenig, und koͤmmt das meiſte darauf an, daß die Achtel, davon die-
+          <lb />ſesmahl drey auf ein Viertel gehen, alleine ſpielen, und <ref target="#note-0000000280011944 #note-0000000793662346">zur erſten Note</ref> derſelben nur das ge-
+          <lb />hoͤrige oder uͤbergezeichnete angeſchlagen werde.</s> <s xml:id="p31-1-s2" corresp="comments_1731.xml#p31-1-s2">Viele Kuͤnſte bey dergleichen Tonen
+          <lb />ſehen zu laſſen, leidet wohl der Umſtand bishero nicht; jedennoch koͤnte bey den <hi rendition="#aq">Caden-
+          <lb />cen</hi>, als nemlich, im <ref target="#measure-0000000102124254 #measure-0000001858057008 #measure-0000001066470152">fuͤnfften, ſechzehnten, und fuͤnff und dreyßigſten Tact</ref>, etwas gebroche-
+          <lb />nes gar zierlich angebracht werden.</s> <s xml:id="p31-1-s3" corresp="comments_1731.xml#p31-1-s3">Jch will es aber, wie durchgehends alle ſolche Auszie-
+          <lb />rungen und <hi rendition="#aq"><foreign xml:lang="fra">embelliſſemens</foreign></hi>, nicht als ein <hi rendition="#aq"><foreign xml:lang="lat">requiſitum</foreign></hi> beym gewoͤhnlichen <hi rendition="#aq">Accompagnement</hi>,
+          <lb />ſondern als eine <hi rendition="#aq">galante</hi> Zugabe bey der Probe, beym <hi rendition="#aq"><foreign xml:lang="lat">exercitio</foreign></hi>, und bey erſehener Gelegenheit, be-
+          <lb />trachtet haben, weil ich voͤllig in dieſem Stuͤck mit <persName corresp="#ed_dwf_j5x_qlb"><hi rendition="#aq">Mſr. Lambert</hi></persName> uͤbereinſtimme, wenn er ſich, <hi rendition="#aq">p. 58.</hi>
+          <lb />ſeines offt angefuͤhrten <bibl corresp="#ed_hfr_2cl_tlb">Werckes vom General-Baß</bibl>, alſo heraus laͤſſt:</s> <hi rendition="#aq"><quote xml:lang="fra" xml:id="lambert-quote-2" corresp="#lambert-quote-2-trans"><foreign xml:lang="fra"><s xml:id="p31-1-s4">Quand les Baſſes ſont peu
+          <lb />chargées de Notes, &amp; qu’elles trainent trop <hi rendition="#i">au gré de l’Accompagnateur</hi>, il peut y ajouter
+          <lb />d’autres notes pour figurer d’avantage, pourvû qu’il connoiſſe que cela ne fera point de tort
+          <lb />à l’Air, &amp; ſur tout à la voix qui chante.</s> <s xml:id="p31-1-s5">Car l’accompagnement eſt fait pour ſeconder la
+          <lb />voix, &amp; non pas pour l’etouffer ou la defigurer par un mauvais carillon.</s> <s xml:id="p31-1-s6">Il y a des Accom-
+          <lb />pagnateurs qui ont ſi bonne opinion d’eux memes, que croyant valoir ſeuls plus que le re-
+          <lb />ſte du Concert, ils s’efforcent de briller par deſſus tous les concertans.</s> <s xml:id="p31-1-s7">Ils chargent les
+          <lb />Baſſes continues de Paſſages; ils figurent les Accompagnements &amp; font cent autres choſes
+          <lb />qui ſont peutetre <hi rendition="#i">fort belles en elles mêmes</hi>; mais qui pour lors nuiſent extremement au Con-
+          <lb />cert, &amp; ne ſervent qu’à montrer l’habile vanité du Muſicien qui les produit.</s> <s xml:id="p31-1-s8">Quiconque
+          <lb />iouë en Concert doit jouer pour l’honneur &amp; la perfection du Concert, &amp; non pas pour
+          <lb />ſon honneur particulier.</s> <s xml:id="p31-1-s9">Ce n’eſt plus un Concert, quand chacun ne joue que pour ſoy.</s></foreign></quote></hi>
+          <lb /><quote type="translation" xml:id="lambert-quote-2-trans" corresp="#lambert-quote-2"><s xml:id="p31-1-s10" corresp="comments_1731.xml#p31-1-s4">„<abbr>d. i.</abbr> Wenn der Baß wenig Noten hat, und nach des <hi rendition="#aq">Accompagnateurs</hi> Sinn zu ſehr ſchleppet,
+          <lb />„kan er die Noten <hi rendition="#aq">varii</hi>ren und <hi rendition="#aq">figuri</hi>ren, dafern er weiß, daß ſolches der Melodie, inſonderheit aber
+          <lb />„<hi rendition="#aq">NB.</hi> der <hi rendition="#b">Sing-Stimme</hi> nicht nachtheilig faͤllt.</s> <s xml:id="p31-1-s11" corresp="comments_1731.xml#p31-1-s5">Denn wer <hi rendition="#aq">accompagni</hi>ret, der ſoll der Stim-
+          <lb />„me zu Huͤlffe kommen, keinesweges aber dieſelbe unterdruͤcken, oder durch ein ungeſchicktes Geklaͤn-
+          <lb />„gel verſtellen.</s> <s xml:id="p31-1-s12" corresp="comments_1731.xml#p31-1-s6">Es gibt Leute, die ſo gute Meinung von ſich ſelbſt hegen, daß ſie dencken, das gantze
+          <lb />„<hi rendition="#aq">Concert</hi> ſey ſo viel nicht werth als ſie allein, und laſſen ſichs ſauer werden, fuͤr allen andern hervor zu
+          <lb />„ragen.</s> <s xml:id="p31-1-s13" corresp="comments_1731.xml#p31-1-s7">Die Baͤſſe uͤberhaͤuffen ſie mit <hi rendition="#aq">Paſſagen</hi>; Das <hi rendition="#aq">Accompagnement</hi> verbraͤmen ſie hin-
+          <lb />„ten und vorn, nehmen auch dabey noch hundert andere Sachen vor, die vielleicht an und <hi rendition="#b">vor ſich
+          <lb />„ſelbſt ſehr ſchoͤn ſeyn moͤgen</hi>, aber dennoch, bey ſo bewandten Umſtaͤnden, dem <hi rendition="#aq">Concert</hi> ſchaͤd-
+          <lb />„lich ſind, und zu nichts anders dienen, als die gekuͤnſtelte Ruhm-Sucht des Spielers zu bezeugen.</s>
+          <lb /><s xml:id="p31-1-s14" corresp="comments_1731.xml#p31-1-s8">„Wer demnach in einem <hi rendition="#aq">Concert</hi> ſpielet, muß ſo ſpielen, daß es dem gantzen <hi rendition="#aq">Concert</hi> zur Ehre und
+          <lb />„Vollenkommenheit gereiche, und nicht ſo, daß er nur allein Ehre davon haben moͤge.</s> <s xml:id="p31-1-s15" corresp="comments_1731.xml#p31-1-s9">Wenn jeder
+          <lb />„nur fuͤr ſich, und in ſeiner eigenen Abſicht ſpielet, ſo iſt es kein <hi rendition="#aq">Concert</hi> mehr.„</s></quote>
+        </p>
+      </div>
+
+      <div n="32">
+        <lb /><head>§. 32.</head>
+        <p xml:id="p32-1">
+          <lb /><s xml:id="p32-1-s1" corresp="comments_1731.xml#p32-1-s1">Jch will dieſen gantz geſunden <hi rendition="#aq"><foreign xml:lang="fra">Sentimens</foreign></hi> noch hinzufuͤgen, daß, wer nicht im <hi rendition="#aq">Con-
+          <lb />cert</hi>, ſondern zur Probe, oder etwan hie und da viele Taͤcte allein ſpielet, ſo ſpielen muͤſſe, daß
+          <fw type="catch" place="bottom">nicht</fw>
+          <pb facs="#facs-p478" n="256" />
+          <lb />nicht nur die andern, ſondern hauptſaͤchlich er, der auf die Probe ſpielet, Ehre davon haben moͤ-
+          <lb />ge.</s> <s xml:id="p32-1-s2" corresp="comments_1731.xml#p32-1-s2">Denn, wenn ſolcher Geſtalt einer fuͤr ſich, und in ſeiner eigenen Abſicht ſpielet, ſo ſoll und darff
+          <lb />es kein <hi rendition="#aq">Concert</hi> heiſſen.</s> <s xml:id="p32-1-s3" corresp="comments_1731.xml#p32-1-s3">Wiewohl auch durch das Wort <hi rendition="#aq">Concert</hi> ſelbſten angedeutet und erfor-
+          <lb />dert wird, daß ein jeder ſeine beſten Kuͤnſte gebrauche, und mit den andern gleichſam um den Preiß
+          <lb /><hi rendition="#aq">certire</hi>, kaͤmpfe, oder ſtreite.</s>
+        </p>
+      </div>
+
+      <div n="33">
+        <lb /><head>§. 33.</head>
+        <p xml:id="p33-1">
+          <lb /><s xml:id="p33-1-s1" corresp="comments_1731.xml#p33-1-s1">Nun muß es wohl vor diesmahl geſchieden ſeyn, mein lieber Leſer!</s> <s xml:id="p33-1-s2" corresp="comments_1731.xml#p33-1-s2">Wer einen Leſer nennet,
+          <lb />nennet eine Perſon, deren ſaures Geſichte und ſtoͤrriſches Weſen alle Annehmlichkeiten verjaget; ei-
+          <lb />nen Richter, der ſich aus anders keiner Urſach auf den Stuhl zu ſetzen ſcheinet, als einen <hi rendition="#aq">Autorem</hi> nur
+          <lb />zu verdammen; einen unbeſtaͤndigen Freund, der ihm die vorher geſchenckte Gunſt den Augenblick
+          <lb />wieder entziehet, ſo bald ein Woͤrtgen kommt, das ihm nicht anſtehet.</s> <s xml:id="p33-1-s3" corresp="comments_1731.xml#p33-1-s3">Da iſt dein <hi rendition="#aq"><foreign xml:lang="fra">Portrait</foreign></hi>, mein lie-
+          <lb />ber Leſer!</s> <s xml:id="p33-1-s4" corresp="comments_1731.xml#p33-1-s4">Urtheile nun, ob ich Muͤhe habe, dich zu verlaſſen.</s> <s xml:id="p33-1-s5" corresp="comments_1731.xml#p33-1-s5">Du ſieheſt wohl, daß ich dich gar nicht
+          <lb />ſchmincke.</s> <s xml:id="p33-1-s6" corresp="comments_1731.xml#p33-1-s6">Jch bin kein <hi rendition="#aq">Autor</hi> der Luſt hat dir zu Fuſſe zu fallen; es waͤre alles, was man vor einer
+          <lb />ſchoͤnen Leſerinn thun koͤnte.</s> <s xml:id="p33-1-s7" corresp="comments_1731.xml#p33-1-s7">Haſt du mich nun in dieſem Buche von oben biß unten ſpoͤttiſch genug
+          <lb />betrachtet, ſo glaube, daß ich eben ſo fier, und noch wohl ſproͤder ausſehen kan, als du.</s> <s xml:id="p33-1-s8" corresp="comments_1731.xml#p33-1-s8">Es koͤnte aber
+          <lb />doch wohl ſeyn, daß ich dir hin und wieder nicht gaͤntzlich mißfallen haͤtte.</s> <s xml:id="p33-1-s9" corresp="comments_1731.xml#p33-1-s9">Wohlan, ſind wir mitein-
+          <lb />ander nur einigermaſſen zu frieden, ſo will ich dir, meinem Verſprechen nach, bey Gelegenheit noch
+          <lb />manchen guten <hi rendition="#aq"><foreign xml:lang="fra">Rendesvous</foreign></hi> geben.</s> <s xml:id="p33-1-s10">Vielleicht erſcheinet dereinſt eine Organiſten-Probe in einem
+          <lb />andern Artickel, wenn man dieſer ihre <hi rendition="#aq"><foreign xml:lang="lat">Fata</foreign></hi> erſt erlebet haben wird.</s> <s xml:id="p33-1-s11" corresp="comments_1731.xml#p33-1-s10">Jch will mich indeſſen des Leſers
+          <lb />und Spielers Andencken, ſo viel einer oder der andere davon zu miſſen hat und ich brauche, empfohlen;
+          <lb />alle rechtſchaffene Organiſten meiner freundlichen Dienſte nochmahls verſichert, den Lehrbegierigen
+          <lb />meinen aͤuſſerſten Beyſtand angebothen; den Hudlern und Stuͤmplern aber ein rechtes, ſtarckes Ge-
+          <lb />fuͤhl ihres Unvermoͤgens, und fleißige Beſſerung angewuͤnſchet haben, der ich ein aufrichtiger Befoͤr-
+          <lb />derer muſicaliſcher Wahrheiten lebe und ſterbe:</s>
+        </p>
+        <lg type="poem" xml:lang="fra">
+          <lb /><l rendition="#et"><hi rendition="#aq">Mon Lecteur jusqu’au revoir,</hi></l>
+          <lb /><l rendition="#et"><hi rendition="#aq">Ie ne me mets en fraix que d’un petit bon ſoir,</hi></l>
+          <lb /><l rendition="#et"><hi rendition="#aq">Si j’ai gagné ta bienveuillance,</hi></l>
+          <lb /><l rendition="#et"><hi rendition="#aq">Nous nous verrons au même lieu;</hi></l>
+          <lb /><l rendition="#et"><hi rendition="#aq">Si je ſuis honoré de ton indifference,</hi></l>
+          <lb /><l rendition="#et"><hi rendition="#aq">Je te préſente un grand Adieu.</hi> <bibl><hi rendition="#aq"><hi rendition="#i">Heur. perd. du Ch. de R.</hi></hi></bibl></l>
+        </lg>
+        <lb /><trailer>ENDE.</trailer>
+        <fw type="catch" place="bottom">Re-</fw>
+      </div>
+
+      </div>
+    </body>
+  </text>
+</TEI>

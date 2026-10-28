@@ -78,7 +78,7 @@ REPAIRS = {
         'facsZone-staff-0000001342003217': (54, 818, 798, 1156),        # 477#xywh=54,818,744,338
         'facsZone-staff-0000001342003217-2': (1407, 524, 1878, 823),    # 477#xywh=1407,524,471,299
     },
-    'encodings/20/mattheson/comments_de.xml': {
+    'encodings/20/mattheson/comments_1731.xml': {
         'facsZone-p2-1': (45, 1895, 1494, 2251),            # 501#xywh=45,1895,1449,356
     },
 }

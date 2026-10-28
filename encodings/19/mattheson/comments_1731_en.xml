@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps19-003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe neunzehntes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="score">
+        <head type="title">Nineteenth Probstück</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+      <div n="0" type="chapter">
+      <head>Annotations.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          <s corresp="comments_1731.xml#p1-1-s1">Beating the time might be somewhat necessary here, especially for someone
+          who is not sitting firmly in the saddle.</s> <s corresp="comments_1731.xml#p1-1-s2">But I doubt whether such
+          a person would want to beat the time himself or rather have the beat given
+          to him.</s> <s corresp="comments_1731.xml#p1-1-s3">In my opinion, the latter would be the best, so that the
+          rest could be done with more attention.</s> <s corresp="comments_1731.xml#p1-1-s4">In the meantime, a master
+          needs neither the one nor the other when he plays alone and yet
+          he may not stumble if he is not to be booed at.</s>
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          <s corresp="comments_1731.xml#p2-1-s1">In those places of this piece where the 6 is so frequent, as if it were
+          the place where they all had a rendezvous, one can, especially with two-tailed
+          notes, either use the sixth alone or the third: but in such a way that when
+          the sixth plays the fast notes, the third is not lacking, but lying;
+          and vice versa, where the thirds are going along, the sixth must also
+          be present in the hand.</s> <s corresp="comments_1731.xml#p2-1-s2">But at which places the sixths follow each other
+          and at which the third can do so, I will elaborate.</s>
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          <s corresp="comments_1731.xml#p3-1-s1">In the
+          <ref target="#measure-0000000533608303 #measure-0000001856501508">second and third measure</ref>
+          sixths do the job while the f# is kept as the third to d,
+          which then becomes a fourth to c# and therefore nothing unpleasant, but something decent.</s>
+          <s corresp="comments_1731.xml#p3-1-s2">In the
+          <ref target="#measure-0000001184386067 #measure-0000001578689986">ninth and tenth measure</ref>,
+          on the other hand, the third takes on and
+          leaves the sixth alone, which would sound bad to the f# if they were slower notes;
+          but since they pass quickly, and finally everything stops at the third, nothing bad
+          can happen to the ears.</s> <s corresp="comments_1731.xml#p3-1-s3">In the other case, however, the sixth makes a
+          pleasant-sounding fifth with the notes in between.</s>
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          <s corresp="comments_1731.xml#p4-1-s1">Wherever the phrase begins with a rest, namely with an eighth,
+          nothing is struck with the following note and nothing in advance either.</s>
+          <s corresp="comments_1731.xml#p4-1-s1">However, I want to exclude the beginning from this, and I am
+          only talking about the occurrences in the
+          <ref target="#rest-0000001531580152 #rest-0000001496543014 #rest-0000001713253157 #rest-0000001164364404 #rest-0000000844719707 #rest-0000001933121666 #rest-0000001173989907 #rest-0000001822354377 #rest-0000001679602312 #rest-0000001197851580 #rest-0000000964463351 #rest-0000000542946318 #rest-0000001539491416 #rest-0000002011106610 #rest-0000000875827094 #rest-0000001099723409">
+          7th, 8th, 12th, 19th, 20th, 21st, 28th, 29th, 30th, 31st, 32nd, 41st, 44th, 45th, 46th
+          and 52nd measure</ref>.</s> <s corresp="comments_1731.xml#p4-1-s2">Now, in all of these places, the measure
+          does not begin exactly with the rest, but the point is that
+          nothing may be played on the note that
+          follows the rest: because it goes through, it has
+          little special meaning, and after the breaking off
+          <note type="editorial" resp="#pfeffer">i.e. interruption by the rest</note>
+          only serves as a hook, so to speak, by which one thing is attached to another.</s>
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          <s corresp="comments_1731.xml#p5-1-s1">In the <ref target="#measure-0000001060551138">fifteenth measure</ref>,
+          the sixths prevail and the thirds remain lying.</s>
+          <s corresp="comments_1731.xml#p5-1-s1">In the <ref target="#measure-0000001367850118">23rd measure</ref>, an ornament comes
+          to mind that can be used quite often
+          in the left hand, all the more so because usually a great lack
+          of ornamented playing (as there are: good sharp trills, appoggiaturas, accents, etc.)
+          can be perceived in thorough-bass playing.</s>
+          <s corresp="comments_1731.xml#p5-1-s2">What I am asking here concerns the leap into the third upward, where one can
+          make a strong slide (Schleifer) in most cases, and thereby give
+          the high note an immense strength.</s> <s corresp="comments_1731.xml#p5-1-s3">However, such a slide must not
+          be drawn out as in singing, but rather made short and somewhat
+          forceful, just as if one were to place the three fingers at the same
+          time, and only lift one after the other.</s> <s corresp="comments_1731.xml#p5-1-s4">It can be better shown by playing
+          than by describing it.</s>
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          <s corresp="comments_1731.xml#p6-1-s1">In the
+          <ref target="#measure-0000000452779095 #measure-0000002077720718">34th and 35th measure</ref>,
+          one might wonder where the harsh figures
+          are coming from; however, it is the sixth and the chord to the
+          following notes that are only taken in advance.</s> <s corresp="comments_1731.xml#p6-1-s2">Everyone can easily
+          recognize the transitus irregularis or the cambiata here.</s> <s corresp="comments_1731.xml#p6-1-s3">To be sure,
+          they will seem somewhat strange to some in the downbeat of the measure;
+          but as long as it is said in the Hohe Schule der musicalischen Composition, p. 84:
+          To introduce the note cambiate on the first beat of the measure
+          is very seldom permitted, so long will I also make use of this very
+          seldom here, and believe that this exception, in the case of a highly
+          mobile mensur, can pass as regular, if one makes use of it very seldom.</s>
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          <s corresp="comments_1731.xml#p7-1-s1">If one can play a few notes in canon with the right hand in the
+          <ref target="#measure-0000001126576291">41st measure</ref>,
+          and let the bass follow, it will not sound bad.</s>
+          <s corresp="comments_1731.xml#p7-1-s2">Otherwise, there is little more to remember that is not
+          related to what has already been said.</s> 
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          <s corresp="comments_1731.xml#p8-1-s1">Mr. St. Lambert calls this tone p. 29. F ut Fa Dieze Mineur, and writes:
+          Rare.</s> <s corresp="comments_1731.xml#p8-1-s2">F# minor is shorter, and in my case nothing rare.</s>
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>

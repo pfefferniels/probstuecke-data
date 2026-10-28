@@ -4,7 +4,7 @@
 encodings/indices/terms.xml lists for every term the passages that Mattheson's
 Register (type="register") or the editors (type="editorial") refer to, e.g.
 
-    <ref type="register" n="312" target="../2/mattheson/comments_de.xml">die pag. 307.
+    <ref type="register" n="312" target="../2/mattheson/comments_1731.xml">die pag. 307.
       angefuͤhrte <term>Brechung</term> mit Sexten</ref>
 
 @n is the page of the print, the content a short quotation from the passage in
@@ -33,7 +33,7 @@ Usage:
     python3 scripts/tag_terms.py [--dry-run] [--exclude PATH ...] [--root ENCODINGS_DIR]
 
 --exclude skips target files (paths relative to the encodings directory, e.g.
-10/mattheson/comments_de.xml), for instance transcriptions that are still being
+10/mattheson/comments_1731.xml), for instance transcriptions that are still being
 revised.
 """
 

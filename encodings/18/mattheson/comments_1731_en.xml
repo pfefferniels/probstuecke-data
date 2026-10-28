@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps18-003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe achtzehntes Probstück (english translation)</title>
+        <editor role="translator">
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>This is an original digital text.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="score">
+        <head type="title">Eighteenth Probstück</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+      <div n="0" type="chapter">
+      <head>Annotations</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p>
+          <s corresp="comments_1731.xml#p1-1-s1">In the first measure, one plays only on the
+          <ref target="#note-0000001037330976 #note-0000000662175992">first two notes</ref>,
+          but not on the others.</s>
+          <s corresp="comments_1731.xml#p1-1-s2 comments_1731.xml#p1-1-s3">In the second measure, one plays on no note
+          <ref target="#note-0000000526111068">except the first</ref>,
+          <ref target="#note-0000001535338502">likewise in the third measure</ref>, 
+          but in the fourth measure again
+          <ref target="#note-0000002101406706 #note-0000000282639984">on the first two notes</ref>.</s>
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p>
+          <s corresp="comments_1731.xml#p2-1-s1">In the fifth measure, only the <ref target="#note-0000000316164270 #note-0000000125245410">first and eighth note</ref>
+          are played with the appropriate and specified chord.</s>
+          <s corresp="comments_1731.xml#p2-1-s2">The same applies for the <ref target="#note-0000000667394726 #note-0000000276020849">sixth measure</ref>.</s>
+          <s corresp="comments_1731.xml#p2-1-s3">In the seventh measure, it must be noted that the 6 above
+          the <ref target="#note-0000001776178721">last note</ref> must already be struck and anticipated with the preceding
+          <ref target="#note-0000001054477391">b</ref>.</s>
+          <s corresp="comments_1731.xml#p2-1-s4">In the
+          <ref target="#measure-0000000396295556">eighth bar,</ref>
+          the right hand does with the F# and B that which the bass played
+          at the beginning with B and E.</s>
+          <s corresp="comments_1731.xml#p2-1-s5">In the
+          <ref target="#measure-0000000359208733">ninth measure</ref>,
+          this continues with B and G# to E and with B and F# to D#.</s>
+          <s corresp="comments_1731.xml#p2-1-s6">In the
+          <ref target="#measure-0000002097787176">tenth</ref> it is the same as in the fifth.</s>
+          <s corresp="comments_1731.xml#p2-1-s7"><ref target="#measure-0000001047849544">In the eleventh</ref>, however, the right
+          hand takes the subject and begins with e C#, then e B, then e A, then e G#, and finally e F#,
+          just as the first four bars of the Prob-Stück read note for note.</s>
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p>
+          <s corresp="comments_1731.xml#p3-1-s1">With the following
+          <ref target="#measure-0000000404998919 #measure-0000000797194466 #measure-0000000971045622">measures 16, 17 and 18</ref>
+          one proceeds as with the fifth measure.</s>
+          <s corresp="comments_1731.xml#p3-1-s1">Where the transposition of the theme begins with the
+          <ref target="#clef-0000001087880551">tenor clef</ref>,
+          one proceeds just as with the beginning.</s> <s corresp="comments_1731.xml#p3-1-s2">In the <ref target="#measure-0000001099786812">28th measure</ref>,
+          it is to be noted that the right hand goes along in thirds with each note
+          in addition to the sixth, which remains lying.</s> <s corresp="comments_1731.xml#p3-1-s3">Further, the 37th
+          and <ref target="#measure-0000000804701007">38th measures</ref> are to be taken into consideration, where one plays
+          exactly what the bass has had in the two preceding measures, however, as if a lower treble clef
+          were now in front of it.</s> <s corresp="comments_1731.xml#p3-1-s4">The
+          <ref target="#measure-0000001280575648 #measure-0000001343838691 #measure-0000001748474312 #measure-0000000023982366">next four measures</ref>
+          up to the end of the first part are played quite strongly with chords on every note
+          and full-voiced.</s>
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p>
+          <s corresp="comments_1731.xml#p4-1-s1">It can be observed that in the
+          <ref target="#measure-0000001612761976">second measure of the second part</ref>,
+          the first note passes through, which rarely happens and depends on the judgment,
+          since one must observe on which note the emphasis or accent falls, which
+          here does not happen on the first, but on the second note, because the latter is
+          the last which rises and it is at the same time the beginning of a new progression.</s>
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p>
+          <s corresp="comments_1731.xml#p5-1-s1">Up to the <ref target="#measure-0000000931339172">27th measure of this part</ref>,
+          there is nothing further to explain or elucidate.</s>
+          <s corresp="comments_1731.xml#p5-1-s1">Here, the first subject must be placed and developed again, first with
+          f# c#, then with f# and d# to B, then with f# c# again to Bb, and finally with f# b, as the
+          seventh to G#, which is resolved with f and b.</s>
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p>
+          <s corresp="comments_1731.xml#p6-1-s1">In the
+          <ref target="#measure-0000000030851495">31st measure of the second part</ref>,
+          the material from
+          <ref target="#measure-0000002093783867">measure 37</ref> of the first part occurs again,
+          although with other notes, so that here one has nothing more to do than
+          to play with the right hand the same notes that the bass played before,
+          but in the previous manner, as if a low treble clef were in front of it.</s>
+          <s corresp="comments_1731.xml#p6-1-s2">The following four or five measures can easily be played in thirds,
+          and finally, the conclusion is made again with a transposition of
+          the subject in the right hand as follows:</s>
+          
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml"/>
+          </notatedMusic>
+
+           <s corresp="comments_1731.xml#p6-1-s2">However, the left hand must play everything as full-voiced as possible, 
+           which is set now and forever.</s>
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p>
+          <s corresp="comments_1731.xml#p7-1-s1">I have diligently wanted to place the whole passage here,
+          so that, if in the previous descriptions some things might sometimes
+          seem obscure to one or the other, it will all be illustrated and
+          made clearer from this example; since it remains the case that whoever
+          is knowledgeable about a matter is naturally not so adept at presenting
+          it as is often necessary for an uninformed person; therefore, no one can
+          be too comprehensible in teaching, so that even a little prolixity and
+          repetition is not immediately to be blamed, as long as its intention is 
+          directed to clarity.</s>
+        </p>
+      </div>
+
+      <div n="8">
+        <head>§. 8.</head>
+        <p>
+          <s corresp="comments_1731.xml#p8-1-s1">The famous Mr. Telemann once published six concertos, and had them
+          engraved very neatly in copper, which the late Serene Prince Ernst of Saxe-Weimar
+          composed with his own hand and from his own invention: in these
+          the Concerto V. is in the above key, and it is one of the most beautiful.</s>
+          <s corresp="comments_1731.xml#p8-1-s2">Besides, to find free lords who compose music and who can be mentioned
+          is something that does not occur every day, but it gives
+          a peculiar advantage to the precious music.</s>
+        </p>
+      </div>
+    </div>
+    </body>
+  </text>
+</TEI>

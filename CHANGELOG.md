@@ -6,7 +6,16 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 
 ### Added
 
-- Sentence alignment of the translations with the 1731 text: the sentences of all 24 commentaries are encoded as `<s xml:id="p1-1-s1">` in `comments_de.xml` (in No. 24 only §. 31, the one section translated) and point to them as `<s corresp="comments_de.xml#p1-1-s1">` in `comments_en.xml`; `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`, where it also allows a cited title (`<bibl>`); `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
+- Sentence alignment of the translations with the 1731 text: the sentences of all 24 commentaries are encoded as `<s xml:id="p1-1-s1">` in `comments_1731.xml` and point to them as `<s corresp="comments_1731.xml#p1-1-s1">` in `comments_1731_en.xml` (in No. 24 only §. 31 is translated); `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`, where it also allows a cited title (`<bibl>`); `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
+- Sentence alignment of the 1719 print with the 1731 print: the 1719 commentaries of all 24 pieces are divided into sentences like the 1731 ones (723 sentences; paragraphs outside the numbered sections are `p0-…`), and each sentence points with `@corresp` to the sentence(s) of 1731 that Mattheson made of it (613 do; the others he left out). 115 of the 736 sentences of 1731 are new. For this the 1731 text of No. 24 (apart from §. 31) and the remark on St. Lambert after the Erläuterung of No. 8 are divided into sentences, too. `check_alignment.py` tells translations and prints apart by `works.xml`, checks the sentence IDs of both prints and that every word of their paragraphs is in a sentence, and lists the sentences without counterpart with `--verbose`
+
+### Changed
+
+- Mattheson's commentaries are named after the print they transcribe or translate: `comments_1st.xml` is now `comments_1719.xml`, `comments_de.xml` is now `comments_1731.xml` and `comments_en.xml` is now `comments_1731_en.xml` (also the two title pages in `frontpage/mattheson/`); the pointers to them in the translations and in the index of terms follow. The notes on the realisations and the lessons keep their names (`comments_de.xml`, `comments_en.xml`), which name their language
+
+### Removed
+
+- `3/mattheson/comments_merged.xml`, an unfinished attempt of 2021 to encode both prints of No. 3 in one file with `<app>`/`<rdg>`, and `1/mattheson/concordance.xml`, a stub of a concordance of the versions of No. 1; neither was used by the website. `app`, `lem`, `rdg`, `link` and `standOff`, which only they used, are no longer part of `probstuecke-tei.odd`
 
 ### Fixed
 
@@ -37,7 +46,7 @@ First versioned release.
 - `term` in the customisation of the DTA Base Format, `TEI/@type="terms"` and `listRef` in `probstuecke-tei.odd`; `check_references.py` also checks the pointers of `<term>`, of the Register and of the index of terms
 - `normalisation/`: the word list behind the modernised spelling on the website, started from one run of the DTA's CAB service and corrected where CAB was wrong (names, Latin, French and Italian words, diminutives, contractions); `scripts/bootstrap_lexicon.py` created it
 - The realisations of Nos. 10 and 14 by Niels Pfeffer and of Nos. 20 and 21 by Larry Molinaro, and Robert Hill's lesson on No. 16, are expressions of their works in `works.xml` (`ps10-004`, `ps14-004`, `ps16-004`, `ps20-004`, `ps21-004`), so that the website shows them with their scores and recordings
-- The 1719 version of No. 24 (`ps24-001`, pp. 230–256 of the first edition): the commentary is transcribed diplomatically (`24/mattheson/comments_1st.xml`) and the score encodes the readings of the 1719 print; Bussy-Rabutin and Sinn in the index of persons
+- The 1719 version of No. 24 (`ps24-001`, pp. 230–256 of the first edition): the commentary is transcribed diplomatically (`24/mattheson/comments_1719.xml`) and the score encodes the readings of the 1719 print; Bussy-Rabutin and Sinn in the index of persons
 
 ### Changed
 

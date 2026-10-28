@@ -47,23 +47,23 @@ def seq(first_id, n, first_canvas):
 
 CANVAS = {
     # --- 1719, commentaries: the pages the encoders listed, shifted back ------
-    'encodings/1/mattheson/comments_1st.xml': seq(280, 3, 279),     # pp. 105-107
-    'encodings/2/mattheson/comments_1st.xml': seq(286, 5, 285),     # pp. 111-115
-    'encodings/4/mattheson/comments_1st.xml': seq(298, 3, 297),     # pp. 123-125
-    'encodings/5/mattheson/comments_1st.xml': seq(302, 3, 301),     # pp. 127-129
-    'encodings/6/mattheson/comments_1st.xml': seq(304, 2, 306),     # pp. 132-133
-    'encodings/8/mattheson/comments_1st.xml': seq(316, 3, 315),     # pp. 141-143
-    'encodings/10/mattheson/comments_1st.xml': seq(363, 6, 362),    # pp. 152-157
-    'encodings/11/mattheson/comments_1st.xml': {'facs-p372': 371, 'facs-p373': 372, 'facs-p382': 373},  # pp. 161-163
-    'encodings/13/mattheson/comments_1st.xml': seq(389, 4, 388),    # pp. 170-173
-    'encodings/16/mattheson/comments_1st.xml': seq(415, 6, 408),    # pp. 188-193
-    'encodings/17/mattheson/comments_1st.xml': seq(417, 3, 416),    # pp. 196-198
-    'encodings/18/mattheson/comments_1st.xml': seq(422, 6, 418),    # pp. 198-203 (surface/@n)
-    'encodings/20/mattheson/comments_1st.xml': seq(432, 7, 428),    # pp. 208-214
-    'encodings/21/mattheson/comments_1st.xml': seq(437, 7, 433),    # pp. 213-219
-    'encodings/22/mattheson/comments_1st.xml': {'facs-p443': 440, 'facs-p444': 441, 'facs-p445': 442,
+    'encodings/1/mattheson/comments_1719.xml': seq(280, 3, 279),     # pp. 105-107
+    'encodings/2/mattheson/comments_1719.xml': seq(286, 5, 285),     # pp. 111-115
+    'encodings/4/mattheson/comments_1719.xml': seq(298, 3, 297),     # pp. 123-125
+    'encodings/5/mattheson/comments_1719.xml': seq(302, 3, 301),     # pp. 127-129
+    'encodings/6/mattheson/comments_1719.xml': seq(304, 2, 306),     # pp. 132-133
+    'encodings/8/mattheson/comments_1719.xml': seq(316, 3, 315),     # pp. 141-143
+    'encodings/10/mattheson/comments_1719.xml': seq(363, 6, 362),    # pp. 152-157
+    'encodings/11/mattheson/comments_1719.xml': {'facs-p372': 371, 'facs-p373': 372, 'facs-p382': 373},  # pp. 161-163
+    'encodings/13/mattheson/comments_1719.xml': seq(389, 4, 388),    # pp. 170-173
+    'encodings/16/mattheson/comments_1719.xml': seq(415, 6, 408),    # pp. 188-193
+    'encodings/17/mattheson/comments_1719.xml': seq(417, 3, 416),    # pp. 196-198
+    'encodings/18/mattheson/comments_1719.xml': seq(422, 6, 418),    # pp. 198-203 (surface/@n)
+    'encodings/20/mattheson/comments_1719.xml': seq(432, 7, 428),    # pp. 208-214
+    'encodings/21/mattheson/comments_1719.xml': seq(437, 7, 433),    # pp. 213-219
+    'encodings/22/mattheson/comments_1719.xml': {'facs-p443': 440, 'facs-p444': 441, 'facs-p445': 442,
                                                 'facs-p446': 443, 'facs-p447': 444, 'facs-p450': 445},  # pp. 220-225
-    'encodings/23/mattheson/comments_1st.xml': {'facs-p450': 446, 'facs-p451': 447,
+    'encodings/23/mattheson/comments_1719.xml': {'facs-p450': 446, 'facs-p451': 447,
                                                 'facs-p452': 450, 'facs-p453': 451},  # pp. 226-229
     # --- 1719, scores -----------------------------------------------------------
     'encodings/8/mattheson/score.xml': seq(310, 4, 312),            # pp. 138-141
@@ -76,19 +76,19 @@ CANVAS = {
     'encodings/20/molinaro/score.xml': {**seq(388, 4, 428), **seq(498, 4, 476)},  # = 20/mattheson
     'encodings/21/molinaro/score.xml': {**seq(399, 2, 435), **seq(505, 2, 483)},  # = 21/mattheson
     # --- 1731 -----------------------------------------------------------------
-    'encodings/1/mattheson/comments_de.xml': seq(368, 3, 367),      # pp. 305-307
-    'encodings/5/mattheson/comments_de.xml': seq(391, 2, 390),      # pp. 328-329
-    'encodings/7/mattheson/comments_de.xml': seq(380, 2, 400),      # pp. 338-339
-    'encodings/10/mattheson/comments_de.xml': {'facs-p438': 416, 'facs-p439': 417, 'facs-p443': 421},
-    'encodings/11/mattheson/comments_de.xml': seq(447, 3, 425),     # pp. 363-365
-    'encodings/12/mattheson/comments_de.xml': seq(452, 4, 430),     # pp. 368-371
-    'encodings/13/mattheson/comments_de.xml': seq(458, 4, 436),     # pp. 374-377
-    'encodings/14/mattheson/comments_de.xml': seq(464, 2, 442),     # pp. 380-381
-    'encodings/16/mattheson/comments_de.xml': {'facs-p478': 456, 'facs-p479': 457, 'facs-p483': 461},
-    'encodings/17/mattheson/comments_de.xml': seq(486, 3, 464),     # pp. 402-404
-    'encodings/22/mattheson/comments_de.xml': seq(491, 4, 488),     # pp. 426-429
-    'encodings/23/mattheson/comments_de.xml': seq(494, 6, 490),     # pp. 428-433
-    'encodings/24/mattheson/comments_de.xml': seq(503, 31, 496),    # pp. 434-464
+    'encodings/1/mattheson/comments_1731.xml': seq(368, 3, 367),      # pp. 305-307
+    'encodings/5/mattheson/comments_1731.xml': seq(391, 2, 390),      # pp. 328-329
+    'encodings/7/mattheson/comments_1731.xml': seq(380, 2, 400),      # pp. 338-339
+    'encodings/10/mattheson/comments_1731.xml': {'facs-p438': 416, 'facs-p439': 417, 'facs-p443': 421},
+    'encodings/11/mattheson/comments_1731.xml': seq(447, 3, 425),     # pp. 363-365
+    'encodings/12/mattheson/comments_1731.xml': seq(452, 4, 430),     # pp. 368-371
+    'encodings/13/mattheson/comments_1731.xml': seq(458, 4, 436),     # pp. 374-377
+    'encodings/14/mattheson/comments_1731.xml': seq(464, 2, 442),     # pp. 380-381
+    'encodings/16/mattheson/comments_1731.xml': {'facs-p478': 456, 'facs-p479': 457, 'facs-p483': 461},
+    'encodings/17/mattheson/comments_1731.xml': seq(486, 3, 464),     # pp. 402-404
+    'encodings/22/mattheson/comments_1731.xml': seq(491, 4, 488),     # pp. 426-429
+    'encodings/23/mattheson/comments_1731.xml': seq(494, 6, 490),     # pp. 428-433
+    'encodings/24/mattheson/comments_1731.xml': seq(503, 31, 496),    # pp. 434-464
     'encodings/4/mattheson/score.xml': seq(372, 4, 382),            # pp. 320-323
     'encodings/3/hill/score.xml': {'facs-p64': 378, 'facs-p65': 379},  # = 3/mattheson
     'encodings/10/mattheson/measure_annotations.xml': {             # Marcello aria, pp. 356-359
@@ -101,10 +101,10 @@ CANVAS = {
 # TEI page breaks whose @n is wrong (left as it is; reported): the page they
 # actually mark, from their position in the text and the scans.
 PB_PAGE = {
-    'encodings/5/mattheson/comments_de.xml': {104: 328},              # n="329" twice
-    'encodings/6/mattheson/comments_de.xml': {201: 335},              # n="334" twice
-    'encodings/7/mattheson/comments_de.xml': {102: 338, 182: 339},    # n="318", "319" (copied from No. 3)
-    'encodings/19/mattheson/comments_de.xml': {159: 413},             # n="412" twice
+    'encodings/5/mattheson/comments_1731.xml': {104: 328},              # n="329" twice
+    'encodings/6/mattheson/comments_1731.xml': {201: 335},              # n="334" twice
+    'encodings/7/mattheson/comments_1731.xml': {102: 338, 182: 339},    # n="318", "319" (copied from No. 3)
+    'encodings/19/mattheson/comments_1731.xml': {159: 413},             # n="412" twice
 }
 
 # MEI files whose page breaks of a print are matched to its surfaces by order:
@@ -115,14 +115,14 @@ BY_ORDER = {('encodings/8/mattheson/score.xml', '1719')}
 # TEI elements on another page than the preceding pb says: No. 20 (1719),
 # music example 7 is at the top of p. 214, before the pb.
 ELEMENT_PAGE = {
-    'encodings/20/mattheson/comments_1st.xml': {'music-example7': 214},
+    'encodings/20/mattheson/comments_1719.xml': {'music-example7': 214},
 }
 
 # Pointers to add where the previous fix (43df75e) had to drop them because
 # the file had no surface for the page: No. 20, 1719, §. 1 and the beginning
 # of §. 2 are on p. 211 (canvas 431).
 ADD = {
-    'encodings/20/mattheson/comments_1st.xml': ['p1-1', 'music-example1', 'p1-2', 'music-example2'],
+    'encodings/20/mattheson/comments_1719.xml': ['p1-1', 'music-example1', 'p1-2', 'music-example2'],
 }
 
 CANVAS_IN_URL = re.compile(r'^(https://api\.digitale-sammlungen\.de/iiif/presentation/v2/(bsb\d{8})/canvas/)(\d+)$')
@@ -304,7 +304,7 @@ def main():
         if '<surface' not in path.read_text(encoding='utf-8'):
             continue
         if 'facsimile/bsb' in path.read_text(encoding='utf-8'):
-            continue   # 5/mattheson/comments_en.xml: local images, handled separately
+            continue   # 5/mattheson/comments_1731_en.xml: local images, handled separately
         surfaces, pointer_edits = plan(path)
         changed = [s for s in surfaces if s['new_canvas'] != s['canvas'] or not CANVAS_IN_URL.match(s['url'])]
         if not changed and not pointer_edits:

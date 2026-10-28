@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps22-001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe zweiundzwanzigstes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1719.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1" />
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="2008" lry="2450" xml:id="facs-p440" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/440">
+      <graphic width="2009px" height="2451px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00440/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1909" lry="2398" xml:id="facs-p441" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/441">
+      <graphic width="1910px" height="2399px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00441/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1985" lry="2422" xml:id="facs-p442" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/442">
+      <graphic width="1986px" height="2423px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00442/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1903" lry="2408" xml:id="facs-p443" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/443">
+      <graphic width="1904px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00443/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="2002" lry="2454" xml:id="facs-p444" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/444">
+      <graphic width="2003px" height="2455px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00444/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lrx="1962" lry="2393" xml:id="facs-p445" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/445">
+      <graphic width="1963px" height="2394px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00445/full/full/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="score">
+        <head>Der Ober-Classe zweiundzwanzigstes Prob-Stück.</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+      <pb n="221" facs="#facs-p441"/>
+      <div>
+        <lb /><head>Anmerckungen.</head>
+        <div n="1">
+          <lb /><head>§. 1.</head>
+          <lb /><p xml:id="anm-p1-1">
+            <s xml:id="anm-p1-1-s1"><hi rendition="#in">W</hi>Eil dieſe <hi rendition="#aq">Pieçe</hi> im Druck nicht fu&#x0364;glich auf zwo Seiten gantz zu bringen war, hat man lieber
+            <lb />hier mit einer langen und <hi rendition="#aq"><foreign xml:lang="lat">final</foreign></hi>-Note auffho&#x0364;ren, als hernach mitten in der Melodie, wo es
+            <lb />ſich gar nicht ſchicket, abbrechen und umkehren wollen.</s>
+          </p>
+        </div>
+        <div n="2">
+          <lb /><head>§. 2.</head>
+          <p xml:id="anm-p2-1">
+            <!-- no new line beginning after title -->
+            <s xml:id="anm-p2-1-s1">Ob gleich bisher in verſchiedenen Exempeln, <hi rendition="#aq"><foreign xml:lang="lat">propter juniores</foreign></hi>, eine gewiſſe einfa&#x0364;ltige Art
+            <lb />zu <hi rendition="#aq">notiren</hi> bey den <hi rendition="#aq">chromati</hi>ſchen Tonen erwa&#x0364;hlet worden, die etwas unfo&#x0364;rmlich ſcheinet, ungeachtet
+            <lb />ſie den meiſten leichter vorko&#x0364;mmt als die <hi rendition="#aq">recipirte</hi>, wie mich ſolches die Erfahrung o&#x0364;ffters gelehret hat,
+            <lb />indem ein mittelma&#x0364;ßiger Spieler Z. E. weniger bey dieſen Noten ſtutzen wird:
+            <notatedMusic xml:id="music-example4" facs="#facs-p441">
+              <ptr target="music-example4.xml"/>
+            </notatedMusic>
+            <lb />Als bey folgenden:
+            <notatedMusic xml:id="music-example5" facs="#facs-p441">
+              <ptr target="music-example5.xml"/>
+            </notatedMusic>
+            <lb />So hat man doch Urſach zu dencken, daß dieſe gebrauchte <hi rendition="#aq"><foreign xml:lang="fra">Complaiſance</foreign></hi> nunmehro wohl auffho&#x0364;ren
+            <lb />mo&#x0364;ge, und daß einer, der in ſeiner Probe bis hieher glu&#x0364;cklich fortgekommen iſt, die Kinder-Schuh
+            <lb />nun meiſtens vertreten haben, und wiſſen mu&#x0364;ſſe, daß die <hi rendition="#aq"><foreign xml:lang="lat">Intervalla</foreign></hi> nicht ſo wohl nach den <hi rendition="#aq"><foreign xml:lang="lat">Signis</foreign></hi>, als
+            <lb />nach ihrer eigentlichen Maaſſe und <hi rendition="#aq">Proportion</hi> zu beurtheilen ſind.</s> <s xml:id="anm-p2-1-s2">Derowegen iſt in gegenwa&#x0364;rti-
+            <lb />gem und nachfolgenden Prob-Stu&#x0364;cken die bey vielen beru&#x0364;hmten <hi rendition="#aq">Virtuoſen</hi> gebra&#x0364;uchliche Weiſe, mit
+            <lb />dem zweyfachen Creutze (♯♯) eingefu&#x0364;hret worden; dabey man ſich doch ſeine <hi rendition="#aq"><foreign xml:lang="lat">Dubia</foreign></hi> vorbeha&#x0364;lt, und
+            <lb />ſelbige einigermaſſen, zum Beſchluß dieſes Werckes, zu ero&#x0364;rtern ſuchen, anbey inſonderheit we-
+            <lb />gen Notirung des <hi rendition="#aq"><foreign xml:lang="lat">Fis duri</foreign></hi> etwas merckwu&#x0364;rdiges erinnern wird, das hier keinen Raum findet.</s>
+          </p>
+        </div>
+      </div>
+      <pb n="222" facs="#facs-p442"/>
+      <fw place="bottom" type="catch">Erla&#x0364;u-</fw>
+      <pb n="223" facs="#facs-p443"/>
+
+      <div n="0" type="chapter">
+      <lb /><head>Erla&#x0364;uterung.</head>
+      <div n="1">
+        <lb /><head>§. 1.</head>
+        <p xml:id="p1-1">
+          <lb /><s xml:id="p1-1-s1"><hi rendition="#in">D</hi>Amit ja niemand ſich zu beſchweren haben mo&#x0364;ge, daß bey dieſem <hi rendition="#b">Prob-
+          <lb />Stu&#x0364;ck</hi> die <hi rendition="#aq">Claves</hi> ihm Verwirrung verurſachen, ſo iſt gantz und gar
+          <lb />davon <hi rendition="#aq">abſtrahi</hi>ret und nur ein eintziges mahl das <ref target="#clef-001">Tenor-Zeichen</ref>, et-
+          <lb />wann anderthalb Tact lang, eingeru&#x0364;cket worden.</s> <s xml:id="p1-1-s2">Man hat auch beſtmu&#x0364;glichſt
+          <lb />auf die natu&#x0364;rlichſte Ausweichung des Tons ſein Abſehen gerichtet und keine <hi rendition="#aq">Clau-
+          <lb />ſulam peregrinam</hi> angebracht.</s>
+        </p>
+      </div>
+
+      <div n="2">
+        <lb /><head>§. 2.</head>
+        <p xml:id="p2-1">
+          <!-- no new line beginning after title -->
+          <s xml:id="p2-1-s1">Das war, was ſich in gegenwa&#x0364;rtiger <hi rendition="#aq">Pieçe</hi> nicht befindet; nun wollen
+          <lb />wir mit wenigen dasjenige betrachten, was darinnen vorko&#x0364;mmt.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p1-1-s1">Erſtlich
+          <lb />muß bey dem Fall aus dem <ref target="#note-0000001105515864"><hi rendition="#aq">cis</hi></ref>
+          ins <ref target="#note-0000000438118919"><hi rendition="#aq">b</hi></ref>
+          bemercket werden, daß zwiſchen beyden
+          <lb />das <ref target="#note-0000000845814796"><hi rendition="#aq">h</hi></ref>
+          an- und mit einem kleinen <hi rendition="#aq">Trillo</hi> vorſchlagen muß, ſonſt wu&#x0364;rde es ho&#x0364;l-
+          <lb />tzern klingen.</s> <s xml:id="p2-1-s3" corresp="comments_1731.xml#p2-1-s1">Vors andere, wenn man alles fein rein bis auf die
+          <ref target="#note-0000002103583228"><hi rendition="#aq">Cadence</hi> in
+          <lb />den elfften Tact</ref> gebracht hat, ſo wird nach Belieben (nicht daß es eben unum-
+          <lb />ga&#x0364;nglich ſey) die rechte Hand oder vielmehr der Kopff ſeine <hi rendition="#aq">Melodie</hi>, wie es zu
+          <lb />ſingen ſeyn mo&#x0364;chte, zu erſinnen wiſſen, welche unmaßgeblich auf dieſen Schlag
+          <lb />einzurichten, womit ſie dann ein Tact oder zehn bis zur
+          <ref target="#note-0000000417006726"><hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">cis</hi></ref> <hi rendition="#aq">con-</hi>
+          <lb />tinuiret werden mag:
+          <note type="editorial" resp="#pfeffer">
+            Im folgenden Notenbeispiel setzt Mattheson die Taktstriche um einen
+            halben Takt versetzt.
+          </note></s>
+          <notatedMusic xml:id="music-example1">
+            <ptr target="music-example1.xml" />
+          </notatedMusic>
+          <fw place="bottom" type="catch">Jn-</fw>
+          <pb n="224" facs="#facs-p444"/>
+          <lb /><s xml:id="p2-1-s4">Jndeſſen muß, was ſo offt erinnert worden, die Vollſtimmigkeit des Baſſes
+          <lb />und Beobachtung der <hi rendition="#aq">Signatu</hi>ren in der lincken Hand, keines weges ausge-
+          <lb />ſetzet werden.</s>
+        </p>
+      </div>
+
+      <div n="3">
+        <lb /><head>§. 3.</head>
+        <p xml:id="p3-1">
+          <lb /><s xml:id="p3-1-s1" corresp="comments_1731.xml#p3-1-s1">Jm neunzehnten Tact<note type="editorial" resp="#pfeffer">Gemeint ist Takt 29 mit dem zweiten ›si suona‹; Takt 19 hat keines.</note> ſteht wiederum
+          <ref target="#si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign></hi></ref>, deſſen Bedeutung be-
+          <lb />kandt iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
+          und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
+          da geht es u&#x0364;ber alles, was nur wohl klingt.</s>
+          <lb /><s xml:id="p3-1-s2" corresp="comments_1731.xml#p3-1-s2"><ref target="#measure-0000000574431491">Nach dem Schluß des erſten Theils</ref>
+          fa&#x0364;nget die rechte Hand abermahl zu <hi rendition="#aq">modu-</hi>
+          <lb />liren an, wovon dieſes ein Muſter ſeyn mag:</s>
+
+          <notatedMusic xml:id="music-example2">
+            <ptr target="music-example2.xml" />
+          </notatedMusic>
+
+          <lb /><s xml:id="p3-1-s3" corresp="comments_1731.xml#p4-1-s1">Darauf hebt ſich das <ref target="#tutti-3"><hi rendition="#aq">Tutti</hi></ref> an bis zur
+          <ref target="#measure-0000000387035804">na&#x0364;chſten <hi rendition="#aq">Cadence</hi></ref>, allwo ohngefehr auf
+          <lb />dieſe Art mag geſpielet werden:</s>
+
+          <notatedMusic xml:id="music-example3">
+            <ptr target="music-example3.xml" />
+          </notatedMusic>
+        </p>
+      </div>
+
+      <pb n="225" facs="#facs-p445"/>
+
+      <div n="4">
+        <lb /><head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb /><s xml:id="p4-1-s1">Jch wiederhole nochmahls, daß es keine <hi rendition="#aq"><foreign xml:lang="lat">Sanctio pragmatica</foreign></hi> ſey, eben
+          <lb />dieſe Noten, ſo wie hier ſtehen, an bemeldten Oertern zu ſpielen; denn es wird
+          <lb />unmu&#x0364;glich ſeyn, daß einer unter hundert es juſt ſo treffe.</s> <s xml:id="p4-1-s2">Es iſt alles nur zur
+          <lb />Nachricht hingeſetzet worden, und wer ſich der Probe unternimmt, kan ſchon
+          <lb />etwas beſſers <hi rendition="#aq">extemporiſiren</hi>, anbey dadurch zu erkennen geben, daß die Sel-
+          <lb />tenheit des Tons ſeinen Geiſt nicht feſſelt, ſondern, daß er, derſelben ungeachtet,
+          <lb />freye <hi rendition="#aq">Fantaiſie</hi> habe, und nach Gefallen mit dem Clavier ſchalten ko&#x0364;nne.</s> <s xml:id="p4-1-s3">Wenn
+          <lb />ſelbiges reine geſtimmet iſt, ſo wird es ſchon gut aus dem <hi rendition="#aq">Fis dur</hi> klingen, da-
+          <lb />fern ein <hi rendition="#aq">habiler</hi> Meiſter daru&#x0364;ber ko&#x0364;mmt; ſtimmt das Jnſtrument aber nicht,
+          <lb />ſo kan es auch aus dem gemeinſten Straſſen-Ton nicht gut klingen, und wenn ein
+          <lb /><hi rendition="#aq">Orpheus</hi> ſelber ſpielte.</s> <s xml:id="p4-1-s4">Gibt ſich inzwiſchen einer fu&#x0364;r Meiſter aus, ſo muß er
+          <lb />hier <hi rendition="#aq">extemporiſiren</hi> ko&#x0364;nnen; denn ſolche Leute, hauptſa&#x0364;chlich unter den Organi-
+          <lb />ſten, zu pru&#x0364;fen, iſt hier der erſte und fu&#x0364;rnehmſte Zweck; dahingegen der Un-
+          <lb />terricht nur beyla&#x0364;uffig gehandelt und <hi rendition="#aq"><foreign xml:lang="lat">ſecundo loco</foreign></hi> geſetzt wird.</s> <s xml:id="p4-1-s5">Es kan und mag
+          <lb />zwar ein jeder, wie in der Vorbereitung geſagt worden, ſich ohne Zeugen ſelbſt pru&#x0364;-
+          <lb />fen; aber weil uns doch die Eigen-Liebe gar zu ſehr anha&#x0364;ngt, und man gerne mit
+          <lb />ſeinen eigenen Fehlern durch die Finger ſiehet, ſo wa&#x0364;re mein Rath, erſt ins geheim,
+          <lb />hernach mit Zuziehung eines unpartheyiſchen Kenners, die Probe anzuſtellen.</s>
+        </p>
+      </div>
+
+      <fw place="bottom" type="catch">Drey</fw>
+
+    </div>
+    </body>
+  </text>
+</TEI>

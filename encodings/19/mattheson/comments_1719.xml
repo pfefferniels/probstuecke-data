@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps19-001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe Neunzehntes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1719.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="1955" lry="2414" xml:id="facs-p424" n="204" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/424">
+      <graphic width="1956px" height="2415px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00424/full/full/0/default.jpg" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1911" lry="2383" xml:id="facs-p425" n="205" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/425">
+      <graphic width="1912px" height="2384px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00425/full/full/0/default.jpg" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1960" lry="2426" xml:id="facs-p426" n="206" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/426">
+      <graphic width="1961px" height="2427px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00426/full/full/0/default.jpg" />
+  </surface>
+  <surface ulx="0" uly="0" lrx="1915" lry="2382" xml:id="facs-p427" n="207" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/427">
+      <graphic width="1916px" height="2383px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00427/full/full/0/default.jpg" />
+  </surface>
+</facsimile>
+  <text>
+    <body>
+      <div type="score">
+        <head>Der Ober-Classe neunzehntes Prob-Stück.</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+
+      <fw place="bottom" type="catch">Er-</fw>
+      <pb n="206" facs="#facs-p426"/>
+
+      <div n="0" type="chapter">
+      <head>Erlaͤuterung.</head>
+      <div n="1">
+        <head>§. 1.</head>
+        <p xml:id="p1-1">
+          <lb/><s xml:id="p1-1-s1" corresp="comments_1731.xml#p1-1-s1"><hi rendition="#in">H</hi>Jer moͤchte nun wohl ein wenig Tactirens noͤthig ſeyn, zumahl vor einem,
+          <lb/>der nicht feſt im Sattel ſitzt.</s> <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2">Jch zweifle aber, ob ein ſolcher ſelber ſchla-
+          <lb/>gen, oder ſich den Tact vorſchlagen laſſen wolle.</s> <s xml:id="p1-1-s3" corresp="comments_1731.xml#p1-1-s3">Das andere waͤre meines
+          <lb/>Erachtens das beſte, ſo koͤnte man mit mehrer <hi rendition="#aq">Attention</hi> das uͤbrige verrichten.<note place="foot" n="*">
+            <lb/>Vom Tact-ſchlagen, wie ſolches dem <hi rendition="#aq">Directori</hi> allein, und ſonſt keinem zuſtehet, beſiehe
+            <lb/><hi rendition="#b"><persName corresp="#ed_scp_svx_qlb">Printzens</persName></hi> <bibl corresp="#ed_pmp_1hl_tlb"><hi rendition="#b">Satyr.</hi> <hi rendition="#aq"><hi rendition="#i">Comp.</hi> II.</hi> Th. <hi rendition="#aq">c. 18. §. 10.</hi></bibl>
+          </note></s>
+          <lb/><s xml:id="p1-1-s4" corresp="comments_1731.xml#p1-1-s4">Jnzwiſchen bedarff ein Meiſter weder des einen noch des andern, wenn er allein
+          <lb/>ſpielet? und muß doch kein Haͤrlein fehlen, falls ihm nicht gepfiffen werden ſoll.</s>
+        </p>
+      </div>
+
+      <div n="2">
+        <head>§. 2.</head>
+        <p xml:id="p2-1">
+          <lb/><s xml:id="p2-1-s1" corresp="comments_1731.xml#p2-1-s1">An den Orten dieſer <hi rendition="#aq">Pieçe,</hi> wo die 6 ſo haͤuffig ſtehet, als wenns ih-
+          <lb/>rer aller <hi rendition="#aq">Rendesvous</hi> waͤre, kan man, inſonderheit bey zweygeſchwaͤntzten No-
+          <lb/>ten, entweder mit der 6 allein, oder mit der Tertie zukommen, doch ſo, daß wenn
+          <lb/>die Sexte die geſchwinden Noten mit <hi rendition="#aq">accompagni</hi>ret, die Tertie nicht mangele,
+          <lb/>ſondern liege, <hi rendition="#aq"><foreign xml:lang="lat">&amp; vice verſa</foreign>,</hi> wo die Tertien mitlauffen, muß die Sexte auch
+          <lb/>gegenwaͤrtig in der Hand ſeyn.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p2-1-s2">An welchen Orten aber die Sexte ſo geſchwinde
+          <lb/>abwechſele, und an welchem es die Tertie thun kan, ſolches will ich anmercken.</s>
+        </p>
+      </div>
+
+      <div n="3">
+        <head>§. 3.</head>
+        <p xml:id="p3-1">
+          <lb/><s xml:id="p3-1-s1" corresp="comments_1731.xml#p3-1-s1">Jm <ref target="#measure-0000000533608303 #measure-0000001856501508">andern und dritten</ref> Tact verrichten die Sexten die <hi rendition="#aq">Expedition,</hi> und
+          <lb/>bleibt das <hi rendition="#aq">fis,</hi> als die Tertie zum <hi rendition="#aq">d,</hi> dabey beliegen, welche dann zum <hi rendition="#aq">cis</hi> eine Quar-
+          <lb/>te, und folglich nichts unangenehmes, ſondern was <hi rendition="#aq">galantes</hi> wird.</s> <s xml:id="p3-1-s2" corresp="comments_1731.xml#p3-1-s2 comments_1731.xml#p3-1-s3">Jm <ref target="#measure-0000001184386067 #measure-0000001578689986">neun-
+          <lb/>ten und zehnten</ref> Tact hingegen thut ſich die Tertie mehr Muͤhe, und laͤſt die Sexte
+          <lb/>ruhen, welche zum <hi rendition="#aq">fis</hi> zwar <hi rendition="#aq">diſſoni</hi>rte, wenn es langſamere Noten waͤren, da ſie
+          <lb/>aber geſchwinde durchgehen, und zuletzt bey der Tertie alles aufhoͤret, ſo kan daruͤber
+          <lb/>eben den Ohren nichts widriges begegnen; Bey dem andern Satz indeſſen macht
+          <lb/>die liegende Sexte zu den zwiſchen-ſpielenden Noten eine wohlklingende Quinte aus.</s>
+        </p>
+      </div>
+
+      <div n="4">
+        <head>§. 4.</head>
+        <p xml:id="p4-1">
+          <lb/><s xml:id="p4-1-s1" corresp="comments_1731.xml#p4-1-s1">Wo der Tact mit einer Pauſe anfaͤngt, nemlich mit einer ſolchen <g type="smufl">&#xE4E6;</g>
+          <lb/>da wird zu der darauf folgenden Note nichts, auch billig allhier nicht einmahl vor-
+          <lb/>geſchlagen; wiewohl ich hievon den Anfang ausnehmen will, und rede nur von den
+          <lb/>Vorfaͤllen im <ref target="#rest-0000001531580152 #rest-0000001496543014 #rest-0000001713253157 #rest-0000001164364404 #rest-0000000844719707 #rest-0000001933121666 #rest-0000001173989907 #rest-0000001822354377 #rest-0000001679602312 #rest-0000001197851580 #rest-0000000964463351 #rest-0000000542946318 #rest-0000001539491416 #rest-0000002011106610 #rest-0000000875827094 #rest-0000001099723409">7. 8. 12. 20. 21, 22. 29. 30. 31. 32. 33. 42. 45. 47. 48. und 27<hi rendition="#sup">ſten</hi></ref><note type="editorial" resp="#pfeffer">Die Zählung dieser Aufzählung weicht von Takt 19 an von der Partitur ab. Die Verweise folgen der berichtigten Aufzählung im Druck von 1731 (Takte 7, 8, 12, 19–21, 28–32, 41, 44–46 und 52); mit dem „27sten“ ist vermutlich der 27. Takt des zweiten Teils, also Takt 52, gemeint.</note>
+          <fw place="bottom" type="catch">Tact.</fw>
+          <pb n="207" facs="#facs-p427"/>
+          <lb/>Tact.</s> <s xml:id="p4-1-s2" corresp="comments_1731.xml#p4-1-s2">Nun faͤnget zwar an allen dieſen Stellen der Tact nicht juſt mit der
+          <lb/>Pauſe an, es hat aber eben die <hi rendition="#aq">Raiſon</hi> alda, daß zu der Note, welche auf die
+          <lb/>Pauſe folget, nichtes muß geſchlagen werden, weil ſie nemlich durchgehet, nich-
+          <lb/>tes ſonderliches zu bedeuten hat, und nur, nach der Abreiſſung, an ſtatt eines
+          <lb/>Haackens gleichſam dienet, wodurch eines ans andere gehaͤnget wird.</s>
+        </p>
+      </div>
+
+      <div n="5">
+        <head>§. 5.</head>
+        <p xml:id="p5-1">
+          <lb/><s xml:id="p5-1-s1" corresp="comments_1731.xml#p5-1-s1">Jm <ref target="#measure-0000001060551138">funffzehnten Tact</ref> haben die Sexten wiederum die Schule, und lie-
+          <lb/>gen die Tertien nur ſtille; Beym <ref target="#measure-0000001367850118">drey und zwantzigſten</ref> faͤllt mir eine Manier
+          <lb/>ein, die in der lincken Hand gar offt kan angebracht werden, und ſolches um
+          <lb/>deſto mehr, weil uͤberhaupt im Baß ein groſſer Mangel am manierlichen Spie-
+          <lb/>len (als da ſind: gute ſcharffe <hi rendition="#aq">Trilli,</hi> Vorſchlaͤge, <hi rendition="#aq">Accente</hi> und dergleichen)
+          <lb/>beym <hi rendition="#aq">Accompagni</hi>ren geſpuͤhret wird.</s> <s xml:id="p5-1-s2" corresp="comments_1731.xml#p5-1-s2">Dieſes, ſo ich hier <hi rendition="#aq">noti</hi>re, betrifft den
+          <lb/>Sprung in die Tertie auffwaͤrts, allwo man mehrentheils <ref target="#mattheson-schleuffer">einen ſtarcken
+          <lb/>Schleuffer</ref> machen und dem hohen Ton dadurch eine ungemeine <hi rendition="#aq">Force</hi> geben
+          <lb/>kan.</s> <s xml:id="p5-1-s3" corresp="comments_1731.xml#p5-1-s3">Es muß aber ſolcher Schleuffer nicht, wie etwann beym Singen, ge-
+          <lb/>zogen, ſondern kurtz und etwas <hi rendition="#aq">vehement</hi> gemacht werden, gerade als ob
+          <lb/>man die drey Finger zugleich hinſetzte, und nur einen nach den andern auff-
+          <lb/>hebte.</s>
+        </p>
+      </div>
+
+      <div n="6">
+        <head>§. 6.</head>
+        <p xml:id="p6-1">
+          <lb/><s xml:id="p6-1-s1" corresp="comments_1731.xml#p6-1-s1">Es moͤchte einer im <ref target="#measure-0000000452779095">vier und dreyßigſten Tact</ref> Wunder dencken, woher
+          <lb/>ſich die harte <hi rendition="#aq">Signatur</hi> ſchreibe, es iſt aber die Sexte zur folgenden Note, wel-
+          <lb/>che nur <hi rendition="#aq">anticipi</hi>rt und hiebey erinnert werden wollen, daß ſolches in dieſer <hi rendition="#aq">Pie-
+          <lb/>çe</hi> offt geſchehen muͤſſe.</s> <s xml:id="p6-1-s2" corresp="comments_1731.xml#p7-1-s1">Kan einer im <ref target="#measure-0000001126576291">ein und viertzigſten Tact</ref> mit der rechten
+          <lb/>Hand ein paar Noten <hi rendition="#aq"><foreign xml:lang="lat">canonicè</foreign></hi> vorher ſpielen und den Baß folgen laſſen, wird
+          <lb/>es nicht uͤbel ſtehen.</s> <s xml:id="p6-1-s3" corresp="comments_1731.xml#p7-1-s2">Sonſt faͤllt wenig mehr zu mercken vor, das nicht mit dem,
+          <lb/>was bereits geſagt worden, eine Verwandſchafft haͤtte.</s>
+        </p>
+      </div>
+
+      <div n="7">
+        <head>§. 7.</head>
+        <p xml:id="p7-1">
+          <lb/><s xml:id="p7-1-s1">Aus dieſem Ton ſiehe eine ſchoͤne <hi rendition="#aq">Sonata in <persName corresp="#ed_m5c_t1q_qlb">Masciti</persName> <name type="musicalWork" corresp="#ed_m5c_o3t_tlb">Opera Terza</name>, gra-
+          <lb/>vi</hi>rt bey <hi rendition="#aq"><persName corresp="#ed_kf5_clf_5lb">Etienne Roger</persName></hi> zu <placeName ref="https://www.geonames.org/2759794">Amſterdam</placeName>, es wird die <hi rendition="#b">Siebende</hi> ſeyn: <hi rendition="#aq"><abbr>Vid.</abbr>
+          <lb/><persName corresp="#ed_yvc_pfj_vlb">Arc. Corelli</persName>, <name type="musicalWork" corresp="#ed_rvt_hgj_vlb">Livre II. Suite XI.</name></hi></s> <s xml:id="p7-1-s2" corresp="comments_1731.xml#p8-1-s1"><hi rendition="#aq"><persName corresp="#ed_dwf_j5x_qlb">Mſr. St. Lambert</persName></hi> nennet dieſen Ton <hi rendition="#aq">p. 29.</hi>
+          <lb/><hi rendition="#aq"><foreign xml:lang="fra">F ut Fa Diéze mineur</foreign>,</hi> und ſchreibet dabey: <hi rendition="#aq"><foreign xml:lang="fra">Rare</foreign>.</hi></s> <s xml:id="p7-1-s3" corresp="comments_1731.xml#p8-1-s2"><hi rendition="#aq">Fis mol</hi> iſt kuͤrtzer geſagt,
+          <lb/>und bey mir gar nichts rares.</s>
+        </p>
+      </div>
+      <fw place="bottom" type="catch">Zwan-</fw>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps5-001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="part">Mattheson: Der Ober-Classe Fünftes Probstück</title>
+        <editor>
+          <persName xml:id="pfeffer">
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </editor>
+        <editor>
+          <persName xml:id="rettinghaus" ref="https://d-nb.info/gnd/140541624">
+            <surname>Rettinghaus</surname>
+            <forename>Klaus</forename>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <persName>
+            <surname>Pfeffer</surname>
+            <forename>Niels</forename>
+          </persName>
+        </publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Creative Commons Attribution 4.0 International License</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Mattheson, Johann: Exemplarische Organisten-Probe. Hamburg, 1719.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Matthesons Exemplarische Organisten-Probe im Articul vom Generalbass.</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118578995">
+                <surname>Mattheson</surname>
+                <forename>Johann</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>
+              <name>Schiller und Kißner</name>
+            </publisher>
+            <pubPlace>Hamburg</pubPlace>
+            <date type="publication">1719</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository>Bayerische Staatsbibliothek</repository>
+            <idno>
+              <idno type="shelfmark">Bayerische Staatsbibliothek, Mus.th. 977 a</idno>
+              <idno type="URLCatalogue">https://opacplus.bsb-muenchen.de/search?oclcno=165907659</idno>
+              <idno type="URLIIIF">https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/manifest</idno>
+              <idno type="URN">urn:nbn:de:bvb:12-bsb10527431-0</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lry="2403" lrx="1926" xml:id="facs-p301" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/301">
+      <graphic width="1926px" height="2403px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00301/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lry="2414" lrx="1975" xml:id="facs-p302" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/302">
+      <graphic width="1975px" height="2414px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00302/full/full/0/default.jpg" />
+    </surface>
+    <surface ulx="0" uly="0" lry="2409" lrx="1920" xml:id="facs-p303" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10527431/canvas/303">
+      <graphic width="1920px" height="2409px" url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10527431_00303/full/full/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="score">
+        <head>Der Ober-Classe fünfftes Prob-Stück.</head><lb/>
+        <figure type="notatedMusic">
+          <notatedMusic type="fullPage" xml:id="score">
+            <ptr target="score.xml"/>
+          </notatedMusic>
+        </figure>
+      </div>
+      <div>
+        <p xml:id="p0-1">
+          <s xml:id="p0-1-s1"><hi rendition="#aq"><abbr>Vid.</abbr></hi>
+          <hi rendition="#b"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
+          <name type="musicalWork" corresp="#ed_vsj_4rx_slb">Land-Luſt</name>
+          p. 21. wenn jemand etwann ſonſt um ein Stück aus dem
+          <lb/><hi rendition="#aq">C dur</hi> verlegen wäre, das ich doch nicht
+          hoffen will.</s>
+        </p>
+        <fw place="bottom" type="catch">Er-</fw>
+      </div>
+
+      <div n="0" type="chapter">
+        <pb n="128"/>
+        <head>Erlaͤuterung.</head>
+        <div n="1">
+          <lb/><head>§. 1.</head>
+          <p xml:id="p1-1">
+            <lb/><s xml:id="p1-1-s1" corresp="comments_1731.xml#p1-1-s1"><hi rendition="#in">M</hi>an wird des Lermens muͤde.</s>
+            <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2">Alle Muſic muß ihre Abwechſlung ha-
+            <lb/>ben, und wenn lange genug auf dem Claviere gedonnert hat, ſo
+            <lb/>muß ein <hi rendition="#aq">Calme</hi>
+            kommen.</s> <s xml:id="p1-1-s3" corresp="comments_1731.xml#p1-1-s3">Jch meyne, es muß eine ſuͤße, liebliche Melodie
+            <lb/>auf etwas rauſchendes und wildes <hi rendition="#aq">ſuccedi</hi>ren.</s>
+          </p>
+        </div>
+
+        <div n="2">
+          <lb/><head><sic>§. 6.</sic></head>
+          <p xml:id="p2-1">
+            <lb/><s xml:id="p2-1-s1" corresp="comments_1731.xml#p2-1-s1">Damit auch hierunter kein Mangel verſpuͤhret werde, ſo hat man in ge-
+            <lb/>genwaͤrtiger
+            <hi rendition="#aq">Pieçe</hi>
+            einem Liebhaber des mannierlichen Spielens Gelegenheit ge-
+            <lb/>ben wollen, ſeinen Krahm auszulegen, naͤmlich an den
+            Orten, wo die Worte:
+            <lb/><ref target="#si-suona-1 #si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita">ſi ſuona</foreign></hi></ref>,
+            befindlich, welches ſo viel heiſt:
+            <hi rendition="#b">Man ſpielet</hi>, und zwar
+            <hi rendition="#aq"><foreign xml:lang="lat">ſecundum
+            <lb/>excellentiam</foreign></hi>, man laͤßt ſich gantz allein
+            in der rechten Hand hoͤren.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p2-1-s2">Hievon
+            <lb/>nun, und wie gedachtes Spielen ſoll eingerichtet seyn, etwas
+            gewiſſes und <hi rendition="#aq">ſpe-
+            <lb/>ciales</hi> zu ſagen, ist die lautere Unmoͤgligkeit,
+            maſſen ſolches aus freyen Einfaͤllen
+            <lb/>herflieſſen und gar nicht
+            gezwungen ſeyn will.</s> <s xml:id="p2-1-s3" corresp="comments_1731.xml#p2-1-s3">So viel iſt
+            <hi rendition="#aq"><foreign xml:lang="lat">in genere</foreign></hi>
+            zu melden,
+            <lb/>daß der Baß,
+            <hi rendition="#aq">accompagnieret</hi>
+            oder voll greifft, die rechte Hand aber nur einſtim-
+            <lb/>mig,
+            <hi rendition="#aq"><abbr>i.e.</abbr> ſolo</hi>,
+            auf das  aller<hi rendition="#aq">melodieuſe</hi>ſte
+            dazu <hi rendition="#aq">componir</hi>t.</s>
+            <s xml:id="p2-1-s4" corresp="comments_1731.xml#p2-1-s4">Nun sind aber die
+            <lb/>Gaͤnge auch ſo leicht und natuͤrlich eingerichtet,
+            daß einer ſehr unerfahren ſeyn
+            <lb/>muͤſte, der nicht augenblicklich darzu eine geschickte
+            Stimme erfinden ſollte, ſin-
+            <lb/>temahl der bezieferte Baß alles ſelbst angiebt, und einem
+            gleichsam in die Haͤnde
+            <lb/>thut.</s> <s xml:id="p2-1-s5" corresp="comments_1731.xml#p2-1-s5">Du magst aber auch in dieſem Stuͤcke
+            deinen <hi rendition="#aq">Candidaten</hi>
+            auf die Probe stel-
+            <lb/>len, und wenn er ſich nicht haͤlt,
+            hinwiederum nicht viel von ſeiner
+            <hi rendition="#aq">Virtù</hi> halten.</s>
+          </p>
+        </div>
+
+        <div n="3">
+          <lb/><head>§. 3.</head>
+          <p xml:id="p3-1">
+            <lb/><s xml:id="p3-1-s1" corresp="comments_1731.xml#p3-1-s1 comments_1731.xml#p3-1-s2">Wo das
+            <ref target="#presto-000 #presto-001 #presto-002"><hi rendition="#aq">Preſto</hi></ref>
+            befindlich, greiffet man das Clavier auffs ſtaͤrckeſte, und
+            <lb/>ſchlaͤgt zu jeder Note hurtig an, da denn dieſe
+            Abwechſlung nicht unangenehm
+            <lb/>ſeyn, sondern beydes den Studierenden ermuntern,
+            und dem Zuhoͤrer nicht miß-
+            <lb/>fallen wird.</s>
+          </p>
+        </div>
+
+        <div n="4">
+          <pb n="129"/>
+          <lb/><head>§. 4.</head>
+          <p xml:id="p4-1">
+            <lb/><s xml:id="p4-1-s1" corresp="comments_1731.xml#p4-1-s1">Meine <hi rendition="#aq">Obſervation</hi>
+            bey diesem allergemeinſten Tone, (welcher bey je-
+            <lb/>Klimperer Trumpff ist) waͤre ſonſt dieſe, daß, ſo wie man
+            aus <hi rendition="#aq">moll</hi>en und
+            <lb/>betruͤbten Tonen was flieſſendes und munters mit
+            <hi rendition="#aq">Succeſs</hi> ſetzen und ſpielen
+            <lb/>kan; alſo aus dieſem harten und
+            <hi rendition="#aq"><foreign xml:lang="lat">triviali Modo</foreign></hi>
+            etwas zaͤrtliches und bewegliches
+            <lb/>nicht uͤbel klinge.</s> <s xml:id="p4-1-s2" corresp="comments_1731.xml#p4-1-s2"><abbr>Z.E.</abbr>
+            Ein <hi rendition="#aq">Solo</hi>
+            auf der <hi rendition="#aq"><foreign xml:lang="fra">Viole d'Amour</foreign></hi></s>
+          </p>
+        </div>
+
+        <div n="5">
+          <lb/><head>§. 5.</head>
+          <p xml:id="p5-1">
+            <lb/><s xml:id="p5-1-s1" corresp="comments_1731.xml#p5-1-s1">Ubrigens wird hierdurch der Satz bewieſen werden, daß, wer nicht
+            <lb/>ſingen koͤnne, auch nicht zu ſpielen wiſſe.</s>
+            <s xml:id="p5-1-s2" corresp="comments_1731.xml#p5-1-s2">Das moͤchte manchem Orga-
+            <lb/>niſten ungereimt vorkommen, inſonderheit denen in
+            Staͤdten, die nicht zugleich
+            <lb/>Kuͤſter mit <hi rendition="#aq">agi</hi>ren;
+            denn auf dem Lande ist man aus Noth und Sparsamkeit
+            <lb/>ſo beſcheiden, und <hi rendition="#aq">contradici</hi>ret
+            mir hierin ſo wenig, daß auch beyde <hi rendition="#aq">Officia</hi>
+            <lb/>einer Perſon <hi rendition="#aq">conferi</hi>ret werden, wordurch
+            meiner Meynung ſehr viele <hi rendition="#aq">Vota</hi> zuwachſen.</s>
+            <lb/><s xml:id="p5-1-s3" corresp="comments_1731.xml#p5-1-s3">Aber, Schertz bey Seite geſetzet; wer mir und ſo viel ehrlichen
+            Bieder-Maͤnnern
+            <lb/>nicht glauben will, der probire es bey den haͤuffigen
+            Kirchen-Sachen, die ein un-
+            <lb/><hi rendition="#aq">melodieu</hi>ſer Organiſte etwañ
+            geſchmader, (denn es gibt fruchtbare Naͤchte bey die-
+            <lb/>ſen Leuten, in welchen die Pilze ich meyne ihre ſo genannten
+            <hi rendition="#aq">Compoſitiones</hi>, auf
+            <lb/>einmahl aus der
+            Erden Dutzen-weiß hervordringen) und ſehe zu, wie ſchlecht die
+            <lb/>Melodien an einander haͤngen, wie armselig es klinge.</s>
+            <s xml:id="p5-1-s4"><hi rendition="#aq"><foreign xml:lang="lat">Exempla ſunt odioſa</foreign></hi>.</s> <s xml:id="p5-1-s5" corresp="comments_1731.xml#p5-1-s4">Und
+            <lb/>wer weiter gehen will, der laſſe einen ſolchen im
+            Singen unerfahrenen Meiſter
+            <lb/>(von denen, die in der Singe-Kunst das ihre gethan, wird
+            nicht geredet) diß
+            <lb/>Exempel ſpielen, ſo wird er <hi rendition="#aq">Miracul</hi> ſehen.</s>
+          </p>
+        </div>
+
+        <div n="6">
+          <lb/><head>§. 6.</head>
+          <p xml:id="p6-1">
+            <lb/><s xml:id="p6-1-s1" corresp="comments_1731.xml#p6-1-s1">Es iſt aber dieſe Sang-Regel nicht ſo zu verſtehen, daß einer nothwendig
+            <lb/>ein <hi rendition="#aq"><foreign xml:lang="lat">Cantor practicus</foreign></hi>,
+            oder ein Saͤnger in der That ſeyn muͤſte,
+            wenn er wohl <hi rendition="#aq">ac-
+            <lb/>compagni</hi>ren wolle; Denn es gibt viele wackere Leute,
+            die doch von der Natur kei-
+            <lb/>ne Stimme zum Singen haben.</s> <s xml:id="p6-1-s2" corresp="comments_1731.xml#p6-1-s2">Es iſt auch nicht noͤthig,
+            daß alle Muſici eben
+            <lb/>mit einer ſchoͤnen Kehle groß thun muͤſſen,
+            den wenigſten iſt es gegeben; aber die
+            <lb/><hi rendition="#aq">Theorie</hi> muß nicht nur ein
+            <hi rendition="#aq">Componiſte</hi>, ſondern jeder
+            <hi rendition="#aq">Accompagnateur</hi>, ja
+            <lb/>jeder <hi rendition="#aq">Inſtrumentaliſte</hi>
+            verſtehen, und wenn ſein Hals gleich nichts nutzet, ſo muͤſſen
+            <lb/>doch ſeine ſingenden Gedancken den Fingern ihre Order ertheilen,
+            ſonſt ist alles hoͤl-
+            <lb/>tzern und todt.</s>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
