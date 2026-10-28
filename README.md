@@ -58,7 +58,7 @@ In the same way, the sentences of the 1719 print point to the sentences that Mat
 <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2">Ob nun das <hi rendition="#aq">Simile</hi> hincket, laſſe dahin geſtellet ſeyn; mir iſt es sehr laͤcherlich vorgekommen.</s>
 ```
 
-A 1719 sentence that Mattheson left out in 1731 points nowhere, and a sentence he added in 1731 is pointed to by none. Notes count with the sentence they stand in: where a note of 1719 became running text in 1731, the sentences made of it have no 1719 counterpart.
+A 1719 sentence that Mattheson left out in 1731 points nowhere, and a sentence he added in 1731 is pointed to by none. Notes are left out of the alignment: where a note of 1719 became running text in 1731, or running text a note, the sentences concerned have no counterpart.
 
 A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon, not with the full stop of an abbreviation or an ordinal number ("Vid.", "pag.", "im 23. Tact"), and not with a question or exclamation mark followed by a lowercase word, with which Mattheson continues the sentence ("O! iſt es nichts anders als das? ich dachte …"). Line and page breaks, notes and cited titles (`<bibl>`) stay inside the sentence they fall in. A quotation of several sentences that ends its sentence is divided inside the `<quote>`; the lead-in up to it ("… da er ſich alſo heraus läſſt:") is then a sentence of its own. Where an element such as `<hi>` spans the end of a sentence, it is split into two. Where the translation leaves a German sentence out, the neighbouring English sentence points to it as well, so that it is still shown.
 
