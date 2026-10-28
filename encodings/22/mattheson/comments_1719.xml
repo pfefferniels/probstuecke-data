@@ -180,13 +180,13 @@
           <note type="editorial" resp="#pfeffer">
             Im folgenden Notenbeispiel setzt Mattheson die Taktstriche um einen
             halben Takt versetzt.
-          </note>
+          </note></s>
           <notatedMusic xml:id="music-example1">
             <ptr target="music-example1.xml" />
           </notatedMusic>
           <fw place="bottom" type="catch">Jn-</fw>
           <pb n="224" facs="#facs-p444"/>
-          <lb />Jndeſſen muß, was ſo offt erinnert worden, die Vollſtimmigkeit des Baſſes
+          <lb /><s xml:id="p2-1-s4">Jndeſſen muß, was ſo offt erinnert worden, die Vollſtimmigkeit des Baſſes
           <lb />und Beobachtung der <hi rendition="#aq">Signatu</hi>ren in der lincken Hand, keines weges ausge-
           <lb />ſetzet werden.</s>
         </p>
@@ -200,15 +200,15 @@
           <lb />kandt iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
           und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
           da geht es u&#x0364;ber alles, was nur wohl klingt.</s>
-          <lb /><s xml:id="p3-1-s2" corresp="comments_1731.xml#p3-1-s2 comments_1731.xml#p4-1-s1"><ref target="#measure-0000000574431491">Nach dem Schluß des erſten Theils</ref>
+          <lb /><s xml:id="p3-1-s2" corresp="comments_1731.xml#p3-1-s2"><ref target="#measure-0000000574431491">Nach dem Schluß des erſten Theils</ref>
           fa&#x0364;nget die rechte Hand abermahl zu <hi rendition="#aq">modu-</hi>
-          <lb />liren an, wovon dieſes ein Muſter ſeyn mag:
+          <lb />liren an, wovon dieſes ein Muſter ſeyn mag:</s>
 
           <notatedMusic xml:id="music-example2">
             <ptr target="music-example2.xml" />
           </notatedMusic>
 
-          <lb />Darauf hebt ſich das <ref target="#tutti-3"><hi rendition="#aq">Tutti</hi></ref> an bis zur
+          <lb /><s xml:id="p3-1-s3" corresp="comments_1731.xml#p4-1-s1">Darauf hebt ſich das <ref target="#tutti-3"><hi rendition="#aq">Tutti</hi></ref> an bis zur
           <ref target="#measure-0000000387035804">na&#x0364;chſten <hi rendition="#aq">Cadence</hi></ref>, allwo ohngefehr auf
           <lb />dieſe Art mag geſpielet werden:</s>
 

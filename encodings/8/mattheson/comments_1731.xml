@@ -101,8 +101,8 @@
       </div>
       <pb n="343" facs="#facs-p405"/>
       <div>
-        <p>
-          <lb/>Der oberwehnte <hi rendition="#b"><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
+        <p xml:id="p0-1">
+          <lb/><s xml:id="p0-1-s1">Der oberwehnte <hi rendition="#b"><persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName></hi>
           ſagt, auf der 27ſten Seite ſeines Buchs, von
           <lb/>dieſem Ton, <hi rendition="#b"><term xml:id="t_g_dur-1" corresp="#t_g_dur">G</term></hi>, uͤberhaupt:
           <quote type="translation">
@@ -110,11 +110,11 @@
               <lb/>ſen oder unterſcheiden, ob er hart oder weich ſey, weil ihm die kleine
               <lb/>Tertz eben ſo bequem oder natuͤrlich falle, als die groſſe.
             </hi>
-          </quote>
-          Jch halte aber
+          </quote></s>
+          <s xml:id="p0-1-s2">Jch halte aber
           <lb/>jedoch, mit Urlaub, dafuͤr, es ſey dem <hi rendition="#b">G</hi> die harte Tertz weit natuͤrlicher, als
           <lb/>die weiche; ob ich gleich nicht misbillige, daß man bey jeder Ton-Art mit Un-
-          <lb/>terſchied rede, und den gewoͤhnlichen Zuſatz, <hi rendition="#b">moll</hi> oder <hi rendition="#b">dur</hi>, gebrauche.
+          <lb/>terſchied rede, und den gewoͤhnlichen Zuſatz, <hi rendition="#b">moll</hi> oder <hi rendition="#b">dur</hi>, gebrauche.</s>
         </p>
         <fw place="bottom" type="catch">Er-</fw>
       </div>

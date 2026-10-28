@@ -93,11 +93,11 @@
       </div>
       <pb n="132" facs="#facs-p306"/>
       <div>
-        <p>
-          <lb/><hi rendition="#aq">
+        <p xml:id="p0-1">
+          <lb/><s xml:id="p0-1-s1"><hi rendition="#aq">
             <abbr>Vid.</abbr> <hi rendition="#i"><persName corresp="#ed_fy5_r5x_qlb">Keiſers</persName></hi>
             <name type="musicalWork" corresp="#ed_zqv_vrx_slb">Solil.</name> p. 2.
-          </hi>
+          </hi></s>
         </p>
       </div>
 
@@ -106,66 +106,66 @@
         <div n="1">
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facs-p306 #facs-p307">
-            <hi rendition="#in">E</hi>S iſt ſchon zuvor erinnert worden, daß alles, was man in dieſen <hi rendition="#aq">Pieçen</hi> der rechten Hand
+            <s xml:id="p1-1-s1" corresp="comments_1731.xml#p1-1-s1"><hi rendition="#in">E</hi>S iſt ſchon zuvor erinnert worden, daß alles, was man in dieſen <hi rendition="#aq">Pieçen</hi> der rechten Hand
             <lb/>gerne beylegen wolte, ſich entweder vor oder hernach im Baß dergeſtalt befindet, daß es
-            <lb/>nur darff hervorgeſuchet oder auch imitiret werden. Hier moͤchte man nun gerne wiſſen,
+            <lb/>nur darff hervorgeſuchet oder auch imitiret werden.</s> <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2">Hier moͤchte man nun gerne wiſſen,
             <lb/>ob einer ſo viel Nachdencken haͤtte, nach dieſer Anweiſung gegenwaͤrtiges Stuͤck zu tractiren, oder
-            <lb/>ob ihm alles Haar-klein vorgeſchrieben werden muͤſſe? Wer die Probe anſtellen will, der laſſe dieſe
+            <lb/>ob ihm alles Haar-klein vorgeſchrieben werden muͤſſe?</s> <s xml:id="p1-1-s3" corresp="comments_1731.xml#p1-1-s3">Wer die Probe anſtellen will, der laſſe dieſe
             <fw place="bottom" type="catch">Erlaͤu-</fw>
             <pb n="133" facs="#facs-p307"/>
             <lb/>Erlaͤuterung ſo lange zuruͤck bleiben, bis er mercket, ob ſein <hi rendition="#aq">Candidat</hi> das rechte Fleckgen getrof-
-            <lb/>fen, oder nicht. Hat ers; <hi rendition="#aq"><foreign xml:lang="lat">plaudite</foreign></hi>! Verfehlt ers; ſo wird ers muͤſſen geben laſſen, und ſich nach
-            <lb/>eingenommenem Unterricht weidlich wundern, daß er den Lunten nicht ſelber riechen koͤnnen.
-            <lb/>Mancher wird eben ſo eine Naſe auffwerffen, als
+            <lb/>fen, oder nicht.</s> <s xml:id="p1-1-s4" corresp="comments_1731.xml#p1-1-s4">Hat ers; <hi rendition="#aq"><foreign xml:lang="lat">plaudite</foreign></hi>!</s> <s xml:id="p1-1-s5" corresp="comments_1731.xml#p1-1-s5">Verfehlt ers; ſo wird ers muͤſſen geben laſſen, und ſich nach
+            <lb/>eingenommenem Unterricht weidlich wundern, daß er den Lunten nicht ſelber riechen koͤnnen.</s>
+            <lb/><s xml:id="p1-1-s6" corresp="comments_1731.xml#p1-1-s6">Mancher wird eben ſo eine Naſe auffwerffen, als
             <hi rendition="#aq"><persName corresp="#ed_lvw_2xx_qlb">Lutheri</persName></hi> Geſellſchafft, wie er ihr das Ey ſte-
             <lb/>hend machte, und ſagen: O! iſt es nichts anders als das? ich dachte Wunder, was es ſeyn wuͤr-
-            <lb/>de. Mit ſolchen Anweiſungen gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich ver-
-            <lb/>langet, und wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden. Erfaͤhret man denn,
+            <lb/>de.</s> <s xml:id="p1-1-s7" corresp="comments_1731.xml#p1-1-s7">Mit ſolchen Anweiſungen gemahnet michs faſt eben, wie mit Artzneyen, die man ſehnlich ver-
+            <lb/>langet, und wenn ſie geholffen, gerne wiſſen wolte, woraus ſie beſtanden.</s> <s xml:id="p1-1-s8" corresp="comments_1731.xml#p1-1-s8">Erfaͤhret man denn,
             <lb/>daß es lauter <hi rendition="#aq">ordinaire Ingredientien</hi> geweſen, ſo verliehrt man ſchon den
             <hi rendition="#aq">Reſpect</hi> fuͤr die <hi rendition="#aq">Me-
-            <lb/>dicin</hi>, ob ſie gleich noch ſo gute Wuͤrckung gehabt hat. Das ſind lauter Vorurtheile; man laſſe
+            <lb/>dicin</hi>, ob ſie gleich noch ſo gute Wuͤrckung gehabt hat.</s> <s xml:id="p1-1-s9" corresp="comments_1731.xml#p1-1-s9">Das ſind lauter Vorurtheile; man laſſe
             <lb/>dieſelbe, ſonderlich in der Muſik, fahren, und <hi rendition="#aq">judici</hi>re die Sachen, gewiſſer maſſen, nach keinen an-
             <lb/>dern <hi rendition="#aq">Principiis</hi>, als nach dem Wohl- oder Ubellaut, die Einrichtung mag kuͤnſtlich oder ſchlecht,
-            <lb/>bunt oder einfaͤltig gerathen; gnug, wenn es gut klingt.
+            <lb/>bunt oder einfaͤltig gerathen; gnug, wenn es gut klingt.</s>
           </p>
         </div>
         <div n="2">
           <lb/><head>§ 2.</head>
           <lb/><p xml:id="p2-1" facs="#facs-p307">
-            Geſchaͤhe es nicht andern ehrlichen Leuten zu gefallen, die ſich dieſes Werckleins auch be-
+            <s xml:id="p2-1-s1" corresp="comments_1731.xml#p2-1-s1">Geſchaͤhe es nicht andern ehrlichen Leuten zu gefallen, die ſich dieſes Werckleins auch be-
             <lb/>dienen moͤchten, ich kan verſichern, meine gute Organiſten und ihre Burſche ſolten noch ein weilgen
             <lb/>zappeln, ehe ſie erfuͤhren, wo Bartold hier den Moſt holet; Jch wuͤrde Anſtand nehmen, ihnen ſo-
             <lb/>gleich zu ſagen: daß die vierzehn Taͤcte, ſo der Baß vorher ſpielet, Note vor Note in der rechten
             <lb/>Hand <ref target="#m-456">zu den folgenden dreyzehen Taͤcten nachgeholet</ref>, und nur zum
             <ref target="#m-903">vierzehnten</ref> und <ref target="#m-920">funffzehnten</ref> ein
-            <lb/>wenig veraͤndert werden koͤñen. Nun wird mein Organiſte dencken, iſt das das ſchoͤne Geheimniß? Das
-            <lb/>iſt ja was ſchlechtes! Habe ichs nicht geſagt, es wuͤrde ſo kommen? Doch ſinge noch keine <hi rendition="#aq">Victo-
-            <lb/>rie</hi>, ehe der Triumph da; laß hoͤren, wie klingt es? Zoͤgere nicht,
+            <lb/>wenig veraͤndert werden koͤñen.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p2-1-s2">Nun wird mein Organiſte dencken, iſt das das ſchoͤne Geheimniß?</s> <s xml:id="p2-1-s3" corresp="comments_1731.xml#p2-1-s3">Das
+            <lb/>iſt ja was ſchlechtes!</s> <s xml:id="p2-1-s4" corresp="comments_1731.xml#p2-1-s4">Habe ichs nicht geſagt, es wuͤrde ſo kommen?</s> <s xml:id="p2-1-s5" corresp="comments_1731.xml#p2-1-s5">Doch ſinge noch keine <hi rendition="#aq">Victo-
+            <lb/>rie</hi>, ehe der Triumph da; laß hoͤren, wie klingt es?</s> <s xml:id="p2-1-s6" corresp="comments_1731.xml#p2-1-s6">Zoͤgere nicht,
             <hi rendition="#aq"><foreign xml:lang="lat">perge</foreign></hi>, mein lieber,
             <hi rendition="#aq"><foreign xml:lang="lat">perge</foreign></hi>;
             <lb/>bedencke die lincke Hand dabey; laß den Baß nicht ſo kahl daher treten; Kanſt du die <hi rendition="#aq">Concor-
             <lb/>dantien</hi> nicht ſo geſchwinde finden, muſt du wenigſtens Octaven-weiß damit <hi rendition="#aq">procedi</hi>ren, bis
-            <lb/>endlich zur <hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">c</hi> mit Ehren gelanget ſeyn wird.
+            <lb/>endlich zur <hi rendition="#aq">Cadence</hi> ins <hi rendition="#aq">c</hi> mit Ehren gelanget ſeyn wird.</s>
           </p>
         </div>
 
         <div n="3">
           <lb/><head>§. 3.</head>
           <lb/><p xml:id="p3-1" facs="#facs-p307">
-            <ref target="#m-954">Nun ſind</ref> noch neun bunte Taͤcte im Baſſe; und obgleich hin und wieder eine <hi rendition="#aq">Species</hi>
-            <lb/>ausgelaſſen, ſo wird man doch wohl urtheilen, wohin etwann eine Sexte oder <hi rendition="#aq">b5</hi> gehoͤre. Aber
-            <lb/>weiter im Text. Was ſchlaͤgſt du denn zum <ref target="#m-1245"><hi rendition="#aq">d</hi> und deſſen zweyen
-            Viertel-Pauſen?</ref> Ja, was zu
-            <lb/>den <ref target="#m-1265">folgenden</ref> fuͤnff oder ſechs Taͤcten? Nimm dirs aus den vorhergehenden, jedoch dißmahl nicht
-            <lb/>Note vor Note; ſtolpere auch nicht, ich rathe dirs. Du ſieheſt wohl, daß in den neun Taͤcten,
+            <s xml:id="p3-1-s1" corresp="comments_1731.xml#p4-1-s1"><ref target="#m-954">Nun ſind</ref> noch neun bunte Taͤcte im Baſſe; und obgleich hin und wieder eine <hi rendition="#aq">Species</hi>
+            <lb/>ausgelaſſen, ſo wird man doch wohl urtheilen, wohin etwann eine Sexte oder <hi rendition="#aq">b5</hi> gehoͤre.</s> <s xml:id="p3-1-s2" corresp="comments_1731.xml#p5-1-s1">Aber
+            <lb/>weiter im Text.</s> <s xml:id="p3-1-s3" corresp="comments_1731.xml#p5-1-s2">Was ſchlaͤgſt du denn zum <ref target="#m-1245"><hi rendition="#aq">d</hi> und deſſen zweyen
+            Viertel-Pauſen?</ref></s> <s xml:id="p3-1-s4" corresp="comments_1731.xml#p5-1-s3">Ja, was zu
+            <lb/>den <ref target="#m-1265">folgenden</ref> fuͤnff oder ſechs Taͤcten?</s> <s xml:id="p3-1-s5" corresp="comments_1731.xml#p5-1-s4">Nimm dirs aus den vorhergehenden, jedoch dißmahl nicht
+            <lb/>Note vor Note; ſtolpere auch nicht, ich rathe dirs.</s> <s xml:id="p3-1-s6" corresp="comments_1731.xml#p5-1-s5">Du ſieheſt wohl, daß in den neun Taͤcten,
             <lb/>die ich (<hi rendition="#aq"><persName corresp="#ed_wpd_2lx_qlb">Apollo</persName></hi> verzeih mirs)
             bunt genennet, <ref target="#m-1110">nach dem ſechſten Tact</ref> die
             <hi rendition="#aq"><foreign xml:lang="fra">Paſſage</foreign></hi> ſich etwas we-
             <lb/>niges umkehret; ſolches wird <hi rendition="#aq"><foreign xml:lang="fra">mon Maitre</foreign></hi>
             auch belieben zu imitiren, wenn er an <ref target="#m-1310">den fuͤnfften
-            <lb/>Tact der ſogenannten ſchlechten Noten koͤmmt</ref>. Kañ einer nach dieſem die letzten zwoͤlff Taͤcte in
+            <lb/>Tact der ſogenannten ſchlechten Noten koͤmmt</ref>.</s> <s xml:id="p3-1-s7" corresp="comments_1731.xml#p5-1-s6">Kañ einer nach dieſem die letzten zwoͤlff Taͤcte in
             <lb/>der rechten Hand, bey guter <hi rendition="#aq">Proportion</hi>, Tertien- und Sexten-weiß mitnehmen, ſo wird es zu lo-
-            <lb/>ben ſeyn, und von ihm heiſſen koͤnnen; <hi rendition="#b">Er hat ſein Sach ſchon recht gethan.</hi>
+            <lb/>ben ſeyn, und von ihm heiſſen koͤnnen; <hi rendition="#b">Er hat ſein Sach ſchon recht gethan.</hi></s>
           </p>
           <fw place="bottom" type="catch">Sieben-</fw>
         </div>
