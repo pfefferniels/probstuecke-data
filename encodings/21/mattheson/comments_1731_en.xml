@@ -45,8 +45,8 @@
       <div n="1">
         <head>§. 1.</head>
         <p>
-          <s corresp="comments_de.xml#p1-1-s1">Since the key itself is a bit hard, I did not want to load this test piece with other special
-          difficulties.</s> <s corresp="comments_de.xml#p1-1-s1">Instead, I wanted to make it as naturally as I could think of,
+          <s corresp="comments_1731.xml#p1-1-s1">Since the key itself is a bit hard, I did not want to load this test piece with other special
+          difficulties.</s> <s corresp="comments_1731.xml#p1-1-s1">Instead, I wanted to make it as naturally as I could think of,
           so that nobody could say that one tried to make the so-called difficult keys even more
           confusing and difficult with all kinds of artificialities.</s>
         </p>
@@ -55,12 +55,12 @@
       <div n="2">
         <head>§. 2.</head>
         <p>
-          <s corresp="comments_de.xml#p2-1-s1">It should be noted that the
+          <s corresp="comments_1731.xml#p2-1-s1">It should be noted that the
           <ref target="#measure-0000000997653530">beginning</ref>
           becomes particularly ornamental when
           it is played note for note in thirds without forgetting the figures, while the
           bass can accompany it in octaves.</s>
-          <s corresp="comments_de.xml#p2-1-s2">Further, since the harmony is already fully present in the arpeggio,
+          <s corresp="comments_1731.xml#p2-1-s2">Further, since the harmony is already fully present in the arpeggio,
           in the
           <ref target="#measure-0000000735490332 #measure-0000001402480291 #measure-0000001795560838 #measure-0000000927409295">
             3rd to the 6th measure
@@ -71,7 +71,7 @@
           <ref target="#staff-0000001055234909">
             figure that occurs later in the bass.
           </ref></s>
-          <s corresp="comments_de.xml#p2-1-s3">I think that this makes the listener more attentive than if you keep hammering
+          <s corresp="comments_1731.xml#p2-1-s3">I think that this makes the listener more attentive than if you keep hammering
           with full chords all the time.</s>
         </p>
       </div>
@@ -79,11 +79,11 @@
       <div n="3">
         <head>§. 3.</head>
         <p>
-          <s corresp="comments_de.xml#p3-1-s1">The
+          <s corresp="comments_1731.xml#p3-1-s1">The
           <ref target="#measure-0000000074112192 #measure-0000001321575188">
             seventh and eighth measure
           </ref> again contain the beginning, and are thus also
-          played in thirds.</s> <s corresp="comments_de.xml#p3-1-s2">In the
+          played in thirds.</s> <s corresp="comments_1731.xml#p3-1-s2">In the
           <ref target="#measure-0000001447102304 #measure-0000000437350706">
             ninth and following measure
           </ref>, the above-mentioned
@@ -92,7 +92,7 @@
           <notatedMusic>
             <ptr target="music-example1.xml"/>
           </notatedMusic>
-          <s corresp="comments_de.xml#p3-2-s1">In the
+          <s corresp="comments_1731.xml#p3-2-s1">In the
           <ref target="#measure-0000000725006538">
             13th measure
           </ref>
@@ -103,23 +103,23 @@
       <div n="4">
         <head>§. 4.</head>
         <p>
-          <s corresp="comments_de.xml#p4-1-s1"><ref target="#measure-0000001256239430">
+          <s corresp="comments_1731.xml#p4-1-s1"><ref target="#measure-0000001256239430">
             When the other part begins,
           </ref>
           one will note that the figuration can also be
           delicately applied in the right hand since the bass continues as the
-          first part ended.</s> <s corresp="comments_de.xml#p4-1-s1">It is only important to make sure that the intervals
+          first part ended.</s> <s corresp="comments_1731.xml#p4-1-s1">It is only important to make sure that the intervals
           are taken as far apart as possible, because, as it has often been mentioned
           before, thirds sound too narrow with such a syncopation.</s>
-          <s corresp="comments_de.xml#p4-1-s2">But necessity knows no law.</s> <s corresp="comments_de.xml#p4-1-s3">I am only saying that when it is possible to be changed.</s>
-          <s corresp="comments_de.xml#p4-1-s4">Like for example one can make the syncopation like this for the b in the other part.</s>
-          <s corresp="comments_de.xml#p4-1-s5">Nobody will refuse such a thing:</s>
+          <s corresp="comments_1731.xml#p4-1-s2">But necessity knows no law.</s> <s corresp="comments_1731.xml#p4-1-s3">I am only saying that when it is possible to be changed.</s>
+          <s corresp="comments_1731.xml#p4-1-s4">Like for example one can make the syncopation like this for the b in the other part.</s>
+          <s corresp="comments_1731.xml#p4-1-s5">Nobody will refuse such a thing:</s>
 
           <notatedMusic>
             <ptr target="music-example2.xml"/>
           </notatedMusic>
 
-          <s corresp="comments_de.xml#p4-2-s1">But nobody will deny that it would not be better in the following way:</s>
+          <s corresp="comments_1731.xml#p4-2-s1">But nobody will deny that it would not be better in the following way:</s>
 
           <notatedMusic>
             <ptr target="music-example3.xml"/>
@@ -130,20 +130,20 @@
       <div n="5">
         <head>§. 5.</head>
         <p>
-          <s corresp="comments_de.xml#p5-1-s1"><ref target="#measure-0000000857212948">
+          <s corresp="comments_1731.xml#p5-1-s1"><ref target="#measure-0000000857212948">
             In the fifth measure of the other part
           </ref>
           the bass has again the above-mentioned
           syncopation, which is why the right hand may let its thirds jump into the octaves again.</s>
-          <s corresp="comments_de.xml#p5-1-s2">In the
+          <s corresp="comments_1731.xml#p5-1-s2">In the
           <ref target="#measure-0000000616519514">
             seventh measure
           </ref>
           a variation appears.</s>
-          <s corresp="comments_de.xml#p5-1-s3">In the ninth measure the opening subject occurs, whereby the favored thirds can be played on every note.</s>
-          <s corresp="comments_de.xml#p5-1-s4">The eleventh measure requires the thirds mentioned so often, or whatever else has been indicated by the figures.</s>
+          <s corresp="comments_1731.xml#p5-1-s3">In the ninth measure the opening subject occurs, whereby the favored thirds can be played on every note.</s>
+          <s corresp="comments_1731.xml#p5-1-s4">The eleventh measure requires the thirds mentioned so often, or whatever else has been indicated by the figures.</s>
 
-          <s corresp="comments_de.xml#p5-1-s5">Although redundant, let me put down my opinion:</s>
+          <s corresp="comments_1731.xml#p5-1-s5">Although redundant, let me put down my opinion:</s>
           <notatedMusic>
             <ptr target="music-example4.xml"/>
           </notatedMusic>
@@ -153,20 +153,20 @@
       <div n="6">
         <head>§. 6.</head>
         <p>
-          <s corresp="comments_de.xml#p6-1-s1">This key, B major, is called "B Fa Si Becare majeure" in the rotwelsch
+          <s corresp="comments_1731.xml#p6-1-s1">This key, B major, is called "B Fa Si Becare majeure" in the rotwelsch
           <note type="editorial" resp="#pfeffer">
             here to be understood as "incomprehensible".
           </note>
           dialect of
           <persName corresp="#ed_dwf_j5x_qlb">St. Lambert</persName> and again, I do not
           know why in the world, <hi rendition="#i">rare</hi> is attributed to it.</s>
-          <s corresp="comments_de.xml#p6-1-s2">If we want to make only rarities out of our keys, I am not surprised that the
+          <s corresp="comments_1731.xml#p6-1-s2">If we want to make only rarities out of our keys, I am not surprised that the
           poverty of the thorough-bass players is so great.</s>
-          <s corresp="comments_de.xml#p6-1-s3">If it were written in the primer that Q, X, Y, etc. are rare letters because
+          <s corresp="comments_1731.xml#p6-1-s3">If it were written in the primer that Q, X, Y, etc. are rare letters because
           they do not occur as often as A, E, I, O, U, it could still not pardon the student
           from knowing them; and much less a printer, if those letters were not to be
           found in his workshop.</s>
-          <s corresp="comments_de.xml#p6-1-s4">The application is easy to make.</s>
+          <s corresp="comments_1731.xml#p6-1-s4">The application is easy to make.</s>
         </p>
       </div>
     </div>

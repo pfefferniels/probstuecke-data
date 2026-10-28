@@ -11,19 +11,12 @@
 # are correct IDs in 3/mattheson/score.xml) cannot resolve; it has no
 # <facsimile>, so its @facs cannot resolve either. Fixing it would mean
 # restructuring a file that is no longer published.
-encodings/3/mattheson/comments_merged.xml: #facs-p403
-encodings/3/mattheson/comments_merged.xml: #facsZone-music-example1
-encodings/3/mattheson/comments_merged.xml: #facsZone-p4-1
-encodings/3/mattheson/comments_merged.xml: #m-420
-encodings/3/mattheson/comments_merged.xml: #m-447
-encodings/3/mattheson/comments_merged.xml: #m-633
-encodings/3/mattheson/comments_merged.xml: #m-956
 
 # --- No. 5, 1731: fourth Presto not encoded -----------------------------------
 # "Wo das Presto befindlich" points to all Presto marks. The print has four
 # (bars 1, 10, 20 and one after the adagio on p. 327); score.xml encodes only
 # presto-000..presto-002. Needs a <tempo xml:id="presto-003"> in the MEI.
-encodings/5/mattheson/comments_de.xml: #presto-003
+encodings/5/mattheson/comments_1731.xml: #presto-003
 
 # --- No. 11: the staves of bars 23 and 24 have no IDs --------------------------
 # The 1719 text refers to the bass staff of bars 23 and 24 (3rd and 4th bar of
@@ -32,5 +25,5 @@ encodings/5/mattheson/comments_de.xml: #presto-003
 # got their IDs back from the music examples, which point to them. Fix in the
 # MEI: in bar 23, staff n="2" xml:id="staff-0000000633397600"; in bar 24,
 # staff n="2" xml:id="staff-0000001023194498" (their zones exist already).
-encodings/11/mattheson/comments_1st.xml: #staff-0000000633397600
-encodings/11/mattheson/comments_1st.xml: #staff-0000001023194498
+encodings/11/mattheson/comments_1719.xml: #staff-0000000633397600
+encodings/11/mattheson/comments_1719.xml: #staff-0000001023194498

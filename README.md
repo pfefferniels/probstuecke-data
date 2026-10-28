@@ -9,9 +9,9 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | Path | Content |
 | --- | --- |
 | `encodings/<n>/mattheson/score.xml` | MEI encoding of Probstück *n*, covering both prints (variants in `<app>`/`<rdg>`) |
-| `encodings/<n>/mattheson/comments_1st.xml` | Mattheson's commentary in the 1719 print (TEI, DTA Base Format) |
-| `encodings/<n>/mattheson/comments_de.xml` | Mattheson's commentary in the 1731 print (TEI, DTA Base Format) |
-| `encodings/<n>/mattheson/comments_en.xml` | English translation of the 1731 commentary (TEI) |
+| `encodings/<n>/mattheson/comments_1719.xml` | Mattheson's commentary in the 1719 print (TEI, DTA Base Format) |
+| `encodings/<n>/mattheson/comments_1731.xml` | Mattheson's commentary in the 1731 print (TEI, DTA Base Format) |
+| `encodings/<n>/mattheson/comments_1731_en.xml` | English translation of the 1731 commentary (TEI) |
 | `encodings/<n>/mattheson/music-example*.xml` | Music examples within the commentary (MEI) |
 | `encodings/<n>/<name>/` | Lessons and realisations by other musicians: the transcription of a lesson or notes on a realisation (TEI), its score and music examples (MEI) and audio recordings |
 | `encodings/works.xml` | List of works and their expressions (MEI `workList`); drives the website's overview |
@@ -42,11 +42,11 @@ The script exits with a non-zero status if a file is invalid or has no schema. [
 The English translation can be compared with the 1731 text sentence by sentence. Both are divided into sentences (`<s>`): those of the original carry an ID made of the paragraph's ID and their number in it, those of the translation point with `@corresp` to the sentence they render. A German sentence that the translation splits into two is pointed to twice; an English sentence that renders two German ones points to both:
 
 ```xml
-<!-- comments_de.xml -->
+<!-- comments_1731.xml -->
 <s xml:id="p1-1-s2">Ob nun das Gleichniß hincket, laſſe dahin geſtellt ſeyn; mir iſt es ſehr laͤcherlich vorgekommen.</s>
-<!-- comments_en.xml -->
-<s corresp="comments_de.xml#p1-1-s2">Whether or not the simile is lopsided, we will leave to rest.</s>
-<s corresp="comments_de.xml#p1-1-s2">To me it appeared very ridiculous.</s>
+<!-- comments_1731_en.xml -->
+<s corresp="comments_1731.xml#p1-1-s2">Whether or not the simile is lopsided, we will leave to rest.</s>
+<s corresp="comments_1731.xml#p1-1-s2">To me it appeared very ridiculous.</s>
 ```
 
 A German sentence ends with a full stop, a question mark or an exclamation mark, not with a colon or semicolon, and not with a question or exclamation mark followed by a lowercase word, with which Mattheson continues the sentence ("O! iſt es nichts anders als das? ich dachte …"). Line and page breaks, notes and cited titles (`<bibl>`) stay inside the sentence they fall in. A quotation of several sentences that ends its sentence is divided inside the `<quote>`; the lead-in up to it ("… da er ſich alſo heraus läſſt:") is then a sentence of its own. Where the translation leaves a German sentence out, the neighbouring English sentence points to it as well, so that it is still shown.
@@ -61,7 +61,7 @@ On the website, the sentences of the original stand small and grey beneath the s
 python3 scripts/tag_terms.py
 ```
 
-and check the passages it reports as not found. `--exclude 10/mattheson/comments_de.xml …` leaves files alone that are still being revised.
+and check the passages it reports as not found. `--exclude 10/mattheson/comments_1731.xml …` leaves files alone that are still being revised.
 
 ## Licence
 

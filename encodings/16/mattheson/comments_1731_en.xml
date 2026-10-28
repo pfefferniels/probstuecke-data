@@ -39,17 +39,17 @@
       <div n="1">
         <head>§ 1.</head>
         <p>
-          <s corresp="comments_de.xml#p1-1-s1">The present key was notated differently
+          <s corresp="comments_1731.xml#p1-1-s1">The present key was notated differently
           in the middle class of this <hi rendition="#i">Grosse General-Baß-Schule</hi>
           than here, despite them being (in the common disposition of the keyboard instruments)
-          the same tangent.</s> <s corresp="comments_de.xml#p1-1-s2">It is well-consideredly written <emph>according to the
+          the same tangent.</s> <s corresp="comments_1731.xml#p1-1-s2">It is well-consideredly written <emph>according to the
           common disposition of our keyboards</emph>: for it was sufficiently
           proven mathematically by others, that the key <emph>♯G</emph> is generally very different
-          from <emph>♭A</emph>.</s> <s corresp="comments_de.xml#p1-1-s3">I add that it could be put in a more natural way, for
+          from <emph>♭A</emph>.</s> <s corresp="comments_1731.xml#p1-1-s3">I add that it could be put in a more natural way, for
           the characteristic of the first key requires a minor third and therefore
           is essentially minor, while the other naturally needs the
           major third, and therefore is major by nature, which cannot
-          be the same key at the same time.</s> <s corresp="comments_de.xml#p1-1-s4">The harmonic reasons are not yet
+          be the same key at the same time.</s> <s corresp="comments_1731.xml#p1-1-s4">The harmonic reasons are not yet
           known, but in praxi this proposition is true.</s>
         </p>
       </div>
@@ -57,11 +57,11 @@
       <div n="2">
         <head>§ 2.</head>
         <p>
-          <s corresp="comments_de.xml#p2-1-s1">For a long time it has been well noticed that the so-called
+          <s corresp="comments_1731.xml#p2-1-s1">For a long time it has been well noticed that the so-called
           semitones contain an ambiguity, as it were; namely, that ♯C is
           a different thing in itself than ♭D; that ♯D should be distinguished
           from ♭E; that ♯E does not have anything in common with the ordinary F.</s> 
-          <s corresp="comments_de.xml#p2-1-s2">They have quite rightly proven that ♯F is not ♭G; that ♭A and ♯G
+          <s corresp="comments_1731.xml#p2-1-s2">They have quite rightly proven that ♯F is not ♭G; that ♭A and ♯G
           are not basically the same; that ♭H means something quite different
           from ♯A, and that finally ♯H can have no relationship to the ordinary
           C: for therein consists a piece of the enharmonic octave, on which the
@@ -72,7 +72,7 @@
       <div n="3">
         <head>§ 3.</head>
         <p>
-           <s corresp="comments_de.xml#p3-1-s1">However, our improvers have not yet gone so far as to
+           <s corresp="comments_1731.xml#p3-1-s1">However, our improvers have not yet gone so far as to
            distinguish C from ♯B and not to mix ♭F with E, or that,
            just as C and F can be notated in different ways,
            the same, if improper adjacent steps <!-- ? -->
@@ -89,7 +89,7 @@
       <div n="4">
         <head>§ 4.</head>
         <p xml:id="p4-1">
-          <s corresp="comments_de.xml#p4-1-s1">Our ancestors, as they made their remarks about
+          <s corresp="comments_1731.xml#p4-1-s1">Our ancestors, as they made their remarks about
           the lack of tones and were of the opinion that the
           Clavier still lacked seven keys in each octave
           in the semitones, would hardly have thought that
@@ -109,14 +109,14 @@
       <div n="5">
         <head>§ 5.</head>
         <p xml:id="p5-1">
-          <s corresp="comments_de.xml#p5-1-s1">As little as we may believe that something might show up in ♯E,
+          <s corresp="comments_1731.xml#p5-1-s1">As little as we may believe that something might show up in ♯E,
           in so far as it is different from F, it can happen just as easily;
           and I do not want to be a guarantor for this, nor do I want
           to demand that one shall make special, fundamental changes in the
           instrument because of it, since they do not help;
           my thoughts go with all modesty to the effect that only those signs
           should be used, by which such things can be noted properly,
-          mainly because of the mentioned consequences.</s> <s corresp="comments_de.xml#p5-1-s2">For we must
+          mainly because of the mentioned consequences.</s> <s corresp="comments_1731.xml#p5-1-s2">For we must
           abandon the hope of improving the Clavier, of augmenting it, and
           of bringing it to perfection, and be content instead with a good
           temperament: because, in spite of manifold suggestions
@@ -130,7 +130,7 @@
       <div n="6">
         <head>§ 6.</head>
         <p>
-          <s corresp="comments_de.xml#p6-1-s1">The little which remains to be noted is that from
+          <s corresp="comments_1731.xml#p6-1-s1">The little which remains to be noted is that from
           the <ref target="#measure-0000001123115174">5th measure of this piece</ref> to the
           <ref target="#measure-0000000741277401">third measure of the last part</ref>, then again from the
           <ref target="#measure-0000001490618817">10th</ref> of said part to the
@@ -151,20 +151,20 @@
       <div n="7">
         <head>§ 7.</head>
         <p>
-          <s corresp="comments_de.xml#p7-1-s1">I found this aria with a noble person who came here from Italy, not knowing who its composer was.</s>
-          <s corresp="comments_de.xml#p7-1-s2">One can tell that it must have been composed either for a castrato or
+          <s corresp="comments_1731.xml#p7-1-s1">I found this aria with a noble person who came here from Italy, not knowing who its composer was.</s>
+          <s corresp="comments_1731.xml#p7-1-s2">One can tell that it must have been composed either for a castrato or
           for someone who sang in a high alto, also that some instruments belong to it, which I, however,
           have considered unnecessary here, as well as several inserted rests.</s>
-          <s corresp="comments_de.xml#p7-1-s3">The intention now is to give an example from daily practice where the G-sharp minor
+          <s corresp="comments_1731.xml#p7-1-s3">The intention now is to give an example from daily practice where the G-sharp minor
           is used strongly, and for this I take what falls into my hands first, as it were by chance.</s>
-          <s corresp="comments_de.xml#p7-1-s4">That, however, G-sharp minor strikes more often than A-flat major is true,
+          <s corresp="comments_1731.xml#p7-1-s4">That, however, G-sharp minor strikes more often than A-flat major is true,
           because the first has the minor third essentially, the other only accidentally -
           yet it is the same in playing, only the latter can be notated more purely,
-          which is why it was chosen here for the Probstück.</s> <s corresp="comments_de.xml#p7-1-s5">However, I found a beautiful
+          which is why it was chosen here for the Probstück.</s> <s corresp="comments_1731.xml#p7-1-s5">However, I found a beautiful
           movement in A-flat major in Mossi's work, p. 34, which I would like to note,
           because it did not occur to me in the twelfth Probstück of this class.</s>
-          <s corresp="comments_de.xml#p7-1-s6">Another movement, however, from the G-sharp major is found by the
-          same composer on p. 59, which proves my above remarks.</s> <s corresp="comments_de.xml#p7-1-s7">The work
+          <s corresp="comments_1731.xml#p7-1-s6">Another movement, however, from the G-sharp major is found by the
+          same composer on p. 59, which proves my above remarks.</s> <s corresp="comments_1731.xml#p7-1-s7">The work
           mentioned here, and presented as an example, consists of twelve sonatas
           with a violin and bass, engraved in copper in Amsterdam, and the author's
           name is Giovanni Mossi.</s> 
@@ -174,10 +174,10 @@
       <div n="8">
         <head>§ 8.</head>
         <p>
-          <s corresp="comments_de.xml#p8-1-s1">At the end of the preceding explanation, I said that this aria was
+          <s corresp="comments_1731.xml#p8-1-s1">At the end of the preceding explanation, I said that this aria was
           intended to show that we cannot always express our views well
           with notes, and that we indeed lack signs when we want to play
-          into the unfamiliar tones.</s> <s corresp="comments_de.xml#p8-1-s2">This is especially clear from the
+          into the unfamiliar tones.</s> <s corresp="comments_1731.xml#p8-1-s2">This is especially clear from the
           last two lines of the above aria, since a note occurs there 
           five times in both, voice and bass, which has a double cross
           (♯♯) in front of it and signifies a so-called g, which I, however,

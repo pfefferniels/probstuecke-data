@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One-off repair: point commentary paragraphs of the 1731 print to their zones.
 
-Five commentaries (comments_de.xml) have zones that frame a paragraph but are
+Five commentaries (comments_1731.xml) have zones that frame a paragraph but are
 not named in its @facs, because the paragraph's xml:id and the zone's name
 diverged when the text was encoded. Each zone was checked on the page image.
 
@@ -16,7 +16,7 @@ diverged when the text was encoded. Each zone was checked on the page image.
           paragraph had no @facs.
 
 Zone ids are left as they are. (The zones "p2-1" and "p2-1-2" of No. 8 frame
-§. 2, which is not transcribed in comments_de.xml; they stay unused.)
+§. 2, which is not transcribed in comments_1731.xml; they stay unused.)
 
 Usage: python3 scripts/facsimile_repair/link_commentary_zones.py [--apply]
 """
@@ -30,12 +30,12 @@ REPO = Path(__file__).resolve().parent.parent.parent
 
 # file -> paragraph xml:id -> (old @facs or None, new @facs)
 LINKS = {
-    'encodings/7/mattheson/comments_de.xml': {'p3-1': ('#facsZone-p3-1', '#facsZone-p2-3 #facsZone-p3-1')},
-    'encodings/12/mattheson/comments_de.xml': {'p6-2': (None, '#facsZone-p6-1')},
-    'encodings/13/mattheson/comments_de.xml': {'p6-2': (None, '#facsZone-p6-1')},
-    'encodings/14/mattheson/comments_de.xml': {'p6-2': (None, '#facsZone-p6-1')},
-    'encodings/18/mattheson/comments_de.xml': {'p6-1': ('#facsZone-p6-1', '#facsZone-p6-1 #facsZone-p6-2')},
-    'encodings/21/mattheson/comments_de.xml': {'p1-1': (None, '#facsZone-p1')},
+    'encodings/7/mattheson/comments_1731.xml': {'p3-1': ('#facsZone-p3-1', '#facsZone-p2-3 #facsZone-p3-1')},
+    'encodings/12/mattheson/comments_1731.xml': {'p6-2': (None, '#facsZone-p6-1')},
+    'encodings/13/mattheson/comments_1731.xml': {'p6-2': (None, '#facsZone-p6-1')},
+    'encodings/14/mattheson/comments_1731.xml': {'p6-2': (None, '#facsZone-p6-1')},
+    'encodings/18/mattheson/comments_1731.xml': {'p6-1': ('#facsZone-p6-1', '#facsZone-p6-1 #facsZone-p6-2')},
+    'encodings/21/mattheson/comments_1731.xml': {'p1-1': (None, '#facsZone-p1')},
 }
 
 

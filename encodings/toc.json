@@ -4,19 +4,19 @@
     "editions": {
       "mattheson1719": {
         "score": "1/mattheson/score.xml",
-        "comments": "1/mattheson/comments_1st.xml",
+        "comments": "1/mattheson/comments_1719.xml",
         "iiif": "1/mattheson/facsimile_1st.json",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "1/mattheson/score.xml",
-        "comments": "1/mattheson/comments_de.xml",
+        "comments": "1/mattheson/comments_1731.xml",
         "iiif": "1/mattheson/facsimile_de.json",
         "format": "dtabf"
       },
       "english": {
         "score": "1/mattheson/score.xml",
-        "comments": "1/mattheson/comments_en.xml",
+        "comments": "1/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -26,19 +26,19 @@
     "editions": {
       "mattheson1719": {
         "score": "2/mattheson/score.xml",
-        "comments": "2/mattheson/comments_1st.xml",
+        "comments": "2/mattheson/comments_1719.xml",
         "iiif": "2/mattheson/facsimile_1st.json",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "2/mattheson/score.xml",
-        "comments": "2/mattheson/comments_de.xml",
+        "comments": "2/mattheson/comments_1731.xml",
         "iiif": "2/mattheson/facsimile_de.json",
         "format": "dtabf"
       },
       "english": {
         "score": "2/mattheson/score.xml",
-        "comments": "2/mattheson/comments_en.xml",
+        "comments": "2/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -48,19 +48,19 @@
     "editions": {
       "mattheson1719": {
         "score": "3/mattheson/score.xml",
-        "comments": "3/mattheson/comments_1st.xml",
+        "comments": "3/mattheson/comments_1719.xml",
         "iiif": "3/mattheson/facsimile_1st.json",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "3/mattheson/score.xml",
-        "comments": "3/mattheson/comments_de.xml",
+        "comments": "3/mattheson/comments_1731.xml",
         "iiif": "3/mattheson/facsimile_de.json",
         "format": "dtabf"
       },
       "english": {
         "score": "3/mattheson/score.xml",
-        "comments": "3/mattheson/comments_en.xml",
+        "comments": "3/mattheson/comments_1731_en.xml",
         "format": "p5"
       },
       "hill": {
@@ -75,17 +75,17 @@
     "editions": {
       "mattheson1719": {
         "score": "4/mattheson/score.xml",
-        "comments": "4/mattheson/comments_1st.xml",
+        "comments": "4/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "4/mattheson/score.xml",
-        "comments": "4/mattheson/comments_de.xml",
+        "comments": "4/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "4/mattheson/score.xml",
-        "comments": "4/mattheson/comments_en.xml",
+        "comments": "4/mattheson/comments_1731_en.xml",
         "format": "p5"
       },
       "hill": {
@@ -105,17 +105,17 @@
     "editions": {
       "mattheson1719": {
         "score": "5/mattheson/score.xml",
-        "comments": "5/mattheson/comments_1st.xml",
+        "comments": "5/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "5/mattheson/score.xml",
-        "comments": "5/mattheson/comments_de.xml",
+        "comments": "5/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "5/mattheson/score.xml",
-        "comments": "5/mattheson/comments_en.xml",
+        "comments": "5/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -125,17 +125,17 @@
     "editions": {
       "mattheson1719": {
         "score": "6/mattheson/score.xml",
-        "comments": "6/mattheson/comments_1st.xml",
+        "comments": "6/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "6/mattheson/score.xml",
-        "comments": "6/mattheson/comments_de.xml",
+        "comments": "6/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "6/mattheson/score.xml",
-        "comments": "6/mattheson/comments_en.xml",
+        "comments": "6/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -145,17 +145,17 @@
     "editions": {
       "mattheson1719": {
         "score": "7/mattheson/score.xml",
-        "comments": "7/mattheson/comments_1st.xml",
+        "comments": "7/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "7/mattheson/score.xml",
-        "comments": "7/mattheson/comments_de.xml",
+        "comments": "7/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "7/mattheson/score.xml",
-        "comments": "7/mattheson/comments_en.xml",
+        "comments": "7/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -165,17 +165,17 @@
     "editions": {
       "mattheson1719": {
         "score": "8/mattheson/score.xml",
-        "comments": "8/mattheson/comments_1st.xml",
+        "comments": "8/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "8/mattheson/score.xml",
-        "comments": "8/mattheson/comments_de.xml",
+        "comments": "8/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "8/mattheson/score.xml",
-        "comments": "8/mattheson/comments_en.xml",
+        "comments": "8/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -185,17 +185,17 @@
     "editions": {
       "mattheson1719": {
         "score": "9/mattheson/score.xml",
-        "comments": "9/mattheson/comments_1st.xml",
+        "comments": "9/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "9/mattheson/score.xml",
-        "comments": "9/mattheson/comments_de.xml",
+        "comments": "9/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "9/mattheson/score.xml",
-        "comments": "9/mattheson/comments_en.xml",
+        "comments": "9/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -205,17 +205,17 @@
     "editions": {
       "mattheson1719": {
         "score": "10/mattheson/score.xml",
-        "comments": "10/mattheson/comments_1st.xml",
+        "comments": "10/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "10/mattheson/score.xml",
-        "comments": "10/mattheson/comments_de.xml",
+        "comments": "10/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "10/mattheson/score.xml",
-        "comments": "10/mattheson/comments_en.xml",
+        "comments": "10/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -225,17 +225,17 @@
     "editions": {
       "mattheson1719": {
         "score": "11/mattheson/score.xml",
-        "comments": "11/mattheson/comments_1st.xml",
+        "comments": "11/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "11/mattheson/score.xml",
-        "comments": "11/mattheson/comments_de.xml",
+        "comments": "11/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "11/mattheson/score.xml",
-        "comments": "11/mattheson/comments_en.xml",
+        "comments": "11/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -245,17 +245,17 @@
     "editions": {
       "mattheson1719": {
         "score": "12/mattheson/score.xml",
-        "comments": "12/mattheson/comments_1st.xml",
+        "comments": "12/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "12/mattheson/score.xml",
-        "comments": "12/mattheson/comments_de.xml",
+        "comments": "12/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "12/mattheson/score.xml",
-        "comments": "12/mattheson/comments_en.xml",
+        "comments": "12/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -265,17 +265,17 @@
     "editions": {
       "mattheson1719": {
         "score": "13/mattheson/score.xml",
-        "comments": "13/mattheson/comments_1st.xml",
+        "comments": "13/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "13/mattheson/score.xml",
-        "comments": "13/mattheson/comments_de.xml",
+        "comments": "13/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "13/mattheson/score.xml",
-        "comments": "13/mattheson/comments_en.xml",
+        "comments": "13/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -285,17 +285,17 @@
     "editions": {
       "mattheson1719": {
         "score": "14/mattheson/score.xml",
-        "comments": "14/mattheson/comments_1st.xml",
+        "comments": "14/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "14/mattheson/score.xml",
-        "comments": "14/mattheson/comments_de.xml",
+        "comments": "14/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "14/mattheson/score.xml",
-        "comments": "14/mattheson/comments_en.xml",
+        "comments": "14/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -305,17 +305,17 @@
     "editions": {
       "mattheson1719": {
         "score": "15/mattheson/score.xml",
-        "comments": "15/mattheson/comments_1st.xml",
+        "comments": "15/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "15/mattheson/score.xml",
-        "comments": "15/mattheson/comments_de.xml",
+        "comments": "15/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "15/mattheson/score.xml",
-        "comments": "15/mattheson/comments_en.xml",
+        "comments": "15/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -325,17 +325,17 @@
     "editions": {
       "mattheson1719": {
         "score": "16/mattheson/score.xml",
-        "comments": "16/mattheson/comments_1st.xml",
+        "comments": "16/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "16/mattheson/score.xml",
-        "comments": "16/mattheson/comments_de.xml",
+        "comments": "16/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "16/mattheson/score.xml",
-        "comments": "16/mattheson/comments_en.xml",
+        "comments": "16/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -345,17 +345,17 @@
     "editions": {
       "mattheson1719": {
         "score": "17/mattheson/score.xml",
-        "comments": "17/mattheson/comments_1st.xml",
+        "comments": "17/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "17/mattheson/score.xml",
-        "comments": "17/mattheson/comments_de.xml",
+        "comments": "17/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "17/mattheson/score.xml",
-        "comments": "17/mattheson/comments_en.xml",
+        "comments": "17/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -365,17 +365,17 @@
     "editions": {
       "mattheson1719": {
         "score": "18/mattheson/score.xml",
-        "comments": "18/mattheson/comments_1st.xml",
+        "comments": "18/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "18/mattheson/score.xml",
-        "comments": "18/mattheson/comments_de.xml",
+        "comments": "18/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "18/mattheson/score.xml",
-        "comments": "18/mattheson/comments_en.xml",
+        "comments": "18/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -385,17 +385,17 @@
     "editions": {
       "mattheson1719": {
         "score": "19/mattheson/score.xml",
-        "comments": "19/mattheson/comments_1st.xml",
+        "comments": "19/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "19/mattheson/score.xml",
-        "comments": "19/mattheson/comments_de.xml",
+        "comments": "19/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "19/mattheson/score.xml",
-        "comments": "19/mattheson/comments_en.xml",
+        "comments": "19/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -405,17 +405,17 @@
     "editions": {
       "mattheson1719": {
         "score": "20/mattheson/score.xml",
-        "comments": "20/mattheson/comments_1st.xml",
+        "comments": "20/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "20/mattheson/score.xml",
-        "comments": "20/mattheson/comments_de.xml",
+        "comments": "20/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "20/mattheson/score.xml",
-        "comments": "20/mattheson/comments_en.xml",
+        "comments": "20/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -425,17 +425,17 @@
     "editions": {
       "mattheson1719": {
         "score": "21/mattheson/score.xml",
-        "comments": "21/mattheson/comments_1st.xml",
+        "comments": "21/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "21/mattheson/score.xml",
-        "comments": "21/mattheson/comments_de.xml",
+        "comments": "21/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "21/mattheson/score.xml",
-        "comments": "21/mattheson/comments_en.xml",
+        "comments": "21/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -445,17 +445,17 @@
     "editions": {
       "mattheson1719": {
         "score": "22/mattheson/score.xml",
-        "comments": "22/mattheson/comments_1st.xml",
+        "comments": "22/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "22/mattheson/score.xml",
-        "comments": "22/mattheson/comments_de.xml",
+        "comments": "22/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "22/mattheson/score.xml",
-        "comments": "22/mattheson/comments_en.xml",
+        "comments": "22/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -465,17 +465,17 @@
     "editions": {
       "mattheson1719": {
         "score": "23/mattheson/score.xml",
-        "comments": "23/mattheson/comments_1st.xml",
+        "comments": "23/mattheson/comments_1719.xml",
         "format": "dtabf"
       },
       "mattheson1732": {
         "score": "23/mattheson/score.xml",
-        "comments": "23/mattheson/comments_de.xml",
+        "comments": "23/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "23/mattheson/score.xml",
-        "comments": "23/mattheson/comments_en.xml",
+        "comments": "23/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }
@@ -485,12 +485,12 @@
     "editions": {
       "mattheson1732": {
         "score": "24/mattheson/score.xml",
-        "comments": "24/mattheson/comments_de.xml",
+        "comments": "24/mattheson/comments_1731.xml",
         "format": "dtabf"
       },
       "english": {
         "score": "24/mattheson/score.xml",
-        "comments": "24/mattheson/comments_en.xml",
+        "comments": "24/mattheson/comments_1731_en.xml",
         "format": "p5"
       }
     }

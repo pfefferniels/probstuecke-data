@@ -158,7 +158,7 @@ def main():
             url = (graphic.get('target') or graphic.get('url') or '') if graphic is not None else ''
             m = CANVAS_RE.match(url)
             if not m:
-                continue          # not a BSB canvas (legacy local images of 5/mattheson/comments_en.xml)
+                continue          # not a BSB canvas (legacy local images of 5/mattheson/comments_1731_en.xml)
             bsb, canvas = m.group(1) or m.group(3), int(m.group(2) or m.group(4))
             sid = surface.get(XML_ID)
             zones = [z for z in surface.iter('{*}zone')]

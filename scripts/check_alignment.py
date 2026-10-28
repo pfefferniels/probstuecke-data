@@ -4,9 +4,9 @@
 A translation is divided into sentences, <s>, whose @corresp points to the
 sentence or sentences of the original that it renders:
 
-    comments_de.xml   <s xml:id="p1-1-s2">Ob nun das Gleichniß hincket, …</s>
-    comments_en.xml   <s corresp="comments_de.xml#p1-1-s2">Whether or not …</s>
-                      <s corresp="comments_de.xml#p1-1-s2">To me it appeared …</s>
+    comments_1731.xml     <s xml:id="p1-1-s2">Ob nun das Gleichniß hincket, …</s>
+    comments_1731_en.xml  <s corresp="comments_1731.xml#p1-1-s2">Whether or not …</s>
+                          <s corresp="comments_1731.xml#p1-1-s2">To me it appeared …</s>
 
 The website shows the original between the lines of the translation. For every TEI
 file with such sentences the script checks that

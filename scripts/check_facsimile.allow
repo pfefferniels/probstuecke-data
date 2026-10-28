@@ -8,9 +8,6 @@
 # --- Not facsimile links ------------------------------------------------------
 # Legacy merged edition of No. 3, not used by the website (see
 # check_references.allow): it has no <facsimile>.
-encodings/3/mattheson/comments_merged.xml: pointer #facs-p403
-encodings/3/mattheson/comments_merged.xml: pointer #facsZone-music-example1
-encodings/3/mattheson/comments_merged.xml: pointer #facsZone-p4-1
 # The guidelines show the attribute with a placeholder value.
 encodings/guidelines/guidelines_en.xml: pointer #[corresponding
 encodings/guidelines/guidelines_en.xml: pointer zone
@@ -26,16 +23,16 @@ encodings/4/mattheson/score.xml: pb-canvas n=310 #facs-p382
 encodings/8/mattheson/score.xml: pb-canvas n=136 #facs-p312
 encodings/8/mattheson/score.xml: pb-canvas n=137 #facs-p313
 # No. 7, 1731 commentary: p. 338 is printed 318.
-encodings/7/mattheson/comments_de.xml: pb-canvas n=318 #facs-p400
+encodings/7/mattheson/comments_1731.xml: pb-canvas n=318 #facs-p400
 
 # --- Surfaces outside the Prob-Stück, kept as encoded -----------------------------
 # The encoders listed one or two pages of the preceding piece; nothing points
 # to these surfaces.
-encodings/18/mattheson/comments_1st.xml: canvas-piece facs-p418
-encodings/21/mattheson/comments_1st.xml: canvas-piece facs-p433
-encodings/21/mattheson/comments_1st.xml: canvas-piece facs-p434
-encodings/23/mattheson/comments_de.xml: canvas-piece facs-p490
-encodings/23/mattheson/comments_de.xml: canvas-piece facs-p491
+encodings/18/mattheson/comments_1719.xml: canvas-piece facs-p418
+encodings/21/mattheson/comments_1719.xml: canvas-piece facs-p433
+encodings/21/mattheson/comments_1719.xml: canvas-piece facs-p434
+encodings/23/mattheson/comments_1731.xml: canvas-piece facs-p490
+encodings/23/mattheson/comments_1731.xml: canvas-piece facs-p491
 
 # --- Kept as they are ---------------------------------------------------------
 # 10/mattheson/measure_annotations.xml is the raw output of an automatic measure
@@ -52,5 +49,5 @@ encodings/10/mattheson/measure_annotations.xml: zone-order zone_01DRXXBW98EGP1QZ
 # Music examples inside a paragraph that goes on on the next page: the example
 # comes after the paragraph's last zone in the text. No. 18: example 1 in p6-1
 # (pp. 408-409); No. 20: example 2, beside the end of p2-1 on p. 417.
-encodings/18/mattheson/comments_de.xml: zone-order facsZone-music-example1
-encodings/20/mattheson/comments_de.xml: zone-order facsZone-music-example2
+encodings/18/mattheson/comments_1731.xml: zone-order facsZone-music-example1
+encodings/20/mattheson/comments_1731.xml: zone-order facsZone-music-example2

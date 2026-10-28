@@ -28,9 +28,9 @@
         <p>
           This customization covers the TEI documents of Probstücke Digital that are not
           transcriptions of Mattheson's prints: the English translations of the commentary
-          (<ident>comments_en.xml</ident>), the notes on the realisations by other musicians,
+          (<ident>comments_1731_en.xml</ident>), the notes on the realisations by other musicians,
           the editorial guidelines, the About text, the indices of persons, literature,
-          musical works and terms, and some working files. The transcriptions of the prints of 1719 and
+          musical works and terms. The transcriptions of the prints of 1719 and
           1731 use the customization of the DTA Base Format (<ident>basisformat_customized.odd</ident>),
           the transcriptions of lessons use <ident>lesson_transcription.odd</ident>.
         </p>
@@ -47,7 +47,7 @@
         <p>
           A translation may be divided into sentences (<gi>s</gi>) whose <att>corresp</att> points to
           the sentence or sentences of the original they render, e.g.
-          <code>&lt;s corresp="comments_de.xml#p1-1-s2"&gt;</code>. The website then shows the
+          <code>&lt;s corresp="comments_1731.xml#p1-1-s2"&gt;</code>. The website then shows the
           original between the lines of the translation, sentence by sentence.
         </p>
       </div>
@@ -60,13 +60,11 @@
           <moduleRef key="textstructure"/>
           <moduleRef key="namesdates"/>
           <moduleRef key="figures" include="figure notatedMusic"/>
-          <!-- concordance.xml -->
-          <moduleRef key="linking" include="link standOff"/>
-          <!-- comments_merged.xml -->
-          <moduleRef key="textcrit" include="app lem rdg"/>
+          <!-- only for the attributes of att.global.linking: @corresp of index links and of the sentences of the translations -->
+          <moduleRef key="linking" include=""/>
           <!-- s: sentences of the translations, aligned with the original -->
           <moduleRef key="analysis" include="pc s"/>
-          <!-- facsimile of the 1731 print in 5/mattheson/comments_en.xml, catchwords -->
+          <!-- facsimile of the 1731 print in 5/mattheson/comments_1731_en.xml, catchwords -->
           <moduleRef key="transcr" include="facsimile fw surface zone"/>
           <!-- sourceDesc of the realisation by J.-C. Dijoux -->
           <moduleRef key="spoken" include="recording recordingStmt"/>
