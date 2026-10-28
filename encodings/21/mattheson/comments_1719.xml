@@ -112,20 +112,20 @@
       <div n="1">
         <head>§. 1.</head>
         <p xml:id="p1-1">
-          <lb /><hi rendition="#in">W</hi>Eil ohne denn der Ton etwas hart fa&#x0364;llt, ſo habe dieſes <hi rendition="#b">Prob-Stu&#x0364;ck</hi> mit
+          <lb /><s xml:id="p1-1-s1" corresp="comments_1731.xml#p1-1-s1"><hi rendition="#in">W</hi>Eil ohne denn der Ton etwas hart fa&#x0364;llt, ſo habe dieſes <hi rendition="#b">Prob-Stu&#x0364;ck</hi> mit
           <lb />ſonderlicher anderwa&#x0364;rtiger Schwierigkeit nicht beladen, ſondern nur ſo
           <lb />fein natu&#x0364;rlich herſetzen wollen, wie es mir eingefallen, damit niemand
           <lb />ſagen ſoll, man ſuchte die vor ſich (<hi rendition="#aq">ſcil.</hi>) ſchweren Tone mit allerhand Ku&#x0364;nſteleyen
-          <lb />noch verwirrter zu machen.
+          <lb />noch verwirrter zu machen.</s>
         </p>
       </div>
 
       <div n="2">
         <head>§. 2.</head>
         <p xml:id="p2-1">
-          <lb />Dis wenige muß anmercken, daß <ref target="#measure-0000000997653530">dem Anfang</ref> ein beſonderer Zierrath zu-
+          <lb /><s xml:id="p2-1-s1" corresp="comments_1731.xml#p2-1-s1">Dis wenige muß anmercken, daß <ref target="#measure-0000000997653530">dem Anfang</ref> ein beſonderer Zierrath zu-
           <lb />wa&#x0364;chſt, wenn die Tertien Note vor Note mitſpielen, dabey aber die <hi rendition="#aq">Signatu</hi>ren
-          <lb />nicht vergeſſen werden mu&#x0364;ſſen, und der Baß in Octaven einhergehen kan. Weiter,
+          <lb />nicht vergeſſen werden mu&#x0364;ſſen, und der Baß in Octaven einhergehen kan.</s> <s xml:id="p2-1-s2" corresp="comments_1731.xml#p2-1-s2">Weiter,
           <lb />da ohne dem die <hi rendition="#aq">Harmonie</hi> ſchon vollkommen in dem <hi rendition="#aq">Harpeggio</hi> befindlich, ſo
           <lb />ha&#x0364;tte gerne, daß man vom
           <ref target="#measure-0000000735490332 #measure-0000001402480291 #measure-0000001795560838 #measure-0000000927409295">
@@ -133,25 +133,25 @@
           </ref>
           Tact nur die bloſſe Tertie oben im
           <lb />Diſcante Octavenweiſß ſpringen, und hernach eine kleine <hi rendition="#aq">Pauſe</hi> folgen lieſſe, ſo wie
-          <lb />die Figur weiter unten im Baß vorko&#x0364;mmt. Mich deucht, ſolches macht mehr <hi rendition="#aq">At-
+          <lb />die Figur weiter unten im Baß vorko&#x0364;mmt.</s> <s xml:id="p2-1-s3" corresp="comments_1731.xml#p2-1-s3">Mich deucht, ſolches macht mehr <hi rendition="#aq">At-
           <lb />tention</hi>, als wenn man da immer und ewig mit lauter vollen Griffen auf einer
-          <lb />Stelle weghackt.
+          <lb />Stelle weghackt.</s>
         </p>
       </div>
 
       <div n="3">
         <head>§. <choice><sic>5</sic><corr>3</corr></choice>.</head>
         <p xml:id="p3-1">
-          <lb />Der <ref target="#measure-0000000074112192">ſiebende</ref> und <ref target="#measure-0000001321575188">achte Tact</ref> enthalten wieder den Anfang, und werden
+          <lb /><s xml:id="p3-1-s1" corresp="comments_1731.xml#p3-1-s1 comments_1731.xml#p3-1-s2">Der <ref target="#measure-0000000074112192">ſiebende</ref> und <ref target="#measure-0000001321575188">achte Tact</ref> enthalten wieder den Anfang, und werden
           <lb />auch alſo mit Tertien abgefertiget; Beym <ref target="#measure-0000001447102304">neunten</ref> und <ref target="#measure-0000000437350706">folgenden</ref> hat
           <lb />nun die obenberu&#x0364;hrte Art abermahl statt, und gehet bloß mit Tertien, die in
-          <lb />der Octave herunter fallen, nur ſo:
+          <lb />der Octave herunter fallen, nur ſo:</s>
         </p>
         <notatedMusic xml:id="music-example1" facs="#facs-p437">
           <ptr target="music-example1.xml"/>
         </notatedMusic>
         <p xml:id="p3-2">
-          <lb />im <ref target="#measure-0000000725006538">dreyzehnten Tact</ref> kehrt ſichs um, und muß die rechte Hand <hi rendition="#aq">ſyncopi</hi>ren.
+          <lb /><s xml:id="p3-2-s1" corresp="comments_1731.xml#p3-2-s1">im <ref target="#measure-0000000725006538">dreyzehnten Tact</ref> kehrt ſichs um, und muß die rechte Hand <hi rendition="#aq">ſyncopi</hi>ren.</s>
         </p>
       </div>
 
@@ -161,20 +161,20 @@
       <div n="4">
         <head>§. 4.</head>
         <p xml:id="p4-1">
-          <lb /><ref target="#measure-0000001256239430">Bey Anhebung des andern Theils</ref> wird ſich nun einer beſcheiden, daß,
+          <lb /><s xml:id="p4-1-s1" corresp="comments_1731.xml#p4-1-s1 comments_1731.xml#p4-1-s2"><ref target="#measure-0000001256239430">Bey Anhebung des andern Theils</ref> wird ſich nun einer beſcheiden, daß,
           <lb />da der Baß ſo <hi rendition="#aq">continui</hi>rt, wie der erſte Theil geſchloſſen, auch mit der rechten
           <lb />Hand eben die Vera&#x0364;nderung zierlich ko&#x0364;nne angebracht werden; nur iſt dar-
           <lb />auf zu ſehen, daß die <hi rendition="#aq">Intervalla</hi> ſo weit von einander genommen werden
           <lb />als mu&#x0364;glich, weil, wie ſchon mehrmahlen beru&#x0364;hret, die Tertien bey ſolcher
-          <lb /><hi rendition="#aq">Syncopation</hi> zu enge klingen; Doch hat Noth auch kein Gebot. Jch ſage nur,
-          <lb />wenn es zu a&#x0364;ndern ſteht. Als zum Exempel/ man kan zum <hi rendition="#aq">h</hi>, im andern Theile,
-          <lb />die <hi rendition="#aq">Syncopation</hi> ſo machen: Es wirds mir niemand wehren.
+          <lb /><hi rendition="#aq">Syncopation</hi> zu enge klingen; Doch hat Noth auch kein Gebot.</s> <s xml:id="p4-1-s2" corresp="comments_1731.xml#p4-1-s3">Jch ſage nur,
+          <lb />wenn es zu a&#x0364;ndern ſteht.</s> <s xml:id="p4-1-s3" corresp="comments_1731.xml#p4-1-s4 comments_1731.xml#p4-1-s5">Als zum Exempel/ man kan zum <hi rendition="#aq">h</hi>, im andern Theile,
+          <lb />die <hi rendition="#aq">Syncopation</hi> ſo machen: Es wirds mir niemand wehren.</s>
         </p>
         <notatedMusic xml:id="music-example2" facs="#facs-p438">
           <ptr target="music-example2.xml"/>
         </notatedMusic>
         <p xml:id="p4-2">
-          <lb />Daß es aber nicht beſſer ſolte ſeyn auf folgende Manier, wird niemand ſtreiten:
+          <lb /><s xml:id="p4-2-s1" corresp="comments_1731.xml#p4-2-s1">Daß es aber nicht beſſer ſolte ſeyn auf folgende Manier, wird niemand ſtreiten:</s>
         </p>
         <notatedMusic xml:id="music-example3" facs="#facs-p438">
           <ptr target="music-example3.xml"/>
@@ -184,14 +184,14 @@
       <div n="5">
         <head>§. 5.</head>
         <p xml:id="p5-1">
-          <lb /><ref target="#measure-0000000857212948">Beym fu&#x0364;nfften Tact des andern Theils</ref> hat der Baß wieder das obige
+          <lb /><s xml:id="p5-1-s1" corresp="comments_1731.xml#p5-1-s1"><ref target="#measure-0000000857212948">Beym fu&#x0364;nfften Tact des andern Theils</ref> hat der Baß wieder das obige
           <lb /><hi rendition="#aq">Harpeggio</hi>, deßwegen mag auch die rechte Hand ihre Tertien abermahl dabey
-          <lb />in die Octaven ſpringen laſſen. <ref target="#measure-0000000616519514">Jm ſiebenden</ref> giebt es eine Abwechſelung hier-
-          <lb />innen. <ref target="#measure-0000001228700054">Jm neunten</ref> iſt das Anfangs-<hi rendition="#aq">Subjectum</hi> angebracht, wobey die be-
-          <lb />liebten Tertien ſich bey jeder Note ho&#x0364;ren laſſen ko&#x0364;nnen. Der <ref target="#measure-0000001484317561">elffte Tact</ref> erfor-
+          <lb />in die Octaven ſpringen laſſen.</s> <s xml:id="p5-1-s2" corresp="comments_1731.xml#p5-1-s2"><ref target="#measure-0000000616519514">Jm ſiebenden</ref> giebt es eine Abwechſelung hier-
+          <lb />innen.</s> <s xml:id="p5-1-s3" corresp="comments_1731.xml#p5-1-s3"><ref target="#measure-0000001228700054">Jm neunten</ref> iſt das Anfangs-<hi rendition="#aq">Subjectum</hi> angebracht, wobey die be-
+          <lb />liebten Tertien ſich bey jeder Note ho&#x0364;ren laſſen ko&#x0364;nnen.</s> <s xml:id="p5-1-s4" corresp="comments_1731.xml#p5-1-s4">Der <ref target="#measure-0000001484317561">elffte Tact</ref> erfor-
           <lb />dert die ſo offt erwehnte ſpringende Tertien, oder was ſonſten durch die Zahlen
-          <lb />dabey angedeutet worden. Zum Uberfluß will ich meine Meynung noch ein-
-          <lb />mahl herſetzen:
+          <lb />dabey angedeutet worden.</s> <s xml:id="p5-1-s5" corresp="comments_1731.xml#p5-1-s5">Zum Uberfluß will ich meine Meynung noch ein-
+          <lb />mahl herſetzen:</s>
         </p>
         <fw place="bottom" type="catch">Wenn</fw>
         <pb facs="#facs-p439" n="219" />
@@ -203,41 +203,41 @@
       <div n="6">
         <head>§. 6.</head>
         <p xml:id="p6-1">
-          <lb />Wenn dieſes vorbey, ſo macht es die rechte Hand auf dieſselbe Art, wie
+          <lb /><s xml:id="p6-1-s1">Wenn dieſes vorbey, ſo macht es die rechte Hand auf dieſselbe Art, wie
           <lb />der Schluß des erſten Theils iſt <hi rendition="#aq">tracti</hi>ret worden, und fa&#x0364;llt weiter nichts zu er-
-          <lb />kla&#x0364;hren vor. Wer aber aus dieſem Ton eine scho&#x0364;ne <hi rendition="#aq">Aria</hi> zu <hi rendition="#aq">accompagni</hi>ren
+          <lb />kla&#x0364;hren vor.</s> <s xml:id="p6-1-s2">Wer aber aus dieſem Ton eine scho&#x0364;ne <hi rendition="#aq">Aria</hi> zu <hi rendition="#aq">accompagni</hi>ren
           <lb />Luſt hat, der ſuche ſelbige, unter andern, in <hi rendition="#b"><persName corresp="#ed_fy5_r5x_qlb">Herrn Keiſers</persName></hi> ſeiner <hi rendition="#aq"><name type="musicalWork" corresp="#ed_jzy_bcd_tlb">Opera Fre-
-          <lb />degunda</name></hi>.
+          <lb />degunda</name></hi>.</s>
         </p>
       </div>
 
       <div n="7">
         <head>§. 7.</head>
         <p xml:id="p7-1">
-          <lb />Dieſer Ton heiſſet bey mehrerwehntem <persName corresp="#ed_dwf_j5x_qlb">St. Lambert:</persName> <hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Becarre,
-          <lb />majeure</foreign></hi>, und ſteht dabey: (ich weiß nicht warum) <hi rendition="#aq">rare</hi>. Wenn wir lauter
+          <lb /><s xml:id="p7-1-s1" corresp="comments_1731.xml#p6-1-s1">Dieſer Ton heiſſet bey mehrerwehntem <persName corresp="#ed_dwf_j5x_qlb">St. Lambert:</persName> <hi rendition="#aq"><foreign xml:lang="fra">B Fa Si Becarre,
+          <lb />majeure</foreign></hi>, und ſteht dabey: (ich weiß nicht warum) <hi rendition="#aq">rare</hi>.</s> <s xml:id="p7-1-s2" corresp="comments_1731.xml#p6-1-s2">Wenn wir lauter
           <lb />Rarita&#x0364;ten aus unſern Tonen machen wollen, ſo wundert mich nicht, warum
-          <lb />die Armuth ſo groß iſt. Wenn in der Fiebel Z. E. beym Q. beym X. beym Y.
+          <lb />die Armuth ſo groß iſt.</s> <s xml:id="p7-1-s3" corresp="comments_1731.xml#p6-1-s3">Wenn in der Fiebel Z. E. beym Q. beym X. beym Y.
           <lb />und ſo weiter, auch beygeſetzet wu&#x0364;rde, es wa&#x0364;ren ſolches rare Buchſtaben, weil
           <lb />ſie nicht ſo o&#x0364;ffters herhalten als das A und die u&#x0364;brigen <hi rendition="#aq">Vocales</hi>, ſo ko&#x0364;nte doch
           <lb />ſolches den Leſebengel nicht entſchuldigen, wenn er ſie nicht kennen ſolte, noch
-          <lb />viel weniger einen Buchdrucker, wenn ſie in ſeiner <hi rendition="#aq">Officin</hi> nicht zugegen.
+          <lb />viel weniger einen Buchdrucker, wenn ſie in ſeiner <hi rendition="#aq">Officin</hi> nicht zugegen.</s>
         </p>
       </div>
 
       <div n="8">
         <head>§. <choice><sic>4</sic><corr>8</corr></choice>.</head>
         <p xml:id="p8-1">
-          <lb />Wegen des Bedenckens, in Notirung dieſes <hi rendition="#aq">Modi</hi> und dergleichen, habe ſchon
-          <lb /><hi rendition="#aq">p.57. &amp; 89.</hi> etwas erwehnet. Hier ſtößt es wiederum auf; und zwar im <ref target="#measure-0000000857212948">fu&#x0364;nfften</ref>/
-          <lb /><ref target="#measure-0000000616519514">ſiebenden</ref>, <ref target="#measure-0000001228700054">neunten</ref> und <ref target="#measure-0000000969788585">funffzehnten</ref><note type="editorial">Gemeint ist vermutlich der 14. Takt.</note> Tact des andern Theils. Dabey zu erinnern, daß ich gar wohl weiß, wie man ſich bey ſolchen Vorfa&#x0364;llen zweyer gleichen
+          <lb /><s xml:id="p8-1-s1">Wegen des Bedenckens, in Notirung dieſes <hi rendition="#aq">Modi</hi> und dergleichen, habe ſchon
+          <lb /><hi rendition="#aq">p.57. &amp; 89.</hi> etwas erwehnet.</s> <s xml:id="p8-1-s2">Hier ſtößt es wiederum auf; und zwar im <ref target="#measure-0000000857212948">fu&#x0364;nfften</ref>/
+          <lb /><ref target="#measure-0000000616519514">ſiebenden</ref>, <ref target="#measure-0000001228700054">neunten</ref> und <ref target="#measure-0000000969788585">funffzehnten</ref><note type="editorial">Gemeint ist vermutlich der 14. Takt.</note> Tact des andern Theils.</s> <s xml:id="p8-1-s3">Dabey zu erinnern, daß ich gar wohl weiß, wie man ſich bey ſolchen Vorfa&#x0364;llen zweyer gleichen
           <lb />Creutze (♯♯) für einer Note zu bedienen pfleget, habe es auch o&#x0364;ffters ſelbſt
           <lb /><hi rendition="#aq">practiſi</hi>ret; aber dabey befunden, daß in den meisten die hier gebrauchte Weise
           <lb />(ob gleich dadurch die <hi rendition="#aq">Jntervalla</hi> in Wahrheit den Schein einer Unfo&#x0364;rmlichkeit be-
-          <lb />kommen) dennoch deutlicher und leichter zu ſpielen gedaucht. Jch ſage: zu <hi rendition="#b">ſpielen.</hi>
-          <lb />Denn zum Singen wa&#x0364;re jene Art ſchon viel bequemer, woru&#x0364;ber zum Beſchluß
+          <lb />kommen) dennoch deutlicher und leichter zu ſpielen gedaucht.</s> <s xml:id="p8-1-s4">Jch ſage: zu <hi rendition="#b">ſpielen.</hi></s>
+          <lb /><s xml:id="p8-1-s5">Denn zum Singen wa&#x0364;re jene Art ſchon viel bequemer, woru&#x0364;ber zum Beſchluß
           <lb />dieſes Werckes meine unvorgreiffliche Gedancken, verſprochener maſſen, mit
-          <lb />mehrern ero&#x0364;ffnen werde.
+          <lb />mehrern ero&#x0364;ffnen werde.</s>
         </p>
       </div>
     </div>
