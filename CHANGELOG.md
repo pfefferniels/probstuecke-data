@@ -8,6 +8,10 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 
 - Sentence alignment of the translations with the 1731 text: the sentences of all 24 commentaries are encoded as `<s xml:id="p1-1-s1">` in `comments_de.xml` (in No. 24 only §. 31, the one section translated) and point to them as `<s corresp="comments_de.xml#p1-1-s1">` in `comments_en.xml`; `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`, where it also allows a cited title (`<bibl>`); `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
 
+### Fixed
+
+- Obvious typos and grammar mistakes in the English translations (92 corrections in 21 pieces): misspellings, wrong ordinals ("23nd", "37rd"), agreement and missing words, names misspelt against the German ("Carassa", "Aristoxenes"), and leftover double drafts of a phrase (Nos. 2, 15, 16) or a sentence (No. 18). Corrections of meaning are left to the editors.
+
 ## 1.0.0 (2026-10-27)
 
 First versioned release.

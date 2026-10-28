@@ -88,7 +88,7 @@
           <notatedMusic>
             <ptr target="music-example2.xml" />
           </notatedMusic>
-          <s corresp="comments_de.xml#p3-2-s1">In the <ref target="#m-405">ninth bar</ref> the very first subject occurs in again.</s>
+          <s corresp="comments_de.xml#p3-2-s1">In the <ref target="#m-405">ninth bar</ref> the very first subject occurs again.</s>
           <s corresp="comments_de.xml#p3-2-s1">Here the treble can easily find a subtle melody in quavers
           and the bass can be played full-voiced.</s> <s corresp="comments_de.xml#p3-2-s2">In the <ref target="#m-415">tenth bar</ref>
           the trill on the first note must not be forgotten; but there is nothing to
@@ -118,7 +118,7 @@
       <div n="5">
         <head>§. 5.</head>
         <p>
-          <s corresp="comments_de.xml#p5-1-s1">Now it has been hinted at in § 3. how to deal with notes as those occurring in
+          <s corresp="comments_de.xml#p5-1-s1">Now it has been hinted at in § 3. how to deal with notes such as those occurring in
           <ref target="#m-928">m. 21</ref> and <ref target="#m-947">m. 22</ref>.</s>
           <s corresp="comments_de.xml#p5-1-s1">But if someone wants to make a variation here, it is so much more pleasant to listen to.</s>
           <s corresp="comments_de.xml#p5-1-s2">But let the trill be recommended again in m. 22, namely in the low
@@ -154,7 +154,7 @@
           <s corresp="comments_de.xml#p7-2-s1">So you can see that these things are not just whims, empty motives, unordered and wild ideas
           or dry basses.</s> <s corresp="comments_de.xml#p7-2-s1">Rather, everything is connected and
           there is almost no note to be found that does not have its certain relation with the others.</s>
-          <s corresp="comments_de.xml#p7-2-s2">After having played to counter-subject a couple of times it may well be
+          <s corresp="comments_de.xml#p7-2-s2">After having played the counter-subject a couple of times it may well be
           varied for the third and fourth time in that way.</s>
           <notatedMusic>
             <ptr target="music-example5.xml" />
@@ -166,7 +166,7 @@
         <head>§. 8.</head>
         <p>
           <s corresp="comments_de.xml#p8-1-s1">What happened in the 23rd measure occurs again here, mutatis mutandis, in the
-          <ref target="#m-1117 #m-1191 #m-1247">sixth-, seventh and twenty-eighth measure.</ref></s>
+          <ref target="#m-1117 #m-1191 #m-1247">twenty-sixth, twenty-seventh and twenty-eighth measure.</ref></s>
           <s corresp="comments_de.xml#p8-1-s2">The last six notes in <ref target="#m-1373">m. 30</ref> also require a special treble.</s>
           <s corresp="comments_de.xml#p8-1-s2">And then one can play the end as firmly as one's fingers can.</s>
         </p>
