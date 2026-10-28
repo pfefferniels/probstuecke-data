@@ -11,6 +11,7 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 ### Fixed
 
 - Obvious typos and grammar mistakes in the English translations (92 corrections in 21 pieces): misspellings, wrong ordinals ("23nd", "37rd"), agreement and missing words, names misspelt against the German ("Carassa", "Aristoxenes"), and leftover double drafts of a phrase (Nos. 2, 15, 16) or a sentence (No. 18). Corrections of meaning are left to the editors.
+- Errors of meaning in the English translations, after review (64 passages in 22 pieces): misreadings of the German (e.g. "Anstand nehmen" in No. 6, the redundant "nicht" in No. 21, "achten Tact" in No. 2, "♭A mol" in No. 16), omitted words, clauses and one untranslated sentence (No. 4), terminology ("Brechung" as arpeggiation), Mattheson's untranslated footnote in No. 16, and bar references that pointed to the bars of the 1719 transcription (Nos. 2, 4) or to a wrong note (No. 7)
 
 ## 1.0.0 (2026-10-27)
 
