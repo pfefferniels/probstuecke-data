@@ -45,8 +45,8 @@
           the same tangent.</s> <s corresp="comments_de.xml#p1-1-s2">It is well-consideredly written <emph>according to the
           common disposition of our keyboards</emph>: for it was sufficiently
           proven mathematically by others, that the key <emph>♯G</emph> is generally very different
-          from <emph>♭A</emph>.</s> <s corresp="comments_de.xml#p1-1-s3">I add that it could be put in a more natural way, for
-          the characteristic of the first key requires a minor third and therefore
+          from <emph>♭A</emph>.</s> <s corresp="comments_de.xml#p1-1-s3">I add that it can also be demonstrated naturally: for
+          the property of the first key requires a minor third and therefore
           is essentially minor, while the other naturally needs the
           major third, and therefore is major by nature, which cannot
           be the same key at the same time.</s> <s corresp="comments_de.xml#p1-1-s4">The harmonic reasons are not yet
@@ -73,10 +73,14 @@
         <head>§ 3.</head>
         <p>
            <s corresp="comments_de.xml#p3-1-s1">However, our improvers have not yet gone so far as to
-           distinguish C from ♯B and not to mix ♭F with E, or that,
+           distinguish C-flat<note place="foot" n="*" type="footnote">
+           <persName corresp="#ed_os2_1vx_qlb">Buliowski</persName> mentions this, citing <persName corresp="#ed_dvy_pvy_qlb">Capricorno</persName>;
+           <hi rendition="#i">see <bibl>Emendat. Organ., p. 23.</bibl></hi></note>
+           from B and not to confuse F-flat with E, or to demand that,
            just as C and F can be notated in different ways,
-           the same, if improper adjacent steps <!-- ? -->
-           at least require different signs:
+           these too should require, if not keys of their own lying
+           next to each other (which I am happy to do without),
+           at least a different notation:
            which is, however, highly necessary especially
            in those kinds of keys that hiddenly modulate into
            enharmonic regions, which is why it will be discussed 
@@ -114,8 +118,8 @@
           and I do not want to be a guarantor for this, nor do I want
           to demand that one shall make special, fundamental changes in the
           instrument because of it, since they do not help;
-          my thoughts go with all modesty to the effect that only those signs
-          should be used, by which such things can be noted properly,
+          my thoughts go, with all modesty, only so far as that enough signs
+          be introduced by which such things can be notated properly,
           mainly because of the mentioned consequences.</s> <s corresp="comments_de.xml#p5-1-s2">For we must
           abandon the hope of improving the Clavier, of augmenting it, and
           of bringing it to perfection, and be content instead with a good
@@ -155,9 +159,9 @@
           <s corresp="comments_de.xml#p7-1-s2">One can tell that it must have been composed either for a castrato or
           for someone who sang in a high alto, also that some instruments belong to it, which I, however,
           have considered unnecessary here, as well as several inserted rests.</s>
-          <s corresp="comments_de.xml#p7-1-s3">The intention now is to give an example from daily practice where the G-sharp minor
+          <s corresp="comments_de.xml#p7-1-s3">The only intention is to give an example from daily practice where the G-sharp minor
           is used strongly, and for this I take what falls into my hands first, as it were by chance.</s>
-          <s corresp="comments_de.xml#p7-1-s4">That, however, G-sharp minor strikes more often than A-flat major is true,
+          <s corresp="comments_de.xml#p7-1-s4">That G-sharp minor occurs more often than A-flat minor is true,
           because the first has the minor third essentially, the other only accidentally -
           yet it is the same in playing, only the latter can be notated more purely,
           which is why it was chosen here for the Probstück.</s> <s corresp="comments_de.xml#p7-1-s5">However, I found a beautiful

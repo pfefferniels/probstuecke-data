@@ -66,10 +66,10 @@
         <p>
           <s corresp="comments_de.xml#p2-1-s1"><ref target="#note-0000001444913642 #note-0000001182642635">On the two eighth notes</ref>
           at the end of the eighth measure, the
-          right hand plays these following notes, and imitates it
+          right hand plays these notes and alternates with it
           in the
-          <ref target="#measure-0000000566982188 #measure-0000000362882873 #measure-0000000785009598">ninth, tenth and eleventh measure</ref>
-          according to the bass.</s>
+          <ref target="#measure-0000000566982188 #measure-0000000362882873 #measure-0000000785009598">ninth, tenth and eleventh measure</ref>,
+          following the bass.</s>
           <notatedMusic>
             <ptr target="music-example2.xml"/>
           </notatedMusic>
@@ -103,7 +103,7 @@
         <p>
           <s corresp="comments_de.xml#p4-1-s1">In the
           <ref target="#measure-0000001018439983 #measure-0000001374019244">fifth and sixth measure of the second part</ref>,
-          the imitation described above is again taken into account, and if one wants
+          the alternation described above is again taken into account, and if one wants
           to let thirds go along in the <ref target="#measure-0000001269146673">seventh measure</ref> in the treble
           it fills out better than plain chords.</s> <s corresp="comments_de.xml#p4-1-s2">Thus, in the
           <ref target="#measure-0000001902655465 #measure-0000000766995769 #measure-0000001822556232">ninth,
@@ -177,11 +177,12 @@
           "B is a key in which one rarely composes.</s> <s corresp="comments_de.xml#p8-1-s1">There is no third which is particularly associated with it,
           but if it had one, it would probably be the minor third."</s> 
           <s corresp="comments_de.xml#p8-1-s2">Nevertheless, we know that its nature is minor and not major;
-          I have already shown the reasons for this in the second Orchestre book.</s>
+          I have already shown the reasons for this in the <bibl corresp="#ed_y43_m2l_tlb">second "opening" of the Orchestre</bibl>
+          (<hi rendition="#i">Das beschützte Orchestre</hi>, 1717).</s>
           <s corresp="comments_de.xml#p8-1-s3">And that this tone is nothing rare for us is shown by countless
           examples that are found daily.</s> <s corresp="comments_de.xml#p8-1-s4">There are things with trumpets
           and timpani in B minor, which might seem strange to some;
-          but if he were to hear the mobile<note>beweglich</note> chorale: Ach bleibe bei uns, Herr Jesu Christ, etc.,
+          but if he were to hear the chorale, otherwise so moving<note>beweglich</note>, Ach bleibe bei uns, Herr Jesu Christ, etc.,
           where the singing voices are set in the chamber tone B, and in the modulation into the D major,
           are accompanied with the above heroic instruments in chorus tone, only once,
           well performed, it would go to his heart.</s>

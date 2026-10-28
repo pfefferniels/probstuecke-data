@@ -45,9 +45,10 @@
       <div n="1">
         <head>§. 1.</head>
         <p>
-          <s corresp="comments_de.xml#p1-1-s1 comments_de.xml#p1-1-s2">The first <ref target="#m-41 #m-42 #m-44 #m-45">four notes</ref> of this piece are to be
+          <s corresp="comments_de.xml#p1-1-s1">The first <ref target="#m-41 #m-42 #m-44 #m-45">four notes</ref> of this piece are to be
           played unbroken, with four full and short strokes, and on the
-          <ref target="#m-50">fifth</ref> one should do a sharp trill in the lowest octave.</s>          
+          <ref target="#m-50">fifth</ref> one should do a sharp trill in the lowest octave.</s> <s corresp="comments_de.xml#p1-1-s2">The
+          <ref target="#m-53">following measure</ref> is played as it stands.</s>
           <s corresp="comments_de.xml#p1-1-s3">The <ref target="#m-137 #m-142 #m-144 #m-146 #m-152 #m-154">first six notes</ref>
           in the fourth measure must be doubled with octaves,
           and this figure which immediately follows in the bass by transposition
@@ -118,10 +119,10 @@
       <div n="5">
         <head>§. 5.</head>
         <p>
-          <s corresp="comments_de.xml#p5-1-s1">Now it has been hinted at in § 3. how to deal with notes such as those occurring in
-          <ref target="#m-928">m. 21</ref> and <ref target="#m-947">m. 22</ref>.</s>
+          <s corresp="comments_de.xml#p5-1-s1">Now it has been hinted at in § 3 how to deal with such notes as occur again in
+          <ref target="#m-934 #m-937 #m-941 #m-943">m. 21</ref>.</s>
           <s corresp="comments_de.xml#p5-1-s1">But if someone wants to make a variation here, it is so much more pleasant to listen to.</s>
-          <s corresp="comments_de.xml#p5-1-s2">But let the trill be recommended again in m. 22, namely in the low
+          <s corresp="comments_de.xml#p5-1-s2">But let the trill be recommended again in <ref target="#m-947">m. 22</ref>, namely in the low
           octave.</s> <s corresp="comments_de.xml#p5-1-s3">It cannot harm if someone wants to try this trill with the
           right hand in sixths at the same time.</s>
         </p>
@@ -144,9 +145,9 @@
         <p>
           <s corresp="comments_de.xml#p7-1-s1">In <ref target="#m-1078">m. 25</ref> the simple subject of the beginning occurs once more.</s>
           <s corresp="comments_de.xml#p7-1-s1">Since it now can be heard for the fourth time it fairly deserves
-          ornamentation in the right hand.</s> <s corresp="comments_de.xml#p7-1-s2">The usual counter-subject has to be taken from the
-          fourth measure in my opinion, and should be played there as well as
-          here in that way:</s>
+          ornamentation in the right hand.</s> <s corresp="comments_de.xml#p7-1-s2">The counter-subject that would otherwise fit it might,
+          in my opinion, be taken from the fourth measure and be applied, earlier
+          as well as here, in this way:</s>
           <notatedMusic>
             <ptr target="music-example4.xml" />
           </notatedMusic>
