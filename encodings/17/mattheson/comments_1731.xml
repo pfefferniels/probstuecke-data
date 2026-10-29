@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps17-002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps17-002" xml:lang="de">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,6 +74,11 @@
         </msDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <facsimile>
       <surface ulx="0" uly="0" lrx="2018" lry="2528" xml:id="facs-p464" corresp="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10598495/canvas/464">

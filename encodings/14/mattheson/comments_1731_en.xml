@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps14-003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps14-003" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -30,6 +30,11 @@
         <p>Mattheson.</p>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>

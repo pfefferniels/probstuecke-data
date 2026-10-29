@@ -13,7 +13,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `encodings/<n>/mattheson/comments_1731.xml` | Mattheson's commentary in the 1731 print (TEI, DTA Base Format) |
 | `encodings/<n>/mattheson/comments_1731_en.xml` | English translation of the 1731 commentary (TEI) |
 | `encodings/<n>/mattheson/music-example*.xml` | Music examples within the commentary (MEI) |
-| `encodings/<n>/<name>/` | Lessons and realisations by other musicians: the transcription of a lesson or notes on a realisation (TEI), its score and music examples (MEI) and audio recordings |
+| `encodings/<n>/<name>/` | Lessons and realisations by other musicians: the transcription of a lesson or notes on a realisation (TEI, named after their language: `comments_de.xml`, `comments_en.xml`, `comments_fr.xml`), its score and music examples (MEI) and audio recordings |
 | `encodings/works.xml` | List of works and their expressions (MEI `workList`); drives the website's overview |
 | `encodings/indices/` | Indices of persons, literature, musical works and terms (TEI); the index of terms (`terms.xml`) is based on Mattheson's Register |
 | `encodings/register/register_1731.xml` | Mattheson's Register of the 1731 print (pp. 465–482), transcribed (TEI, DTA Base Format) |
@@ -24,6 +24,8 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 | `scripts/` | `validate.sh` validates the encodings, `build-schemas.sh` regenerates the RELAX NG schemas from the ODDs, `check_references.py` checks internal pointers, `check_accidentals.py` checks the written accidentals against the edition's convention, `label_example_bars.py` labels the bars of the music examples with the bar numbers of the piece they quote, `tag_terms.py` tags the passages listed in the index of terms, `check_facsimile.py` checks the links to the page images (canvases, zones, image sizes); `check_alignment.py` checks the alignment of the translations and of the 1719 print with the 1731 text, sentence by sentence; `facsimile_repair/` holds the one-off scripts and tables with which these links were repaired in 2026, kept as a record, and `image_urls.py`, which turns a `<graphic>` that names a IIIF canvas into the image URL the encodings use (with the canvas in `surface/@corresp`) |
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
+
+Every TEI file declares its main language twice, as `@xml:lang` on its root and in the header (`<profileDesc><langUsage>`), with a BCP 47 tag (`de`, `en`, `fr`); a lesson that switches between German and English lists both, the main one first.
 
 ## Validation
 

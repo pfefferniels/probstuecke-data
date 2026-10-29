@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/lesson_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps3-004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps3-004" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,6 +37,10 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="de">German</language>
+      </langUsage>
       <particDesc>
         <listPerson>
           <person xml:id="rh" role="teacher">

@@ -31,6 +31,11 @@
         </p>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">German</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>

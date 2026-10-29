@@ -8,10 +8,12 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 
 - Sentence alignment of the translations with the 1731 text: the sentences of all 24 commentaries are encoded as `<s xml:id="p1-1-s1">` in `comments_1731.xml` and point to them as `<s corresp="comments_1731.xml#p1-1-s1">` in `comments_1731_en.xml` (in No. 24 only §. 31 is translated); `<s>` in the customisation of the DTA Base Format and in `probstuecke-tei.odd`, where it also allows a cited title (`<bibl>`); `scripts/check_alignment.py` checks the alignment (also in the GitHub Actions workflow)
 - Sentence alignment of the 1719 print with the 1731 print: the 1719 commentaries of all 24 pieces are divided into sentences like the 1731 ones (723 sentences; paragraphs outside the numbered sections are `p0-…`), and each sentence points with `@corresp` to the sentence(s) of 1731 that Mattheson made of it (613 do; the others he left out). 115 of the 736 sentences of 1731 are new. For this the 1731 text of No. 24 (apart from §. 31) and the remark on St. Lambert after the Erläuterung of No. 8 are divided into sentences, too. `check_alignment.py` tells translations and prints apart by `works.xml`, checks the sentence IDs of both prints and that every word of their paragraphs is in a sentence, and lists the sentences without counterpart with `--verbose`
+- The main language of every TEI file is declared in the file itself, not only in its name: as `@xml:lang` on the root and in `<profileDesc><langUsage>`, with BCP 47 tags (`de`, `en`, `fr`); the lessons of Hill on Nos. 3 and 4, which switch between German and English, list both. The customisation of the DTA Base Format keeps `@xml:lang` on `<TEI>` for this
 
 ### Changed
 
 - Mattheson's commentaries are named after the print they transcribe or translate: `comments_1st.xml` is now `comments_1719.xml`, `comments_de.xml` is now `comments_1731.xml` and `comments_en.xml` is now `comments_1731_en.xml` (also the two title pages in `frontpage/mattheson/`); the pointers to them in the translations and in the index of terms follow. The notes on the realisations and the lessons keep their names (`comments_de.xml`, `comments_en.xml`), which name their language
+- Two notes on realisations that are in English but were named as German are renamed: `10/pfeffer/comments_de.xml` and `20/molinaro/comments_de.xml` are now `comments_en.xml`; `4/jcd/comment_fr.xml` is now `comments_fr.xml`, like the others
 
 ### Removed
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register" type="terms">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register" type="terms" xml:lang="de">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -52,6 +52,12 @@
                 </p>
             </editorialDecl>
         </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
     </teiHeader>
 
     <text>

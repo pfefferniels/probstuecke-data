@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="realization" xml:id="ps4-005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="realization" xml:id="ps4-005" xml:lang="fr">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,6 +36,11 @@
                 </recordingStmt>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
