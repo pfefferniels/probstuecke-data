@@ -17,6 +17,10 @@ Two kinds of text are aligned with the 1731 print:
 
     comments_1719.xml     <s xml:id="p1-1-s2" corresp="comments_1731.xml#p1-1-s2">Ob nun das Simile hincket, …</s>
 
+The English translation of Dijoux's notes on his realisation of No. 4
+(4/jcd/comments_en.xml) is aligned with the French (comments_fr.xml) in the
+same way as the translation of Mattheson's text.
+
 works.xml tells the two apart: the expression of a translation has
 @type="translation", that of a print @type="edition". The website shows the
 other text between the lines. For every TEI file with such sentences the script

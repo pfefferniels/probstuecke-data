@@ -130,6 +130,13 @@
                             <language ident="fra">French</language>
                         </langUsage>
                     </expression>
+                    <expression type="translation" data="#ps4-006">
+                        <author>Dijoux</author>
+                        <creation startdate="2026" />
+                        <langUsage>
+                            <language ident="eng">English</language>
+                        </langUsage>
+                    </expression>
                 </expressionList>
             </work>
             <work xml:id="work005">

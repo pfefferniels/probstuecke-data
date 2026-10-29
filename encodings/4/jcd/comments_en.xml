@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="realization" xml:id="ps4-006" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="part">Realisation of Probstück 4 by J.-C. Dijoux (English translation)</title>
+                <editor>
+                    <persName xml:id="pfeffer">
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </editor>
+                <editor role="translator">Claude (Anthropic)</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <persName>
+                        <surname>Pfeffer</surname>
+                        <forename>Niels</forename>
+                    </persName>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0">
+                        <p>Creative Commons Attribution 4.0 International License</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Translation of Dijoux's French notes on the realisation (comments_fr.xml).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="score">
+                <head>Johann Mattheson: Grosse Generalbaß-Schule, Ober-Classe, Prob-Stück 4</head>
+                <lb/>
+
+                <figure type="notatedMusic">
+                    <notatedMusic xml:id="score">
+                        <ptr target="score.xml"/>
+                    </notatedMusic>
+                </figure>
+            </div>
+
+            <div n="0" type="chapter">
+                <head>Notes on the realisation</head>
+
+                <p>
+                    <s corresp="comments_fr.xml#p0-1-s1">The realisation above was constructed according to Mattheson’s instructions in
+                    the <foreign xml:lang="de">Erläuterung</foreign> that follows the Prob-Stück in question.</s> <s corresp="comments_fr.xml#p0-1-s2">As far as
+                    possible, the aim was to make the right-hand part meaningful, i. e. to have it use as
+                    many elements taken from the bass itself as possible.</s> <s corresp="comments_fr.xml#p0-1-s3">In this way, Mattheson’s precept
+                    “<quote xml:lang="de">daß alles aneinander hänget</quote>” [that everything is connected] holds true for
+                    the whole musical edifice, or almost.</s>
+                </p>
+
+                <p>
+                    <s corresp="comments_fr.xml#p0-2-s1">The Phrygian cadences have been provided with trills, as Mattheson
+                    and Saint-Lambert indicate.</s> <s corresp="comments_fr.xml#p0-2-s2">In every case these trills have been written
+                    in the bass as well as in the alto, but it is left to the performer whether actually
+                    to play them as double trills or, as the case may be, as single trills –
+                    <foreign xml:lang="la">varietas</foreign> must take precedence above all.</s>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
