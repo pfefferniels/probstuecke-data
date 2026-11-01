@@ -47,3 +47,21 @@ jobs:
 
       - name: Check the alignment of the translations
         run: python scripts/check_alignment.py
+
+  # Once main has passed the checks, the website (probstuecke-digital) updates
+  # its submodule to it and is deployed again. See "Updating the website" in
+  # the README.
+  update-website:
+    needs: check
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask probstuecke-digital to update the data
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::The secret WEBSITE_DISPATCH_TOKEN is not set, so the website is not updated. See \"Updating the website\" in the README."
+            exit 0
+          fi
+          gh api repos/pfefferniels/probstuecke-digital/dispatches -f event_type=data-updated
