@@ -39,6 +39,15 @@ The script exits with a non-zero status if a file is invalid or has no schema. [
 
 `python3 scripts/check_references.py` checks the internal pointers and `python3 scripts/check_accidentals.py` the written accidentals of all MEI files (printed ones that modern notation does not need in `<orig>`, missing ones in `<supplied>`, cautionary ones with `@func="caution"`, modern key signatures as `<choice>`); the conventions are described in the scripts' docstrings. Both run in the GitHub Actions workflow, too.
 
+## Updating the website
+
+When a push to `main` has passed the checks, the workflow (`.github/workflows/check.yml`) asks [probstuecke-digital](https://github.com/pfefferniels/probstuecke-digital) to update its submodule `probstuecke-data` to the new `main` and to deploy the website again. For this the repository needs the secret `WEBSITE_DISPATCH_TOKEN`, a personal access token that may write to probstuecke-digital:
+
+1. On GitHub, under Settings → Developer settings → Personal access tokens → Fine-grained tokens, generate a new token with *Only select repositories*: `probstuecke-digital`, and the repository permission *Contents: Read and write*.
+2. In this repository, under Settings → Secrets and variables → Actions, add it as a new repository secret named `WEBSITE_DISPATCH_TOKEN`.
+
+Without the secret the workflow only warns; with an expired token it fails. Either way the website catches up with its next deploy, or with *Run workflow* under Actions → Deploy to GitHub Pages in probstuecke-digital.
+
 ## Alignment of the translation and of the two prints
 
 The English translation and the 1719 print can each be compared with the 1731 text sentence by sentence. All three are divided into sentences (`<s>`). The sentences of the prints carry an ID made of the paragraph's ID and their number in it (`p1-1-s2`: §. 1, first paragraph, second sentence; paragraphs outside the numbered sections are `p0-1`, `p0-2`, …).
