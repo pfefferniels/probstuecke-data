@@ -1641,7 +1641,8 @@
                <elementSpec ident="TEI" module="textstructure" mode="change">
                    <attList>
                        <attDef ident="n" mode="delete"/>
-                       <attDef ident="xml:lang" mode="delete"/>
+                       <!-- customization: xml:lang is kept; it declares the main language of the text, as on the
+                            root of every other TEI file of the edition (the DTABf deletes it here) -->
                        <attDef ident="rendition" mode="delete"/>
                        <attDef ident="facs" mode="delete"/>
                        <attDef ident="version" mode="delete"/>

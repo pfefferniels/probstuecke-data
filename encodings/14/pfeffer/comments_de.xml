@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps14-004" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps14-004" xml:lang="deu">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,12 +31,17 @@
         </p>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
       <div type="score">
         <figure type="notatedMusic">
-          <head xml:lang="en">Transcription of the recording</head>
+          <head xml:lang="eng">Transcription of the recording</head>
           <notatedMusic xml:id="score">
             <ptr target="score.xml"/>
           </notatedMusic>

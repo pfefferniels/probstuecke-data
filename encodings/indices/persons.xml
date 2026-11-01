@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register" type="persons">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:ns="http://www.telota.de" ns:doctype="register" type="persons" xml:lang="eng">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,6 +25,11 @@
                 </p>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+            </langUsage>
+        </profileDesc>
     </teiHeader>
     
     <text>
@@ -446,7 +451,7 @@
                     </persName>
                     <birth/>
                     <death>1706</death>
-                    <note xml:lang="de"> Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg. </note>
+                    <note xml:lang="deu"> Organist an der Arp Schnitger-Orgel der Hauptkirche St. Nikolai, Hamburg. </note>
                 </person>
                 <person xml:id="ed_fwn_dvb_5lb">
                     <idno type="uri">http://d-nb.info/gnd/118784919</idno>
