@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps13-003" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps13-003" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +15,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="en">English</language>
+        <language ident="eng">English</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -128,7 +128,7 @@
           the three-part harmony is perfect in all regards since, when both these
           points are observed, it cannot follow otherwise than that the syncopation from below always
           starts with the chord's fifth, while the one from above starts with the third.</s> <s corresp="comments_1731.xml#p6-2-s2">Both
-          those types are called <hi rendition="#aq"><foreign xml:lang="">Syzygiam remotam</foreign></hi>, meaning that the
+          those types are called <hi rendition="#aq"><foreign xml:lang="lat">Syzygiam remotam</foreign></hi>, meaning that the
           notes of a chord are somewhat more apart.</s> <s corresp="comments_1731.xml#p6-2-s3">But when two chords follow each other
           step-wise, up- or downwards, and both begin with fifths, it would be a mistake.</s>
           <s corresp="comments_1731.xml#p6-2-s4">For that reason the described alternation is the means of choice in order to

@@ -25,7 +25,7 @@ Edited by Niels Pfeffer and Klaus Rettinghaus.
 
 `encodings/toc.json` is a table of contents from an earlier version of the website and is no longer used.
 
-Every TEI file declares its main language twice, as `@xml:lang` on its root and in the header (`<profileDesc><langUsage>`), with a BCP 47 tag (`de`, `en`, `fr`); a lesson that switches between German and English lists both, the main one first.
+Every TEI file declares its main language twice, as `@xml:lang` on its root and in the header (`<profileDesc><langUsage>`); a lesson that switches between German and English lists both, the main one first. Passages in another language carry `@xml:lang`, too (`<foreign xml:lang="lat">`, `<quote xml:lang="fra">`). All language codes are the three-letter codes of ISO 639-3 (`deu`, `eng`, `fra`, `ita`, `lat`, `grc`, …), as the [DTA Base Format](https://www.deutschestextarchiv.de/doku/basisformat/fremdsprachlMaterial.html) prescribes and as `works.xml` uses them; the website turns them into BCP 47 tags (`de`, `la`, …) for HTML.
 
 ## Validation
 

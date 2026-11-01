@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps7-001" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps7-001" xml:lang="deu">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +74,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="de">German</language>
+        <language ident="deu">German</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -110,7 +110,7 @@
             <lb/>kennen, und bekuͤm̃ert ſich dabey um keinen andern, als um den Baß; damit iſt ſeine gantze
             <lb/>Clavier-Weißheit aufgeschloſſen.</s> <s xml:id="p1-1-s4" corresp="comments_1731.xml#p1-1-s4">Neͤchſt dieſem ſind wir hier in Teutschland gu-
             <lb/>ten Theils ſehr eckel in Anſehung der Frantzoͤſiſchen Hand-Sachen, ob wol ſonſt
-            <lb/>alles andere, was Frantzoͤſiſch iſt und heiſſet, <hi rendition="#aq"><foreign xml:lang="fr">par Affectation</foreign></hi> auch ſo gar &gt;das Tact-
+            <lb/>alles andere, was Frantzoͤſiſch iſt und heiſſet, <hi rendition="#aq"><foreign xml:lang="fra">par Affectation</foreign></hi> auch ſo gar &gt;das Tact-
             <lb/>Pruͤgeln, bey uns willkommen.</s> <s xml:id="p1-1-s5" corresp="comments_1731.xml#p1-1-s5">Jeder <hi rendition="#aq">Informator</hi> vermeynet, seine eigene Gebur-
             <lb/>ten ſind die beſten zum Unterricht; ich aber halte dafuͤr, es mag einer noch ſo vor-
             <lb/>trefflich <hi rendition="#aq">componi</hi>ren, und wenn ers auch, ich weiß nicht wem, gleich thaͤte, ſoll er

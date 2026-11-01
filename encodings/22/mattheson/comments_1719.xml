@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/basisformat_customized.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps22-001" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps22-001" xml:lang="deu">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +74,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="de">German</language>
+        <language ident="deu">German</language>
       </langUsage>
     </profileDesc>
   </teiHeader>

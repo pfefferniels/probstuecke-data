@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/lesson_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps3-004" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps3-004" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,8 +38,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="en">English</language>
-        <language ident="de">German</language>
+        <language ident="eng">English</language>
+        <language ident="deu">German</language>
       </langUsage>
       <particDesc>
         <listPerson>
@@ -93,7 +93,7 @@
         </notatedMusic>
 
         <p>
-          <foreign xml:lang="de">R.H. Mein persönlicher Geschmack geht dahin,
+          <foreign xml:lang="deu">R.H. Mein persönlicher Geschmack geht dahin,
           etwas mehr auf die drei zu spielen, sodass ein trochäischer
           Rhythmus — ◡ entsteht. Es gibt  zwar kaum Situationen, in denen
           etwas wichtiges auf der 3 vorkommt. Aber auf der anderen Seite ändert

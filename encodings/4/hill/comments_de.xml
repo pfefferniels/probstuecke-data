@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/lesson_transcription.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps4-004" xml:lang="de">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps4-004" xml:lang="deu">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -38,8 +38,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="de">German</language>
-        <language ident="en">English</language>
+        <language ident="deu">German</language>
+        <language ident="eng">English</language>
       </langUsage>
       <particDesc>
         <listPerson>
@@ -64,7 +64,7 @@
     <body>
       <div type="score">
         <figure type="notatedMusic">
-          <head xml:lang="en">Partial realisation by Robert Hill, transcribed from the lesson</head>
+          <head xml:lang="eng">Partial realisation by Robert Hill, transcribed from the lesson</head>
           <notatedMusic xml:id="score">
             <ptr target="score.xml"/>
           </notatedMusic>
@@ -338,13 +338,13 @@
 
 
         <u who="#rh">
-          <foreign xml:lang="en">
+          <foreign xml:lang="eng">
             I think, the more you take it as a sketch, the happier you'll be. Apparently because
             it's just too crude, it's not worked out, it's not even an attempt to really
             work it out.
             You could say it's a set of ideas, and he writes them down and he does not
             really care what you do with them, as long as it
-            is in the <distinct xml:lang="de">Sinne</distinct> of the piece which is –
+            is in the <distinct xml:lang="deu">Sinne</distinct> of the piece which is –
             it is a platform of your imagination. I think the more you look at it like that the
             happier you'll be.
           </foreign>
@@ -406,7 +406,7 @@
         </kinesic>
 
         <u who="#rh">
-          <foreign xml:lang="en">Something that seems to have another variation character on the bass and
+          <foreign xml:lang="eng">Something that seems to have another variation character on the bass and
           also sustains this basic idea of a singing.
           It is actually quite</foreign> lieblich.
           Nicht so grob und schroff, sondern freundlicher.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../schema/probstuecke-tei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps7-003" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ps7-003" xml:lang="eng">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -15,7 +15,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="en">English</language>
+        <language ident="eng">English</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -58,7 +58,7 @@
         <head>§. 2.</head>
         <p>
           <ref target="#tempo-0000000597327698">
-            <s corresp="comments_1731.xml#p2-1-s1">If the <foreign xml:lang="it">Prestissimo</foreign> does not befit one immediately, nothing will happen to him if
+            <s corresp="comments_1731.xml#p2-1-s1">If the <foreign xml:lang="ita">Prestissimo</foreign> does not befit one immediately, nothing will happen to him if
             he plays the example a little bit slower.</s> <s corresp="comments_1731.xml#p2-1-s2">This is to be understood for students.</s> <s corresp="comments_1731.xml#p2-1-s3">To a want-to-be master, this
             freedom is not granted; he may have a look through the piece for some while.</s> <s corresp="comments_1731.xml#p2-1-s3">As soon as he starts playing however,
             this piece must go on as it should, i.e. very rapidly.</s>
