@@ -1710,7 +1710,7 @@
                         <note xml:id="m-1116" dots="1" dur="8" oct="5" pname="c" />
                         <note xml:id="m-1118" dur="16" oct="5" pname="c" />
                       </lem>
-                      <rdg source="#secondEdition">
+                      <rdg source="#firstEdition">
                         <note dur="8" oct="5" pname="c" />
                         <note dur="8" oct="5" pname="c" />
                       </rdg>
