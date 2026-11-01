@@ -35,6 +35,10 @@
                 <language ident="eng">English</language>
             </langUsage>
         </profileDesc>
+        <revisionDesc>
+            <change when="2026-11-01" who="#pfeffer">Translation checked by Niels Pfeffer.</change>
+            <change when="2026-10-29">First draft of the translation made with a large language model (Claude, Anthropic).</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
