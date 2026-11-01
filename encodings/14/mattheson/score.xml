@@ -1284,7 +1284,7 @@
             <pgHead>
               <app>
                 <lem>
-                  <rend halign="center" fontsize="large" xml:lang="ger">Auf andre Art notiret.</rend>
+                  <rend halign="center" fontsize="large" xml:lang="deu">Auf andre Art notiret.</rend>
                 </lem>
                 <rdg source="#firstEdition">
                   <rend halign="center" fontsize="large" xml:lang="lat">Alio modo.</rend>
