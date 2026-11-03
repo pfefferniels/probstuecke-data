@@ -46,6 +46,19 @@
             <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
           </bibl>
         </source>
+        <source xml:id="secondEditionReprint" type="reprint">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <corpName role="publisher">Kißner</corpName>
+            <pubPlace>Hamburg</pubPlace>
+            <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+              in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+            <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+            <settlement>Hamburg</settlement>
+            <identifier type="shelfmark">MS 163/2b</identifier>
+            <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+          </bibl>
+        </source>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -369,11 +382,23 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure 6 with a stroke through it (raised sixth); the glyph is damaged, so the reading is probable, not certain -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6⃥</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="3.0">
                 <fb>
                   <f>6</f>
@@ -557,11 +582,23 @@
                   <f>♮</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="4.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure 6 over the second sixteenth of beat 3 (a♭), none over a♮ on beat 4 -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="4.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="3.25">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="m-243" n="7">
               <staff xml:id="m-244" n="1">
@@ -1197,18 +1234,37 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="3.0">
-                <fb>
-                  <choice>
-                    <reg resp="#rettinghaus">
-                      <f>6♭</f>
-                    </reg>
-                    <orig>
-                      <f>♭6</f>
-                    </orig>
-                  </choice>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure ♭5 -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <choice>
+                        <reg resp="#rettinghaus">
+                          <f>6♭</f>
+                        </reg>
+                        <orig>
+                          <f>♭6</f>
+                        </orig>
+                      </choice>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="3.0">
+                    <fb>
+                      <choice>
+                        <reg resp="#rettinghaus">
+                          <f>5♭</f>
+                        </reg>
+                        <orig>
+                          <f>♭5</f>
+                        </orig>
+                      </choice>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <measure xml:id="m-609" n="18">
               <staff xml:id="m-610" n="1">
@@ -2131,11 +2187,17 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1.0">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): no figure 6 over f♯ -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1.0">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint" />
+              </app>
               <harm place="above" staff="2" tstamp="2.0">
                 <fb>
                   <f>♯</f>
