@@ -132,8 +132,8 @@
           words not listed only get the long s and the umlauts in modern form. Names and foreign words keep their
           spelling. The word list was started from the normalisation service CAB of the Deutsches Textarchiv and is
           being reviewed; not every entry has been checked yet. Point at a word to see its original spelling. The
-          diplomatic view (the switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> at the top of
-          the page) shows the commentary as printed instead, with the long s, the umlauts and the spelling of the print,
+          diplomatic view (the switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> /
+          <hi rendition="#i">Facsimile</hi> at the top of the page) shows the commentary as printed instead, with the long s, the umlauts and the spelling of the print,
           and marks the end of each of its lines with a vertical stroke, as critical editions do (“gerne | mit”, within a
           word “ſchwar-|tzen”); there, point at a word to see its modern form. The diplomatic transcription itself is
           contained in the TEI files, which can be downloaded from every page.
@@ -151,9 +151,19 @@
           empty staves for writing out a realisation.
         </p>
         <p>
-          The switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> at the top of the page applies
-          to the text and the music alike: in modern spelling with modern clefs and accidentals, or as printed, with
-          the original clefs and accidentals. The website remembers the choice for all pages.
+          The switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> / <hi rendition="#i">Facsimile</hi>
+          at the top of the page applies to the text and the music alike: in modern spelling with modern clefs and
+          accidentals, as printed, with the original clefs and accidentals, or in the page images of the print. The
+          website remembers the choice for all pages.
+        </p>
+        <p>
+          The facsimile shows the score page by page on the left, as large as the screen allows, and the pages of the
+          commentary on the right. Where the paragraphs of the commentary and the bars of the score are marked on the
+          pages (so far in the 1731 print of Probstücke 1 to 21), the bars that the commentary refers to are tinted:
+          point at a paragraph to see the bars it refers to (the score turns to their page; the numbers of the pages
+          with such bars are underlined), or at a bar to see the paragraphs about it; click a bar to bring the first of
+          them into view. On a touch screen, tap instead of pointing. Where there are no page images yet, the
+          transcription is shown as printed.
         </p>
         <p>
           The commentary can be compared sentence by sentence: beneath each sentence of the English translation stands,
