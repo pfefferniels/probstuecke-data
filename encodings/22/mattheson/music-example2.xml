@@ -26,6 +26,21 @@
                     </useRestrict>
                 </availability>
             </pubStmt>
+            <sourceDesc>
+                <source xml:id="secondEditionReprint" type="reprint">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+                            in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+                        <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+                        <settlement>Hamburg</settlement>
+                        <identifier type="shelfmark">MS 163/2b</identifier>
+                        <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+                    </bibl>
+                </source>
+            </sourceDesc>
         </fileDesc>
     </meiHead>
     <music>
@@ -75,6 +90,13 @@
                                     <note xml:id="ex-0912158176" dur="4" oct="3" pname="g" accid.ges="s" />
                                 </layer>
                             </staff>
+                            <!-- B (later printing): no slur -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <slur startid="#ex-0512445414" endid="#ex-1011815488" curvedir="above" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
                         </measure>
                         <measure corresp="#measure-0000000779329225" label="34">
                             <staff n="1">
@@ -112,6 +134,20 @@
                                     <f>6</f>
                                 </fb>
                             </harm>
+                            <!-- B (later printing): no slur -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <slur startid="#ex-0698485021" endid="#ex-1983440858" curvedir="above" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
+                            <!-- B (later printing): no slur -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <slur startid="#ex-0282460577" endid="#ex-1655893370" curvedir="above" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
                         </measure>
                         <measure corresp="#measure-0000002104627708" label="35">
                             <staff n="1">
@@ -150,6 +186,13 @@
                                     <f>6</f>
                                 </fb>
                             </harm>
+                            <!-- B (later printing): no slur -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <slur startid="#ex-0093543851" endid="#ex-1763791475" curvedir="above" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
                         </measure>
                         <measure corresp="#measure-0000000308121362" label="36">
                             <staff n="1">
@@ -181,7 +224,13 @@
                                     <note xml:id="ex-0579235446" dur="4" oct="2" pname="b" />
                                 </layer>
                             </staff>
-                            <trill startid="#ex-0935171029" />
+                            <!-- B (later printing): no "tr" over d -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <trill startid="#ex-0935171029" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
                             <harm place="above" staff="2" tstamp="1">
                                 <fb>
                                     <f>6</f>
@@ -218,7 +267,15 @@
                             <staff n="2">
                                 <layer n="1">
                                     <note xml:id="ex-0844826376" dur="4" oct="2" pname="a" accid.ges="s" />
-                                    <rest dur="8" />
+                                    <!-- B (later printing): no eighth rest after the last note -->
+                                    <app type="reprint">
+                                        <lem source="#secondEdition">
+                                            <rest dur="8" />
+                                        </lem>
+                                        <rdg source="#secondEditionReprint">
+                                            <space dur="8" />
+                                        </rdg>
+                                    </app>
                                     <space dur="8" />
                                     <space dur="2" />
                                 </layer>
