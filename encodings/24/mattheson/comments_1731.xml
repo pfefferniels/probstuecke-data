@@ -185,6 +185,83 @@
           </notatedMusic>
         </figure>
       </div>
+      <!-- between the two notations of the piece (pp. 434-435, 438-440, in score.xml) -->
+      <pb facs="#facs-p498" n="436" />
+      <div>
+        <lb /><head>Anmerckungen.</head>
+        <p xml:id="p0-1">
+          <lb /><s xml:id="p0-1-s1">Wenn wir feſt ſetzen, daß alle Ton-Arten, deren Grund-Note ein Kreutz (♯)
+          <lb />vor ſich hat, von Natur klein oder weich ſind, das iſt, ſie erfordern, natürlicher
+          <lb />Weiſe, die kleinen oder weichen Tertzen; hergegen, daß alle Ton-Arten, deren
+          <lb />Haupt- und Endigungs-Note ein b vor ſich führet, von Natur groß oder hart ſind,
+          <lb />einfolglich, ihrem natürlichen Weſen nach, die groſſen und harten Tertzen zu ſich
+          <lb />nehmen müſſen: ſo iſt leicht zu erachten, daß, wenn ich <abbr>z. E.</abbr> Cis dur wehlen, und
+          <lb />eine Melodie in ſolcher Ton-Art zu Papier bringen will, es weit natürlicher ſey,
+          <lb />ſolches mit dem bD, als mit dem ♯C zu verrichten, denn das bD hat von
+          <lb />ſelbſten die groſſe Tertz, und es darff ſolche nicht erſt, durch ein abſonderliches Zei-
+          <lb />chen, bemercket werden, weil das bloſſe f dazu dienet.</s> <s xml:id="p0-1-s2">♯C aber, wenn es
+          <lb />hart ſeyn ſoll, muß ein beſonderes Kreutz im e haben; maſſen es ſonſt, ſeiner Ei-
+          <lb />genſchafft nach, weich iſt.</s>
+        </p>
+        <p xml:id="p0-2">
+          <lb /><s xml:id="p0-2-s1">Aus dieſen Grund-Sätzen kann man ferner auf die übrigen fremd-vermeynte
+          <lb />Ton-Arten einen Schluß ziehen, und ausfündig machen, auf welche Art dieſelbe am
+          <lb />bequemſten zu notiren ſind.</s> <s xml:id="p0-2-s2">Hier, in dieſer Ober-Claſſe der groſſen General-Baß-
+          <lb />Schule, haben wir uns die Bequemlichkeit nicht allemahl zum Zweck geſetzet, dieweil
+          <lb />es hauptſächlich auf Proben ankömmt.</s> <s xml:id="p0-2-s3">Jn zwiſchen kann eine Erinnerung doch
+          <lb />nicht ſchaden, und will ich immer mit den Anmerckungen weiter fortfahren.</s>
+        </p>
+        <p xml:id="p0-3">
+          <lb /><s xml:id="p0-3-s1">Bey dem bD findet ſich das c, als die groſſe Septime, gantz natürlich ein; bey
+          <lb />dem ♯C aber nicht, da muß ſie durch ♯h angedeutet werden.</s> <s xml:id="p0-3-s2">Der Gang ins B
+          <lb />moll, welcher bey dem Cis dur die zweite Ausweichung ausmachet, fällt auch
+          <fw place="bottom" type="catch">weit</fw>
+          <pb facs="#facs-p499" n="437" />
+          <lb />weit beſſer in die Augen, wenn bD zum Grunde ſtehet, als wenn es ♯C iſt.</s> <s xml:id="p0-3-s3">En-
+          <lb />dlich braucht man bey bD keine Verdoppelung der vorgeſetzten Zeichen, die doch bey
+          <lb />♯C unvermeidlich ſind.</s> <s xml:id="p0-3-s4">Ob auch gleich bD fünff b in ſeinem Sprengel nöthig hat;
+          <lb />ſo bedarff doch ♯C, an deren Statt, zum wenigſten ſieben Kreutze.</s> <s xml:id="p0-3-s5">Und was noch ſonſt
+          <lb />für Urſachen aufſtoſſen mögen, warum das erſte beſſer, als das andere iſt.</s>
+        </p>
+        <p xml:id="p0-4">
+          <lb /><s xml:id="p0-4-s1">Wenn ♯D zum Grunde einer Melodie gelegt wird, gehören nicht nur ſieben
+          <lb />Kreutze zu deſſen Notirung, ſondern es wird auch im dritten Grad noch ein zweifa-
+          <lb />ches Doppel-Kreutz dabey erfordert; hergegen darff bE nicht mehr, als drey b, ha-
+          <lb />ben: welches einen groſſen Vortheil, ſo wol im Spielen, als im Schreiben, zu Wege
+          <lb />bringt.</s> <s xml:id="p0-4-s2">Gleicher Geſtalt, wenn ♯G zur Haupt-Note gebraucht werden ſollte,
+          <lb />müſten abermahl ſieben Kreutze, und noch darüber ein zweifaches im ſiebenden
+          <lb />Grad herhalten; dahingegen wenn bA zum Grund-Klange dienet, nicht mehr,
+          <lb />als vier b, in einer Octave nöthig ſind.</s> <s xml:id="p0-4-s3">Was endlich das bH betrifft, ſo ſiehet ein je-
+          <lb />der die groſſe Schwierigkeit leicht, welche entſtehen würde, wenn man, Statt deſ-
+          <lb />ſen, ♯A zur Haupt-Note brauchen wollte: denn, da gehörten nicht nur wiederum,
+          <lb />in einer eintzigen Octave, ſieben Doppel-Kreutze darzu, ſondern es müſten noch ferner
+          <lb />im dritten, ſechſten und ſiebenden Grad dieſe Kreutze zweifach erſcheinen, welches ein
+          <lb />wunderliches Weſen geben würde; hingegen beſtellt es bH auf das allerbeſte
+          <lb />mit noch einem b.</s>
+        </p>
+        <p xml:id="p0-5">
+          <lb /><s xml:id="p0-5-s1">Nur allein das Fis dur ſcheinet gleichſam zweydeutig zu ſeyn: ſinte-
+          <lb />mahl, ob ich ♯F, oder bG zum Grunde ſetze, eines Theils ſechs Kreutze, und an-
+          <lb />dern Theils ſechs b erfordert werden; wobey doch dieſer Unterſchied befindlich, daß
+          <lb />bey den Kreutzen die Quart unbezeichnet und frey bleibet; bey den bb aber nur die
+          <lb />Septime offen ſtehet, wodurch, meines Erachtens, den Kreutzen, in dieſem Stü-
+          <lb />cke ein Vorzug zuwächſt, weil man mehr mit der Quart, als mit der Septime,
+          <lb />inſonderheit mit der groſſen, wie ſie hier iſt, zu thun hat, deswegen das ♯F vor
+          <lb />dem bG zu wehlen iſt.</s>
+        </p>
+        <p xml:id="p0-6">
+          <lb /><s xml:id="p0-6-s1">Wegen des Dis moll aber halte ich gewiß dafür, daß es, aus angeführten
+          <lb />Gründen, beſſer und natürlicher ſey, mit ♯D zu verfahren; Dis dur aber, wie
+          <lb />gewöhnlich, durch bE anzudeuten.</s> <s xml:id="p0-6-s2">Doch hindert ſolches nicht, daß man es nicht
+          <lb />auch umkehren könne.</s> <s xml:id="p0-6-s3">Ein Meiſter muß es auf beiderley Art wiſſen: und damit
+          <lb />es der Schüler lerne, findet er hier, nebſt den Urſachen, auch ein Prob-Stück
+          <lb />aus dem Cis dur, welches, zu ſeiner Uebung, auf zweierley Weiſe zu Papier
+          <lb />gebracht worden iſt.</s>
+        </p>
+        <fw place="bottom" type="catch">Daſſel-</fw>
+      </div>
+
+      <pb facs="#facs-p502" n="440" />
       <div n="0" type="chapter">
         <div n="1">
         <head>§. 1.</head>
@@ -221,7 +298,7 @@
         <lb /><head>§. 2.</head>
         <lb /><p xml:id="p2-1">
           <s xml:id="p2-1-s1">Es iſt im <bibl corresp="#ed_bm4_fhl_tlb">Orcheſter, Erſter Eröffnung</bibl>, bey Gelegenheit dieſer chromatiſchen
-          <lb />Tone, pag. 54. und 65. den <term xml:id="t_meister-1" corresp="#t_meister">Meiſtern</term> von groſſer Einbildung geſagt worden, daß
+          <lb />Tone, pag. 64. und 65. den <term xml:id="t_meister-1" corresp="#t_meister">Meiſtern</term> von groſſer Einbildung geſagt worden, daß
           <lb />man ihnen einen Baß vorlegen könne, deſſen fünff, ja zwo erſte Noten, falls dieſel-
           <lb />be ohne Anſtoß getroffen würden, zu ihrem ſonderbaren Lobe gereichen ſollten.</s>
           <lb /><s xml:id="p2-1-s2">Nun bin ich ſeit dem hie und da angezwacket worden, ſolches dereinſt zu bewerckſtel-
@@ -238,7 +315,7 @@
           <lb />mögte, (denn in Geheim verbindet dieſer Vorſchlag zu nichts) das laſſe an feinem
           <lb />Orte geſtellet bleiben.</s> <s xml:id="p3-1-s2">Bisher haben wir Bedencken getragen, Anſtalt zu ihrer
           <lb />Schande zu machen; welches aber leicht geſchehen könnte.</s> <s xml:id="p3-1-s3">Indeſſen, obgleich der
-          <lb />Baß, auf den man damahls eben ſein Angenmerck gehabt hat, hierin gar nicht an-
+          <lb />Baß, auf den man damahls eben ſein Augenmerck gehabt hat, hierin gar nicht an-
           <lb />zutreffen iſt, und noch gantz anders klingt, als dieſe Prob-Stücke (angeſehen je-
           <lb />ner bloß zum Poſſen geſetzt iſt, und hundert dergleichen geſetzt werden mögen; dieſe
           <lb />aber ſich wircklich in die Schrancken einer Notwendigkeit und einer ernſtlichen For-
@@ -463,7 +540,7 @@
           <lb />wie mein Spielen, Setzen und Schreiben, beſchaffen ſey.</s> <s xml:id="p5-1-s16"><persName corresp="#ed_ixh_r2y_qlb">Herr König</persName> hat auch
           <lb />nirgend geſagt, daß ich beſſer ſpiele, ſetze und ſchreibe, als andere, die ſich <sic>darinu</sic>
           <lb />theilen; als ob es eine Schande wäre, groß, und nicht zugleich der gröſſeſte zu
-          <lb />ſeyn; ſondern die Meynung iſt mir geweſen, daß nicht jedermann dieſe drey Ei-
+          <lb />ſeyn; ſondern die Meynung iſt nur geweſen, daß nicht jedermann dieſe drey Ei-
           <lb />genſchafften <hi rendition="#b">zugleich</hi> in demſelben Grad, und in einer Perſon beſitze.</s> <s xml:id="p5-1-s17">Der Staar-
           <lb />Stecher wird alſo nöthig haben, erſt ſeine eigene Augen zu curiren, um das Wört-
           <lb />lein <hi rendition="#b">zugleich</hi> genau zu betrachten, ehe er ſich an andre macht.</s> <s xml:id="p5-1-s18">Er kann ja nicht
@@ -479,11 +556,11 @@
           <lb />alle Lob- und Zuſchrifften
           <note n="*)" place="foot">
             <hi rendition="#aq"><foreign xml:lang="eng">
-              Dedications and etwas Panegyricks are frequently ridiculous, let them be addreſſed whe-
+              Dedications and Panegyricks are frequently ridiculous, let them be addreſſed whe-
               <lb />re they will, <hi rendition="#i"><bibl corresp="#ed_oz1_by1_5lb">Tatler</bibl>, No.</hi> 92.
             </foreign></hi>
           </note>
-          lächerliches, vergrößerndes oder ausſchweif-
+          etwas lächerliches, vergrößerndes oder ausſchweif-
           <lb />fendes an ſich; ohne daß ſich jemahls ein vernünfftiger Menſch hat gelüſten laſſen,
           <lb />ſelbige mathematiſch zu unterſuchen.</s> <s xml:id="p5-1-s23">Ich mag nicht erwehnen, was andere groſſe
           <lb />Leute, als die Herren: <persName corresp="#ed_y4p_gvx_qlb">Brockes</persName>,
@@ -496,7 +573,7 @@
           <fw place="bottom" type="catch">ſo</fw>
           <pb facs="#facs-p508" n="446" />
 
-          ſo mögen die Schmähungen des letztem mit dem, obgleich gar zu höflich ſcheinenden,
+          ſo mögen die Schmähungen des letztern mit dem, obgleich gar zu höflich ſcheinenden,
           <lb />Beifall jener hochberühmten Männer in keinen Vergleich kommen.</s> <s xml:id="p5-1-s25">Was frägt
           <lb />endlich auch ein reicher Mann darnach, wenn ein Bettler von ihm ſpricht: er ſey
           <lb />arm?</s> <s xml:id="p5-1-s26">Denn,
@@ -590,13 +667,28 @@
               <lb />tum Diatonico Chromatico-Enharmonicum</hi> dürffte machen laſſen.</s> <s xml:id="p8-1-s6">Die Zahlen
               <lb />dazu ſind folgende:
               <note n="*)" place="foot">
-                Den hiher gehörigen ſehr ſaubern Riß, welcher vor
-                <lb />dem <persName corresp="#ed_g1w_hxy_qlb">Herrn Capellmeiſter Neidhardt</persName> ſelber dazu verertiget, und dem Kupffer-Stecher
+                Den hieher gehörigen ſehr ſaubern Riß, welcher von
+                <lb />dem <persName corresp="#ed_g1w_hxy_qlb">Herrn Capellmeiſter Neidhardt</persName> ſelber dazu verfertiget, und dem Kupffer-Stecher
                 <date when="1728">vor
                 <lb />drittehalb Jahren</date> überreichet worden iſt, hat dieſer letzte, unachtſamer Weiſe, und zu meinem
-                <lb />gröſſeſten Verdruß, verleget oder verloren.
-              </note>
-              ...</s>
+                <lb />gröſſeſten Verdruß, verleget oder verlohren.
+              </note></s>
+              <table>
+                <head>Numeri</head>
+                <head>1.) Diatonici:</head>
+                <row><cell>C.</cell><cell>D.</cell><cell>E.</cell><cell>F.</cell><cell>G.</cell><cell>A.</cell><cell>H.</cell><cell>c.</cell></row>
+                <row><cell>2000.</cell><cell>1781.</cell><cell>1586.</cell><cell>1497.</cell><cell>1334.</cell><cell>1189.</cell><cell>1059.</cell><cell>1000.</cell></row>
+              </table>
+              <table>
+                <head>2.) Chromatici:</head>
+                <row><cell>Cis.</cell><cell>Dis.</cell><cell>Fis.</cell><cell>Gis.</cell><cell>B.</cell></row>
+                <row><cell>1887.</cell><cell>1681.</cell><cell>1414.</cell><cell>1259.</cell><cell>1122.</cell></row>
+              </table>
+              <table>
+                <head>3.) Enharmonici:</head>
+                <row><cell>Cͩ·</cell><cell>Cͩis·</cell><cell>Dͩ·</cell><cell>Dͩis·</cell><cell>Eͩ·</cell><cell>Fͩ·</cell><cell>Fͩis·</cell><cell>Gͩ·</cell><cell>Gͩis·</cell><cell>Aͩ·</cell><cell>Bͩ·</cell><cell>Hͩ·</cell></row>
+                <row><cell>1942.</cell><cell>1833.</cell><cell>1730.</cell><cell>1632.</cell><cell>1540.</cell><cell>1454.</cell><cell>1373.</cell><cell>1295.</cell><cell>1223.</cell><cell>1155.</cell><cell>1090.</cell><cell>1029.</cell></row>
+              </table>
             </quote>
         </p>
       </div>
@@ -660,7 +752,7 @@
             </quote>
             <bibl corresp="#ed_s4h_t1b_5lb" rend="#i"><persName corresp="#ed_ghv_kvx_qlb">Doni</persName>, Annotaz. p. 6.</bibl>
           </note>
-          ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stoffen der chro-
+          ſtehet in den Gedancken: <hi rendition="#b">Daß es mit den Stuffen der chro-
             <lb />matiſchen Claviere eben ſo wenig, als mit der enharmoniſchen Ein-
             <fw place="bottom" type="catch">thei-</fw>
             <pb facs="#facs-p511" n="449" />
@@ -680,7 +772,7 @@
       <div n="11">
         <lb /><head>§. 11.</head>
         <lb /><p xml:id="p11-1">
-          <s xml:id="p11-1-s1">Andere habens anfnoch andre Arten vorgeſchlagen und eingetheilet; aber ich
+          <s xml:id="p11-1-s1">Andere habens auf noch andre Arten vorgeſchlagen und eingetheilet; aber ich
           <lb />ſage rund heraus, daß ich von allen dieſen Erfindungen ein gehorſamer Diener bin,
           <lb /><abbr>d.i.</abbr> nach dem heutigen Hof-Styl zu reden: ich halte gar nichts davon, und wenn
           <lb />ſie auch noch ſo vollkommen wären.</s> <s xml:id="p11-1-s2">Iſt doch unfern <term xml:id="t_vollkommenheit-1" corresp="#t_vollkommenheit">unvollkommenen</term> <term xml:id="t_gehoer-1" corresp="#t_gehoer">Ohren</term> nichts
@@ -799,7 +891,7 @@
               <lb />dendo in due parti il ſemituono maggiore. Fuori di detto genere enharmonico
               <lb />l'uſo del ſegno x è improprio ed inconveniente ſì per la figura che per lo effetto.
               <lb />Neppure ſi è pratticata eſſa Zifra x nel lavoro di Salmo 17, e d'altri per accreſce-
-              <lb />re la corda d'un ſemituono, dove a detta corda ſia obligato in chiave in chromatico
+              <lb />re la corda d'un ſemituono, dove a detta corda ſia obligato in chiave il chromatico
               <lb /># dieſis: imperciocchè ancora nel caſo ſteſſo malamente detto dieſis x enharmo-
               <lb />nico ſi uſurparebbe; non facendo allora di meſtieri che replicare il ſolito chroma-
               <lb />tico ♯ ſegno, Concioſiacchè effendo allora la cantilena traſportata da'i tuoni
@@ -891,7 +983,7 @@
           <lb />ſo gewohnt iſt, weil es auf eine Sache ankömmt, die nur zum geringſten Theil
           <lb />der Muſic gehöret, nehmlich zu den Zeichen.</s> <s xml:id="p17-1-s4">Allein es kömmt mir doch, mit Er-
           <lb />laubniß, deutlicher vor, wenn, <abbr>Z. E.</abbr> aus einem ♭ wieder ein h werden ſoll, daß man
-          <lb />h nicht ♯ dazu gebrauche.</s> <s xml:id="p17-1-s5">Denn, wenn ein ♯ fürs h ſtehet, bedeutet es eigent-
+          <lb />h und nicht ♯ dazu gebrauche.</s> <s xml:id="p17-1-s5">Denn, wenn ein ♯ fürs h ſtehet, bedeutet es eigent-
           <lb />lich c, und ſo mit den übrigen.</s> <s xml:id="p17-1-s6">Zwar, wer den Umkreiß der Ton-Art kennet, und
           <lb />den Zuſammenhang der Melodey, inſonderheit aber das vorhergehende und folgen-
           <lb />de betrachtet, der ſiehet leicht, was bey ſolcher Gelegenheit des Verfaſſers Meynung
@@ -953,11 +1045,11 @@
           <lb />das ♯ im Aufſteigen verliehret, wenn der Klang ſeinen natürlichen oder gewöhnli-
           <lb />chen Sitz wiederhaben ſoll, das kann auch billig dem ♭ im Herunterſteigen entzogen,
           <lb />und in dieſem Fall lieber das h genommen werden: weil bey beiden Vorfällen, ſo
-          <lb />wol im Steigen, als auch Fallen, der Endzweck einerley iſt, nemlich dieſer: Daß die
+          <lb />wol im Steigen als Fallen, der Endzweck einerley iſt, nemlich dieſer: Daß die
           <fw place="bottom" type="catch">Note</fw>
           <pb facs="#facs-p517" n="455" />
 
-          ihren vorigen alten und gewöhnlichen Sitz, es ſey fallend oder
+          Note ihren vorigen alten und gewöhnlichen Sitz, es ſey fallend oder
           <lb />ſteigend, wieder einnehmen ſoll.</s> <s xml:id="p20-1-s3">Daher es ein groſſer Irrthum iſt, wenn
           <lb />man lehret: Das h erhöhe, und das ♯ auch.</s> <s xml:id="p20-1-s4">Warum ſollten wir zwey Zeichen
           <lb />zum Erhöhen haben, da es eines beſtellen kann.</s> <s xml:id="p20-1-s5">Aber es verhält ſich nicht alſo; ſon-
@@ -977,8 +1069,9 @@
             <hi rendition="#aq"><foreign xml:lang="fra">
               <quote xml:id="brossard-quote" corresp="#corresp-quote-trans" xml:lang="fra">
                 <hi rendition="#i">Quadrato:</hi> c'eſt l'epithete qu'on donne au b, quand il eſt ſigne diatonique, ou na-
-                <lb />turel, &amp; figurè ainſi <hi rendition="#i">h</hi>, &amp; pour lors ſon effet eſt de remettre les corde alterées
-                <lb />par le dieze ou par le <hi rendition="#i">b</hi> mol, dans leur ſituation naturelle, &amp; de deſcendre d'un demi-
+                <lb />turel, &amp; figuré ainſi <hi rendition="#i">h</hi>, &amp; pour lors ſon effet eſt de remettre les cordes alterées
+                <lb />par le dieze ou par le <hi rendition="#i">b</hi> mol, dans leur ſituation naturelle, &amp; par conſequent de
+                <lb />hauſſer d'un demi-ton la note que le <hi rendition="#i">b</hi> mol aura baiſſé, &amp; de deſcendre d'un demi-
                 <lb />ton celle que le dieze aura hauſſé.
             </quote>
             <hi rendition="#i"><persName corresp="#ed_ewy_kxy_qlb">Broſſard</persName> dans ſon <bibl corresp="#ed_wh3_j5b_5lb">Diction. de Mus.</bibl>.</hi> Voy. auſſi 
@@ -1159,7 +1252,7 @@
           <lb />Kunſt erfordern; aber noch gröſſere, richtig und rein darauf zu ſpielen.</s> <s xml:id="p25-1-s4">Ich ſe-
           <lb />tze dieſe Muthmaſſungen deſwegen hieher, weil es wol ſeyn kann, daß derjenige,
           <lb />von dem der Bericht des Engeländiſchen Ertz-Claviers herkömmt, chromatiſche
-          <lb />genennet, und commatiſche gemeynet habe.</s> <s xml:id="p25-1-s5"><persName corresp="#ed_u1q_mlx_qlb">Werckmeiſter</persName> beſtimmet, in ſeiner
+          <lb />Taſten genennet, und commatiſche gemeynet habe.</s> <s xml:id="p25-1-s5"><persName corresp="#ed_u1q_mlx_qlb">Werckmeiſter</persName> beſtimmet, in ſeiner
           <lb /><bibl corresp="#ed_dbx_tvb_5lb">Temperatur</bibl>, zwantzig Theilgen; <persName corresp="#ed_g1w_hxy_qlb">Neidhardt</persName> aber ſechs mehr zu einer Octave,
           <lb />welches im gantzen Clavier, nach der erſten Art 80, und nach der andern 104. Ta-
           <lb />ſten betragen, einfolglich der obigen commatiſchen Eintheilung ſehr nahe treten
@@ -1288,9 +1381,9 @@
           <term xml:id="t_klavier-3" corresp="#t_klavier">Griff-Taffeln</term> gehalten haben:
           <lb />ungeachtet es das Anſehen gewinnet, als hätten ſie die rechte <term xml:id="t_temperatur-1" corresp="#t_temperatur">Temperatur</term> noch nicht
           <lb />getroffen.</s> <s xml:id="p28-1-s2"><hi rendition="#b"><persName corresp="#ed_rpk_l2y_qlb">Salin</persName></hi> hatte dreierley Wege, ſein Comma zu theilen, dabey denn hal-
-          <lb />be, dritten, viertel und ſiebtel herhalten muſten.</s> <s xml:id="p28-1-s3"><hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> aber blieb bei den ſieben Theilgen
+          <lb />be, dritten, viertel und ſiebtel herhalten muſten.</s> <s xml:id="p28-1-s3"><hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> aber blieb bey ſieben Theilgen
           <lb />allein, nach Maßgebung der ſieben diatoniſchen Stuffen.</s> <s xml:id="p28-1-s4">Jeder hat ſeine Urſachen,
-          <lb />und werden inſonderheit die Jrrthüber des <hi rendition="#b"><persName corresp="#ed_c1l_mhy_qlb">Glareans</persName></hi>,
+          <lb />und werden inſonderheit die Jrrthümer des <hi rendition="#b"><persName corresp="#ed_c1l_mhy_qlb">Glareans</persName></hi>,
           des <persName corresp="#ed_o3z_5hy_qlb">Ludwig <hi rendition="#b">Follians</hi></persName>, ei-
           <lb />nes <placeName>Modeniſchen</placeName> Muſici,
           <note place="foot" n="(*)">
@@ -1307,7 +1400,7 @@
             <bibl corresp="#ed_s4h_t1b_5lb">Annotaz. p. 11.</bibl>
           </note>
           ſagt: Es habe <hi rendition="#b"><persName corresp="#ed_jlh_wvy_qlb">Zarlin</persName></hi> von der Form und
-          <lb />von dem rechgten Weſen der Tone gar keine Wiſſenſchaft gehabt.</s> <s xml:id="p28-1-s6">Das mögte
+          <lb />von dem rechten Weſen der Tone gar keine Wiſſenſchaft gehabt.</s> <s xml:id="p28-1-s6">Das mögte
           <lb />mancher Wunder nehmen; und kann doch eben ſo wahr ſeyn, als daß heutiges Ta-
           <lb />ges die zwölfftel vom Commate, welche, nach Anlaß der zwölff chromatiſchen Stuf-
           <lb />fen, cdie Sache ins feine bringen ſollen, gleichfalls ihre Gegenſprecher finden.</s> <s xml:id="p28-1-s7">Wie
@@ -1365,7 +1458,7 @@
           ſondern leicht, ich weiß nicht
           <lb />mit welcher Art aufgeſetzter und beweglicher Claviere, zum Gehör und zur wirck-
           <lb />lichen Ausübung bringen könne.</s> <s xml:id="p29-1-s5">Allein, weil der gute und gelehrte Mann noch im-
-          <lb />mer mit Quart- und Viertel-commaten,ja mit gröbern Sachen handelt, mag ich
+          <lb />mer mit Quart- oder Viertel-commaten,ja mit gröbern Sachen handelt, mag ich
           <lb />ihm keinen Beifall geben, wenn er auch die logarythmiſche Rechnung beſſer, als
           <lb />der <persName corresp="#ed_u1q_mlx_qlb">Quedlinburgiſche Organiſt</persName> verſtünde;
           halte es hergegen zehnmal lieber mit
@@ -1393,7 +1486,7 @@
             <fw type="catch" place="bottom">Tem-</fw>
             <pb facs="#facs-p525" n="463"/>
             <term xml:id="t_temperatur-2" corresp="#t_temperatur">Temperatur</term> zufrieden iſt; ja, GOtt hat alles, was in der Natur iſt, in die
-            <lb />Temepratur geſetzt, warum wollten wir dieſelbe aus der Muſic ver-
+            <lb />Temperatur geſetzt, warum wollten wir dieſelbe aus der Muſic ver-
             <lb />bannen und verwerffen, zumahl es nicht anders ſeyn kann.
           </hi></s>
           <s xml:id="p30-1-s3">Der Hr.
@@ -1410,7 +1503,7 @@
             <lb />maticae</hi>, zum Grunde ſetzen muß.</s>
           </hi>
           <s xml:id="p30-1-s6">Wann dieſes alſo wahr und feſt iſt, wie es denn
-          <lb />die erfahreneſten Temepratur-Meiſter wahr und feſt befinden: Mein! Was ſoll denn
+          <lb />die erfahreneſten Temperatur-Meiſter wahr und feſt befinden: Mein! Was ſoll denn
           <lb />das <sic>Koffbrechen</sic> der Algebraiſten helffen, die durch ihre vermeynte Reinigkeit nur
           <lb />alles deſto unreiner hervorbringen?</s>
         </p>
@@ -1441,12 +1534,12 @@
             <pb facs="#facs-p526" n="464" />
 
             <lb />tuoſen ſey ihrer kaum werth, und laſſen ſichs daher recht ſauer werden, vor allen andern hervorzuragen.</s>
-            <lb /><s xml:id="p31-1-s7">Dieſe Organiſten überhäufften ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, <term xml:id="t_generalbass-3" corresp="#t_generalbass">verbrämen</term>
+            <lb /><s xml:id="p31-1-s7">Dieſe Organiſten überhäuffen ihre vorgeſchrieben Bäſſe mit vielen krummen Sprüngen, <term xml:id="t_generalbass-3" corresp="#t_generalbass">verbrämen</term>
             <lb />alles hinten und vorn, und bringen hunderterley Dinge an, die vielleicht an und für ſich ſelbſt ſehr
             <lb />ſchön ſind, aber dennoch zur Unzeit kommen, und dem <term xml:id="t_konzert-2" corresp="#t_konzert">Concert</term> überaus ſchädlich fallen, indem ſie
             <lb />ſolchen Umſtänden zu nichts anders dienen, als die Kunſt-reiche Ruhmſucht und Eitelkeit des Spielers
-            <lb />zu bezeugen.</s> <s xml:id="p31-1-s8">Wer demnach in einem Concert ſpielet, muß es ſo machen, da0 er der gantzen Verſamm-
-            <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, da0 nur er allein den Preiß davon trage.</s> <s xml:id="p31-1-s9">Denn,
+            <lb />zu bezeugen.</s> <s xml:id="p31-1-s8">Wer demnach in einem Concert ſpielet, muß es ſo machen, daß er der gantzen Verſamm-
+            <lb />lung zur Ehre und zum Vergnügen gereiche; nicht aber, daß nur er allein den Preiß davon trage.</s> <s xml:id="p31-1-s9">Denn,
             <lb />wenn ein jeder bloß für ſich, und um ſein ſelbſt willen, ſpielet, ſo iſt es kein Concert mehr.</s>
           </quote>
         </p>

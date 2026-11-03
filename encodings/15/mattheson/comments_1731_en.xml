@@ -263,15 +263,11 @@
         <notatedMusic xml:id="aria-bottari">
           <ptr target="aria-bottari.xml" />
         </notatedMusic>
-      </div>
-
-      <div n="9">
-        <head>§. 9.</head>
-        <p xml:id="p9-1">
-          <s corresp="comments_1731.xml#p9-1-s1">It is to be
+        <p xml:id="p8-2">
+          <s corresp="comments_1731.xml#p8-2-s1">It is to be
           noted that <hi rendition="#b">C minor</hi> and <hi rendition="#b">F minor etc.</hi>
           have the same scope, modulating unexpectedly to
-          <hi rendition="#b">D-sharp minor</hi> and <hi rendition="#b">G-sharp minor</hi>.</s> <s corresp="comments_1731.xml#p9-1-s2">It is nice
+          <hi rendition="#b">D-sharp minor</hi> and <hi rendition="#b">G-sharp minor</hi>.</s> <s corresp="comments_1731.xml#p8-2-s2">It is nice
           to see an algebraist organist stumble in it.</s>
         </p>
       </div>
