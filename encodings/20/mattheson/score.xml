@@ -49,6 +49,62 @@
             <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
           </bibl>
         </source>
+        <!-- Copies of the print of 1731, and its later printing, that the readings below cite where
+             they differ from one another (README.md, "Variants of the music") -->
+        <source xml:id="copy-D-Mbs-978a" type="copy">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <date>1731</date>
+            <corpName role="repository">Bayerische Staatsbibliothek</corpName>
+            <settlement>München</settlement>
+            <identifier type="shelfmark">Mus.th. 978 a</identifier>
+            <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
+            <annot>The copy of the print of 1731 that the edition follows and whose page images it shows.</annot>
+          </bibl>
+        </source>
+        <source xml:id="copy-D-Mbs-978" type="copy">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <date>1731</date>
+            <corpName role="repository">Bayerische Staatsbibliothek</corpName>
+            <settlement>München</settlement>
+            <identifier type="shelfmark">4 Mus.th. 978</identifier>
+            <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598494-2</identifier>
+          </bibl>
+        </source>
+        <source xml:id="copy-A-Wn" type="copy">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <date>1731</date>
+            <corpName role="repository">Österreichische Nationalbibliothek</corpName>
+            <settlement>Wien</settlement>
+            <identifier type="shelfmark">ZMUS MAG 391602-B</identifier>
+            <identifier type="URI">http://data.onb.ac.at/ABO/%2BZ136684000</identifier>
+          </bibl>
+        </source>
+        <source xml:id="copy-PL-Wn" type="copy">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <date>1731</date>
+            <corpName role="repository">Biblioteka Narodowa</corpName>
+            <settlement>Warszawa</settlement>
+            <identifier type="shelfmark">Mus.I.235</identifier>
+            <identifier type="URI">https://polona.pl/item-view/c212a376-2bb2-4be7-9238-388448ca3010</identifier>
+          </bibl>
+        </source>
+        <source xml:id="secondEditionReprint" type="reprint">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <corpName role="publisher">Kißner</corpName>
+            <pubPlace>Hamburg</pubPlace>
+            <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+              in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+            <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+            <settlement>Hamburg</settlement>
+            <identifier type="shelfmark">MS 163/2b</identifier>
+            <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+          </bibl>
+        </source>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -2009,6 +2065,17 @@
                   </beam>
                 </layer>
               </staff>
+              <!-- in 1719 and in the copy of 1731 that the edition follows; lost in the other copies -->
+              <app type="copies">
+                <lem source="#firstEdition #copy-D-Mbs-978a">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#copy-D-Mbs-978 #copy-A-Wn #copy-PL-Wn #secondEditionReprint" />
+              </app>
               <harm place="above" staff="2" tstamp="2">
                 <fb>
                   <f>6</f>

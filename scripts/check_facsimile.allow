@@ -22,8 +22,6 @@ encodings/4/mattheson/score.xml: pb-canvas n=310 #facs-p382
 # No. 8, 1719: pp. 138 and 139 are printed 136 and 137.
 encodings/8/mattheson/score.xml: pb-canvas n=136 #facs-p312
 encodings/8/mattheson/score.xml: pb-canvas n=137 #facs-p313
-# No. 7, 1731 commentary: p. 338 is printed 318.
-encodings/7/mattheson/comments_1731.xml: pb-canvas n=318 #facs-p400
 
 # --- Surfaces outside the Prob-Stück, kept as encoded -----------------------------
 # The encoders listed one or two pages of the preceding piece; nothing points
