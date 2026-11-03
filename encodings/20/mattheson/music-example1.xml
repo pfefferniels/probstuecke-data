@@ -46,6 +46,19 @@
                         <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
                     </bibl>
                 </source>
+                <source xml:id="secondEditionReprint" type="reprint">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+                          in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+                        <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+                        <settlement>Hamburg</settlement>
+                        <identifier type="shelfmark">MS 163/2b</identifier>
+                        <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+                    </bibl>
+                </source>
             </sourceDesc>
         </fileDesc>
     </meiHead>
@@ -63,6 +76,19 @@
                         </staffGrp>
                     </scoreDef>
                     <section>
+                        <!-- B (later printing): no key signature (given as a key signature of none, since the keySig of the first scoreDef cannot stand in an app) -->
+                        <app type="reprint">
+                            <lem source="#secondEdition" />
+                            <rdg source="#secondEditionReprint">
+                                <scoreDef>
+                                    <staffGrp>
+                                        <staffDef n="1">
+                                            <keySig sig="0" />
+                                        </staffDef>
+                                    </staffGrp>
+                                </scoreDef>
+                            </rdg>
+                        </app>
                         <choice>
                             <orig />
                             <reg resp="#pfeffer">

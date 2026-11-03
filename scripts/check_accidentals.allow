@@ -17,3 +17,9 @@ encodings/24/mattheson/music-example1.xml: ex-n9z96h3
 # cautionary accidentals the rules suggest cannot be supplied, and the file
 # has no modernised view.
 encodings/4/jcd/score.xml: *
+
+# --- No. 15, aria, bar 85: the later printing of 1731 ---------------------------
+# The later printing (#secondEditionReprint) sets the whole note a step higher, as
+# f'' with the flat still before it; in that reading the f'' of bar 86 would want a
+# courtesy natural, which the later printing does not print either.
+encodings/15/mattheson/aria-bottari.xml: note-0000001778250400
