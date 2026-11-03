@@ -135,6 +135,26 @@
             </div>
 
             <div>
+                <head>Readings of the Later Printing of 1731</head>
+
+                <p>
+                    The print of 1731 was set a second time, without a new date (SUB Hamburg, MS 163/2b). Where the
+                    wording of this later printing differs from the first, which the transcription follows, the place
+                    is an <gi>app</gi> with <att>type</att> <val>reprint</val>: <gi>lem</gi> holds the first
+                    printing's text, <gi>rdg</gi> the later printing's (empty where it has nothing, and an empty
+                    <gi>lem</gi> marks words that only the later printing has). Both name their printing with
+                    <att>wit</att>, pointing to the <gi>witness</gi>es that <gi>listWit</gi> declares in the
+                    <gi>sourceDesc</gi>: <code>#secondEdition</code> (the first printing) and
+                    <code>#secondEditionReprint</code> (the later one). The reading of the later printing gives only
+                    the words that differ, in its spelling; its line breaks are not recorded.
+                </p>
+
+                <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                    <s>Es iſt aber unſre <app type="reprint"><lem wit="#secondEdition">Sang-Regel</lem><rdg wit="#secondEditionReprint">Regel</rdg></app> nicht ſo zu verſtehen</s>
+                </egXML>
+            </div>
+
+            <div>
                 <head>Index of Terms</head>
 
                 <p>
@@ -167,7 +187,8 @@
                 <moduleRef key="linking" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
                 <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository typeDesc"/>
                 <moduleRef key="namesdates" include="addName country forename genName nameLink orgName persName placeName roleName surname"/>
-                <moduleRef key="textcrit" include=""/><!-- @include remains empty because we only want to select attributes from that class (not elements) -->
+                <!-- customization: added app, lem and rdg (with listWit and witness to declare the printings) for the readings of the later printing of 1731 -->
+                <moduleRef key="textcrit" include="app lem rdg listWit witness"/>
                 <!-- customization: added facsimile, surface and zone -->
                 <!-- customization: added surplus for words repeated by mistake in the print -->
                 <moduleRef key="transcr" include="facsimile surface zone fw metamark space subst supplied surplus"/>
