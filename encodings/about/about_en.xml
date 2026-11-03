@@ -157,8 +157,8 @@
         <p>
           The facsimile shows the score page by page on the left, as large as the screen allows, and the pages of the
           commentary on the right. Where the paragraphs of the commentary and the bars of the score are marked on the
-          pages (so far in the 1731 print of Probstücke 1 to 21), the bars that the commentary refers to are tinted:
-          point at a paragraph to see the bars it refers to (the score turns to their page; the numbers of the pages
+          pages (so far in the 1731 print of Probstücke 1 to 21), the paragraphs that refer to bars and the bars they
+          refer to have a dotted frame: point at a paragraph to see the bars it refers to (the score turns to their page; the numbers of the pages
           with such bars are underlined), or at a bar to see the paragraphs about it; click a bar to bring the first of
           them into view. On a touch screen, tap instead of pointing. Where there are no page images yet, the
           transcription is shown as printed.
