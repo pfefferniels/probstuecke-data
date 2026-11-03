@@ -11,6 +11,7 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 - The main language of every TEI file is declared in the file itself, not only in its name: as `@xml:lang` on the root and in `<profileDesc><langUsage>`, with the three-letter codes of ISO 639-3 that the DTA Base Format prescribes (`deu`, `eng`, `fra`); the lessons of Hill on Nos. 3 and 4, which switch between German and English, list both. The customisation of the DTA Base Format keeps `@xml:lang` on `<TEI>` for this
 - An English translation of Dijoux's French notes on his realisation of No. 4 (`4/jcd/comments_en.xml`, `ps4-006` in `works.xml`), aligned sentence by sentence with the French, whose sentences are now encoded as `<s xml:id="p0-1-s1">`; the German and Latin words in both are marked as such; drafted with a large language model and checked by Niels Pfeffer, as its `<revisionDesc>` records
 - Readings of single copies of the print of 1731 in the music: four copies have been compared in the Ober-Classe (Bayerische Staatsbibliothek, Mus.th. 978 a and 4 Mus.th. 978; Österreichische Nationalbibliothek, ZMUS MAG 391602-B; Biblioteka Narodowa, Mus.I.235), and the later, undated printing of 1731 (SUB Hamburg, MS 163/2b), set anew from it. The scores of Nos. 8 and 20 declare them as `<source>`s and give the two places where the copies differ in an `<app type="copies">`; the README describes the encoding, the About page the printings and the copies, with page images of both places
+- Readings of the later printing of 1731 (SUB Hamburg, MS 163/2b) in the music: the Ober-Classe was collated staff by staff against the first printing, and 49 places in Nos. 3, 5, 6, 9–13, 15, 16, 18, 20, 22 and 23 are given in `<app type="reprint">` (lem: the first printing; rdg: `#secondEditionReprint`), mostly figures, also accidentals, rests, dots, slurs, a trill and tempo words; every music file concerned declares the later printing as `<source>`. `collation/reprint_1731_music.tsv` records every difference found, with the reason why some are not encoded (custodes, key signatures at the beginnings of lines, beaming, the order of stacked figures, damaged type)
 
 ### Changed
 
@@ -30,6 +31,9 @@ Notable changes to the encodings. Each version corresponds to a tagged release o
 - No. 20, bar 31: the figure 6 over the first note, which the print of 1719 and the copy of 1731 that the edition follows have, was missing in both prints
 - No. 7, 1731: the page break before the Erläuterung is p. 338, as printed (it was given as 318, taken for a misprint); `check_facsimile.allow` no longer lists it
 - No. 15, 1731, §. 6: "z. E." (as printed) instead of "z.B."
+- No. 12, bars 32 (beat 3) and 33 (beat 2): the 1731 print has 6/4/3 (both copies of the BSB); the encoding had 6/4/2, the reading of 1719 and of the later printing of 1731, which is now given as theirs
+- No. 22, music example 2, bars 33–35: the four slurs of the 1731 print were missing
+- No. 24, bar 18: the dot of the last b♭ is given as a reading of the copies that print it (BSB 4 Mus.th. 978 and the later printing); Mus.th. 978 a and the copies in Vienna and Warsaw lack it
 
 ## 1.0.0 (2026-10-27)
 

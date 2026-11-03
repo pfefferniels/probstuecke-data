@@ -1,0 +1,73 @@
+# Differences in the music between the first printing of 1731 (A: BSB München, Mus.th. 978 a) and the later, undated
+# printing (B: SUB Hamburg, MS 163/2b, VD18 12997536), Ober-Classe, Nos. 1–24, collated staff by staff in November 2026.
+# Pages: A and B as printed. "where": the place in the encoding (file, bar), or in the print where the encoding has no bar.
+# status: "encoded" = an <app> whose rdg names #secondEditionReprint; "not encoded" with the reason.
+# certainty: certain, or probable where B's type is damaged or the place lies in the gutter of the Hamburg copy.
+No.	A p.	B p.	where	A (first printing)	B (later printing)	status	certainty
+1	303	291	line end	custos in the bottom space (the first note of the next line)	custos in the third space	not encoded: custodes are not encoded	certain
+2	312	300	line end	"&c." below the staff	not visible	not encoded: text at the line end; may lie in the gutter	probable
+3	317	305	score.xml, bar 51	figure ♮7 over ♭5	♮5 over ♭7	encoded	certain
+3	319	306	score.xml	figure 6 over 5	5 over 6	not encoded: order of the stacked figures only	certain
+4	321	308	score.xml	figure 6 over 4	4 over 6	not encoded: order of the stacked figures only	certain
+4	321	308	line end	custos on the fourth line (the first note of the next line)	custos on the third line	not encoded: custodes are not encoded	certain
+4	322	309	score.xml	♯ before the quarter note in the third space	the ♯ printed a space higher, before no note	not encoded: misplaced sort in B	certain
+4	322	309	score.xml	figure 7 over ♯	♯ over 7	not encoded: order of the stacked figures only	certain
+4	321	308	score.xml	figure "6-" (with a dash)	"6"	not encoded: typographic	probable
+5	326	312	score.xml, bar 1	tempo word "Presto,"	none	encoded	certain
+6	331	317	score.xml, bar 19	figure 6 over the third note	none	encoded	certain
+8	340	326	score.xml, bar 3	c′ (also BSB 978 a and Vienna); b in BSB 4 Mus.th. 978 and Warsaw	b	encoded (app type="copies")	certain
+8	342	328	line end	custos on the bottom line (the first note of the next line)	custos on the middle line	not encoded: custodes are not encoded	certain
+9	346	331	score.xml, bar 3	figure 6	6 with a stroke (raised sixth)	encoded	probable
+9	346	332	score.xml, bar 6	figure 6 on beat 4 (over a♮)	figure 6 on the second sixteenth of beat 3 (over a♭)	encoded	certain
+9	347	332	score.xml, bar 17	figure ♭6	♭5	encoded	certain
+9	347	333	score.xml, bar 32	figure 6 over the first note	none	encoded	certain
+10	352	337	score.xml, bar 5	figure ♭	none	encoded	certain
+10	352	338	score.xml, bar 19	figure ♭7	♭5	encoded	certain
+10	353	339	score.xml	♭ in the staff	the same sort upside down	not encoded: typographic	probable
+10	354	339	score.xml, bar 61	figure 7	6	encoded	certain
+10	355	340	music-example1.xml, bar 47	dotted chord	no dot	encoded	certain
+10	356	341	score.xml	beam over notes 1–2 of three eighths	beam over all three	not encoded: beaming only	certain
+10	357	342	score.xml	key signature at the line start with the octave doublings (5 signs)	3 signs (same key)	not encoded: key signatures at line starts are not encoded	certain
+10	357	343	score.xml	key signature at the line start, 5 signs	3 signs (same key)	not encoded: key signatures at line starts are not encoded	certain
+10	357	343	aria-marcello.xml, bar 57	eighth rest after the note	none	encoded	certain
+11	360	345	score.xml, bar 8	figure 6 over 4	4	encoded	certain
+11	360	346	score.xml	key signature at the line start	flats set one position higher	not encoded: key signatures at line starts are not encoded	probable
+11	361	346	score.xml	key signature at the line start with A♭ on the middle line	A♭ missing, the lowest flat doubled	not encoded: key signatures at line starts are not encoded	certain
+12	366	351	score.xml, bar 6	figure 5 on beat 2.5	6	encoded	certain
+12	366	351	score.xml, bar 6	6 over the first note and 6/4 over the third of beat 3	6/4 over the first note	encoded	certain
+12	366	351	score.xml, bar 14	figure 6/4	6/6	encoded	certain
+12	367	352	score.xml, bar 25	figure ♭	6	encoded	certain
+12	367	352	score.xml, bar 26	figure ♮	none	encoded	certain
+12	368	353	score.xml, bars 32 and 33	figure 6/4/3 (the encoding had 6/4/2, the reading of 1719)	6/4/2	encoded (app with 1719)	certain
+12	368	353	score.xml, bar 35	figure 6/4	4	encoded	certain
+13	372	356	score.xml, bar 1	tempo word "Con Spirito."	none	encoded	certain
+13	376	360	music-example3.xml, bar 1	no ♭ before the second and third e♭″	♭ before both	encoded	certain
+15	388	372	aria-bottari.xml, bars 13 and 14	whole-bar rests	half rests	encoded	certain
+15	390	373	line end	custos on the third line (the first note of the next line)	custos on the second line	not encoded: custodes are not encoded	certain
+15	391	375	aria-bottari.xml, bar 85	e♭″ tied to the next note	f♭″, no tie	encoded	certain
+16	392	376	score.xml, bar 17	no accidental (the errata ask for a ♮)	♮	encoded	certain
+16	393	376	score.xml, bar 30	figure 6	8	encoded	probable
+18	408	391	music-example1.xml, bar 84	♯ before the first note	none	encoded	certain
+20	414	396	score.xml, bar 7	no figure	figure 6 over e	encoded	certain
+20	414	397	score.xml	figure 7	a blot	not encoded: probably damaged type	probable
+20	416	399	score.xml, bar 31	figure 6 (also BSB 978 a); none in BSB 978, Vienna, Warsaw	none	encoded (app type="copies")	certain
+20	416	399	score.xml, bar 35	figure 6	none	encoded	certain
+20	417	400	music-example1.xml	key signature of two sharps	none	encoded	certain
+20	420	402	music-example7.xml, bar 45	one rest in the bass	two rests (B's bar is a beat too long)	encoded	certain
+22	426	408	score.xml, bar 10	figure 6/4	none	encoded	certain
+22	427	408	score.xml, bar 28	figure 6	none	encoded	certain
+22	428	409	score.xml, bar 49	♯ before the last note	none	encoded	certain
+22	428	409	score.xml, bar 51	figure 6/4	4	encoded	certain
+22	428	410	music-example1.xml, bars 15 and 16	eighth rests	none	encoded	certain
+22	429	410	music-example2.xml, bars 33–35	four slurs (missing in the encoding until now)	none	encoded	certain
+22	429	410	music-example2.xml, bar 36	"tr"	none	encoded	certain
+22	429	410	music-example2.xml, bar 37	eighth rest after the last note	none	encoded	probable
+22	429	411	score.xml	quarter rest with its lower hook	the same rest without the hook	not encoded: damaged type	probable
+23	430	411	score.xml	figure like a small 0	6	not encoded: probably a damaged 6 in A	probable
+23	430	412	score.xml, bar 14	figure 3	4	encoded	probable
+23	430	412	score.xml, bar 20	figure ♯	none	encoded	certain
+23	431	413	score.xml, bar 34	quarter b and one eighth rest (encoded with two)	dotted quarter and one eighth rest	encoded	certain
+23	431	413	score.xml, bar 35	no dot (supplied by the editors)	dot	encoded	probable
+23	431	413	score.xml	figure 6 over a blot	6/4	not encoded: probably damaged type in A	probable
+24	434	416	score.xml, bar 18	no dot (also Vienna, Warsaw); dot in BSB 4 Mus.th. 978	dot	encoded (app type="copies")	certain
+24	438	419	score.xml	a blot where the figure stands	6	not encoded: probably damaged type in A	probable
