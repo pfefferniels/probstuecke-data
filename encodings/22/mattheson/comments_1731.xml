@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -150,7 +154,7 @@
           deſſen Bedeutung bekannt
           <lb />iſt,<note type="editorial" resp="#pfeffer">vgl. Probstück 5</note>
           und wo <ref target="#tutti-1 #tutti-2 #tutti-3 #tutti-4"><hi rendition="#aq">Tutti</hi></ref> eintritt,
-          da gehet es u&#x0364;ber alles, was nur wol klingt.</s> <s xml:id="p3-1-s2"><ref target="#measure-0000000574431491">Nach dem
+          da gehet es u&#x0364;ber alles, was nur wol <app type="reprint"><lem wit="#secondEdition">klingt</lem><rdg wit="#secondEditionReprint">kling</rdg></app>.</s> <s xml:id="p3-1-s2"><ref target="#measure-0000000574431491">Nach dem
           <lb />Schluß des erſten Theils</ref> fa&#x0364;nget die rechte Hand abermahl zu moduliren an, wovon
           <lb />dieſes ein Muſter ſeyn mag:</s>
 

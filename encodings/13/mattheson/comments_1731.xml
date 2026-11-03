@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -147,7 +151,7 @@
           <lb/>leicht nimmer, oder doch ſelten, geſehen haben, und ſich dannenhero, wenn er ihnen
           <lb/>einmahl unvermuthet begegnen ſolte, ein wenig fuͤrchten moͤgten.</s> <s xml:id="p2-1-s2">Es heiſſet zwar:
           <lb/><hi rendition="#b">Man ſoll ohne Noht die zu einer Wiſſenſchafft gehoͤrigen Dinge nicht
-          <lb/>vermehren oder verdoppeln</hi>, und mag jener alte erfahrne <hi rendition="#aq"><foreign xml:lang="lat">Muſicus</foreign></hi> nicht un-
+          <lb/>vermehren oder verdoppeln</hi>, <app type="reprint"><lem wit="#secondEdition">und</lem><rdg wit="#secondEditionReprint">u.</rdg></app> mag jener alte erfahrne <hi rendition="#aq"><foreign xml:lang="lat">Muſicus</foreign></hi> nicht un-
           <lb/>recht geſagt haben: <hi rendition="#b">Es ſey eine groſſe Thorheit, diejenige Melodie, wel-</hi>
           <fw place="bottom" type="catch">che</fw>
           <pb n="375" facs="#facs-p437"/>
@@ -281,7 +285,7 @@
       <div n="9">
         <lb/><head>§. 9.</head>
         <p xml:id="p9-1" facs="#facsZone-p9-1">
-          <lb/><s xml:id="p9-1-s1">Dieſes <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>, ob es gleich nur zweiſtimmig ausſiehet, iſt dennoch im Grunde vierſtimmig, und
+          <lb/><s xml:id="p9-1-s1"><app type="reprint"><lem wit="#secondEdition">Dieſes</lem><rdg wit="#secondEditionReprint">Dieſer</rdg></app> <hi rendition="#aq"><foreign xml:lang="ita">Harpeggio</foreign></hi>, ob es gleich nur zweiſtimmig ausſiehet, iſt dennoch im Grunde vierſtimmig, und
           <lb/>klingt bey der Geſchwindigkeit ſo voll, als ſonſt acht Stimmen, bey geraden oder ſchlechten Griffen, nicht
           <lb/>thun koͤnnen.</s> <s xml:id="p9-1-s2">Man bringe es aber nirgend an, als wo der Baß entweder allein, oder zu einem ſtarcken
           <lb/>Satz ſpielet.</s>

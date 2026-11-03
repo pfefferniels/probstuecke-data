@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -172,12 +176,12 @@
           <lb/>Art veraͤndert, in Anſehung der Melodie, ſo ſetzt man gerne die erforderte Ziefern auf
           <lb/>das deutlichſte daruͤber; wo nicht, koͤnnen deren einige mit allem Rechte wegblei-
           <lb/>ben, indem der Spieler die Bewandniß und Natur ſeines Tones kennen muß,
-          <lb/>auſſer welcher hier ſonſt nichts geſuchet wird.</s> <s xml:id="p4-1-s4">Unter uns geſagt, will ich doch ſo
+          <lb/>auſſer welcher hier ſonſt <app type="reprint"><lem wit="#secondEdition">nichts</lem><rdg wit="#secondEditionReprint">nicht</rdg></app> geſuchet wird.</s> <s xml:id="p4-1-s4">Unter uns geſagt, will ich doch ſo
           <lb/>viel Licht geben, daß zu der
-          <ref target="#note-0000000910720915">fuͤnfften Note</ref>, im zweiten Tact des erwehnten andern
+          <ref target="#note-0000000910720915"><app type="reprint"><lem wit="#secondEdition">fuͤnfften</lem><rdg wit="#secondEditionReprint">5ten</rdg></app> Note</ref>, im <app type="reprint"><lem wit="#secondEdition">zweiten</lem><rdg wit="#secondEditionReprint">2ten</rdg></app> Tact des erwehnten andern
           <lb/>Theils, die groſſe Quart (4+) gehoͤret, und zwar zur Vermeidung einer ſogenann-
           <lb/>ten <term xml:id="t_querstand-1" corresp="#t_querstand">falſchen Relation</term> oder Klang-Folge in verſchiedenen Stimmen, kurtz auf ein-
-          <lb/>ander, die allhier zwiſchen dem bloſſen <hi rendition="#b">g</hi> und dem ein <hi rendition="#b">b</hi> vor
+          <lb/>ander, die <app type="reprint"><lem wit="#secondEdition">allhier</lem><rdg wit="#secondEditionReprint"/></app> zwiſchen <app type="reprint"><lem wit="#secondEdition">dem</lem><rdg wit="#secondEditionReprint">den</rdg></app> bloſſen <hi rendition="#b">g</hi> und dem ein <hi rendition="#b">b</hi> vor
           ſich habenden <hi rendition="#b">g</hi> ent-
           <lb/>ſtehen wuͤrde.
           <note type="editorial" resp="#pfeffer">Mattheson scheint hier seinen eigenen hohen Bassschluͤssel
@@ -189,7 +193,7 @@
         <lb/><head>§. 5.</head>
         <p xml:id="p5-1" facs="#facsZone-p5-1">
           <lb/><s xml:id="p5-1-s1">Wenn auch im
-          <ref target="#measure-0000000699331102">fuͤnfften Tact des zweiten Theils</ref> eine
+          <ref target="#measure-0000000699331102"><app type="reprint"><lem wit="#secondEdition">fuͤnfften</lem><rdg wit="#secondEditionReprint">5ten</rdg></app> Tact des zweiten Theils</ref> eine
           <ref target="#fb-1">Sext</ref>
           uͤber <ref target="#note-0000000305001791">der letzten
           <lb/>Note des dritten Viertels</ref>
@@ -216,7 +220,7 @@
           <lb/>Gaͤngen und Spruͤngen habe nur anmercken wollen, daß weiter keine Kuͤnſte da-
           <lb/>zu erfordert werden, als bloß dieſe; daß man zu jedem Viertel einen eintzigen Schlag
           <lb/>thut, ſo wie ihn entweder die Natur und Eigenſchafft des Tons, oder auch die uͤ-
-          <lb/>bergeſetzte Bezeichnungen, an die Hand geben.</s> <s xml:id="p6-2-s2">Es iſt aber wol zu verſtehen, daß
+          <lb/>bergeſetzte Bezeichnungen, an die Hand geben.</s> <s xml:id="p6-2-s2">Es iſt <app type="reprint"><lem wit="#secondEdition">aber</lem><rdg wit="#secondEditionReprint">zwar</rdg></app> wol zu verſtehen, daß
           <lb/>dieſer eintzige Schlag zur erſten Note eines jeden Viertels, und ſonſt zu keiner von den
           <lb/>dreyen uͤbrigen, geſchehen muͤſſe.</s>
         </p>
@@ -232,18 +236,18 @@
           <pb n="370" facs="#facs-p432"/>
           <lb/>Theils</ref>
           dieſes Prob-Stuͤckes, nicht weniger den
-          <ref target="#measure-0000001984106098">zwey und zwantzigſten</ref>, auch den
-          <lb/><ref target="#measure-0000000443751460">drey und zwantzigſten Tact</ref> deſſelben Theils mit
+          <ref target="#measure-0000001984106098"><app type="reprint"><lem wit="#secondEdition">zwey und zwantzigſten</lem><rdg wit="#secondEditionReprint">22ſten</rdg></app></ref>, auch den
+          <lb/><ref target="#measure-0000000443751460"><app type="reprint"><lem wit="#secondEdition">drey und zwantzigſten</lem><rdg wit="#secondEditionReprint">23ſten</rdg></app> Tact</ref> deſſelben Theils mit
           Fleiß mercken, damit es an ſol-
           <lb/>chen Stellen, wegen der uͤberſtehenden Ziefern, ſeine voͤllige Richtigkeit erhalte.</s>
-          <lb/><s xml:id="p7-1-s2">Jnſonderheit beliebe man, bey einer <term xml:id="t_probe-1" corresp="#t_probe">Probe</term>, auf den dritten Tact vor dem Schluſ-
+          <lb/><s xml:id="p7-1-s2">Jnſonderheit beliebe man, bey einer <term xml:id="t_probe-1" corresp="#t_probe">Probe</term>, auf den <app type="reprint"><lem wit="#secondEdition">dritten</lem><rdg wit="#secondEditionReprint">3ten</rdg></app> Tact vor dem Schluſ-
           <lb/>ſe ſcharff aufzupaſſen, und wenn es da nicht ſtocket oder an ein <term xml:id="t_stolpern-1" corresp="#t_stolpern">Stolpern</term> gehet,
           <lb/>den Spieler zu loben.</s> <s xml:id="p7-1-s3">Bey der allererſten Note des angezeigten Tacts wird es
-          <lb/>vermuthlich etwas weniges ins Stecken gerathen: ich weiß es aus der Erfahrung;
+          <lb/><app type="reprint"><lem wit="#secondEdition">vermuthlich</lem><rdg wit="#secondEditionReprint">vermuthl.</rdg></app> etwas weniges ins Stecken gerathen: ich weiß es aus der Erfahrung;
           <lb/>und wenn andre dieſelbe um Rathfragen, werden ſie die Angabe wahr befinden.</s>
-          <lb/><s xml:id="p7-1-s4">Jndeſſen ſind gleichwol die Vorfaͤlle ſo natuͤrlich angebracht, und alle von der Be-
+          <lb/><s xml:id="p7-1-s4">Jndeſſen ſind gleichwol die Vorfaͤlle ſo <app type="reprint"><lem wit="#secondEdition">natuͤrlich</lem><rdg wit="#secondEditionReprint">natuͤrl.</rdg></app> angebracht, <app type="reprint"><lem wit="#secondEdition">und</lem><rdg wit="#secondEditionReprint">u.</rdg></app> alle von der Be-
           <lb/>ſchaffenheit uͤberhaupt, daß, wenn man verſtaͤndigen Leuten nur einmahl ſagt, wor-
-          <lb/>an es hie und da liegt, ſo begreiffen ſie es gleich und gar leicht; wenn einige nur als-
+          <lb/>an es hie <app type="reprint"><lem wit="#secondEdition">und</lem><rdg wit="#secondEditionReprint">u.</rdg></app> da liegt, ſo begreiffen ſie es gleich und gar leicht; wenn einige nur als-
           <lb/>denn bekennen wollten, daß ſie es zuvor nicht recht eingeſehen und gantz anders ver-
           <lb/>ſtanden haͤtten.</s> <s xml:id="p7-1-s5">Die es koͤnnen und wiſſen, denen wird hier nichts vorgeſchrieben.</s>
         </p>
@@ -260,7 +264,7 @@
           <lb/>General-Baſſiſt nothwendig auch in dieſer Ton-Art, wenn ſie gleich nicht zum
           <lb/>Grunde ſtehen, ſondern nur, als eine Anverwandtinn, herbeigefuͤhret werden ſollte,
           <lb/>wol beſchlagen ſeyn muß.</s> <s xml:id="p8-1-s2">Man beſehe und unterſuche nur noch einmahl die vor-
-          <lb/>hin, auf der 356ſten Seite, angefuͤhrte <persName corresp="#ed_tj3_cwx_qlb">Marcelliſche</persName>
+          <lb/>hin, auf der <app type="reprint"><lem wit="#secondEdition">356ſten</lem><rdg wit="#secondEditionReprint">341ſten</rdg></app> Seite, angefuͤhrte <persName corresp="#ed_tj3_cwx_qlb">Marcelliſche</persName>
           Arie, ſo wird ſich die Wahrheit
           <lb/>des geſagten von ſelbſt erweiſen.</s>
         </p>

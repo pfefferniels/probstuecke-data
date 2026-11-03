@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -154,7 +158,7 @@
               da ſpringet man immer<lb/>
               Accord-Weiſe in der rechten Hand mit, und faͤngt von der Tertz an.</s> <s xml:id="p2-1-s2">Bey dem<lb/>
               <ref target="#m-269">ſechsten Tact</ref> wolle man mercken, daß die
-              <hi rendition="#aq">pag. 307.</hi> angefuͤhrte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> mit<lb/>
+              <hi rendition="#aq">pag. <app type="reprint"><lem wit="#secondEdition">307.</lem><rdg wit="#secondEditionReprint">295.</rdg></app></hi> angefuͤhrte <term xml:id="t_arpeggio-1" corresp="#t_arpeggio">Brechung</term> mit<lb/>
               Sexten in der rechten Hand, folgender Geſtalt angebracht werden koͤnne:</s><lb/>
             </p>
             <notatedMusic xml:id="music-example1" facs="#facsZone-music-example1">
@@ -288,7 +292,7 @@
             <p xml:id="p8-1" facs="#facsZone-p8-1">
               <s xml:id="p8-1-s1">Jch hatte dieſes Exempel, mit aller Bequemlichkeiten, auf zwo kleine gegen ein-<lb/>
               ander uͤberliegende Quart-Seiten entworffen, nicht denckend, daß es im Druck<lb/>
-              zweimahl ſo viel Raums erfodern, noch dem Spieler die verhaſſete Muͤhe des Um-<lb/>
+              <app type="reprint"><lem wit="#secondEdition">zweimahl</lem><rdg wit="#secondEditionReprint">2mahl</rdg></app> ſo viel Raums erfodern, noch dem Spieler die verhaſſete Muͤhe des Um-<lb/>
               ſchlagens bey ſo geſchwinden Gaͤngen verurſachen solte.</s> <s xml:id="p8-1-s2">Jndeſſen weiſet es der Au-<lb/>
               genſchein, daß mit den <term xml:id="t_drucknoten-1" corresp="#t_drucknoten">Druck-Noten</term> nicht anders hat moͤgen verfahren werden:<lb/>
               weil die dreigeſchwaͤntzte unter ihnen ſo ſehr viel Platz einnehmen, daß auch bißwei-<lb/>
@@ -297,7 +301,7 @@
               gen faͤllt, ſondern auch veranlaſſet hat, daß man, wegen des Umſchlagens, hie<lb/>
               und da etwas abbrechen und zerreissen muͤssen, welches ſonſt beſſer zuſammen ge-<lb/>
               haͤnget haͤtte.</s> <s xml:id="p8-1-s4">Wie ich denn, unter andern, dadurch bewogen worden,
-              <hi rendition="#aq">p. 309</hi> am<lb/>
+              <hi rendition="#aq">p. <app type="reprint"><lem wit="#secondEdition">309</lem><rdg wit="#secondEditionReprint">298.</rdg></app></hi> am<lb/>
               Ende ein bißgen einzuflicken, <ref target="#m-914">einen Abſatz zu machen</ref>, und
               <ref target="#m-915">eine Pauſe zu ſetzen</ref>, die<lb/>
               mir zuvor nie in den Sinn gekommen war.</s> <s xml:id="p8-1-s5">Ein Verstaͤndiger wird es leicht mercken,<lb/>

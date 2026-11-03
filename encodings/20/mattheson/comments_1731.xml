@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -214,7 +218,7 @@
           <ptr target="music-example5.xml"/>
         </notatedMusic>
         <p xml:id="p5-2" facs="#facsZone-p5-2">
-          <lb/><s xml:id="p5-2-s1">Daß die letzten Noten mit dem Baß Octaven nehmen, gechiehet mit Fleiß, um den
+          <lb/><s xml:id="p5-2-s1">Daß die <app type="reprint"><lem wit="#secondEdition">letzten</lem><rdg wit="#secondEditionReprint">letzte</rdg></app> Noten mit dem Baß Octaven nehmen, geſchiehet mit Fleiß, um den
           <lb/>Haupt-Satz, der daſelbſt wieder einfaͤllt, deſto deutlicher auszudruͤcken; da dieſelben
           <lb/>Noten aber noch einmahl vorkommen, darff man ſie nicht auch noch einmahl mit
           <lb/>Octaven, ſondern gewoͤhnlicher Weiſe, wie das uͤbrige, ſpielen, damit abgewech-

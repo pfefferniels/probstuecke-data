@@ -37,7 +37,7 @@ checks that
      ID of their paragraph and their number in it: p1-1-s1, p1-1-s2, …
      (a warning only);
   5. in a print, every word of a paragraph of the running text belongs to a
-     sentence (notes, catchwords and the captions of figures aside).
+     sentence (notes, catchwords, the captions of figures and tables aside).
 
 The exit status is 0 if there are no problems, 1 otherwise.
 
@@ -64,7 +64,7 @@ REPO = Path(__file__).resolve().parent.parent
 PARSER = etree.XMLParser(resolve_entities=False, no_network=True, load_dtd=False)
 
 # text outside the running text of a paragraph
-ASIDE = {TEI + 'note', TEI + 'fw', TEI + 'figure', TEI + 'notatedMusic'}
+ASIDE = {TEI + 'note', TEI + 'fw', TEI + 'figure', TEI + 'notatedMusic', TEI + 'table'}
 
 
 def sentences(root):

@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -113,7 +117,7 @@
           <lb/><head>§. 1.</head>
           <lb/><p xml:id="p1-1" facs="#facsZone-p1-1">
             <s xml:id="p1-1-s1"><hi rendition="#in">M</hi>An wird des Lermens muͤde.</s> <s xml:id="p1-1-s2">Alle Muſic muß ihre <term xml:id="t_abwechslung-1" corresp="#t_abwechslung">Abwechſlung</term> haben:
-            <lb/> und wenn lange auf dem Clavier gedonnert worden iſt, ſo muß ei-
+            <lb/> und wenn lange genug auf dem Clavier gedonnert worden iſt, ſo muß ei-
             <lb/>ne Stille kom̃en.</s> <s xml:id="p1-1-s3">Jch meyne, es muß eine ſuͤſſe, liebliche Melodie, auf
             <lb/>etwas rauſchendes und brauſendes, folgen.</s>
           </p>
@@ -121,7 +125,7 @@
         <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
-            <s xml:id="p2-1-s1">Damit auch hierunter kein Mangel verſpuͤhret werde, ſo hat man, in ge-
+            <s xml:id="p2-1-s1">Damit denn auch hierunter kein Mangel verſpuͤhret werde, ſo hat man, in ge-
             <lb/>genwaͤrtiger Vorſchrift, einem Liebhaber des <term xml:id="t_auszierung-1" corresp="#t_auszierung #t_manieren">manierlichen</term> Spielens Gelegenheit
             <lb/>geben wollen, ſeinen Vorrath auszulegen, nehmlich an den Orten, wo die Wor-
             <lb/>te: <ref target="#si-suona-1 #si-suona-2"><hi rendition="#aq"><foreign xml:lang="ita"><term xml:id="t_si_suona-1" corresp="#t_si_suona">si ſuona</term></foreign></hi></ref>,
@@ -153,7 +157,7 @@
             <s xml:id="p3-1-s1">Wo das <ref target="#presto-000 #presto-001 #presto-002 #presto-003"><hi rendition="#aq">Presto</hi></ref>
             befindlich iſt, da greiffet man das Clavier aufs ſtaͤrckeſte, und
             <lb/>ſchlaͤgt zu jeder Note hurtig an.</s> <s xml:id="p3-1-s2">Die Abwechſelung kann hiebey nicht unangenehm
-            <lb/>ſeyn, ſondern wird zugleich den Studirenden ermuntern, und den Zuhoͤrer be-
+            <lb/>fallen; ſondern wird zugleich den Studirenden ermuntern, und den Zuhoͤrer be-
             <lb/>luſtigen.</s>
         </p>
       </div>
@@ -183,7 +187,7 @@
         <lb/><p xml:id="p5-1" facs="#facsZone-p5-1">
           <s xml:id="p5-1-s1">Uebrigens wird hierdurch der Satz bewieſen werden, <hi rendition="#b">daß, wer nicht <term xml:id="t_singen-2" corresp="#t_singen">ſin-
           <lb/>gen</term> koͤnne, auch nicht zu ſpielen wiſſe.</hi></s> <s xml:id="p5-1-s2">Solches moͤgte manchem Organiſten
-          <lb/>ungereimt vorkommen, inſonderheit denen in Staͤdten, die nicht zugleich Kuͤ-
+          <lb/>ungereimt vorkommen, inſonderheit denen in Staͤdten, die nicht zugleich das Kuͤ-
           <lb/>ſter-Amt mit verrichten; denn auf dem Lande iſt man aus Noth und Sparſam-
           <lb/>keit ſo beſcheiden, und widerſpricht mir hierin ſo wenig, daß auch beyde Aem-
           <lb/>ter einer Perſon aufgetragen werden, wodurch meiner Meynung ſehr viele Stim-
@@ -203,13 +207,13 @@
       <div n="6">
         <lb/><head>§. 6.</head>
         <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
-          <s xml:id="p6-1-s1">Es iſt aber unſre Sang-Regel nicht ſo zu verſtehen, daß einer nothwendig
-          <lb/>ſein Handwerck und Weſen davon machet, oder ein Saͤnger in der That ſeyn
-          <lb/>muͤſte, wenn er geſchicklich ſpielen will; Denn es gibt viele wackere Leute, die doch
-          <lb/>von der Natur keine Stimme zum Singen haben.</s> <s xml:id="p6-1-s2">Es ist auch nicht noͤthig, daß je-
+          <s xml:id="p6-1-s1">Es iſt aber unſre <app type="reprint"><lem wit="#secondEdition">Sang-Regel</lem><rdg wit="#secondEditionReprint">Regel</rdg></app> nicht ſo zu verſtehen, daß einer nothwendig
+          <lb/>ſein Handwerck und Weſen davon machen, oder ein Saͤnger in der That ſeyn
+          <lb/>muͤſſe, wenn er geſchicklich ſpielen will; denn es gibt viele wackere Leute, die doch
+          <lb/>von Natur keine Stimme zum Singen haben.</s> <s xml:id="p6-1-s2">Es ist auch nicht noͤthig, daß je-
           <lb/>dermann eben mit einer schoͤnen Kehle groß thun muͤſſe: den wenigſten ist ſie gege-
           <lb/>ben; aber die Wiſſenſchaft des <term xml:id="t_singen-1" corresp="#t_singen">Singens</term> muß nicht nur ein Componist, son-
-          <lb/>dern jeder General-Baſſiſt, ja jeder <term xml:id="t_instrumentalist-1" corresp="#t_instrumentalist">Jnstrumentaliſt</term>, inne haben, und wenn ſein
+          <lb/>dern jeder General-Baſſiſt, ja jeder <term xml:id="t_instrumentalist-1" corresp="#t_instrumentalist">Jnstrumentaliſt</term>, inne haben, <app type="reprint"><lem wit="#secondEdition">und</lem><rdg wit="#secondEditionReprint">u.</rdg></app> wenn ſein
           <lb/>Hals gleich nichts nutzet, ſo muͤſſen doch ſeine ſingenden Gedancken den Fingern
           <lb/>ihren Befehl ertheilen; ſonſt ist alles hoͤltzern und todt.</s> <s xml:id="p6-1-s3">Es wuſſte dieſes schon
           <persName corresp="#ed_u2g_xgy_qlb">D.

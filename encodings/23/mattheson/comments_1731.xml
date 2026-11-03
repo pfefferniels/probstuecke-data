@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -162,7 +166,7 @@
           <lb />auf der Probe ſtehendem, ein groſſer Troſt, wenn ich nicht nur zu dir, wie der Soldat
           <lb />zum Generalen, ſage: <hi rendition="#aq"><foreign xml:lang="fra">Je te le donne en quattre,</foreign></hi>, ich will dichs gerne viermahl
           <lb />durchſpielen laſſen, ehe es recht gelten ſoll; ſondern, <hi rendition="#aq"><foreign xml:lang="fra">Je te le donne en ſix</foreign></hi>, ich ge-
-          <lb />be dirs wol ſechs und mehrmahl frey.</s> <s xml:id="p3-1-s4">Siehe! den Troſt haſt du aus der Anwen-
+          <lb />be dirs <app type="reprint"><lem wit="#secondEdition">wol</lem><rdg wit="#secondEditionReprint"/></app> ſechs und mehrmahl frey.</s> <s xml:id="p3-1-s4">Siehe! den Troſt haſt du aus der Anwen-
           <lb />dung meiner kleinen Erzehlung.</s> <s xml:id="p3-1-s5">Drittens folget ja nothwendig daraus, wenn
           <lb />man dir Zeit la&#x0364;ſſt, das Stu&#x0364;ck vier- bis ſechsmahl u&#x0364;ber zu ſpielen, daß dir durch
           <lb />dieſe Uebung eine groſſe Erla&#x0364;uterung zuwachſen werde.</s> <s xml:id="p3-1-s6">Und da haſt du meine
@@ -184,8 +188,8 @@
             ſechs letztern</ref>,
           gantz langſam spielen ſolteſt; alsdann du&#x0364;rffteſt du leicht beſcha&#x0364;mt
           <lb />ſtehen.</s> <s xml:id="p4-1-s5">Jch ſehe nun nicht, wie dir weiter zu helffen, und wodurch dir ferner, in
-          <lb />dieſem Fall, einige Anleitung ko&#x0364;nne gegeben werden.</s> <s xml:id="p4-1-s6">Die Vorschſrifft iſt ſo gar
-          <lb />eigenſinnig, daß, wenn mir nicht dieſes Hiſto&#x0364;rgen dabey eingefallen wa&#x0364;re, ich
+          <lb />dieſem Fall, einige Anleitung ko&#x0364;nne gegeben werden.</s> <s xml:id="p4-1-s6">Die Vorſchrifft iſt ſo gar
+          <lb />eigenſinnig, daß, wenn <app type="reprint"><lem wit="#secondEdition">mir</lem><rdg wit="#secondEditionReprint">wir</rdg></app> nicht dieſes Hiſto&#x0364;rgen dabey eingefallen wa&#x0364;re, ich
           <lb />ſchwerlich ein Wort zu deinem Vortheil ha&#x0364;tte vorbringen ko&#x0364;nnen.</s>
         </p>
       </div>

@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -153,10 +157,10 @@
           <lb/><s xml:id="p2-1-s9">Jch schlage demnach hier keine beſondere Ordnung vor, ſondern verlange, daß
           <lb/>ſich einer, durch fleißige Uebung, feſt und unbeweglich zu einer eintzigen gewehne;
           <lb/>doch ſo, daß ſie auf alle Faͤlle paſſe: welches Nachdencken erfordert.</s> <s xml:id="p2-1-s10">Jn gar ge-
-          <lb/>meinen Gaͤngen iſt ſonſt nur dieſes zu beoabchten, daß man in der rechten Hand
+          <lb/>meinen Gaͤngen iſt ſonſt nur dieſes zu beobachten, daß man in der rechten Hand
           <lb/>aufwerts den Gold-<note type="editorial" resp="#pfeffer">i.e. Ringfinger</note>
-          und Mittel-Finger; unterwerts also aber Mittel- und Zeige-
-          <lb/>Finger nehme.</s> <s xml:id="p2-1-s11">Dahingegen sich die lincke Hand aufwerts des Zeige-Fingers und
+          und Mittel-Finger<app type="reprint"><lem wit="#secondEdition">; unterwerts aber den Mittel- und Zeige-
+          <lb/>Finger</lem><rdg wit="#secondEditionReprint"/></app> nehme.</s> <s xml:id="p2-1-s11">Dahingegen sich die lincke Hand aufwerts des Zeige-Fingers und
           <lb/>Daumens, herunter aber des Zeige- und Mittel-Fingers, Abwechſlungs-Weiſe, bedie-
           <lb/>net.</s> <s xml:id="p2-1-s12">Jch ſage, dieſes iſt der gemeine Weg und Unterricht; der ſich doch nur auf gar
           <lb/>wenige Vorfaͤlle ſchicket.</s>

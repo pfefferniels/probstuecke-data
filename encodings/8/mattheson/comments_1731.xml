@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -170,7 +174,7 @@
             <hi rendition="#b"><persName corresp="#ed_md2_fmx_qlb">Graupners</persName></hi> ſo genannten
             <lb/><name type="musicalWork" corresp="#ed_bj1_myc_tlb">Partien auf das Clavier</name>, oder aus meinem
             <hi rendition="#b"><name type="musicalWork" corresp="#ed_cx1_yqx_slb">Harmoniſchen Denckmahl</name></hi>, oder
-            <lb/>aus des Herrn Capellmeiſter <hi rendition="#b"><persName corresp="#ed_ngx_5lx_qlb">Bachs</persName></hi>
+            <lb/><app type="reprint"><lem wit="#secondEdition">aus</lem><rdg wit="#secondEditionReprint">auch</rdg></app> des Herrn Capellmeiſter <hi rendition="#b"><persName corresp="#ed_ngx_5lx_qlb">Bachs</persName></hi>
             <name type="musicalWork" corresp="#ed_vvh_xcd_tlb">Partite</name> dagegen zu halten, ſo wird er den Un-
             <lb/>terſchied leicht finden.</s> <s xml:id="p2-1-s3">Hand-Sachen wollen geuͤbet ſeyn, und wer ſich unterſtehet die-
             <lb/>ſelbe ſo gleich zu<term xml:id="t_treffen-1" corresp="#t_treffen">treffen</term>, handelt ſehr vermeſſen, und gedencket den Zuhoͤrern, durch
@@ -204,7 +208,7 @@
             <lb/>get ꝛc. gelten bey ſolchen frechen Treffern faſt gar nichts; <term xml:id="t_stolpern-1" corresp="#t_stolpern">Stolpern</term> und Taſchen-
             <lb/>ſpielen gehet in allen Zeilen vor; und wenn ein Ding auf ſolche Art zu Ende gebracht
             <lb/>worden iſt, ſo ſolls getroffen ſeyn.</s> <s xml:id="p2-1-s19">Koͤnnt ihr denn treffen? wolan! hier iſt was
-            <lb/>zu treffen: nur umgeſchlagen!</s>
+            <lb/>zu treffen:<app type="reprint"><lem wit="#secondEdition"> nur umgeſchlagen!</lem><rdg wit="#secondEditionReprint"/></app></s>
           </p>
           <fw place="bottom" type="catch">Neun-</fw>
         </div>

@@ -407,7 +407,7 @@
           <lb/>moͤglich iſt.</s> <s xml:id="p8-1-s3">Jndeſſen wolte ich wol etwas daran wenden, wenn, im Beyſeyn eini-
           <lb/>ger Kenner, ein Pflaſter-Treter und eingebildeter Meiſter ſich damit bloß gaͤbe.</s>
           <lb/><s xml:id="p8-1-s4">Jch will die Stelle nicht nennen, ſie wird ſich ſchon weiſen, und die <term xml:id="t_algebraische_organisten-1" corresp="#t_algebraische_organisten">Algebraiſten</term> wer-
-          <lb/>den ſie von ferne riechen: inſodernheit der <placeName>Quedlinburger</placeName>
+          <lb/>den ſie von ferne riechen: inſonderheit der <placeName>Quedlinburger</placeName>
           Hof-Organist<note type="editorial" resp="#pfeffer"><persName corresp="#ed_u1q_mlx_qlb">Andreas Werckmeister.</persName></note>,
           der die Leu-
           <lb/>te fuͤr Katzen haͤlt.</s>
@@ -415,17 +415,14 @@
         <notatedMusic xml:id="aria-bottari">
           <ptr target="aria-bottari.xml"/>
         </notatedMusic>
-      </div>
-      <!-- the aria fills pp. 388-391; its page breaks are in aria-bottari.xml -->
-      <pb n="391" facs="#facs-p453"/>
-
-      <div n="9">
-        <lb/><head>§. 9.</head>
-        <lb/><p xml:id="p9-1">
-          <lb/><s xml:id="p9-1-s1">Zu mercken ist hiebey, daß <hi rendition="#b">C mol</hi> und <hi rendition="#b">f mol <abbr>ꝛc.</abbr></hi> eben den Sprengel
-          <lb/>haben, und dannenhero gleich unerwartete Vorfaͤlle, mit dem
+        <!-- the aria fills pp. 388-391; its page breaks are in aria-bottari.xml.
+             The paragraph after it has no section number in the print -->
+        <pb n="391" facs="#facs-p453"/>
+        <lb/><p xml:id="p8-2">
+          <lb/><s xml:id="p8-2-s1">Zu mercken iſt hiebey, daß <hi rendition="#b">C mol</hi> und <hi rendition="#b">F mol <abbr>etc.</abbr></hi> eben den Sprengel
+          <lb/>haben, und dannenhero gleiche unerwartete Vorfaͤlle, mit dem
           <hi rendition="#b"><term xml:id="t_dis_moll-1" corresp="#t_dis_moll">Dis mol</term></hi> und
-          <lb/><hi rendition="#b">Gis mol</hi>, an die Hand gehen.</s> <s xml:id="p9-1-s2">Da es denn ſchoͤn laͤſt, wenn ein <term xml:id="t_algebraische_organisten-2" corresp="#t_algebraische_organisten">algebraischer</term> Orga-
+          <lb/><hi rendition="#b">Gis mol</hi>, an die Hand geben.</s> <s xml:id="p8-2-s2">Da es denn ſchoͤn laͤſt, wenn ein <term xml:id="t_algebraische_organisten-2" corresp="#t_algebraische_organisten">algebraischer</term> Orga-
           <lb/>niſte darinn ſtolpert.</s>
         </p>
       </div>

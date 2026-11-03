@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -139,8 +143,8 @@
         <div n="2">
           <lb/><head>§. 2.</head>
           <lb/><p xml:id="p2-1" facs="#facsZone-p2-1">
-            <s xml:id="p2-1-s1">Bey der letzten Helffte des beſagten <ref target="#m-101">vierten Tacts</ref> muß zu jedem Viertel ſechs
-            <lb/>mahl in der rechten Hand angeſchlagen werden, welches durchgehends bey gleichen
+            <s xml:id="p2-1-s1">Bey der letzten Helffte des beſagten <ref target="#m-101"><app type="reprint"><lem wit="#secondEdition">vierten</lem><rdg wit="#secondEditionReprint">4ten</rdg></app> Tacts</ref> muß zu jedem Viertel <app type="reprint"><lem wit="#secondEdition">ſechs
+            <lb/>mahl</lem><rdg wit="#secondEditionReprint">6mahl</rdg></app> in der rechten Hand angeſchlagen werden, welches durchgehends bey gleichen
             <lb/>Vorfaͤllen zu beobachten ſteht.</s> <s xml:id="p2-1-s2">Es ſind aber dieſe Viertel, wie zu erſehen, aus acht
             <lb/>Noten zusammen geſetzt, oder in ſo viel Theile zerleget: welches ich deſwegen erinne-
             <lb/>re, weil es ſonſt dem Leſer wunderlich vorkommen moͤgte, daß er auf einem eintzigen
@@ -158,7 +162,7 @@
             <fw place="bottom" type="catch">mahl</fw>
 
             <pb n="324" facs="#facs-p386"/>
-            <lb/>mahl, durch ſteigende Grade, in der rechten Hand herdurch, mit doppeltem Baß, auf
+            <lb/>mahl, durch ſteigende Grade, in der rechten Hand <app type="reprint"><lem wit="#secondEdition">herdurch</lem><rdg wit="#secondEditionReprint">hierdurch</rdg></app>, mit doppeltem Baß, auf
             <lb/>dieſe Weiſe:</s>
           </p>
           <notatedMusic xml:id="music-example2" facs="#facsZone-music-example2">
@@ -180,7 +184,7 @@
             <lb/>rechte Hand alles, was im vorhergehenden Tact geweſen, wieder gebrauchen
             <lb/>kann, wenn ſie nur aus dem <hi rendition="#b">g</hi> ein <hi rendition="#b">d</hi>
             machet, und ſo fortfaͤhret.</s> <s xml:id="p4-1-s2">Der <ref target="#m-533">dreizehnte
-            <lb/>Tact</ref> wird, wie er ſteht, geſchlagen: und die <ref target="#m-588">erſte Helffte des vierzehnten</ref> verlangt im
+            <lb/>Tact</ref> wird, wie er ſteht, geſchlagen: und die <ref target="#m-588"><app type="reprint"><lem wit="#secondEdition">erſte</lem><rdg wit="#secondEditionReprint">1ſte</rdg></app> Helffte des vierzehnten</ref> verlangt im
             <lb/>Diſcant das kleine <term xml:id="t_zwischenspiel-2" corresp="#t_zwischenspiel">Zwischen-Spiel</term> alſo anzufangen:</s>
           </p>
           <notatedMusic xml:id="music-example3" facs="#facsZone-music-example3">
@@ -212,7 +216,7 @@
 
           <lb/><head>§. 6.</head>
           <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
-            <s xml:id="p6-1-s1">Nun kehren wir den Satz, im <ref target="#m-962">drey und zwantzigſten Tact</ref>, ein wenig um, un
+            <s xml:id="p6-1-s1">Nun kehren wir den Satz, im <ref target="#m-962"><app type="reprint"><lem wit="#secondEdition">drey und zwantzigſten</lem><rdg wit="#secondEditionReprint">23.</rdg></app> Tact</ref>, ein wenig um, un
             <lb/>nehmen ihn ſo in der rechten Hand, wie es  die naͤchſte Tactmaſſe im Baß auf-
             <lb/>weiſet: jedoch um eine Tertz hoͤher.</s> <s xml:id="p6-1-s2">Daß sich beide Saͤtze, ruͤckwerts und vor-
             <lb/>werts, <term xml:id="t_umkehrung-1" corresp="#t_umkehrung">umkehren</term> laſſen, ſolches wird zugleich hiebey ein Liebhaber des <term xml:id="t_kontrapunkt-1" corresp="#t_kontrapunkt">Contra-Puncts</term>
@@ -236,9 +240,9 @@
           <p xml:id="p7-2" facs="#facsZone-p7-2">
             <s xml:id="p7-2-s1">Daraus einer ſiehet, daß dieſe Sachen keine bloſſe Grillen, leere Saͤtze, unordentliche
             <lb/>wilde Einfaͤlle, oder auch trockene Baͤſſe ſind; ſondern, daß alles aneinander
-            <lb/>haͤnget, und faſt keine Note zu finden iſt, die nicht ihrem gewiſſen Verhalt mit den
+            <lb/>haͤnget, und faſt keine Note zu finden iſt, die nicht ihren gewiſſen Verhalt mit den
             <lb/>uͤbrigen habe.</s> <s xml:id="p7-2-s2">Wenn man nun den Gegen-Satz etwa ein paarmahl hat hoͤren
-            <lb/>laſſen, ſo mag er gar gerne, zu dritten und viertelmahl, alſo variieret wer-
+            <lb/>laſſen, ſo mag er gar gerne, zum dritten- und viertenmahl, alſo variieret wer-
             <lb/>den.</s>
           </p>
           <notatedMusic xml:id="music-example5" facs="#facsZone-music-example5">
