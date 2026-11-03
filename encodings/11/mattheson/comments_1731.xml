@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -130,7 +134,7 @@
           <pb n="364" facs="#facs-p426"/>
           <lb/>Noten; es iſt wahr, man iſt es nicht gewohnt; das Papier ſcheinet auch etwas
           <lb/>durchzuſchlagen; er nehme es mit nach Hauſe, und laſſe es rein abſchreiben, das Ding
-          <lb/>verdient es wol; es hat einer gemacht, von dem der Herr gehoͤret, er koͤnne oder wolle
+          <lb/>verdient es wol; es hat einer gemacht, von dem der Herr gehoͤret, er koͤnne <app type="reprint"><lem wit="#secondEdition"/><rdg wit="#secondEditionReprint">es</rdg></app> oder wolle
           <lb/>auch ja componiren; Morgen kommen wir wieder zuſammen.</s>
         </p>
       </div>
@@ -228,7 +232,7 @@
           es eben auch ſo angehet,
           und daß im <ref target="#measure-0000000860603968">neun und zwantzigſten</ref>
           wieder-
-          <lb/>um die erſte Art vorfaͤllt.</s> <s xml:id="p5-1-s2">Vom
+          <lb/>um die erſte <app type="reprint"><lem wit="#secondEdition">Art</lem><rdg wit="#secondEditionReprint"/></app> vorfaͤllt.</s> <s xml:id="p5-1-s2">Vom
           <ref target="#measure-0000000919086642">vier und dreyſſigſten</ref> aber biß an den
           <ref target="#measure-0000000608266780">acht und
           <lb/>dreyſſigſten</ref> kann die rechte Hand gar manierlich

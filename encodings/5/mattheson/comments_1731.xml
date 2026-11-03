@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -203,13 +207,13 @@
       <div n="6">
         <lb/><head>§. 6.</head>
         <lb/><p xml:id="p6-1" facs="#facsZone-p6-1">
-          <s xml:id="p6-1-s1">Es iſt aber unſre Sang-Regel nicht ſo zu verſtehen, daß einer nothwendig
+          <s xml:id="p6-1-s1">Es iſt aber unſre <app type="reprint"><lem wit="#secondEdition">Sang-Regel</lem><rdg wit="#secondEditionReprint">Regel</rdg></app> nicht ſo zu verſtehen, daß einer nothwendig
           <lb/>ſein Handwerck und Weſen davon machen, oder ein Saͤnger in der That ſeyn
           <lb/>muͤſſe, wenn er geſchicklich ſpielen will; denn es gibt viele wackere Leute, die doch
           <lb/>von Natur keine Stimme zum Singen haben.</s> <s xml:id="p6-1-s2">Es ist auch nicht noͤthig, daß je-
           <lb/>dermann eben mit einer schoͤnen Kehle groß thun muͤſſe: den wenigſten ist ſie gege-
           <lb/>ben; aber die Wiſſenſchaft des <term xml:id="t_singen-1" corresp="#t_singen">Singens</term> muß nicht nur ein Componist, son-
-          <lb/>dern jeder General-Baſſiſt, ja jeder <term xml:id="t_instrumentalist-1" corresp="#t_instrumentalist">Jnstrumentaliſt</term>, inne haben, und wenn ſein
+          <lb/>dern jeder General-Baſſiſt, ja jeder <term xml:id="t_instrumentalist-1" corresp="#t_instrumentalist">Jnstrumentaliſt</term>, inne haben, <app type="reprint"><lem wit="#secondEdition">und</lem><rdg wit="#secondEditionReprint">u.</rdg></app> wenn ſein
           <lb/>Hals gleich nichts nutzet, ſo muͤſſen doch ſeine ſingenden Gedancken den Fingern
           <lb/>ihren Befehl ertheilen; ſonſt ist alles hoͤltzern und todt.</s> <s xml:id="p6-1-s3">Es wuſſte dieſes schon
           <persName corresp="#ed_u2g_xgy_qlb">D.

@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -116,7 +120,7 @@
             <lb/>die einen Alt ſingen: denn es ſchreyet alles den leidigen Diſcant.</s> <s xml:id="p1-1-s3">Bey ſo bewandten Umstaͤnden
             <lb/>lernet er nur ſeinen Schluͤssel kennen, und bekuͤmmert ſich dabey um keinen andern, als um den
             <lb/>Baß; damit iſt ſeine gantze Clavier-Weißheit aufgeschloſſen.</s> <s xml:id="p1-1-s4">Naͤchſt dieſem sind wir hier in Teut-
-            <lb/>schland guten Theils ſehr eckel, in Anſehung der Frantzoͤſiſchen <term xml:id="t_handsachen-1" corresp="#t_handsachen">Hand-Sachen</term>, ob wol ſonſt alles an-
+            <lb/>schland guten Theils ſehr eckel, in Anſehung der Frantzoͤſiſchen <term xml:id="t_handsachen-1" corresp="#t_handsachen">Hand-Sachen</term>, <app type="reprint"><lem wit="#secondEdition">ob</lem><rdg wit="#secondEditionReprint">da</rdg></app> wol ſonſt alles an-
             <lb/>dere, was Frantzoͤſiſch ſcheinet und heiſſet, angenommener und nachgeaͤffter Weiſe, auch ſo gar
             <lb/>das Tact-Pruͤgeln, bey uns willkommen ist.</s> <s xml:id="p1-1-s5">Jeder Lehrer vermeynet, seine eigene Geburten waͤ-
             <lb/>ren die beſten zum <term xml:id="t_unterricht-1" corresp="#t_unterricht">Unterricht</term>; ich aber halte dafuͤr, es mag einer noch ſo vortrefflich ſetzen, und
@@ -143,13 +147,13 @@
             <s xml:id="p1-2-s1">Wer nun in Frantzoͤſiſchen Hand-Stuͤcken etwas bewandert iſt, der wird ſchwerlich bey
             <lb/>den <term xml:id="t_schluesselwechsel-1" corresp="#t_schluesselwechsel">Schluͤſſeln</term> Schwierigkeit finden: maſſen die Veraͤnderung derſelben nirgend haͤuffiger vor-
             <lb/>kommt, ob ſich gleich ſonſt die Sachen wol halten laſſen.</s> <s xml:id="p1-2-s2">Drittens schaͤmet ſich ein Knabe oder Bursche, der
-            <lb/>einmahl dencket Organiſte zu werden, daß er ſolte eine Geige in die Hand nehmen, gerade, als waͤre
+            <lb/>einmahl dencket Organiſte zu werden, daß er ſolte eine Geige <app type="reprint"><lem wit="#secondEdition">in die Hand</lem><rdg wit="#secondEditionReprint"/></app> nehmen, gerade, als waͤre
             <lb/>es ſchimpfflich; benimmt man aber dieſe abgeſchmackte Ehrſucht ſeinem Untergebenen, und laͤſt ihn
             <lb/>zu Zeiten eine Mittel-Stimme oder ein
             <hi rendition="#aq"><foreign xml:lang="ita">Braccio</foreign></hi>
             mitſpielen, ſo werden ihm die Schluͤſſel beſſer einge-
             <lb/>druckt und bekannt werden.</s> <s xml:id="p1-2-s3">Doch hievon fuͤr dißmahl genug; nur muß ich ſagen, daß dieſer Man-
-            <lb/>gel mich veranlaſſet hat, das beſagte gemeine <term xml:id="t_altschluessel-1" corresp="#t_altschluessel">Alt-Zeichen</term> hier offt zu gebrauchen.</s>
+            <lb/>gel <app type="reprint"><lem wit="#secondEdition">mich</lem><rdg wit="#secondEditionReprint">nicht</rdg></app> veranlaſſet hat, das beſagte gemeine <term xml:id="t_altschluessel-1" corresp="#t_altschluessel">Alt-Zeichen</term> hier offt zu gebrauchen.</s>
           </p>
         </div>
 
@@ -172,8 +176,8 @@
             <s xml:id="p3-1-s1">Hiebey kann ich nicht unberuͤhret laſſen, was der
             <persName corresp="#ed_dwf_j5x_qlb">Herr von St. Lambert</persName>, in
             ſeinem <bibl xml:id="lambert-traite" xml:lang="fra"><hi rendition="#aq">Traité
-            <lb/>d'accompagnement p. 58.</hi></bibl>, von der <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken fuͤhret.</s> <s xml:id="p3-1-s2">Jch
-            <lb/>will die Worte immer verteutschen:
+            <lb/>d'accompagnement p. 58.</hi></bibl>, von <app type="reprint"><lem wit="#secondEdition">der</lem><rdg wit="#secondEditionReprint">her</rdg></app> <term xml:id="t_geschwindigkeit-1" corresp="#t_geschwindigkeit">Geſchwindigkeit</term> fuͤr beſonders traͤge Gedancken fuͤhret.</s> <s xml:id="p3-1-s2">Jch
+            <lb/>will <app type="reprint"><lem wit="#secondEdition">die</lem><rdg wit="#secondEditionReprint">dieſe</rdg></app> Worte immer verteutschen:
             <quote type="translation" xml:id="lambert-quote-trans" corresp="#lambert-quote">
               <hi rendition="#b">
                 Wenn ein ſo geſchwinder Tact vorkoͤmmt,

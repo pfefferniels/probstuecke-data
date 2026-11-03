@@ -1,98 +1,99 @@
 # Wording of the later, undated printing of 1731 (B: SUB Hamburg, MS 163/2b) against the first printing
 # (A: BSB München, Mus.th. 978 a), commentary of the Ober-Classe, Nos. 1-24. Partial collation, November 2026:
 # places found by OCR of B and by reading the surrounding text; B pp. 405-442 (Nos. 21-24) were read more
-# fully than the rest. Spelling is not recorded. Pages as printed.
+# fully than the rest. Spelling is not recorded. Pages as printed. (The transcription has since been corrected; A gives its reading.)
 # kind: wording, omission, addition, word order, reference (a cross-reference changed for B's pagination),
 # misprint, numbering, numeral (a number word set in figures), abbreviation.
 # checked: "A, B" = both prints seen; "B" = B seen, A's reading taken from comments_1731.xml.
-piece	A_page	B_page	A	B	kind	checked
-2	312	300	pag. 307.	pag. 295.	reference	B
-2	315	302	zweimahl ſo viel Raums	2mahl ſo viel Raums	numeral	B
-2	315	303	p. 309	p. 298.	reference	B
-3	319	306	aufwerts den Gold- und Mittel-Finger; unterwerts aber den Mittel- und Zeige-Finger nehme.	aufwärts den Gold- und Mittel-Finger nehme.	omission	A, B
-4	323	310	des beſagten vierten Tacts	des beſagten 4ten Tacts	numeral	B
-4	323	310	ſechs mahl in der rechten Hand	6mahl in der rechten Hand	numeral	B
-4	324	310	in der rechten Hand herdurch	in der rechten Hand hierdurch	wording	A, B
-4	324	311	die erſte Helffte des vierzehnten	die 1ſte Helffte des vierzehnten	numeral	B
-4	325	311	im drey und zwantzigſten Tact	im 23. Tact	numeral	B
-5	329	316	unſre Sang-Regel	unſre Regel	omission	A, B
-5	329	316	inne haben, und wenn ſein Hals	inne haben, u. wenn ſein Hals	abbreviation	A, B
-6	333	319	was man in dieſen Exempeln der rechten Hand	was man dieſen Exempeln der rechten Hand	omission	A, B
-6	333	319	ſo wird ers müſſen geben laſſen	ſo wird ers müſſen gehen laſſen	wording	A, B
-6	333	319	ob das Mittel gleich noch ſo gute Wirckung	ob das Mittel noch ſo gute Wirckung	omission	A, B
-6	334	320	die Brechungen aber in der Höhe	die Berechungen aber in der Höhe	misprint	A, B
-6	335	321	Anſchlagende Haupt-Gänge, pag. 331. lin. 3. tactu 5. u. ſ. w. biß zu Ende der Seite.	Anſchlagende Haupt-Gänge, pag. 317. lin. 5. tactu 5. u. ſ. w. bis zu Ende der Seite und Anfang der folgenden.	reference	A, B
-6	335	321	wie ich ſie hier gerne haben wollte, nicht anſtehen, der kann	wie ich ſie hier gerne haben wollte: der kann	omission	A, B
-6	335	321	und von ihm heiſſen können: Er hat ſeine Sache ſchon recht gethan!	und von ihm heiſſen: Er hat ſeine Sache ſchon recht gethan!	omission	A, B
-7	338	324	daß er ſolte eine Geige in die Hand nehmen	daß er ſolte eine Geige nehmen	omission	A, B
-7	338	324	ob wol ſonſt alles andere	da wol ſonſt alles andere	wording	A, B
-7	338	324	daß dieſer Mangel mich veranlaſſet hat	daß dieſer Mangel nicht veranlaſſet hat	wording	A, B
-7	338	324	von der Geſchwindigkeit	von her Geſchwindigkeit	misprint	A, B
-7	338	324	Jch will die Worte immer verteutſchen	Jch will dieſe Worte immer verteutſchen	wording	A, B
-8	345	330	oder aus des Herrn Capellmeiſter Bachs Partite	oder auch des Herrn Capell-Meiſter Bachs Partite	wording	A, B
-8	345	331	hier iſt was zu treffen: nur umgeſchlagen!	hier iſt was zu treffen:	omission (B prints the music on the same page; no page turn)	A, B
-10	359	345	(5) weil auf der vorhergehenden Seite, im andern Tact der zweiten Zeile, in der Sing-Stimme	(5) weil pag. 343 im andern Tact der ſechſten Zeile, in der Sing-Stimme	reference	B
-10	359	345	das erſtemahl pag. 358. tact. penult. über der Sylbe ne, das andermahl pag. 359. tact. 2. über der Sylbe ven-	das erſtemal pag. 344 tact. penult. der dritten Zeile über der Sylbe ne, das andremal tact. 2. der fünfften Zeile über der Sylbe ven-	reference	B
-11	364	349	er könne oder wolle auch ja componiren	er könne es oder wolle auch ja componiren	addition	B
-11	365	350	wiederum die erſte Art vorfällt	wiederum die erſte vorfällt	omission	A, B
-12	369	354	auſſer welcher hier ſonſt nichts geſuchet wird	auſſer welcher hier ſonſt nicht geſuchet wird	wording	A, B
-12	369	354	zu der fünfften Note, im zweiten Tact	zu der 5ten Note, im 2ten Tact	numeral	A, B
-12	369	354	die allhier zwiſchen dem bloſſen g	die zwiſchen den bloſſen g	omission	A, B
-12	369	354	Es iſt aber wol zu verſtehen	Es iſt zwar wol zu verſtehen	wording	A, B
-12	370	354	den zwey und zwantzigſten	den 22ſten	numeral	B
-12	370	354	den drey und zwantzigſten Tact	den 23ſten Tact	numeral	B
-12	370	354	auf den dritten Tact vor dem Schluſſe	auf den 3ten Tact vor dem Schluſſe	numeral	B
-12	369	354	im fünfften Tact des zweiten Theils	im 5ten Tact des zweiten Theils	numeral	B
-12	370	354	vermuthlich; natürlich angebracht, und alle; hie und da	vermuthl.; natürl. angebracht, u. alle; hie u. da	abbreviation	B
-12	370	355	auf der 356ſten Seite	auf der 341ſten Seite	reference	B
-13	374	359	und mag jener alte erfahrne Muſicus	u. mag jener alte erfahrne Muſicus	abbreviation	B
-13	377	362	Dieſes Harpeggio	Dieſer Harpeggio	wording	B
-14	380	364	und das hat er dann ſeiner Unbedachtſamkeit zu dancken	und das er dann ſeiner Unbedachtſamkeit zu dancken	omission	B
-14	380	364	§. 3.	§. 2.	numbering	B
-14	381	365	davon etwas herzuſetzen	davon etwas herzuſetze	misprint	B
-20	419	401	Daß die letzten Noten mit dem Baß Octaven nehmen	Daß die letzte Noten mit dem Baß Octaven nehmen	wording	A, B
-21	423	405	ſondern nur ſo fein	ſonder nur ſo fein	wording	B
-22	429	410	was nur wol klingt.	was nur wol kling.	misprint	A, B
-23	433	414	ich gebe dirs wol ſechs und mehrmahl frey	ich gebe dirs ſechs und mehrmahl frey	omission	A, B
-23	433	414	daß, wenn mir nicht dieſes Hiſtörgen dabey eingefallen	daß, wenn wir nicht dieſes Hiſtörgen dabey eingefallen	wording	A, B
-24	441	422	als dieſe Prob-Stücke	als dieſes Prob-Stücke	wording	A, B
-24	441	422	wenn derſelbe auch gleich nicht	wenn derſelben auch gleich nicht	wording	A, B
-24	443	424	deßwegen hätte ich die Sonate mir auch ſelber	deßwegen hätte ich auch die Sonate mir auch ſelber	addition	A, B
-24	443	424	unter dem Vorwand	unter den Vorwand	wording	B
-24	443	424	einfältigen Leuten einprägen	einfältigen Leute einprägen	wording	B
-24	443	424	u. zu tadeln	und zu tadeln	abbreviation	B
-24	444	425	wenigſtens vier groſſe	wenigſten vier groſſe	wording	B
-24	444	425	ob man ſich gleich in Briefen	ob man ſie gleich in Briefen	wording	A, B
-24	445	425	Denn Herr König weiß viel beſſer	Denn der Herr König weiß viel beſſer	addition	A, B
-24	445	425	dieſe drey Eigenſchafften zugleich in demſelben Grad, und in einer Perſon beſitze	dieſe drey Eigenſchafften zugleich in denſelben und in einer Perſon beſitze	omission	A, B
-24	445	425	Augen zu curiren, um das Wörtlein zugleich genau zu betrachten	Augen zu curiren, und das Wörtlein zugleich genau zu betrachten	wording	A, B
-24	445	426	daß es ohne allen Zweiffel ein köſtlicher Wein ſeyn müſſe	daß es ein köſtlicher Wein ſeyn müſſe	omission	A, B
-24	446	426	die Schmähungen des letztern	die Schmähungen der letztern	wording	A, B
-24	446	426	Hor. Epiſt. Libr. I.	Horat. Epiſt. Lib. 1.	abbreviation	B
-24	446	427	anbey im ſechſten und achten Tact	anbey in ſechſten und achten Tact	wording	B
-24	447	427	über dem fis, gis und b	über dem fis, gis und h	wording	A, B
-24	447	427	Den Griechen nichts nachzugeben	Den Griechen nicht nachzugeben	wording	A, B
-24	447	428	Numeri, Diatonici: H 1059.; Enharmonici: A 1155.	H 1056.; A 1156.	misprint (A agrees with the equal division of the octave; the table is not in the transcription)	A, B
-24	448	428	mit groſſen Ruhm	mit groſſem Ruhm	wording	B
-24	448	428	eine gantz andere Ordnung	eine gantze andre Ordnung	wording	B
-24	448	428	beſagter Sammlung geleſen	beſagter Sammlungen geleſen	wording	A, B
-24	448	429	che con l'iſteſſa facilità	che non l'iſteſſa facilità	wording (footnote)	A, B
-24	449	429	Memoir. de Buſſy, p. 105.	Memoir. de Buſſy, p. 10.	misprint (footnote)	A, B
-24	449	430	was vor hundert Jahren	was vor 100. Jahren	numeral	B
-24	450	430	qui n'etoient point en uſage	qui e n'etoient point en uſage	misprint (footnote, abridged in the transcription)	A, B
-24	452	431	wenn es ſo zur Unzeit gebraucht wird	wenn es zur Unzeit gebraucht wird	omission	A, B
-24	451	431	non facendo allora di meſtieri	non tacendo allora di meſtieri	misprint (footnote)	A, B
-24	452	432	iſt, u. ein ſolches	iſt, und ein ſolches	abbreviation	B
-24	455	434	Das h erhöhe, und das ♯ auch	Das ♮ erhöhete, und das ※ auch	wording	A, B
-24	455	434	füglich und ohne Zweydeutung	füglich u. ohne Zweydeutung	abbreviation	B
-24	456	435	die zierlichern Säiten	die zierlichen Säiten	wording	A, B
-24	458	436	Jſt ſonſt niemand damit gedienet	Jſt ſonſt niemand gedienet	omission	A, B
-24	458	436	der hieher gehöret, und ſo lautet:	der hieher gehöret, und lautet:	omission	A, B
-24	459	437	das commatiſch heiſſen wollte	das chromatiſch heiſſen wollte	wording	A, B
-24	461	439	die Irrthümer des Glareans	die Irrthümer des Glareanus	wording	A, B
-24	462	440	das die Octave in 31. Theile zerleget	das die Octaven in 31. Theile zerleget	wording	A, B
-24	462	440	daß ſich beide, Salin und Merſenn betrogen haben	daß ſie beide, Salin und Merſenn, betrogen haben	wording	A, B
-24	464	442	daß nur er allein den Preiß davon trage	daß nur er den Preiß allein davon trage	word order	A, B
-24	464	442	Denn, wenn ein jeder bloß für ſich	Denn wenn jeder bloß für ſich	omission	A, B
-24	464	442	wer nicht im Concert, ſondern zur Probe	wer nicht in Concert, ſondern zur Probe	wording	A, B
-24	464	442	ſo viel einer oder der andere davon zu miſſen hat	ſo viel einer oder der andere davon zu wiſſen hat	wording	A, B
+# status: "encoded" = an <app type="reprint"> in comments_1731.xml (lem: the first printing, rdg: #secondEditionReprint).
+piece	A_page	B_page	A	B	kind	checked	status
+2	312	300	pag. 307.	pag. 295.	reference	B	encoded
+2	315	302	zweimahl ſo viel Raums	2mahl ſo viel Raums	numeral	B	encoded
+2	315	303	p. 309	p. 298.	reference	B	encoded
+3	319	306	aufwerts den Gold- und Mittel-Finger; unterwerts aber den Mittel- und Zeige-Finger nehme.	aufwärts den Gold- und Mittel-Finger nehme.	omission	A, B	encoded
+4	323	310	des beſagten vierten Tacts	des beſagten 4ten Tacts	numeral	B	encoded
+4	323	310	ſechs mahl in der rechten Hand	6mahl in der rechten Hand	numeral	B	encoded
+4	324	310	in der rechten Hand herdurch	in der rechten Hand hierdurch	wording	A, B	encoded
+4	324	311	die erſte Helffte des vierzehnten	die 1ſte Helffte des vierzehnten	numeral	B	encoded
+4	325	311	im drey und zwantzigſten Tact	im 23. Tact	numeral	B	encoded
+5	329	316	unſre Sang-Regel	unſre Regel	omission	A, B	encoded
+5	329	316	inne haben, und wenn ſein Hals	inne haben, u. wenn ſein Hals	abbreviation	A, B	encoded
+6	333	319	was man in dieſen Exempeln der rechten Hand	was man dieſen Exempeln der rechten Hand	omission	A, B	encoded
+6	333	319	ſo wird ers müſſen geben laſſen	ſo wird ers müſſen gehen laſſen	wording	A, B	encoded
+6	333	319	ob das Mittel gleich noch ſo gute Wirckung	ob das Mittel noch ſo gute Wirckung	omission	A, B	encoded
+6	334	320	die Brechungen aber in der Höhe	die Berechungen aber in der Höhe	misprint	A, B	encoded
+6	335	321	Anſchlagende Haupt-Gänge, pag. 331. lin. 3. tactu 5. u. ſ. w. biß zu Ende der Seite.	Anſchlagende Haupt-Gänge, pag. 317. lin. 5. tactu 5. u. ſ. w. bis zu Ende der Seite und Anfang der folgenden.	reference	A, B	encoded
+6	335	321	wie ich ſie hier gerne haben wollte, nicht anſtehen, der kann	wie ich ſie hier gerne haben wollte: der kann	omission	A, B	encoded
+6	335	321	und von ihm heiſſen können: Er hat ſeine Sache ſchon recht gethan!	und von ihm heiſſen: Er hat ſeine Sache ſchon recht gethan!	omission	A, B	encoded
+7	338	324	daß er ſolte eine Geige in die Hand nehmen	daß er ſolte eine Geige nehmen	omission	A, B	encoded
+7	338	324	ob wol ſonſt alles andere	da wol ſonſt alles andere	wording	A, B	encoded
+7	338	324	daß dieſer Mangel mich veranlaſſet hat	daß dieſer Mangel nicht veranlaſſet hat	wording	A, B	encoded
+7	338	324	von der Geſchwindigkeit	von her Geſchwindigkeit	misprint	A, B	encoded
+7	338	324	Jch will die Worte immer verteutſchen	Jch will dieſe Worte immer verteutſchen	wording	A, B	encoded
+8	345	330	oder aus des Herrn Capellmeiſter Bachs Partite	oder auch des Herrn Capell-Meiſter Bachs Partite	wording	A, B	encoded
+8	345	331	hier iſt was zu treffen: nur umgeſchlagen!	hier iſt was zu treffen:	omission (B prints the music on the same page; no page turn)	A, B	encoded
+10	359	345	(5) weil auf der vorhergehenden Seite, im andern Tact der zweiten Zeile, in der Sing-Stimme	(5) weil pag. 343 im andern Tact der ſechſten Zeile, in der Sing-Stimme	reference	B	encoded
+10	359	345	das erſtemahl pag. 358. tact. penult. über der Sylbe ne, das andermahl pag. 359. tact. 2. über der Sylbe ven-	das erſtemal pag. 344 tact. penult. der dritten Zeile über der Sylbe ne, das andremal tact. 2. der fünfften Zeile über der Sylbe ven-	reference	B	encoded
+11	364	349	er könne oder wolle auch ja componiren	er könne es oder wolle auch ja componiren	addition	B	encoded
+11	365	350	wiederum die erſte Art vorfällt	wiederum die erſte vorfällt	omission	A, B	encoded
+12	369	354	auſſer welcher hier ſonſt nichts geſuchet wird	auſſer welcher hier ſonſt nicht geſuchet wird	wording	A, B	encoded
+12	369	354	zu der fünfften Note, im zweiten Tact	zu der 5ten Note, im 2ten Tact	numeral	A, B	encoded
+12	369	354	die allhier zwiſchen dem bloſſen g	die zwiſchen den bloſſen g	omission	A, B	encoded
+12	369	354	Es iſt aber wol zu verſtehen	Es iſt zwar wol zu verſtehen	wording	A, B	encoded
+12	370	354	den zwey und zwantzigſten	den 22ſten	numeral	B	encoded
+12	370	354	den drey und zwantzigſten Tact	den 23ſten Tact	numeral	B	encoded
+12	370	354	auf den dritten Tact vor dem Schluſſe	auf den 3ten Tact vor dem Schluſſe	numeral	B	encoded
+12	369	354	im fünfften Tact des zweiten Theils	im 5ten Tact des zweiten Theils	numeral	B	encoded
+12	370	354	vermuthlich; natürlich angebracht, und alle; hie und da	vermuthl.; natürl. angebracht, u. alle; hie u. da	abbreviation	B	encoded
+12	370	355	auf der 356ſten Seite	auf der 341ſten Seite	reference	B	encoded
+13	374	359	und mag jener alte erfahrne Muſicus	u. mag jener alte erfahrne Muſicus	abbreviation	B	encoded
+13	377	362	Dieſes Harpeggio	Dieſer Harpeggio	wording	B	encoded
+14	380	364	und das hat er dann ſeiner Unbedachtſamkeit zu dancken	und das er dann ſeiner Unbedachtſamkeit zu dancken	omission	B	encoded
+14	380	364	§. 3.	§. 2.	numbering	B	encoded
+14	381	365	davon etwas herzuſetzen	davon etwas herzuſetze	misprint	B	encoded
+20	419	401	Daß die letzten Noten mit dem Baß Octaven nehmen	Daß die letzte Noten mit dem Baß Octaven nehmen	wording	A, B	encoded
+21	423	405	ſondern nur ſo fein	ſonder nur ſo fein	wording	B	encoded
+22	429	410	was nur wol klingt.	was nur wol kling.	misprint	A, B	encoded
+23	433	414	ich gebe dirs wol ſechs und mehrmahl frey	ich gebe dirs ſechs und mehrmahl frey	omission	A, B	encoded
+23	433	414	daß, wenn mir nicht dieſes Hiſtörgen dabey eingefallen	daß, wenn wir nicht dieſes Hiſtörgen dabey eingefallen	wording	A, B	encoded
+24	441	422	als dieſe Prob-Stücke	als dieſes Prob-Stücke	wording	A, B	encoded
+24	441	422	wenn derſelbe auch gleich nicht	wenn derſelben auch gleich nicht	wording	A, B	encoded
+24	443	424	deßwegen hätte ich die Sonate mir auch ſelber	deßwegen hätte ich auch die Sonate mir auch ſelber	addition	A, B	encoded
+24	443	424	unter dem Vorwand	unter den Vorwand	wording	B	encoded
+24	443	424	einfältigen Leuten einprägen	einfältigen Leute einprägen	wording	B	encoded
+24	443	424	u. zu tadeln	und zu tadeln	abbreviation	B	encoded
+24	444	425	wenigſtens vier groſſe	wenigſten vier groſſe	wording	B	encoded
+24	444	425	ob man ſich gleich in Briefen	ob man ſie gleich in Briefen	wording	A, B	encoded
+24	445	425	Denn Herr König weiß viel beſſer	Denn der Herr König weiß viel beſſer	addition	A, B	encoded
+24	445	425	dieſe drey Eigenſchafften zugleich in demſelben Grad, und in einer Perſon beſitze	dieſe drey Eigenſchafften zugleich in denſelben und in einer Perſon beſitze	omission	A, B	encoded
+24	445	425	Augen zu curiren, um das Wörtlein zugleich genau zu betrachten	Augen zu curiren, und das Wörtlein zugleich genau zu betrachten	wording	A, B	encoded
+24	445	426	daß es ohne allen Zweiffel ein köſtlicher Wein ſeyn müſſe	daß es ein köſtlicher Wein ſeyn müſſe	omission	A, B	encoded
+24	446	426	die Schmähungen des letztern	die Schmähungen der letztern	wording	A, B	encoded
+24	446	426	Hor. Epiſt. Libr. I.	Horat. Epiſt. Lib. 1.	abbreviation	B	encoded
+24	446	427	anbey im ſechſten und achten Tact	anbey in ſechſten und achten Tact	wording	B	encoded
+24	447	427	über dem fis, gis und b	über dem fis, gis und h	wording	A, B	encoded
+24	447	427	Den Griechen nichts nachzugeben	Den Griechen nicht nachzugeben	wording	A, B	encoded
+24	447	428	Numeri, Diatonici: H 1059.; Enharmonici: A 1155.	H 1056.; A 1156.	misprint (A agrees with the equal division of the octave; the table is not in the transcription)	A, B	encoded
+24	448	428	mit groſſen Ruhm	mit groſſem Ruhm	wording	B	encoded
+24	448	428	eine gantz andere Ordnung	eine gantze andre Ordnung	wording	B	encoded
+24	448	428	beſagter Sammlung geleſen	beſagter Sammlungen geleſen	wording	A, B	encoded
+24	448	429	che con l'iſteſſa facilità	che non l'iſteſſa facilità	wording (footnote)	A, B	encoded
+24	449	429	Memoir. de Buſſy, p. 105.	Memoir. de Buſſy, p. 10.	misprint (footnote)	A, B	encoded
+24	449	430	was vor hundert Jahren	was vor 100. Jahren	numeral	B	encoded
+24	450	430	qui n'etoient point en uſage	qui e n'etoient point en uſage	misprint (footnote, abridged in the transcription)	A, B	not encoded: the transcription abridges the quotation
+24	452	431	wenn es ſo zur Unzeit gebraucht wird	wenn es zur Unzeit gebraucht wird	omission	A, B	encoded
+24	451	431	non facendo allora di meſtieri	non tacendo allora di meſtieri	misprint (footnote)	A, B	encoded
+24	452	432	iſt, u. ein ſolches	iſt, und ein ſolches	abbreviation	B	encoded
+24	455	434	Das h erhöhe, und das ♯ auch	Das ♮ erhöhete, und das ※ auch	wording	A, B	encoded
+24	455	434	füglich und ohne Zweydeutung	füglich u. ohne Zweydeutung	abbreviation	B	encoded
+24	456	435	die zierlichern Säiten	die zierlichen Säiten	wording	A, B	encoded
+24	458	436	Jſt ſonſt niemand damit gedienet	Jſt ſonſt niemand gedienet	omission	A, B	encoded
+24	458	436	der hieher gehöret, und ſo lautet:	der hieher gehöret, und lautet:	omission	A, B	encoded
+24	459	437	das commatiſch heiſſen wollte	das chromatiſch heiſſen wollte	wording	A, B	encoded
+24	461	439	die Irrthümer des Glareans	die Irrthümer des Glareanus	wording	A, B	encoded
+24	462	440	das die Octave in 31. Theile zerleget	das die Octaven in 31. Theile zerleget	wording	A, B	encoded
+24	462	440	daß ſich beide, Salin und Merſenn betrogen haben	daß ſie beide, Salin und Merſenn, betrogen haben	wording	A, B	encoded
+24	464	442	daß nur er allein den Preiß davon trage	daß nur er den Preiß allein davon trage	word order	A, B	encoded
+24	464	442	Denn, wenn ein jeder bloß für ſich	Denn wenn jeder bloß für ſich	omission	A, B	encoded
+24	464	442	wer nicht im Concert, ſondern zur Probe	wer nicht in Concert, ſondern zur Probe	wording	A, B	encoded
+24	464	442	ſo viel einer oder der andere davon zu miſſen hat	ſo viel einer oder der andere davon zu wiſſen hat	wording	A, B	encoded

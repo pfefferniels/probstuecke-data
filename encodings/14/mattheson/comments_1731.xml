@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -120,7 +124,7 @@
             <lb/>ſondern erſt fein beſcheidentlich erwege, wie und welcher Geſtalt es anzugreiffen, daß
             <lb/>er huͤbſch vorſichtiglich wandele, und ſich nicht viel bruͤſte.</s> <s xml:id="p1-1-s4">Wenn er auch gleich man-
             <lb/>chesmahl hie und da meynen ſolte, er ſitze oben darauff, und wolle was daruͤber lachen;
-            <lb/>ſo kommt gantz unvermuhtet ein Stoß, der ihn aus dem Sattel hebt: und das hat er
+            <lb/>ſo kommt gantz unvermuhtet ein Stoß, der ihn aus dem Sattel hebt: und das <app type="reprint"><lem wit="#secondEdition">hat</lem><rdg wit="#secondEditionReprint"/></app> er
             <lb/>dann ſeiner Unbedachtſamkeit zu dancken.</s>
           </p>
         </div>
@@ -140,11 +144,11 @@
         </div>
 
         <div n="3">
-          <lb/><head>§. 3.</head>
+          <lb/><head>§. <app type="reprint"><lem wit="#secondEdition">3.</lem><rdg wit="#secondEditionReprint">2.</rdg></app></head>
           <p xml:id="p3-1" facs="#facsZone-p3-1">
             <lb/><s xml:id="p3-1-s1">Die Septimen im <ref target="#measure-0000000128472588">elfften</ref> und <ref target="#measure-0000001841425997">zwoͤlfften Tact</ref> laſſen ſich auch auf dieſe Weiſe gar
             <lb/>artig behandeln, und faͤllt die Aufloͤſung einem von ſelbſten in die Hand.</s> <s xml:id="p3-1-s2">Es waͤre nur
-            <lb/>uͤberfluͤſſig davon etwas herzuſetzen, weil es auf die vorhin gewieſene Art auslaͤufft.</s>
+            <lb/>uͤberfluͤſſig davon etwas <app type="reprint"><lem wit="#secondEdition">herzuſetzen</lem><rdg wit="#secondEditionReprint">herzuſetze</rdg></app>, weil es auf die vorhin gewieſene Art auslaͤufft.</s>
             <lb/><s xml:id="p3-1-s3">Man darff nur den rechten Griff thun, und die Finger einen um den andern regen, ſo
             <lb/>hat es ſchon ſeine Richtigkeit.</s> <s xml:id="p3-1-s4">Es iſt eben nichts rares, auch nichts ſchweres daran;
             <lb/>dennoch lautet es wol.</s>

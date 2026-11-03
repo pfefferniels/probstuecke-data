@@ -72,6 +72,10 @@
             </typeDesc>
           </physDesc>
         </msDesc>
+        <listWit>
+          <witness xml:id="secondEdition">The first printing of 1731 (Bayerische Staatsbibliothek, Mus.th. 978 a), which this transcription follows</witness>
+          <witness xml:id="secondEditionReprint">The later, undated printing of 1731 (Staats- und Universitätsbibliothek Hamburg, MS 163/2b), set anew from the first</witness>
+        </listWit>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -220,13 +224,13 @@
           <lb/><ref target="#measure-0173914305">drey und ſechtzigſten</ref>
           und folgenden erſehe, wie jene muͤſſen behandelt werden; und
           <lb/>(5) weil
-          <ref target="#staff-0093433268">auf der vorhergehenden Seite, im andern Tact der zweiten Zeile, in der
+          <ref target="#staff-0093433268"><app type="reprint"><lem wit="#secondEdition">auf der vorhergehenden Seite,</lem><rdg wit="#secondEditionReprint">pag. 343</rdg></app> im andern Tact der <app type="reprint"><lem wit="#secondEdition">zweiten</lem><rdg wit="#secondEditionReprint">ſechſten</rdg></app> Zeile, in der
           <lb/>Sing-Stimme</ref>, und denn im zehnten und dreizehnten Tact des letzten Theils, das
           <lb/>erſtemahl
-          <ref target="#measure-2110501254"><hi rendition="#aq">pag. 358. tact. penult.</hi></ref> uͤber
+          <ref target="#measure-2110501254"><hi rendition="#aq">pag. <app type="reprint"><lem wit="#secondEdition">358.</lem><rdg wit="#secondEditionReprint">344</rdg></app> tact. penult.</hi></ref><app type="reprint"><lem wit="#secondEdition"/><rdg wit="#secondEditionReprint"> der dritten Zeile</rdg></app> uͤber
           <ref target="#verse-0479962947">der Sylbe <hi rendition="#aq">ne</hi></ref>, das andermahl
-          <ref target="#measure-1850066416"><hi rendition="#aq">pag. 359.
-          <lb/>tact.</hi> 2.</ref>
+          <ref target="#measure-1850066416"><hi rendition="#aq"><app type="reprint"><lem wit="#secondEdition">pag. 359.</lem><rdg wit="#secondEditionReprint"/></app>
+          <lb/>tact.</hi> 2.</ref><app type="reprint"><lem wit="#secondEdition"/><rdg wit="#secondEditionReprint"> der fuͤnfften Zeile</rdg></app>
           uͤber <ref target="#verse-0656479847">der Sylbe <hi rendition="#aq">ven-</hi></ref>ein
           <hi rendition="#aq"><foreign xml:lang="lat">Intervallum</foreign></hi> vorkoͤmmt, das unter die ſoge-
           <lb/>nannte gebraͤuchliche wol eben nicht zu zehlen iſt, und dennoch weiſet, wie ſich
