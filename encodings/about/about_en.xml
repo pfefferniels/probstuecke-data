@@ -131,12 +131,11 @@
           come from a word list kept with the data (<ref target="https://github.com/pfefferniels/probstuecke-data/tree/main/normalisation">normalisation/lexicon.tsv</ref>);
           words not listed only get the long s and the umlauts in modern form. Names and foreign words keep their
           spelling. The word list was started from the normalisation service CAB of the Deutsches Textarchiv and is
-          being reviewed; not every entry has been checked yet. Point at a word to see its original spelling. The
-          diplomatic view (the switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> /
+          being reviewed; not every entry has been checked yet. The diplomatic view (the switch <hi rendition="#i">Modern</hi> / <hi rendition="#i">Diplomatic</hi> /
           <hi rendition="#i">Facsimile</hi> at the top of the page) shows the commentary as printed instead, with the long s, the umlauts and the spelling of the print,
           and marks the end of each of its lines with a vertical stroke, as critical editions do (“gerne | mit”, within a
-          word “ſchwar-|tzen”); there, point at a word to see its modern form. The diplomatic transcription itself is
-          contained in the TEI files, which can be downloaded from every page.
+          word “ſchwar-|tzen”). The diplomatic transcription itself is contained in the TEI files, which can be
+          downloaded from every page.
         </p>
       </div>
 
@@ -145,8 +144,7 @@
         <p>
           On each page the score is on the left and the commentary on the right. Highlighted passages in the commentary
           refer to bars, notes or figures in the score: point at a passage to see them marked in the score, or at a marked
-          element in the score to find the passage. Point at a line of music to see it in the original print. On a touch
-          screen, tap instead of pointing, and tap a selected line of music again to see the print. The buttons above
+          element in the score to find the passage. On a touch screen, tap instead of pointing. The buttons above
           the score show or hide the upper staff with the right-hand passages notated in the print, and add or remove
           empty staves for writing out a realisation.
         </p>
