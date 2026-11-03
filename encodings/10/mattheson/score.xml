@@ -46,6 +46,19 @@
             <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
           </bibl>
         </source>
+        <source xml:id="secondEditionReprint" type="reprint">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <corpName role="publisher">Kißner</corpName>
+            <pubPlace>Hamburg</pubPlace>
+            <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+              in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+            <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+            <settlement>Hamburg</settlement>
+            <identifier type="shelfmark">MS 163/2b</identifier>
+            <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+          </bibl>
+        </source>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -337,11 +350,17 @@
                   <rest xml:id="m-149" dur="8" />
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1" xml:id="fb-05-01">
-                <fb>
-                  <f>♭</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): no figure ♭ over the first note after the change of clef -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1" xml:id="fb-05-01">
+                    <fb>
+                      <f>♭</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint" />
+              </app>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-05-02">
                 <fb>
                   <f>7</f>
@@ -923,18 +942,37 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1" xml:id="fb-19-01">
-                <fb>
-                  <choice>
-                    <reg resp="#rettinghaus">
-                      <f>7♭</f>
-                    </reg>
-                    <orig>
-                      <f>♭7</f>
-                    </orig>
-                  </choice>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure ♭5 -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1" xml:id="fb-19-01">
+                    <fb>
+                      <choice>
+                        <reg resp="#rettinghaus">
+                          <f>7♭</f>
+                        </reg>
+                        <orig>
+                          <f>♭7</f>
+                        </orig>
+                      </choice>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <choice>
+                        <reg resp="#rettinghaus">
+                          <f>5♭</f>
+                        </reg>
+                        <orig>
+                          <f>♭5</f>
+                        </orig>
+                      </choice>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-19-02">
                 <fb>
                   <choice>
@@ -2846,11 +2884,23 @@
                   </beam>
                 </layer>
               </staff>
-              <harm place="above" staff="2" tstamp="1" xml:id="fb-61-01">
-                <fb>
-                  <f>7</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure 6 -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="1" xml:id="fb-61-01">
+                    <fb>
+                      <f>7</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="1">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4" xml:id="fb-61-02">
                 <fb>
                   <f>7</f>

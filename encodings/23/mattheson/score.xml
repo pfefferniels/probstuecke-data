@@ -46,6 +46,19 @@
             <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
           </bibl>
         </source>
+        <source xml:id="secondEditionReprint" type="reprint">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <corpName role="publisher">Kißner</corpName>
+            <pubPlace>Hamburg</pubPlace>
+            <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+              in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+            <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+            <settlement>Hamburg</settlement>
+            <identifier type="shelfmark">MS 163/2b</identifier>
+            <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+          </bibl>
+        </source>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -644,11 +657,23 @@
                   <f>4</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="12">
-                <fb>
-                  <f>3</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure 4 instead of 3 over the last eighth b -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="12">
+                    <fb>
+                      <f>3</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="12">
+                    <fb>
+                      <f>4</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
             </measure>
             <sb source="#secondEdition" />
             <measure xml:id="measure-0000000342748751" n="15">
@@ -899,11 +924,17 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="4">
-                <fb>
-                  <f>♯</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): no figure ♯ over d -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="4">
+                    <fb>
+                      <f>♯</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint" />
+              </app>
               <harm place="above" staff="2" tstamp="7">
                 <fb>
                   <f>6</f>
@@ -1497,9 +1528,18 @@
             <measure xml:id="measure-0000000363339600" n="34">
               <staff n="2">
                 <layer>
-                  <note xml:id="note-0000000929693934" dur="4" oct="3" pname="b" />
-                  <rest xml:id="rest-0000000083103685" dur="8" />
-                  <rest xml:id="rest-0000001944642885" dur="8" />
+                  <!-- B (later printing): dotted quarter b and one eighth rest (A prints a quarter without dot and one eighth rest, encoded with two) -->
+                  <app type="reprint">
+                    <lem source="#secondEdition">
+                      <note xml:id="note-0000000929693934" dur="4" oct="3" pname="b" />
+                      <rest xml:id="rest-0000000083103685" dur="8" />
+                      <rest xml:id="rest-0000001944642885" dur="8" />
+                    </lem>
+                    <rdg source="#secondEditionReprint">
+                      <note dots="1" dur="4" oct="3" pname="b" />
+                      <rest dur="8" />
+                    </rdg>
+                  </app>
                   <beam>
                     <note xml:id="note-0000000264548021" dur="8" oct="4" pname="e" />
                     <note xml:id="note-0000002004706000" dur="8" oct="4" pname="d" accid.ges="s" />
@@ -1526,9 +1566,17 @@
               <staff n="2">
                 <layer>
                   <note xml:id="note-0000002085893268" dur="4" oct="4" pname="e">
-                    <supplied resp="#pfeffer">
-                      <dot />
-                    </supplied>
+                    <!-- B (later printing): augmentation dot printed after e -->
+                    <app type="reprint">
+                      <lem source="#secondEdition">
+                        <supplied resp="#pfeffer">
+                          <dot />
+                        </supplied>
+                      </lem>
+                      <rdg source="#secondEditionReprint">
+                        <dot />
+                      </rdg>
+                    </app>
                   </note>
                   <rest xml:id="rest-0000000947590745" dur="8" />
                   <beam>

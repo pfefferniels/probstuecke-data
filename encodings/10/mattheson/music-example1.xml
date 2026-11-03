@@ -25,6 +25,21 @@
                     </useRestrict>
                 </availability>
             </pubStmt>
+            <sourceDesc>
+                <source xml:id="secondEditionReprint" type="reprint">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+                            in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+                        <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+                        <settlement>Hamburg</settlement>
+                        <identifier type="shelfmark">MS 163/2b</identifier>
+                        <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+                    </bibl>
+                </source>
+            </sourceDesc>
         </fileDesc>
     </meiHead>
     <music>
@@ -107,12 +122,25 @@
                         <measure corresp="#m-1165" label="47">
                             <staff n="1">
                                 <layer n="1">
-                                    <chord xml:id="ex-1169" dots="1" dur="4">
-                                        <note xml:id="ex-1175" oct="5" pname="e" accid.ges="f" />
-                                        <note xml:id="ex-1173" oct="4" pname="b" accid.ges="f" dots="0" />
-                                        <note xml:id="ex-1172" oct="4" pname="g" dots="0" />
-                                        <note xml:id="ex-1170" oct="4" pname="e" accid.ges="f" dots="0" />
-                                    </chord>
+                                    <!-- B (later printing): the chord has no dot (a quarter; the bar is an eighth short) -->
+                                    <app type="reprint">
+                                        <lem source="#secondEdition">
+                                            <chord xml:id="ex-1169" dots="1" dur="4">
+                                                <note xml:id="ex-1175" oct="5" pname="e" accid.ges="f" />
+                                                <note xml:id="ex-1173" oct="4" pname="b" accid.ges="f" dots="0" />
+                                                <note xml:id="ex-1172" oct="4" pname="g" dots="0" />
+                                                <note xml:id="ex-1170" oct="4" pname="e" accid.ges="f" dots="0" />
+                                            </chord>
+                                        </lem>
+                                        <rdg source="#secondEditionReprint">
+                                            <chord dur="4">
+                                                <note oct="5" pname="e" accid.ges="f" />
+                                                <note oct="4" pname="b" accid.ges="f" />
+                                                <note oct="4" pname="g" />
+                                                <note oct="4" pname="e" accid.ges="f" />
+                                            </chord>
+                                        </rdg>
+                                    </app>
                                     <beam>
                                         <note xml:id="ex-1178" dur="16" oct="5" pname="e" accid.ges="f" />
                                         <note xml:id="ex-1181" dur="16" oct="5" pname="e" accid.ges="f" />

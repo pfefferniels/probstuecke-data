@@ -46,6 +46,19 @@
                         <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
                     </bibl>
                 </source>
+                <source xml:id="secondEditionReprint" type="reprint">
+                    <bibl>
+                        <title type="uniform">Grosse General-Baß-Schule</title>
+                        <corpName role="publisher">Kißner</corpName>
+                        <pubPlace>Hamburg</pubPlace>
+                        <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+                          in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+                        <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+                        <settlement>Hamburg</settlement>
+                        <identifier type="shelfmark">MS 163/2b</identifier>
+                        <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+                    </bibl>
+                </source>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -308,7 +321,16 @@
                         <measure xml:id="measure-0000000292018217" n="13">
                             <staff xml:id="staff-0000000185535918" n="1">
                                 <layer>
-                                    <mRest />
+                                    <!-- B (later printing): a half rest (sitting on the middle line) instead of the whole-bar rest; the rest of the bar is left empty -->
+                                    <app type="reprint">
+                                        <lem source="#secondEdition">
+                                            <mRest />
+                                        </lem>
+                                        <rdg source="#secondEditionReprint">
+                                            <rest dur="2" />
+                                            <space dur="2" />
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000000339790101" n="2">
@@ -327,7 +349,16 @@
                         <measure xml:id="measure-0000000499081087" n="14">
                             <staff xml:id="staff-0000001528578158" n="1">
                                 <layer>
-                                    <mRest />
+                                    <!-- B (later printing): a half rest (sitting on the second line from the top) instead of the whole-bar rest; the rest of the bar is left empty -->
+                                    <app type="reprint">
+                                        <lem source="#secondEdition">
+                                            <mRest />
+                                        </lem>
+                                        <rdg source="#secondEditionReprint">
+                                            <rest dur="2" />
+                                            <space dur="2" />
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000002015119437" n="2">
@@ -2049,11 +2080,21 @@
                         <measure xml:id="measure-0000001720664584" n="85">
                             <staff xml:id="staff-0000000837601468" n="1">
                                 <layer>
-                                    <note xml:id="note-0000000077191484" dur="1" oct="5" pname="e">
-                                        <orig>
-                                            <accid accid="f" />
-                                        </orig>
-                                    </note>
+                                    <!-- B (later printing): the whole note a step higher, f'' on the first ledger line, still with the flat before it -->
+                                    <app type="reprint">
+                                        <lem source="#secondEdition">
+                                            <note xml:id="note-0000000077191484" dur="1" oct="5" pname="e">
+                                                <orig>
+                                                    <accid accid="f" />
+                                                </orig>
+                                            </note>
+                                        </lem>
+                                        <rdg source="#secondEditionReprint">
+                                            <note dur="1" oct="5" pname="f">
+                                                <accid accid="f" />
+                                            </note>
+                                        </rdg>
+                                    </app>
                                 </layer>
                             </staff>
                             <staff xml:id="staff-0000001197624807" n="2">
@@ -2064,7 +2105,13 @@
                                     <note xml:id="note-0000001805896913" dur="4" oct="2" pname="b" accid.ges="f" />
                                 </layer>
                             </staff>
-                            <tie xml:id="tie-0000000808337568" startid="#note-0000000077191484" endid="#note-0000001607216398" />
+                            <!-- B (later printing): no tie -->
+                            <app type="reprint">
+                                <lem source="#secondEdition">
+                                    <tie xml:id="tie-0000000808337568" startid="#note-0000000077191484" endid="#note-0000001607216398" />
+                                </lem>
+                                <rdg source="#secondEditionReprint" />
+                            </app>
                         </measure>
                         <measure xml:id="measure-0000001037766854" n="86">
                             <staff xml:id="staff-0000001468490693" n="1">

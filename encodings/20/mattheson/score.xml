@@ -613,6 +613,17 @@
                   <f>♯</f>
                 </fb>
               </harm>
+              <!-- B (later printing): figure 6 over the e, the last note of the first group of sixteenths -->
+              <app type="reprint">
+                <lem source="#secondEdition" />
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="2.75">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4">
                 <fb>
                   <f>6</f>
@@ -2300,11 +2311,17 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="4">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): no figure -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="4">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint" />
+              </app>
             </measure>
             <measure xml:id="measure-0000000660372197" n="36">
               <staff xml:id="staff-0000001908952555" n="1">

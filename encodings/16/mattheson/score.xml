@@ -46,6 +46,19 @@
             <identifier type="URI">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10598495-7</identifier>
           </bibl>
         </source>
+        <source xml:id="secondEditionReprint" type="reprint">
+          <bibl>
+            <title type="uniform">Grosse General-Baß-Schule</title>
+            <corpName role="publisher">Kißner</corpName>
+            <pubPlace>Hamburg</pubPlace>
+            <annot>A later printing of the print of 1731, undated and set anew from it (VD18 12997536): title page
+              in black only, 460 pages, the errata of 1731 applied. Cited from the copy in Hamburg.</annot>
+            <corpName role="repository">Staats- und Universitätsbibliothek Hamburg</corpName>
+            <settlement>Hamburg</settlement>
+            <identifier type="shelfmark">MS 163/2b</identifier>
+            <identifier type="URI">https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049</identifier>
+          </bibl>
+        </source>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -812,14 +825,22 @@
                     <note xml:id="note-0000001061403259" dur="16" oct="3" pname="b" accid.ges="f" />
                   </beam>
                   <note xml:id="note-0000001289419574" dur="4" oct="4" pname="c">
-                    <choice>
-                      <sic>
-                        <accid accid.ges="f" />
-                      </sic>
-                      <corr type="corrigenda">
+                    <!-- B (later printing): natural in the staff, as the errata of 1731 ask -->
+                    <app type="reprint">
+                      <lem source="#secondEdition">
+                        <choice>
+                          <sic>
+                            <accid accid.ges="f" />
+                          </sic>
+                          <corr type="corrigenda">
+                            <accid accid="n" />
+                          </corr>
+                        </choice>
+                      </lem>
+                      <rdg source="#secondEditionReprint">
                         <accid accid="n" />
-                      </corr>
-                    </choice>
+                      </rdg>
+                    </app>
                   </note>
                   <note xml:id="note-0000001237163418" dur="4" oct="4" pname="d" accid.ges="f">
                     <supplied resp="#pfeffer">
@@ -1422,11 +1443,23 @@
                   <f>6</f>
                 </fb>
               </harm>
-              <harm place="above" staff="2" tstamp="4">
-                <fb>
-                  <f>6</f>
-                </fb>
-              </harm>
+              <!-- B (later printing): figure 8 (probable reading), and no turned sort before it as in A -->
+              <app type="reprint">
+                <lem source="#secondEdition">
+                  <harm place="above" staff="2" tstamp="4">
+                    <fb>
+                      <f>6</f>
+                    </fb>
+                  </harm>
+                </lem>
+                <rdg source="#secondEditionReprint">
+                  <harm place="above" staff="2" tstamp="4">
+                    <fb>
+                      <f>8</f>
+                    </fb>
+                  </harm>
+                </rdg>
+              </app>
               <harm place="above" staff="2" tstamp="4.5">
                 <fb>
                   <f>6⃥</f>
