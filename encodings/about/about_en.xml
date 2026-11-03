@@ -108,6 +108,76 @@
       </div>
 
       <div>
+        <head>Printings and Copies</head>
+        <p>
+          The 1731 treatise was printed twice. The first printing has a title page in red and black, dated 1731, and 484
+          pages, the last of them a list of misprints. A later printing, without a date on
+          its black title page, was set anew from the first: it has 460 pages, the misprints are corrected and the
+          spelling is modernised. This edition follows the earlier printing. A
+          <ref target="https://resolver.sub.uni-hamburg.de/kitodo/PPN833833049">digital copy</ref> of the later
+          printing is available from the Staats- und Universitätsbibliothek Hamburg (MS 163/2b).
+        </p>
+        <figure>
+          <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00007/full/400,/0/default.jpg">
+            <desc>Title page of the first printing, in red and black, dated 1731</desc>
+          </graphic>
+          <graphic url="https://pic.sub.uni-hamburg.de/iiif/2/PPN833833049%2F00000009.tif/200,380,1980,2520/400,/0/default.jpg">
+            <desc>Title page of the later printing, in black only, without a date</desc>
+          </graphic>
+          <head>
+            Title pages of the first (left, Bayerische Staatsbibliothek, Mus.th. 978 a) and of the later printing (right,
+            Staats- und Universitätsbibliothek Hamburg, MS 163/2b)
+          </head>
+        </figure>
+        <p>
+          Four copies of the first printing, all available as digital scans, have been compared in the Ober-Classe:
+        </p>
+        <list>
+          <item>Bayerische Staatsbibliothek: Mus.th. 978 a</item>
+          <item>
+            Bayerische Staatsbibliothek:
+            <ref target="https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb10598494-2">4 Mus.th. 978</ref>
+          </item>
+          <item>
+            Österreichische Nationalbibliothek:
+            <ref target="http://data.onb.ac.at/ABO/%2BZ136684000">ZMUS MAG 391602-B</ref>
+          </item>
+          <item>
+            Biblioteka Narodowa, Warsaw:
+            <ref target="https://polona.pl/item-view/c212a376-2bb2-4be7-9238-388448ca3010">Mus.I.235</ref>
+          </item>
+        </list>
+        <p>
+          These copies also show minor differences, among them two in the music. The edition encodes both readings of
+          each and follows the 1719 print:
+        </p>
+        <figure>
+          <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00402/1130,515,470,300/full/0/default.jpg">
+            <desc>Probstück 8, bar 3, in Mus.th. 978 a: the last note before the barline is c′</desc>
+          </graphic>
+          <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598494_00390/1091,524,469,297/full/0/default.jpg">
+            <desc>Probstück 8, bar 3, in 4 Mus.th. 978: the last note before the barline is b</desc>
+          </graphic>
+          <head>
+            Probstück 8, bar 3: the last note before the barline is c′ in Mus.th. 978 a (left) and in the Vienna copy,
+            b in 4 Mus.th. 978 (right), in the Warsaw copy and in 1719.
+          </head>
+        </figure>
+        <figure>
+          <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598495_00478/60,1340,520,250/full/0/default.jpg">
+            <desc>Probstück 20, bar 31, in Mus.th. 978 a, with a figure 6 over the first note</desc>
+          </graphic>
+          <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598494_00466/40,1355,523,253/full/0/default.jpg">
+            <desc>Probstück 20, bar 31, in 4 Mus.th. 978, without the figure</desc>
+          </graphic>
+          <head>
+            Probstück 20, bar 31: the figure 6 over the first note is printed in Mus.th. 978 a (left) and in 1719, but
+            missing in 4 Mus.th. 978 (right) and the other two copies.
+          </head>
+        </figure>
+      </div>
+
+      <div>
         <head>Selection</head>
         <p>
           Both versions of the treatise consist of a theoretical preparation, 24 easier examples and the 24 more
@@ -182,7 +252,10 @@
           <item>Realisations of Probstücke 10 and 14: Niels Pfeffer.</item>
           <item>Realisations of Probstücke 20 and 21: Larry Molinaro; encoding by Niels Pfeffer and Klaus Rettinghaus.</item>
           <item>Website: Niels Pfeffer.</item>
-          <item>Page images: Bayerische Staatsbibliothek, Munich.</item>
+          <item>
+            Page images: Bayerische Staatsbibliothek, Munich; on this page also Staats- und Universitätsbibliothek Hamburg
+            (title page of the later printing of 1731).
+          </item>
           <item>
             Software: <ref target="https://www.verovio.org/">Verovio</ref> for music notation,
             <ref target="https://www.deutschestextarchiv.de/doku/software#cab">CAB</ref> for the first version of the
@@ -205,7 +278,9 @@
         <p>
           The page images belong to the Bayerische Staatsbibliothek, Munich, which provides them under the rights
           statement <ref target="https://rightsstatements.org/vocab/NoC-NC/1.0/">No Copyright – Non-Commercial Use
-          Only</ref>.
+          Only</ref>. The title page of the later printing of 1731 on this page comes from the Staats- und
+          Universitätsbibliothek Hamburg, under the <ref target="https://creativecommons.org/publicdomain/mark/1.0/">Public
+          Domain Mark</ref>.
         </p>
         <p>
           The source code of the website is available in the
